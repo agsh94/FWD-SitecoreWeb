@@ -1,0 +1,45 @@
+﻿---
+ID: "ccd3b141-389e-4a66-806e-950b854ae492"
+Parent: "6d6fc8b5-e36f-4420-87b9-fe79749221fd"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/local-folder/ContentBlock"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T072044Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "Our healthcare plans look after you when you need it the most. This might be scans or diagnostic tests. Or simply a post-operation check-up. Our protection means you can be reassured that whatever happens, you’ll get the healthcare and expertise you need – without worrying about how much it costs."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdtestauthor
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Get the healthcare you need 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T134653Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: ไม่ว่าคุณต้องนอนโรงพยาบาล ต้องตรวจวินิจฉัยโรค ตรวจสแกนร่างกาย หรือต้องไปพบหมอหลังผ่าตัด แผนคุ้มครองสุขภาพของเราก็พร้อมดูแล เพื่อให้คุณมั่นใจว่าไม่ว่าจะเกิดอะไร คุณก็จะได้รับการรักษาและคำแนะนำที่ดีที่สุด โดยไม่ต้องกังวลเรื่องค่ารักษา เพราะเรารู้ว่าช่วงเวลาเหล่านี้คือช่วงเวลาที่คุณต้องการเรามากที่สุด
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: กับประกันสุขภาพที่ใช่สำหรับคุณ

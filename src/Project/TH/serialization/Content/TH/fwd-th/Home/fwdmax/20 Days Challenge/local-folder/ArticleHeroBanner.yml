@@ -1,0 +1,32 @@
+﻿---
+ID: "78491784-f22c-4de5-a95f-583c5e9b8efd"
+Parent: "7f94dbcf-4427-4517-b05b-12e628359303"
+Template: "d188c909-be9c-4149-9106-b25be4b6fb55"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/20 Days Challenge/local-folder/ArticleHeroBanner"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4573EFE0-6D5D-4A69-BC87-F46AFA1CD32D}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ec1b066-046b-4099-8dde-7ef17d1818a5"
+      Hint: mobileImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200412T205159Z
+    - ID: "43c58d25-8056-4ce0-b071-440c9f96ecf3"
+      Hint: image
+      Value: |
+        <image mediaid="{4C24D045-E61E-4C29-818B-72310EADCCDE}" cropx="0.48" cropy="0.41" focusx="-0.03508771929824561" focusy="0.1875" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit

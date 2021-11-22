@@ -1,0 +1,26 @@
+﻿---
+ID: "7470a42b-e669-40cc-a5f8-07606e901b82"
+Parent: "38b84f89-2fcf-422f-9e9b-f021db4b3a01"
+Template: "b2e7448a-0a96-48d4-b2c6-a45efe18cd8a"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Settings/socialShareOptions/twitter
+DB: master
+SharedFields:
+- ID: "16d8a5a3-ed8f-489b-86a0-02eb221fd6d1"
+  Hint: url
+  Value: |
+    <link text="Twitter Url" linktype="external" url="https://twitter.com/intent/tweet?text=" anchor="" target="" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Twitter
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200106T113127Z
+    - ID: "82e3f4c0-6aed-4f54-944c-b98968e322a8"
+      Hint: header
+      Value: Share on Twitter

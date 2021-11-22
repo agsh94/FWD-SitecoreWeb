@@ -1,0 +1,22 @@
+﻿---
+ID: "a84700d0-c105-4acc-a237-69a9af3fc248"
+Parent: "f96f6272-e4ea-40ff-a620-9c27683fdbb8"
+Template: "fff5f245-ffc0-4022-a998-9b07aa5e761f"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/cancer-fighter/local-folder"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{7D6BB8C2-D538-441D-82BF-D6AEC40B5929}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-1000"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200406T102142Z

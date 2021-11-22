@@ -1,0 +1,46 @@
+﻿---
+ID: "a6887b22-00b0-4dee-be1e-bc4bb29d90db"
+Parent: "4cc81b11-d2f8-4230-ae93-c231a4bff92c"
+Template: "c24acda9-af2d-4f91-b736-509937cc444e"
+Path: "/sitecore/content/fwd/fwd-th/Home/Announcements/local-folder/Announcements"
+DB: master
+SharedFields:
+- ID: "161ff25c-5221-4b9d-a2d8-993bd5371a76"
+  Hint: apiAllowPagination
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200614T094950Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "d7ce724c-2ece-4ca3-99ed-06b20e846322"
+      Hint: linkItems
+      Value: "{88AE5104-9B83-4FA0-B758-5477BB66B6A2}|{8112027B-7B0A-40BA-B78F-6B72812518F2}|{2BFE4F1A-F233-401D-8C0A-FFD203ADA201}|{6210DE82-74DE-49E6-85E9-B77E6B4F797A}|{38AA163F-C776-4A58-A5E9-7E825ED0F76C}"
+    - ID: "f39b7a44-d8d3-467c-949d-5a6a33a9bb8a"
+      Hint: title
+      Value: Announcements
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200614T094824Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "d7ce724c-2ece-4ca3-99ed-06b20e846322"
+      Hint: linkItems
+      Value: "{88AE5104-9B83-4FA0-B758-5477BB66B6A2}|{8112027B-7B0A-40BA-B78F-6B72812518F2}|{2BFE4F1A-F233-401D-8C0A-FFD203ADA201}|{6210DE82-74DE-49E6-85E9-B77E6B4F797A}|{38AA163F-C776-4A58-A5E9-7E825ED0F76C}"
+    - ID: "f39b7a44-d8d3-467c-949d-5a6a33a9bb8a"
+      Hint: title
+      Value: Announcements

@@ -1,0 +1,35 @@
+﻿---
+ID: "886ae614-cda6-4516-a3f5-a2735a36eb5a"
+Parent: "425be255-66e9-46c8-be68-4147ad31e324"
+Template: "7cd51b29-32c8-44bd-9afc-a2d5587d611c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/how-to-surrender-policy/local-folder/How to/Step 1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T023440Z
+    - ID: "2f5a22b8-fc21-4f5e-9046-64bc79c4ae0c"
+      Hint: title
+      Value: 1. Required documents
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T023646Z
+    - ID: "2f5a22b8-fc21-4f5e-9046-64bc79c4ae0c"
+      Hint: title
+      Value: 1. เอกสารประกอบการขอเวนคืนกรมธรรม์
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph

@@ -1,0 +1,29 @@
+﻿---
+ID: "7b982ae0-30e9-45b6-80d0-dffc1654edbd"
+Parent: "4fd58bdc-2e82-44a9-975e-3a16560ec52d"
+Template: "2861c185-fc81-4fdc-8e91-93de381c752e"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/thai-dessert/local-folder/ArticleDetails/Gallery9/Media"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b23ad3f-b76c-4a6a-830d-1434dd398ed6"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T012632Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c93d0c7b-6b3a-4e3a-a9b6-dc89062a8a6c"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{904B992B-EABF-4AA2-8DEF-A0C923973FF7}" />
+    - ID: "e5628949-939b-4454-b990-5b6c89e0be4d"
+      Hint: image
+      Value: |
+        <image mediaid="{904B992B-EABF-4AA2-8DEF-A0C923973FF7}" />

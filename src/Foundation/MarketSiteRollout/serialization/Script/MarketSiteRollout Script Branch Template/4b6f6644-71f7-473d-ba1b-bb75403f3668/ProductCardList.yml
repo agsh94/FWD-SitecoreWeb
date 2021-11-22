@@ -1,0 +1,42 @@
+﻿---
+ID: "5b1750a0-57ce-417d-ad2a-df1142405e93"
+Parent: "4b6f6644-71f7-473d-ba1b-bb75403f3668"
+Template: "b0c8d09d-d6f5-4496-a61a-50ce588fd374"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/local-folder/ProductCardList"
+DB: master
+SharedFields:
+- ID: "2250f909-bae3-415f-a645-9d07826b6566"
+  Hint: apiPageSize
+  Value: 9
+- ID: "8f397566-a4d1-4f23-8594-dce13b3720fe"
+  Hint: apiSortBy
+  Value: "{28C97C30-319A-403C-8D47-85EB8BAA708F}"
+- ID: "e82938f3-6c97-4755-9c0b-baf56b4a5e4f"
+  Hint: apiMobilePageSize
+  Value: 6
+- ID: "f3a8e282-a667-4cc5-96fd-c3223294cdf7"
+  Hint: filtersList
+  Type: Multilist
+  Value: |
+    {3D0213D6-2DBE-4871-809F-400C7F94FF21}
+    {0F0DE57E-1571-40BE-A20F-FFEE468D56D7}
+    {E34636EC-B2CB-4E69-9536-8FD4957C0322}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{FFF647D2-5413-408D-9168-AE8C73266C65}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Product Card List
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T130052Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

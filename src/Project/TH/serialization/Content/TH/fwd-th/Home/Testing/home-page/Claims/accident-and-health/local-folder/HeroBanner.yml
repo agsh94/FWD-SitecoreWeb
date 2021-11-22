@@ -1,0 +1,43 @@
+﻿---
+ID: "88e66cf8-feba-45fd-9ef1-ca8250e05e03"
+Parent: "eb2e32b1-7314-476f-b95d-c70f05409381"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Claims/accident-and-health/local-folder/HeroBanner"
+DB: master
+SharedFields:
+- ID: "b77299ed-f266-4dc3-94b1-455764394788"
+  Hint: share
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: Hospitalisation / Accident claims
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200323T123306Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: Hospitalisation / Accident claims
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200816T175143Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "f820a898-a94f-44f7-8066-b0d5f3ed4be3"
+      Hint: enableHeading
+      Type: Checkbox
+      Value: 1

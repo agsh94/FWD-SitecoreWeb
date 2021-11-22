@@ -1,0 +1,26 @@
+﻿---
+ID: "78cd20e3-a536-492c-92d7-c9d771416e2b"
+Parent: "67b23de7-dabe-497a-820a-ab51abc44805"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/ohkaju-organic-restaurant/local-folder/ArticleDetails/Description9"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1700
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T011257Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span>ความเฮลธ์ตี้ยังไม่หมด</span><span dir="RTL"> </span><span>หมวดซุปของที่นี่ก็มีให้เลือกมากมาย</span><span dir="RTL"> </span><span>ผมเลยสั่งซุปเห็ดสามอย่าง</span><span dir="RTL"> </span><span>ที่มีทั้ง</span><span dir="RTL"> </span><span>เห็ดชิตาเกะ</span><span dir="RTL"> </span><span>เห็ดเข็มทอง</span><span dir="RTL"> </span><span>และเห็ดออรินจิ</span><span dir="RTL"> </span><span>เห็ดล้วนๆ</span><span dir="RTL"> </span><span>ไม่มีส่วนผสมของครีม</span><span>และนม&nbsp;</span><span>โรยหน้าด้วยอัลมอนด์กรุบๆ</span><span dir="RTL"> </span><span>มันๆ</span><span dir="RTL"> </span><span>เสิร์ฟมาพร้อมขนมปังกรอบ</span><span dir="RTL"> </span><span>ใครชอบเห็ดบอกเลยว่าห้ามพลาด</span></p>

@@ -1,0 +1,14 @@
+﻿---
+ID: "7bb1fbe6-a28d-4123-8e90-e4703e596c38"
+Parent: "74137dc9-f82c-4849-9e86-a98803de32fc"
+Template: "fc204a62-4a17-4f6d-bb3e-e2916811f89f"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/about-us/News/article-detail-1/local-folder/ArticleDetails/Gallery"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T065739Z

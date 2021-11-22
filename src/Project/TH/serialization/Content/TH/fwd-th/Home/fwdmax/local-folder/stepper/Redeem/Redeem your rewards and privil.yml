@@ -1,0 +1,70 @@
+﻿---
+ID: "7aac685c-fb09-4a4b-ab0c-3cc7b7abdf80"
+Parent: "7cc95861-c4e4-4f31-a322-886cba70455c"
+Template: "8ad5bb9c-b124-437e-a0c3-34149b049fac"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/local-folder/stepper/Redeem/Redeem your rewards and privileges"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Redeem your rewards and privileges
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09325934-6951-45ec-bd07-c7fc996855b3"
+      Hint: description
+      Value: |
+        <p>At FWD MAX app, you can redeem special rewards and privileges with your points including movie tickets, department store vouchers, and exclusive discounts for restaurants and selected stores.</p>
+        <p>Remember: Your points expire every year. You can find the exact expiry date in the app. So act now and redeem your rewards!</p>
+        <p>If you need help or information, please contact us at <a href="tel:1315">1351</a>.</p>
+    - ID: "095b37a4-2a84-4177-8231-7a222abc9623"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{C26E0C1E-CCD4-408E-A109-AEBFC5B635F4}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200130T125038Z
+    - ID: "8a19dcac-8d5b-4e87-b1c9-14ba9ece9248"
+      Hint: subTitle
+      Value: 
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: Redeem your rewards and privileges
+    - ID: "f6728892-c596-4196-9d50-106592ed0f9f"
+      Hint: image
+      Value: |
+        <image mediaid="{C26E0C1E-CCD4-408E-A109-AEBFC5B635F4}" />
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: แลกรับของรางวัลและสิทธิพิเศษมากมาย
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09325934-6951-45ec-bd07-c7fc996855b3"
+      Hint: description
+      Value: ให้รางวัลครบทุกไลฟ์สไตล์ สิทธิพิเศษตอบทุกการใช้ชีวิตคุณ ไม่ว่าจะเป็นตั๋วหนัง บัตรกำนัลห้างสรรพสินค้าชั้นนำ หรือว่าจะเป็นส่วนลดพิเศษสุดเอ็กซ์คลูซีฟร้านอาหาร อุปกรณ์กีฬา ฯลฯ เราก็มีให้คุณเลือกตามความต้องการ
+    - ID: "095b37a4-2a84-4177-8231-7a222abc9623"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{C26E0C1E-CCD4-408E-A109-AEBFC5B635F4}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200219T090911Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8a19dcac-8d5b-4e87-b1c9-14ba9ece9248"
+      Hint: subTitle
+      Value: 
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: แลกรับของรางวัลและสิทธิพิเศษมากมาย
+    - ID: "f6728892-c596-4196-9d50-106592ed0f9f"
+      Hint: image
+      Value: |
+        <image mediaid="{C26E0C1E-CCD4-408E-A109-AEBFC5B635F4}" />

@@ -1,0 +1,65 @@
+﻿---
+ID: "2621bef1-2c78-47fc-9b75-499c8a17bf44"
+Parent: "fdb93d07-8299-44f7-be07-b03893aec7a6"
+Template: "979fdf53-37cb-434c-bbff-f7aaf6abaac0"
+Path: "/sitecore/content/fwd/fwd-th/Components/Forms/Policy Owner Service Form/Policy loan request form"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{A03E086C-A7FD-4FD0-8D38-AA313D696179}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "186c45f7-6f3f-446c-94ee-ec30fcf29dfb"
+      Hint: primaryNeedTags
+      Type: Multilist
+      Value: "{F21B83EF-A6E2-445C-8E35-4A7016F37B24}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T120040Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdtestauthor
+    - ID: "c9430c02-23e5-4887-87e5-872059655027"
+      Hint: topics
+      Value: "{23766708-80FB-4863-94A6-0B7BC8061F9E}"
+    - ID: "d57a04ff-b168-4c1e-8221-799439725666"
+      Hint: title
+      Value: Policy loan request form
+    - ID: "f55ccf38-f0bf-4b15-b4e9-edb6e07245b4"
+      Hint: contentType
+      Value: "{04E7400A-22DE-4392-A4AD-B78B7AA3B7A3}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T120111Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdtestauthor
+    - ID: "74eb711f-f1e9-4622-a04d-94f5ae11ef15"
+      Hint: description
+      Value:  
+    - ID: "c9430c02-23e5-4887-87e5-872059655027"
+      Hint: topics
+      Value: "{23766708-80FB-4863-94A6-0B7BC8061F9E}"
+    - ID: "d57a04ff-b168-4c1e-8221-799439725666"
+      Hint: title
+      Value: สัญญากู้เงินตามกรมธรรม์
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="สัญญากู้เงินตามกรมธรรม์" linktype="media" target="" id="{C59031C7-E6CE-446E-B815-F0C2D423985C}" />
+    - ID: "f55ccf38-f0bf-4b15-b4e9-edb6e07245b4"
+      Hint: contentType
+      Value: "{04E7400A-22DE-4392-A4AD-B78B7AA3B7A3}"

@@ -1,0 +1,95 @@
+﻿---
+ID: "a1d201f5-a8e0-4470-a2f7-22cf2578bdf5"
+Parent: "695eca3a-e704-4208-90ec-d429c1edd15e"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Life Protection/whole-life/local-folder/ContentBlock1"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Content Block 1
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1189664e-c462-4227-9fea-efb77771ad71"
+      Hint: enableFeaturedTags
+      Type: Checkbox
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200813T035245Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        Life is a continuation - what you do now impacts your family tomorrow. FWD&rsquo;s Whole Life 99/99 sets your family up for the life you want for them after you&rsquo;re gone. It means that if you die unexpectedly, your family will be protected financially. And if you die in your old age, they&rsquo;ll have a legacy to build their adult lives.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Let life continue through your loved ones
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200813T035321Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        เพราะสิ่งที่คุณทำในวันนี้ ส่งผลต่อครอบครัวในวันข้างหน้า ประกันชีวิตแบบตลอดชีพ 99/99 จากเอฟดับบลิวดี พร้อมเคียงข้างครอบครัว หากถึงเวลาที่คุณจากไป เพื่อให้พวกเขาได้ใช้ชีวิตที่ดีตามที่คุณวาดหวังไว้ ด้วยการมอบความมั่นคงทางการเงินอันเป็นมรดกที่คุณสร้างไว้ ให้พวกเขานำไปสร้างรากฐานที่มั่นคงในอนาคต
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ส่งมอบความรักและห่วงใยให้คนที่คุณรัก
+  - Version: 2
+    Fields:
+    - ID: "1189664e-c462-4227-9fea-efb77771ad71"
+      Hint: enableFeaturedTags
+      Type: Checkbox
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200923T072958Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        เพราะสิ่งที่คุณทำในวันนี้ ส่งผลต่อครอบครัวในวันข้างหน้า ประกันชีวิตแบบตลอดชีพ 99/99 จากเอฟดับบลิวดี พร้อมเคียงข้างครอบครัว เพื่อให้พวกเขาได้ใช้ชีวิตที่ดีตามที่คุณวาดหวังไว้ในวันที่คุณไม่อยู่ ด้วยการมอบความมั่นคงทางการเงินเป็นมรดกให้พวกเขานำไปสร้างรากฐานในอนาคต
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200923T072958Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ส่งมอบความรักและห่วงใยให้คนที่คุณรัก

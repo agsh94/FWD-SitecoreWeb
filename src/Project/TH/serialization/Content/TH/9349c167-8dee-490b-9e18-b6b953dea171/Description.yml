@@ -1,0 +1,31 @@
+﻿---
+ID: "050416dd-624a-4b9b-ac1f-80447c0b556c"
+Parent: "9349c167-8dee-490b-9e18-b6b953dea171"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Privileges/Privilege2/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T045426Z
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: "Cras quis nulla commodo, aliquam lectus sed, blandit augue: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat.Cras quis nulla commodo, aliquam lectus sed, blandit augue: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat.Cras quis nulla commodo, aliquam lectus sed, blandit augue: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat.Cras quis nulla commodo, aliquam lectus sed, blandit augue: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200311T094132Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: "Cras quis nulla commodo, aliquam lectus sed, blandit augue: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat.Cras quis nulla commodo, aliquam lectus sed, blandit augue: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat.Cras quis nulla commodo, aliquam lectus sed, blandit augue: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat.Cras quis nulla commodo, aliquam lectus sed, blandit augue: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat"

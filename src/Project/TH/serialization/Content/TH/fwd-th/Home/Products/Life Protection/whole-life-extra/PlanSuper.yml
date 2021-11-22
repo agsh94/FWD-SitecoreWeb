@@ -1,0 +1,150 @@
+﻿---
+ID: "e68ca2f8-1194-430f-bc9c-2cb08adbd0d4"
+Parent: "864bcb58-8e53-47ed-8e3a-7afa08838aa8"
+Template: "cc866566-6b97-4bdc-814e-353b4d5dc8c0"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Life Protection/whole-life-extra/PlanSuper"
+DB: master
+SharedFields:
+- ID: "139fac8d-ba0a-462c-a2e2-97b880ecb109"
+  Hint: minimumPremiumYearly
+  Value: 
+- ID: "1d7292b5-07c1-4268-b196-263841c6000a"
+  Hint: key
+  Value: "tool-tip"
+- ID: "3b1d1a2d-0fe8-4b7f-b2b1-eed79c64bb97"
+  Hint: channel
+  Value: TA
+- ID: "53341179-76ac-497a-a4c4-28eb7c6c422e"
+  Hint: enableEnquiry
+  Type: Checkbox
+  Value: 1
+- ID: "54426e36-0a60-4ada-93f3-916e31cf73af"
+  Hint: minimumSumAssured
+  Value: 100000
+- ID: "653be724-02c5-4bb7-8813-833c6443e1e4"
+  Hint: planCode
+  Value: WL15AA
+- ID: "902204f2-df95-45fa-b348-496743f27a4a"
+  Hint: maximumPremiumYearly
+  Value: 
+- ID: "9cb51dc0-7252-4372-8a9e-42fa7de2b4fd"
+  Hint: minAge
+  Value: "0-1-1"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "b78d7fa0-a532-4f1a-90c1-98b0770294d4"
+  Hint: maxAge
+  Value: "70-0-0"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "f41f9cfb-6e45-414e-aa8c-84b1c4148545"
+  Hint: maximumSumAssured
+  Value: 500000000
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Whole Life Extra-99/15"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191111T061821Z
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: Whole Life Extra (99/15)
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=15%20years&{59310316-8B9D-4849-AD89-E788BD74B265}=100%2C000&{EB470656-78FE-45D7-AA4A-D7D3051565A0}=1%20month%201%20day%20-%2070%20years&{5003D93E-AD2B-4A75-98A3-720DB202C221}=Age%20of%2099&{85EF5EEB-4A59-46D8-9E48-66B9481A92EF}=100%25%20of%20sum%20assured&{2C9E759C-72D0-4926-8D77-CC9ED5FBB00B}=100%25%20of%20sum%20assured&{1D80B261-E931-4CE4-ADD8-14C82987520C}=1%25%20of%20sum%20assured%20in%20cash%20return%20from%20end%20of%20year%201%20until%20age%20of%2099%20and%20opportunity%20to%20get%20dividend%20after%20policy%20year%2015&{F77203AC-4793-49AE-8550-78AF196A139F}=Yes%20%28for%20some%20age%29"
+    - ID: "b92c2dde-7a5d-47d6-a1a5-beb79513d9e8"
+      Hint: share
+      Type: Checkbox
+      Value: 1
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: Whole Life Extra (99/15)
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="Enquire" linktype="form" querystring="enquiry" target="" id="{136AA02C-41C6-4E79-88E1-7893B161A37F}" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: Plan
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: 
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Whole life extra-99/15"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055158Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: คุ้มชีวีเอ็กซ์ตร้า (99/15)
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=15%20%E0%B8%9B%E0%B8%B5&{59310316-8B9D-4849-AD89-E788BD74B265}=100%2C000&{EB470656-78FE-45D7-AA4A-D7D3051565A0}=1%20%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99%201%20%E0%B8%A7%E0%B8%B1%E0%B8%99%20%E2%80%93%2070%20%E0%B8%9B%E0%B8%B5&{5003D93E-AD2B-4A75-98A3-720DB202C221}=%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%2099%20%E0%B8%9B%E0%B8%B5&{85EF5EEB-4A59-46D8-9E48-66B9481A92EF}=100%25%20%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2&{2C9E759C-72D0-4926-8D77-CC9ED5FBB00B}=100%25%20%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2&{1D80B261-E931-4CE4-ADD8-14C82987520C}=%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B8%B7%E0%B8%99%201%25%20%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%9B%E0%B8%B5%20%E0%B8%95%E0%B8%B7%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%201%20%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%A3%E0%B8%9A%2099%20%E0%B8%9B%E0%B8%B5%20%E0%B8%A1%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%AA%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%9B%E0%B8%B1%E0%B8%99%E0%B8%9C%E0%B8%A5%20%E0%B8%93%20%E0%B8%AA%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%2015&{F77203AC-4793-49AE-8550-78AF196A139F}=%E0%B8%A5%E0%B8%94%E0%B8%AB%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8"
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: คุ้มชีวีเอ็กซ์ตร้า (99/15)
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="สอบถาม" linktype="form" querystring="enquiry" target="" id="{136AA02C-41C6-4E79-88E1-7893B161A37F}" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: แผนประกัน
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200814T030034Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: คุ้มชีวีเอ็กซ์ตร้า (99/15)
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=15%20%E0%B8%9B%E0%B8%B5&{59310316-8B9D-4849-AD89-E788BD74B265}=100%2C000%20%E0%B8%9A%E0%B8%B2%E0%B8%97&{EB470656-78FE-45D7-AA4A-D7D3051565A0}=1%20%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99%201%20%E0%B8%A7%E0%B8%B1%E0%B8%99%20%E2%80%93%2070%20%E0%B8%9B%E0%B8%B5&{5003D93E-AD2B-4A75-98A3-720DB202C221}=%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%2099%20%E0%B8%9B%E0%B8%B5&{85EF5EEB-4A59-46D8-9E48-66B9481A92EF}=100%25%20%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2&{2C9E759C-72D0-4926-8D77-CC9ED5FBB00B}=100%25%20%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2&{1D80B261-E931-4CE4-ADD8-14C82987520C}=%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B8%B7%E0%B8%99%201%25%20%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%9B%E0%B8%B5%20%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%AA%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%201%20%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%A3%E0%B8%9A%2099%20%E0%B8%9B%E0%B8%B5%20%E0%B8%A1%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%AA%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%9B%E0%B8%B1%E0%B8%99%E0%B8%9C%E0%B8%A5%20%E0%B8%93%20%E0%B8%AA%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%2015&{F77203AC-4793-49AE-8550-78AF196A139F}=%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%20%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%20100%2C000%20%E0%B8%9A%E0%B8%B2%E0%B8%97"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200814T030034Z
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: คุ้มชีวีเอ็กซ์ตร้า (99/15)
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="สอบถาม" linktype="form" querystring="enquiry" target="" id="{136AA02C-41C6-4E79-88E1-7893B161A37F}" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: แผนประกัน
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: 

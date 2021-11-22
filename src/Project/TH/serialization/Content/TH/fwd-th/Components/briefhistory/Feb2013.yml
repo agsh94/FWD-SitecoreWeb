@@ -1,0 +1,61 @@
+﻿---
+ID: "cb3e65f9-4b8d-4c43-96df-dbc68beeb6a2"
+Parent: "35add0ad-27b0-493b-b5e8-5825b45bfa74"
+Template: "991caea8-39ae-40d4-9a37-30d2477ee4f7"
+Path: "/sitecore/content/fwd/fwd-th/Components/briefhistory/Feb2013"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 2013
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191216T045043Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        FWD is focused on creating fresh customer experiences, with easy-to-understand products, supported by digital technology. Through this customer-led approach, FWD aims to become a leading pan-Asian insurer that changes the way people feel about insurance.<br />
+        <div>&nbsp;</div>
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Established in Asia in 2013, FWD is the insurance business of investment group, Pacific Century Group.
+    - ID: "fb502544-91cc-4a77-8c1b-3336417b7806"
+      Hint: sectionTitle
+      Value: February 2013
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T084012Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: เอฟดับบลิวดีมุ่งเน้นในการสร้างสรรค์ผลิตภัณฑ์ที่เข้าใจง่ายโดยใช้เทคโนโลยีดิจิตัล เพื่อให้ลูกค้าได้รับประสบการณ์ที่ดีและแตกต่างจากที่เคย เอฟดับบลิวดีมีเป้าหมายในการขึ้นสู่การเป็นบริษัทประกันชีวิตชั้นนำในเอเชียที่มีลูกค้าเป็นศูนย์กลาง เพราะเรามุ่งมั่นที่จะเปลี่ยนมุมมองใหม่ที่ผู้คนมีต่อการประกันชีวิต<br />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: เอฟดับบลิวดี บริษัทประกันชีวิตในเครือแปซิฟิก เซ็นจูรี กรุ๊ป ก่อตั้งขึ้นที่ทวีปเอเชีย ในปี พ.ศ. 2556
+    - ID: "fb502544-91cc-4a77-8c1b-3336417b7806"
+      Hint: sectionTitle
+      Value: กุมภาพันธ์ 2556

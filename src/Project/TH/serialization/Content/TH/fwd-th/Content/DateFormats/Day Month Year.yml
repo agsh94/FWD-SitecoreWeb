@@ -1,0 +1,43 @@
+﻿---
+ID: "ac01df3b-98fd-4c77-8122-f1cb61d33ebd"
+Parent: "2dd36889-800c-4559-91c9-ba622a5b5849"
+Template: "471e5ba2-0ea8-4fe6-9a4f-ea4333b2b57a"
+Path: "/sitecore/content/fwd/fwd-th/Content/DateFormats/Day Month Year"
+DB: master
+SharedFields:
+- ID: "0bb8c93b-a99d-46b3-8e18-fa27970a244c"
+  Hint: key
+  Value: "day-month-year"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201004T181931Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b95c8194-e837-46c4-ab8a-a5c6874359cf"
+      Hint: value
+      Value: D M YYYY
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201004T184452Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b95c8194-e837-46c4-ab8a-a5c6874359cf"
+      Hint: value
+      Value: D M YYYY

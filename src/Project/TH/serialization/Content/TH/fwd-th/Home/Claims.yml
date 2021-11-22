@@ -1,0 +1,230 @@
+﻿---
+ID: "69567d54-9813-4873-a169-dde101852fae"
+Parent: "d9c6779b-43e9-4106-8357-ad0510a8547c"
+Template: "c263467b-96fc-4048-931b-859a56911ca4"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{6B582687-B86A-4E3D-976D-53A2490611B3}"
+- ID: "5a8b95c0-14d6-4531-bd75-61b658cbfa25"
+  Hint: contentType
+  Value: "{58E30460-AC9F-45C2-8B0F-47E93979778B}"
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: "{FB2C4A8A-0593-44B7-B7C4-AE07AF4F8BB2}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1600
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;enableMargin&amp;divider" />
+        <r
+          uid="{F14117BF-375A-41DC-9CFD-159CCB228089}">
+          <p:d />
+        </r>
+        <r
+          uid="{191CD24B-E654-4C40-A11A-1E1CE958E21E}">
+          <p:d />
+        </r>
+        <r
+          uid="{98AB07E3-807A-4D0F-8FDE-DEBC000A98B2}">
+          <p:d />
+        </r>
+        <r
+          uid="{B30B4957-6918-4A61-9A2E-3E8E866BB2C8}">
+          <p:d />
+        </r>
+        <r
+          uid="{EA7F64CA-02B8-409F-A352-C24F77AF7A01}">
+          <p:d />
+        </r>
+        <r
+          uid="{E7BD6987-64F2-4835-A3ED-4C9EF6251F2A}"
+          p:after="r[@uid='{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}']"
+          s:ds="{E0D4525C-0437-4E3E-82F1-BC83C78C35AF}"
+          s:id="{5410E093-9B56-4C2F-B411-9FB3702CBC63}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText=hero+banner&amp;HeroBannerVariant=%7b0BDF58FF-C695-448B-BC29-6E1C8DC08D4E%7d&amp;backgroundColor=%7bCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7d&amp;PlayVideoInBackground&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{B262754E-B058-4DC8-9608-4C92DF8BE85E}"
+          p:after="r[@uid='{E7BD6987-64F2-4835-A3ED-4C9EF6251F2A}']"
+          s:ds="{4106378D-B9E0-4EA7-8B0D-A0AE26D55A16}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType=%7BE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7D&amp;IsMerge=1&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{A03601E8-A7A3-4E0B-BA64-C7B11C251B0B}"
+          p:after="r[@uid='{B262754E-B058-4DC8-9608-4C92DF8BE85E}']"
+          s:ds="{B48B74E3-3395-4CEE-8E71-478CBCBAE578}"
+          s:id="{944672DC-5710-4002-99CE-CBD9866B1199}"
+          s:par="variant=%7B92AFFA84-150D-471E-82AF-26F3438EAD8D%7D&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider=1"
+          s:ph="jss-main" />
+        <r
+          uid="{7552133F-9830-40C6-8684-B6A952D05D57}"
+          p:after="r[@uid='{A03601E8-A7A3-4E0B-BA64-C7B11C251B0B}']"
+          s:ds="{81376D85-5F73-4C51-83CC-01F02AEC90C9}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;contentBlockType&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{3A7C8572-AE8C-4B3F-88B1-D60960F82AA2}"
+          p:after="r[@uid='{7552133F-9830-40C6-8684-B6A952D05D57}']"
+          s:ds=""
+          s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+          s:par="numberOfColumns=%7B63A7FCF5-15A7-41A5-86EA-A3010A9D12AA%7D&amp;backgroundColor=%7BEBDF491B-A72E-47CA-A391-E44A39C9C329%7D%7C%7BEBDF491B-A72E-47CA-A391-E44A39C9C329%7D&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{BF962464-B625-494F-A295-37D8C9F50871}"
+          p:after="r[@uid='{3A7C8572-AE8C-4B3F-88B1-D60960F82AA2}']"
+          s:ds="{725F2B19-098A-4781-A41C-A5BFDBE4EA7C}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;contentBlockType=%7bE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7d&amp;backgroundColor=%7bEBDF491B-A72E-47CA-A391-E44A39C9C329%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge=1&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+          s:ph="/jss-main/jss-col-1-{3A7C8572-AE8C-4B3F-88B1-D60960F82AA2}-0" />
+        <r
+          uid="{C15232CA-3D89-4502-B652-A75D80EB6825}"
+          p:after="r[@uid='{BF962464-B625-494F-A295-37D8C9F50871}']"
+          s:ds="{BD83C9EE-9113-4E61-9A8A-879743702D6A}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;contentBlockType=%7bE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7d&amp;backgroundColor=%7bEBDF491B-A72E-47CA-A391-E44A39C9C329%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+          s:ph="/jss-main/jss-col-2-{3A7C8572-AE8C-4B3F-88B1-D60960F82AA2}-0" />
+        <r
+          uid="{4281926A-CE2E-4784-8932-159FA625E8A1}"
+          p:after="r[@uid='{C15232CA-3D89-4502-B652-A75D80EB6825}']"
+          s:ds="{DCA9CBE0-3682-47D9-B555-B6FB78DB4C5D}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{DD8C324D-73C1-461B-97B7-6001BA4C608F}"
+          p:after="r[@uid='{4281926A-CE2E-4784-8932-159FA625E8A1}']"
+          s:ds="{CFEBCF49-872B-48F7-8B0C-86AA90A4499F}"
+          s:id="{4BA37AC0-157B-47FE-B065-DED49DA74F3A}"
+          s:par="anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider=1"
+          s:ph="jss-main" />
+        <r
+          uid="{7C463F62-865A-4854-AC21-E5A75A66E466}"
+          p:after="r[@uid='{DD8C324D-73C1-461B-97B7-6001BA4C608F}']"
+          s:ds="{9964CE9C-6C8A-4864-A798-0B0C06E61937}"
+          s:id="{FC55218D-3368-4037-B642-7FD35BD96EA1}"
+          s:par="anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{747BE7BD-42F5-4C1D-9B55-AD032CA8EC60}"
+          p:after="r[@uid='{7C463F62-865A-4854-AC21-E5A75A66E466}']"
+          s:ds="{926EF32A-390E-4DB2-83F3-72517770F4C2}"
+          s:id="{E9189BB0-4352-4FC7-B5F6-7C992E35E897}"
+          s:par="buttonAlignment=%7B8570C16E-5CA9-4A85-8A62-C661A5B4350B%7D&amp;variant&amp;anchorText&amp;backgroundColor=%7BEBDF491B-A72E-47CA-A391-E44A39C9C329%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{8C18F6AE-E6DF-48E4-8667-A69ED7D676AA}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d" />
+      </d>
+    </r>
+- ID: "ff451472-1b55-4228-b14d-ab9b2a449792"
+  Hint: isPageSearchable
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E7BD6987-64F2-4835-A3ED-4C9EF6251F2A}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;anchorText=hero+banner&amp;HeroBannerVariant=%7b0B1166D9-2C27-4392-B0FB-C3E5F2C18380%7d&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;PlayVideoInBackground&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider" />
+            <r
+              uid="{3A7C8572-AE8C-4B3F-88B1-D60960F82AA2}"
+              s:par="carouselMode=%7b65BDD6C4-9B17-42DA-A050-72CEF86F370E%7d&amp;divider&amp;anchorText&amp;backgroundColor=%7bCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7d%7c%7bCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7d&amp;numberOfColumns=%7b63A7FCF5-15A7-41A5-86EA-A3010A9D12AA%7d&amp;paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d" />
+            <r
+              uid="{BF962464-B625-494F-A295-37D8C9F50871}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;contentBlockType=%7bE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7d&amp;backgroundColor=%7bB47928D6-98FC-4B29-8D0F-586AB477286E%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge=1&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider" />
+            <r
+              uid="{C15232CA-3D89-4502-B652-A75D80EB6825}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;contentBlockType=%7bE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7d&amp;backgroundColor=%7bEBDF491B-A72E-47CA-A391-E44A39C9C329%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider" />
+            <r
+              uid="{4281926A-CE2E-4784-8932-159FA625E8A1}">
+              <p:d />
+            </r>
+            <r
+              uid="{DD8C324D-73C1-461B-97B7-6001BA4C608F}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;anchorText&amp;backgroundColor=%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider=1" />
+            <r
+              uid="{7C463F62-865A-4854-AC21-E5A75A66E466}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;anchorText&amp;backgroundColor=%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T123721Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: At FWD Thailand we’re here to make claims as quick and easy as possible
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Claims
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: Insurance claims, claim, endorse the contract, endorse the insurance policy, how to claim insurance
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E7BD6987-64F2-4835-A3ED-4C9EF6251F2A}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;anchorText=hero+banner&amp;HeroBannerVariant=%7b0B1166D9-2C27-4392-B0FB-C3E5F2C18380%7d&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;PlayVideoInBackground&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider" />
+            <r
+              uid="{3A7C8572-AE8C-4B3F-88B1-D60960F82AA2}"
+              s:par="carouselMode=%7b65BDD6C4-9B17-42DA-A050-72CEF86F370E%7d&amp;divider&amp;anchorText&amp;backgroundColor=%7bCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7d%7c%7bCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7d&amp;numberOfColumns=%7b63A7FCF5-15A7-41A5-86EA-A3010A9D12AA%7d&amp;paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d" />
+            <r
+              uid="{DD8C324D-73C1-461B-97B7-6001BA4C608F}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;anchorText&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider=1" />
+            <r
+              uid="{7C463F62-865A-4854-AC21-E5A75A66E466}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;anchorText&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T063330Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: ที่เอฟดับบลิวดี ประเทศไทย เราพร้อมดูแลให้การเรียกร้องสินไหมของคุณง่าย สะดวกและรวดเร็วที่สุด
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: การเรียกร้องสินไหม
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: การเรียกร้องค่าสินไหมทดแทนจากประกัน, เรียกร้องสินไหม, สลักหลังสัญญา สลักหลังกรมธรรม์, วิธีเคลมประกัน

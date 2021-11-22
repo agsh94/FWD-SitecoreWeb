@@ -1,0 +1,46 @@
+﻿---
+ID: "286baa52-ced2-4202-bacc-40773b2e2545"
+Parent: "a2af7fdf-c0d7-49a3-a429-a1b9ddd5619a"
+Template: "4faa2cd7-63df-4c30-abb2-9d55380d2106"
+Path: "/sitecore/content/fwd/fwd-th/Components/headerLinks/header-navigation-links/Max"
+DB: master
+SharedFields:
+- ID: "0506ee6d-80ab-42a9-aa0d-06cb556b05b0"
+  Hint: pageType
+  Value: "{FB2C4A8A-0593-44B7-B7C4-AE07AF4F8BB2}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 225
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200312T184612Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B06FCBBE-D82F-45E6-8CF6-9907C875B081}" />
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: FWD MAX
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200316T190613Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B06FCBBE-D82F-45E6-8CF6-9907C875B081}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: เอฟดับบลิวดี แมกซ์

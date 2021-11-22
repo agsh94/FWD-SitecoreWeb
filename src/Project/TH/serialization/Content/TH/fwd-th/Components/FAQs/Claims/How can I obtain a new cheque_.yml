@@ -1,0 +1,124 @@
+﻿---
+ID: "93a6c1bf-a5d8-4fed-96cc-08a1b3ab9eb7"
+Parent: "e2478895-21a1-44b8-9ff9-eaa361c241f8"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Claims/How can I obtain a new cheque if my cheque was lost expired or I failed to receive it"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-50"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T013641Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "How can I obtain a new cheque if my cheque was lost, expired, or I failed to receive it?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <p>You can contact your agent, one of our branch offices, or our customer service at <a href="tel:1351">1351</a>. Simply inform us of the insured&rsquo;s name and policy number.</p>
+        <p><strong>Note:&nbsp;</strong><br />
+        If your cheque has expired, please return it to FWD at the following address and we will issue you with a new one:<br />
+        <br />
+        FWD Life Insurance Public Company Limited,<br />
+        14th floor, Sindhorn Building Tower 3, 130-132 Wireless Road, Lumpini, Pathumwan, Bangkok 10330</p>
+        <div>&nbsp;</div>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200914T122743Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "How do I obtain a replacement If my claims cheque is lost, expired or not received?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <p>You can contact your agent, one of our branch offices, or our customer service at <a href="tel:1351">1351</a>. Simply inform us of the insured&rsquo;s name and policy number.</p>
+        <p><strong>Note:&nbsp;</strong><br />
+        If your cheque has expired, please return it to FWD at the following address and we will issue you with a new one:<br />
+        <br />
+        FWD Life Insurance Public Company Limited,<br />
+        14th floor, Sindhorn Building Tower 3, 130-132 Wireless Road, Lumpini, Pathumwan, Bangkok 10330</p>
+        <div><strong>Note:&nbsp;</strong><br />
+        If your cheque has expired, please return it to FWD and we will issue you with a new one.<br />
+        If your cheque is lost, you&rsquo;ll also need to file a police report and send it to FWD at the following address:</div>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200914T122743Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T013544Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "กรณีที่เช็คสูญหาย เช็คหมดอายุ หรือยังไม่ได้รับเช็ค ต้องดำเนินการอย่างไรเพื่อติดต่อขอรับเช็คใหม่?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        คุณสามารถติดต่อแจ้งเรื่องได้ที่ ตัวแทนผู้ให้บริการ สาขาของบริษัททุกแห่งทั่วประเทศ หรือ ศูนย์บริการลูกค้าเอฟดับบลิวดี โทร <a href="tel:1351">1351</a> โดยแจ้งรายละเอียดของผู้เอาประกัน เช่น เลขที่กรมธรรม์ ชื่อ-นามสกุล   <br />
+        <br />
+        <strong>หมายเหตุ:</strong><br />
+         <p>กรณีเช็คหมดอายุ ให้ส่งเช็คฉบับดังกล่าวมายังบริษัทตามที่อยู่ด้านล่างนี้เพื่อทำการออกเช็คใหม่</p>
+        <p>บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) เลขที่ 130-132 ชั้นที่ 14 อาคารสินธร ทาวเวอร์ 3 ถนนวิทยุ แขวงลุมพินี เขตปทุมวัน กรุงเทพฯ 10330</p>
+        
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200914T122507Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "กรณีที่เช็คสูญหาย เช็คหมดอายุ หรือยังไม่ได้รับเช็ค ต้องดำเนินการอย่างไรเพื่อติดต่อขอรับเช็คใหม่?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        คุณสามารถติดต่อแจ้งเรื่องได้ที่ ตัวแทนผู้ให้บริการ สาขาของบริษัททุกแห่งทั่วประเทศ หรือ ศูนย์บริการลูกค้าเอฟดับบลิวดี โทร <a href="tel:1351">1351</a> โดยแจ้งรายละเอียดของผู้เอาประกัน เช่น เลขที่กรมธรรม์ ชื่อ-นามสกุล   <br />
+        <br />
+        <strong>หมายเหตุ:</strong><br />
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: black;">กรณีเช็คหมดอายุ กรุณาส่งเช็คฉบับดังกล่าวคืนมายังบริษัท เพื่อทำการออกเช็คใหม่<br />
+        กรณีเช็คสูญหาย&nbsp; กรุณาส่งใบแจ้งความเช็คสูญหายมายังบริษัท เพื่อทำการออกเช็คใหม่ ตามที่อยู่ด้านล่างนี้</span></p>
+        <p>บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) เลขที่ 130-132 ชั้นที่ 14 อาคารสินธร ทาวเวอร์ 3 ถนนวิทยุ แขวงลุมพินี เขตปทุมวัน กรุงเทพฯ 10330</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200914T122507Z

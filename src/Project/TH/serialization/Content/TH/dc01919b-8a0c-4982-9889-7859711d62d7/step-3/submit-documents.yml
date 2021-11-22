@@ -1,0 +1,39 @@
+﻿---
+ID: "9fe1ac69-a050-46fb-8151-b5a92ac29c8f"
+Parent: "6510ae2a-08c9-4719-8791-a9b0ad0e5e05"
+Template: "c0386c47-3ce2-4827-ba4c-f6df0fa16d1b"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Claims/General Insurance 2/local-folder/claim-process/step-3/submit-documents"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Submit documents
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191218T112017Z
+    - ID: "5bd917c5-c576-444d-8efb-e5c40cfef957"
+      Hint: title
+      Value: Submit documents
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T085430Z
+    - ID: "5bd917c5-c576-444d-8efb-e5c40cfef957"
+      Hint: title
+      Value: Submit documents
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

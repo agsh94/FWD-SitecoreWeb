@@ -1,0 +1,46 @@
+﻿---
+ID: "6b9f8c59-933e-4ca5-a77e-56e008fdf9a5"
+Parent: "f8e8a3d1-0dd2-4ea6-b333-fd80e6c840d1"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Sample Test En/local-folder/ContentBlock-Demo"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: "ContentBlock-Demo"
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{967BD10A-6DCA-4C1C-8093-EA5C755F9F41}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191031T063607Z
+    - ID: "2d067f06-5100-49e0-83d8-64858a7c9b50"
+      Hint: videoLink
+      Value: |
+        <file mediaid="{B0D34069-4739-43F8-9188-E5A9FEB9325D}" src="-/media/B0D34069473943F89188E5A9FEB9325D.ashx" />
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{967BD10A-6DCA-4C1C-8093-EA5C755F9F41}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: Our Life Insurance Plans offer you the stable protection and ensure financial security for your family. We also give you peace of mind knowing that your loved ones can stay strong if the unanticipated occurs.
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: "Want to be part of FWD?"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Join us" anchor="" linktype="internal" class="" title=""  querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"

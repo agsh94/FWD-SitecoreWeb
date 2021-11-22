@@ -1,0 +1,49 @@
+﻿---
+ID: "543bc7f0-e4d1-47a3-a927-984252e48dac"
+Parent: "0485ceef-e963-41da-98ed-e2329f24a9bf"
+Template: "7d6bb8c2-d538-441d-82bf-d6aec40b5929"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/quick-facts/local-folder/Quick Facts"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "e393d27b-259f-4774-91b7-a2965d57238d"
+  Hint: linkItems
+  Value: "{1BD32B99-0532-4D4F-B958-F2D1BEDB001A}"
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{96BC3A53-AB72-49EF-BA31-37D901B59263}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200625T094045Z
+    - ID: "2ed70c09-d8b1-4780-8037-dfe4ca6dd644"
+      Hint: title
+      Value: Quick Facts
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200625T120128Z
+    - ID: "2ed70c09-d8b1-4780-8037-dfe4ca6dd644"
+      Hint: title
+      Value:  ข้อเท็จจริงอย่างรวดเร็วในสีส้ม
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text=" ดาวน์โหลดเอกสารข้อเท็จจริง" linktype="anchor" url="" anchor="" title="" class="" />

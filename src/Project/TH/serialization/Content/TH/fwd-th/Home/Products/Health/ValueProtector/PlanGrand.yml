@@ -1,0 +1,133 @@
+﻿---
+ID: "d9912902-e6d8-4855-9d40-f6d438efb1e1"
+Parent: "5fc9f8e0-ab3e-4f52-8960-5b7eb81fd791"
+Template: "cc866566-6b97-4bdc-814e-353b4d5dc8c0"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/ValueProtector/PlanGrand"
+DB: master
+SharedFields:
+- ID: "139fac8d-ba0a-462c-a2e2-97b880ecb109"
+  Hint: minimumPremiumYearly
+  Value: 2000
+- ID: "1d7292b5-07c1-4268-b196-263841c6000a"
+  Hint: key
+  Value: "tool-tip"
+- ID: "3b1d1a2d-0fe8-4b7f-b2b1-eed79c64bb97"
+  Hint: channel
+  Value: TMB
+- ID: "53341179-76ac-497a-a4c4-28eb7c6c422e"
+  Hint: enableEnquiry
+  Type: Checkbox
+  Value: 1
+- ID: "54426e36-0a60-4ada-93f3-916e31cf73af"
+  Hint: minimumSumAssured
+  Value: 10000
+- ID: "653be724-02c5-4bb7-8813-833c6443e1e4"
+  Hint: planCode
+  Value: WN10N
+- ID: "6f7f082e-9af5-4b9c-8b4b-36aec3ffe71a"
+  Hint: minimumSumAssuredRule
+  Type: Multilist
+  Value: |
+    {0BFBCCD0-B6BB-41A3-BB46-EA7B437CE13E}
+    {DEAD9871-DC68-495E-83CA-0A502838CFCE}
+- ID: "902204f2-df95-45fa-b348-496743f27a4a"
+  Hint: maximumPremiumYearly
+  Value: 30000
+- ID: "9916acb2-f8e6-4480-b9a1-15ac7b642abe"
+  Hint: gaLabelName
+  Value: IVP 90/10
+- ID: "9cb51dc0-7252-4372-8a9e-42fa7de2b4fd"
+  Hint: minAge
+  Value: "0-1-1"
+- ID: "b78d7fa0-a532-4f1a-90c1-98b0770294d4"
+  Hint: maxAge
+  Value: "70-0-0"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f41f9cfb-6e45-414e-aa8c-84b1c4148545"
+  Hint: maximumSumAssured
+  Value: 200000
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: IVP 90/10
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1366eb03-0483-400f-bff6-9db88c60806a"
+      Hint: frequency
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191111T061821Z
+    - ID: "25f3120c-3cdd-42da-a48f-86194044e76b"
+      Hint: linkGALabelName
+      Value: Enquire
+    - ID: "3b5d22a4-b01c-4849-b726-6ec411222179"
+      Hint: premiumIndicativePrice
+      Value: 
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: IVP 90/10
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{EB470656-78FE-45D7-AA4A-D7D3051565A0}=16-65%20Years&{D62F6C2F-31A9-45EB-9009-09BBE356CC00}=Age%20of%2090&{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=20%20Years&{EFA87C91-1E0D-42BC-A58B-C37AEE9174C0}=5%20years"
+    - ID: "b92c2dde-7a5d-47d6-a1a5-beb79513d9e8"
+      Hint: share
+      Type: Checkbox
+      Value: 1
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: IVP 90/10
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="Enquire" linktype="form" querystring="enquiry" target="" id="{136AA02C-41C6-4E79-88E1-7893B161A37F}" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: Plan
+    - ID: "e00ce52c-6350-4a0f-b7df-6994f13c42c3"
+      Hint: sumAssuredIndicativePrice
+      Value: 
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: |
+        <p>This Package is makeup of&nbsp;</p>
+        <p>-&nbsp;<strong>Value Protector</strong></p>
+        <p><strong>- Cancer Fighter</strong></p>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055158Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: IVP 90/10
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{EB470656-78FE-45D7-AA4A-D7D3051565A0}=16-65%20Years&{D62F6C2F-31A9-45EB-9009-09BBE356CC00}=Age%20of%2090&{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=20%20Years&{EFA87C91-1E0D-42BC-A58B-C37AEE9174C0}=5%20years"
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: IVP 90/10
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="Enquire" linktype="form" querystring="enquiry" target="" id="{136AA02C-41C6-4E79-88E1-7893B161A37F}" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: Product
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: |
+        <p>This Package is makeup of&nbsp;</p>
+        <p>-&nbsp;<strong>Value Protector</strong></p>
+        <p><strong>- Cancer Fighter</strong></p>

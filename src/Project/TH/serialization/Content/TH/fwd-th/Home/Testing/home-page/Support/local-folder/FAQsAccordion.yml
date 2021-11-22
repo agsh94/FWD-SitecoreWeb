@@ -1,0 +1,47 @@
+﻿---
+ID: "e8f00e73-575f-4892-9dd0-4c82690dbd29"
+Parent: "e8bc2a3d-340b-44f8-9744-b282bae2dfba"
+Template: "14cf212d-7cf4-41aa-b50b-24d748a87556"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Support/local-folder/FAQsAccordion"
+DB: master
+SharedFields:
+- ID: "f973c399-5998-47a5-ae48-760ebed901b1"
+  Hint: faqItems
+  Value: "{816501B6-9829-4FF4-B100-BC50CE0A3B49}|{7A35112C-41F2-4ED5-A780-EA9AF856C698}|{8B1D4927-F386-4601-8BE6-5302D0C425EC}|{7278B1B3-A76B-46BB-898E-6869FCBFA206}|{C362184B-70BB-486B-AD6E-F1ED2ECED7E5}|{9894E5F5-8BC0-493E-8EB2-1DF51360038D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191014T062541Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See more FAQs" anchor="" linktype="internal" class="" title=""  querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: FAQ
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T104947Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See more FAQs" anchor="" linktype="internal" class="" title=""  querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: คำถามที่พบบ่อย

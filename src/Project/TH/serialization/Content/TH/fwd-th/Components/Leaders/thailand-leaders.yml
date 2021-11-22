@@ -1,0 +1,52 @@
+﻿---
+ID: "2e14c608-31d3-4365-9a5d-2483de408270"
+Parent: "564612ff-4f12-4f79-826f-f1e9417c7865"
+Template: "de4d5f49-8fde-4c71-9a10-fca834ec4653"
+Path: "/sitecore/content/fwd/fwd-th/Components/Leaders/thailand-leaders"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Thailand Leaders
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "203b1f26-515b-46a0-b4ec-afce67afa10e"
+      Hint: cardVariant
+      Value: "{C0DF1746-485D-4546-AEB1-6F1313FE52D9}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T094826Z
+    - ID: "4c2f1c3a-fe8d-46cc-9be5-db4d0b284b35"
+      Hint: enableShowMore
+      Type: Checkbox
+      Value: 0
+    - ID: "4c346442-e859-4efd-89b2-44aedf467d21"
+      Hint: __Valid to
+      Value: 20201001T000000Z
+    - ID: "b8f42732-9cb8-478d-ae95-07e25345fb0f"
+      Hint: __Hide version
+      Type: checkbox
+      Value: 0
+    - ID: "bd4e7815-e890-4c5c-ac23-946cca311a97"
+      Hint: title
+      Value: Our leadership in Thailand  
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "203b1f26-515b-46a0-b4ec-afce67afa10e"
+      Hint: cardVariant
+      Value: "{C0DF1746-485D-4546-AEB1-6F1313FE52D9}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T084343Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "bd4e7815-e890-4c5c-ac23-946cca311a97"
+      Hint: title
+      Value: ผู้บริหารเอฟดับบลิวดีประจำประเทศไทย

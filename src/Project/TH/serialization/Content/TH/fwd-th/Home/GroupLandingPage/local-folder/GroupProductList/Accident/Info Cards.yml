@@ -1,0 +1,29 @@
+﻿---
+ID: "77b271b7-ab85-4ce7-a7ae-bc51c7050ea8"
+Parent: "322b7edd-2ec2-49b6-96d0-4069426ac4b4"
+Template: "128c8d06-48c1-46ed-b80e-904cc3de68e0"
+Path: "/sitecore/content/fwd/fwd-th/Home/GroupLandingPage/local-folder/GroupProductList/Accident/Info Cards"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{62325097-AE15-41E7-9B9B-71183D16218E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200121T100537Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T115847Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

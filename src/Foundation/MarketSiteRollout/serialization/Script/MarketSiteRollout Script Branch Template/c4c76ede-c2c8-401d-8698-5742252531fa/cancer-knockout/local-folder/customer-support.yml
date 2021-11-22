@@ -1,0 +1,64 @@
+﻿---
+ID: "1df3b01a-a513-4116-8ddc-478caa881e09"
+Parent: "79b0f918-56f9-4453-b28e-20c9d69ceda8"
+Template: "83a147f2-89ba-4a48-8222-4b73ffe65216"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Health/cancer-knockout/local-folder/customer-support"
+DB: master
+SharedFields:
+- ID: "56b35c4a-f364-45f9-8d35-5a28cecdd7a8"
+  Hint: supportOptions
+  Value: "{CC115D5A-4819-4224-8B56-F69AEC264865}|{FC7A06F3-E7DE-454C-A8BF-514556E68054}|{38D5363F-C287-40E3-ABC4-84B7D2D669C5}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Customer Support
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200128T040403Z
+    - ID: "e43f6d15-838d-41cd-b745-616c1b373dff"
+      Hint: description
+      Value: |
+        Can't decide what's best for you?
+        
+        
+    - ID: "e59ccccf-b566-4b39-b862-7fc68fe13e39"
+      Hint: title
+      Value: Get personalised advice
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200311T095207Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D80D2A5C-D5F8-4DA1-8828-B4F51D64461B}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "e43f6d15-838d-41cd-b745-616c1b373dff"
+      Hint: description
+      Value: |
+        Can't decide what's best for you?
+        
+        
+    - ID: "e59ccccf-b566-4b39-b862-7fc68fe13e39"
+      Hint: title
+      Value: Get personalised advice
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Show me all support options" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />

@@ -1,0 +1,40 @@
+﻿---
+ID: "57224278-3546-4b43-8753-d4eacdf90d91"
+Parent: "292f2182-5d7f-4a4a-8909-8351aad9c98a"
+Template: "fff5f245-ffc0-4022-a998-9b07aa5e761f"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/404/local-folder"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {51555475-5028-4B05-9B45-53BE53615704}
+    {83A147F2-89BA-4A48-8222-4B73FFE65216}
+    {128C8D06-48C1-46ED-B80E-904CC3DE68E0}
+    {F7152A9C-EDEA-49D6-A218-EC7009D9A7F1}
+    {EE2C800F-5808-4E93-B521-517495E4A1E6}
+    {6FC2AE35-3E92-49D3-8190-CE2A26F68B83}
+    {ACAFEFD1-0429-47C1-A27C-6DEE5DBFCBFE}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{60A57C4A-ED03-4322-B472-03CC2D054534}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200811T032332Z
+- Language: id
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200819T125410Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

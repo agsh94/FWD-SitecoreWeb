@@ -1,0 +1,43 @@
+﻿---
+ID: "7a44b5f0-ecb3-469f-bf98-4727f6e33f77"
+Parent: "b9f2bda5-b462-45a0-a87c-3c889d03d5a0"
+Template: "d9df7a98-c006-400d-8855-d0ef021e7fcd"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Privileges/local-folder/herobanner-carousel"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: HeroBanner Carousel
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T090348Z
+    - ID: "2beacf17-ddb8-450a-b836-723b67bdec18"
+      Hint: items
+      Type: Multilist
+      Value: |
+        {469A7275-2C98-444F-9B97-0EAE8738450D}
+        {4597CDE6-DA10-42EA-A1CA-B09CFD98D687}
+        {5B567FBC-8E60-4CD0-B17F-BC67B046F6DD}
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200417T093524Z
+    - ID: "2beacf17-ddb8-450a-b836-723b67bdec18"
+      Hint: items
+      Type: Multilist
+      Value: |
+        {469A7275-2C98-444F-9B97-0EAE8738450D}
+        {4597CDE6-DA10-42EA-A1CA-B09CFD98D687}
+        {5B567FBC-8E60-4CD0-B17F-BC67B046F6DD}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

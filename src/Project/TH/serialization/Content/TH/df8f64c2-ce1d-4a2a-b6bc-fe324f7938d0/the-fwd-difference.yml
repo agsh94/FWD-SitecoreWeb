@@ -1,0 +1,87 @@
+﻿---
+ID: "fd398489-998e-4026-943d-5a200e8e922c"
+Parent: "df8f64c2-ce1d-4a2a-b6bc-fe324f7938d0"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/about-us/career-employee/local-folder/the-fwd-difference"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: The FWD difference
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: "Dare to embark on a new career journey and willing to dedicate your time and efforts? We're ready to give professional and friendly support. "
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{97B72C4C-77BB-4C50-B0A1-69812EBA21CB}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T075010Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{C45EA10C-A7A8-407E-88F1-75A019A53343}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: We want our staff and customer to live their passions and get the most out of their lives everyday. At FWD, success look different.
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: kIt05tnmIxk
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: The FWD difference
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Read our FWD story" anchor="" linktype="internal" class="" title="Read our FWD story" target="|Custom" querystring="" id="{4143A24B-D530-4EA4-BCE9-D6158FCF4AC4}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: "Dare to embark on a new career journey and willing to dedicate your time and efforts? We're ready to give professional and friendly support. "
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{97B72C4C-77BB-4C50-B0A1-69812EBA21CB}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T034319Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{C45EA10C-A7A8-407E-88F1-75A019A53343}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: We want our staff and customer to live their passions and get the most out of their lives everyday. At FWD, success look different.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: kIt05tnmIxk
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: The FWD difference
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Read our FWD story" anchor="" linktype="internal" class="" title="Read our FWD story" target="|Custom" querystring="" id="{4143A24B-D530-4EA4-BCE9-D6158FCF4AC4}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"

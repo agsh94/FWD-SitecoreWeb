@@ -1,0 +1,63 @@
+﻿---
+ID: "ac9cf3b5-354e-4810-9fda-094b528a7f0f"
+Parent: "2e14c608-31d3-4365-9a5d-2483de408270"
+Template: "8e353b27-e5f9-4361-b332-9b3557fb7cd8"
+Path: "/sitecore/content/fwd/fwd-th/Components/Leaders/thailand-leaders/Sahapol Polpathapee"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 975
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{A5C9FC51-9356-41B4-94D6-620B9541F603}" cropx="0.49" cropy="0.34" focusx="-0.02631578947368418" focusy="0.3125" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200523T112837Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: Sahapol Polpathapee
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: In his capacity as Chief Agency Officer, Sahapol provides leadership for more than 5,000 agents here at FWD Life Thailand. His work creates synergy among our agents, delivering strong results for our business and an enhanced journey for our customers.  Sahapol brings over 23 years’ experience in the life insurance category having worked with numerous companies in Thailand demonstrating a track record of results.
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: Chief Agency Officer
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{A5C9FC51-9356-41B4-94D6-620B9541F603}" cropx="0.50" cropy="0.34" focusx="-0.00877192982456143" focusy="0.3125" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200523T112910Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: สหพล พลปัถพี
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: คุณสหพล ในฐานะประธานเจ้าหน้าที่สายงานตัวแทน รับผิดชอบดูแลและบริหารงานช่องทางจัดจำหน่ายผ่านตัวแทน ซึ่งมีตัวแทนในสังกัดมากกว่า 5,000 คน ด้วยประสบการณ์การทำงานในธุรกิจประกันชีวิตมากกว่า 23  ปีกับบริษัทประกันภัยชั้นนำของประเทศ   ทั้งนี้คุณสหพลจบการศึกษาระดับปริญญาโท เศรษฐศาสตร์ จากมหาวิทยาลัยซานฟรานซิสโก สหรัฐอเมริกา จึงนำความรู้และความสามารถมาใช้ในการบริหารงานได้อย่างดีเยี่ยม
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: ประธานเจ้าหน้าที่สายงานตัวแทน
+    - ID: "ffce884f-680c-485e-9bef-f4dbf574d377"
+      Hint: featuredPictogramImage
+      Value: |
+        <image mediaid="{F7D82769-AF23-4E37-B4F1-C32E0C641585}" />

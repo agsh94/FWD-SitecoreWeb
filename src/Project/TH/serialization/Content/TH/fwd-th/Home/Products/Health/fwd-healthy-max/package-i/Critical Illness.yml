@@ -1,0 +1,126 @@
+﻿---
+ID: "b9fec257-65ed-4273-8db6-9bf88675c370"
+Parent: "1e5c9725-82bd-4af8-afa1-228df3560b8b"
+Template: "cc866566-6b97-4bdc-814e-353b4d5dc8c0"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/fwd-healthy-max/package-i/Critical Illness"
+DB: master
+SharedFields:
+- ID: "139fac8d-ba0a-462c-a2e2-97b880ecb109"
+  Hint: minimumPremiumYearly
+  Value: 300
+- ID: "54426e36-0a60-4ada-93f3-916e31cf73af"
+  Hint: minimumSumAssured
+  Value: 250000
+- ID: "653be724-02c5-4bb7-8813-833c6443e1e4"
+  Hint: planCode
+  Value: CIYRT5
+- ID: "902204f2-df95-45fa-b348-496743f27a4a"
+  Hint: maximumPremiumYearly
+  Value: 6448
+- ID: "9cb51dc0-7252-4372-8a9e-42fa7de2b4fd"
+  Hint: minAge
+  Value: "16-0-0"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "b78d7fa0-a532-4f1a-90c1-98b0770294d4"
+  Hint: maxAge
+  Value: "60-0-0"
+- ID: "f41f9cfb-6e45-414e-aa8c-84b1c4148545"
+  Hint: maximumSumAssured
+  Value: 250000
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200520T084553Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: "CI-50 (sum assured THB250,000)"
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=1%20year%2C%20premium%20increase%20with%20age&{EB470656-78FE-45D7-AA4A-D7D3051565A0}=16-60%20years&{5003D93E-AD2B-4A75-98A3-720DB202C221}=1%20year%20%28renew%20until%20the%20age%20of%2084%29&{B08F1775-08B1-49F6-A2EF-57DC4C22673F}=50%20Critical%20illnesses%20or%20Death%20benefit%20up%20to%20THB%20250%2C000"
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: "CI-50 (sum assured THB250,000)"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200814T093405Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: "CI-50 (sum assured THB250,000)"
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=1%20year%2C%20premium%20increase%20with%20age&{5003D93E-AD2B-4A75-98A3-720DB202C221}=1%20year%20%28renew%20until%20the%20age%20of%2084%29&{B08F1775-08B1-49F6-A2EF-57DC4C22673F}=50%20Critical%20illnesses%20or%20Death%20benefit%20up%20to%20THB%20250%2C000"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200814T093405Z
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: "CI-50 (sum assured THB250,000)"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200520T090154Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: สัญญาเพิ่มเติมการประกันภัยโรคร้ายแรงแบบซีไอ50 (ทุนประกันภัย 250,000)
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=1%20%E0%B8%9B%E0%B8%B5%20%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99&{EB470656-78FE-45D7-AA4A-D7D3051565A0}=16-60%20%E0%B8%9B%E0%B8%B5&{5003D93E-AD2B-4A75-98A3-720DB202C221}=1%20%E0%B8%9B%E0%B8%B5%20%28%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%96%E0%B8%B6%E0%B8%87%2084%20%E0%B8%9B%E0%B8%B5%29&{B08F1775-08B1-49F6-A2EF-57DC4C22673F}=%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%2050%20%E0%B9%82%E0%B8%A3%E0%B8%84%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%A3%E0%B8%87%20%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%20%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%20%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%20250%2C000%20%E0%B8%9A%E0%B8%B2%E0%B8%97"
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: สัญญาเพิ่มเติมการประกันภัยโรคร้ายแรงแบบซีไอ50 (ทุนประกันภัย 250,000)
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200814T093449Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: สัญญาเพิ่มเติมการประกันภัยโรคร้ายแรงแบบซีไอ50 (ทุนประกันภัย 250,000)
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=1%20%E0%B8%9B%E0%B8%B5%20%28%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2%20%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%29&{5003D93E-AD2B-4A75-98A3-720DB202C221}=1%20%E0%B8%9B%E0%B8%B5%20%28%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%2084%20%E0%B8%9B%E0%B8%B5%29&{B08F1775-08B1-49F6-A2EF-57DC4C22673F}=%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%2050%20%E0%B9%82%E0%B8%A3%E0%B8%84%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%A3%E0%B8%87%20%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%20%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%20%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%20250%2C000%20%E0%B8%9A%E0%B8%B2%E0%B8%97"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200814T093449Z
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: สัญญาเพิ่มเติมการประกันภัยโรคร้ายแรงแบบซีไอ50 (ทุนประกันภัย 250,000)

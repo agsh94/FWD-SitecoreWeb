@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<control xmlns:def="Definition" xmlns="http://schemas.sitecore.net/Visual-Studio-Intellisense">
+    <Sidekick>
+        <style>
+            body{
+            margin:0;
+            }
+            .standardWindowCaption{
+            height: 60px;
+            background-color: #2b2b2b;
+            }
+            .scWindowCaption {
+            color: #fff;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: inline-block;
+            line-height: 60px;
+            font-size: 20px;
+            padding-left: 15px;
+            font-family: 'Open Sans', Arial, sans-serif;
+            }
+
+        </style>
+        <div class="standardWindowCaption">
+            <div class="scWindowCaption">
+                Sitecore Sidekick
+            </div>
+        </div>
+        <iframe width="100%" height="100%" src="/scs/platform/scs.scs?desktop=true" allowtransparency="true" frameborder="no" marginwidth="0" marginheight="0"></iframe>
+    </Sidekick>
+</control>

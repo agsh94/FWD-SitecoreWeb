@@ -1,0 +1,35 @@
+﻿---
+ID: "5da743e2-9dad-4559-9bf8-c71e6eb15ca7"
+Parent: "d8ae49d3-adad-4384-8fe8-2836465dd88f"
+Template: "967a8dad-4a23-491b-95e2-295dec0b64b3"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/local-folder/product-link-meta-data"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Product Link Meta Data
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191018T095324Z
+    - ID: "ef4ceecf-b302-475f-be16-370851260a17"
+      Hint: title
+      Value: We're different. Here's why
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200115T030733Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "ef4ceecf-b302-475f-be16-370851260a17"
+      Hint: title
+      Value: We're different. Here's why Thai

@@ -1,0 +1,25 @@
+﻿---
+ID: "cc4e86fc-4a20-4a4d-92b4-bd2535d6138c"
+Parent: "2954f0bb-e4eb-4b28-9a55-18d990f5fa8a"
+Template: "8bac8cc4-dec2-4c0c-9d84-6dfb7d398819"
+Path: "/sitecore/content/fwd/fwd-th/Components/headerLinks/Icon Links Folder/Login/Customer"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210106T070600Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{49F0D81D-2E91-44B2-9F6E-3267BABAFA41}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: Customer

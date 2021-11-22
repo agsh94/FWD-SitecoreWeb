@@ -1,0 +1,24 @@
+﻿---
+ID: "70b70f0f-e6a8-4e88-9f63-023de71a1a98"
+Parent: "35aa987c-d7de-4535-a602-db5c43d99958"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/GroupLandingPage/local-folder/Protection CB"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200423T074343Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gaurava
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Protection

@@ -1,0 +1,47 @@
+﻿---
+ID: "2048ab07-103c-4f6d-96e2-01c2cd790ff7"
+Parent: "ebbb4309-d07f-4dcc-a15c-4861a5c3baab"
+Template: "8bac8cc4-dec2-4c0c-9d84-6dfb7d398819"
+Path: "/sitecore/content/fwd/fwd-th/Components/footerLinks/footer-navigation-links/column-3/Support/Locate us"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Locate us
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200227T101507Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="ที่ตั้งสำนักงาน" anchor="" linktype="internal" class="" title=""  querystring="" id="{AAD27929-2ECF-455F-9D17-7FBE1554B510}" />
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: Locate us
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200314T094102Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="ที่ตั้งสำนักงาน" anchor="" linktype="internal" class="" title=""  querystring="" id="{AAD27929-2ECF-455F-9D17-7FBE1554B510}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: ที่ตั้งสำนักงาน

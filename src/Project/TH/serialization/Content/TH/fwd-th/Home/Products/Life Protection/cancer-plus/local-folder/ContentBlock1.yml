@@ -1,0 +1,150 @@
+﻿---
+ID: "6ff7e075-1fac-442f-b14a-bff92a5dfbca"
+Parent: "be7ab3cb-c73d-4c05-a783-d0e4dadb6b9e"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Life Protection/cancer-plus/local-folder/ContentBlock1"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Content Block 1
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T094444Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: 
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: We know that what affects you can also affect your loved ones. With Cancer Plus, we minimise the financial burden with a plan that includes lump sum cash, daily hospital income and, should it be needed, death coverage. This means your loved ones can focus on being there for you, and each other.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Cancer protection for your family’s finances
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "1189664e-c462-4227-9fea-efb77771ad71"
+      Hint: enableFeaturedTags
+      Type: Checkbox
+      Value: 1
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200817T083219Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: 
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: We know that what affects you can also affect your loved ones. With Cancer Plus, we minimise the financial burden with a plan that includes lump sum cash, daily hospital income and, should it be needed, death coverage. This means your loved ones can focus on being there for you, and each other.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200817T083219Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Cancer protection for your family’s finances
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{97B72C4C-77BB-4C50-B0A1-69812EBA21CB}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055157Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{5D9DBAAD-B9A8-43D6-B621-2965FCFFFB81}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: เรารู้ว่าสิ่งที่มีผลกระทบกับคุณย่อมส่งผลกระทบกับคนที่คุณรัก แคนเซอร์ พลัส จึงพร้อมช่วยคลายความกังวล และลดภาระทางการเงิน ด้วยแผนประกันแบบเหมาจ่าย พร้อมเงินชดเชยรายวันเมื่อต้องพักรักษาตัวในโรงพยาบาล และความคุ้มครองกรณีเสียชีวิตหากเกิดเหตุไม่คาดฝัน เพื่อให้คุณและคนที่คุณรักอยู่เคียงข้างกันอย่างไร้กังวล
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: คุ้มครองทั้งมะเร็ง และการเงินของครอบครัว
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "1189664e-c462-4227-9fea-efb77771ad71"
+      Hint: enableFeaturedTags
+      Type: Checkbox
+      Value: 1
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{97B72C4C-77BB-4C50-B0A1-69812EBA21CB}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200817T083232Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{5D9DBAAD-B9A8-43D6-B621-2965FCFFFB81}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: เรารู้ว่าสิ่งที่มีผลกระทบกับคุณย่อมส่งผลกระทบกับคนที่คุณรัก แคนเซอร์ พลัส จึงพร้อมช่วยคลายความกังวล และลดภาระทางการเงิน ด้วยความคุ้มครองมะเร็งทุกระยะ พร้อมเงินชดเชยรายวันเมื่อต้องพักรักษาตัวในโรงพยาบาล และความคุ้มครองกรณีเสียชีวิตหากเกิดเหตุไม่คาดฝัน เพื่อให้คุณและคนที่คุณรักใช้ชีวิตได้อย่างไร้กังวล
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200817T083232Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: คุ้มครองมะเร็ง พร้อมเงินชดเชยรายวันเมื่อพักรักษาตัวในโรงพยาบาล
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 

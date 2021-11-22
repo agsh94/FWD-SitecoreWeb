@@ -1,0 +1,48 @@
+﻿---
+ID: "c013a56f-185e-4488-9678-0b0e769cee02"
+Parent: "cabcc0b1-399c-4999-90c0-9e3d55140cda"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/about-us/Careers/Agent/local-folder/Be part of our growth"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T065146Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: We’re one of the fastest growing companies across Asia – with a vision to change the way people feel about insurance. Join us and be part of our growth and success.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: …and become part of our growth
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T080420Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: เพราะเราคือหนึ่งในบริษัทที่เติบโตเร็วที่สุดในทวีปเอเชีย ด้วยวิสัยทัศน์ที่ต้องการเปลี่ยนมุมมองของผู้คนที่มีต่อการประกันชีวิต มาร่วมเป็นส่วนหนึ่งของการเติบโตและความสำเร็จไปกับเรา
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ร่วมเป็นส่วนหนึ่งกับการเติบโตของเรา

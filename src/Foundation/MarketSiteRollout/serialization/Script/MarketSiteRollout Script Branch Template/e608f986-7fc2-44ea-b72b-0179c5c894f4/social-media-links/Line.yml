@@ -1,0 +1,21 @@
+﻿---
+ID: "1d5def62-a5d9-4836-973f-5519a4ab412e"
+Parent: "1b36da51-4fda-4408-b6ce-94f013b7be38"
+Template: "8bac8cc4-dec2-4c0c-9d84-6dfb7d398819"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Components/footerLinks/social-media-links/Line"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200226T065717Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="line" linktype="external" url="https://timeline.line.me/user/_dfo2OBQneRhH2PTn7wxjlbWMqCMR6Txr95avbeY" anchor="" target="" />
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: line

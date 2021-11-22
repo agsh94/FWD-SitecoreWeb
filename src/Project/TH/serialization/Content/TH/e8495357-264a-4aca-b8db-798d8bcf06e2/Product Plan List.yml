@@ -1,0 +1,37 @@
+﻿---
+ID: "99da6b92-5e05-42b8-a9e5-6be2759ef9df"
+Parent: "e8495357-264a-4aca-b8db-798d8bcf06e2"
+Template: "175e0994-9695-4a52-9837-b6e9f53d9d56"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/Health/CancerFighterRider/local-folder/Product Plan List"
+DB: master
+SharedFields:
+- ID: "31ed2cdd-191f-4c8e-94fe-71b04431ef3b"
+  Hint: planCards
+  Type: Multilist
+  Value: |
+    {D6CAD66F-00FB-49EC-8CAD-015FD2EEB61B}
+    {398B9277-9F7C-47FF-98A2-EAF7C4BCA4A5}
+    {417502B3-49DA-46E3-95CD-70D864215193}
+    {D9EEB531-389D-4828-9C66-D50F00316550}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "048c3952-ef2e-455f-9a0d-4d9e9073bea9"
+      Hint: calculateLink
+      Value: |
+        <link text="Calculate" linktype="form" querystring="" target="" id="{1B3EEC51-98F0-4820-953C-AE3DC6BB8FB3}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200826T074346Z
+    - ID: "40610ec3-80f6-4071-92c3-3df8c6dc0a93"
+      Hint: title
+      Value: Plans
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "f55de024-97c9-4db0-abf7-23bc3e35a96e"
+      Hint: subTitle
+      Value: Configure these plans to suit you

@@ -1,0 +1,47 @@
+﻿---
+ID: "9b60430f-1edc-4a95-9b5f-011d382738d8"
+Parent: "2d88aa29-26f7-463e-84a5-b53a46745499"
+Template: "4faa2cd7-63df-4c30-abb2-9d55380d2106"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Components/headerLinks/header-navigation-links/personal-insurance/Claims"
+DB: master
+SharedFields:
+- ID: "0506ee6d-80ab-42a9-aa0d-06cb556b05b0"
+  Hint: pageType
+  Value: "{4FDED742-177C-4850-9853-FA31CC47D63E}"
+- ID: "a6ee811d-8f6f-4560-80b5-a4faa92bb6db"
+  Hint: buttonIcon
+  Value: "{26003522-EE66-40F3-B536-EC1F1FB2F8BB}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200312T123549Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: 
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: Claims
+- Language: "zh-HK"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200312T123549Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: Claims

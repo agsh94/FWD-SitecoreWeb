@@ -1,0 +1,40 @@
+﻿---
+ID: "f4bf8dbc-aca3-4c76-9efa-960058e72d6a"
+Parent: "f7cc432c-fc31-4f99-8b03-817f2f32241d"
+Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
+Path: "/sitecore/content/fwd/fwd-th/fwd-th-app-Dictionary/Errors/api-401"
+DB: master
+SharedFields:
+- ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
+  Hint: Key
+  Value: 401
+Languages:
+- Language: en
+  Fields:
+  - ID: "2ba3454a-9a9c-4cdf-a9f8-107fd484eb6e"
+    Hint: Phrase
+    Value: Access denied due to invalid subscription key
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: API 401
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T065907Z
+- Language: th
+  Fields:
+  - ID: "2ba3454a-9a9c-4cdf-a9f8-107fd484eb6e"
+    Hint: Phrase
+    Value: การเข้าถึงถูกปฏิเสธเนื่องจากรหัสการสมัครสมาชิกไม่ถูกต้อง
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T072125Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

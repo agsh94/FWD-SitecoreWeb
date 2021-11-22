@@ -1,0 +1,41 @@
+﻿---
+ID: "a8a631d5-51fa-4b42-b593-1edd972d38ff"
+Parent: "615ec48a-a46c-472b-81ea-ca9b31b95e74"
+Template: "9a45a24d-9287-4086-8dbe-fcec888173f4"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Search/local-folder/global-search/Articles"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a4b54e5-0f59-44da-97aa-2b361fa60f49"
+      Hint: filterBy
+      Type: Treelist
+      Value: |
+        {3460BC47-4D35-43B0-9D7D-9F7471EA5D82}
+        {660B3A63-C9C6-4DDB-A4C9-189411E10BD7}
+    - ID: "1f54785d-94ed-4e46-8e65-72c9b926765b"
+      Hint: contentType
+      Type: Multilist
+      Value: "{26117BF2-F786-43AF-8737-0B12E21EE3AE}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200603T112313Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7dd2d009-6b23-42f4-a170-a638ef349d9d"
+      Hint: filterTitle
+      Value: Article Filters
+    - ID: "b0a7cc92-6f8d-4bc0-94de-9960abc666be"
+      Hint: title
+      Value: Articles

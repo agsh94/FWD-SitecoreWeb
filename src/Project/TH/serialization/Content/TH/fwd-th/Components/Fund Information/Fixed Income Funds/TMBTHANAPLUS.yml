@@ -1,0 +1,66 @@
+﻿---
+ID: "3f6e5154-6749-483a-a514-e231ba7b4083"
+Parent: "23b991c4-72fa-4f3b-b82f-6d0bcfe93537"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/Fund Information/Fixed Income Funds/TMBTHANAPLUS"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T035058Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: |
+        TMB THANAPLUS Fund (TMBTHANAPLUS)<br />
+        * Note that subscription and switch-in funds were temporarily suspended from 23rd March 2020
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li>Fund page (Close)</li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/QA/TB8_02.pdf'>Fund information summary</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/PRO/TB8_01.pdf'>Prospectus</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/FS/TB8_03.pdf'>Fact sheet</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/SAR/TB8_h_04.pdf'>Bi-annual report</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/AR/TB8_y_04.pdf'>Annual report</a></li>
+        </ul>
+        
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T035131Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: |
+        กองทุนเปิดทหารไทย ธนพลัส (TMBTHANAPLUS)<br />
+        * ระงับการขาย การซื้อคืน การสับเปลี่ยนหน่วยลงทุน ตั้งแต่วันที่ 26/3/2563
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li>หน้าหลักกองทุน (ปิด)</li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/QA/TB8_02.pdf'>สาระสำคัญ ของกองทุน</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/PRO/TB8_01.pdf'>หนังสือชี้ชวน</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/FS/TB8_03.pdf'>หนังสือชี้ชวนส่วนสรุป</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/SAR/TB8_h_04.pdf'>รายงาน 6 เดือน</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/AR/TB8_y_04.pdf'>รายงานประจำปี</a></li>
+        </ul>

@@ -1,0 +1,58 @@
+﻿---
+ID: "9ae2d28c-a7e3-41ab-b3a1-9852dec35c52"
+Parent: "0d8191c0-8d1d-45ad-ab1e-9ec239301cc0"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/tailor-made/local-folder/HeroBanner"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: "Tailor-Made Life and Medical Insurance"
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{CD165B70-6DFB-40E5-BDBF-792D7FA4F5FD}" cropx="0.55" cropy="0.59" focusx="0.09649122807017552" focusy="-0.171875" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200415T161813Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{CD165B70-6DFB-40E5-BDBF-792D7FA4F5FD}" cropx="0.55" cropy="0.48" focusx="0.09649122807017552" focusy="0.03125" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: เทเลอร์เมด ประกันชีวิตและประกันสุขภาพที่ออกแบบได้
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{CD165B70-6DFB-40E5-BDBF-792D7FA4F5FD}" cropx="0.56" cropy="0.57" focusx="0.11403508771929816" focusy="-0.140625" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200416T023009Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{CD165B70-6DFB-40E5-BDBF-792D7FA4F5FD}" cropx="0.55" cropy="0.48" focusx="0.09649122807017552" focusy="0.046875" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit

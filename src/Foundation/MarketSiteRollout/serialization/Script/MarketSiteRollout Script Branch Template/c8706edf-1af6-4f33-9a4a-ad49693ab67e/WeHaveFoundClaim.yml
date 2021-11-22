@@ -1,0 +1,22 @@
+﻿---
+ID: "9d4e273e-7b87-4533-bfb7-773675dd3928"
+Parent: "c8706edf-1af6-4f33-9a4a-ad49693ab67e"
+Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/$name-app-Dictionary/Labels/WeHaveFoundClaim"
+DB: master
+SharedFields:
+- ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
+  Hint: Key
+  Value: foundClaim
+Languages:
+- Language: en
+  Fields:
+  - ID: "2ba3454a-9a9c-4cdf-a9f8-107fd484eb6e"
+    Hint: Phrase
+    Value: "We've found {count} result."
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191130T081658Z

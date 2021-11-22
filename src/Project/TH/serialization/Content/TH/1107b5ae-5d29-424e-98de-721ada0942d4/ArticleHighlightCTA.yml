@@ -1,0 +1,38 @@
+﻿---
+ID: "c01bb0b8-320c-46f6-990c-659d0bbca0eb"
+Parent: "1107b5ae-5d29-424e-98de-721ada0942d4"
+Template: "91c91756-644c-4460-812b-9d3a33b076b2"
+Path: "/sitecore/content/fwd/fwd-th/Home/Press/MCCI-staff-campaign/local-folder/ArticleDetails/ArticleHighlightCTA"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T105047Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "514cdf2e-f38f-4508-9f5a-5773aaf3a679"
+      Hint: theme
+      Value: "{921097F6-7BCB-4385-897E-B4ADBF4A99DE}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "ba0719f6-3c44-44c3-88f7-36c6f9f9612a"
+      Hint: content
+      Value: รายละเอียดการเคลมผลประโยชน์ และขั้นตอนการสมัคร
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="คลิก" linktype="media" target="" id="{D3D2B2AB-45C0-45AA-8DCE-E46CFECD0C27}" />

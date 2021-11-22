@@ -1,0 +1,122 @@
+﻿---
+ID: "0e463359-5577-48e2-9f54-4f6dc69db7ac"
+Parent: "47ea1f09-a30e-4a41-bc97-e73f574dc735"
+Template: "68bbe3b2-090e-4063-98c3-e462cd0c74e8"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Claims/cash-return 1"
+DB: master
+SharedFields:
+- ID: "4139ab92-c984-456c-99f7-b2276a2008ec"
+  Hint: contentType
+  Value: "{58E30460-AC9F-45C2-8B0F-47E93979778B}"
+- ID: "5d298d24-a14d-478b-b892-8586861b9dab"
+  Hint: primaryNeedTags
+  Value: "{390404DC-4C70-4662-B09E-5FB89B7B5294}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{0A307E84-66AC-4B5A-A42D-498985574818}"
+          p:after="p[@uid='{11413C64-392B-4B1A-A7AE-7F4F1D45C34E}']"
+          s:ds="{7A8087CF-8A66-4E4A-A8E6-023F7964C0A2}"
+          s:id="{2D85FF18-BBE6-4746-A95E-69537BC9F3B9}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7d&amp;cardStyle=%7bDA70E6E3-2B0B-408A-B82E-8C11BE6451DA%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          p:after="r[@uid='{0A307E84-66AC-4B5A-A42D-498985574818}']"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{222EA023-8BA6-4F16-91A5-95C16CA2894C}"
+          p:after="r[@uid='{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}']"
+          s:ds="{9ABD5C29-8094-4947-9AC2-19D9D0A81C81}"
+          s:id="{8D4D1B73-CAD2-403E-95CD-442E88BA0545}"
+          s:par=""
+          s:ph="jss-main" />
+        <r
+          uid="{0CEB192A-1817-41DF-BE1B-3BE2525E3624}"
+          s:ph="jss-main-1" />
+        <r
+          uid="{026F06F0-08BA-490C-BD74-D25944908D45}"
+          s:ph="jss-main-1" />
+        <r
+          uid="{787D0CD4-4114-431A-8890-2456201C0E24}"
+          s:ds=""
+          s:par=""
+          s:ph="jss-main-1" />
+        <r
+          uid="{557EE382-E902-401A-A8FF-3554910CE2A0}"
+          s:ph="jss-main-1" />
+        <r
+          uid="{438C1DED-1542-4936-8AE1-C81989FCBFC0}"
+          s:ph="jss-main-1" />
+        <r
+          uid="{6760081B-D89B-4A90-8F27-755B88DE6783}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+        <r
+          uid="{EB98F1D5-A899-4891-8F7D-7B82FD67CA0F}"
+          p:after="*[1=2]"
+          s:ds="{84BFDAEC-FAF5-4768-B07A-EEF11B98763B}"
+          s:id="{4BA37AC0-157B-47FE-B065-DED49DA74F3A}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7d&amp;divider"
+          s:ph="jss-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Cash Return 1
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T125101Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+    - ID: "383c06a4-a394-43b5-919f-12e140258af9"
+      Hint: iconType
+      Value: "{459C0971-61CA-4F7D-AB9A-5DC98DE78DE3}"
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Cash Return
+    - ID: "afb319ef-ce14-4bc5-be51-29dc4681fb28"
+      Hint: description
+      Value: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue en. 
+    - ID: "d8d7b322-1e79-4b78-8409-29dfe3e0cbdb"
+      Hint: title
+      Value: Cash Return
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T085150Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    - ID: "383c06a4-a394-43b5-919f-12e140258af9"
+      Hint: iconType
+      Value: "{C9260111-A6AC-40FD-AEF6-E3AFA0FA215C}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Cash Return
+    - ID: "afb319ef-ce14-4bc5-be51-29dc4681fb28"
+      Hint: description
+      Value: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue en. 
+    - ID: "d8d7b322-1e79-4b78-8409-29dfe3e0cbdb"
+      Hint: title
+      Value: Cash Return

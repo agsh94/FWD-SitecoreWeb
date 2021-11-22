@@ -1,0 +1,57 @@
+﻿---
+ID: "dd8d3f63-f222-40ec-9e50-1eb1c36af37d"
+Parent: "c6204088-7fd6-4303-853c-368a402f44ef"
+Template: "683bbabe-aadd-4e41-95eb-fd590132565d"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/fwd-healthy-max/package-ii/AttributeFolder/Additional benefits/Critical illness benefit"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ecfd20e-1a1c-4143-9ad4-22a1374823bf"
+      Hint: value
+      Value: 500,000
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T100159Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{BB517E67-0DE8-4EA9-AE6D-55678F537A14}"
+    - ID: "c46c42f1-4609-44be-af80-fd7b8e4b47a5"
+      Hint: leadingText
+      Value: THB
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ecfd20e-1a1c-4143-9ad4-22a1374823bf"
+      Hint: value
+      Value: 500,000 บาท
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T095951Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{BB517E67-0DE8-4EA9-AE6D-55678F537A14}"
+    - ID: "c46c42f1-4609-44be-af80-fd7b8e4b47a5"
+      Hint: leadingText
+      Value: 

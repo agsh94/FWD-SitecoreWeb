@@ -1,0 +1,90 @@
+﻿---
+ID: "a22eda5c-1c39-48a5-b710-b0d7224f4830"
+Parent: "866cce0c-c890-4668-9110-c06932ae5830"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/cancer-knockout/local-folder/HeroBanner"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "b77299ed-f266-4dc3-94b1-455764394788"
+  Hint: share
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: Cancer Knockout
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{CABFB27C-0269-4B84-9C90-2CA6330C2498}" cropx="0.52" cropy="0.47" focusx="0.03508771929824572" focusy="0.0625" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T105950Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{1200E36F-9CF8-44F5-AF54-F5996BDA8066}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: แคนเซอร์ น็อคเอาท์
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{CABFB27C-0269-4B84-9C90-2CA6330C2498}" cropx="0.52" cropy="0.46" focusx="0.04385964912280693" focusy="0.078125" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055200Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{1200E36F-9CF8-44F5-AF54-F5996BDA8066}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+  - Version: 2
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: แคนเซอร์ น็อคเอาท์
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{CABFB27C-0269-4B84-9C90-2CA6330C2498}" cropx="0.52" cropy="0.46" focusx="0.04385964912280693" focusy="0.078125" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200814T080741Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{1200E36F-9CF8-44F5-AF54-F5996BDA8066}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200814T080741Z

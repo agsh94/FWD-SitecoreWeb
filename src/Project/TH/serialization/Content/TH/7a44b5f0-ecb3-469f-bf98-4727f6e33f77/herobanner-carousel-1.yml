@@ -1,0 +1,53 @@
+﻿---
+ID: "469a7275-2c98-444f-9b97-0eae8738450d"
+Parent: "7a44b5f0-ecb3-469f-bf98-4727f6e33f77"
+Template: "92f8b466-99a5-407e-af15-4c300df52088"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Privileges/local-folder/herobanner-carousel/herobanner-carousel-1"
+DB: master
+SharedFields:
+- ID: "6ca9412f-51dd-4ddd-8f41-b350a02f3f0d"
+  Hint: backgroundColor
+  Value: "{62070F56-8307-4B27-A4DB-E6F90EC9767B}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: HeroBanner Carousel 1
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: HeroBanner Carousel 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T090502Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{CE4C2FBF-F93A-4A7F-A7DC-64F809908B52}" cropx="0.52" cropy="0.69" focusx="0.03053435114503822" focusy="-0.375" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: HeroBanner Carousel 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200417T093508Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{56FC3B55-2BF6-4713-9B27-499E1F22EF59}" cropx="0.52" cropy="0.69" focusx="0.03053435114503822" focusy="-0.375" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

@@ -1,0 +1,33 @@
+﻿---
+ID: "0d8191c0-8d1d-45ad-ab1e-9ec239301cc0"
+Parent: "857687ec-2192-4041-84e2-ba2ac82872f6"
+Template: "fff5f245-ffc0-4022-a998-9b07aa5e761f"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/tailor-made/local-folder"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{7D6BB8C2-D538-441D-82BF-D6AEC40B5929}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200116T080334Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T115848Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

@@ -1,0 +1,99 @@
+﻿---
+ID: "9e5e71cc-6ff1-498e-bde3-001aded0193b"
+Parent: "cdd54d8f-fa31-46de-b963-c38a28886050"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Accident/prakan-kon-klang/local-folder/CardList/High coverage"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: Double the sum assured in case of death or dismemberment by a public accident.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T182834Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: High coverage
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{8E809776-5C9F-475C-BF6E-48F4B889C76F}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{8E809776-5C9F-475C-BF6E-48F4B889C76F}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: คุ้มครองเพิ่มเป็น 2 เท่าของทุนประกัน หากเสียชีวิตหรือสูญเสียอวัยวะเนื่องจากอุบัติเหตุสาธารณะ
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200410T081913Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: คุ้มครองสูง
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{8E809776-5C9F-475C-BF6E-48F4B889C76F}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{8E809776-5C9F-475C-BF6E-48F4B889C76F}" />
+  - Version: 2
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: คุ้มครองเพิ่มเป็น 2 เท่าของทุนประกันภัย หากเสียชีวิตหรือสูญเสียอวัยวะเนื่องจากอุบัติเหตุสาธารณะ
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200814T065627Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: คุ้มครองสูง
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{8E809776-5C9F-475C-BF6E-48F4B889C76F}" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200814T065627Z
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{8E809776-5C9F-475C-BF6E-48F4B889C76F}" />

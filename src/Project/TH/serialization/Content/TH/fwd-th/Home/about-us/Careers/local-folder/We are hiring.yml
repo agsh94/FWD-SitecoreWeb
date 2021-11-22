@@ -1,0 +1,192 @@
+﻿---
+ID: "acb381f1-365b-450a-8221-e316e31ace9b"
+Parent: "8252b599-f428-4e6e-a22e-90e60f04101b"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/about-us/Careers/local-folder/We are hiring"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{B096E18E-DAAE-43A8-87DD-1775AD1F16B6}"
+- ID: "9cb76228-fc26-48b7-bd66-1c6e133b625d"
+  Hint: secondaryLinkButtonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "dab4200c-a87f-4605-b2f7-2544616ece6e"
+  Hint: secondaryLinkButtonIcon
+  Value: "{64B485FD-8AC5-4282-989F-BEAF9048D5AE}"
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{7EA908FB-506F-45E9-AB04-2B33B5DCDE2A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: "Looking for a job you’ll love? Maybe we should talk. "
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200401T051052Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "Looking for a job you’ll love? Maybe we should talk."
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: We're hiring
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See all jobs" linktype="external" url="https://fwd.wd3.myworkdayjobs.com/FWDcareersite" anchor="" target="" />
+  - Version: 2
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: "Looking for a job you’ll love? Maybe we should talk. "
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200713T112557Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "Looking for a job you’ll love? Maybe we should talk."
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200713T112557Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: We're hiring
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See all jobs" linktype="external" url="https://fwd.wd3.myworkdayjobs.com/FWDcareersite/0/refreshFacet/318c8bb6f553100021d223d9780d30be" anchor="" target="" />
+  - Version: 3
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: "Looking for a job you’ll love? Maybe we should talk. "
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200714T024200Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "Looking for a job you’ll love? Maybe we should talk."
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200714T024200Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: We're hiring
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See all jobs" linktype="external" url="https://fwd.wd3.myworkdayjobs.com/FWDcareersite/" anchor="" target="" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: หากคุณกำลังมองหางานที่จะทำให้คุณหลงรัก ลองสมัครมาคุยกัน
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200401T063256Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: หากคุณกำลังมองหางานที่จะทำให้คุณหลงรัก ลองสมัครมาคุยกัน
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: สมัครเป็นพนักงาน
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ตำแหน่งงานที่เปิดรับ" linktype="external" url="https://fwd.wd3.myworkdayjobs.com/FWDcareersite" anchor="" target="" />
+  - Version: 2
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: หากคุณกำลังมองหางานที่จะทำให้คุณหลงรัก ลองสมัครมาคุยกัน
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200713T112624Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: หากคุณกำลังมองหางานที่จะทำให้คุณหลงรัก ลองสมัครมาคุยกัน
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200713T112624Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: สมัครเป็นพนักงาน
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ตำแหน่งงานที่เปิดรับ" linktype="external" url="https://fwd.wd3.myworkdayjobs.com/FWDcareersite/0/refreshFacet/318c8bb6f553100021d223d9780d30be" anchor="" target="_blank" />
+  - Version: 3
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: หากคุณกำลังมองหางานที่จะทำให้คุณหลงรัก ลองสมัครมาคุยกัน
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200714T024255Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: หากคุณกำลังมองหางานที่จะทำให้คุณหลงรัก ลองสมัครมาคุยกัน
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200714T024255Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: สมัครเป็นพนักงาน
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ตำแหน่งงานที่เปิดรับ" linktype="external" url="https://fwd.wd3.myworkdayjobs.com/FWDcareersite/" anchor="" target="_blank" />

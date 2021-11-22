@@ -1,0 +1,147 @@
+﻿---
+ID: "05dd0b13-35a2-4d06-b9a2-f0c08fc31256"
+Parent: "25a5cb25-2b1f-43ce-b758-f37104235fee"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/premium-payment/local-folder/premium-payment/DropdownItem/Our-partners-counter-service/through-trueMoney-wallet-mobile-app"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1700
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Through TrueMoney Wallet mobile app
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191224T132318Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Through TrueMoney Wallet mobile app</strong></p>
+        <ol><li>Open menu “True Payment” from TrueMoney Wallet mobile app</li>
+        <li>Choose “Bill”</li>
+        <li>Choose “Other Bill”</li>
+        <li>Enter password (4 digits)</li>
+        <li>Enter biller code as “ING”</li>
+        <li>Enter reference 1 code (9 digits)</li>
+        <li>Enter reference 2 code (8 digits)</li>
+        <li>Enter the amount from 0 to THB30,000 </li>
+        <li>Select source of fund</li>
+        <li>Confirm transaction clicking “OK”</li>
+        <li>SMS from TrueMoney confirming the completed transaction</li></ol>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200921T024734Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Through TrueMoney Wallet mobile app</strong></p>
+        <ol>
+            <li>Open menu &ldquo;True Payment&rdquo; from TrueMoney Wallet mobile app</li>
+            <li>Choose &ldquo;Bill&rdquo;</li>
+            <li>Choose &ldquo;Other Bill&rdquo;</li>
+            <li>Enter password (4 digits)</li>
+            <li>Enter biller code as &ldquo;ING&rdquo;</li>
+            <li>Enter reference 1 code (9 digits)</li>
+            <li>Enter reference 2 code (8 digits)</li>
+            <li>Enter the amount from 0 to THB30,000 </li>
+            <li>Select source of fund</li>
+            <li>Confirm transaction clicking &ldquo;OK&rdquo;</li>
+            <li>SMS from TrueMoney confirming the completed transaction</li>
+        </ol>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: black;">Note: Unfortunately, customers with policies previously bought from&nbsp;</span><span style="color: black;">SCB or&nbsp;through a former agency channel</span><span style="color: black;"> are unable to access TrueMoney Wallet mobile app at the moment. We will let you know if this changes.</span></p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200921T024734Z
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Through TrueMoney Wallet mobile app
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T084907Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p> <strong>ชำระค่าเบี้ยประกันภัยผ่าน TrueMoney Wallet mobile app</strong></p>
+        <ol>
+        <li>เข้าเมนู True Payment</li>
+        <li>เลือกบิล</li>
+        <li>เลือกบิลอื่นๆ</li>
+        <li>ใส่รหัสผ่าน 4 ตัว</li>
+        <li>ใส่รหัสสินค้า – พิมพ์ ING</li>
+        <li>ใส่รหัสอ้างอิง (1) – (9 หลัก)</li>
+        <li>ใส่รหัสอ้างอิง (2) – (8 หลัก)</li>
+        <li>ใส่ยอดที่ต้องการชำระ ตั้งแต่ 0 ถึง 30,000 บาท</li>
+        <li>เลือกบัญชีในการชำระ</li>
+        <li>ยืนยันการทํารายการกด “OK”</li>
+        <li>รอรับ SMS เพื่อยืนยันการทํารายการ</li></ol>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200921T024513Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p> <strong>ชำระค่าเบี้ยประกันภัยผ่าน TrueMoney Wallet mobile app</strong></p>
+        <ol>
+            <li>เข้าเมนู True Payment</li>
+            <li>เลือกบิล</li>
+            <li>เลือกบิลอื่นๆ</li>
+            <li>ใส่รหัสผ่าน 4 ตัว</li>
+            <li>ใส่รหัสสินค้า &ndash; พิมพ์ ING</li>
+            <li>ใส่รหัสอ้างอิง (1) &ndash; (9 หลัก)</li>
+            <li>ใส่รหัสอ้างอิง (2) &ndash; (8 หลัก)</li>
+            <li>ใส่ยอดที่ต้องการชำระ ตั้งแต่ 0 ถึง 30,000 บาท</li>
+            <li>เลือกบัญชีในการชำระ</li>
+            <li>ยืนยันการทํารายการกด &ldquo;OK&rdquo;</li>
+            <li>รอรับ SMS เพื่อยืนยันการทํารายการ</li>
+        </ol>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: black;">กรมธรรม์ที่ซื้อผ่านธนาคารไทยพาณิชย์และตัวแทนเดิมไม่สามารถชำระค่าเบี้ยประกันภัยผ่านบริการ </span><span style="color: black;">TrueMoney Wallet mobile app </span><span style="color: black;">ได้</span></p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200921T024513Z

@@ -1,0 +1,85 @@
+﻿---
+ID: "47b6b153-33d2-4404-ac82-31b3581f2afb"
+Parent: "0d8191c0-8d1d-45ad-ab1e-9ec239301cc0"
+Template: "681b61a2-6f52-4119-b8f4-033587eaeacc"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/tailor-made/local-folder/latest-press-and-media"
+DB: master
+SharedFields:
+- ID: "161ff25c-5221-4b9d-a2d8-993bd5371a76"
+  Hint: apiAllowPagination
+  Type: Checkbox
+  Value: 1
+- ID: "2250f909-bae3-415f-a645-9d07826b6566"
+  Hint: apiPageSize
+  Value: 5
+- ID: "8f397566-a4d1-4f23-8594-dce13b3720fe"
+  Hint: apiSortBy
+  Value: "{C27171A2-8AC2-4005-8076-DC7489E3997B}"
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{20162863-AE86-4B42-9AEC-B7A81A345553}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 988
+- ID: "bd1fe0cc-270d-4276-a07d-da02b962d325"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: |
+    {B69D6574-F28A-4C35-8B76-CC0DB8099D75}
+    {EE923A3E-815D-4A9A-8A7D-8966B9805C89}
+    {9F39A5D3-BB90-4389-863E-4596F54970EA}
+    {67F745F2-3A37-4569-B598-0B98CDC6B144}
+    {390404DC-4C70-4662-B09E-5FB89B7B5294}
+- ID: "e82938f3-6c97-4755-9c0b-baf56b4a5e4f"
+  Hint: apiMobilePageSize
+  Value: 3
+- ID: "ef2bcb82-b8a8-4be6-88a7-5269b777ad1d"
+  Hint: apiSubType
+  Value: "{F9477F10-1A0C-48A1-9AB0-4CD0672C9AA9}"
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{6816B289-E488-4764-913D-41EC0310B5ED}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Our latest press and media
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T124317Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d88ea793-1587-4f65-ae5c-80926cd5438b"
+      Hint: subTitle
+      Value: 
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Your daily inspiration
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See press and media" anchor="Press &amp; Media" linktype="internal" class="" title="All Press Release"  querystring="" id="{564D4C9C-BEEB-4497-9BB7-74A9EBAEF812}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200115T030731Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: ข่าวประชาสัมพันธ์
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ดูข่าวประชาสัมพันธ์ทั้งหมด" anchor="Press &amp; Media" linktype="internal" class="" title=""  querystring="" id="{564D4C9C-BEEB-4497-9BB7-74A9EBAEF812}" />

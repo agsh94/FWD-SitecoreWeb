@@ -1,0 +1,99 @@
+{
+    "Context Item": {
+        "date": {
+            "value": "2017-11-24T18:30:00Z"
+        },
+        "isFeatured": {
+            "value": false
+        },
+        "shortDescription": {
+            "value": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo"
+        },
+        "author": {
+            "value": ""
+        },
+        "city": null,
+        "articleTitle": {
+            "value": "Changing the way people feel about insurance"
+        },
+        "mobileImage": {
+            "value": {}
+        },
+        "featuredTags": [
+            {
+                "id": "27b45f29-dd3f-42a5-a19f-5193a9205d68",
+                "fields": {
+                    "name": {
+                        "value": "Health"
+                    },
+                    "searchName": {
+                        "value": "Health"
+                    }
+                }
+            },
+            {
+                "id": "4f3a2d61-bba0-47e8-afac-1a0873ac1d34",
+                "fields": {
+                    "name": {
+                        "value": "Travel"
+                    },
+                    "searchName": {
+                        "value": "Travel"
+                    }
+                }
+            },
+            {
+                "id": "ba841f13-b6ce-4f60-aefe-830e8e5a40ed",
+                "fields": {
+                    "name": {
+                        "value": "Life stage"
+                    },
+                    "searchName": {
+                        "value": "Life-stage"
+                    }
+                }
+            }
+        ],
+        "rewardLabel": null,
+        "source": null,
+        "subtype": {
+            "id": "9b4f5dc4-00ec-4983-8861-75885c261e9e",
+            "url": "/Content/Tags/commonTags/contentSubtype/Articles/Announcements",
+            "fields": {
+                "name": {
+                    "value": "Announcements"
+                },
+                "searchName": {
+                    "value": "Announcements"
+                }
+            }
+        },
+        "topics": [],
+        "userType": [],
+        "associatedProducts": [],
+        "contentType": {
+            "id": "4fe0a16d-285f-4c41-9bfa-a1343b036cdf",
+            "url": "/Content/Tags/commonTags/contentType/Articles",
+            "fields": {
+                "name": {
+                    "value": "Articles"
+                },
+                "searchName": {
+                    "value": "Articles"
+                }
+            }
+        },
+        "image": {
+            "value": {}
+        },
+        "isPageSearchable": {
+            "value": true
+        },
+        "metadataDescription": {
+            "value": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium."
+        },
+        "metadataTitle": {
+            "value": "Article 1"
+        }
+    }
+}

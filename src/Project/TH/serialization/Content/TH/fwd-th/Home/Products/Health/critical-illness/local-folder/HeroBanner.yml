@@ -1,0 +1,89 @@
+﻿---
+ID: "41e555a8-afaf-4ffc-8c5f-41f2c3a46e63"
+Parent: "7bba63c2-c4b1-416b-8f72-a7b981d3d1ba"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/critical-illness/local-folder/HeroBanner"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: Critical Illness (CI 50) 
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{83F880B1-234B-4A28-B475-55C9A48CD301}" cropx="0.45" cropy="0.36" focusx="-0.10526315789473684" focusy="0.28125" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T105950Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{83F880B1-234B-4A28-B475-55C9A48CD301}" cropx="0.51" cropy="0.34" focusx="0.026315789473684292" focusy="0.3125" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: ประกันภัยโรคร้ายแรง แบบซีไอ 50
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{83F880B1-234B-4A28-B475-55C9A48CD301}" cropx="0.46" cropy="0.49" focusx="-0.08771929824561409" focusy="0.015625" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055203Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{83F880B1-234B-4A28-B475-55C9A48CD301}" cropx="0.50" cropy="0.34" focusx="0.00877192982456143" focusy="0.3125" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+  - Version: 2
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: ประกันโรคร้าย ซีไอ 50
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{83F880B1-234B-4A28-B475-55C9A48CD301}" cropx="0.46" cropy="0.49" focusx="-0.08771929824561409" focusy="0.015625" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200814T075215Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{83F880B1-234B-4A28-B475-55C9A48CD301}" cropx="0.50" cropy="0.34" focusx="0.00877192982456143" focusy="0.3125" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200814T075215Z

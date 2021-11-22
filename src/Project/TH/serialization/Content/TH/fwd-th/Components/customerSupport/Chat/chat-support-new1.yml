@@ -1,0 +1,63 @@
+﻿---
+ID: "559d200e-4934-4147-a9b5-b3327b020300"
+Parent: "26bdf17c-a2ee-42a9-8f4f-510677a499b1"
+Template: "7fdea212-e1b9-45a8-a84a-20f94f4f113e"
+Path: "/sitecore/content/fwd/fwd-th/Components/customerSupport/Chat/chat-support-new1"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "a09d41ca-93f6-409c-96a9-1341d3719e83"
+  Hint: listType
+  Value: "{DDA5C48B-3A8A-4AFE-9B24-EABA5CDA8C77}"
+- ID: "fe177409-8cfe-4c93-b234-86a21c7bd1f7"
+  Hint: supportIcon
+  Value: "{631BC306-C30E-4D10-AFE5-670237118479}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Chat Support new
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191008T163853Z
+    - ID: "33f52725-c73c-4a0e-8248-daa1440e2045"
+      Hint: icon
+      Value: |
+        <image mediaid="{1D386BC1-2E9D-415A-86CA-E319F94898C1}" />
+    - ID: "7c118842-8c48-43ce-9bcc-37432634f60c"
+      Hint: title
+      Value: Start a live chat
+    - ID: "9de7311a-d36d-48fa-af6a-3c9c489b0d8e"
+      Hint: subTitle
+      Value: "We’re available 8am-8pm. Outside of those hours, leave a message."
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T065154Z
+    - ID: "33f52725-c73c-4a0e-8248-daa1440e2045"
+      Hint: icon
+      Value: |
+        <image mediaid="{1D386BC1-2E9D-415A-86CA-E319F94898C1}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7c118842-8c48-43ce-9bcc-37432634f60c"
+      Hint: title
+      Value: เริ่มต้นไลฟ์แชท
+    - ID: "9de7311a-d36d-48fa-af6a-3c9c489b0d8e"
+      Hint: subTitle
+      Value: "เราเปิดให้บริการตั้งแต่เวลา 8.00-20.00 น. นอกเวลาทำการกรุณาฝากข้อความ"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="เริ่มต้นพูดคุย" linktype="external" url="" anchor="" target="" />

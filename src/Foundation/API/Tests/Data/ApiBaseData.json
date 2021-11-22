@@ -1,0 +1,25 @@
+﻿{
+    "apiMobilePageSize": {
+        "value": "6"
+    },
+    "apiPageSize": {
+        "value": "9"
+    },
+    "apiContentType": {
+        "fields": {
+            "value": {
+                "value": "https://dev-api.fwdxt.com/r1-1/search/{language}/GetProductList"
+            },
+            "key": {
+                "value": "68KGwd8v0SfZcbs5Xlc8bS2cD58Ud865SkPe0l87"
+            }
+        }
+    },
+    "apiSortBy": {
+        "fields": {
+            "value": {
+                "value": "scorevalue_l desc,titlefield_s asc"
+            }
+        }
+    }
+}

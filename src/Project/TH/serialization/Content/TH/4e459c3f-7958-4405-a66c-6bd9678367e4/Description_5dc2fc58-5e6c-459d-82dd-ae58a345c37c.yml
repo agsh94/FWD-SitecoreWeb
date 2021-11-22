@@ -1,0 +1,50 @@
+﻿---
+ID: "5dc2fc58-5e6c-459d-82dd-ae58a345c37c"
+Parent: "4e459c3f-7958-4405-a66c-6bd9678367e4"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/things-to-do-first-40/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200402T050113Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>4. Choose insurance that covers all your needs</strong><br />
+        <br />
+        Not easy being young, being adult is not so!<br />
+        <br />
+        Who knows what the future has in store? A good long life needs a sound life plan and choosing the right insurance will make that possible. Make sure the insurance covers all the risks and answers to all you need for your family and other obligations. With EASY E-Life, just only thousand Baht payment, you get million worth of insurance coverage. For more detail,&nbsp;<a href="https://smartaccess.fwd.co.th/,DanaInfo=bit.ly+33DSz6D">http://bit.ly/33DSz6D</a><br />
+        <br />
+        Money as the mean to facilitate life. How long you think you can be an employee and is it a good idea to work like this for long? If one of these questions ever pops in your mind, it&rsquo;s time to invest and let money works for you. Allocate a part of your earnings for investing and receive dividends, or just choose a good savings insurance plan with continuous cash benefit and up to 10 years of coverage. For more detail, &nbsp;<a href="http://bit.ly/2OL8QSY" style="background-color: #ffffff;">http://bit.ly/2OL8QSY</a>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T233753Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p style="background: white; margin: 0in 0in 0.0001pt;"><strong>4. ทำประกันให้ครอบคลุม</strong><br />
+        มีคนบอกว่าเป็นวัยรุ่นมันเหนื่อย! บางทีอาจจะจริงอย่างที่เขาว่า ยิ่งการใช้ชีวิตแบบทุกวันนี้ที่เต็มไปด้วยความเสี่ยงต่างๆ การมีชีวิตที่ยืนยาวจึงควรต้องวางแผนให้รัดกุมทั้งเรื่องของอนาคต การดูแลพ่อแม่ การดูแลครอบครัว รวมทั้งภาระหนี้สินต่างๆ การมีประกันมาช่วยดูแลในส่วนนี้ย่อมเซฟกว่าแน่นอน มันคงจะดีถ้าเราสามารถซื้อประกันหลักพันแต่ให้ความคุ้มครองหลักล้านเพื่อใช้ชีวิตโดยไม่มีภาระหนักเกินไปอย่าง Easy E-LIFE&nbsp; คลิกดูรายละเอียดเพิ่มเติม <a href="http://bit.ly/33DSz6D">http://bit.ly/33DSz6D</a><br />
+        <br />
+        การมีเงิน ช่วยให้ชีวิตสบาย อันนี้ก็ยังคงเป็นเรื่องจริงอยู่เสมอ และยิ่งในช่วงที่เราเริ่มแก่ตัวลงแล้ว ความคิดที่อยากจะออกจากวงจรมนุษย์เงินเดือน ก็คงวนเวียนขึ้นมาอยู่บ่อยครั้ง ถึงเวลาแล้วที่เราจะต้องเริ่มมองหาช่องทางการสร้างเงิน ให้เงินทำงานให้งอกเงยแม้ตอนคุณหลับ ต้องแบ่งเงินส่วนหนึ่งที่หาได้ ไปลงทุนใน ช่องทางต่างๆแล้วปันผลออกมาเป็นเงินที่เพียงพอต่อการใช้ชีวิตในบั่นปลาย หรือเลือกออมกับการซื้อประกันสะสมทรัพย์ที่ให้ผลประโยชน์และความคุ้มครองที่คุ้มค่า สามารถรับเงินคืนได้ทุกปี แถมดูแลกันไปยาวๆถึง 10 ปี รายละเอียดเพิ่มเติม <a href="http://bit.ly/2OL8QSY">http://bit.ly/2OL8QSY</a></p>

@@ -1,0 +1,42 @@
+﻿---
+ID: "2bd7ec56-eebe-4391-8b61-7727c8ddba69"
+Parent: "1e0eaecc-df9b-418b-9065-f586dc02804a"
+Template: "69b601a8-8555-4411-8c17-aa91671eec32"
+Path: "/sitecore/content/fwd/fwd-th/Content/District/P/Pran Buri"
+DB: master
+SharedFields:
+- ID: "a903eb23-a8d6-4a9a-bd27-4bd363b1fcf0"
+  Hint: searchName
+  Value: Pran Buri
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 12900
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: Pran Buri
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T151154Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: อ.ปราณบุรี
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200421T062006Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

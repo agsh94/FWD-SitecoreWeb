@@ -1,0 +1,18 @@
+﻿---
+ID: "f82f2e11-7294-4218-8506-5c36928e6e64"
+Parent: "63af88ee-1ef8-41ef-aeeb-d7398b128fb4"
+Template: "91c0f7fd-e185-4652-9ca5-ff0982a40801"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/VertcleTabContentFilter/local-folder/GroupTab List/TabListTest"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200902T084902Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

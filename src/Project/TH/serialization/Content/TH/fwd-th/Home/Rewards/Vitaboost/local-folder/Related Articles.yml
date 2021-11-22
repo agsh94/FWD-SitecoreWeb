@@ -1,0 +1,84 @@
+﻿---
+ID: "0ced4fa9-0502-460b-a2db-f3084a45843f"
+Parent: "9bf175b4-960e-4d4d-a822-abd94155d1f0"
+Template: "b5702cd7-40f4-4617-9c29-8a1197de6c9a"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/Vitaboost/local-folder/Related Articles"
+DB: master
+SharedFields:
+- ID: "2250f909-bae3-415f-a645-9d07826b6566"
+  Hint: apiPageSize
+  Value: 5
+- ID: "850a1782-6872-4f19-ae20-34e926bdc3aa"
+  Hint: linkItems
+  Value: "{9CCCEC0E-2A24-44AB-AA5A-76D3285611FC}|{E6550BF0-3A07-46DA-853B-590E89F2CD65}|{E7D9F288-4931-461D-A36A-A4B8FBF6F72E}"
+- ID: "8f397566-a4d1-4f23-8594-dce13b3720fe"
+  Hint: apiSortBy
+  Value: "{22E8CD03-D525-4DB4-A1AA-8002FCD5673A}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{20162863-AE86-4B42-9AEC-B7A81A345553}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "e82938f3-6c97-4755-9c0b-baf56b4a5e4f"
+  Hint: apiMobilePageSize
+  Value: 3
+- ID: "ef2bcb82-b8a8-4be6-88a7-5269b777ad1d"
+  Hint: apiSubType
+  Value: "{F9477F10-1A0C-48A1-9AB0-4CD0672C9AA9}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{7311CA02-2FB2-4F8C-98E1-72B193E29D28}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200412T082422Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Related Articles
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200412T075818Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: บทความที่เกี่ยวข้อง
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200813T013153Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Chaiyawat
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200813T013153Z
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: บทความที่เกี่ยวข้อง

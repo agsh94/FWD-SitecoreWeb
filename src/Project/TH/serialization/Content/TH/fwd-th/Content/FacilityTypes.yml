@@ -1,0 +1,29 @@
+﻿---
+ID: "29deac75-41db-4f6c-97c2-7f032e7db805"
+Parent: "0e40abdb-cf6f-452f-8bd5-ef1a48f901f6"
+Template: "8d254d4a-bd30-4b07-8fa0-7464260d4bbc"
+Path: "/sitecore/content/fwd/fwd-th/Content/FacilityTypes"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191102T103851Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T064544Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

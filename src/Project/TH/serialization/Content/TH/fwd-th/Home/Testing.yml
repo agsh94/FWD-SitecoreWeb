@@ -1,0 +1,42 @@
+﻿---
+ID: "7719ad7b-82e5-4946-b5b8-38c7c5dc0227"
+Parent: "d9c6779b-43e9-4106-8357-ad0510a8547c"
+Template: "40da990f-39dd-4d66-a9be-849f4ecffd22"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing"
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{D6134FB5-960B-4784-8AE2-7231655F27DC}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200323T074823Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200909T051918Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Testing

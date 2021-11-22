@@ -1,0 +1,60 @@
+﻿---
+ID: "5a5a8a4d-1345-44b3-a5a0-55fc7ea93ee9"
+Parent: "35add0ad-27b0-493b-b5e8-5825b45bfa74"
+Template: "991caea8-39ae-40d4-9a37-30d2477ee4f7"
+Path: "/sitecore/content/fwd/fwd-th/Components/briefhistory/2019"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{51555475-5028-4B05-9B45-53BE53615704}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191120T061647Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "fb502544-91cc-4a77-8c1b-3336417b7806"
+      Hint: sectionTitle
+      Value: 2019
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200908T072548Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D80D2A5C-D5F8-4DA1-8828-B4F51D64461B}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200908T072548Z
+    - ID: "fb502544-91cc-4a77-8c1b-3336417b7806"
+      Hint: sectionTitle
+      Value: 2019
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T065151Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "fb502544-91cc-4a77-8c1b-3336417b7806"
+      Hint: sectionTitle
+      Value: 2562

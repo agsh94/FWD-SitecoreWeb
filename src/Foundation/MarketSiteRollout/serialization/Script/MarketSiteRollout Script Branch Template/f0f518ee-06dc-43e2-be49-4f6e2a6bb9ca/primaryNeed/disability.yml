@@ -1,0 +1,21 @@
+﻿---
+ID: "5791c3fd-37bd-43be-aa7e-0426234066ce"
+Parent: "002f0921-b445-4c40-b03e-9ef8ed748784"
+Template: "69b601a8-8555-4411-8c17-aa91671eec32"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Tags/commonTags/Featured/primaryNeed/disability
+DB: master
+SharedFields:
+- ID: "a903eb23-a8d6-4a9a-bd27-4bd363b1fcf0"
+  Hint: searchName
+  Value: disability
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: disability
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191101T173723Z

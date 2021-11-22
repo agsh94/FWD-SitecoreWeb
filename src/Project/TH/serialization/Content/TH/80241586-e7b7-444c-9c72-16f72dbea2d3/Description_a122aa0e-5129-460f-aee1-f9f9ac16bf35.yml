@@ -1,0 +1,27 @@
+﻿---
+ID: "a122aa0e-5129-460f-aee1-f9f9ac16bf35"
+Parent: "80241586-e7b7-444c-9c72-16f72dbea2d3"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/travel-leh-ladakh/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 5400
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T073847Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Day 8 &amp; 9 : Leh to Srinagar<br />
+        </strong>ส่วน 2 วันสุดท้ายนี้ จริงๆ เราตั้งใจเดินทางด้วยรถไปยัง Srinagar แต่ติดปัญหาถนนปิด เพราะหิมะถล่ม ทำให้ต้องจองตั๋วเครื่องบินกันฉุกละหุก และในความโชคร้ายสุดๆนั้น ก็ยังพอจะมีโชคดีอยู่บ้างตรงที่ วันที่เราจะเดินทาง ตรงกับวันเดียวของสัปดาห์ที่มีเที่ยวบิน! โอ้ย จะบ้าตายค่า</p>

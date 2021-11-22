@@ -1,0 +1,58 @@
+﻿---
+ID: "c5138a46-79da-4428-9ae0-9987ca17f6d9"
+Parent: "79b0f918-56f9-4453-b28e-20c9d69ceda8"
+Template: "175e0994-9695-4a52-9837-b6e9f53d9d56"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Health/cancer-knockout/local-folder/package-plan-list"
+DB: master
+SharedFields:
+- ID: "31ed2cdd-191f-4c8e-94fe-71b04431ef3b"
+  Hint: planCards
+  Type: Multilist
+  Value: |
+    {159FAEE4-ADE1-43E3-B4F0-5EA0C99AD8AC}
+    {8FE3C702-DDBB-4451-8DF9-E7359BC60734}
+    {39B86E33-6B61-4561-AA12-62F22D051E69}
+    {C3A56568-BC46-4C43-9495-2E8691CF0789}
+    {B0BCD7F3-7A60-4C1F-BF4E-C1317210AD33}
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Package Plan List
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "048c3952-ef2e-455f-9a0d-4d9e9073bea9"
+      Hint: calculateLink
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200127T161558Z
+    - ID: "40610ec3-80f6-4071-92c3-3df8c6dc0a93"
+      Hint: title
+      Value: Plans
+    - ID: "f55de024-97c9-4db0-abf7-23bc3e35a96e"
+      Hint: subTitle
+      Value: Configure these plans to suit you
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "048c3952-ef2e-455f-9a0d-4d9e9073bea9"
+      Hint: calculateLink
+      Value: |
+        <link text="Calculate" linktype="form" querystring="" target="" id="{1B3EEC51-98F0-4820-953C-AE3DC6BB8FB3}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200130T150932Z
+    - ID: "40610ec3-80f6-4071-92c3-3df8c6dc0a93"
+      Hint: title
+      Value: Plans
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "f55de024-97c9-4db0-abf7-23bc3e35a96e"
+      Hint: subTitle
+      Value: Configure these plans to suit you

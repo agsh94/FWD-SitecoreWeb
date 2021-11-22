@@ -1,0 +1,25 @@
+﻿---
+ID: "2096e263-a932-44c3-83d1-99bd099d959e"
+Parent: "002f0921-b445-4c40-b03e-9ef8ed748784"
+Template: "69b601a8-8555-4411-8c17-aa91671eec32"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Tags/commonTags/Featured/primaryNeed/Family
+DB: master
+SharedFields:
+- ID: "a903eb23-a8d6-4a9a-bd27-4bd363b1fcf0"
+  Hint: searchName
+  Value: Family
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: Family
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200113T060551Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

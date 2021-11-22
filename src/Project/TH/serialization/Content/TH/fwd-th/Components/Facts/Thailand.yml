@@ -1,0 +1,57 @@
+﻿---
+ID: "9f5b4ed8-6538-4afc-a0d5-1c44cdb023a7"
+Parent: "1bd32b99-0532-4d4f-b958-f2d1bedb001a"
+Template: "47af1c05-f72b-4a9c-8d12-a1c8c644c1f0"
+Path: "/sitecore/content/fwd/fwd-th/Components/Facts/Thailand"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T103454Z
+    - ID: "425150f5-8c91-456a-bad3-5d5e2578b89a"
+      Hint: maxCount
+      Value: 4
+    - ID: "54cf37d0-e840-463d-8dbf-82b76343aef3"
+      Hint: title
+      Value: Thailand
+    - ID: "726ba622-10c4-4cbd-8e37-9c69de1cc081"
+      Hint: isDefault
+      Type: Checkbox
+      Value: 1
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Find out more about FWD" linktype="media" title="FWD Thailand Fact sheet " target="" id="{18376125-E90A-4AB5-AE45-010E80EC034C}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200108T170334Z
+    - ID: "425150f5-8c91-456a-bad3-5d5e2578b89a"
+      Hint: maxCount
+      Value: 4
+    - ID: "54cf37d0-e840-463d-8dbf-82b76343aef3"
+      Hint: title
+      Value: ประเทศไทย
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "726ba622-10c4-4cbd-8e37-9c69de1cc081"
+      Hint: isDefault
+      Type: Checkbox
+      Value: 1
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ดาวน์โหลดเอกสารข้อมูล" linktype="media" title="เอกสารข้อมูลเกี่ยวกับ เอฟดับบลิวดี ประเทศไทย" target="" id="{18376125-E90A-4AB5-AE45-010E80EC034C}" />

@@ -1,0 +1,67 @@
+﻿---
+ID: "4576307c-67a7-42a5-ac07-a693d0a2200f"
+Parent: "39a24374-1152-42f9-ad07-da3599fa1b6d"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/GroupLandingPage/local-folder/GroupProductList/Accident/Info Cards/Coverage options"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: "Being able to customize it with additional package add-ons."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200122T054910Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: Offer comprehensive coverage options
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: "Being able to customize it with additional package add-ons."
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{349E59F1-DBA4-4598-BF1A-1017EC930D17}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{349E59F1-DBA4-4598-BF1A-1017EC930D17}" cropx="0.37" cropy="0.22" focusx="-0.26041666666666663" focusy="0.5625" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: |
+        ความสามารถในการปรับแต่งด้วยแพ็คเกจเพิ่มเติม<br />
+        <div>&nbsp;</div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200403T075315Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: เสนอตัวเลือกความคุ้มครองที่ครอบคลุม
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: |
+        ความสามารถในการปรับแต่งด้วยแพ็คเกจเพิ่มเติม
+        
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{349E59F1-DBA4-4598-BF1A-1017EC930D17}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{349E59F1-DBA4-4598-BF1A-1017EC930D17}" cropx="0.37" cropy="0.22" focusx="-0.26041666666666663" focusy="0.5625" />

@@ -1,0 +1,36 @@
+﻿---
+ID: "f20beaac-44f7-4c4e-aead-3e401a362cc6"
+Parent: "ea3f0ee7-ba03-4f40-8b4a-27f5b5db3d92"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Sport/baika-gibbonwithmuscle/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200923T091850Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>ชีวิตเรา สุขภาพเรา เราต้องคัดสรรเอง</strong></p>
+        <p><strong><br />
+        "เราไม่จำเป็นต้องผอมเพราะคนอื่นบอกว่าสวย ไม่มีใครรู้จัก และรักเราเท่าตัวเราเองอีกแล้ว ทุกเรื่องที่เกี่ยวกับชีวิตหรือสุขภาพ เราต้องคัดสรรเอง"&nbsp;</strong></p>
+        <p><strong></strong><br />
+        เมื่อเราสามารถทำให้ร่างกายสุขภาพดีที่สุด แข็งแรงที่สุด กินดีที่สุดเท่าที่จะทำได้ เราก็จะอยู่ในจุดที่หุ่นดีเอง และมีความสุขกับการใช้ชีวิต</p>
+        <p>&nbsp;</p>
+        <p>
+        &ldquo;การที่เราหุ่นดีเป็นแค่ผลพลอยได้จากการเลือกวิถีชีวิตที่ถูกต้อง เราไม่จำเป็นต้องผอมเพียงเพราะคนอื่นบอกว่าสวย แต่ควรเริ่มทำในสิ่งที่ดีต่อตัวเองจริงๆ ในทุกๆ วัน ซึ่งสุดท้ายมันก็จะกลายเป็นจุดเปลี่ยนเล็ก ๆ ที่สามารถหล่อหลอมสะสมเป็นผลลัพธ์ที่ยิ่งใหญ่ ทำให้มีความสุขได้อย่างลงตัว ทั้งในเรื่องของชีวิต และเรื่องสุขภาพ&rdquo;</p>

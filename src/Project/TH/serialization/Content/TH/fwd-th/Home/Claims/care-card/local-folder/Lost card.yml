@@ -1,0 +1,59 @@
+﻿---
+ID: "f8ce458a-3e1c-4feb-9a04-9880d85b6f29"
+Parent: "334d56d5-9720-4f61-afc4-d5db2020317f"
+Template: "09db1bd9-ccf9-4a64-b2c9-ac249d6b96c1"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/care-card/local-folder/Lost card"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201012T105245Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5655c435-8b04-4425-8b90-5a0a04e80d83"
+      Hint: description
+      Value: |
+        <p><strong>Forgotten cards</strong> If you&rsquo;ve forgotten to bring your FWD Care Card, you can present your ID card to the hospital officer. They will then contact us to check your eligibility. You can also pay in advance and then submit a claim (remember to keep all documents and records from the hospital / clinic). </p>
+        <p><strong>Lost cards</strong> If you lose your card, simply contact the FWD call centre and we&rsquo;ll send you a new card, totally free of charge. In the meantime, you can present your ID card to the hospital officer, and they will contact us to check your eligibility. </p>
+        <p>&nbsp;</p>
+        <p><strong>Need to know how to make a claim, following an accident?</strong> Head <span style="text-decoration: underline;"><a href="https://prd-stage-www.fwd.co.th/en/claims/accident-and-health/">here</a></span> to our Health and Accident claims page.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "81f9fb34-885b-42e0-bdd7-b2c1cbd468fb"
+      Hint: title
+      Value: "Lost or forgotten your FWD Care Card?"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201012T103120Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5655c435-8b04-4425-8b90-5a0a04e80d83"
+      Hint: description
+      Value: |
+        <p><strong><span>กรณีลืมบัตร</span></strong><span> คุณสามารถยื่นบัตรประจำตัวประชาชนให้กับเจ้าหน้าที่ประจำโรงพยาบาลเพื่อตรวจสอบสิทธิ์ และยังสามารถสำรองจ่ายล่วงหน้า และยื่นเอกสารเพื่อเรียกร้องสินไหมในภายหลัง (กรุณาเก็บบันทึกการรักษาและเอกสารต่างๆ ที่ได้รับจากโรงพยาบาลหรือคลินิก เพื่อประกอบการเรียกร้องสินไหม)&nbsp; </span></p>
+        <p><strong><span>กรณีบัตรหาย </span></strong><span>หากคุณทำบัตรหาย กรุณาติดต่อฝ่ายบริการลูกค้าของเรา เพื่อให้จัดส่งบัตรใหม่ให้กับคุณโดยไม่เสียค่าใช้จ่าย และในระหว่างรอรับบัตรใหม่ คุณสามารถยื่นบัตรประจำตัวประชาชนให้กับเจ้าหน้าที่ประจำโรงพยาบาลเพื่อตรวจสอบสิทธิเมื่อจำเป็นต้องเข้ารับการรักษาพยาบาล</span></p>
+        <p><span>&nbsp;</span></p>
+        <p><strong><span>หากคุณต้องการทราบถึงขั้นตอนการเรียกร้องสินไหมเมื่อประสบอุบัติเหตุ</span></strong><span> กรุณาคลิก<span style="text-decoration: underline;"><a href="https://prd-stage-www.fwd.co.th/th/claims/accident-and-health/">ที่นี่</a></span> เพื่อไปยัง &ldquo;เรียกร้องสินไหมประกันสุขภาพและประกันอุบัติเหตุ&rdquo;</span></p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "81f9fb34-885b-42e0-bdd7-b2c1cbd468fb"
+      Hint: title
+      Value: ต้องทำอย่างไร หากลืมบัตรเอฟดับบลิวดี แคร์การ์ด หรือทำบัตรหาย 

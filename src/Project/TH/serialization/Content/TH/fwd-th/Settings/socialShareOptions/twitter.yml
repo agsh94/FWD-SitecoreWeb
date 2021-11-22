@@ -1,0 +1,43 @@
+﻿---
+ID: "134ab32d-00d2-444d-93ee-40087238bf7f"
+Parent: "dca72db2-4a6e-4a1a-9947-549828e4cde4"
+Template: "b2e7448a-0a96-48d4-b2c6-a45efe18cd8a"
+Path: "/sitecore/content/fwd/fwd-th/Settings/socialShareOptions/twitter"
+DB: master
+SharedFields:
+- ID: "16d8a5a3-ed8f-489b-86a0-02eb221fd6d1"
+  Hint: url
+  Value: |
+    <link text="Twitter Url" linktype="external" url="https://twitter.com/intent/tweet?text=" anchor="" target="" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Twitter
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200106T113127Z
+    - ID: "500e0085-b045-4cb8-aa47-929ffcffe867"
+      Hint: toolTip
+      Value: 
+    - ID: "82e3f4c0-6aed-4f54-944c-b98968e322a8"
+      Hint: header
+      Value: Share on Twitter
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T072109Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "82e3f4c0-6aed-4f54-944c-b98968e322a8"
+      Hint: header
+      Value: แชร์บนทวิตเตอร์

@@ -1,0 +1,54 @@
+﻿---
+ID: "88d60d90-a41e-4fff-9c26-51bcb71956ac"
+Parent: "2ad2459c-be92-4e9b-8e70-97c48120f0a0"
+Template: "ea22f56c-b79d-4ee8-96bf-61e4c32bd034"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/local-folder/GroupProductList/Group life and health insurance plan"
+DB: master
+BranchID: "363a8e61-068f-4c29-bcd2-79b676e3a53d"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{CDC36767-D0EA-46E8-8448-B46173FA4DF1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200121T100537Z
+    - ID: "703b9cb2-cc5d-4ff6-b310-4a4136a5991a"
+      Hint: description
+      Value: Our Group life and health insurance plans offer broad protection for your employees. And should they become ill, we cover inpatient and outpatient hospital costs.
+    - ID: "d6d3ce14-ebd2-43ee-bfab-d3800762e9b4"
+      Hint: title
+      Value: Group life and health insurance
+    - ID: "f0eaa081-54d6-4839-9035-5e9625656318"
+      Hint: groupProducts
+      Type: Multilist
+      Value: |
+        {D6E16115-7D0C-4F41-BA04-1BD6821F4DFF}
+        {857687EC-2192-4041-84E2-BA2AC82872F6}
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T115846Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "703b9cb2-cc5d-4ff6-b310-4a4136a5991a"
+      Hint: description
+      Value: คุ้มครองเพื่อการทำงานที่มีประสิทธิภาพ ให้คุณพร้อมก้าวไปสู่ความสำเร็จ แบบประกันชีวิตและสุขภาพกลุ่มที่จะสร้างความมั่นใจว่าหากเกิดเหตุไม่คาดฝัน รวมทั้งกรณีบาดเจ็บหรือเจ็บป่วยจนต้องเข้ารับการรักษาทั้งในฐานะผู้ป่วยในและผู้ป่วยนอก พนักงานของคุณยังคงใช้ชีวิตอย่างไร้กังวลด้วยการดูแลจากเอฟดับบลิวดี
+    - ID: "d6d3ce14-ebd2-43ee-bfab-d3800762e9b4"
+      Hint: title
+      Value: แผนประกันชีวิตและประกันสุขภาพกลุ่ม
+    - ID: "f0eaa081-54d6-4839-9035-5e9625656318"
+      Hint: groupProducts
+      Type: Multilist
+      Value: |
+        {D6E16115-7D0C-4F41-BA04-1BD6821F4DFF}
+        {857687EC-2192-4041-84E2-BA2AC82872F6}

@@ -1,0 +1,75 @@
+﻿---
+ID: "e3181061-56f5-4707-ba44-d97a05d85d16"
+Parent: "7bdb6756-1df2-47e1-8239-4a0edebe9edc"
+Template: "7d6bb8c2-d538-441d-82bf-d6aec40b5929"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/local-folder/our-partners"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 656
+- ID: "e393d27b-259f-4774-91b7-a2965d57238d"
+  Hint: linkItems
+  Value: "{25F34B10-25CB-4DF0-A0CC-6EC8D73726C5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Our Partners
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200203T092730Z
+    - ID: "2ed70c09-d8b1-4780-8037-dfe4ca6dd644"
+      Hint: title
+      Value: Our partners for your rewards
+    - ID: "3e163c0e-2b06-4372-a28c-96b7c3892905"
+      Hint: description
+      Value: We work with selected partners so we can offer you the best rewards. Here&rsquo;s a selection of our partner brands.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T034436Z
+    - ID: "2ed70c09-d8b1-4780-8037-dfe4ca6dd644"
+      Hint: title
+      Value: พันธมิตรของเรา
+    - ID: "3e163c0e-2b06-4372-a28c-96b7c3892905"
+      Hint: description
+      Value: เราทำงานร่วมกับพันธมิตรที่ผ่านการคัดสรรมาอย่างดี เพื่อมอบของรางวัลที่ดี่ที่สุดให้ลูกค้าของเรา
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200813T041636Z
+    - ID: "2ed70c09-d8b1-4780-8037-dfe4ca6dd644"
+      Hint: title
+      Value: พันธมิตรของเรา
+    - ID: "3e163c0e-2b06-4372-a28c-96b7c3892905"
+      Hint: description
+      Value: เราทำงานร่วมกับพันธมิตรที่ผ่านการคัดสรรมาอย่างดี เพื่อมอบของรางวัลที่ดี่ที่สุดให้ลูกค้าของเรา
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Chaiyawat
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200813T041636Z

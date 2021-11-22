@@ -1,0 +1,39 @@
+﻿---
+ID: "8cd6bd9e-eb1d-426b-bf0f-247608c9db67"
+Parent: "d9eeb531-389d-4828-9c66-d50f00316550"
+Template: "615282d0-6867-4065-b4aa-c103bcded9a5"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/Health/CancerFighterRider/WL20/age-between-0-and-5"
+DB: master
+SharedFields:
+- ID: "a44f9279-737c-4736-acdf-d13dc9db9dc7"
+  Hint: minAge
+  Value: 1
+- ID: "b2a7ed7f-e1f4-4c05-813c-05107ad54a28"
+  Hint: maxAge
+  Value: 5
+- ID: "cc91c665-62e8-4e94-9a65-b43fdde9be7d"
+  Hint: minSumAssured
+  Value: 5000
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Age between 0 and 5
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191220T073632Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200311T100020Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,65 @@
+﻿---
+ID: "7ff7fd01-5aed-4a87-81ce-ea9aee56a7da"
+Parent: "0f59fbf3-588d-4366-8cdc-1fb77f5630b7"
+Template: "b01bfe01-3e4a-4331-a9aa-276a36e2db50"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/local-folder/ClaimCard List"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "eb60dc2b-fa6f-4e35-8f60-db9b02b93189"
+  Hint: claimType
+  Type: Multilist
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "ClaimCard List - to be deleted"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04e07962-dfad-4698-bf0f-6755b33d3a58"
+      Hint: subTitle
+      Value: Each insurance plan has different benefits and therefore also has its own claim form. So the first step is to select what type of benefits you’re claiming for.
+    - ID: "1900c9c4-2f50-46fb-82c5-91af568003af"
+      Hint: title
+      Value: Let's get started
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191121T120539Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ce4b9d48-69a5-414a-9479-31602853b6da"
+      Hint: secondaryText
+      Value: 
+    - ID: "e8c2a9d2-af0d-49ef-8d42-e8c1babf903b"
+      Hint: secondaryLink
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04e07962-dfad-4698-bf0f-6755b33d3a58"
+      Hint: subTitle
+      Value: แผนประกันแต่ละแผนมีผลประโยชน์ที่แตกต่างกัน จึงทำให้มีแบบฟอร์มการเรียกร้องสินไหมที่ต่างกันในไปแต่ละแผน ดังนั้นเพื่อความรวดเร็ว สิ่งที่คุณควรคำนึงถึงเป็นอันดับแรกคือเลือกประเภทของการเรียกร้องสินไหมที่คุณต้องการ
+    - ID: "1900c9c4-2f50-46fb-82c5-91af568003af"
+      Hint: title
+      Value: เริ่มต้นการเรียกร้องสินไหมของคุณ
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T085852Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "ce4b9d48-69a5-414a-9479-31602853b6da"
+      Hint: secondaryText
+      Value: 
+    - ID: "e8c2a9d2-af0d-49ef-8d42-e8c1babf903b"
+      Hint: secondaryLink
+      Value: 

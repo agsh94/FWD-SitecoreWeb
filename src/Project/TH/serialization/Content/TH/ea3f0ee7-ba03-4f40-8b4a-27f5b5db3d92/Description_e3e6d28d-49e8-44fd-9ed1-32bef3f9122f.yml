@@ -1,0 +1,39 @@
+﻿---
+ID: "e3e6d28d-49e8-44fd-9ed1-32bef3f9122f"
+Parent: "ea3f0ee7-ba03-4f40-8b4a-27f5b5db3d92"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Sport/baika-gibbonwithmuscle/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200923T091555Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong><strong>จุดเริ่มต้นของ &ldquo;ชะนีมีกล้าม&rdquo;</strong></strong></p>
+        <p><strong><strong>&nbsp;</strong></strong></p>
+        <p>"ใบคา พึ่งอุดม แคสเซล" Fitness Influencer จากเพจชะนีมีกล้าม และเจ้าของโรงเรียนทำขนมสุขภาพ Fit Bakery พร้อมดีกรีจบจากโรงเรียนสอนทำอาหารชื่อดัง Le Cordon Bleu รวมถึงได้รับอนุปริญญา สาขาโภชนาการบำบัดของ Oxford College มีเป้าหมายที่จะสร้างแรงบันดาลใจให้คนธรรมดาหันมารักสุขภาพ และเริ่มทำในสิ่งที่ดีต่อตัวเองจริงๆ</p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>ตัดสินใจที่จะเป็น "ชะนีมีกล้าม"&nbsp;&nbsp;<br />
+        <br />
+        &ldquo;รูปร่างที่ดีต้องตอบโจทย์การใช้ชีวิต ความผอมมันไม่ตอบโจทย์ของการเป็นเชฟ&rdquo;</strong><br />
+        <br />
+        หลังจากทีลองผิดลองถูกมาหลายปี ใบคาก็ค้นพบว่าการได้หุ่นผอมเพรียวไม่ได้ตอบโจทย์การใช้ชีวิตของเธอ &ldquo;ใบคาเป็นเชฟ ต้องยกเครื่องตีเค้กหนัก 40 กิโลกรัม กล้ามดีต่อหน้าที่การงานมากนะ เพื่อนๆ รักใบคามากเพราะช่วยผู้ชายยกเครื่องตีเค้กได้&rdquo;&nbsp;<br />
+        <br />
+        ว่าแล้วใบคาก็เริ่มหยุดนับแคลอรี่ หันมาออกกำลังที่เน้นไปในทางเวทเทรนนิ่ง ทำให้ตัวเองรู้ว่าการที่จะมีสุขภาพดี และมีความสุขกับการกินได้นั้น ก็คือหยุดทำอะไรแบบสุดโต่ง และปรับทุกอย่างให้เข้ากับไลฟ์สไตล์ที่ชอบ</p>

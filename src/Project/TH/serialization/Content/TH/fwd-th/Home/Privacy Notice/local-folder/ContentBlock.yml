@@ -1,0 +1,268 @@
+﻿---
+ID: "08ca7e25-2d14-4fe5-b833-0c0c2dfb5c4e"
+Parent: "a276beb3-bf9e-4cc4-b08e-ce5c78da369d"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Privacy Notice/local-folder/ContentBlock"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{68BE4375-2C18-4CAD-808A-6AC77720B96B}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ContentBlock
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200520T113445Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <div>
+            <h4 class="MuiTypography-root MuiTypography-h4 text-color-white">Our purposes</h4>
+            <p>While you are dealing with us, your personal data has been collected, used, disclosed and processed by us by
+                fair and lawful means to the extent necessary for the specific purposes as follows.&nbsp;&nbsp;<br />
+            </p>
+            <ul>
+                <li><span style="font-weight: lighter;">Performing our obligations under the insurance policy we currently
+                        have with you;&nbsp;</span></li>
+                <li><span style="font-weight: lighter;">Identifying and providing you with information about services or
+                        products that may benefit you or may be of interest to you;&nbsp;</span></li>
+                <li><span style="font-weight: lighter;">Marketing or informing you of the following classes of services and
+                        products offered by FWD or our FWD Group, affiliated entities, business partners and/or third party
+                        entities:&nbsp;</span>
+                    <ul>
+                        <li><span style="font-weight: lighter;">insurance services and products;&nbsp;</span></li>
+                        <li><span style="font-weight: lighter;">financial services and products;&nbsp;</span></li>
+                        <li><span style="font-weight: lighter;">selling, cross selling or upselling of services and
+                                products;&nbsp;</span></li>
+                        <li><span style="font-weight: lighter;">reward, promotion, campaign, loyalty or privilege programmes
+                                and related services or products; and&nbsp;</span></li>
+                        <li><span style="font-weight: lighter;">donations and contributions for charitable and/or non-profit
+                                making purposes.&nbsp;&nbsp;</span></li>
+                    </ul>
+                </li>
+                <li><span style="font-weight: lighter;">Analysing and conducting data analytics, surveys and feedbacks to
+                        develop, build and implement our business models, products, services and systems which help us to
+                        provide high standard services or enhance the benefits to you;&nbsp;</span></li>
+                <li><span style="font-weight: lighter;">Performing policy review and needs analysis; and&nbsp;</span></li>
+                <li><span style="font-weight: lighter;">Arranging meetings, training or activities for our customers.</span>
+                </li>
+            </ul>
+        </div><br />
+        <div>
+            <h4 class="MuiTypography-root MuiTypography-h4 text-color-white">Your personal data we collect, use and disclose </h4>
+            <p>While you are dealing with us, your following personal data has already been collected, used, disclosed and
+                processed by us.
+            </p>
+            <ul>
+                <li>Details about you, such as name, surname, gender, date of birth, educational background, occupation,
+                    marital status and nationality.&nbsp;</li>
+                <li>Contact details, such as your name, home address, email address, phone number and social media
+                    accounts.&nbsp;</li>
+                <li>Identification and authentication details, such as identification card number, passport number, driving
+                    license number, photo and CCTV footage.&nbsp;</li>
+                <li>Financial details, such as your payments, credit card numbers and bank account details.&nbsp;</li>
+                <li>Results of any credit or background checks we have made on you.&nbsp;</li>
+                <li>Insurance claim information, where this is relevant.&nbsp;</li>
+                <li>Your employment information and salary.&nbsp;</li>
+                <li>The names and addresses of your dependents or beneficiaries.&nbsp;</li>
+                <li>Information about how you use our website, apps or other technology, including IP addresses and device
+                    information.&nbsp;</li>
+                <li>Other information that you give us.&nbsp;</li>
+            </ul>
+            <span style="font-weight: lighter;">In addition, we may also collect and hold your sensitive data such as: <br />
+                <ul>
+                    <li><span style="font-weight: lighter;">health or medical information;&nbsp;</span></li>
+                    <li><span style="font-weight: lighter;">racial or ethnic origin;&nbsp;</span></li>
+                    <li><span style="font-weight: lighter;">sexual preferences or practices;&nbsp;</span></li>
+                    <li><span style="font-weight: lighter;">membership of political, professional or trade
+                            associations;&nbsp;</span></li>
+                    <li><span style="font-weight: lighter;">criminal records;&nbsp;</span></li>
+                    <li><span style="font-weight: lighter;">religious or philosophical beliefs;&nbsp;</span></li>
+                    <li><span style="font-weight: lighter;">genetic data; and&nbsp;</span></li>
+                    <li><span style="font-weight: lighter;">biometric data.</span></li>
+                </ul>
+            </span>
+        </div><br />
+        <div>
+            <h4 class="MuiTypography-root MuiTypography-h4 text-color-white">Disclosure to third parties</h4>
+            <p>Your personal data will be kept confidential and will not be disclosed to any third parties unless we have
+                the express consent from you or we have lawful grounds to do so.</p>
+            <p>Subject to the provisions of any applicable law and your consent, in order to operate our business smoothly,
+                we may disclose your personal data to our FWD Group, affiliated entities and business partners and/or third
+                party entities in Thailand or overseas to enable them to tell you about a product or service and store,
+                maintain and manage your personal data. Please refer to the list of FWD Group, affiliated entities and
+                business partners and/or third party entities here [<a href="https://www.fwd.co.th/en/third-parties">https://www.fwd.co.th/en/third-parties</a>].</p>
+        </div><br />
+        <div>
+            <h4 class="MuiTypography-root MuiTypography-h4 text-color-white">Retention period</h4>
+            <p>We will not keep your personal data, in any case, longer than that is necessary for the purposes for which
+                that personal data was collected, held and processed, except where the retention period is determined by
+                other laws and regulations, which in many cases is up to 11 years after the end of our relationship with
+                you.</p>
+            <p>We undertake that the personal data will be retained in a secure location, accessible only to authorised
+                persons and will destroy it immediately once the retention period has elapsed.</p>
+        </div><br />
+        <div>
+            <h4 class="MuiTypography-root MuiTypography-h4 text-color-white">Your rights regarding the data under the PDPA</h4>
+            <p>You have rights to your privacy regarding the given personal data according to the PDPA.</p>
+            <p>Importantly, if you change your mind about how you would like us to contact you or if you no longer wish to
+                receive information for the direct marketing, you can tell us anytime by following our withdrawal process.
+            </p>
+            <p>If you withdraw your consent, we will not be able to directly provide you with the information, products or
+                services, except those related to core insurance business, you may need or may be interested in.</p>
+            <p>Please refer to our <strong>Privacy Policy</strong> available on our website <a href="http://www.fwd.co.th/en/privacy-policy/">www.fwd.co.th/en/privacy-policy/</a> for full details
+                about our privacy policy and your rights to your personal data.</p>
+            <p>For further information or to exercise any of your rights, please contact: <br />
+                Name: Data Protection Officer <br />
+                Email address: <a href="mailto:dataprotection.th@fwd.co.th">dataprotection.th@fwd.co.th</a> <br />
+                14th Floor, 16th Floor, 26th - 29th Floor, 130-132 Sindhorn Building Tower 3,
+                Withayu Road, Lumpini, Pathumwan, Bangkok 10330
+            </p>
+        </div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200520T114603Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <div>
+            <h4 class="MuiTypography-root MuiTypography-h4 text-color-white">คำนำ</h4>
+            <p>บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) (ต่อไปในเอกสารนี้จะเรียกว่า <strong>“บริษัทฯ”</strong>)
+                มีความมุ่งมั่นรับผิดชอบทุกประการในการปกป้องคุ้มครองและเคารพความเป็นส่วนบุคคลในข้อมูลที่ท่านได้มอบให้กับบริษัทฯ
+                และบริษัทฯ เชื่อว่าบริษัทฯ มีหน้าที่ในการจัดการ
+                ปกป้องและประมวลผลข้อมูลส่วนบุคคลของท่านโดยเป็นไปตามพระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562
+                (<strong>“พรบ. คุ้มครองข้อมูลส่วนบุคคล”</strong>)</p>
+        </div><br />
+        <div>
+            <h4 class="MuiTypography-root MuiTypography-h4 text-color-white">วัตถุประสงค์ของบริษัทฯ</h4>
+            <p>ขณะที่ท่านมีการติดต่อเพื่อทำธุรกรรมหรือดำเนินการใด ๆ กับบริษัทฯ บริษัทฯ ได้มีการเก็บรวบรวม ใช้
+                เปิดเผยและประมวลผลข้อมูลส่วนบุคคลของท่านด้วยวิธีที่ยุติธรรมและถูกต้องตามกฎหมายและตามที่จำเป็นเพื่อวัตถุประสงค์เฉพาะเจาะจงดังต่อไปนี้&nbsp;<br />
+            </p>
+            <ul>
+                <li><span style="font-weight: lighter;">ปฏิบัติหน้าที่ของบริษัทฯ ภายใต้กรมธรรม์ประกันภัยที่บริษัทฯ
+                        มีอยู่กับท่าน&nbsp;</span></li>
+                <li><span style="font-weight: lighter;">ระบุและจัดหาให้กับท่านซึ่งข้อมูลเกี่ยวกับบริการหรือผลิตภัณฑ์ที่อาจเป็นประโยชน์ต่อท่านหรือที่ท่านอาจสนใจ&nbsp;</span>
+                </li>
+                <li><span style="font-weight: lighter;">การตลาดหรือแจ้งประเภทบริการและผลิตภัณฑ์ต่าง ๆ ของบริษัทฯ
+                        หรือของบริษัทในกลุ่ม FWD บริษัทในเครือ บริษัทคู่ค้าและ/หรือบุคคลภายนอก เช่น:&nbsp;</span>
+                    <ul>
+                        <li><span style="font-weight: lighter;">บริการและผลิตภัณฑ์ด้านประกันภัย&nbsp;</span></li>
+                        <li><span style="font-weight: lighter;">บริการและผลิตภัณฑ์ด้านการเงิน&nbsp;</span></li>
+                        <li><span style="font-weight: lighter;">การขาย, การขายต่อเนื่อง (cross selling) หรือการขายต่อยอด
+                                (upselling) บริการและผลิตภัณฑ์ต่าง ๆ&nbsp;&nbsp;</span></li>
+                        <li><span style="font-weight: lighter;">การให้รางวัลตอบแทน โครงการส่งเสริมการขาย
+                                โครงการสร้างความสัมพันธ์กับลูกค้า (loyalty program) หรือ โครงการสิทธิพิเศษของลูกค้า
+                                (privilege programmes) และบริการหรือผลิตภัณฑ์ที่เกี่ยวข้อง และ&nbsp;</span></li>
+                        <li><span style="font-weight: lighter;">การบริจาคเพื่อกิจกรรมด้านการกุศล และ/หรือด้านอื่น ๆ
+                                ที่ไม่แสวงหาผลกำไร&nbsp;</span></li>
+                    </ul>
+                </li>
+                <li><span style="font-weight: lighter;">วิเคราะห์ข้อมูล วิจัยและข้อคิดเห็นและข้อเสนอแนะ (feedback)
+                        การตอบรับเพื่อการพัฒนา สร้าง และดำเนินโมเดลธุรกิจของบริษัทฯ รวมทั้งผลิตภัณฑ์ บริการ และระบบต่าง ๆ
+                        ที่จะช่วยให้บริษัทฯ สามารถให้บริการในมาตรฐานที่สูงขึ้น หรือเพิ่มผลประโยชน์ให้แก่ท่าน&nbsp;</span>
+                </li>
+                <li><span style="font-weight: lighter;">ทบทวนความคุ้มครองของกรมธรรม์ที่ท่านมีอยู่และวิเคราะห์ความต้องการ
+                        (need analysis) และ&nbsp;</span></li>
+                <li><span style="font-weight: lighter;">จัดประชุม ฝึกอบรมหรือกิจกรรมต่าง ๆ สำหรับลูกค้าของบริษัทฯ</span>
+                </li>
+            </ul>
+        </div><br />
+        <div>
+            <h4 class="MuiTypography-root MuiTypography-h4 text-color-white">ข้อมูลส่วนบุคคลของท่านที่บริษัทฯ เก็บรวบรวม ใช้และเปิดเผย</h4>
+            <p>ขณะที่ท่านมีการติดต่อเพื่อทำธุรกรรมหรือดำเนินการใด ๆ กับบริษัทฯ บริษัทฯ ได้มีการเก็บรวบรวม ใช้
+                เปิดเผยและประมวลผลข้อมูลส่วนบุคคลของท่านดังต่อไปนี้&nbsp;</p>
+            <ul>
+                <li>รายละเอียดเกี่ยวกับตัวท่าน เช่น ชื่อ นามสกุล เพศ วันเดือนปีเกิด การศึกษา อาชีพ สถานภาพสมรส
+                    และสัญชาติ&nbsp;</li>
+                <li>รายละเอียดสำหรับการติดต่อ เช่น ชื่อ ที่อยู่ อีเมล์ หมายเลขโทรศัพท์และบัญชีโซเชียลมีเดีย&nbsp;</li>
+                <li>รายละเอียดเกี่ยวกับการระบุและยืนยันตัวตน เช่นหมายเลขบัตรประชาชน หมายเลขหนังสือเดินทาง หมายเลขใบขับขี่
+                    ภาพถ่าย ภาพจากกล้องวงจรปิด&nbsp;</li>
+                <li>รายละเอียดทางการเงิน เช่น การจ่ายเงินของท่าน หมายเลขบัตรเครดิต รายละเอียดบัญชีธนาคาร&nbsp;</li>
+                <li>ผลการตรวจสอบของบริษัทในรายละเอียดเกี่ยวกับท่านในเรื่องเครดิตความน่าเชื่อถือหรือประวัติทางการเงิน&nbsp;
+                </li>
+                <li>รายละเอียดเกี่ยวกับการเรียกร้องสินไหมชดเชยที่เกี่ยวข้อง&nbsp;</li>
+                <li>ข้อมูลการจ้างงานและเงินเดือน&nbsp;</li>
+                <li>ชื่อและที่อยู่ของผู้อยู่ในอุปการะหรือผู้รับผลประโยชน์ของท่าน&nbsp;</li>
+                <li>ข้อมูลเกี่ยวกับการที่ท่านใช้เว็บไซต์ หรือเทคโนโลยีอื่น ๆ ของบริษัท รวมทั้ง IP Address
+                    ข้อมูลอุปกรณ์&nbsp;</li>
+                <li>ข้อมูลอื่น ๆ ที่ท่านได้ให้ไว้กับบริษัทฯ&nbsp;</li>
+            </ul>
+            นอกจากนี้แล้ว บริษัทฯ อาจเก็บรวบรวมและครอบครองข้อมูลส่วนบุคคลที่อ่อนไหว (sensitive data) ของท่าน เช่น&nbsp;<br />
+            <ul>
+                <li>ข้อมูลสุขภาพหรือการรักษาพยาบาล&nbsp;</li>
+                <li>เชื้อชาติ หรือเผ่าพันธุ์&nbsp;</li>
+                <li>รสนิยมหรือวิถีทางเพศ&nbsp;</li>
+                <li>การเป็นสมาชิกองค์กรทางการเมือง วิชาชีพ หรือสมาคมการค้า&nbsp;</li>
+                <li>ประวัติอาชญากรรม&nbsp;</li>
+                <li>ความเชื่อทางศาสนาหรือปรัชญา&nbsp;</li>
+                <li>ข้อมูลเกี่ยวกับพันธุกรรม และ&nbsp;</li>
+                <li>ข้อมูลอัตลักษณ์ทางชีวภาพ (biometric)</li>
+            </ul>
+        </div><br />
+        <div>
+            <h4 class="MuiTypography-root MuiTypography-h4 text-color-white">การเปิดเผยข้อมูลแก่บุคคลภายนอก</h4>
+            <p>บริษัทฯ จัดเก็บรักษาข้อมูลส่วนบุคคลของท่านไว้เป็นความลับ และจะไม่เปิดเผยข้อมูลแก่บุคคลภายนอก
+                เว้นแต่บริษัทจะได้รับความยินยอมโดยชัดแจ้งจากท่านหรือมีเหตุอันชอบด้วยกฎหมายให้ต้องเปิดเผย</p>
+            <p>ภายใต้ข้อกำหนดของกฎหมายที่เกี่ยวข้องและความยินยอมของท่าน และเพื่อให้บริษัทฯสามารถประกอบธุรกิจได้อย่างราบรื่น
+                บริษัทฯ อาจมีการเปิดเผยข้อมูลส่วนบุคคลของท่านแก่บริษัทในกลุ่มFWD บริษัทในเครือ บริษัทคู่ค้า
+                และ/หรือบุคคลภายนอกในประเทศไทยหรือต่างประเทศ เพื่อให้บุคคลดังกล่าวสามารถแจ้งผลิตภัณฑ์หรือบริการใด ๆ
+                ให้ท่านทราบ และ รวมทั้งจัดเก็บ รักษาและบริหารจัดการข้อมูลส่วนบุคคลของท่าน ซึ่งรายชื่อของบริษัทในกลุ่ม FWD
+                บริษัทในเครือ บริษัทคู่ค้าและ/หรือบุคคลภายนอก จะปรากฏตามลิงค์ดังต่อไปนี้ [<a href="https://www.fwd.co.th/th/third-parties">https://www.fwd.co.th/th/third-parties</a>]</p>
+        </div><br />
+        <div>
+            <h4 class="MuiTypography-root MuiTypography-h4 text-color-white">ระยะเวลาการเก็บรักษาข้อมูล</h4>
+            <p>บริษัทฯ จะเก็บรักษาข้อมูลส่วนบุคคลของท่านไม่ว่าในกรณีใด ๆ
+                ก็ตามไม่เกินกว่าระยะเวลาที่จำเป็นเพื่อการดำเนินการตามวัตถุประสงค์ที่ได้มีการเก็บรวบรวม ครอบครอง
+                หรือประมวลผลข้อมูลส่วนบุคคล เว้นแต่ในกรณีที่กฎหมาย กฎ ระเบียบอื่นใดจะได้กำหนดระยะเวลาการเก็บรักษาข้อมูล
+                ซึ่งในกรณีส่วนใหญ่แล้วจะไม่เกิน 11 ปีหลังจากความสัมพันธ์ระหว่างบริษัทฯ กับท่านสิ้นสุดลง</p>
+            <p>บริษัทฯ ให้คำมั่นว่า บริษัทฯ จะเก็บรักษาข้อมูลส่วนบุคคลของท่านไว้ในสถานที่ที่ปลอดภัย
+                ซึ่งเฉพาะผู้มีอำนาจเท่านั้นที่สามารถเข้าถึงได้
+                และจะทำลายข้อมูลส่วนบุคคลของท่านทันทีที่ระยะเวลาการเก็บรักษาได้ผ่านพ้นไป</p>
+        </div><br />
+        <div>
+            <h4 class="MuiTypography-root MuiTypography-h4 text-color-white">สิทธิของท่านเกี่ยวกับข้อมูลภายใต้พรบ. คุ้มครองข้อมูลส่วนบุคคล</h4>
+            <p>ภายใต้พรบ. คุ้มครองข้อมูลส่วนบุคคล ท่านมีสิทธิต่าง ๆ
+                ในความเป็นส่วนบุคคลเกี่ยวกับข้อมูลส่วนบุคคลที่ท่านได้ให้ไว้กับบริษัทฯ</p>
+            <p>หากท่านต้องการเปลี่ยนวิธีการที่ท่าน ประสงค์จะให้บริษัทฯ ติดต่อท่าน หรือหากท่านไม่ประสงค์ที่จะให้บริษัทฯ
+                ส่งข้อมูลทางการตลาดถึงท่านอีกต่อไป ท่านสามารถแจ้งให้บริษัทฯ
+                ทราบได้ทุกเมื่อโดยดำเนินการตามขั้นตอนการขอถอนความยินยอม</p>
+            <p>ทั้งนี้ หากท่านได้ถอนความยินยอมแล้ว บริษัทฯ จะไม่สามารถให้ข้อมูลผลิตภัณฑ์หรือบริการต่าง ๆ ที่ท่านอาจจำเป็น
+                หรืออาจสนใจแก่ท่านโดยตรงได้ ยกเว้น ข้อมูลผลิตภัณฑ์หรือบริการที่เกี่ยวข้องกับธุรกิจประกันภัยหลักของบริษัทฯ
+            </p>
+            <p>ท่านสามารถศึกษารายละเอียดเพิ่มเติมเกี่ยวกับ นโยบายข้อมูลส่วนบุคคล (Privacy Policy)
+                และสิทธิในข้อมูลส่วนบุคคลของท่าน เว็บไซต์ของบริษัทฯ ดังต่อไปนี้ <a href="http://www.fwd.co.th/th/privacy-policy/">www.fwd.co.th/th/privacy-policy/</a> </p>
+            <p>หากท่านประสงค์จะได้รับข้อมูลเพิ่มเติม หรือใช้สิทธิของท่านสามารถติดต่อบริษัทฯ ได้ตามอีเมลดังต่อไปนี้
+                <br />
+                ชื่อ: เจ้าหน้าที่คุ้มครองข้อมูลส่วนบุคคล <br />
+                &nbsp;อีเมล์: <a href="mailto:dataprotection.th@fwd.co.th">dataprotection.th@fwd.co.th</a>
+                <br />
+                บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) <br />
+                เลขที่ 130-132 อาคาร สินธรทาวเวอร์ 3 ชั้น 14,16, 26-29
+                ถนนวิทยุ แขวงลุมพินี เขตปทุมวัน กรุงเทพฯ 10310
+            </p>
+        </div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: 

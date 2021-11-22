@@ -1,0 +1,90 @@
+﻿---
+ID: "00af69ef-3722-4c36-baf5-cf5ea1a91b35"
+Parent: "38a8fcc4-140e-40b2-bb61-f830003c6c80"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Functions/Modules/Teams
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    param(
+    $params
+    )
+    
+    Import-Function Global-Functions
+    		
+    if($params.Item){
+    		$newPath = $params.Item.ItemPath + '/Components'
+    		$newItem = Get-Item -Path $newPath
+    		$teamsItem = New-Item -Parent $newItem -Name "Teams" -ItemType $params.TemplateID -Language $params.language
+    		
+    		$modules = Get-ItemInsertOptions $teamsItem
+    		$modulesSortedByKey = Get-OrderedDictionaryByKey $modules
+    		
+    		if ($modulesSortedByKey.Count -gt 0) {
+    		
+    		$TeamsFolder = New-Item -Parent $teamsItem -Name "Employee" -ItemType $modulesSortedByKey.'Team Folder' -Language $params.language
+    		
+    		$TeamsFoldermodules = Get-ItemInsertOptions $TeamsFolder
+    		$TeamsFoldermodulesSortedByKey = Get-OrderedDictionaryByKey $TeamsFoldermodules
+    		if ($TeamsFoldermodulesSortedByKey.Count -gt 0) {
+    		$Teams1 = New-Item -Parent $TeamsFolder -Name "betty-hau" -ItemType $TeamsFoldermodulesSortedByKey.'Profile' -Language $params.language
+    		$Teams1.Editing.BeginEdit()
+    		$Teams1["__Display name"] = "Betty Hau"
+    		$Teams1.Fields["name"].Value = "Betty Hau"
+    		$Teams1.Fields["designation"].Value = "Group Chief Executive Officer"
+    		$Teams1.Fields["isFeatured"].Value = 1
+    		$Teams1.Fields["quote"].Value = "<p><em>As FWD Group CEO, I share a strong passion with my team about changing the way people feel about insurance. I work closely with our leadership team to build FWD into a strong, cohesive business across Asia achieving our unified vision to bring change to the insurance landscape.</em></p>"
+    		$Teams1.Fields["description"].Value = "Betty was a Top of the Table (TOT) Member in 2017 as well as the winner of Distinguished Manager Award (DMA) and Quality Advisor Award (QAA) in 2016. Besides, Betty was the winner of many of our company awards, including Agent of the Year (Production) - Champion, Branch Manager of the Year - Champion, Elite Manager and Kings Club member. Betty has definitely showed her eagerness to be successful over the past years and she will surely keep shining in the future."		
+    		$Teams1.Editing.EndEdit()
+    		
+    		$Teams2 = New-Item -Parent $TeamsFolder -Name "cori-chau" -ItemType $TeamsFoldermodulesSortedByKey.'Profile' -Language $params.language
+    		$Teams2.Editing.BeginEdit()
+    		$Teams2["__Display name"] = "Cori Chau"
+    		$Teams2.Fields["name"].Value = "Cori Chau"
+    		$Teams2.Fields["designation"].Value = "CDO"
+    		$Teams2.Fields["isFeatured"].Value = 0
+    		$Teams2.Fields["quote"].Value = ""
+    		$Teams2.Fields["description"].Value = "In 2016, Cori was the Agency Director of the Year (Champion). We believe she will not only continue to be the performer in the future, but also a collaborator, a challenger and eventually a champion."
+    		$Teams2.Editing.EndEdit()
+    		}
+    		
+    		$TeamsFolder = New-Item -Parent $teamsItem -Name "Managers" -ItemType $modulesSortedByKey.'Team Folder' -Language $params.language
+    		
+    		$TeamsFoldermodules = Get-ItemInsertOptions $TeamsFolder
+    		$TeamsFoldermodulesSortedByKey = Get-OrderedDictionaryByKey $TeamsFoldermodules
+    		if ($TeamsFoldermodulesSortedByKey.Count -gt 0) {
+    		$Teams1 = New-Item -Parent $TeamsFolder -Name "joseph-king-yiu-cheung" -ItemType $TeamsFoldermodulesSortedByKey.'Profile' -Language $params.language
+    		$Teams1.Editing.BeginEdit()
+    		$Teams1["__Display name"] = "Joseph King-Yiu Cheung"
+    		$Teams1.Fields["name"].Value = "Joseph King-Yiu Cheung"
+    		$Teams1.Fields["designation"].Value = "Chief Risk Officer"
+    		$Teams1.Fields["isFeatured"].Value = 0
+    		$Teams1.Fields["quote"].Value = " Joseph is accountable for financial, regulatory, and technological risk management operations and initiatives. He plays a critical part in developing and introducing an integrative risk management framework and assuring the corporate security. Joseph has 28 years of experience in insurance and financial industry."
+    		$Teams1.Fields["description"].Value = ""
+    		$Teams1.Editing.EndEdit()
+    		
+    		$Teams2 = New-Item -Parent $TeamsFolder -Name "krit-chitranapawong" -ItemType $TeamsFoldermodulesSortedByKey.'Profile' -Language $params.language
+    		$Teams2.Editing.BeginEdit()
+    		$Teams2["__Display name"] = "Krit Chitranapawong"
+    		$Teams2.Fields["name"].Value = "Krit Chitranapawong"
+    		$Teams2.Fields["designation"].Value = "Chief Alternative Distribution Officer"
+    		$Teams2.Fields["isFeatured"].Value = 0
+    		$Teams2.Fields["quote"].Value = "Krit plays a leadership role in overseeing all business operations of alternative distribution channels and establishing strong foundation in alternative distribution market.
+    He has a solid background in Actuary and more than 17 years of extensive experiences in marketing and distribution development, strategic channel management as well as business partnership management.
+    He has strong track record in building growth and business relationship with state enterprises, government and private sectors when working in the leading companies in Thailand - both life and non-life insurance industry."
+    		$Teams2.Fields["description"].Value = ""
+    		$Teams2.Editing.EndEdit()
+    		}
+    		
+    		}
+    		}	
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200528T093137Z

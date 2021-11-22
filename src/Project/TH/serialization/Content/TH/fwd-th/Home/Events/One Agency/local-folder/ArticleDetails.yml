@@ -1,0 +1,41 @@
+﻿---
+ID: "e9c2dfa5-cda8-4229-a1af-9751620b8021"
+Parent: "348d70f1-adab-4c3e-bcd7-8eff783c5790"
+Template: "90753b30-92e3-4d17-a179-39166b735fef"
+Path: "/sitecore/content/fwd/fwd-th/Home/Events/One Agency/local-folder/ArticleDetails"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{5D29E82B-A647-48B9-9469-1BDE2E4B65DE}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Article Description Area
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T140501Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "e9c70fbd-0d22-4842-90ac-6da4d7b24199"
+      Hint: enableFullArticleCTA
+      Type: Checkbox
+      Value: 0
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T144540Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit

@@ -1,0 +1,61 @@
+﻿---
+ID: "715406d9-84f6-46e0-8cc4-f592282e03ac"
+Parent: "83082f20-c297-4f42-825e-01eddfb48929"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Support/premium-payment/local-folder/premium-payment/life-and-accident-insurance/Autopay/auto-debit-via-savings-accounts-apply-at-atm"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Auto debit via savings accounts - apply at ATM"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200107T090423Z
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Auto debit via savings accounts - apply at ATM</strong></p>
+        <p>Receive a response within one day when you apply at these ATMS:</p>
+        <ul>
+            <li>Thai Military Bank</li>
+            <li>Kasikorn Bank</li>
+            <li>Siam Commercial Bank</li>
+            <li>Bangkok Bank</li>
+            <li>Bank of Ayudhaya</li>
+            <li>Krung Thai Bank</li>
+        </ul>
+        <p>Check the signature verification guidelines</p>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T104948Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Auto debit via savings accounts - apply at ATM</strong></p>
+        <p>Receive a response within one day when you apply at these ATMS:</p>
+        <ul>
+            <li>Thai Military Bank</li>
+            <li>Kasikorn Bank</li>
+            <li>Siam Commercial Bank</li>
+            <li>Bangkok Bank</li>
+            <li>Bank of Ayudhaya</li>
+            <li>Krung Thai Bank</li>
+        </ul>
+        <p>Check the signature verification guidelines</p>

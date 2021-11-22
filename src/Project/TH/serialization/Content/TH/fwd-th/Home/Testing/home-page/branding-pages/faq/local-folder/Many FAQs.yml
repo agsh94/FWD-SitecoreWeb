@@ -1,0 +1,50 @@
+﻿---
+ID: "0b5004d6-d397-4344-b134-abc66b26d71a"
+Parent: "7510a3c7-8024-43c6-91a0-78bb3f0b5881"
+Template: "14cf212d-7cf4-41aa-b50b-24d748a87556"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/faq/local-folder/Many FAQs"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "f973c399-5998-47a5-ae48-760ebed901b1"
+  Hint: faqItems
+  Value: "{E5E91ABE-E689-4FA6-97EB-493D2AB4DDA4}|{A7F93300-5419-41F1-B085-0678466F9232}|{71E70749-E5AE-4A16-8ED2-C24D73A43BAA}|{9F9B3642-BA35-486B-891B-0B0EEEC1582E}|{FE9499FC-981C-486C-BFD3-CE6101747A2A}|{36C6669A-FE9A-41EB-AFDB-DD3D1D3113B2}|{2074E73A-BBE1-4D20-8E26-438F8AE5638B}|{6597D411-F7A1-4A70-8737-2A1A349C19F1}|{68C3A4CE-FB2A-4D12-900C-CDB9CD53FADC}|{6608654E-BA84-48E1-9BA7-F81A535918A0}|{875E3757-2ED3-4D73-92AE-2059DBEB77C1}|{28BD5341-F22B-4414-90C3-C215040784E1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200707T120517Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See More FAQs" anchor="" linktype="internal" class="" title=""  querystring="" id="{2FB8A667-9926-4939-8E62-0CFAF99D862F}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: Many FAQs
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200708T071633Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ดูคำถามที่พบบ่อยเพิ่มเติม" anchor="" linktype="internal" class="" title=""  querystring="" id="{2FB8A667-9926-4939-8E62-0CFAF99D862F}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value:  คำถามที่พบบ่อยมากมาย

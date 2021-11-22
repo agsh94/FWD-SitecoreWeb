@@ -1,0 +1,144 @@
+﻿---
+ID: "64d3c07a-d064-4178-9731-ac883cd27e67"
+Parent: "f17073f3-3fe1-4b5e-93b0-fdfeb7e80446"
+Template: "937f9755-269c-46cb-87cf-e05c0211ef32"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/about-us/press-releases/article-4"
+DB: master
+SharedFields:
+- ID: "05b2b484-bdd9-4a0c-9bc2-013e6a9989a9"
+  Hint: subtype
+  Value: "{32407654-2980-423F-A25D-877A01897B6D}"
+- ID: "10e652c4-46dd-4b96-94af-033d6997a41a"
+  Hint: userType
+  Type: Multilist
+  Value: |
+    {BEC470BE-EBEE-4A68-BE1D-4D071BFCE207}
+    {509F75D7-D08A-42AF-A20E-320AFB952C52}
+- ID: "51605d25-f8a6-4776-990d-342cf6bc523b"
+  Hint: subtopics
+  Type: Multilist
+  Value: |
+    {DE381A7D-C3A9-4F7B-BEF5-7612E20891D7}
+    {0DF7BEFB-1EA7-483D-9490-57BF2A9B3708}
+    {1970AFA1-F5F5-4A3C-962D-2C3D932F9209}
+- ID: "644a759b-d9f0-46b0-b5a2-afc11a100bb1"
+  Hint: topics
+  Type: Multilist
+  Value: |
+    {4C6B8CB9-D359-4498-A1CD-107CBB0843FE}
+    {1A0882D1-29E0-44F1-A452-1BFA66656B0E}
+    {29E61A52-59F8-45F0-B7D0-DCF3FFCEE6BA}
+    {CF0C84AA-2987-4D4E-BE51-0297A9AE251D}
+- ID: "adb8c199-23ee-47b6-ac3a-e42511001cd9"
+  Hint: featuredTags
+  Type: TreelistEx
+  Value: |
+    {4F3A2D61-BBA0-47E8-AFAC-1A0873AC1D34}
+    {26E51BE2-BB06-499C-BE0E-CE58CD11F888}
+    {816CB531-4F1C-4DBA-B10B-65458B9C9DBC}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F4401E93-3C44-4861-AE73-AE8F72A5C86F}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{8B882DA0-246E-4ED0-AF73-96D257D48B65}"
+          s:ds="{BD650F99-0BAE-4D90-9B01-15F49AA58F02}" />
+        <r
+          uid="{B34524D6-F06A-46EF-BBB9-37BE63541C2B}"
+          s:ds="{C242D8B1-A9A9-4130-BBA1-05399C78CEB9}" />
+        <r
+          uid="{F131E204-4546-436A-9BAA-F8A7D613A0DE}"
+          s:ds="{00B85311-B084-4955-985E-DB85C50FB697}" />
+        <r
+          uid="{DCEFBE9A-CB6F-4EA1-B123-C1DB121B4108}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+      </d>
+    </r>
+- ID: "ff451472-1b55-4228-b14d-ab9b2a449792"
+  Hint: isPageSearchable
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Article 4
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191007T140031Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20151116T183000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Article 4
+    - ID: "8903e668-0898-456c-b6ed-09d94259e5b1"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{300983E3-B672-4900-BDD7-1A82926A511A}" />
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: Changing the way people feel about insurance
+    - ID: "d940cafe-2148-466e-9707-0748711f5fdc"
+      Hint: image
+      Value: |
+        <image mediaid="{300983E3-B672-4900-BDD7-1A82926A511A}" />
+    - ID: "f109a737-77b7-48cf-969c-2f55df9d876a"
+      Hint: shortDescription
+      Value: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T034848Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20151116T183000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Article 4
+    - ID: "8903e668-0898-456c-b6ed-09d94259e5b1"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{300983E3-B672-4900-BDD7-1A82926A511A}" />
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: Changing the way people feel about insurance
+    - ID: "d940cafe-2148-466e-9707-0748711f5fdc"
+      Hint: image
+      Value: |
+        <image mediaid="{300983E3-B672-4900-BDD7-1A82926A511A}" />
+    - ID: "f109a737-77b7-48cf-969c-2f55df9d876a"
+      Hint: shortDescription
+      Value: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo

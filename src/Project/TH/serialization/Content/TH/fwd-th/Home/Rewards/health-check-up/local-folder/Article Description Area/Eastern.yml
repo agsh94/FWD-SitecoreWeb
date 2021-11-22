@@ -1,0 +1,217 @@
+﻿---
+ID: "637a5b6b-950d-4b0b-b67f-8b2b64916af3"
+Parent: "62f4d9b7-e439-45a7-8ddf-857d29b64e3a"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/health-check-up/local-folder/Article Description Area/Eastern"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200805T043625Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sarat
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span><strong>ภาคตะวันออก</strong></span></p>
+        <table style="font-size: 0.8em; vertical-align: top;">
+            <tbody>
+                <tr style="height: 14.25pt;">
+                    <td class="xl65" style="height: 14.25pt; width: 54pt; text-align: left;"><strong>จังหวัด</strong></td>
+                    <td class="xl65" style="width: 170pt; text-align: left;"><strong>โรงพยาบาล</strong></td>
+                    <td class="xl65" style="width: 476pt; text-align: left;"><strong>แผนก/เบอร์ติดต่อ</strong></td>
+                    <td class="xl65" style="width: 101pt; text-align: left;"><strong>รายละเอียดโปรโมชั่น</strong></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">จันทบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ จันทบุรี</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 2 /&nbsp;0 3931 9818</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f15a3261172947bd847506d44cdc2f22.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ชลบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ พัทยา</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ตึก E ชั้น 5 /&nbsp;08 6688 0516</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/94f84f40a33f463caeffc4f94b365116.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ระยอง</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ ระยอง</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพชั้น G /&nbsp;0 3861 2999&nbsp;ต่อ 2102</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/446808f415d744e68c4109a22840ad57.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ฉะเชิงเทรา</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์ ฉะเชิงเทรา</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 2 /&nbsp;0 3881 2702-17&nbsp;ต่อ 1274-1276</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/97b912fac1014b35a3938b030045f0da.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ฉะเชิงเทรา</td>
+                    <td class="xl65" style="text-align: left;">รพ. จุฬารัตน์ 11</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพครบวงจร One stop service โรงพยาบาลจุฬารัตน์ 3 อินเตอร์ /&nbsp;0 3850 0300</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/af43d354cac04028a3d78f5a58cbb09b.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ชลบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. สมิติเวช ชลบุรี</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 1 /&nbsp;0 3303 8888&nbsp;ต่อ 10171</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/3f61eb098f07488e9654792f1d76a6d8.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ชลบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. สมิติเวช ศรีราชา</td>
+                    <td class="xl65" style="text-align: left;">แผนก Wellness /&nbsp;0 3832 0300&nbsp;ต่อ 3105-6</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/e0dfa69c9c2c457d83a2491b0fe0736c.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">จันทบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. สิริเวช</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 2 /&nbsp;0 3960 5666&nbsp;ต่อ 1274</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/554d052b3a7c41268fc2620c49146efc.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ชลบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. พญาไท ศรีราชา</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 3 ตึก A /&nbsp;0 3831 7333&nbsp;ต่อ 2492</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/de0f51e65a044fdd91d382e1cab617a9.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ชลบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. เอกชล 1</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 3 อาคาร 1 /&nbsp;0 3893 9999&nbsp;ต่อ 2256</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/62be856b291342dfafe386c1a2a5d67b.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ชลบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. เอกชล 2</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ Premium Clinic ชั้น 1 /&nbsp;0 3893 9888&nbsp;ต่อ 5185, 5186</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/62be856b291342dfafe386c1a2a5d67b.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ตราด</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ ตราด</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ /&nbsp;0 3961 2000</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/55e18940b4bb43128c7e717272698241.ashx">คลิก</a></td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200813T041922Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span><strong>ภาคตะวันออก</strong></span></p>
+        <table style="font-size: 0.8em; vertical-align: top;">
+            <tbody>
+                <tr style="height: 14.25pt;">
+                    <td class="xl65" style="height: 14.25pt; width: 54pt; text-align: left;"><strong>จังหวัด</strong></td>
+                    <td class="xl65" style="width: 170pt; text-align: left;"><strong>โรงพยาบาล</strong></td>
+                    <td class="xl65" style="width: 476pt; text-align: left;"><strong>แผนก/เบอร์ติดต่อ</strong></td>
+                    <td class="xl65" style="width: 101pt; text-align: left;"><strong>รายละเอียดโปรโมชั่น</strong></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">จันทบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ จันทบุรี</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 2 /&nbsp;0 3931 9818</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f15a3261172947bd847506d44cdc2f22.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ชลบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ พัทยา</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ตึก E ชั้น 5 /&nbsp;08 6688 0516</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/94f84f40a33f463caeffc4f94b365116.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ระยอง</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ ระยอง</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพชั้น G /&nbsp;0 3861 2999&nbsp;ต่อ 2102</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/446808f415d744e68c4109a22840ad57.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ฉะเชิงเทรา</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์ ฉะเชิงเทรา</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 2 /&nbsp;0 3881 2702-17&nbsp;ต่อ 1274-1276</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/97b912fac1014b35a3938b030045f0da.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ฉะเชิงเทรา</td>
+                    <td class="xl65" style="text-align: left;">รพ. จุฬารัตน์ 11</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพครบวงจร One stop service โรงพยาบาลจุฬารัตน์ 3 อินเตอร์ /&nbsp;0 3850 0300</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/af43d354cac04028a3d78f5a58cbb09b.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ชลบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. สมิติเวช ชลบุรี</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 1 /&nbsp;0 3303 8888&nbsp;ต่อ 10171</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/3f61eb098f07488e9654792f1d76a6d8.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ชลบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. สมิติเวช ศรีราชา</td>
+                    <td class="xl65" style="text-align: left;">แผนก Wellness /&nbsp;0 3832 0300&nbsp;ต่อ 3105-6</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/e0dfa69c9c2c457d83a2491b0fe0736c.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">จันทบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. สิริเวช</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 2 /&nbsp;0 3960 5666&nbsp;ต่อ 1274</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/554d052b3a7c41268fc2620c49146efc.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ชลบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. พญาไท ศรีราชา</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 3 ตึก A /&nbsp;0 3831 7333&nbsp;ต่อ 2492</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/de0f51e65a044fdd91d382e1cab617a9.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ชลบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. เอกชล 1</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 3 อาคาร 1 /&nbsp;0 3893 9999&nbsp;ต่อ 2256</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/62be856b291342dfafe386c1a2a5d67b.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ชลบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. เอกชล 2</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ Premium Clinic ชั้น 1 /&nbsp;0 3893 9888&nbsp;ต่อ 5185, 5186</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/62be856b291342dfafe386c1a2a5d67b.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ตราด</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ ตราด</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ /&nbsp;0 3961 2000</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/55e18940b4bb43128c7e717272698241.ashx">คลิก</a></td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200813T041922Z

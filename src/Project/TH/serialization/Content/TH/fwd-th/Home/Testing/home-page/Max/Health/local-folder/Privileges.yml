@@ -1,0 +1,44 @@
+﻿---
+ID: "7de125a4-3f3c-4c70-9b73-188e9731b72a"
+Parent: "d2fd2843-0295-4ecc-a986-2529affd62c4"
+Template: "c24acda9-af2d-4f91-b736-509937cc444e"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Max/Health/local-folder/Privileges"
+DB: master
+SharedFields:
+- ID: "2bb03f6c-a424-487e-b70e-8b96a004e219"
+  Hint: gaCategoryName
+  Value: "Privelege-GA"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{BAFDCC1C-318B-4574-AFB6-C52E47839C60}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200206T121427Z
+    - ID: "d7ce724c-2ece-4ca3-99ed-06b20e846322"
+      Hint: linkItems
+      Value: "{785B227F-BB7E-4FA0-B7B2-1E8184F1E5D3}|{E32329DD-2FC7-45BB-808C-1E5B105336D2}|{BFACA9AC-C4E1-4D70-8B90-2F5B0D04F604}"
+    - ID: "f39b7a44-d8d3-467c-949d-5a6a33a9bb8a"
+      Hint: title
+      Value: Privileges
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200219T091748Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d7ce724c-2ece-4ca3-99ed-06b20e846322"
+      Hint: linkItems
+      Value: "{785B227F-BB7E-4FA0-B7B2-1E8184F1E5D3}|{E32329DD-2FC7-45BB-808C-1E5B105336D2}|{BFACA9AC-C4E1-4D70-8B90-2F5B0D04F604}"
+    - ID: "f39b7a44-d8d3-467c-949d-5a6a33a9bb8a"
+      Hint: title
+      Value: Privileges

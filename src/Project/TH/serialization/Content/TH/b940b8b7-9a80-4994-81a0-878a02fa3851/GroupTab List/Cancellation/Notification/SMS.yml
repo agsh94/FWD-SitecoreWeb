@@ -1,0 +1,29 @@
+﻿---
+ID: "229ed426-527c-4b14-a3bd-b0f5419162be"
+Parent: "ecd863ce-ab57-44ae-9684-e8c1f59e9a36"
+Template: "ad6870d4-2dd6-40ef-a8fa-941ab32cee43"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/VertcleTabContentFilter/local-folder/GroupTab List/Cancellation/Notification/SMS"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T075101Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200416T104256Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

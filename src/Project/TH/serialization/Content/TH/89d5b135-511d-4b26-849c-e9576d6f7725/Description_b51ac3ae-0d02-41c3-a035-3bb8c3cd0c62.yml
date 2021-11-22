@@ -1,0 +1,23 @@
+﻿---
+ID: "b51ac3ae-0d02-41c3-a035-3bb8c3cd0c62"
+Parent: "89d5b135-511d-4b26-849c-e9576d6f7725"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/cancer-knockout/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200402T165550Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>นาฬิกาชีวิตของพวกเราใน&nbsp;1&nbsp;วันนั้น&nbsp;แบ่งให้กับสิ่งใดบ้าง&nbsp;ใช่สิ่งเหล่านี้หรือไม่?</p>
+        <p>ตื่นเช้าไปทำงาน...พักทานข้าวเที่ยง...เย็นเลิกงานกลับบ้าน...กลางคืนเข้านอน</p>

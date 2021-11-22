@@ -1,0 +1,65 @@
+﻿---
+ID: "bef7ae9a-7179-431d-a993-2a0fba5961a5"
+Parent: "4a67d2c5-3716-42f9-bdf4-4dc7f8ea08aa"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/Fund Information/Foreign Investment Funds/MS-ASIAN SM"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T040753Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: |
+        MANULIFE STRENGTH - ASIAN SMALL CAP EQUITY FIF (MS-ASIAN SM)<br />
+        ** Note that subscription and switch-in were temporarily suspended from 19th April 2017
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.manulife-asset.co.th/cms__Main?name=Our-Products---Mutual-Fund---Fund-Feature-MS-ASIAN-SM---Thai&Id=a0y90000003o1fkAAA#'>Fund page</a></li>
+        <li><a target='_blank' href='https://www.manulife-asset.co.th/servlet/servlet.FileDownload?file=00P9000000HBoiEEAT'>Fund information summary</a></li>
+        <li><a target='_blank' href='https://www.manulife-asset.co.th/servlet/servlet.FileDownload?file=00P9000000j3zTDEAY'>Prospectus</a></li>
+        <li><a target='_blank' href='https://www.manulife-asset.co.th/servlet/servlet.FileDownload?file=00P9000000LregwEAB'>Fact sheet</a></li>
+        <li><a target='_blank' href='https://www.manulife-asset.co.th/servlet/servlet.FileDownload?file=00P9000000j402xEAA'>Bi-annual report</a></li>
+        <li><a target='_blank' href='https://www.manulife-asset.co.th/servlet/servlet.FileDownload?file=00P9000000j3zkZEAQ '>Annual report</a></li>
+        </ul>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T040833Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: |
+        กองทุนเปิด แมนูไลฟ์ สเตร็งค์ เอเชียน สมอลแคป อิควิตี้ เอฟไอเอฟ (MS-ASIAN SM)<br />
+        ** ระงับการเปิดรับคำสั่งซื้อ และ/หรือ สับเปลี่ยนเข้ากองทุน ตั้งแต่วันที่ 19/04/2560
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.manulife-asset.co.th/cms__Main?name=Our-Products---Mutual-Fund---Fund-Feature-MS-ASIAN-SM---Thai&Id=a0y90000003o1fkAAA#'>หน้าหลักกองทุน</a></li>
+        <li><a target='_blank' href='https://www.manulife-asset.co.th/servlet/servlet.FileDownload?file=00P9000000HBoiEEAT'>สาระสำคัญ ของกองทุน</a></li>
+        <li><a target='_blank' href='https://www.manulife-asset.co.th/servlet/servlet.FileDownload?file=00P9000000j3zTDEAY'>หนังสือชี้ชวน</a></li>
+        <li><a target='_blank' href='https://www.manulife-asset.co.th/servlet/servlet.FileDownload?file=00P9000000LregwEAB'>หนังสือชี้ชวนส่วนสรุป</a></li>
+        <li><a target='_blank' href='https://www.manulife-asset.co.th/servlet/servlet.FileDownload?file=00P9000000j402xEAA'>รายงาน 6 เดื��น</a></li>
+        <li><a target='_blank' href='https://www.manulife-asset.co.th/servlet/servlet.FileDownload?file=00P9000000j3zkZEAQ'>รายงานประจำปี</a></li>
+        </ul>

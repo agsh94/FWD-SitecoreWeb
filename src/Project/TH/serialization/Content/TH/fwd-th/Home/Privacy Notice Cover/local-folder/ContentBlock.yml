@@ -1,0 +1,100 @@
+﻿---
+ID: "3104de51-b0be-4011-bb8b-c0bd9477a24e"
+Parent: "930c811d-6587-414b-8e9c-ba44e9192e1a"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Privacy Notice Cover/local-folder/ContentBlock"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{68BE4375-2C18-4CAD-808A-6AC77720B96B}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ContentBlock
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200520T113445Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+            <p style="text-align: center;">
+                <h4 class="MuiTypography-root MuiTypography-h4 text-color-white">Privacy notice</h4>
+            </p>
+            <p style="text-align: center;">
+                <h4 class="MuiTypography-root MuiTypography-h4 text-color-white">FWD Life Insurance Public Company Limited</h4>
+            </p>
+            <br />
+            <p>Dear FWD customer</p>
+            <p>FWD Life Insurance Public Company Limited
+                (<strong>‘FWD</strong>’, <strong>‘we’</strong>, <strong>‘us’</strong> or
+                <strong>‘our’</strong>) would like to inform you that we have
+                been collected, used and disclosed (which is called “Data Processing”) your personal data such as your
+                name, surname, address and telephone number in our possession before the Personal Data Protection Act
+                B.E. 2562, also known as the PDPA has been effective.&nbsp;
+            </p>
+            <p>Therefore, in order to inform and understand the purposes including other
+                relevant information of processing your personal data and the right of your personal data under PDPA,
+                FWD has provided the privacy notice
+                [<a href="https://www.fwd.co.th/en/privacy-notice">https://www.fwd.co.th/en/privacy-notice</a>]. Please
+                take a moment to read and understand our privacy notice for your benefit.
+                &nbsp;</p>
+            <p>In addition, in order to be complied with PDPA, you can withdraw the
+                consent of processing your personal data by contact us via dataprotection.th@fwd.co.th so that once we
+                receive your request of withdraw the consent, we will consider and perform in compliance with
+                PDPA.&nbsp;</p><br />
+            <p style="text-align: right;">Best regards,</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200520T114603Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+            <p style="text-align: center;">
+                <h4 class="MuiTypography-root MuiTypography-h4 text-color-white">ประกาศเกี่ยวกับข้อมูลส่วนบุคคล (Privacy
+                    notice)&nbsp;</h4>
+            </p>
+            <p style="text-align: center;">
+                <h4 class="MuiTypography-root MuiTypography-h4 text-color-white">บริษัท เอฟดับบลิวดี ประกันชีวิต จํากัด
+                    (มหาชน)&nbsp;</h4>
+            </p>
+            <br />
+            <p>เรียน ลูกค้าของบริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน)</p>
+            <p>บริษัท เอฟดับบลิวดี ประกันชีวิต จํากัด (มหาชน) ขอแจ้งให้ท่านทราบว่าบริษัทได้มีการเก็บรวบรวม ใช้ และเปิดเผย
+                (รวมเรียกว่า<strong> “ประมวลผล”</strong>) ข้อมูลส่วนบุคคลของท่าน ตัวอย่างเช่น ชื่อ นามสกุล ที่อยู่
+                และเบอร์โทรศัพท์ ไว้ในความครอบครองของบริษัทก่อนหน้าวันที่พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562
+                จะมีผลบังคับใช้ทั้งฉบับ (<strong>“พ.ร.บ.คุ้มครองข้อมูลส่วนบุคคล”</strong>)&nbsp;
+            </p>
+            <p>ดังนั้น
+                เพื่อแจ้งให้ท่านทราบถึงวัตถุประสงค์พร้อมทั้งข้อมูลอื่นที่เกี่ยวข้องในการประมวลผลข้อมูลส่วนบุคคลของท่าน
+                และสิทธิของท่านตามพ.ร.บ.คุ้มครองข้อมูลส่วนบุคคล บริษัทได้จัดทำประกาศเกี่ยวกับข้อมูลส่วนบุคคล (Privacy
+                notice) [<a href="https://www.fwd.co.th/th/privacy-notice">https://www.fwd.co.th/th/privacy-notice</a>]
+                ขอท่านโปรดใช้เวลาในการอ่านและทำความเข้าใจข้อมูลดังกล่าวเพื่อประโยชน์ของตัวท่านเอง&nbsp;</p>
+            <p>นอกจากนี้ เพื่อให้เป็นไปตามพ.ร.บ.คุ้มครองข้อมูลส่วนบุคคล ดังกล่าว
+                ท่านสามารถขอถอนความยินยอมในการประมวลผลข้อมูลส่วนบุคคลของท่านได้ โดยติดต่อที่ dataprotection.th@fwd.co.th
+                ทั้งนี้เมื่อบริษัทได้รับคำขอจากท่าน
+                บริษัทจะพิจารณาและดำเนินการตามที่พ.ร.บ.คุ้มครองข้อมูลส่วนบุคคลกำหนด&nbsp;</p><br />
+            <p style="text-align: right;">ขอแสดงความนับถือ</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: 

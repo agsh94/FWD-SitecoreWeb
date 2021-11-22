@@ -1,0 +1,21 @@
+﻿---
+ID: "859e9b38-7025-40dc-9246-e2b0d9e6ef14"
+Parent: "5ea590cc-7011-4c91-bb83-1e3b1881152d"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Announcements/local-folder/HeroBanner"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: Announcements
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T182351Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

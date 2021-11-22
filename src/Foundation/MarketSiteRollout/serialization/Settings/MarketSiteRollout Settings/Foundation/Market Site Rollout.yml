@@ -1,0 +1,18 @@
+﻿---
+ID: "58b30aa0-af6b-4bc7-a6d4-0d8cd7401a85"
+Parent: "c6d91527-de00-4d06-8ad2-cf7fd32d516c"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/system/Settings/Foundation/Market Site Rollout
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200516T092858Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

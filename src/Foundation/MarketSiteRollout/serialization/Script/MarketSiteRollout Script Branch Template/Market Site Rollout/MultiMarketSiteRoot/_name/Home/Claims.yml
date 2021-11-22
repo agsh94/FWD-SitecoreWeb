@@ -1,0 +1,65 @@
+﻿---
+ID: "fd6e3fef-d7c7-48c8-aa99-2e77a1d35022"
+Parent: "0c85f34f-c7ef-4abf-8c68-f61c96789286"
+Template: "c263467b-96fc-4048-931b-859a56911ca4"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Claims
+DB: master
+BranchID: "09e9317e-4ba5-4c97-8e6e-8109f785a718"
+SharedFields:
+- ID: "5a8b95c0-14d6-4531-bd75-61b658cbfa25"
+  Hint: contentType
+  Value: "{54F34768-E751-42AD-A59A-0E539AEB35D3}"
+- ID: "9916acb2-f8e6-4480-b9a1-15ac7b642abe"
+  Hint: gaLabelName
+  Value: Claims
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F14117BF-375A-41DC-9CFD-159CCB228089}"
+          s:ds="{27D60BDB-97BA-4B8A-99B0-DEB5FA9816EF}"
+          s:par="HeroBannerVariant=%7B0B1166D9-2C27-4392-B0FB-C3E5F2C18380%7D&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{191CD24B-E654-4C40-A11A-1E1CE958E21E}"
+          s:ds="{F1A4A0E4-BC69-4BA3-B012-E1CA003F65E7}"
+          s:par="anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D" />
+        <r
+          uid="{98AB07E3-807A-4D0F-8FDE-DEBC000A98B2}"
+          s:ds="{108DE2F4-0A3F-4C38-B319-E1470AE485D7}"
+          s:par="anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{B30B4957-6918-4A61-9A2E-3E8E866BB2C8}"
+          s:ds="{550F83A8-C006-42CB-8CCA-C7DFD241018E}"
+          s:par="anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider" />
+        <r
+          uid="{EA7F64CA-02B8-409F-A352-C24F77AF7A01}"
+          s:ds="{2EE5B840-BD09-4E87-B0F9-A428A0AA4241}"
+          s:par="buttonAlignment=%7B8570C16E-5CA9-4A85-8A62-C661A5B4350B%7D&amp;variant=%7B474B84BC-4B00-4BDC-AE3A-D0449DC7C543%7D&amp;numberOfColumns=%7B463993C4-D100-40EB-9898-6A8E60F3BB34%7D&amp;anchorText&amp;backgroundColor=%7BEBDF491B-A72E-47CA-A391-E44A39C9C329%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{8C18F6AE-E6DF-48E4-8667-A69ED7D676AA}"
+          s:par="anchorText&amp;backgroundColor=%7BF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{82AD174F-90EA-4D92-A217-EA5D03E3F839}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200605T064552Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Claims

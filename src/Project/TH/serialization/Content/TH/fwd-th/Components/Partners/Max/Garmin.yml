@@ -1,0 +1,55 @@
+﻿---
+ID: "4e227683-a490-4803-957f-56a2688e67f2"
+Parent: "8faa73ec-8d43-4bfe-bc83-5e9e57d1748a"
+Template: "a874f518-dbe3-409e-b0cf-a6040ae33471"
+Path: "/sitecore/content/fwd/fwd-th/Components/Partners/Max/Garmin"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200417T080715Z
+    - ID: "4c631be5-5969-4825-a79d-ed44278401e0"
+      Hint: title
+      Value: Garmin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "7c1d455c-e8dc-4601-b4cc-0485c4a94bd6"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{C085F709-6765-4D9D-A397-5BE4FA83C7D7}" />
+    - ID: "85332073-47d2-4e12-952e-6ab2dbff23ba"
+      Hint: image
+      Value: |
+        <image mediaid="{C085F709-6765-4D9D-A397-5BE4FA83C7D7}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200410T143447Z
+    - ID: "4c631be5-5969-4825-a79d-ed44278401e0"
+      Hint: title
+      Value: Garmin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "7c1d455c-e8dc-4601-b4cc-0485c4a94bd6"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{C085F709-6765-4D9D-A397-5BE4FA83C7D7}" />
+    - ID: "85332073-47d2-4e12-952e-6ab2dbff23ba"
+      Hint: image
+      Value: |
+        <image mediaid="{C085F709-6765-4D9D-A397-5BE4FA83C7D7}" />

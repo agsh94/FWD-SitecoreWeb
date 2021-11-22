@@ -1,0 +1,63 @@
+﻿---
+ID: "40ffa34a-9a98-4c9e-9164-f086d68c5094"
+Parent: "4c09c854-ba48-4bdb-a187-2cce9b5a2f41"
+Template: "8ad5bb9c-b124-437e-a0c3-34149b049fac"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/stepper-component/accident-and-health/local-folder/claim-process/step-1/product-information"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: product information
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09325934-6951-45ec-bd07-c7fc996855b3"
+      Hint: description
+      Value: Despite her many commitments and medium salary, K. Mai can afford to purchase the IVP 20 plan.
+    - ID: "095b37a4-2a84-4177-8231-7a222abc9623"
+      Hint: mobileImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191215T124449Z
+    - ID: "8a19dcac-8d5b-4e87-b1c9-14ba9ece9248"
+      Hint: subTitle
+      Value: 
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: K. Mai buys IVP 20
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+    - ID: "f6728892-c596-4196-9d50-106592ed0f9f"
+      Hint: image
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09325934-6951-45ec-bd07-c7fc996855b3"
+      Hint: description
+      Value: แม้จะมีภาระผูกพันมากมายและเงินเดือนปานกลางคุณ Mai สามารถที่จะซื้อแผน IVP 20
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T085052Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8a19dcac-8d5b-4e87-b1c9-14ba9ece9248"
+      Hint: subTitle
+      Value: 
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: คุณใหม่ซื้อ IVP 20
+    - ID: "f6728892-c596-4196-9d50-106592ed0f9f"
+      Hint: image
+      Value: 

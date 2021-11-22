@@ -1,0 +1,35 @@
+﻿---
+ID: "4c0ec322-263f-44d1-9749-ee62484fca9b"
+Parent: "2bf78197-6aad-4ad0-bd44-019d6fd7b258"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Community/FWD-donate-money-and-items-to-flood-in-Northeast/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T082937Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: Khun Sakonthawat Kaewmongkol, FWD&rsquo;s Agency Managing Director for the Ubon Ratchathani Province, donates THB 17,200 along with clothing and other essentials to students at the Ban Phak Yha and Ban Rai Tai Schools. The endeavour is part of FWD&rsquo;s seed funding to help rehabilitate&nbsp; schools in the area after September&rsquo;s devastating floods. Also pictured is Dr. Ratsamee Hainan, Director of Ban Phak Yha School along with some of the school&rsquo;s teachers and staff.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T082949Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: "คุณสกนธวัฒน์ แก้วมงคล ผู้อำนวยการฝ่ายบริหารงานตัวแทน (โซน 3) เป็นตัวแทนบริษัทฯ พร้อมตัวแทนฝ่ายขายจังหวัดอุบลราชธานี มอบเงินบริจาค จำนวน 17,200 บาท และ เสื้อผ้า สิ่งของบริจาคต่างๆ ที่เพื่อนๆพนักงานร่วมกันบริจาค ไปมอบให้กับน้องๆนักเรียนโรงเรียนบ้านผักหย่า และโรงเรียนบ้านไร่ใต้ ภายใต้กิจกรรม &ldquo;เมล็ดพันธุ์ประกันภัยเพื่อชุมชน ครั้งที่ 1 : ฟื้นฟูโรงเรียนอุบลฯเพื่อเด็กๆ&rdquo; หลังประสบอุทกภัยครั้งใหญ่เมื่อช่วงเดือนกันยายนที่ผ่านมา โดยมี ดร.รัศมี สีหะนันท์ ผู้อำนวยการ โรงเรียนบ้านผักหย่า และคุณครูปราจีน โรงเรียนบ้านไร่ใต้ พร้อมคณะครู ให้เกียรติรับมอบแทนน้องๆ ณ โรงเรียนบ้านไร่ใต้ ต.ไร่ใต้ อ.พิบูลมังสาหาร จ.อุบลราชธานี"

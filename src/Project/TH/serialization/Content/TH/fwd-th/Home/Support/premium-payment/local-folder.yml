@@ -1,0 +1,18 @@
+﻿---
+ID: "45bb4c37-ab85-4114-9ff5-4ddf24240069"
+Parent: "d217816a-00b3-439c-8b2f-42a1037b306a"
+Template: "fff5f245-ffc0-4022-a998-9b07aa5e761f"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/premium-payment/local-folder"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-1000"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191224T123226Z

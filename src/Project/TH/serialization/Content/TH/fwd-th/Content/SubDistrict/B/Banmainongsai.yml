@@ -1,0 +1,48 @@
+﻿---
+ID: "4feff4b4-87bf-47eb-8c91-37f417324c27"
+Parent: "87fc87e1-c2ae-44a2-abe0-e3e249a04fcc"
+Template: "69b601a8-8555-4411-8c17-aa91671eec32"
+Path: "/sitecore/content/fwd/fwd-th/Content/SubDistrict/B/Banmainongsai"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "a903eb23-a8d6-4a9a-bd27-4bd363b1fcf0"
+  Hint: searchName
+  Value: Banmainongsai
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: Banmainongsai
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200909T070409Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: บ้านใหม่หนองไทร
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200909T070435Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn

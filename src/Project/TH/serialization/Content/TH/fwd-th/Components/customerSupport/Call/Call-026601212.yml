@@ -1,0 +1,56 @@
+﻿---
+ID: "e731d01b-2782-4efb-b734-793acad2e3af"
+Parent: "ce6f58bc-7f41-42e6-b4a5-1189f9a7eb3b"
+Template: "8be97fff-47c2-4fd6-8633-d3ca30ba6d97"
+Path: "/sitecore/content/fwd/fwd-th/Components/customerSupport/Call/Call-026601212"
+DB: master
+SharedFields:
+- ID: "5966c694-da32-4aab-a10a-06e5a50aad86"
+  Hint: supportIcon
+  Value: "{0853A008-9B3C-4A10-98B9-1E96A3CDC253}"
+- ID: "a09d41ca-93f6-409c-96a9-1341d3719e83"
+  Hint: listType
+  Value: "{A5BEE68C-8E43-4F78-8D15-D42982FD053A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a76c254-ad1c-48b3-8190-f72bca6de64c"
+      Hint: title
+      Value: Call
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200120T092300Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af0fe602-84ae-4056-91da-71d752d562b9"
+      Hint: contactNumber
+      Value: "02-660-1212"
+    - ID: "e7a69e3e-57f2-48b8-9fa4-c05823caa4fd"
+      Hint: icon
+      Value: |
+        <image mediaid="{FC7AF7FD-1BE5-4F14-A049-05D6D3248838}" ></image>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a76c254-ad1c-48b3-8190-f72bca6de64c"
+      Hint: title
+      Value: เบอร์โทรศัพท์
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T065153Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "af0fe602-84ae-4056-91da-71d752d562b9"
+      Hint: contactNumber
+      Value: "02-660-1212"
+    - ID: "e7a69e3e-57f2-48b8-9fa4-c05823caa4fd"
+      Hint: icon
+      Value: |
+        <image mediaid="{FC7AF7FD-1BE5-4F14-A049-05D6D3248838}" ></image>

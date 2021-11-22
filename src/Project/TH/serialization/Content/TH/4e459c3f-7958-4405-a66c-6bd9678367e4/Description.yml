@@ -1,0 +1,51 @@
+﻿---
+ID: "1c4a8b6f-247e-418d-bba1-f4b855138124"
+Parent: "4e459c3f-7958-4405-a66c-6bd9678367e4"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/things-to-do-first-40/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200402T045919Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>2. Manage time wisely</strong><br />
+        Have you devoted half of your lifetime for professional achievement? How about time for family and those you didn&rsquo;t mean to neglect for such a long time? The older we are, the more support we may need from our family. Just spend more time and tighten your relationship with them. Don&rsquo;t wait until it&rsquo;s too late to care for each other.<br />
+        <br />
+        <strong></strong></p>
+        <p><strong>3. Go out and live life</strong><br />
+        Live your life now and don&rsquo;t keep all your savings for just a retirement plan when you&rsquo;re not as fit as before. With an appropriate allocation of earnings for savings, you can dedicate some small savings for a trip to explore and enjoy the other side of life in different places when you still can and are able to reach there with your own strong legs and young heart.</p>
+        <div>&nbsp;</div>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T233708Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p style="background: white; margin: 0in 0in 0.0001pt;"><strong>2. บริหารเวลาอย่างชาญฉลาด</strong><br />
+        ให้เวลากับคนที่เราเลยละเลย หากผ่านครึ่งชีวิตที่ทำงานอย่างหนักจนแทบไม่มีเวลาให้ตัวเอง ให้ครอบครัว อย่ารอจนสายเกินไปที่คนที่เรารัก ยิ่งในช่วงที่เราเริ่มแก่ตัวแล้ว เราอาจจำเป็นต้องพึ่งพาคนในครอบครัวมากขึ้น หันมาใช้เวลากับพวกเขาสักหน่อย กระชับความสัมพันธ์ให้แน่นยิ่งขึ้น<br />
+        <br />
+        <strong>3. ออกไปใช้ชีวิตให้สนุก</strong><br />
+        ชีวิตเกิดมาต้องใช้ซะ อย่าเก็บเงินทั้งหมดที่หามาได้ ไปใช้ชีวิตตอนแก่หลังเกษียณ เพราะถึงตอนนั้นคุณอาจจะไม่มีแรงคึกได้เท่าช่วงตอนยังเป็นวัยรุ่นแล้วก็ได้ ในเมื่อเรายังเที่ยวไหว ลุยไหว ก็ออกไปใช้ชีวิตให้เต็มที่แบบอินฟินิตี้ แต่ก็อย่าใช้เงินกับการใช้ชีวิตไปเสียหมด ต้องจัดสรรปันส่วนก่อน แล้วพอเหลือก็เอาเงินส่วนนั้นไปเติมความสุขให้ตัวเอง</p>

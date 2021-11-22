@@ -1,0 +1,34 @@
+﻿---
+ID: "639d830c-cec6-41f6-b130-af803b234b44"
+Parent: "7c0e2e5c-ed92-4ed7-bd06-3f25cfc712eb"
+Template: "c24acda9-af2d-4f91-b736-509937cc444e"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/local-folder/featured-articles"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Featured Articles
+  Versions:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200219T091747Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d7ce724c-2ece-4ca3-99ed-06b20e846322"
+      Hint: linkItems
+      Value: "{2686683F-81C5-4EDC-9F48-575F377576F4}"
+    - ID: "f39b7a44-d8d3-467c-949d-5a6a33a9bb8a"
+      Hint: title
+      Value: ตระเวนกิน

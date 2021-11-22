@@ -1,0 +1,36 @@
+﻿---
+ID: "7ecabc14-eb03-4a64-8909-6d51bb9c796a"
+Parent: "a29dc477-3911-4ce3-9b03-177de039bf1a"
+Template: "d188c909-be9c-4149-9106-b25be4b6fb55"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/exchange-currency-in-europe/local-folder/ArticleHeroBanner"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4573EFE0-6D5D-4A69-BC87-F46AFA1CD32D}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ec1b066-046b-4099-8dde-7ef17d1818a5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{B3F0C166-C976-4048-AE7E-6DA1479439D4}" cropx="0.60" cropy="0.33" focusx="0.20175438596491224" focusy="0.34375" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200928T072640Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "43c58d25-8056-4ce0-b071-440c9f96ecf3"
+      Hint: image
+      Value: |
+        <image mediaid="{B3F0C166-C976-4048-AE7E-6DA1479439D4}" cropx="0.60" cropy="0.33" focusx="0.20175438596491224" focusy="0.34375" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee

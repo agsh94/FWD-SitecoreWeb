@@ -1,0 +1,23 @@
+﻿---
+ID: "7f4b11f3-2b4b-4c68-b439-ae0c77e21c84"
+Parent: "c96edf73-c7e3-414e-a586-8d6775d7c660"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/deadly-disease-that-is-inside/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T230409Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>4. เบื่ออาหาร</strong><br />
+        กินอะไรก็ไม่อร่อยเหมือนเดิม ต่อให้ชานมไข่มุกที่โปรดปรานมาวางอยู่ตรงหน้าก็ยังไม่ Enjoy หรือเพื่อนชวนเปิดตี้ชาบู หมูกระทะ ก็เกิดอาการไม่อยากไป ลิ้นเริ่มรับรสชาติไม่อร่อยได้เท่าเดิม นี่อาจเป็นสัญญาณอาการเริ่มต้นของโรคตับ, วัณโรค</p>

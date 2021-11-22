@@ -1,0 +1,28 @@
+﻿---
+ID: "f87f7d76-8fc4-405f-b993-72a75ba1183a"
+Parent: "67b23de7-dabe-497a-820a-ab51abc44805"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/ohkaju-organic-restaurant/local-folder/ArticleDetails/Description2"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T010847Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span>ทำเลร้านหาง่ายเว่อร์</span><span dir="RTL"> </span><span>ถ้าเข้ามาทางถนนพญาไทฝั่งมาบุญครอง</span><span dir="RTL"> </span><span>ก็ขับตรงมาในสยามสแควร์ซอย</span><span dir="RTL"> </span><span>7 </span><span>ตัวร้านจะอยู่บริเวณทางเข้าสยามสแควร์ซอย</span><span dir="RTL"> </span><span>2 </span><span>แต่ถ้านั่งบีทีเอสลงสถานีสยาม</span><span dir="RTL"> </span><span>แล้วเดินเข้าซอยสยามสแควร์ซอย</span><span dir="RTL"> </span><span>2 </span><span>มาจนสุดซอยก็จะเจอร้านโอ้กะจู๋ตั้งโดดเด่นเป็นสง่า</span><span dir="RTL"> </span><span>มีหน้าเจ้าของร้านทั้งสามคนรอทักทายอยู่ทางขวามือ</span></p>
+        <p><span>&nbsp;</span></p>
+        <p><span></span>จะไม่อธิบายและปล่อยผ่านไม่ได้<span dir="RTL"> </span>ขอเล่าให้ฟังหน่อยก็แล้วกันเกี่ยวกับชื่อชวนจั๊กจี้ของร้าน<span dir="RTL"> </span>โอ้กะจู๋<span dir="RTL"> </span>จริงๆ<span dir="RTL"> </span>เจ้าของร้านนี้คือพี่โจ้กับพี่อู๋<span dir="RTL"> </span>เพื่อนรักที่มีความคิดอยากทำธุรกิจเกี่ยวกับการเกษตรตั้งแต่ยังเป็นเด็กมัธยม<span dir="RTL"> </span>พอหลังจากพี่โจ้ที่จบคณะเกษตรฯ<span dir="RTL"> </span>จากมช. มาปุ๊บ<span dir="RTL"> </span>ก็ได้ร่วมมือกับพี่อู๋ในการทำสวนผักแบบเกษตรอินทรีย์<span dir="RTL"> </span>นี่จึงกลายเป็นที่มาของชื่อร้านคือโอ้กะจู๋<span dir="RTL"> </span>ที่ผวนมาจากโจ้กับอู๋เช่นนั้นแล<span dir="RTL"> </span>ต่อมาเสริมทัพด้วยพี่ต้อง<span dir="RTL"> </span>วิศวกรหนุ่มที่มีความรู้เรื่องเครื่องจักรและการผลิตปุ๋ยอินทรีย์มาร่วมหุ้นด้วยอีกคน<span dir="RTL"> </span>เลยกลายเป็นสัญลักษณ์โลโก้ของร้านที่ประกอบไปด้วยพี่ต้อง<span dir="RTL"> </span>พี่อู๋<span dir="RTL"> </span>และพี่โจ้</p>

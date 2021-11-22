@@ -1,0 +1,86 @@
+﻿---
+ID: "eeffea45-1336-4cc0-8afd-389bcb7b4225"
+Parent: "d77061f0-4033-4e10-846d-b391b5a4d07d"
+Template: "40da990f-39dd-4d66-a9be-849f4ecffd22"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/contentblock"
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{C879EB9D-195D-4984-B164-F1DD756158FA}"
+          s:ds="{6C22BD7B-6591-4A07-8D51-2FF39BFEE474}"
+          s:par="HeroBannerVariant&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{2476A374-8836-45FE-AF59-3CD0AE06BE82}"
+          s:ds="{141637A2-5588-4E89-B7DF-D555AE184819}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{57AD34E9-D9E1-4B92-A392-E0A41486C935}"
+          s:ds="{D74B13C3-6606-4A9B-A64A-CAADBB57E03C}"
+          s:par="buttonAlignment=%7BCF02F396-DAFD-448E-BC19-15E66C7CBA54%7D&amp;variant&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{D6134FB5-960B-4784-8AE2-7231655F27DC}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+        <r
+          uid="{F800EDC3-9958-4C44-9A3D-97DED76A2B4D}"
+          p:after="r[@uid='{D6134FB5-960B-4784-8AE2-7231655F27DC}']"
+          s:ds="{A7E0918A-61DB-48DA-A43A-6F80CD3D6F2D}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BF9F5FC4E-89D7-4701-A560-C0A7179384CB%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{D7AB9CDE-487F-419A-BCF4-119F447905BB}"
+          p:after="*[1=2]"
+          s:ds="{A8F8A0E4-5BE3-4A5A-B8B5-61640E1FBAC7}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BF9F5FC4E-89D7-4701-A560-C0A7179384CB%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+          s:ph="jss-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{9E73D12F-3814-4CD5-B0FC-4169AB38CCA3}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Content block variation- DO NOT DELETE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200430T124810Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\testuser
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: ContentBlock
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200430T132833Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\testuser
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: contentblock

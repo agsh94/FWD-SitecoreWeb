@@ -1,0 +1,63 @@
+﻿---
+ID: "ed4e8aa1-2d0e-45b0-9190-8ccd0b46a9a0"
+Parent: "890faf2c-b06a-4718-a36a-840b97b84939"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Components/briefhistory/2013/Oct"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 409
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T044111Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: 
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: The Honourable Ronald Arculli is appointed FWD Group Chairman
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: October
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T044035Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: 
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: โรนัลด์ อาร์คัลลี่ ได้รับการแต่งตั้งเป็นประธานกลุ่ม เอฟดับบลิวดี
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ตุลาคม
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 

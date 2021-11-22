@@ -1,0 +1,14 @@
+﻿---
+ID: "d56fabd9-6ec2-4b39-88dd-10e5b34ef75d"
+Parent: "4302079a-59f8-4147-83be-f4f17ce6daef"
+Template: "ab154d3d-1126-4ab4-ac21-8b86e6bd70ea"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Functions
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T075851Z

@@ -1,0 +1,51 @@
+﻿---
+ID: "816501b6-9829-4ff4-b100-bc50ce0a3b49"
+Parent: "125908cd-3bdd-4343-80ec-53a3cd0c7ca0"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Support/What should I do if my FWD Care Card has expired"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T100742Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "What should I do if my FWD Care Card has expired?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: "Since 1 October 2020, we&rsquo;ve been issuing &lsquo;lifetime&rsquo; FWD Care Cards. Not got yours? Contact our customer services team. Note: this is for IPD / OPD health insurance plans only.&nbsp;"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T100541Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "ต้องทำอย่างไรเมื่อบัตรเอฟดับบลิวดี แคร์การ์ด หมดอายุ?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: ตั้งแต่วันที่ 1 ตุลาคม 2563 เป็นต้นไป เราจะออกบัตรเอฟดับบลิวดี แคร์การ์ด แบบตลอดชีพ สำหรับแผนประกันสุขภาพผู้ป่วยใน / ผู้ป่วยนอก ให้กับคุณ หากคุณไม่ได้รับ กรุณาติดต่อฝ่ายบริการลูกค้าของเราที่พร้อมดูแลช่วยเหลือคุณเสมอ&nbsp;&nbsp;

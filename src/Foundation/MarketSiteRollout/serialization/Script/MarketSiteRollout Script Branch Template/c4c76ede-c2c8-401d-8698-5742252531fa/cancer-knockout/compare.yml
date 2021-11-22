@@ -1,0 +1,37 @@
+﻿---
+ID: "9e7201e4-0cce-413f-8154-af5d7314b5f8"
+Parent: "3e6071fb-fb5d-456a-ba7c-926aec136d94"
+Template: "ba8c333b-add6-430d-b14e-7a8009689339"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Health/cancer-knockout/compare"
+DB: master
+SharedFields:
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{099ADFCF-7952-45FD-9498-FD6538110D83}"
+          s:ds="{ACAACEB3-2708-4FEF-83A1-17208C3EF705}" />
+        <r
+          uid="{F703E97D-B432-4C44-ACCD-2F56BBFA8E1F}"
+          s:ds="" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EFBD28B0-7B68-457C-B300-9E590296EEDA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200618T032518Z

@@ -1,0 +1,122 @@
+﻿---
+ID: "7278b1b3-a76b-46bb-898e-6869fcbfa206"
+Parent: "125908cd-3bdd-4343-80ec-53a3cd0c7ca0"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Support/How can I change my credit card details for premium payment"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T141754Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "How can I change my credit card details for my premium payments?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <p>Please send us your request by providing the following details:
+        </p>
+        <ul>
+            <li>Your credit card change request, policy number, insured name and contact number.</li>
+            <li>Certified true copy of your credit card showing 16-digit credit card number and expiration date.</li>
+        </ul>
+        <p>Send these to <a href="mailto:iservice@fwd.co.th">iservice@fwd.co.th</a> or fax over to 02 632 2414</p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200929T080842Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "How can I change my credit card details for my premium payments?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <p>Please send us your request by providing the following details:
+        </p>
+        <ul>
+            <li>Your credit card change request, policy number, insured name and contact number.</li>
+            <li>Certified true copy of your credit card showing 16-digit credit card number and expiration date.</li>
+        </ul>
+        <p>Send these to <a href="mailto:iservice@fwd.co.th"><span></span></a><a href="mailto:customer.th@fwd.com">customer.th@fwd.com</a> or fax over to 0 2632 2414</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200929T080842Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T142022Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: " ต้องการเปลี่ยนแปลงบัตรเครดิตในการชำระเบี้ยประกันภัย ต้องทำอย่างไร?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <p>กรุณาส่งคำร้องและเอกสารประกอบ ดังนี้ </p>
+        <ul>
+            <li>คำร้องขอเปลี่ยนบัตรเครดิต หมายเลขกรมธรรม์ ชื่อผู้เอาประกัน และเบอร์ติดต่อ  </li>
+            <li>สำเนาด้านหน้าบัตรเครดิตที่แสดงหมายเลขบัตร 16 หลักและวันหมดอายุ (รับรองสำเนาถูกต้อง) </li>
+        </ul>
+        <p>ส่งเอกสารมาทางอีเมล์ <a href="mailto:iservice@fwd.co.th">iservice@fwd.co.th</a> หรือแฟกซ์เบอร์ 02 632 2414</p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200929T080941Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: " ต้องการเปลี่ยนแปลงบัตรเครดิตในการชำระเบี้ยประกันภัย ต้องทำอย่างไร?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <p>กรุณาส่งคำร้องและเอกสารประกอบ ดังนี้ </p>
+        <ul>
+            <li>คำร้องขอเปลี่ยนบัตรเครดิต หมายเลขกรมธรรม์ ชื่อผู้เอาประกัน และเบอร์ติดต่อ  </li>
+            <li>สำเนาด้านหน้าบัตรเครดิตที่แสดงหมายเลขบัตร 16 หลักและวันหมดอายุ (รับรองสำเนาถูกต้อง) </li>
+        </ul>
+        <p>ส่งเอกสารมาทางอีเมล์ <a href="mailto:iservice@fwd.co.th"><span></span></a><a href="mailto:customer.th@fwd.com">customer.th@fwd.com</a> หรือแฟกซ์เบอร์ 0 2632 2414</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200929T080941Z

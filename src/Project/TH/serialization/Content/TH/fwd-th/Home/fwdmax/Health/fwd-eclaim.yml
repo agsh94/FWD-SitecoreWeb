@@ -1,0 +1,304 @@
+﻿---
+ID: "1bff3a67-b612-4778-b23d-f3267b9b27cb"
+Parent: "a446783f-4b78-42d0-a902-0e9c2bf27ed4"
+Template: "937f9755-269c-46cb-87cf-e05c0211ef32"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/fwd-eclaim"
+DB: master
+SharedFields:
+- ID: "0542fe2e-3942-4d2a-9d28-fca5312b2ab4"
+  Hint: associatedProducts
+  Value: "{7084A1E8-2D00-4CA8-954F-C532D46A2C0E}"
+- ID: "05b2b484-bdd9-4a0c-9bc2-013e6a9989a9"
+  Hint: subtype
+  Value: "{16E100BB-C6E3-4C43-9770-45802CE9161F}"
+- ID: "10e652c4-46dd-4b96-94af-033d6997a41a"
+  Hint: userType
+  Type: Multilist
+  Value: "{4C697943-FF95-4B21-9636-95C25F2A1A56}"
+- ID: "21d15119-2d83-4d67-a277-65bcef10f64f"
+  Hint: contentType
+  Value: "{4FE0A16D-285F-4C41-9BFA-A1343B036CDF}"
+- ID: "644a759b-d9f0-46b0-b5a2-afc11a100bb1"
+  Hint: topics
+  Type: Multilist
+  Value: "{27B45F29-DD3F-42A5-A19F-5193A9205D68}"
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: "{FB2C4A8A-0593-44B7-B7C4-AE07AF4F8BB2}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "adb8c199-23ee-47b6-ac3a-e42511001cd9"
+  Hint: featuredTags
+  Type: TreelistEx
+  Value: "{27B45F29-DD3F-42A5-A19F-5193A9205D68}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1200
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F4401E93-3C44-4861-AE73-AE8F72A5C86F}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{8B882DA0-246E-4ED0-AF73-96D257D48B65}"
+          s:ds="{05D85A64-AF87-45C0-9660-386DBB2178C4}" />
+        <r
+          uid="{B34524D6-F06A-46EF-BBB9-37BE63541C2B}"
+          s:ds="{6D4892FE-E408-4DCA-8ADA-51ACD3B510BD}" />
+        <r
+          uid="{F131E204-4546-436A-9BAA-F8A7D613A0DE}"
+          s:ds="{605F8C28-B05B-4B57-9837-B509F30DD113}"
+          s:par="carouselMode=%7BC81D8D8F-E8D9-468F-ACFC-BBDCE30D66EC%7D&amp;showCategory&amp;showImage&amp;anchorText&amp;backgroundColor=%7BB47928D6-98FC-4B29-8D0F-586AB477286E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{DCEFBE9A-CB6F-4EA1-B123-C1DB121B4108}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{77CE0DCC-1017-44D0-B26A-4BDF632B5237}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200601T074302Z
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20200601Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdtestauthor
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: sassysodium
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "105d35bb-e423-4eea-ad61-f4408a757049"
+      Hint: city
+      Value: "{BDF09EFE-98AD-47DC-AB59-8505E13F8274}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T230827Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: "เราอยากให้คุณได้ทำความรู้จักกับ “ยัยหวานตัวร้าย กับ นายโซเดียม” ถามว่านี่คือซีรีย์หวานแหว๋วเหรอ?"
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20200326T000000Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: ยัยหวานตัวร้ายกับนายโซเดียม
+    - ID: "8903e668-0898-456c-b6ed-09d94259e5b1"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{C6C41366-CF5E-4749-A910-2B5AA1D6DEE3}" />
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: ยัยหวานตัวร้ายกับนายโซเดียม
+    - ID: "d940cafe-2148-466e-9707-0748711f5fdc"
+      Hint: image
+      Value: |
+        <image mediaid="{C6C41366-CF5E-4749-A910-2B5AA1D6DEE3}" cropx="0.36" cropy="0.15" focusx="-0.27095513594777965" focusy="0.7048611640930176" />
+    - ID: "f109a737-77b7-48cf-969c-2f55df9d876a"
+      Hint: shortDescription
+      Value: "เราอยากให้คุณได้ทำความรู้จักกับ “ยัยหวานตัวร้าย กับ นายโซเดียม” ถามว่านี่คือซีรีย์หวานแหว๋วเหรอ?"
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: สุขภาพ, ประกันสุขภาพ, ลดน้ำหนัก, วิธีลดน้ำหนัก
+  - Version: 2
+    Fields:
+    - ID: "105d35bb-e423-4eea-ad61-f4408a757049"
+      Hint: city
+      Value: "{BDF09EFE-98AD-47DC-AB59-8505E13F8274}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200903T071723Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: ถ้ามือถือคือปัจจัยที่ 5 ของคนเจนฯนี้ LINE ก็เป็นแอปฯที่ขาดไม่ได้ ไม่ว่าจะแชท คอล จ่ายเงิน ช้อปปิ้ง สั่งอาหารก็มีหมด เพราะเอฟดับบลิวดีเข้าใจลูกค้า ยุคดิจิตอลที่ชอบบริการที่ง่าย เร็ว ตอบโจทย์ความต้องการ
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20200903T000000Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: ยื่นเคลมง่ายๆ บน LINE ประกันชีวิตเจ้าแรกในไทยที่เข้าใจ Insight ลูกค้า
+    - ID: "8903e668-0898-456c-b6ed-09d94259e5b1"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{4565627D-810F-4AE5-AD65-E176261F9592}" />
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: ยื่นเคลมง่ายๆ บน LINE ประกันชีวิตเจ้าแรกในไทยที่เข้าใจ Insight ลูกค้า
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200903T071723Z
+    - ID: "d940cafe-2148-466e-9707-0748711f5fdc"
+      Hint: image
+      Value: |
+        <image mediaid="{4565627D-810F-4AE5-AD65-E176261F9592}" cropx="0.36" cropy="0.15" focusx="-0.27095513594777965" focusy="0.7048611640930176" />
+    - ID: "f109a737-77b7-48cf-969c-2f55df9d876a"
+      Hint: shortDescription
+      Value: ถ้ามือถือคือปัจจัยที่ 5 ของคนเจนฯนี้ LINE ก็เป็นแอปฯที่ขาดไม่ได้ ไม่ว่าจะแชท คอล จ่ายเงิน ช้อปปิ้ง สั่งอาหารก็มีหมด เพราะเอฟดับบลิวดีเข้าใจลูกค้า ยุคดิจิตอลที่ชอบบริการที่ง่าย เร็ว ตอบโจทย์ความต้องการ
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: สุขภาพ, ประกันสุขภาพ, เคลม, ยื่นเคลม, ออนไลน์, เคลมประกัน 
+  - Version: 3
+    Fields:
+    - ID: "105d35bb-e423-4eea-ad61-f4408a757049"
+      Hint: city
+      Value: "{BDF09EFE-98AD-47DC-AB59-8505E13F8274}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200903T094358Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: ถ้ามือถือคือปัจจัยที่ 5 ของคนเจนฯนี้ LINE ก็เป็นแอปฯที่ขาดไม่ได้ ไม่ว่าจะแชท คอล จ่ายเงิน ช้อปปิ้ง สั่งอาหารก็มีหมด เพราะเอฟดับบลิวดีเข้าใจลูกค้า ยุคดิจิตอลที่ชอบบริการที่ง่าย เร็ว ตอบโจทย์ความต้องการ
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20200903T000000Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: ยื่นเคลมง่ายๆ บน LINE ประกันชีวิตเจ้าแรกในไทยที่เข้าใจ Insight ลูกค้า
+    - ID: "8903e668-0898-456c-b6ed-09d94259e5b1"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{4565627D-810F-4AE5-AD65-E176261F9592}" />
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: ยื่นเคลมง่ายๆ บน LINE ประกันชีวิตเจ้าแรกในไทยที่เข้าใจ Insight ลูกค้า
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200903T094358Z
+    - ID: "d940cafe-2148-466e-9707-0748711f5fdc"
+      Hint: image
+      Value: |
+        <image mediaid="{4565627D-810F-4AE5-AD65-E176261F9592}" cropx="0.36" cropy="0.15" focusx="-0.27095513594777965" focusy="0.7048611640930176" />
+    - ID: "f109a737-77b7-48cf-969c-2f55df9d876a"
+      Hint: shortDescription
+      Value: ถ้ามือถือคือปัจจัยที่ 5 ของคนเจนฯนี้ LINE ก็เป็นแอปฯที่ขาดไม่ได้ ไม่ว่าจะแชท คอล จ่ายเงิน ช้อปปิ้ง สั่งอาหารก็มีหมด เพราะเอฟดับบลิวดีเข้าใจลูกค้า ยุคดิจิตอลที่ชอบบริการที่ง่าย เร็ว ตอบโจทย์ความต้องการ
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: สุขภาพ, ประกันสุขภาพ, เคลม, ยื่นเคลม, ออนไลน์, เคลมประกัน 
+  - Version: 4
+    Fields:
+    - ID: "105d35bb-e423-4eea-ad61-f4408a757049"
+      Hint: city
+      Value: "{BDF09EFE-98AD-47DC-AB59-8505E13F8274}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200903T094512Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: ถ้ามือถือคือปัจจัยที่ 5 ของคนเจนฯนี้ LINE ก็เป็นแอปฯที่ขาดไม่ได้ ไม่ว่าจะแชท คอล จ่ายเงิน ช้อปปิ้ง สั่งอาหารก็มีหมด เพราะเอฟดับบลิวดีเข้าใจลูกค้า ยุคดิจิตอลที่ชอบบริการที่ง่าย เร็ว ตอบโจทย์ความต้องการ
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20200903T000000Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: ยื่นเคลมง่ายๆ บน LINE ประกันชีวิตเจ้าแรกในไทยที่เข้าใจ Insight ลูกค้า
+    - ID: "8903e668-0898-456c-b6ed-09d94259e5b1"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{4565627D-810F-4AE5-AD65-E176261F9592}" />
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: ยื่นเคลมง่ายๆ บน LINE ประกันชีวิตเจ้าแรกในไทยที่เข้าใจ Insight ลูกค้า
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200903T094512Z
+    - ID: "d940cafe-2148-466e-9707-0748711f5fdc"
+      Hint: image
+      Value: |
+        <image mediaid="{4565627D-810F-4AE5-AD65-E176261F9592}" cropx="0.36" cropy="0.15" focusx="-0.27095513594777965" focusy="0.7048611640930176" />
+    - ID: "f109a737-77b7-48cf-969c-2f55df9d876a"
+      Hint: shortDescription
+      Value: ถ้ามือถือคือปัจจัยที่ 5 ของคนเจนฯนี้ LINE ก็เป็นแอปฯที่ขาดไม่ได้ ไม่ว่าจะแชท คอล จ่ายเงิน ช้อปปิ้ง สั่งอาหารก็มีหมด เพราะเอฟดับบลิวดีเข้าใจลูกค้า ยุคดิจิตอลที่ชอบบริการที่ง่าย เร็ว ตอบโจทย์ความต้องการ
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: สุขภาพ, ประกันสุขภาพ, เคลม, ยื่นเคลม, ออนไลน์, เคลมประกัน 
+  - Version: 5
+    Fields:
+    - ID: "105d35bb-e423-4eea-ad61-f4408a757049"
+      Hint: city
+      Value: "{BDF09EFE-98AD-47DC-AB59-8505E13F8274}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200903T103145Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: ถ้ามือถือคือปัจจัยที่ 5 ของคนเจนฯนี้ LINE ก็เป็นแอปฯที่ขาดไม่ได้ ไม่ว่าจะแชท คอล จ่ายเงิน ช้อปปิ้ง สั่งอาหารก็มีหมด เพราะเอฟดับบลิวดีเข้าใจลูกค้า ยุคดิจิตอลที่ชอบบริการที่ง่าย เร็ว ตอบโจทย์ความต้องการ
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20200903T000000Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: ยื่นเคลมง่ายๆ บน LINE ประกันชีวิตเจ้าแรกในไทยที่เข้าใจ Insight ลูกค้า
+    - ID: "8903e668-0898-456c-b6ed-09d94259e5b1"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{4565627D-810F-4AE5-AD65-E176261F9592}" />
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: ยื่นเคลมง่ายๆ บน LINE ประกันชีวิตเจ้าแรกในไทยที่เข้าใจ Insight ลูกค้า
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200903T103145Z
+    - ID: "d940cafe-2148-466e-9707-0748711f5fdc"
+      Hint: image
+      Value: |
+        <image mediaid="{4565627D-810F-4AE5-AD65-E176261F9592}" cropx="0.36" cropy="0.15" focusx="-0.27095513594777965" focusy="0.7048611640930176" />
+    - ID: "f109a737-77b7-48cf-969c-2f55df9d876a"
+      Hint: shortDescription
+      Value: ถ้ามือถือคือปัจจัยที่ 5 ของคนเจนฯนี้ LINE ก็เป็นแอปฯที่ขาดไม่ได้ ไม่ว่าจะแชท คอล จ่ายเงิน ช้อปปิ้ง สั่งอาหารก็มีหมด เพราะเอฟดับบลิวดีเข้าใจลูกค้า ยุคดิจิตอลที่ชอบบริการที่ง่าย เร็ว ตอบโจทย์ความต้องการ
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: สุขภาพ, ประกันสุขภาพ, เคลม, ยื่นเคลม, ออนไลน์, เคลมประกัน 

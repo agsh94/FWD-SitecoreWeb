@@ -1,0 +1,18 @@
+﻿---
+ID: "7353dd57-2d27-4db0-8b51-e82f5f9a2718"
+Parent: "1047505b-ac15-409f-b2b2-b32c9e3d215b"
+Template: "2a91e472-5dd9-4573-b28a-420dfc3bb7be"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/search-card/local-folder/Global Search"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200710T072657Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

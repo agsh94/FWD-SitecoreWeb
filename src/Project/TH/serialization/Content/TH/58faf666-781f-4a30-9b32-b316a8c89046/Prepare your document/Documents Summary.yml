@@ -1,0 +1,79 @@
+﻿---
+ID: "90aa0d6a-82c5-4dda-891b-c55d0c32bd52"
+Parent: "45eab472-3936-40ea-ac59-7de484134786"
+Template: "ad6870d4-2dd6-40ef-a8fa-941ab32cee43"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/VertcleTabContentFilter/local-folder/GroupTab List/Cancellation/Prepare your document/Documents Summary"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T070335Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Original</strong></p>
+        <p>&nbsp; &bull; 	Medical certificate with company form
+        </p>
+        <p>&nbsp; &bull; 	Hospital or medical expenses (certified by hospital officer)
+        </p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><strong>Copy</strong></p>
+        <p>&nbsp;</p>
+        <p>&nbsp; &bull; 	Book bank copy
+        </p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><strong>Certified true copy*</strong></p>
+        <p>&nbsp;</p>
+        <p>&nbsp; &bull; 	Daily report from Royal Thai Police, certified by police officer (in case of accident only)
+        </p>
+        <p>&nbsp; &bull; 	In case of bone fracture, please provide film and result or certified result from the Radiologists
+        </p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><span class="contentDescription">*A certified true copy is a duplicated version of your document, with an official imprint from the issuer of the document.</span></p>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200416T104253Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Original</strong></p>
+        <p>&nbsp;</p>
+        <p>&nbsp; &bull; 	Medical certificate with company form
+        </p>
+        <p>&nbsp; &bull; 	Hospital or medical expenses (certified by hospital officer)
+        </p>
+        <p>&nbsp;</p>
+        <p><strong>Copy</strong></p>
+        <p>&nbsp;</p>
+        <p>&nbsp; &bull; 	Book bank copy
+        </p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><strong>Certified true copy*</strong></p>
+        <p>&nbsp;</p>
+        <p>&nbsp; &bull; 	Daily report from Royal Thai Police, certified by police officer (in case of accident only)
+        </p>
+        <p>&nbsp; &bull; 	In case of bone fracture, please provide film and result or certified result from the Radiologists
+        </p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><span class="contentDescription">*A certified true copy is a duplicated version of your document, with an official imprint from the issuer of the document.</span></p>

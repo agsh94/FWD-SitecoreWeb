@@ -1,0 +1,109 @@
+﻿---
+ID: "f2814141-89a0-4fbf-bf79-3724799e0e9b"
+Parent: "a446783f-4b78-42d0-a902-0e9c2bf27ed4"
+Template: "937f9755-269c-46cb-87cf-e05c0211ef32"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/cancer-knockout"
+DB: master
+SharedFields:
+- ID: "0542fe2e-3942-4d2a-9d28-fca5312b2ab4"
+  Hint: associatedProducts
+  Value: "{4D9C6A8B-2244-4437-9CBB-AE07DA10CFF1}"
+- ID: "05b2b484-bdd9-4a0c-9bc2-013e6a9989a9"
+  Hint: subtype
+  Value: "{16E100BB-C6E3-4C43-9770-45802CE9161F}"
+- ID: "21d15119-2d83-4d67-a277-65bcef10f64f"
+  Hint: contentType
+  Value: "{4FE0A16D-285F-4C41-9BFA-A1343B036CDF}"
+- ID: "644a759b-d9f0-46b0-b5a2-afc11a100bb1"
+  Hint: topics
+  Type: Multilist
+  Value: "{27B45F29-DD3F-42A5-A19F-5193A9205D68}"
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: "{FB2C4A8A-0593-44B7-B7C4-AE07AF4F8BB2}"
+- ID: "adb8c199-23ee-47b6-ac3a-e42511001cd9"
+  Hint: featuredTags
+  Type: TreelistEx
+  Value: "{27B45F29-DD3F-42A5-A19F-5193A9205D68}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F4401E93-3C44-4861-AE73-AE8F72A5C86F}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{8B882DA0-246E-4ED0-AF73-96D257D48B65}"
+          s:ds="{9010FC4A-75D7-448E-A8FD-FCF432C3D42E}" />
+        <r
+          uid="{B34524D6-F06A-46EF-BBB9-37BE63541C2B}"
+          s:ds="{89D5B135-511D-4B26-849C-E9576D6F7725}" />
+        <r
+          uid="{F131E204-4546-436A-9BAA-F8A7D613A0DE}"
+          s:ds="{989DE555-C971-49DE-8AD8-A30E528F2451}"
+          s:par="carouselMode=%7BC81D8D8F-E8D9-468F-ACFC-BBDCE30D66EC%7D&amp;showCategory&amp;showImage&amp;anchorText&amp;backgroundColor=%7BB47928D6-98FC-4B29-8D0F-586AB477286E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{DCEFBE9A-CB6F-4EA1-B123-C1DB121B4108}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{77CE0DCC-1017-44D0-B26A-4BDF632B5237}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201007T100652Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gaurava
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "105d35bb-e423-4eea-ad61-f4408a757049"
+      Hint: city
+      Value: "{BDF09EFE-98AD-47DC-AB59-8505E13F8274}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200402T165239Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: "นาฬิกาชีวิตของพวกเราใน 1 วันนั้น แบ่งให้กับสิ่งใดบ้าง ใช่สิ่งเหล่านี้หรือไม่? "
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20200325T000000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: 5 สิ่งควรเลี่ยง ถ้าคุณไม่อยากเสี่ยงมะเร็ง
+    - ID: "8903e668-0898-456c-b6ed-09d94259e5b1"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{767F8F0F-705F-4B79-BE3A-BEF87795E6E1}" />
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: 5 สิ่งควรเลี่ยง ถ้าคุณไม่อยากเสี่ยงมะเร็ง
+    - ID: "d940cafe-2148-466e-9707-0748711f5fdc"
+      Hint: image
+      Value: |
+        <image mediaid="{767F8F0F-705F-4B79-BE3A-BEF87795E6E1}" cropx="0.38" cropy="0.35" focusx="-0.23684210526315785" focusy="0.296875" />
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: สุขภาพ, ครอบครัว, ประกันสุขภาพ, มะเร็ง, ประกันมะเร็ง

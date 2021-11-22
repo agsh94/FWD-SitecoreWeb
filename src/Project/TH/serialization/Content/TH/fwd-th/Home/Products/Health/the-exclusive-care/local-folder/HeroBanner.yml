@@ -1,0 +1,54 @@
+﻿---
+ID: "4a163e60-c64c-404c-a14f-9ae08d389118"
+Parent: "d796d1a1-7819-4ee0-82f4-a3e0b561ab80"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/the-exclusive-care/local-folder/HeroBanner"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: The Exclusive CARE
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{18257222-D719-4C1A-8536-F271F983CFE5}" cropx="0.44" cropy="0.37" focusx="-0.1228070175438597" focusy="0.265625" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T105950Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{18257222-D719-4C1A-8536-F271F983CFE5}" cropx="0.47" cropy="0.34" focusx="-0.052631578947368474" focusy="0.3125" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: ดิเอ็กซ์คลูซีฟ แคร์
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{18257222-D719-4C1A-8536-F271F983CFE5}" cropx="0.44" cropy="0.39" focusx="-0.1228070175438597" focusy="0.21875" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055203Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{18257222-D719-4C1A-8536-F271F983CFE5}" cropx="0.47" cropy="0.34" focusx="-0.052631578947368474" focusy="0.328125" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

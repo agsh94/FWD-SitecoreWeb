@@ -1,0 +1,55 @@
+﻿---
+ID: "e45f6842-ac48-4846-bfb2-7abe4bd6d389"
+Parent: "de105d64-a10f-4814-8f94-2548b89cb11e"
+Template: "b5702cd7-40f4-4617-9c29-8a1197de6c9a"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Wealth/power-link-fwd/local-folder/RelatedArticles"
+DB: master
+SharedFields:
+- ID: "2250f909-bae3-415f-a645-9d07826b6566"
+  Hint: apiPageSize
+  Value: 3
+- ID: "8f397566-a4d1-4f23-8594-dce13b3720fe"
+  Hint: apiSortBy
+  Value: "{22E8CD03-D525-4DB4-A1AA-8002FCD5673A}"
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{20162863-AE86-4B42-9AEC-B7A81A345553}"
+- ID: "ef2bcb82-b8a8-4be6-88a7-5269b777ad1d"
+  Hint: apiSubType
+  Value: "{446F28FB-9B81-4CF4-BE63-B0718A3DA001}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{33597DEB-878F-44DE-A597-D5AA79FF356C}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Related Articles
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200324T114813Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Related Article
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200402T151323Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: บทความที่เกี่ยวข้อง

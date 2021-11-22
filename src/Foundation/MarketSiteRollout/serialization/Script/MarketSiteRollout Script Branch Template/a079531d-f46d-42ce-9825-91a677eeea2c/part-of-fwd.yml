@@ -1,0 +1,40 @@
+﻿---
+ID: "944fa993-26d5-4fc5-a310-8049823c2f8d"
+Parent: "a079531d-f46d-42ce-9825-91a677eeea2c"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/About Us/brand-story/local-folder/part-of-fwd"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "998bce23-8608-4a00-b7e8-612a1dd3cb66"
+  Hint: linkGALabelName
+  Value: Join us
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Part of FWD
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: We operate a workspace that nurtures fearless innovation and big ideas – powered by our vision to change the way people feel about insurance. 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191216T060155Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: We operate a workspace that nurtures fearless innovation and big ideas – powered by our vision to change the way people feel about insurance.
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: "Want to be part of FWD?"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 

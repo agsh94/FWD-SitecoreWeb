@@ -1,0 +1,25 @@
+﻿---
+ID: "32d35381-f548-4709-a328-c22637d62916"
+Parent: "900588e1-7e6b-433f-835f-5011ba2acb1a"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/thai-dessert/local-folder/ArticleDetails/Description5"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 900
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T012255Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: "สำหรับเซ็ทขนมไทย 5 อย่างจะประกอบไปด้วย ตะโก้เล็กหอมกะทิเข้มข้น, ลูกชุบ, ข้าวเหนียวหน้าต่างๆ, ขนมชั้นที่สีสวยสดใสแปลกตาจากที่เคยเห็นทั่วไป รวมทั้งขนมไทยที่หาทานได้ยากในปัจจุบันอย่างขนมลืมกลืน ผมเคยได้ยินแต่ชื่อมานาน พอได้มาลองทานจริงๆ บอกเลยว่า ทั้งหอม หวาน นุ่มลิ้นจนแทบลืมกลืนสมชื่อเลยจริงๆ ครับ อ้อ! อีกเมนูที่น่าลองคือตะโก้ยักษ์ทับทิมกรอบ ที่ได้ทั้งความหอมหวานของทับทิมกรอบ ผสมเข้ากับกรุบของไส้แห้วที่ผสมอยู่ได้อย่างลงตัวสุดๆ"

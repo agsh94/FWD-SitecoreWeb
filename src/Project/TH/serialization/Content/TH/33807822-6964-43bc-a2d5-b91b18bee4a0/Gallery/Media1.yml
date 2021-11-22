@@ -1,0 +1,28 @@
+﻿---
+ID: "83e3cd4f-e7dd-4661-b0fd-7f4dee37aa6b"
+Parent: "18a03211-fe00-4ed7-aaa9-f86ee2ddc1e0"
+Template: "2861c185-fc81-4fdc-8e91-93de381c752e"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Max/Health/fwd-health/local-folder/ArticleDetails/Gallery/Media1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T173425Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "911794b9-daae-4106-a2db-bc429cfa7a9c"
+      Hint: leadingText
+      Value: "The One, FWD's high-end medical solution,"
+    - ID: "ca02df68-c93a-4d5b-bfb9-65cde670e7cd"
+      Hint: caption
+      Value: "and the associated all-round, one-stop health management service PREMIER THE ONEierge, claimed an Excellence Award in the Medical Care Category."
+    - ID: "e5628949-939b-4454-b990-5b6c89e0be4d"
+      Hint: image
+      Value: |
+        <image mediaid="{018D35C1-921E-4BF3-A8A4-10306CF3804E}" />

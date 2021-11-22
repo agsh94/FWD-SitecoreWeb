@@ -1,0 +1,25 @@
+﻿---
+ID: "ee8c993a-6a80-4f61-a366-7e954bf62b5b"
+Parent: "80241586-e7b7-444c-9c72-16f72dbea2d3"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/travel-leh-ladakh/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 3800
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T073847Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: ส่วนตัวเราชอบที่นี่มาก เพราะนอกจากความสวยงามแล้ว พอเข้าไปในตัววัดปุ้ป รู้สึกมันสงบอย่างบอกไม่ถูก แถมตัววัดเองก็สวยแบบเรียบง่ายด้วยเอกลักษณ์อาคารสีแดงและขาวเรียงรายลดหลั่นตามเนินเขา ตอนที่แอบไปนั่งคุยแบบรู้เรื่องบ้าง ไม่รู้เรื่องเยอะ กับผู้ดูแลวัด เขาก็บอกว่าในนี้มีวัดย่อยๆ อยู่ภายในวัดใหญ่อีกเป็น 10 วัด เป็นแหล่งรวมศรัทธาของคนแถบนี้ พ่อแม่หลายคนก็ส่งลูกมาเข้าโรงเรียนที่นี่ตั้งแต่เล็กๆ เลย

@@ -1,0 +1,64 @@
+﻿---
+ID: "2d027e70-9670-42d0-9ead-c44b654a859a"
+Parent: "3cd9cc7a-47da-4031-959a-59d4bf349c81"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/local-folder/Here to help"
+DB: master
+SharedFields:
+- ID: "b77299ed-f266-4dc3-94b1-455764394788"
+  Hint: share
+  Type: Checkbox
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: We're here to help every step along the way
+    - ID: "178df5ea-8972-40e0-9c6c-ddb4aeec732c"
+      Hint: subTitle
+      Value: 
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{1D337AA4-98FD-4E65-8761-D9488543A618}" cropx="0.48" cropy="0.40" focusx="-0.04166666666666663" focusy="0.203125" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191227T091404Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{1D337AA4-98FD-4E65-8761-D9488543A618}" cropx="0.49" cropy="0.35" focusx="-0.01041666666666663" focusy="0.296875" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: เราพร้อมมอบความช่วยเหลือเต็มที่ เพียงคุณแจ้งให้เราทราบ
+    - ID: "178df5ea-8972-40e0-9c6c-ddb4aeec732c"
+      Hint: subTitle
+      Value: 
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{1D337AA4-98FD-4E65-8761-D9488543A618}" cropx="0.50" cropy="0.37" focusx="0" focusy="0.265625" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200213T061255Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{1D337AA4-98FD-4E65-8761-D9488543A618}" cropx="0.45" cropy="0.36" focusx="-0.09375" focusy="0.28125"></image>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

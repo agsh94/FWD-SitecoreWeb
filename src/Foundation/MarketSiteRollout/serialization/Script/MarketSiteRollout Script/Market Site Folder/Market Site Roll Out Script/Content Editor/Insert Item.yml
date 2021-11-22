@@ -1,0 +1,14 @@
+﻿---
+ID: "52a6b57e-b56e-495e-abfd-9195766a7170"
+Parent: "a21274ed-ae22-4bf7-96a4-53802825c846"
+Template: "ab154d3d-1126-4ab4-ac21-8b86e6bd70ea"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Content Editor/Insert Item
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T113321Z

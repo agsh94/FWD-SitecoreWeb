@@ -1,0 +1,51 @@
+﻿---
+ID: "f859cba0-b037-484f-981f-ae53efcaeaee"
+Parent: "2780d877-e4a6-4b18-b184-fa28fb025a56"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/Merger FAQ/2How will this amalgamation affect the insurance policies"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200703T063936Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "How will this amalgamation affect the insurance policies?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul style="list-style-type: disc;">
+            <li><span>There will be no effect on customers policies. Please be assured that your benefits will remain the same as it was stated in the insurance policies. </span></li>
+            <li><span>According to the concept of amalgamation under the law, the amalgamated entity will receive the transfer of all assets, liabilities, rights, obligations and liabilities from the two amalgamating entities, in this case are SCB Life and FWD Life.</span></li>
+            <li><span>We are confident that our amalgamation will benefit the customers and insurance industry of Thailand overall, through the offering of better insurance products and services deriving from the combination of high-quality personnel of both companies. </span></li>
+        </ul>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200703T064907Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: การควบกันของบริษัทในครั้งนี้มีผลต่อกรมธรรม์ประกันภัยอย่างไร
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul style="list-style-type: disc;">
+            <li><span>การควบกันของบริษัทจะไม่ส่งผลกระทบต่อสิทธิประโยชน์และความคุ้มครองตามกรมธรรม์ประกันภัยของลูกค้าของ </span><span>FWD Life และ SCB Life แต่อย่างใด </span><span>บริษัทที่ควบกันฯ จะยังคงให้ความคุ้มครองคุณและคนที่คุณรักตามรายละเอียดและเงื่อนไขของกรมธรรม์ประกันภัยของคุณที่มีอยู่กับ </span><span>FWD Life หรือ SCB Life ต่อไป</span></li>
+            <li><span>การควบกันของ</span><span>บริษัท</span><span>ตามหลักกฎหมายนั้น บริษัทที่เกิดใหม่จากการควบกันจะได้ไปทั้งทรัพย์สิน หนี้ สิทธิ หน้าที่ และความรับผิดชอบทั้งหมดของสองบริษัทเดิม ซึ่งได้แก่ </span><span>FWD Life และ SCB Life</span></li>
+            <li><span>เรามั่นใจว่าการควบกันของบริษัทในครั้งนี้จะเป็นประโยชน์ต่อลูกค้า และอุตสาหกรรมประกันภัยของประเทศไทยโดยรวม ผ่านการนำเสนอผลิตภัณฑ์ประกันภัยและการบริการที่ดียิ่งขึ้นด้วยการผนึกกำลังของบุคลากรที่มีคุณภาพของทั้งสองบริษัท</span></li>
+        </ul>

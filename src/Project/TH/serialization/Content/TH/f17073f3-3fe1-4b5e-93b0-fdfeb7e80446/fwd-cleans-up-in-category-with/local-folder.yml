@@ -1,0 +1,39 @@
+﻿---
+ID: "4ae0d7c3-2b71-4c00-9a22-a15231222fe1"
+Parent: "1d3a95b9-7d7a-4bac-865e-51de2f31360c"
+Template: "fff5f245-ffc0-4022-a998-9b07aa5e761f"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/about-us/press-releases/fwd-cleans-up-in-category-with-11-awards/local-folder"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {681B61A2-6F52-4119-B8F4-033587EAEACC}
+    {90753B30-92E3-4D17-A179-39166B735FEF}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-1000"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191120T114712Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200108T084133Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

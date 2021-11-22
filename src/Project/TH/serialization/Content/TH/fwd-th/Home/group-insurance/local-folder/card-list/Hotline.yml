@@ -1,0 +1,65 @@
+﻿---
+ID: "e30dd41b-f345-4e81-b947-42e890ae5630"
+Parent: "1dbb9b41-1f0b-46fc-9d00-23566f2fbe56"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/local-folder/card-list/Hotline"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: |
+        Our hotline is staffed 24/7 to provide fast assistance and answer all of your questions, whatever they are: <a href="tel:026326400">02-632-6400</a>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200130T110516Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: 24/7 hotline number
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{B85FED73-5B6D-447B-A248-BD272A76DD0A}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{B85FED73-5B6D-447B-A248-BD272A76DD0A}" cropx="0.50" cropy="0.48" focusx="-0.004405286343612369" focusy="0.046875" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: |
+        พนักงานของเราพร้อมให้ความช่วยเหลือและคำแนะนำ ทุกวัน ทุกเวลา กับสายด่วน <a href="tel:026326400">02-632-6400</a>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200217T102340Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: สายด่วน ทุกวัน ตลอด 24 ชั่วโมง
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: "พนักงานของเราพร้อมให้ความช่วยเหลือและคำแนะนำ ทุกวัน ทุกเวลา กับสายด่วน 02-632-6400 "
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{B85FED73-5B6D-447B-A248-BD272A76DD0A}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{B85FED73-5B6D-447B-A248-BD272A76DD0A}" cropx="0.50" cropy="0.48" focusx="-0.004405286343612369" focusy="0.046875" />

@@ -1,0 +1,34 @@
+﻿---
+ID: "1e360f22-3754-46c8-9ec6-b7e73daf3fa8"
+Parent: "80f7eece-8b8a-4470-b242-3317c828e2f4"
+Template: "91c91756-644c-4460-812b-9d3a33b076b2"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/About Us/News/fwd-cleans-up-in-category-with-11-awards/local-folder/article-description-area/ArticleHighlightCTA2"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 850
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{C4CE9C6D-80FA-402F-9B49-87C412A21684}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T062651Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shiagnih
+    - ID: "ba0719f6-3c44-44c3-88f7-36c6f9f9612a"
+      Hint: content
+      Value: Find your nearest hospital
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 

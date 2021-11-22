@@ -1,0 +1,43 @@
+﻿---
+ID: "bc60d073-1347-42f8-a98d-032c9adc7040"
+Parent: "7b4f6c25-c526-4691-8409-6658ff69c2ba"
+Template: "97cea154-4eb8-4945-a632-191d53fd8e29"
+Path: "/sitecore/content/fwd/fwd-th/Components/Awards/Awards-FWD-Story/Company awards"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Company
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200515T035543Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "7cac8bc3-5dbf-429a-b5d5-bf9d7c5af335"
+      Hint: title
+      Value: Company
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: รางวัลด้านบริษัท
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T113732Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "7cac8bc3-5dbf-429a-b5d5-bf9d7c5af335"
+      Hint: title
+      Value: รางวัลด้านบริษัท

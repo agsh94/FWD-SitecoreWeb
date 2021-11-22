@@ -1,0 +1,29 @@
+﻿---
+ID: "77adcd84-3c89-454e-861c-413f9b958a82"
+Parent: "80241586-e7b7-444c-9c72-16f72dbea2d3"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/travel-leh-ladakh/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 5200
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T073847Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>Day 7 : Northern part of Leh</strong><br />
+        และหลังจากผ่านเหตุการณ์ทั้งหมดทั้งมวล ใช้ร่างกายไปอย่างหนักหน่วงภายในหนึ่งสัปดาห์ที่ผ่านมา วันสุดท้ายในเลห์ ก็เลยเป็นวันหลวมๆ เพื่อพักร่าง ที่แรกก็คือ&nbsp;<strong>Confluence of Zanskar &amp; Indus river</strong> หรือจุดบรรจบของแม่น้ำสองสายสองสีไหลมารวมกัน แต่วันที่ไปเหมือนสีจะตก มันเลยไม่ค่อยต่างเท่าไหร่ 555<br />
+        <br />
+        จากนั้นก็มุ่งตรงไปอีกจุดหมาย ไฮไลท์ของวันนี้ ก็คือ <strong>Lamayuru</strong> ว่ากันว่าเป็นดินแดนผิวโลกพระจันทร์ มีเนินเขาที่มีพื้นผิวแปลกตา เกิดจากการกัดเซาะของลมและกระแสน้ำเป็นเวลายาวนาน พื้นผิวแปลกๆ ดูแห้งแล้งไปหมดทุกทางเนี่ย เหมาะกับการถ่ายรูปสุดๆ

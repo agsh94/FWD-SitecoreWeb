@@ -1,0 +1,45 @@
+﻿---
+ID: "cb3774b0-8e6a-433b-bdb6-1ee82ce6e20d"
+Parent: "a594172e-3b50-4604-b41d-29f8b18b80f3"
+Template: "fff5f245-ffc0-4022-a998-9b07aa5e761f"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Life Protection/value-protector/local-folder"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {EE2C800F-5808-4E93-B521-517495E4A1E6}
+    {51555475-5028-4B05-9B45-53BE53615704}
+    {681B61A2-6F52-4119-B8F4-033587EAEACC}
+    {14CF212D-7CF4-41AA-B50B-24D748A87556}
+    {83A147F2-89BA-4A48-8222-4B73FFE65216}
+    {24C1D9C4-A2BF-436B-B6BF-7E3E4957488F}
+    {175E0994-9695-4A52-9837-B6E9F53D9D56}
+    {7D6BB8C2-D538-441D-82BF-D6AEC40B5929}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-1000"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T105940Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055157Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

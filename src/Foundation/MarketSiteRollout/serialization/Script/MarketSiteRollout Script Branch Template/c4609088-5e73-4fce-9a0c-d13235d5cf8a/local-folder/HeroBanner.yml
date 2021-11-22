@@ -1,0 +1,54 @@
+﻿---
+ID: "0d232b58-127d-4c7b-9b5c-96c60508d528"
+Parent: "71384372-6d88-4f8a-a559-ed83da6a8e7d"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Health/cancer-fighter/local-folder/HeroBanner"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: Cancer Fighter Rider
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{2D294744-3A37-42E2-BD26-D5495210CA3F}" cropx="0.55" cropy="0.38" focusx="0.09649122807017552" focusy="0.25" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T105950Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{2D294744-3A37-42E2-BD26-D5495210CA3F}" cropx="0.50" cropy="0.27" focusx="0.00877192982456143" focusy="0.46875" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: แคนเซอร์ ไฟท์เตอร์
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{03C523C4-20C3-4261-AB7B-FC58E90A020A}" cropx="0.54" cropy="0.34" focusx="0.07017543859649122" focusy="0.328125" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055203Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{03C523C4-20C3-4261-AB7B-FC58E90A020A}" cropx="0.50" cropy="0.30" focusx="-0.00877192982456143" focusy="0.390625" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

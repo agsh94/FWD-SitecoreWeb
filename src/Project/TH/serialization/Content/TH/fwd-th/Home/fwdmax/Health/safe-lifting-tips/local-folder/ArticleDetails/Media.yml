@@ -1,0 +1,36 @@
+﻿---
+ID: "84768722-288c-4627-bafe-798069ed32d4"
+Parent: "d03af505-dae8-44e5-836a-12b330705da7"
+Template: "2861c185-fc81-4fdc-8e91-93de381c752e"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/safe-lifting-tips/local-folder/ArticleDetails/Media"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b23ad3f-b76c-4a6a-830d-1434dd398ed6"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200928T071015Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee
+    - ID: "c93d0c7b-6b3a-4e3a-a9b6-dc89062a8a6c"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{CDB3D0EF-D133-4F0E-B768-32E1DE65C640}" cropx="0.67" cropy="0.28" focusx="0.33333333333333326" focusy="0.4375" />
+    - ID: "e5628949-939b-4454-b990-5b6c89e0be4d"
+      Hint: image
+      Value: |
+        <image mediaid="{CDB3D0EF-D133-4F0E-B768-32E1DE65C640}" cropx="0.66" cropy="0.30" focusx="0.32456140350877183" focusy="0.390625" />

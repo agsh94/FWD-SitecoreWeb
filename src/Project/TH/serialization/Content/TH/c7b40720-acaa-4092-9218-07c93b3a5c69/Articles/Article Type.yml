@@ -1,0 +1,25 @@
+﻿---
+ID: "433fd8a2-2a26-43f1-b27d-5a7af6213311"
+Parent: "32e51f88-8007-435e-abd6-95025ab8036d"
+Template: "c0f635f5-556e-4209-b52c-3e91745d9756"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/Search/local-folder/global-search/Articles/Article Type"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "02247d65-9465-42e9-a889-87f39fabebca"
+      Hint: filterValues
+      Type: Treelist
+      Value: |
+        {9B4F5DC4-00EC-4983-8861-75885C261E9E}
+        {8AA48D73-95AB-4B38-A59A-C87A7FADBBE4}
+        {F9477F10-1A0C-48A1-9AB0-4CD0672C9AA9}
+        {86924A38-30E8-45E4-AE10-1663F1632B58}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200407T041630Z
+    - ID: "f8c0d3f7-d4dd-4635-b27a-427fb485ab8a"
+      Hint: filter
+      Value: "{3460BC47-4D35-43B0-9D7D-9F7471EA5D82}"

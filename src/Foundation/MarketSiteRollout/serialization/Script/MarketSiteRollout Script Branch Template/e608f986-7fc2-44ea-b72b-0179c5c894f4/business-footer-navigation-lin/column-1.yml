@@ -1,0 +1,18 @@
+﻿---
+ID: "4f2ca58a-a9c6-46d5-bd4e-92b339b90064"
+Parent: "83c312cf-0388-4b8a-8aae-fa69e48de0d3"
+Template: "fe08a445-9cb9-491c-a047-1a3ca3ffd68a"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Components/footerLinks/business-footer-navigation-links/column-1"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Column 1
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200226T072219Z

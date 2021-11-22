@@ -1,0 +1,28 @@
+﻿---
+ID: "0219b084-fc06-4ce8-9a80-a5517bcab68a"
+Parent: "66643db8-db1e-4c34-9b1b-8911671bb0e8"
+Template: "746ac162-3a57-433e-b006-f0967fb26e8e"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/Health/cancer-knockout/local-folder/Product Benefits"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200831T053306Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nehagarg
+    - ID: "7a7d16f5-9b1f-4f07-b3c1-5c82f815a5cd"
+      Hint: benefitList
+      Type: TreelistEx
+      Value: |
+        {ADF0EC5C-C489-4436-9747-15C933825451}
+        {D3DA2312-5FED-495D-B275-479048A3F5ED}
+        {E109DC20-14E1-495C-853D-924A9CED3C32}
+        {21436380-7EBE-4001-B048-707139C88279}
+        {F948F40C-25BD-43AB-A46D-9D93C54EAA6B}
+        {C7B62175-6E4B-4A16-8DA3-5D9F72F89432}

@@ -1,0 +1,48 @@
+﻿---
+ID: "e075aad1-ed7a-4f4d-9709-e5c8741bdaa9"
+Parent: "10b7b381-da72-4ed6-bd8c-7166ab07e1f9"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/local-folder/section-header"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Section Header
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20200206T123005:637165890057659530Z"
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "Your health checklist reads: good diet, frequent check-ups,  insurance. What else? See new ideas, opinions, coverage options and how your peers are living without limits, wven when the routines get cheeky."
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Better health, better life
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200219T091748Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: เพราะความสุขในชีวิต คือการได้ออกเดินทางไปพบประสบการณ์ที่แปลกใหม่ ได้ลองทำในสิ่งที่ไม่เคยทำ ได้ตื่นเต้นกับสิ่งที่ไม่เคยรู้ ได้ค้นพบมิตรภาพที่สวยงาม และที่สำคัญที่สุดในการเดินทาง คือความทรงจำอันงดงามที่จะคงอยู่ตลอดไป
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ออกไปท่องเที่ยว เติมเต็มแพสชันในแบบคุณ

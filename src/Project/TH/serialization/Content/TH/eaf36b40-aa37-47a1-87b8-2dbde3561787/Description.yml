@@ -1,0 +1,33 @@
+﻿---
+ID: "8920a1c4-71cf-4487-9ffe-8f40594b011e"
+Parent: "eaf36b40-aa37-47a1-87b8-2dbde3561787"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/sugar-additced-facts/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200929T053955Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>3.เสพติดความหวาน</strong></p>
+        <p><strong></strong><br />
+        การกินอาหารหรือเครื่องดื่มที่มีรสชาติหวานเป็นประจำ สมองจะหลั่งสารที่มีฤทธิ์คล้ายมอร์ฟีน ทำให้เรารู้สึกมีความสุข รวมถึงสั่งการให้ร่างกายมีความต้องการน้ำตาลมากขึ้นเรื่อยๆ จนกลายเป็นติดอยู่ในวงจรความหวาน ทำให้รู้สึกเหมือนขาดน้ำตาลไม่ได้ และกลายเป็นสาเหตุของโรคต่างๆ ในที่สุด</p>
+        <p>&nbsp;<br />
+        รสชาติหวานในอาหารและเครื่องดื่ม อาจให้ความรู้สึกสดชื่นทุกครั้งที่กินเข้าไป แต่เมื่อไหร่ที่บริโภคจนเกินพอดี ก็อาจกลายเป็นจุดเริ่มต้นของการเกิดโรคเรื้อรังต่างๆ ที่ส่งผลกระทบต่อสุขภาพ และการดำเนินชีวิตในอนาคตของตัวคุณเอง</p>

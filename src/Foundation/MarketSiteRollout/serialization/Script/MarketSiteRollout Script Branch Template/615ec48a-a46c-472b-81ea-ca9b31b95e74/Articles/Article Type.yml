@@ -1,0 +1,28 @@
+﻿---
+ID: "8f008955-5edd-4ff2-8a01-86417a4cb55c"
+Parent: "a8a631d5-51fa-4b42-b593-1edd972d38ff"
+Template: "c0f635f5-556e-4209-b52c-3e91745d9756"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Search/local-folder/global-search/Articles/Article Type"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "02247d65-9465-42e9-a889-87f39fabebca"
+      Hint: filterValues
+      Type: Treelist
+      Value: |
+        {46BFC40F-62BC-4F44-8151-D8450D40D334}
+        {4ACA8F07-8BAD-454D-ABD7-90CA8393C106}
+        {BAD3A8EF-2C63-4E8B-A8E5-4A0B0AA1544D}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200603T112313Z
+    - ID: "f8c0d3f7-d4dd-4635-b27a-427fb485ab8a"
+      Hint: filter
+      Value: "{3460BC47-4D35-43B0-9D7D-9F7471EA5D82}"

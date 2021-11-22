@@ -1,0 +1,169 @@
+﻿---
+ID: "68c4907b-02b1-44cf-86a7-cf83ff103004"
+Parent: "62f4d9b7-e439-45a7-8ddf-857d29b64e3a"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/health-check-up/local-folder/Article Description Area/Northeastern"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 294
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200805T043625Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sarat
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span><strong>ภาคตะวันออกเฉียงเหนือ&nbsp;</strong></span></p>
+        <table style="font-size: 0.8em; vertical-align: top;">
+            <tbody>
+                <tr style="height: 14.25pt;">
+                    <td class="xl65" style="height: 14.25pt; width: 54pt; text-align: left;"><strong>จังหวัด</strong></td>
+                    <td class="xl65" style="width: 170pt; text-align: left;"><strong>โรงพยาบาล</strong></td>
+                    <td class="xl65" style="width: 476pt; text-align: left;"><strong>แผนก/เบอร์ติดต่อ</strong></td>
+                    <td class="xl65" style="width: 101pt; text-align: left;"><strong>รายละเอียดโปรโมชั่น</strong></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ขอนแก่น</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ ขอนแก่น</td>
+                    <td class="xl65" style="text-align: left;">Call Center /&nbsp;0 4304 2888&nbsp;ต่อ 1719</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/01ae2a26ecef42e9a09ed9bce84a9aa0.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ขอนแก่น</td>
+                    <td class="xl65" style="text-align: left;">รพ. ขอนแก่นราม</td>
+                    <td class="xl65" style="text-align: left;">คลินิกตรวจสุขภาพ /&nbsp;0 4300 2002&nbsp;/&nbsp;0 4323 9000&nbsp;ต่อ 4407</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/366808029b524ae7bae6cf5dcb8c40c8.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นครราชสีมา</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ ราชสีมา</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ /&nbsp;0 4442 9999&nbsp;ต่อ 6617, 4321</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/0830ce011664433495f353c8a89f23d9.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">อุดรธานี</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ อุดร</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ /&nbsp;0 4234&nbsp; 3111&nbsp;ต่อ 1170</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/8c7e74d639914b2fa1c9f6d81d7d2c36.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">อุบลราชธานี</td>
+                    <td class="xl65" style="text-align: left;">รพ. ราชเวช อุบลราชธานี</td>
+                    <td class="xl65" style="text-align: left;">แผนกลูกค้าสัมพันธ์ /&nbsp;0 4528 0040-55&nbsp;ต่อ 2150-2153</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/ed640f14bf3e4b1c8c512257582849a3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">หนองคาย</td>
+                    <td class="xl65" style="text-align: left;">รพ. หนองคายวัฒนา</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ Wellness Center /&nbsp;0 4246 5201-8</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/7b364d011fc74373bf56ee83d59d8fe8.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">อุดรธานี</td>
+                    <td class="xl65" style="text-align: left;">รพ. นอร์ทอีสเทอร์น<br />วัฒนา-อุดรธานี</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ Wellness Center /&nbsp;0 4221 9888</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/02fe9d6b89104731bccd38911e37f820.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ร้อยเอ็ด</td>
+                    <td class="xl65" style="text-align: left;">รพ. จุรีเวชร้อยเอ็ด</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ /&nbsp;0 4351 5191</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/33716740db6849399e6238c78248dc94.ashx">คลิก</a></td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200813T041937Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span><strong>ภาคตะวันออกเฉียงเหนือ&nbsp;</strong></span></p>
+        <table style="font-size: 0.8em; vertical-align: top;">
+            <tbody>
+                <tr style="height: 14.25pt;">
+                    <td class="xl65" style="height: 14.25pt; width: 54pt; text-align: left;"><strong>จังหวัด</strong></td>
+                    <td class="xl65" style="width: 170pt; text-align: left;"><strong>โรงพยาบาล</strong></td>
+                    <td class="xl65" style="width: 476pt; text-align: left;"><strong>แผนก/เบอร์ติดต่อ</strong></td>
+                    <td class="xl65" style="width: 101pt; text-align: left;"><strong>รายละเอียดโปรโมชั่น</strong></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ขอนแก่น</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ ขอนแก่น</td>
+                    <td class="xl65" style="text-align: left;">Call Center /&nbsp;0 4304 2888&nbsp;ต่อ 1719</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/01ae2a26ecef42e9a09ed9bce84a9aa0.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ขอนแก่น</td>
+                    <td class="xl65" style="text-align: left;">รพ. ขอนแก่นราม</td>
+                    <td class="xl65" style="text-align: left;">คลินิกตรวจสุขภาพ /&nbsp;0 4300 2002&nbsp;/&nbsp;0 4323 9000&nbsp;ต่อ 4407</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/366808029b524ae7bae6cf5dcb8c40c8.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นครราชสีมา</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ ราชสีมา</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ /&nbsp;0 4442 9999&nbsp;ต่อ 6617, 4321</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/0830ce011664433495f353c8a89f23d9.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">อุดรธานี</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ อุดร</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ /&nbsp;0 4234&nbsp; 3111&nbsp;ต่อ 1170</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/8c7e74d639914b2fa1c9f6d81d7d2c36.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">อุบลราชธานี</td>
+                    <td class="xl65" style="text-align: left;">รพ. ราชเวช อุบลราชธานี</td>
+                    <td class="xl65" style="text-align: left;">แผนกลูกค้าสัมพันธ์ /&nbsp;0 4528 0040-55&nbsp;ต่อ 2150-2153</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/ed640f14bf3e4b1c8c512257582849a3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">หนองคาย</td>
+                    <td class="xl65" style="text-align: left;">รพ. หนองคายวัฒนา</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ Wellness Center /&nbsp;0 4246 5201-8</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/7b364d011fc74373bf56ee83d59d8fe8.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">อุดรธานี</td>
+                    <td class="xl65" style="text-align: left;">รพ. นอร์ทอีสเทอร์น<br />วัฒนา-อุดรธานี</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ Wellness Center /&nbsp;0 4221 9888</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/02fe9d6b89104731bccd38911e37f820.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ร้อยเอ็ด</td>
+                    <td class="xl65" style="text-align: left;">รพ. จุรีเวชร้อยเอ็ด</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ /&nbsp;0 4351 5191</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/33716740db6849399e6238c78248dc94.ashx">คลิก</a></td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200813T041937Z

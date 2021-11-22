@@ -1,0 +1,57 @@
+﻿---
+ID: "faaab7e6-a4da-4e57-8e17-c11eb75b657c"
+Parent: "ecfca980-c4f8-4ae6-895e-2e8c11f837c6"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/Fund Information/Alternative Funds/TMBGOLDS"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T042458Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: TMB GOLD SINGAPORE FUND (TMBGOLDS)
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/funds/mutual-funds/funddetails?fundcode=I07     '>Fund page</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/PRO/I07_01.pdf '>Fund information summary</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/QA/I07_02.pdf'>Prospectus</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/FS/I07_03.pdf'>Fact sheet</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/SAR/I07_h_04.pdf'>Bi-annual report</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/AR/I07_y_04.pdf'>Annual report</a></li>
+        </ul>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T042538Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: กองทุนเปิดทหารไทย โกลด์ สิงคโปร์ (TMBGOLDS)
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/funds/mutual-funds/funddetails?fundcode=I07     '>หน้าหลักกองทุน</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/PRO/I07_01.pdf '>สาระสำคัญ ของกองทุน</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/QA/I07_02.pdf'>หนังสือชี้ชวน</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/FS/I07_03.pdf'>หนังสือชี้ชวนส่วนสรุป</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/SAR/I07_h_04.pdf'>รายงาน 6 เดือน</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/AR/I07_y_04.pdf'>รายงานประจำปี</a></li>
+        </ul>

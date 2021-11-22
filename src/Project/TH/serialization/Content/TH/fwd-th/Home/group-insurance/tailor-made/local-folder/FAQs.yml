@@ -1,0 +1,59 @@
+﻿---
+ID: "0aef5fd1-3376-415f-a743-97e5a1d0a111"
+Parent: "0d8191c0-8d1d-45ad-ab1e-9ec239301cc0"
+Template: "14cf212d-7cf4-41aa-b50b-24d748a87556"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/tailor-made/local-folder/FAQs"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1100
+- ID: "f973c399-5998-47a5-ae48-760ebed901b1"
+  Hint: faqItems
+  Value: "{9F12EC07-CC1E-4096-9EF6-EFF25651DED2}|{9CECA16A-6119-4CCA-9EF9-9B4D768B59A9}|{96309CD2-78E0-4B8B-9740-1DFB1433B83D}|{393BE3EA-A474-4654-862B-6CBE240B5DA3}|{ACBB214A-00BE-44B3-9B48-B6DFA45C45F3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200120T083202Z
+    - ID: "45e2df09-7d41-4b33-b7f1-f6d4bb8ba530"
+      Hint: description
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See more FAQs" anchor="" linktype="internal" class="" title="See more FAQs"  querystring="" id="{4D410CCC-DDD8-456C-B317-FD8D00637F32}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: Frequently asked questions 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T115849Z
+    - ID: "45e2df09-7d41-4b33-b7f1-f6d4bb8ba530"
+      Hint: description
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ดูคำถามที่พบบ่อย" anchor="" linktype="internal" class="" title="ดูคำถามที่พบบ่อย"  querystring="" id="{4D410CCC-DDD8-456C-B317-FD8D00637F32}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: คำถามที่พบบ่อย

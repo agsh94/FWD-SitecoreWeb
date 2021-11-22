@@ -1,0 +1,43 @@
+﻿---
+ID: "9b91c6c7-1f45-4415-8eb8-cc094d3866c6"
+Parent: "5bc63797-e7ac-4a6b-86d5-db3fb14c728d"
+Template: "99a5d004-f5f7-4f4b-942d-0fa83d62c6a5"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/press-releases/article-4/local-folder/article-description-area/acquisition-quote"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Acquisition Quote
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T060214Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "f39f1fcb-8829-42d2-b98b-b42596b9c427"
+      Hint: quote
+      Value: "This acquisition will provide new opportunities for us to continue to realise our vision to change the way people feel about insurance. I’m excited to lead a new chapter with our expanded Hong Kong team. Through our innovative, relevant and easy-to-understand product offerings, convenient customer and claims services, as well as multi-distribution channel strategies, I’m confident our combined Hong Kong team will achieve new milestones in a market with such enormous long-term growth potential for insurance."
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T034848Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "f39f1fcb-8829-42d2-b98b-b42596b9c427"
+      Hint: quote
+      Value: "This acquisition will provide new opportunities for us to continue to realise our vision to change the way people feel about insurance. I’m excited to lead a new chapter with our expanded Hong Kong team. Through our innovative, relevant and easy-to-understand product offerings, convenient customer and claims services, as well as multi-distribution channel strategies, I’m confident our combined Hong Kong team will achieve new milestones in a market with such enormous long-term growth potential for insurance."

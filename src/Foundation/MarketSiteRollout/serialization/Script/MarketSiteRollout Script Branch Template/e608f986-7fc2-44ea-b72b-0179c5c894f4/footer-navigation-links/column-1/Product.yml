@@ -1,0 +1,20 @@
+﻿---
+ID: "07ecb124-5751-449f-ac26-8b7f2f585279"
+Parent: "09411398-fed4-4afe-94fd-8f2228348a1d"
+Template: "8bac8cc4-dec2-4c0c-9d84-6dfb7d398819"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Components/footerLinks/footer-navigation-links/column-1/Product"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200227T102612Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: 
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: Products

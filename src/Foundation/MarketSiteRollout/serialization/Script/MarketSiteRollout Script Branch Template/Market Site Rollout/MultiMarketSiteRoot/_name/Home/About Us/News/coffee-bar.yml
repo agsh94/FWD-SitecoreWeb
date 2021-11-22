@@ -1,0 +1,161 @@
+﻿---
+ID: "9520eb93-1691-44eb-9f37-42ba4188fcae"
+Parent: "69fcacd9-3ac6-456f-aa9f-b45a16660b4b"
+Template: "937f9755-269c-46cb-87cf-e05c0211ef32"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/About Us/News/coffee-bar"
+DB: master
+SharedFields:
+- ID: "0542fe2e-3942-4d2a-9d28-fca5312b2ab4"
+  Hint: associatedProducts
+  Value: 
+- ID: "05b2b484-bdd9-4a0c-9bc2-013e6a9989a9"
+  Hint: subtype
+  Value: "{29E65B58-2D64-41B3-A6E9-2D08C6B251C1}"
+- ID: "10e652c4-46dd-4b96-94af-033d6997a41a"
+  Hint: userType
+  Type: Multilist
+  Value: |
+    {E57F22D8-3527-40F4-BBB5-96D59C32289C}
+    {912DD989-8E13-413F-911D-00927C44FA69}
+- ID: "51605d25-f8a6-4776-990d-342cf6bc523b"
+  Hint: subtopics
+  Type: Multilist
+  Value: |
+    {153D2FCD-E662-40D4-8071-EF9234B59047}
+    {53B5C779-B20C-4B94-897D-3698507BE331}
+    {73FC94EB-BF78-4487-ACF5-48A4EAB1D779}
+- ID: "644a759b-d9f0-46b0-b5a2-afc11a100bb1"
+  Hint: topics
+  Type: Multilist
+  Value: |
+    {A3A37188-F290-4B4A-86B1-DE407F1F1FE6}
+    {E3D5DA14-6C81-4D72-8070-E2FC348FAF11}
+    {74802C8F-3859-4524-9049-769333242F28}
+    {D5A7C969-1362-4EC1-B61B-03A6BE7C95D3}
+- ID: "adb8c199-23ee-47b6-ac3a-e42511001cd9"
+  Hint: featuredTags
+  Type: TreelistEx
+  Value: |
+    {230D97AB-F6EF-44AB-A276-51A332F36E49}
+    {8CEB0BF6-4A86-49FD-8B4B-B79B704C3603}
+    {AE0D7639-B422-4416-88F5-B99A196A249C}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{8B882DA0-246E-4ED0-AF73-96D257D48B65}"
+          s:ds="{F6CC87BE-D916-442A-AFDF-1223822596A6}"
+          s:par="HeroBannerVariant&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider" />
+        <r
+          uid="{3AF89728-BC21-4D8E-B624-6B3B02448E73}"
+          s:par="horizontalLayout=1&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider" />
+        <r
+          uid="{EEB3FD55-53B2-4C9C-92E6-C301DC5FA6C7}"
+          s:par="horizontalLayout&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider" />
+        <r
+          uid="{B34524D6-F06A-46EF-BBB9-37BE63541C2B}"
+          s:ds="{8260A212-CB84-4E94-B0FB-47F18F266833}" />
+        <r
+          uid="{41DB1F41-DF41-4E0B-BB6E-C77DA83CE126}"
+          s:par="numberOfColumns=%7BBF5801D4-6803-4301-A9D1-D4D722E38E7B%7D&amp;backgroundColor&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{F131E204-4546-436A-9BAA-F8A7D613A0DE}"
+          s:ds="{685E4B2B-9DE7-4A6D-8B76-82440B6507BE}"
+          s:par="carouselMode=%7BC81D8D8F-E8D9-468F-ACFC-BBDCE30D66EC%7D&amp;showCategory&amp;showImage&amp;ShowProductCTA=1&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{7B6A80A0-CC82-4AD7-BA0A-A12CC337F643}">
+          <p:d />
+        </r>
+        <r
+          uid="{60B84D69-D13D-47E3-8ABE-1EEC13781D80}"
+          p:after="r[@uid='{F131E204-4546-436A-9BAA-F8A7D613A0DE}']"
+          s:ds="{0C54B50E-EB4C-4422-BF2F-604460DA6D28}"
+          s:id="{E9189BB0-4352-4FC7-B5F6-7C992E35E897}"
+          s:par="buttonAlignment=%7BCF02F396-DAFD-448E-BC19-15E66C7CBA54%7D&amp;variant&amp;numberOfColumns=%7B463993C4-D100-40EB-9898-6A8E60F3BB34%7D&amp;anchorText&amp;backgroundColor=%7BEBDF491B-A72E-47CA-A391-E44A39C9C329%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="/jss-main" />
+        <r
+          uid="{DCEFBE9A-CB6F-4EA1-B123-C1DB121B4108}"
+          s:par="anchorText&amp;backgroundColor=%7BF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Coffee Bar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "02b87b9a-bb93-4772-82ae-ddd40f19283c"
+      Hint: rewardText
+      Value: Tier 2
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F131E204-4546-436A-9BAA-F8A7D613A0DE}">
+              <p:d />
+            </r>
+            <r
+              uid="{60B84D69-D13D-47E3-8ABE-1EEC13781D80}">
+              <p:d />
+            </r>
+            <r
+              uid="{06F9E2A4-43A5-45E7-A738-4B7A27879A17}"
+              p:after="r[@uid='{41DB1F41-DF41-4E0B-BB6E-C77DA83CE126}']"
+              s:ds="{685E4B2B-9DE7-4A6D-8B76-82440B6507BE}"
+              s:id="{F2459F24-7B96-4391-9975-0995CDB24706}"
+              s:par="carouselMode=%7BC81D8D8F-E8D9-468F-ACFC-BBDCE30D66EC%7D&amp;showCategory&amp;showImage&amp;ShowProductCTA=1&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{5802864A-C713-4492-9F94-08085849DF97}"
+              p:after="r[@uid='{06F9E2A4-43A5-45E7-A738-4B7A27879A17}']"
+              s:ds="{0C54B50E-EB4C-4422-BF2F-604460DA6D28}"
+              s:id="{E9189BB0-4352-4FC7-B5F6-7C992E35E897}"
+              s:par="buttonAlignment=%7BCF02F396-DAFD-448E-BC19-15E66C7CBA54%7D&amp;variant&amp;numberOfColumns=%7B463993C4-D100-40EB-9898-6A8E60F3BB34%7D&amp;anchorText&amp;backgroundColor=%7BEBDF491B-A72E-47CA-A391-E44A39C9C329%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+          </d>
+        </r>
+    - ID: "105d35bb-e423-4eea-ad61-f4408a757049"
+      Hint: city
+      Value: "{A8AF883B-ABF4-4B35-B56E-CC8D46F02FE4}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191122T071153Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: "One Two Two Coffee Bar, counted 1,2, follow to taste the hundreds of delicious coffee. The coffee shop is decorated in minimal style: very warm and friendly."
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20191121T183000Z
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Coffee Bar
+    - ID: "8903e668-0898-456c-b6ed-09d94259e5b1"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{F9AC5180-8D9D-492F-9A80-39378F0241FB}" />
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: One Two Two Coffee Bar, Another Lovely Cafe To Check In
+    - ID: "a769f55d-9709-4908-bd48-5da0ddff6491"
+      Hint: author
+      Value: Mark
+    - ID: "d940cafe-2148-466e-9707-0748711f5fdc"
+      Hint: image
+      Value: |
+        <image mediaid="{F9AC5180-8D9D-492F-9A80-39378F0241FB}" />
+    - ID: "f109a737-77b7-48cf-969c-2f55df9d876a"
+      Hint: shortDescription
+      Value: "One Two Two Coffee Bar, counted 1,2, follow to taste the hundreds of delicious coffee. The coffee shop is decorated in minimal style: very warm and friendly."

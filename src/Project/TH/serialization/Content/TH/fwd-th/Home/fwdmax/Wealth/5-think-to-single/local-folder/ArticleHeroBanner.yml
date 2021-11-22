@@ -1,0 +1,41 @@
+﻿---
+ID: "033e3f18-ef43-445d-8532-802a4c966701"
+Parent: "6856e251-ee2a-42ed-873f-d0bc59d36f82"
+Template: "d188c909-be9c-4149-9106-b25be4b6fb55"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Wealth/5-think-to-single/local-folder/ArticleHeroBanner"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4573EFE0-6D5D-4A69-BC87-F46AFA1CD32D}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Article Hero Banner
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200324T120149Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T045124Z
+    - ID: "43c58d25-8056-4ce0-b071-440c9f96ecf3"
+      Hint: image
+      Value: |
+        <image mediaid="{661A12E8-CEB1-4B12-8934-C6C73C380C1B}" cropx="0.10" cropy="0.08" focusx="-0.806042888708282" focusy="0.8420138955116272" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit

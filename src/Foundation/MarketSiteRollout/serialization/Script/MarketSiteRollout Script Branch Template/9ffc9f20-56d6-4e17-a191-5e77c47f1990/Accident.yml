@@ -1,0 +1,24 @@
+﻿---
+ID: "5aa21345-aba3-40cd-8e9c-84a77ba2f746"
+Parent: "9ffc9f20-56d6-4e17-a191-5e77c47f1990"
+Template: "8bac8cc4-dec2-4c0c-9d84-6dfb7d398819"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Components/footerLinks/business-footer-navigation-links/column-1/Product/Accident"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200308T153337Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: 
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: Accident

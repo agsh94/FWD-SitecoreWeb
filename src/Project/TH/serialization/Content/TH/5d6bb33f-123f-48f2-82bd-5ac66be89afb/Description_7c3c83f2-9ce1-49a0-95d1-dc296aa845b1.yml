@@ -1,0 +1,28 @@
+﻿---
+ID: "7c3c83f2-9ce1-49a0-95d1-dc296aa845b1"
+Parent: "5d6bb33f-123f-48f2-82bd-5ac66be89afb"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Wealth/5-think-to-single/local-folder/Article Description Aria/Description"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T060547Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p style="background: white;">นอกจากเรื่องเวลาที่คุณสามารถทุ่มเทให้งานได้มากมายแล้ว ยังมีงานค้นคว้าวิจัยบอกว่าการเป็นโสดจะเพิ่มพลังทางความคิดสร้างสรรค์อีกด้วย บอกเลยว่าดีไปอีกเวลามีเยอะแถมชีวิตการงานยังรุ่งเรืองเว่อร์!</p>
+        <p style="background: white;"><strong>&nbsp;</strong></p>
+        <p style="background: white;"><strong>To do list ที่คนโสดน่าลงมือทำ</strong></p>
+        <ul>
+            <li style="background: white;">ลองหาอาชีพเสริมเพิ่มเพื่อเปิดประสบการณ์ใหม่ ๆ และยังได้เงินเพิ่มอีกด้วย!</li>
+            <li style="background: white;">ไปลงคอร์สพัฒนาตัวเองเรื่องงาน จะได้เพิ่มทักษะ เพิ่มโอกาสในการทำงานมากขึ้น</li>
+        </ul>

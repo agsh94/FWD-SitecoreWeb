@@ -1,0 +1,60 @@
+﻿---
+ID: "f564c59e-f6ac-4785-b990-9b7cab3ea840"
+Parent: "36c58cfc-ce98-472b-9b71-aa7e541940d6"
+Template: "683bbabe-aadd-4e41-95eb-fd590132565d"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/cancer-knockout/package-i/Plan 1/Coverage  summary/Issued age"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 350
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ecfd20e-1a1c-4143-9ad4-22a1374823bf"
+      Hint: value
+      Value: "16-65 years old"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T104249Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{9AFC915D-D27E-47BD-9F3D-0C82F8A19DAB}"
+    - ID: "c46c42f1-4609-44be-af80-fd7b8e4b47a5"
+      Hint: leadingText
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ecfd20e-1a1c-4143-9ad4-22a1374823bf"
+      Hint: value
+      Value: "16-65 ปี"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T104226Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{9AFC915D-D27E-47BD-9F3D-0C82F8A19DAB}"
+    - ID: "c46c42f1-4609-44be-af80-fd7b8e4b47a5"
+      Hint: leadingText
+      Value: 

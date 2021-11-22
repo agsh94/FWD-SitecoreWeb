@@ -1,0 +1,33 @@
+﻿---
+ID: "f710ba2d-3809-4e18-918f-89164de41c50"
+Parent: "55e12776-ce34-4afa-83fe-18767e119809"
+Template: "128c8d06-48c1-46ed-b80e-904cc3de68e0"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/travel-egypt-with-teerada/local-folder/Info Card"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200630T165655Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T101503Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit

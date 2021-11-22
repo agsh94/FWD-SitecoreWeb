@@ -1,0 +1,52 @@
+﻿---
+ID: "613ff405-47f9-4db0-876d-99bb0df8714c"
+Parent: "6cf0d4c0-897c-4d2d-99b4-ae60e79cd835"
+Template: "9a45a24d-9287-4086-8dbe-fcec888173f4"
+Path: "/sitecore/content/fwd/fwd-th/Home/Search/local-folder/global-search/Support"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a4b54e5-0f59-44da-97aa-2b361fa60f49"
+      Hint: filterBy
+      Type: Treelist
+      Value: "{8F4E2319-9C5B-44EC-92B0-F7DB4904DB88}"
+    - ID: "1f54785d-94ed-4e46-8e65-72c9b926765b"
+      Hint: contentType
+      Type: Multilist
+      Value: "{04E7400A-22DE-4392-A4AD-B78B7AA3B7A3}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191126T060731Z
+    - ID: "7dd2d009-6b23-42f4-a170-a638ef349d9d"
+      Hint: filterTitle
+      Value: Filters
+    - ID: "b0a7cc92-6f8d-4bc0-94de-9960abc666be"
+      Hint: title
+      Value: Support
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f54785d-94ed-4e46-8e65-72c9b926765b"
+      Hint: contentType
+      Type: Multilist
+      Value: "{04E7400A-22DE-4392-A4AD-B78B7AA3B7A3}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191126T060731Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: 
+    - ID: "7dd2d009-6b23-42f4-a170-a638ef349d9d"
+      Hint: filterTitle
+      Value: ตัวกรอง
+    - ID: "b0a7cc92-6f8d-4bc0-94de-9960abc666be"
+      Hint: title
+      Value: บริการลูกค้า

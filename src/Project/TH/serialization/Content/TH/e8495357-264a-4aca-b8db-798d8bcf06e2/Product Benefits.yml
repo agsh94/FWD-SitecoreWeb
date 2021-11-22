@@ -1,0 +1,28 @@
+﻿---
+ID: "faa6b493-9359-44f5-9211-0dd044c0646a"
+Parent: "e8495357-264a-4aca-b8db-798d8bcf06e2"
+Template: "746ac162-3a57-433e-b006-f0967fb26e8e"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/Health/CancerFighterRider/local-folder/Product Benefits"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200826T074314Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7a7d16f5-9b1f-4f07-b3c1-5c82f815a5cd"
+      Hint: benefitList
+      Type: TreelistEx
+      Value: |
+        {B306B1A0-FED7-4808-B696-7AA4320D8133}
+        {27230477-E45D-46BB-BA7B-BB45ADD89E04}
+        {8DD1C8AB-7A67-499C-A4D1-A74B6BA3B9D1}
+        {70A2941D-5BD9-4AC7-9194-414CDA35C5B4}
+        {ADAFFA0E-3463-4D93-82F0-E99CF60B2C26}
+        {17657114-C874-426C-B3B2-29489F493742}

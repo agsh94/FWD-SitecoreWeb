@@ -1,0 +1,44 @@
+﻿---
+ID: "15f196bd-de69-46ef-a7de-6ac9dd098051"
+Parent: "f7cc432c-fc31-4f99-8b03-817f2f32241d"
+Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
+Path: "/sitecore/content/fwd/fwd-th/fwd-th-app-Dictionary/Errors/api-500-Timeout"
+DB: master
+SharedFields:
+- ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
+  Hint: Key
+  Value: "500-Timeout"
+Languages:
+- Language: en
+  Fields:
+  - ID: "2ba3454a-9a9c-4cdf-a9f8-107fd484eb6e"
+    Hint: Phrase
+    Value: |
+      
+      Sorry, your request could not be completed. Please try again.
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: API 500 Timeout
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191111T112959Z
+- Language: th
+  Fields:
+  - ID: "2ba3454a-9a9c-4cdf-a9f8-107fd484eb6e"
+    Hint: Phrase
+    Value: |
+      
+      ขออภัย คำขอของคุณไม่สามารถดำเนินการได้ กรุณาลองอีกครั้ง
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T072125Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

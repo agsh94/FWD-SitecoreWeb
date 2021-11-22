@@ -1,0 +1,62 @@
+﻿---
+ID: "382e7597-e43b-4059-9ea7-bf8aee0677a2"
+Parent: "d8ae49d3-adad-4384-8fe8-2836465dd88f"
+Template: "f1076e50-7ea9-4ce1-a4da-09f5c71b91e3"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/local-folder/social-campaign-card-2"
+DB: master
+SharedFields:
+- ID: "76eb0c81-c181-4fb8-b5a8-cbdcb0de9fb2"
+  Hint: link
+  Value: |
+    <link linktype="internal" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Social Campaign card 2
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191021T155100Z
+    - ID: "c25bc0d0-1892-4153-ae5d-54f266e1cdfe"
+      Hint: subTitle
+      Value: |
+        CSR "FWD Life Insurance Brings Kids Travel Underwater World" is organized to please the kids who dream to see the cute animals under the sea led by Mr. Mike Paxton, President Executive Officer.
+    - ID: "cb563753-add3-4fff-8f03-9867310ef547"
+      Hint: label
+      Value: Life
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: FWD Life Insurance takes children to travel underwater world.
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{D0A9E744-545A-45F2-B8AB-90706E66488A}"></image>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200115T030732Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "c25bc0d0-1892-4153-ae5d-54f266e1cdfe"
+      Hint: subTitle
+      Value: |
+        CSR "FWD Life Insurance Brings Kids Travel Underwater World" is organized to please the kids who dream to see the cute animals under the sea led by Mr. Mike Paxton, President Executive Officer.
+    - ID: "cb563753-add3-4fff-8f03-9867310ef547"
+      Hint: label
+      Value: Life
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: FWD Life Insurance takes children to travel underwater world.
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{D0A9E744-545A-45F2-B8AB-90706E66488A}"></image>

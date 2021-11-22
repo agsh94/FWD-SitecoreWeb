@@ -1,0 +1,38 @@
+﻿---
+ID: "fbf18e22-f22a-481e-906d-3c92416ebee0"
+Parent: "59ebc1f0-0ac4-4e6a-ab11-e35693ff5d9a"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/content/fwd/fwd-th/Home/Sample2/local-folder/hero-banner-Video-you-tube"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Hero Banner Video YouTube
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: "FWD-TH-Banner"
+    - ID: "178df5ea-8972-40e0-9c6c-ddb4aeec732c"
+      Hint: subTitle
+      Value: people feel about insurance
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190923T100256Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{967BD10A-6DCA-4C1C-8093-EA5C755F9F41}" ></image>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: RfgH0290oFU

@@ -1,0 +1,24 @@
+﻿---
+ID: "6d2fd746-9a69-4406-afdb-eaa46b50da77"
+Parent: "6353405e-10a5-41e4-8a23-656cdcb1f733"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Wealth/already-rich/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T063302Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>3. ทำความสะอาดห้องครัว</strong>
+        </p>
+        <p>ตามความเชื่อแบบจีนว่าเอาไว้ ว่าห้องครัวเปรียบเหมือนแหล่งทรัพย์สิน ยิ่งห้องครัวมีอาหารอยู่ตลอดเวลา สะอาด น่าใช้งาน ก็จะช่วยนำพาโชคเข้ามาสู่ชีวิตของคนที่อยู่อาศัย ดังนั้นหมั่นดูแลปัดกวาดเช็ดถูและจัดข้าวของเครื่องใช้ในครัวให้สะอาดอยู่เสมอ เพื่อเรียกสิ่งดีๆ เข้ามานั่นเอง</p>

@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "2.10.0.0",
+        "fileVersion": "2.10.0.0 (b9fb1610)",
+        "semanticVersion": "2.10.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'TopicsTests.contentType' is never used",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/Indexing/Tests/ComputedFields/TopicsTests.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 24,
+                  "endLine": 13,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        }
+      ],
+      "rules": {
+        "CS0169": {
+          "id": "CS0169",
+          "shortDescription": "Field is never used",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

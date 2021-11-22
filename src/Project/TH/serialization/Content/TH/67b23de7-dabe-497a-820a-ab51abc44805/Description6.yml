@@ -1,0 +1,26 @@
+﻿---
+ID: "bf1993b0-5476-4097-bf29-17d3e63055cc"
+Parent: "67b23de7-dabe-497a-820a-ab51abc44805"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/ohkaju-organic-restaurant/local-folder/ArticleDetails/Description6"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1100
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T011117Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <span style="background: white; color: black;">เอาใจสายผักกันต่อกับเมนูปอเปี๊ยะสดครีมชีสปูโรล</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">หน้าตาอาจจะธรรมดา</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">แต่บอกเลยถ้าได้ทานจะติดใจ</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ด้านในมีผักใส่มาให้ทานมากมาย</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ทั้งแครอท</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">บีทรูท</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">เพิ่มความหวานความเปรี้ยวด้วยแอปเปิลแดง</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">แอปเปิลเขียว</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">พร้อมครีมชีสปูเนื้อละมุนลิ้นรสชาติปูแบบเต็มคำฟินๆ</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ทีเด็ดคือน้ำจิ้มเมี่ยง</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">3 </span><span style="background: white; color: black;">รสสุดแซ่บ</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">เพิ่มความกรุบความมันด้วยเม็ดมะม่วงหิมพานต์บด</span><span style="background: white; color: black;"></span>

@@ -1,0 +1,21 @@
+﻿---
+ID: "5b360cf9-1a94-4c5b-af22-9f8b40244d96"
+Parent: "d5a230de-2d18-4035-a50c-1505e8e6b6e6"
+Template: "dc2042d7-1cc2-4a69-8519-de9dc01a3a00"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/News/you-only-live-once/local-folder/ArticleDetails/Excerpt"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f32a040-00d4-4a28-96b6-5dca215d1917"
+      Hint: excerpt
+      Value: Every time he travels, there is no loss or par value. It only has profits. Just having a plan that we are standing there is happy. With this sentence that makes us feel that He can really live his life.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191122T112504Z

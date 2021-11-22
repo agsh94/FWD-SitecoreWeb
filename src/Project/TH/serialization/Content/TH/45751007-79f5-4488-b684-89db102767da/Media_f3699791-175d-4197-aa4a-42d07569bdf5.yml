@@ -1,0 +1,29 @@
+﻿---
+ID: "f3699791-175d-4197-aa4a-42d07569bdf5"
+Parent: "45751007-79f5-4488-b684-89db102767da"
+Template: "2861c185-fc81-4fdc-8e91-93de381c752e"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Wealth/clear-your-debt/local-folder/ArticleDetails/Media"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b23ad3f-b76c-4a6a-830d-1434dd398ed6"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T065302Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c93d0c7b-6b3a-4e3a-a9b6-dc89062a8a6c"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{D731926C-8B75-4726-B1FA-0E4931D42D02}" />
+    - ID: "e5628949-939b-4454-b990-5b6c89e0be4d"
+      Hint: image
+      Value: |
+        <image mediaid="{D731926C-8B75-4726-B1FA-0E4931D42D02}" />

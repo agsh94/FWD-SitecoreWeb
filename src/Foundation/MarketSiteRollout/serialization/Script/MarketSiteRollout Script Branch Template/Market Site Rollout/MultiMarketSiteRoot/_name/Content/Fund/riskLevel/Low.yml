@@ -1,0 +1,28 @@
+﻿---
+ID: "109cc083-0544-437b-8eff-0e2c40cd48af"
+Parent: "7c23d735-4e2d-49c9-b62b-31679de1c1ba"
+Template: "471e5ba2-0ea8-4fe6-9a4f-ea4333b2b57a"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Fund/riskLevel/Low
+DB: master
+SharedFields:
+- ID: "0bb8c93b-a99d-46b3-8e18-fa27970a244c"
+  Hint: key
+  Value: 10
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201103T122345Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b95c8194-e837-46c4-ab8a-a5c6874359cf"
+      Hint: value
+      Value: Low

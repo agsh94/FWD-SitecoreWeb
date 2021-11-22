@@ -1,0 +1,35 @@
+﻿---
+ID: "2780d877-e4a6-4b18-b184-fa28fb025a56"
+Parent: "53f11616-6659-419f-9d77-2752eb24c73b"
+Template: "d1e3c64a-4438-46f0-92db-03991fbdef5b"
+Path: "/sitecore/content/fwd/fwd-th/Components/Merger FAQ"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200703T063735Z
+    - ID: "534fa86d-c26a-4aac-872f-ef582ef2735c"
+      Hint: title
+      Value: Amalgamation
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200703T065410Z
+    - ID: "534fa86d-c26a-4aac-872f-ef582ef2735c"
+      Hint: title
+      Value: ควบรวมกิจการ
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid

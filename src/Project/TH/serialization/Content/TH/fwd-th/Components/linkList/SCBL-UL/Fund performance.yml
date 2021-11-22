@@ -1,0 +1,47 @@
+﻿---
+ID: "059bcd0f-c66f-49c7-a8ca-70c9c8b0b245"
+Parent: "7a837f18-2df5-4e53-8e98-fe8342424ee3"
+Template: "1d74b3b3-2234-4eac-bd93-d00a35863a01"
+Path: "/sitecore/content/fwd/fwd-th/Components/linkList/SCBL-UL/Fund performance"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200903T050743Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Fund performance" linktype="external" url="https://banca.fwd.co.th/unit-link-nav?utm_source=nexgen&amp;utm_medium=investments_page&amp;utm_campaign=click_to_nav_en" anchor="" target="" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200903T051215Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ผลการดำเนินงานกองทุน" linktype="external" url="https://banca.fwd.co.th/unit-link-nav?utm_source=nexgen&amp;utm_medium=investments_page&amp;utm_campaign=click_to_nav" anchor="" target="_blank" />

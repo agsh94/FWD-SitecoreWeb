@@ -1,0 +1,65 @@
+﻿---
+ID: "bead0b26-3625-4e55-b523-e9c0d1292a83"
+Parent: "114c9fc1-d5c8-4cc7-b2d9-429de3a5519f"
+Template: "8ad5bb9c-b124-437e-a0c3-34149b049fac"
+Path: "/sitecore/content/fwd/fwd-th/Components/section-content/Our-strong-financial"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{6816B289-E488-4764-913D-41EC0310B5ED}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Our strong financial position
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09325934-6951-45ec-bd07-c7fc996855b3"
+      Hint: description
+      Value: |
+        <p>On 28 February 2013, Pacific Century Group announced that it was buying ING&rsquo;s Hong Kong, Macau and Thailand insurance businesses. It was the first step in the Group&rsquo;s plan to build a different kind of insurance company: FWD.</p>
+        <p>Pacific Century Group was joined later that year by a new minority shareholder, Swiss Re &ndash; the world&rsquo;s second largest reinsurer. Three more investors followed: Singapore&rsquo;s GIC Ventures, RRJ Capital, and China&rsquo;s Hopu Investments.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191018T070234Z
+    - ID: "8a19dcac-8d5b-4e87-b1c9-14ba9ece9248"
+      Hint: subTitle
+      Value: 
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: Our financial position
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09325934-6951-45ec-bd07-c7fc996855b3"
+      Hint: description
+      Value: |
+        <p>เมื่อวันที่ 28 กุมภาพันธ์ 2556 แปซิฟิก เซ็นจูรี่ กรุ๊ป เข้าซื้อกิจการประกันชีวิตของ บริษัท ไอเอ็นจี ในฮ่องกง มาเก๊า และประเทศไทย ซึ่งนับเป็นก้าวแรกที่จะสร้างบริษัทประกันชีวิตที่แตกต่าง นั่นก็คือ เอฟดับบลิวดี
+        </p>
+        <p>แปซิฟิก เซ็นจูรี่ กรุ๊ป เข้าร่วมทุนโดยผู้ลงทุนรายย่อยรายใหม่ คือ สวิส รี (Swiss Re) ซึ่งเป็นบริษัทประกันชีวิตที่ใหญ่เป็นอันดับสองของโลก โดยมีผู้ลงทุนอีกสามราย ได้แก่ GIC Ventures และ RRJ Capital จากสิงคโปร์ และ Hopu Investments จากจีน</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T071616Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: สถานะทางการเงินที่แข็งแกร่ง
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 

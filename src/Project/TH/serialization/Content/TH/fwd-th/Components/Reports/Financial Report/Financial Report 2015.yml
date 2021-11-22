@@ -1,0 +1,50 @@
+﻿---
+ID: "999b163a-4f42-4ff7-98d6-d0fae8814962"
+Parent: "a149329b-cb5d-49e6-af83-39fac681f4c9"
+Template: "299af6fd-7435-47fd-b7e4-32eaca8c3f9a"
+Path: "/sitecore/content/fwd/fwd-th/Components/Reports/Financial Report/Financial Report 2015"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{96BC3A53-AB72-49EF-BA31-37D901B59263}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200330T052747Z
+    - ID: "59361d7d-0099-40a4-9b9c-5346500afc3d"
+      Hint: year
+      Value: 2015
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link linktype="media" target="" id="{F5AC6CC2-9FA4-43EA-A5E1-876D3E1DAE24}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200330T054238Z
+    - ID: "59361d7d-0099-40a4-9b9c-5346500afc3d"
+      Hint: year
+      Value: 2558
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link linktype="media" target="" id="{F5AC6CC2-9FA4-43EA-A5E1-876D3E1DAE24}" />

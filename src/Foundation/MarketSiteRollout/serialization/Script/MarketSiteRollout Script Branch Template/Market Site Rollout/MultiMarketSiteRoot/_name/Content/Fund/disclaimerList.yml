@@ -1,0 +1,28 @@
+﻿---
+ID: "87d64d8e-c56c-43dd-8ee4-67cc93d3af8a"
+Parent: "08f02a42-36a7-4f94-914e-0ce4f30a9200"
+Template: "680274ad-df8a-4705-b44b-205ae1b8097a"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Fund/disclaimerList
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Disclaimer List
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20201006T181853:637376051333196405Z"
+- Language: "zh-HK"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Disclaimer List
+  Versions:

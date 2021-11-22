@@ -1,0 +1,28 @@
+﻿---
+ID: "14e21b22-0336-4b04-aba6-d45feb4fc49d"
+Parent: "2d8ca348-47b2-49b1-a5a5-19ae03a72c58"
+Template: "69b601a8-8555-4411-8c17-aa91671eec32"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/District/H/Huai Khwang
+DB: master
+SharedFields:
+- ID: "a903eb23-a8d6-4a9a-bd27-4bd363b1fcf0"
+  Hint: searchName
+  Value: Huai Khwang
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 4800
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: Huai Khwang
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T133331Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

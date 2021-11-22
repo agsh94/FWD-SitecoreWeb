@@ -1,0 +1,82 @@
+﻿---
+ID: "dc60c29a-e9e9-4a8e-a23b-504811b5fe4f"
+Parent: "70a1ca3d-7ffc-40b8-8624-846e1c32a84d"
+Template: "40da990f-39dd-4d66-a9be-849f4ecffd22"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/Section Quote"
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{C879EB9D-195D-4984-B164-F1DD756158FA}"
+          s:ds="{5AE68A1D-C10D-447D-BC9A-637CAFA4E591}"
+          s:par="HeroBannerVariant&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{2476A374-8836-45FE-AF59-3CD0AE06BE82}">
+          <p:d />
+        </r>
+        <r
+          uid="{57AD34E9-D9E1-4B92-A392-E0A41486C935}">
+          <p:d />
+        </r>
+        <r
+          uid="{D6134FB5-960B-4784-8AE2-7231655F27DC}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;backgroundColor=%7BF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+        <r
+          uid="{BAA5AEF3-C90E-4BF8-AA85-6CD6C1F001A2}"
+          p:after="r[@uid='{D6134FB5-960B-4784-8AE2-7231655F27DC}']"
+          s:ds="{92CC7C62-E472-45A1-BDBB-D75D08FF670F}"
+          s:id="{013C86FE-404D-472A-9E58-115A61B9B78C}"
+          s:par="anchorText&amp;backgroundColor=%7B5FAA4B9B-7F56-4B83-BE82-328710EEF242%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{D522BB70-80BA-474B-891D-5508F8BD4B06}"
+          p:after="*[1=2]"
+          s:ds="{92CC7C62-E472-45A1-BDBB-D75D08FF670F}"
+          s:id="{013C86FE-404D-472A-9E58-115A61B9B78C}"
+          s:par="anchorText&amp;backgroundColor=%7B235A21A1-30E4-4F06-B25F-8FDE35317C58%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{9E73D12F-3814-4CD5-B0FC-4169AB38CCA3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200702T172018Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Section Quote
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200702T165951Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Section Quote

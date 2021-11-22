@@ -1,0 +1,33 @@
+﻿---
+ID: "e6154675-9484-48a5-b1a5-a472db6fee5b"
+Parent: "b2909967-0a0c-432e-9a65-ec0c9dc8ef62"
+Template: "683bbabe-aadd-4e41-95eb-fd590132565d"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Health/cancer-knockout/Package IV/AttributeFolder/Additional Benefits/Miscellaneous Charges"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ecfd20e-1a1c-4143-9ad4-22a1374823bf"
+      Hint: value
+      Value: 14,0000
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200615T043507Z
+    - ID: "79bdc004-d6d5-4fad-86e4-4401981ca0ef"
+      Hint: trailingTextToolTip
+      Value: 
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{B196395C-517A-4132-A692-65579EDC5EAF}"
+    - ID: "c46c42f1-4609-44be-af80-fd7b8e4b47a5"
+      Hint: leadingText
+      Value: THB
+    - ID: "d6e9084e-023d-4e83-8890-3be5f8c35b63"
+      Hint: trailingText
+      Value: per policy year

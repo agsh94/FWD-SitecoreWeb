@@ -1,0 +1,45 @@
+﻿---
+ID: "a3c48726-1b86-4c54-bc25-8c913ad6da7d"
+Parent: "8e8b132c-0b84-4955-b883-e6cc82e3d2ab"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Investments/local-folder/ContentBlock"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T072044Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "At FWD, we believe in maximising investments to offer even more protection. So our investment-linked plans make your insurance work harder by opening up all kinds of possible returns. And we have a range of options to suit every budget.*"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdtestauthor
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Full protection with potential returns
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T134653Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: ที่เอฟดับบลิวดี เราเชื่อมั่นว่าการเพิ่มโอกาสในการลงทุนจะช่วยให้คุณยิ่งได้รับความคุ้มครองที่มากขึ้น ประกันชีวิตควบการลงทุนของเราจึงมอบความคุ้มครองพร้อมเปิดทุกโอกาสในการรับผลตอบแทนจากการลงทุน เราจึงออกแบบหลากหลายแผนประกันเพื่อให้คุณเลือกแผนที่ลงตัวกับงบประมาณของคุณที่สุด
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: เพิ่มโอกาสรับผลตอบแทนพร้อมคุ้มครองชีวิตเต็มที่

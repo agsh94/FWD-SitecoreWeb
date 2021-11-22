@@ -1,0 +1,29 @@
+﻿---
+ID: "81310473-81a4-40f2-8870-86f5d6ded791"
+Parent: "dcf2b503-785a-4263-aeb9-38df2d2b2c31"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/organic-chang-life/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T233126Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong><span>&ldquo;</span></strong><strong><span>ตอนป่วยหมดค่ารักษาไปประมาณเกือบๆ</span></strong><strong><span> </span></strong><strong><span>ล้าน</span></strong><strong><span> </span></strong><strong><span>และต้องกินยาเฉลี่ยตกเดือนหนึ่งประมาณหมื่นกว่าบาทตลอดชีวิต</span></strong><strong><span> </span></strong><strong><span>แต่พี่โคตรโชคดีเลย</span></strong><strong><span> </span></strong><strong><span>ที่ได้มาอยู่ที่นี่</span></strong><strong><span> </span></strong><strong><span>อยู่กับธรรมชาติ</span></strong><strong><span> </span></strong><strong><span>ให้ธรรมชาติช่วยฟื้นฟู</span></strong><strong><span>&nbsp; </span></strong><strong><span>เราอยู่ในที่อากาศดี</span></strong><strong><span> </span></strong><strong><span>นอนเร็ว</span></strong><strong><span> </span></strong><strong><span>ตื่นเช้า</span></strong><strong><span> </span></strong><strong><span>กินอาหารที่ดี</span></strong><strong><span> </span></strong><strong><span>และออกกำลังกาย</span></strong><strong><span> </span></strong><strong><span>จัดการชีวิตให้</span></strong><strong><span>&nbsp;Balance </span></strong><strong><span>พี่ก็เลยกลายเป็นเคสที่หมอไม่ต้องให้ทานยามา</span></strong><strong><span> </span></strong><strong><span>2 </span></strong><strong><span>ปีกว่าแล้ว</span></strong><strong><span>&rdquo;</span></strong></p>
+        <p><span>จุดเริ่มต้นของสาวออฟฟิศที่พลิกชีวิตมาทำฟาร์มในฝันเริ่มต้น</span><span> </span><span>หลังจากที่คุณนุกเข้าสู่กระบวนการรักษาร่างกาย</span><span> </span><span>จนเริ่มดีขึ้น</span><span> </span><span>วันหนึ่งคุณพ่อของคุณนุกได้แนะนำแนวทางการใช้ชีวิตแก่คุณนุกด้วยการชักชวนให้ไปต่างจังหวัด</span><span> </span><span>พร้อมเงินจำนวนหนึ่งให้ได้ลอง</span><span> </span><span>Manage &nbsp;</span><span>และสถานที่จุดหมายปลายทางที่เลือกนั้นก็คือเชียงใหม่</span><span> </span><span>ก่อกำเนิด</span><span> </span><span>De Farm </span><span>ที่เป็นเกษตรอินทรีย์ที่ครีเอทีฟที่สุด</span></p>
+        <p><span>&nbsp;</span></p>
+        <strong><span style="background: white; color: black;">ทางเลือกใหม่ของชีวิต</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ตามแนวทางเกษตรของพ่อ</span></strong>

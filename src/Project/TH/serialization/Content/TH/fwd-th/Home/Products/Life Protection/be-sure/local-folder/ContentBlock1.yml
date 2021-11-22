@@ -1,0 +1,114 @@
+﻿---
+ID: "b019945b-b4d7-477a-8f09-08027007cad7"
+Parent: "c253e0e8-bfa0-4fd0-9b46-ab7802d79254"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Life Protection/be-sure/local-folder/ContentBlock1"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Content Block 1
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "1189664e-c462-4227-9fea-efb77771ad71"
+      Hint: enableFeaturedTags
+      Type: Checkbox
+      Value: 1
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T094444Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: 
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "You want to buy things that you’ll actually use, not sit in a closet for years. Surely the same should apply to your insurance? Be Sure, our low premium-high protection life insurance plan lets you choose your term length (5, 10 or 15 years). It means nothing feels wasted and you can be sure you’re only paying for protection when you really need it the most – for example when you have a young, growing family."
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Protection when you need it the most
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{97B72C4C-77BB-4C50-B0A1-69812EBA21CB}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055157Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{5D9DBAAD-B9A8-43D6-B621-2965FCFFFB81}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: คุณอยากซื้อของที่ได้ใช้จริงๆ ไม่ใช่ของที่ซื้อมาทิ้งในตู้เป็นปีๆ ประกันชีวิตก็เช่นเดียวกัน มั่นใจชัวร์ ประกันชีวิตแบบชั่วระยะเวลาที่มีเบี้ยประกันถูก แต่ให้ความคุ้มครองสูง และให้คุณเลือกระยะเวลาคุ้มครองได้ (5 ปี / 10 ปี หรือ 15 ปี)  เป็นการจ่ายเบี้ยที่ไม่ให้ความรู้สึกสูญเปล่า เพราะให้คุณเลือกซื้อความคุ้มครองได้ในช่วงเวลาที่คุณต้องการที่สุด เช่น เมื่อคุณกำลังเริ่มต้นสร้างครอบครัว
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: คุ้มครอง มั่นใจในทุกช่วงเวลาของชีวิต
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "1189664e-c462-4227-9fea-efb77771ad71"
+      Hint: enableFeaturedTags
+      Type: Checkbox
+      Value: 1
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{97B72C4C-77BB-4C50-B0A1-69812EBA21CB}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200814T042729Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{5D9DBAAD-B9A8-43D6-B621-2965FCFFFB81}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: แน่นอนนว่าเราอยากได้ของที่ซื้อมาแล้วคุ้มค่ามากที่สุด ประกันก็เช่นกัน “มั่นใจชัวร์”  ประกันชีวิตแบบชั่วระยะเวลา ที่มอบความคุ้มค่าด้วยเบี้ยเบาๆ แต่ความคุ้มครองสูง ทั้งยังสามารถเลือกระยะเวลาคุ้มครองให้เหมาะสมกับความต้องการได้ (5 ปี / 10 ปี หรือ 15 ปี) ไม่ว่าคุณจะอยู่ในสถานการณ์ไหน ช่วงเวลาใด ก็มั่นใจใช้ชีวิตได้เต็มที่
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200814T042729Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: คุ้มครอง มั่นใจในทุกช่วงเวลาของชีวิต
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 

@@ -1,0 +1,78 @@
+﻿---
+ID: "2e79e957-2141-40b6-bf68-85124d0c0baf"
+Parent: "cabcc0b1-399c-4999-90c0-9e3d55140cda"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/about-us/Careers/Agent/local-folder/Join us at FWD"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{B096E18E-DAAE-43A8-87DD-1775AD1F16B6}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 925
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{1A6843CD-3BB4-495C-87A1-E85734A357C9}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T070259Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{1A6843CD-3BB4-495C-87A1-E85734A357C9}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: If you want to explore our career opportunities as an agent, we’d love to hear from you.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Join us at FWD
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Contact us" linktype="mailto" style="" url="mailto:joinus@fwd.co.th?subject=Apply now" title="" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{1A6843CD-3BB4-495C-87A1-E85734A357C9}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T080603Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{1A6843CD-3BB4-495C-87A1-E85734A357C9}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: หากคุณต้องการทราบข้อมูลเพิ่มเติมถึงโอกาสต่างๆ ที่จะได้รับในการเป็นตัวแทนของเรา สมัครเข้ามาพูดคุยกันได้ที่นี่
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d0be2ac7-85f9-4ba4-91da-613370dbd6d6"
+      Hint: secondaryLink
+      Value: 
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ร่วมเป็นส่วนหนึ่งกับ $$เอฟดับบลิวดี
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ลงทะเบียนเลย" linktype="mailto" style="" url="mailto:joinus@fwd.co.th?subject=Apply now" title="" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"

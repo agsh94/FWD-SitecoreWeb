@@ -1,0 +1,77 @@
+﻿---
+ID: "4e358a00-1d39-4595-b509-75113328902a"
+Parent: "c8371dcb-fb13-4d89-839f-d9a4af3ed20c"
+Template: "6fc2ae35-3e92-49d3-8190-ce2a26f68b83"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/hospital-locator/local-folder/LocatorContent"
+DB: master
+SharedFields:
+- ID: "161ff25c-5221-4b9d-a2d8-993bd5371a76"
+  Hint: apiAllowPagination
+  Type: Checkbox
+  Value: 1
+- ID: "2250f909-bae3-415f-a645-9d07826b6566"
+  Hint: apiPageSize
+  Value: 50
+- ID: "2cac5d94-525f-4fa1-a1b6-a8e3606351cd"
+  Hint: api
+  Type: Multilist
+  Value: "{4850DB12-D917-4476-96CF-FC2EE0C46191}"
+- ID: "8f397566-a4d1-4f23-8594-dce13b3720fe"
+  Hint: apiSortBy
+  Value: "{40BFFAAC-D6D6-4DB8-A84B-C00AC62954AB}"
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{D1BC80C3-E07C-4DA9-8131-1C6AC5236C06}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 450
+- ID: "e82938f3-6c97-4755-9c0b-baf56b4a5e4f"
+  Hint: apiMobilePageSize
+  Value: 3
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191231T090719Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "823b9d33-9b78-4144-b09e-f2a5b0a4bfed"
+      Hint: description
+      Value: Easily locate our partner hospitals and offices in our vast network.
+    - ID: "ed363d99-6d62-47b9-98bd-20dafe14bfa7"
+      Hint: heading
+      Value: Our Wide Network
+    - ID: "f1a84b30-f758-462a-a921-5495d80229b9"
+      Hint: locatorType
+      Type: Multilist
+      Value: "{DC613EF9-63AE-4338-AFAD-573009E3597D}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200314T104921Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "823b9d33-9b78-4144-b09e-f2a5b0a4bfed"
+      Hint: description
+      Value: Easily locate our partner hospitals and offices in our vast network.
+    - ID: "ed363d99-6d62-47b9-98bd-20dafe14bfa7"
+      Hint: heading
+      Value: Our Wide Network
+    - ID: "f1a84b30-f758-462a-a921-5495d80229b9"
+      Hint: locatorType
+      Type: Multilist
+      Value: "{DC613EF9-63AE-4338-AFAD-573009E3597D}"

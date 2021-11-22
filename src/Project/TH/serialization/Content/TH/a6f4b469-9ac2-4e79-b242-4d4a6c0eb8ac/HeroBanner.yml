@@ -1,0 +1,28 @@
+﻿---
+ID: "a3f5e135-18a3-4961-8542-080f3fc1ff54"
+Parent: "a6f4b469-9ac2-4e79-b242-4d4a6c0eb8ac"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/section-timeline/local-folder/HeroBanner"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: ประวัติความเป็นมา
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200422T060041Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{BEF5BCA7-92FC-43CD-855A-EA1EF16F5BFB}" cropx="0.71" cropy="0.28" focusx="0.41984732824427473" focusy="0.4375" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shiagnih

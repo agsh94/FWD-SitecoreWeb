@@ -1,0 +1,35 @@
+﻿---
+ID: "2ad2459c-be92-4e9b-8e70-97c48120f0a0"
+Parent: "d7a38098-3f6a-4ff6-93d6-29a0daa271d5"
+Template: "51759dd5-d4f6-4dca-9471-ffa1943dbeb4"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/local-folder/GroupProductList"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200121T095910Z
+    - ID: "3cb9bc8f-5e3f-4dd6-85f8-b83871ce7a80"
+      Hint: title
+      Value: Group employee insurance
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T115846Z
+    - ID: "3cb9bc8f-5e3f-4dd6-85f8-b83871ce7a80"
+      Hint: title
+      Value: แผนประกันกลุ่ม
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

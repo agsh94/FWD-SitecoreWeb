@@ -1,0 +1,25 @@
+﻿---
+ID: "4ce66bca-a472-409f-ac02-29fe7b7d324f"
+Parent: "194544fe-b755-4804-8dbb-92d42a4f0195"
+Template: "0b8ac58e-2d57-4ecd-bcdf-2cebaaa0c8b7"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/product-category/Riders"
+DB: master
+SharedFields:
+- ID: "1d7292b5-07c1-4268-b196-263841c6000a"
+  Hint: key
+  Value: rider
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191111T042725Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: Rider

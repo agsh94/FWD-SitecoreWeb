@@ -1,0 +1,156 @@
+﻿{
+    "Context Item": {
+
+        "shortDescription": {
+            "value": "Our innovation strategies and commitment to our client and communities haven't gone unnoticed."
+        },
+        "title": {
+            "value": "Our Awards"
+        },
+        "linkItems": {
+            "id": "7b4f6c25-c526-4691-8409-6658ff69c2ba",
+            "fieldType": "Droptree",
+            "fieldName": "linkItems",
+            "url": "/Components/Awards/Awards-FWD-Story",
+            "fields": {
+                "isDefault": {
+                    "value": false
+                }
+            }
+        }
+    },
+
+    "Thailand": {
+        "isDefault": {
+            "value": true
+        }
+    },
+
+    "Global": {
+        "isDefault": {
+            "value": true
+        }
+    },
+
+    "DetailAward1": {
+        "awardName": {
+            "value": "Employer of Choice Award"
+        },
+        "awardYears": {
+            "value": "2016"
+        },
+        "link": {
+            "value": {
+                "href": "https://www.fwd.com.hk/en/about/awards/",
+                "text": "Awards",
+                "linktype": "external",
+                "url": "https://www.fwd.com.hk/en/about/awards/",
+                "anchor": "",
+                "title": "Awards",
+                "target": "_blank"
+            }
+        },
+        "awardCategory": {
+            "value": "Health & Protection"
+        },
+        "awardImage": {
+            "value": {
+                "src": "http://dev-fwd-th.local/-/media/fwd/project/th/img/award.jpg?h=144&w=288&hash=C31D41D345A539B509472A8EC4B775FA",
+                "alt": "award",
+                "width": "288",
+                "height": "144"
+            }
+        },
+        "awardIssuer": {
+            "value": "John"
+        }
+    },
+
+    "DetailAward2": {
+        "awardName": {
+            "value": "เอฟดับบลิวดี ประกันชีวิต รับรางวัล"
+        },
+        "awardYears": {
+            "value": "2017"
+        },
+        "link": {
+            "value": {
+                "text": "",
+                "linktype": "modelpopup",
+                "querystring": "",
+                "target": "",
+                "id": "{9C1EB0CD-E22A-4030-BE44-E90C024F97DE}",
+                "modelpopupcontent": {
+                    "title": {
+                        "value": ""
+                    },
+                    "subTitle": {
+                        "value": ""
+                    },
+                    "description": {
+                        "value": ""
+                    },
+                    "link": {
+                        "value": {
+                            "text": "",
+                            "linktype": "modelpopup",
+                            "querystring": "",
+                            "target": "",
+                            "id": "{9C1EB0CD-E22A-4030-BE44-E90C024F97DE}"
+                        }
+                    }
+                }
+            }
+        },
+        "awardCategory": {
+            "value": "eCommAs"
+        },
+        "awardImage": {
+            "value": {
+                "src": "http://dev-fwd-th.local/-/media/fwd/project/th/img/award.jpg?h=144&w=288&hash=C31D41D345A539B509472A8EC4B775FA",
+                "alt": "award",
+                "width": "288",
+                "height": "144"
+            }
+        },
+        "awardIssuer": {
+            "value": "Mark"
+        }
+    },
+
+    "Award1": {
+        "subCategory": {
+            "value": "Brands of the year - Insurance"
+        },
+        "Name": {
+            "value": "Best-in-class"
+        }
+    },
+
+    "Award2": {
+        "subCategory": {
+            "value": "Healthcare Insurance Product"
+        },
+        "Name": {
+            "value": "Best-in-class"
+        }
+    },
+
+    "Award3": {
+        "subCategory": {
+            "value": "Online Usability - Insurance"
+        },
+        "Name": {
+            "value": "Best-in-class"
+        }
+    },
+
+    "Award4": {
+        "subCategory": {
+            "value": "Customer commitment & Engagement - Insurance"
+        },
+        "Name": {
+            "value": "Outstanding Achiever"
+        }
+    }
+}

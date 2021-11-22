@@ -1,0 +1,161 @@
+﻿---
+ID: "3a561f16-64a7-4b2f-83d6-c26cf40071e9"
+Parent: "6f0e8a74-7093-4afa-b226-c2aa51aafbb8"
+Template: "8d5eb13f-f98f-45e4-ab26-af0e735cc6aa"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Privileges/article-11"
+DB: master
+SharedFields:
+- ID: "0542fe2e-3942-4d2a-9d28-fca5312b2ab4"
+  Hint: associatedProducts
+  Value: "{A594172E-3B50-4604-B41D-29F8B18B80F3}"
+- ID: "05b2b484-bdd9-4a0c-9bc2-013e6a9989a9"
+  Hint: subtype
+  Value: "{86924A38-30E8-45E4-AE10-1663F1632B58}"
+- ID: "10e652c4-46dd-4b96-94af-033d6997a41a"
+  Hint: userType
+  Type: Multilist
+  Value: |
+    {509F75D7-D08A-42AF-A20E-320AFB952C52}
+    {4C697943-FF95-4B21-9636-95C25F2A1A56}
+- ID: "51605d25-f8a6-4776-990d-342cf6bc523b"
+  Hint: subtopics
+  Type: Multilist
+  Value: |
+    {7C0EAA1E-9D94-494E-B9C3-B5BF7943AF7A}
+    {5A9146C7-52D5-48E6-B37C-B5829F2DC2EE}
+    {CCEE66B6-2D67-4728-93BE-9AB4E8970D8D}
+    {E9644CFA-3946-4D58-ABE1-7823636736BE}
+    {38C24885-3D3E-464E-9A40-9A1384E8A2EC}
+- ID: "644a759b-d9f0-46b0-b5a2-afc11a100bb1"
+  Hint: topics
+  Type: Multilist
+  Value: |
+    {4C6B8CB9-D359-4498-A1CD-107CBB0843FE}
+    {1A0882D1-29E0-44F1-A452-1BFA66656B0E}
+    {29E61A52-59F8-45F0-B7D0-DCF3FFCEE6BA}
+    {3C9EC53A-BEB9-453F-8AC8-C913596E6457}
+    {1E39C0D9-CB59-4AD9-9C6A-4FDC8436F456}
+    {923BB4DC-4FA8-4DA1-9109-6C2ADDC09897}
+- ID: "adb8c199-23ee-47b6-ac3a-e42511001cd9"
+  Hint: featuredTags
+  Type: TreelistEx
+  Value: |
+    {065036F1-1D30-4445-A73D-0ECA983F22E8}
+    {8F8264BF-1052-4016-B17C-3E2143247E84}
+    {923BB4DC-4FA8-4DA1-9109-6C2ADDC09897}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F4401E93-3C44-4861-AE73-AE8F72A5C86F}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{8B882DA0-246E-4ED0-AF73-96D257D48B65}"
+          s:ds="{A1497B13-A6E6-4263-BC89-C97B7073316B}"
+          s:par="" />
+        <r
+          uid="{B34524D6-F06A-46EF-BBB9-37BE63541C2B}"
+          s:ds="{A6362330-5644-4436-8D0A-0C251B55474C}" />
+        <r
+          uid="{F131E204-4546-436A-9BAA-F8A7D613A0DE}"
+          s:ds="{BFE92632-1C38-4346-AE7C-E7FC400BDC91}"
+          s:par="carouselMode=%7BC81D8D8F-E8D9-468F-ACFC-BBDCE30D66EC%7D&amp;showCategory&amp;anchorText&amp;backgroundColor=%7BF9F5FC4E-89D7-4701-A560-C0A7179384CB%7D" />
+        <r
+          uid="{6E87C34A-617B-494F-AD45-2AEF6F333221}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Article 11
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "02b87b9a-bb93-4772-82ae-ddd40f19283c"
+      Hint: rewardText
+      Value: FWD Prompt, FWD Plus, FWD Pride
+    - ID: "105d35bb-e423-4eea-ad61-f4408a757049"
+      Hint: city
+      Value: "{A8F6D52A-2372-4A11-BF71-95D2BEB21074}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191007T140136Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20191123T183000Z
+    - ID: "5037a90a-18ed-4804-a73f-f6876caac1ec"
+      Hint: image
+      Value: |
+        <image mediaid="{CB745483-13CB-4469-9FE2-FE4AC7037845}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6ab96e61-4999-41cd-b999-1c860c573e98"
+      Hint: isFeatured
+      Type: Checkbox
+      Value: 1
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Article 11
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: FWD Thailand 6 years Anniversary Celebration
+    - ID: "a769f55d-9709-4908-bd48-5da0ddff6491"
+      Hint: author
+      Value: Jose
+    - ID: "f109a737-77b7-48cf-969c-2f55df9d876a"
+      Hint: shortDescription
+      Value: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "105d35bb-e423-4eea-ad61-f4408a757049"
+      Hint: city
+      Value: "{A8F6D52A-2372-4A11-BF71-95D2BEB21074}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T034436Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20191123T183000Z
+    - ID: "5037a90a-18ed-4804-a73f-f6876caac1ec"
+      Hint: image
+      Value: |
+        <image mediaid="{CB745483-13CB-4469-9FE2-FE4AC7037845}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "6ab96e61-4999-41cd-b999-1c860c573e98"
+      Hint: isFeatured
+      Type: Checkbox
+      Value: 1
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Article 11
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: FWD Thailand 6 years Anniversary Celebration
+    - ID: "a769f55d-9709-4908-bd48-5da0ddff6491"
+      Hint: author
+      Value: Jose
+    - ID: "f109a737-77b7-48cf-969c-2f55df9d876a"
+      Hint: shortDescription
+      Value: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo

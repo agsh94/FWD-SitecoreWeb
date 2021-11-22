@@ -1,0 +1,51 @@
+﻿---
+ID: "0627a181-7251-4cb3-a386-06987dc3f93c"
+Parent: "c7b40720-acaa-4092-9218-07c93b3a5c69"
+Template: "9a45a24d-9287-4086-8dbe-fcec888173f4"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/Search/local-folder/global-search/All"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f54785d-94ed-4e46-8e65-72c9b926765b"
+      Hint: contentType
+      Type: Multilist
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T051712Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b0a7cc92-6f8d-4bc0-94de-9960abc666be"
+      Hint: title
+      Value: All
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f54785d-94ed-4e46-8e65-72c9b926765b"
+      Hint: contentType
+      Type: Multilist
+      Value: |
+        {4FE0A16D-285F-4C41-9BFA-A1343B036CDF}
+        {A57B5556-98B3-4112-AC9F-1926D90455B8}
+        {58E30460-AC9F-45C2-8B0F-47E93979778B}
+        {04E7400A-22DE-4392-A4AD-B78B7AA3B7A3}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T051712Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b0a7cc92-6f8d-4bc0-94de-9960abc666be"
+      Hint: title
+      Value: ทั้งหมด

@@ -1,0 +1,32 @@
+﻿---
+ID: "15c0f7b4-3e7e-4993-a306-07ab800fd331"
+Parent: "f0a8eabb-540c-4857-9987-f38b824175a3"
+Template: "2861c185-fc81-4fdc-8e91-93de381c752e"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Sport/fitfir-knockout/local-folder/ArticleDetails/Media"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b23ad3f-b76c-4a6a-830d-1434dd398ed6"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T131225Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: r0dd1sq1FwE
+    - ID: "c93d0c7b-6b3a-4e3a-a9b6-dc89062a8a6c"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{A8703D24-EEFB-46E0-A6CA-103325321504}" />
+    - ID: "e5628949-939b-4454-b990-5b6c89e0be4d"
+      Hint: image
+      Value: |
+        <image mediaid="{A8703D24-EEFB-46E0-A6CA-103325321504}" />

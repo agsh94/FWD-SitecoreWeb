@@ -1,0 +1,83 @@
+﻿---
+ID: "34f228f1-5716-4f4b-b46d-0c5c3cc78ffd"
+Parent: "2e14c608-31d3-4365-9a5d-2483de408270"
+Template: "8e353b27-e5f9-4361-b332-9b3557fb7cd8"
+Path: "/sitecore/content/fwd/fwd-th/Components/Leaders/thailand-leaders/Joseph King-Yiu Cheung"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{F9E5BB32-BFD7-4600-949C-C9C77D7BD11E}" cropx="0.48" cropy="0.38" focusx="-0.03508771929824561" focusy="0.25" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200401T073337Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: "Joseph King-Yiu Cheung"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: Joseph leads our financial, regulatory, and technological risk operations and initiatives. He plays a critical role in developing our risk management framework, integrating it into our business and ensuring the highest levels of corporate security. Joseph has 28 years experience in the insurance and financial services industry.
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: Chief Risk Officer
+    - ID: "bbbccdd6-3d72-4ace-b3de-ccbdb07bd39b"
+      Hint: description
+      Value: 
+    - ID: "c5348882-207d-46e7-b0fb-fc8ccef4d5a1"
+      Hint: isFeatured
+      Type: Checkbox
+      Value: 0
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{F9E5BB32-BFD7-4600-949C-C9C77D7BD11E}" cropx="0.49" cropy="0.35" focusx="-0.01754385964912286" focusy="0.296875" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200401T073242Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: โจเซฟ คิง ยูว เฉิง
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: คุณโจเซฟรับผิดชอบงานด้านการบริหารความเสี่ยง ทั้งในส่วนที่เกี่ยวข้องกับการเงิน การกำกับดูแลกิจการ และเทคโนโลยีของบริษัท อีกทั้งยังมีบทบาทสำคัญในการพัฒนากรอบการบริหารความเสี่ยง แบบบูรณาการและนำมาใช้ในการปฏิบัติงาน เพื่อลดผลกระทบจากความเสี่ยงและรักษาความปลอดภัยขององค์กร&nbsp;นอกจากนั้นคุณโจเซฟยังมีประสบการณ์ในอุตสาหกรรมการเงินและประกันภัยมายาวนานถึง 28 ปี
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: ประธานเจ้าหน้าที่สายงานบริหารความเสี่ยง
+    - ID: "bbbccdd6-3d72-4ace-b3de-ccbdb07bd39b"
+      Hint: description
+      Value: <p>&nbsp;</p>
+    - ID: "c5348882-207d-46e7-b0fb-fc8ccef4d5a1"
+      Hint: isFeatured
+      Type: Checkbox
+      Value: 0
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: 
+    - ID: "ffce884f-680c-485e-9bef-f4dbf574d377"
+      Hint: featuredPictogramImage
+      Value: |
+        <image mediaid="{F7D82769-AF23-4E37-B4F1-C32E0C641585}" />

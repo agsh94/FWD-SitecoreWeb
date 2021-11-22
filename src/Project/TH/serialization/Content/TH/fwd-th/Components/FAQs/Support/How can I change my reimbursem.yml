@@ -1,0 +1,192 @@
+﻿---
+ID: "9894e5f5-8bc0-493e-8eb2-1df51360038d"
+Parent: "125908cd-3bdd-4343-80ec-53a3cd0c7ca0"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Support/How can I change my reimbursement option from cash to bank account transfer"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1000
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T142429Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "How can I change my reimbursement option from cash to bank account transfer?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        Please send us a completed <a href="-/media/000fe19744b14907bc80f1c82d9212e6.ashx">policy change / renewal form</a>&nbsp;with a certified true copy of your passbook. You can also submit the documents via email&nbsp;<a href="mailto:service@fwd.co.th">service@fwd.co.th</a> or fax 02-632-2413
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200716T040631Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "How can I change my reimbursement option from cash to bank account transfer?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        Please send us a completed <a href="-/media/000fe19744b14907bc80f1c82d9212e6.ashx">policy change / renewal form</a>&nbsp;with a certified true copy of your passbook. You can also submit the documents via email&nbsp;<a href="mailto:iservice@fwd.co.th">iService@fwd.co.th</a> or fax 02-632-2413
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200716T040631Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200916T043153Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "How can I change my reimbursement option from cash to bank account transfer?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <p>
+        Please send us a completed form with a certified true copy of your passbook. You can also submit the documents via email&nbsp;<span><a href="mailto:customer.th@fwd.com">customer.th@fwd.com</a></span>&nbsp;or fax 02-632-2413</p>
+        <ul>
+            <li><a href="-/media/4343d829694f4b0f99249bb485f9136f.ashx">policy changes/renewal requests for policies bought from SCB or through a former agency channel</a></li>
+            <li><a href="-/media/documents/support/policy-owner-service-forms-changes-and-renewal.pdf?rev=3189a5b57a1941ccb29bda2bf7026aa8">policy changes/renewal requests for policies bought through an FWD sales agent or any other FWD channel</a></li>
+        </ul>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200916T043153Z
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T080925Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D80D2A5C-D5F8-4DA1-8828-B4F51D64461B}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "How can I change my reimbursement option from cash to bank account transfer?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <p>
+        Please send us a completed form with a certified true copy of your passbook. You can also submit the documents via email&nbsp;<span><a href="mailto:customer.th@fwd.com">customer.th@fwd.com</a></span>&nbsp;or fax 02-632-2413</p>
+        <ul>
+            <li><a href="-/media/4343d829694f4b0f99249bb485f9136f.ashx">policy changes/renewal requests for policies bought from SCB or through a former agency channel</a></li>
+            <li><a href="-/media/documents/support/policy-owner-service-forms-changes-and-renewal.pdf?rev=3189a5b57a1941ccb29bda2bf7026aa8">policy changes/renewal requests for policies bought through an FWD sales agent or any other FWD channel</a></li>
+        </ul>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201001T080925Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T142608Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "หากต้องการเปลี่ยนวิธีการรับเงินคืนเป็นการรับเข้าบัญชีได้หรือไม่ อย่างไร?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        สามารถดำเนินการได้ โดยระบุความประสงค์ใน <a href="-/media/000fe19744b14907bc80f1c82d9212e6.ashx">คำร้องเปลี่ยนแปลงและขอต่ออายุกรมธรรม์</a> ประกอบกับสำเนาหน้าบัญชีธนาคารที่ใช้ในการรับเงินคืน พร้อมรับรองสำเนา ส่งมาทางอีเมล์ <a href="mailto:service@fwd.co.th">service@fwd.co.th</a>หรือแฟกซ์หมายเลข 02 632 2413
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200716T041402Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "หากต้องการเปลี่ยนวิธีการรับเงินคืนเป็นการรับเข้าบัญชีได้หรือไม่ อย่างไร?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        สามารถดำเนินการได้ โดยระบุความประสงค์ใน <a href="-/media/000fe19744b14907bc80f1c82d9212e6.ashx">คำร้องเปลี่ยนแปลงและขอต่ออายุกรมธรรม์</a> ประกอบกับสำเนาหน้าบัญชีธนาคารที่ใช้ในการรับเงินคืน พร้อมรับรองสำเนา ส่งมาทางอีเมล์ <a href="mailto:iservice@fwd.co.th">iService@fwd.co.th</a>หรือแฟกซ์หมายเลข 02 632 2413
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200716T041402Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200916T044011Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "หากต้องการเปลี่ยนวิธีการรับเงินคืนเป็นการรับเข้าบัญชีได้หรือไม่ อย่างไร?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <p>
+        สามารถดำเนินการได้ โดยระบุความประสงค์ในแบบฟอร์ม ประกอบกับสำเนาหน้าบัญชีธนาคารที่ใช้ในการรับเงินคืน พร้อมรับรองสำเนา ส่งมาทางอีเมล์ <span><a href="mailto:customer.th@fwd.com">customer.th@fwd.com</a></span>&nbsp;หรือแฟกซ์หมายเลข 0 2632 2413</p>
+        <ul>
+            <li><a href="-/media/4343d829694f4b0f99249bb485f9136f.ashx">คําร้องขอเปลี่ยนแปลงและใช้สิทธิตามกรมธรรม์ (กรมธรรม์ที่ซื้อผ่านธนาคารไทยพาณิชย์หรือตัวแทนเดิม)</a></li>
+            <li><a href="-/media/000fe19744b14907bc80f1c82d9212e6.ashx">คําร้องขอเปลี่ยนแปลงและใช้สิทธิตามกรมธรรม์ (กรมธรรม์ที่ซื้อผ่านตัวแทนของ&nbsp;FWD&nbsp;หรือช่องทางอื่นๆ)</a></li>
+        </ul>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200916T044011Z

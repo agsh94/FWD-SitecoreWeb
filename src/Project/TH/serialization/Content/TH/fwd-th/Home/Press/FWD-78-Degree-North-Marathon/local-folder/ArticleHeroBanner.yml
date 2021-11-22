@@ -1,0 +1,53 @@
+﻿---
+ID: "10b15c5f-cced-4783-a99f-3e987bd6ee8d"
+Parent: "6be4d9cf-c859-42d2-847f-6241e38b2940"
+Template: "d188c909-be9c-4149-9106-b25be4b6fb55"
+Path: "/sitecore/content/fwd/fwd-th/Home/Press/FWD-78-Degree-North-Marathon/local-folder/ArticleHeroBanner"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4573EFE0-6D5D-4A69-BC87-F46AFA1CD32D}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Article Hero Banner
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ec1b066-046b-4099-8dde-7ef17d1818a5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{2C032D42-A699-4C5A-95DE-60035A9D89D7}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T052839Z
+    - ID: "43c58d25-8056-4ce0-b071-440c9f96ecf3"
+      Hint: image
+      Value: |
+        <image mediaid="{2C032D42-A699-4C5A-95DE-60035A9D89D7}" alt="Prime Minister’s Insurance Awards of the Year 2019" height="" width="" hspace="" vspace="" cropx="0.48" cropy="0.38" focusx="-0.04385964912280704" focusy="0.25" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ec1b066-046b-4099-8dde-7ef17d1818a5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{2C032D42-A699-4C5A-95DE-60035A9D89D7}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T053837Z
+    - ID: "43c58d25-8056-4ce0-b071-440c9f96ecf3"
+      Hint: image
+      Value: |
+        <image mediaid="{2C032D42-A699-4C5A-95DE-60035A9D89D7}" alt="รางวัลประกันภัยดีเด่นครบวงจร ประจำปี 2562" height="" width="" hspace="" vspace="" cropx="0.47" cropy="0.38" focusx="-0.06140350877192979" focusy="0.25" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit

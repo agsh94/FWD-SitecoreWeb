@@ -1,0 +1,43 @@
+﻿---
+ID: "7404b9b0-1543-4a8e-8fd6-eb5f4bdb5f49"
+Parent: "4aab217d-ead4-4f9c-9871-f24306031fc8"
+Template: "8bac8cc4-dec2-4c0c-9d84-6dfb7d398819"
+Path: "/sitecore/content/fwd/fwd-th/Components/sitemapLinks/bottom-common-section/column-1/FWD MAX/Travel"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200618T103524Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{6720C4E8-6CF9-496F-AD04-BF7756CC0CF5}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200316T190646Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{6720C4E8-6CF9-496F-AD04-BF7756CC0CF5}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: ท่องเที่ยว

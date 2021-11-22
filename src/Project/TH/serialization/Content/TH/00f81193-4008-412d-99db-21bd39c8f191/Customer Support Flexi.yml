@@ -1,0 +1,25 @@
+﻿---
+ID: "1a3885b3-5301-4ccd-838b-ab73e7e2948e"
+Parent: "00f81193-4008-412d-99db-21bd39c8f191"
+Template: "83a147f2-89ba-4a48-8222-4b73ffe65216"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/Support/local-folder/Customer Support Flexi"
+DB: master
+SharedFields:
+- ID: "56b35c4a-f364-45f9-8d35-5a28cecdd7a8"
+  Hint: supportOptions
+  Value: "{D29AA7B1-6E7A-4EB5-9A65-EAE1C0D94B2A}|{9A1BE68C-CC07-49A0-9017-FD0E0A4A6873}|{E731D01B-2782-4EFB-B734-793ACAD2E3AF}|{CC115D5A-4819-4224-8B56-F69AEC264865}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T035450Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "e59ccccf-b566-4b39-b862-7fc68fe13e39"
+      Hint: title
+      Value: Customer Support Flexi

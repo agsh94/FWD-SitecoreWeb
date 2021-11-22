@@ -1,0 +1,44 @@
+﻿---
+ID: "969e77a8-5df3-4c97-a01f-440a207aefd9"
+Parent: "909bf1c3-0d02-4662-8c79-558316a0eadc"
+Template: "24c1d9c4-a2bf-436b-b6bf-7e3e4957488f"
+Path: "/sitecore/content/fwd/fwd-th/Components/terms-and-condition-folder/Plan Card Redemption Terms and Condition"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09325934-6951-45ec-bd07-c7fc996855b3"
+      Hint: description
+      Value: Redemption value is based on your investment performance
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200504T130746Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a19dcac-8d5b-4e87-b1c9-14ba9ece9248"
+      Hint: subTitle
+      Value: 
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09325934-6951-45ec-bd07-c7fc996855b3"
+      Hint: description
+      Value: มูลค่ารับซื้อคืนหน่วยลงทุนขึ้นอยู่กับผลตอบแทนจากการลงทุนของคุณ
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200504T130824Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: 

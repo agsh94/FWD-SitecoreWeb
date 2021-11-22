@@ -1,0 +1,70 @@
+﻿---
+ID: "5c302f58-e598-4c4e-affa-af46598f1cb5"
+Parent: "498ea013-75b5-4d9e-b725-d12af9d9429e"
+Template: "e9fe119c-894c-43bd-bfd0-857be1acbe38"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Claims/cash-return/local-folder/download-forms"
+DB: master
+SharedFields:
+- ID: "6e7ee2d5-d16e-4038-89df-21145baec88b"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: |
+    {6FB0F5C7-56B1-455F-B58A-CFF07DB084A9}
+    {EDA8AA85-90E4-409C-99E9-ADC0ECA09767}
+    {C907CE34-A113-40B9-ACEE-6730D1962C65}
+    {79CC6ED6-35E7-48E5-B2F9-54D5C71CCE20}
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{AAE0FCBF-5276-4A3A-8CED-AEAF6994D21B}"
+- ID: "fa4911ec-ddc9-4d82-9059-c1fe07006bba"
+  Hint: supportTopic
+  Value: "{3F8847FA-88E1-4BC6-81E8-BD183B8D5917}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Download Forms
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "082ccea0-107e-474b-99d1-c9f1b7bff0ef"
+      Hint: description
+      Value: Download Forms
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200108T145601Z
+    - ID: "d88ea793-1587-4f65-ae5c-80926cd5438b"
+      Hint: subTitle
+      Value: Download Forms
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Download Forms
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See all forms" anchor="" linktype="internal" class="" title="See all forms" target="_blank" querystring="" id="{515D3ADB-439C-43E0-BA46-9F36E2212DCC}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "082ccea0-107e-474b-99d1-c9f1b7bff0ef"
+      Hint: description
+      Value: Download Forms
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T085152Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d88ea793-1587-4f65-ae5c-80926cd5438b"
+      Hint: subTitle
+      Value: Download Forms
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Download Forms
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See all forms" anchor="" linktype="internal" class="" title="See all forms" target="_blank" querystring="" id="{515D3ADB-439C-43E0-BA46-9F36E2212DCC}" />

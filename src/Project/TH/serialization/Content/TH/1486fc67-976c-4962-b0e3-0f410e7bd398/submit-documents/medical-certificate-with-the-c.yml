@@ -1,0 +1,45 @@
+﻿---
+ID: "a6193139-88f8-4a48-9245-448699970ec1"
+Parent: "cbbe05ad-44b7-4409-bb11-4ff92d598b44"
+Template: "1a0c0189-b3b4-42e1-a540-2202676d165f"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Claims/cash-return 1/local-folder/claim-process/step-3/submit-documents/medical-certificate-with-the-company-form"
+DB: master
+SharedFields:
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{DEAF8C85-AE22-442B-8F0D-1DB53BD9806E}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Medical certificate with the Company form
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191218T112116Z
+    - ID: "8adb781d-19ca-415a-8114-4160e11340f0"
+      Hint: title
+      Value: Medical certificate with the Company form
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: "<link text='By Email' linktype='mailto' style='' url='mailto:test@fwd.com?subject=By Email'  title='' />"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T085151Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8adb781d-19ca-415a-8114-4160e11340f0"
+      Hint: title
+      Value: Medical certificate with the Company form
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: "<link text='By Email' linktype='mailto' style='' url='mailto:test@fwd.com?subject=By Email'  title='' />"

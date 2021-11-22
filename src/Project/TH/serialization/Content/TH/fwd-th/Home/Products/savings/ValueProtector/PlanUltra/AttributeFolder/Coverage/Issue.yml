@@ -1,0 +1,37 @@
+﻿---
+ID: "7dd11c75-77f4-4eac-bb4c-2ed57a0e1e68"
+Parent: "5f18ea35-f267-41f5-b82e-b2fe49037a04"
+Template: "0961098e-2ea2-458f-8660-b9b9be61bc57"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/savings/ValueProtector/PlanUltra/AttributeFolder/Coverage/Issue"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200702T170511Z
+    - ID: "409c4452-e4f8-4e83-8f50-388a52104cbb"
+      Hint: value
+      Value: Age 0 (from 15 days) &ndash; 80 (attained age)
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{F4C7ADB8-D226-43DE-A1B7-349D727CA566}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200708T135205Z
+    - ID: "409c4452-e4f8-4e83-8f50-388a52104cbb"
+      Hint: value
+      Value: "อายุ 0 (จาก 15 วัน) - 80 (อายุที่บรรลุ)"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{F4C7ADB8-D226-43DE-A1B7-349D727CA566}"

@@ -1,0 +1,39 @@
+﻿---
+ID: "bb4c3c6c-e481-4a03-892b-00108fb035e5"
+Parent: "769d9da6-9244-40df-bb0c-8959f18bb0da"
+Template: "69b601a8-8555-4411-8c17-aa91671eec32"
+Path: "/sitecore/content/fwd/fwd-th/Content/SubDistrict/N/Nua Khlong"
+DB: master
+SharedFields:
+- ID: "a903eb23-a8d6-4a9a-bd27-4bd363b1fcf0"
+  Hint: searchName
+  Value: Nua Khlong
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: Nua Khlong
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T162430Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: ต.เหนือคลอง
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200421T053530Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

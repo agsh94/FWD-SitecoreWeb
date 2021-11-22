@@ -1,0 +1,45 @@
+﻿---
+ID: "d5968f21-419a-4109-b2de-7bc876269720"
+Parent: "34d8965a-b446-452d-9b30-a64a1200159a"
+Template: "1d74b3b3-2234-4eac-bd93-d00a35863a01"
+Path: "/sitecore/content/fwd/fwd-th/Components/linkList/Support Links/loan-application"
+DB: master
+SharedFields:
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{D133C644-7195-4ABE-9D4A-410697C8E405}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Apply for Loan
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191008T163907Z
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Apply for a loan" anchor="" linktype="internal" class="" title=""  querystring="" id="{1FA80022-9F46-473B-A35B-0450FA491831}" />
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Apply for Loan
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T071324Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="สมัครกู้เงินตามกรมธรรม์" anchor="" linktype="internal" class="" title=""  querystring="" id="{1FA80022-9F46-473B-A35B-0450FA491831}" />

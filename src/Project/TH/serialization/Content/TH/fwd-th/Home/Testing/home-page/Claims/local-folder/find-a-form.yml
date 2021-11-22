@@ -1,0 +1,73 @@
+﻿---
+ID: "de82d302-8e7d-4676-ad82-ace85365832a"
+Parent: "17df335b-d610-4975-ab3f-9eeb86ce99b1"
+Template: "e9fe119c-894c-43bd-bfd0-857be1acbe38"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Claims/local-folder/find-a-form"
+DB: master
+SharedFields:
+- ID: "6e7ee2d5-d16e-4038-89df-21145baec88b"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: |
+    {67F745F2-3A37-4569-B598-0B98CDC6B144}
+    {390404DC-4C70-4662-B09E-5FB89B7B5294}
+    {FE8587F2-045F-44A2-83AC-6058AF7CC0AF}
+    {EDA8AA85-90E4-409C-99E9-ADC0ECA09767}
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{AAE0FCBF-5276-4A3A-8CED-AEAF6994D21B}"
+- ID: "fa4911ec-ddc9-4d82-9059-c1fe07006bba"
+  Hint: supportTopic
+  Value: "{3F8847FA-88E1-4BC6-81E8-BD183B8D5917}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Find a form
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "082ccea0-107e-474b-99d1-c9f1b7bff0ef"
+      Hint: description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200323T103314Z
+    - ID: "d88ea793-1587-4f65-ae5c-80926cd5438b"
+      Hint: subTitle
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Find a form
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See All Forms" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{515D3ADB-439C-43E0-BA46-9F36E2212DCC}" />
+    - ID: "f4163e07-1e81-42cd-9b93-cb8fb3aaf4f2"
+      Hint: relatedForms
+      Value: "{7F951846-315C-4C18-B921-4D605932FEF9}|{55EDBFF7-D49A-4F38-A866-DCAEA7C5C83C}|{842BF137-9701-473C-A54A-34344F099239}|{F4534CA8-703C-4282-BF32-DE2BD146EAEE}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "082ccea0-107e-474b-99d1-c9f1b7bff0ef"
+      Hint: description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T153950Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qatestTH
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Find a form
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See All Forms" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{515D3ADB-439C-43E0-BA46-9F36E2212DCC}" />
+    - ID: "f4163e07-1e81-42cd-9b93-cb8fb3aaf4f2"
+      Hint: relatedForms
+      Value: "{1782FAC2-6C45-441B-9FA2-0EB87F0C2B2F}|{37A7A820-D5BA-4486-94F3-D70AB0565F1E}"

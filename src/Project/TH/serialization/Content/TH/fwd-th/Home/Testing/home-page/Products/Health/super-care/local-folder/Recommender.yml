@@ -1,0 +1,31 @@
+﻿---
+ID: "4b52c3ea-376d-4715-93ba-9d7fdb1019dd"
+Parent: "bfef199f-4e7a-430d-94d5-93ddba2180cb"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/Health/super-care/local-folder/Recommender"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: Let us help you find a suitable plan
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200218T054827Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{1977106B-8714-4A53-AE67-3A25DE36F790}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: Let us help you find a suitable plan
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Plan recommender
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Start" linktype="form" querystring="recommender" target="" id="{E1107E50-859E-46F4-BDC5-DC1FE298E73F}" />

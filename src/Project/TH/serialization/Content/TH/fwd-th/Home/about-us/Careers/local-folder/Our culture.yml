@@ -1,0 +1,48 @@
+﻿---
+ID: "f93ef973-9d16-4972-9481-cef99fb0f7ba"
+Parent: "8252b599-f428-4e6e-a22e-90e60f04101b"
+Template: "7d6bb8c2-d538-441d-82bf-d6aec40b5929"
+Path: "/sitecore/content/fwd/fwd-th/Home/about-us/Careers/local-folder/Our culture"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+- ID: "e393d27b-259f-4774-91b7-a2965d57238d"
+  Hint: linkItems
+  Value: "{839BFBCD-D6A8-4C34-B020-8C6F60DE84FB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200401T044453Z
+    - ID: "2ed70c09-d8b1-4780-8037-dfe4ca6dd644"
+      Hint: title
+      Value: 
+    - ID: "3e163c0e-2b06-4372-a28c-96b7c3892905"
+      Hint: description
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200401T044323Z
+    - ID: "2ed70c09-d8b1-4780-8037-dfe4ca6dd644"
+      Hint: title
+      Value: 
+    - ID: "3e163c0e-2b06-4372-a28c-96b7c3892905"
+      Hint: description
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit

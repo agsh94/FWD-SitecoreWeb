@@ -1,0 +1,49 @@
+﻿---
+ID: "284b1c56-ba22-4b66-9179-7fc757400c34"
+Parent: "9f5b4ed8-6538-4afc-a0d5-1c44cdb023a7"
+Template: "18bbdcee-26b1-4a6b-a98d-29a8338e8a30"
+Path: "/sitecore/content/fwd/fwd-th/Components/Facts/Thailand/employees"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: employees
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0630e171-ee6f-460c-87dd-9c455471dbed"
+      Hint: subTitle
+      Value: employees
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T103855Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "fee74513-a347-4e70-b9aa-f96d24908f4a"
+      Hint: title
+      Value: 1,600
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0630e171-ee6f-460c-87dd-9c455471dbed"
+      Hint: subTitle
+      Value: พนักงาน
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200108T165823Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "fee74513-a347-4e70-b9aa-f96d24908f4a"
+      Hint: title
+      Value: 1,600

@@ -1,0 +1,63 @@
+﻿---
+ID: "198fe49d-57ad-4f9c-b0b7-ddfdc64f7067"
+Parent: "ae4e055d-079b-4525-a700-af46f5f669bb"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Wealth/shopee-20-10/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 475
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T065033Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>มารู้กันก่อนว่า &ldquo;หนี้&rdquo; เกิดขึ้นได้จากสภาวะรายจ่ายที่ไม่สัมพันธ์กับรายรับ ประกอบกับการไม่มีแผนสำรองในการใช้เงิน รวมไปถึงความต้องการที่เกินความจำเป็น จนสุดท้ายกลายเป็นภาระผูกพันในทุกเดือนที่คุณจะต้องปันเงินส่วนหนึ่งหรือเกือบจะทั้งหมดของเงินเดือนมาชำระหนี้ จนคุณต้องหมุนเงินตัวเป็นเกลียว เดือนไหนต้องนำเงินไปจ่ายหนี้หมด ไม่เหลือพอสำหรับเป็นค่าใช้จ่ายส่วนตัว ก็จะยิ่งเพิ่มภาระให้กับชีวิตมากขึ้นไปอีก
+        </p>
+        <p>&nbsp;</p>
+        <p><strong>เห็นยอดหนี้แล้วยังแฮปปี้ได้อยู่หรือ?</strong></p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200722T022151Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>เงื่อนไขแคมเปญ
+        </strong><br />
+        1. เมื่อซื้อประกันสะสมทรัพย์ เอฟดับบลิว ดี ฟอร์ เชฟวิ่ง 20/10 เบี้ยประกันตั้งแต่ 45,000 บาทขึ้นไป ผ่านช่องทางขายทางโทรศัพท์เท่านั้น <br />
+        2. ชำระเบี้ยประกันได้ทั้งแบบรายเดือนและรายปี <br />
+        3. ถือกรมธรรม์ตั้งแต่ 30 วันขึ้นไป หลังจากกรมธรรม์อนุมัติ <br />
+        4. ต้องสมัครเป็นสมาชิก FWD MAX Application <br />
+        5. ใช้ MAX Point จำนวน 10 แต้ม เพื่อแลกของรางวัล โค้ดส่วนลด Shopee มูลค่า 100 บาท (โค้ดส่วนลดละ 100 บาท จำนวน 5 โค้ด มูลค่ารวม 500 บาท) ผ่าน FWD MAX Application ตรงตามเงื่อนไขที่กำหนดเท่านั้น <br />
+        6. หากมีการยกเลิกกรมธรรม์ก่อนระยะเวลาสิ้นสุดแคมเปญ ทางบริษัทขอสงวนสิทธิ์ในการยกเลิกสิทธิ์การได้รับของรางวัล <br />
+        7. ระยะเวลาแคมเปญ ตั้งแต่วันนี้ &ndash; 31 ส.ค. 2563 เท่านั้น <br />
+        8. ของรางวัลไม่สามารถแลกเป็นเงินสด เปลี่ยน และ/หรือ โอนให้ผู้อื่นได้
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200722T022151Z

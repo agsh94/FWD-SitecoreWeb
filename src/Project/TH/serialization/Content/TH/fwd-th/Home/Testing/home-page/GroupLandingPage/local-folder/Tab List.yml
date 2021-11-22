@@ -1,0 +1,31 @@
+﻿---
+ID: "28da7ddc-db8e-44aa-afe8-a9e3ee105e36"
+Parent: "35aa987c-d7de-4535-a602-db5c43d99958"
+Template: "91c0f7fd-e185-4652-9ca5-ff0982a40801"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/GroupLandingPage/local-folder/Tab List"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T063046Z
+    - ID: "78233103-3316-4484-ada7-77b1e45e8351"
+      Hint: title
+      Value: Our benefits
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200402T105355Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "78233103-3316-4484-ada7-77b1e45e8351"
+      Hint: title
+      Value: Our benefits

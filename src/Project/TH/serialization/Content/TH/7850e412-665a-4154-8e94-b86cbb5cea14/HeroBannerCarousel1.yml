@@ -1,0 +1,25 @@
+﻿---
+ID: "dd5e871d-9e41-4270-b383-655482e0f737"
+Parent: "7850e412-665a-4154-8e94-b86cbb5cea14"
+Template: "d9df7a98-c006-400d-8855-d0ef021e7fcd"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/HeroBannerKS/local-folder/HeroBannerCarousel1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200710T091239Z
+    - ID: "2beacf17-ddb8-450a-b836-723b67bdec18"
+      Hint: items
+      Type: Multilist
+      Value: |
+        {C2F0763B-2D11-4567-8530-4BBCE74846B7}
+        {BFB16F97-4899-4FA3-A778-C65E2D11887E}
+        {885B2622-BDB2-40C8-959A-92C02D391C89}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdthauthor

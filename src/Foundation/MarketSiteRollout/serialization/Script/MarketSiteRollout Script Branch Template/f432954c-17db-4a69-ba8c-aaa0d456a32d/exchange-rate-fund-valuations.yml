@@ -1,0 +1,71 @@
+﻿---
+ID: "3bf6df7f-adac-4e82-9ccb-6234198ac127"
+Parent: "f432954c-17db-4a69-ba8c-aaa0d456a32d"
+Template: "40da990f-39dd-4d66-a9be-849f4ecffd22"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Invest/exchange-rate-fund-valuations"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{C879EB9D-195D-4984-B164-F1DD756158FA}"
+          s:ds="{E72137A7-A97D-4391-8DF2-76790F367158}"
+          s:par="HeroBannerVariant=%7B0BDF58FF-C695-448B-BC29-6E1C8DC08D4E%7D&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider" />
+        <r
+          uid="{2476A374-8836-45FE-AF59-3CD0AE06BE82}"
+          s:ds="{664FE4F1-7E17-4771-8A2F-2505DAC8A951}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;contentBlockVariant=%7BB8818C35-0526-4FB3-8E2B-7F5CFD14E141%7D&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider" />
+        <r
+          uid="{57AD34E9-D9E1-4B92-A392-E0A41486C935}">
+          <p:d />
+        </r>
+        <r
+          uid="{9103EEE6-6026-415E-8CAD-9F6259B2B5FF}"
+          p:after="r[@uid='{2476A374-8836-45FE-AF59-3CD0AE06BE82}']"
+          s:ds="{09CE7DC2-35D0-47A8-9A53-80426F4F816A}"
+          s:id="{D986F9C1-2F8D-4DDB-9EBF-56AEC3C0C48E}"
+          s:par="anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{CB42DC18-A682-4B65-846F-013EB64B911C}"
+          p:after="r[@uid='{9103EEE6-6026-415E-8CAD-9F6259B2B5FF}']"
+          s:ds="{802D9514-9987-48EF-8939-949F6550A49B}"
+          s:id="{7E818D00-D08B-4960-AA9C-8804EB3E2CC5}"
+          s:par="anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Exchange Rate Fund Valuations
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201005T125808Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "64e5dd33-f8a8-40fb-8e9f-6c53c3f64064"
+      Hint: pagetitle
+      Value: Exchange Rate & Fund Valuations
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Fund Valuations and Options

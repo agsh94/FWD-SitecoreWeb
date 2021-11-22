@@ -1,0 +1,244 @@
+﻿html, body {
+    box-sizing: border-box;
+    height: 100%;
+    font-family: 'Open Sans', Arial, 'Microsoft YaHei', sans-serif;
+    font-size: 13px;
+    margin: 0px;
+    color: #131313;
+}
+
+button, input, optgroup, select, textarea {
+    font-family: inherit;
+}
+
+
+a:link {
+    text-decoration: none;
+    color: #0088cc;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#CenterColumn {
+    margin: auto;
+    padding-right: 20px;
+    padding-left: 20px;
+    max-width: 1170px;
+    min-height: 402px;
+    background: white url('-/media/Default Website/cover.ashx') no-repeat;
+    background-size: 1170px 402px;
+    text-align: left;
+}
+
+#InnerCenter {
+    margin: auto;
+    position: relative;
+    width: 1150px;
+    height: 700px;
+}
+
+#Header {
+    height: 402px;
+}
+
+#Footer {
+    width: 100%;
+    clear: both;
+    padding-top: 2px;
+}
+
+#LeftContent {
+    width: 750px;
+    text-align: justify;
+}
+
+#scLogo {
+    margin-top: 20px;
+}
+
+.contentTitle {
+    margin-top: 50px;
+    font-weight: 400;
+    font-size: 36px;
+}
+
+.divider {
+    background-color: #DCDCDC;
+    border: 0 none;
+    clear: both;
+    display: block;
+    height: 1px;
+    float: none;
+    margin: 50px auto;
+    width: 100%;
+}
+
+.contentDescription {
+    padding-right: 20px;
+    line-height: 22px;
+}
+
+.subHeading-Large {
+    font-size: 25px;
+    line-height: 38px;
+    font-weight: 300;
+}
+
+.subHeading-Medium {
+    font-size: 25px;
+    line-height: 31px;
+    font-weight: 700;
+}
+
+.subHeading-Small {
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 700;
+}
+
+.caption {
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 300;
+}
+
+
+.article-caption {
+    font-size: 14px;
+    color: #183028;
+    line-height: 21px;
+    font-weight: 300;
+}
+
+.article-description {
+    font-size: 20px;
+    color: #183028;
+    line-height: 30px;
+    font-weight: 300;
+}
+
+.article-subheading-small {
+    font-size: 16px;
+    color: #183028;
+    line-height: 20px;
+    font-weight: 700;
+}
+
+.article-subheading-medium {
+    font-size: 25px;
+    color: #183028;
+    line-height: 31px;
+    font-weight: 700;
+}
+
+.article-subheading-large {
+    font-size: 25px;
+    color: #183028;
+    line-height: 38px;
+    font-weight: 300;
+}
+
+.article-heading {
+    font-size: 39px;
+    color: #183028;
+    line-height: 49px;
+    font-weight: 700;
+}
+
+.article-quote {
+    font-size: 31px;
+    color: #E87722;
+    line-height: 39px;
+    font-weight: 700;
+}
+
+.modal-caption {
+    font-size: 14px;
+    color: #183028;
+    line-height: 21px;
+    font-weight: 300;
+}
+
+.modal-text-link {
+    font-size: 16px;
+    color: #183028;
+    line-height: 20px;
+    font-weight: 700;
+}
+
+.modal-body {
+    font-size: 20px;
+    color: #183028;
+    line-height: 30px;
+    font-weight: 300;
+}
+
+.modal-body-bullets {
+    font-size: 20px;
+    color: #183028;
+    line-height: 30px;
+    font-weight: 300;
+}
+
+.modal-body-number-1 {
+    font-size: 20px;
+    color: #183028;
+    line-height: 30px;
+    font-weight: 500;
+}
+
+.modal-body-number-2 {
+    font-size: 20px;
+    color: #183028;
+    line-height: 30px;
+    font-weight: 300;
+}
+
+.modal-section-heading {
+    font-size: 25px;
+    color: #183028;
+    line-height: 31px;
+    font-weight: 700;
+}
+
+.modal-heading {
+    font-size: 39px;
+    color: #183028;
+    line-height: 49px;
+    font-weight: 700;
+}
+
+p.modal-excerpts span:first-child {
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 300;
+    color: #636566;
+}
+
+p.modal-excerpts span:last-child {
+    font-size: 20px;
+    line-height: 30px;
+    display: block;
+    font-weight: 300;
+    color: #183028;
+}
+
+p.modal-excerpts:after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 1px;
+    margin-top: 24px;
+    background-color: #DBDFE1;
+}
+
+p.modal-excerpts:before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 1px;
+    margin-bottom: 24px;
+    background-color: #DBDFE1;
+}

@@ -1,0 +1,33 @@
+﻿---
+ID: "25f9b384-e609-4590-88cc-0b6a3bbacdef"
+Parent: "334d56d5-9720-4f61-afc4-d5db2020317f"
+Template: "91c0f7fd-e185-4652-9ca5-ff0982a40801"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/care-card/local-folder/Out-patient In-patient"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T075135Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T083822Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph

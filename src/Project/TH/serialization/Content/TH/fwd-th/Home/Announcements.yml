@@ -1,0 +1,75 @@
+﻿---
+ID: "3bd9a9af-214b-4772-bf6c-b1219096c060"
+Parent: "d9c6779b-43e9-4106-8357-ad0510a8547c"
+Template: "40da990f-39dd-4d66-a9be-849f4ecffd22"
+Path: "/sitecore/content/fwd/fwd-th/Home/Announcements"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{C879EB9D-195D-4984-B164-F1DD756158FA}"
+          s:ds="{CD705C18-943E-456F-A61E-22A6D1E06AAB}"
+          s:par="HeroBannerVariant&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor=%7BF9F5FC4E-89D7-4701-A560-C0A7179384CB%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+        <r
+          uid="{2476A374-8836-45FE-AF59-3CD0AE06BE82}"
+          s:ds="{F8F3298D-F298-4D0A-A3A2-C5DDC56A1CBE}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;contentBlockVariant=%7BB8818C35-0526-4FB3-8E2B-7F5CFD14E141%7D&amp;anchorText&amp;backgroundColor=%7BF9F5FC4E-89D7-4701-A560-C0A7179384CB%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+        <r
+          uid="{57AD34E9-D9E1-4B92-A392-E0A41486C935}"
+          s:ds="{F65DD201-E8B0-4EC0-9493-65B1B33FF795}"
+          s:par="buttonAlignment=%7BCF02F396-DAFD-448E-BC19-15E66C7CBA54%7D&amp;variant&amp;numberOfColumns=%7B463993C4-D100-40EB-9898-6A8E60F3BB34%7D&amp;anchorText&amp;backgroundColor&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+        <r
+          uid="{D6134FB5-960B-4784-8AE2-7231655F27DC}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;backgroundColor=%7BF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{9E73D12F-3814-4CD5-B0FC-4169AB38CCA3}"
+- ID: "ff451472-1b55-4228-b14d-ab9b2a449792"
+  Hint: isPageSearchable
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201007T100637Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gaurava
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200715T075936Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Announcements

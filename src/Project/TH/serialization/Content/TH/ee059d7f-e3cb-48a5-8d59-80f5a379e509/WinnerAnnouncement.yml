@@ -1,0 +1,227 @@
+﻿---
+ID: "d99c7aaa-cd1d-4f5c-8d1d-9ba80e6ee6a7"
+Parent: "ee059d7f-e3cb-48a5-8d59-80f5a379e509"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/fwd-max-campaign/local-folder/Article Description Area/WinnerAnnouncement"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200813T012619Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Sirisak
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ประกาศรายชื่อลูกค้าที่ได้รับตุ๊กตา / หมอนรองคอ KOOKI จากกิจกรรมครั้งที่ 1 วันที่ 7 สิงหาคม ถึง 9 สิงหาคม 2563</p>
+        <p>1. คุณจารุพรรณ์ ดวงใจ (สมัครลำดับที่ 10)</p>
+        <p>2. คุณอรพันธ์ อยู่ศิริ (สมัครลำดับที่ 20)</p>
+        <p>3. คุณดาวใจ พรประสพ (สมัครลำดับที่ 30)</p>
+        <p>4. คุณอภิพิชญ์&nbsp;ภูตีนนทกูร (สมัครลำดับที่ 40)</p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200818T025036Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sirisak
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ประกาศรายชื่อลูกค้าที่ได้รับตุ๊กตา / หมอนรองคอ KOOKI จากกิจกรรมครั้งที่ 1 วันที่ 7 สิงหาคม ถึง 9 สิงหาคม 2563</p>
+        <p>1. คุณจารุพรรณ์ ดวงใจ (สมัครลำดับที่ 10)</p>
+        <p>2. คุณอรพันธ์ อยู่ศิริ (สมัครลำดับที่ 20)</p>
+        <p>3. คุณดาวใจ พรประสพ (สมัครลำดับที่ 30)</p>
+        <p>4. คุณอภิพิชญ์&nbsp;ภูตีนนทกูร (สมัครลำดับที่ 40)</p>
+        <p>ประกาศรายชื่อลูกค้าที่ได้รับกระเป๋าเอฟดับบลิวดี จากกิจกรรมครั้งที่ 2 วันที่ 14 สิงหาคม ถึง 16 สิงหาคม 2563</p>
+        <p>1. คุณธมลวรรณ&nbsp;ศิริพฤกษชาด (สมัครลำดับที่ 10)</p>
+        <p>2. คุณวิลาสิณี&nbsp;วันชัย (สมัครลำดับที่ 20)</p>
+        <p>3. คุณกาญจนา&nbsp;เพ็ชรรัตน์ (สมัครลำดับที่ 30)</p>
+        <p>4. คุณฉัตรฤดี&nbsp;ศุขตระกูล (สมัครลำดับที่ 40)</p>
+        <p>5. คุณพิมพ์ชนก&nbsp;ตั้งเทียมศิริกุล (สมัครลำดับที่ 50)</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200818T025036Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T101500Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sirisak
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ประกาศรายชื่อลูกค้าที่ได้รับตุ๊กตา / หมอนรองคอ KOOKI จากกิจกรรมครั้งที่ 1 วันที่ 7 สิงหาคม ถึง 9 สิงหาคม 2563</p>
+        <p>1. คุณจารุพรรณ์ ดวงใจ (สมัครลำดับที่ 10)</p>
+        <p>2. คุณอรพันธ์ อยู่ศิริ (สมัครลำดับที่ 20)</p>
+        <p>3. คุณดาวใจ พรประสพ (สมัครลำดับที่ 30)</p>
+        <p>4. คุณอภิพิชญ์&nbsp;ภูตีนนทกูร (สมัครลำดับที่ 40)</p>
+        <p>&nbsp;</p>
+        <p>ประกาศรายชื่อลูกค้าที่ได้รับกระเป๋าเอฟดับบลิวดี จากกิจกรรมครั้งที่ 2 วันที่ 14 สิงหาคม ถึง 16 สิงหาคม 2563</p>
+        <p>1. คุณธมลวรรณ&nbsp;ศิริพฤกษชาด (สมัครลำดับที่ 10)</p>
+        <p>2. คุณวิลาสิณี&nbsp;วันชัย (สมัครลำดับที่ 20)</p>
+        <p>3. คุณกาญจนา&nbsp;เพ็ชรรัตน์ (สมัครลำดับที่ 30)</p>
+        <p>4. คุณฉัตรฤดี&nbsp;ศุขตระกูล (สมัครลำดับที่ 40)</p>
+        <p>5. คุณพิมพ์ชนก&nbsp;ตั้งเทียมศิริกุล (สมัครลำดับที่ 50)</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200820T101500Z
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T080348Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Chaiyawat
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p style="margin-top: 0cm;"><strong><span style="color: #e87722;">ประกาศรายชื่อผู้โชคดี</span></strong></p>
+        <p style="margin-top: 0cm;"><strong><span style="color: #e87722;">&nbsp;</span></strong></p>
+        <p><strong><span style="color: #e87722;">กิจกรรมครั้งที่ </span></strong><strong><span style="color: #e87722;">1 </span></strong><strong><span style="color: #e87722;">วันที่ </span></strong><strong><span style="color: #e87722;">7 </span></strong><strong><span style="color: #e87722;">สิงหาคม ถึง </span></strong><strong><span style="color: #e87722;">9 </span></strong><strong><span style="color: #e87722;">สิงหาคม </span></strong><strong><span style="color: #e87722;">2563</span></strong></p>
+        <p><strong><span style="color: #131313;">ลูกค้าที่ได้รับ ตุ๊กตา / หมอนรองคอ </span></strong><strong><span style="color: #131313;">KOOKI </span></strong><strong><span style="color: #131313;">ได้แก่</span></strong></p>
+        <p style="margin-left: 40px;"><span style="color: #131313;">1. </span><span style="color: #131313;">คุณจารุพรรณ์&nbsp; ดวงใจ (สมัครลำดับที่ </span><span style="color: #131313;">10)</span></p>
+        <p style="margin-left: 40px;"><span style="color: #131313;">2. </span><span style="color: #131313;">คุณอรพันธ์&nbsp; อยู่ศิริ (สมัครลำดับที่ </span><span style="color: #131313;">20)</span></p>
+        <p style="margin-left: 40px;"><span style="color: #131313;">3. </span><span style="color: #131313;">คุณดาวใจ&nbsp; พรประสพ (สมัครลำดับที่ </span><span style="color: #131313;">30)</span></p>
+        <p style="margin-left: 40px;"><span style="color: #131313;">4. </span><span style="color: #131313;">คุณอภิพิชญ์&nbsp;&nbsp;</span><span style="color: #131313;"></span><span style="color: #131313;">ภูตีนนทกูร (สมัครลำดับที่ </span><span style="color: #131313;">40)</span></p>
+        <p><span style="color: #131313;">&nbsp;</span></p>
+        <p><strong><span style="color: #e87722;">กิจกรรมครั้งที่ </span></strong><strong><span style="color: #e87722;">2 </span></strong><strong><span style="color: #e87722;">วันที่ </span></strong><strong><span style="color: #e87722;">14 </span></strong><strong><span style="color: #e87722;">สิงหาคม ถึง </span></strong><strong><span style="color: #e87722;">16 </span></strong><strong><span style="color: #e87722;">สิงหาคม </span></strong><strong><span style="color: #e87722;">2563</span></strong></p>
+        <p><strong><span style="color: #131313;">ลูกค้าที่ได้รับ กระเป๋าเอฟดับบลิวดี ได้แก่</span></strong></p>
+        <p style="margin-left: 40px;"><span style="color: #131313;">1. </span><span style="color: #131313;">คุณธมลวรรณ&nbsp;&nbsp;</span><span style="color: #131313;"></span><span style="color: #131313;">ศิริพฤกษชาด (สมัครลำดับที่ </span><span style="color: #131313;">10)</span></p>
+        <p style="margin-left: 40px;"><span style="color: #131313;">2. </span><span style="color: #131313;">คุณวิลาสิณี&nbsp;&nbsp;</span><span style="color: #131313;"></span><span style="color: #131313;">วันชัย (สมัครลำดับที่ </span><span style="color: #131313;">20)</span></p>
+        <p style="margin-left: 40px;"><span style="color: #131313;">3. </span><span style="color: #131313;">คุณกาญจนา&nbsp;&nbsp;</span><span style="color: #131313;"></span><span style="color: #131313;">เพ็ชรรัตน์ (สมัครลำดับที่ </span><span style="color: #131313;">30)</span></p>
+        <p style="margin-left: 40px;"><span style="color: #131313;">4. </span><span style="color: #131313;">คุณฉัตรฤดี&nbsp;&nbsp;</span><span style="color: #131313;"></span><span style="color: #131313;">ศุขตระกูล (สมัครลำดับที่ </span><span style="color: #131313;">40)</span></p>
+        <p style="margin-bottom: 0.0001pt; margin-left: 40px;"><span style="color: #131313;">5. </span><span style="color: #131313;">คุณพิมพ์ชนก&nbsp;&nbsp;</span><span style="color: #131313;"></span><span style="color: #131313;">ตั้งเทียมศิริกุล (สมัครลำดับที่ </span><span style="color: #131313;">50)</span></p>
+        <p>&nbsp;</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200824T080348Z
+  - Version: 5
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200902T091225Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sirisak
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p style="margin-top: 0cm;"><strong><span style="color: #e87722;">ประกาศรายชื่อผู้โชคดี</span></strong></p>
+        <p style="margin-top: 0cm;"><strong><span style="color: #e87722;">&nbsp;</span></strong></p>
+        <p><strong><span style="color: #e87722;">กิจกรรมครั้งที่ </span></strong><strong><span style="color: #e87722;">1 </span></strong><strong><span style="color: #e87722;">วันที่ </span></strong><strong><span style="color: #e87722;">7 </span></strong><strong><span style="color: #e87722;">สิงหาคม ถึง </span></strong><strong><span style="color: #e87722;">9 </span></strong><strong><span style="color: #e87722;">สิงหาคม </span></strong><strong><span style="color: #e87722;">2563</span></strong></p>
+        <p><strong><span style="color: #131313;">ลูกค้าที่ได้รับ ตุ๊กตา / หมอนรองคอ </span></strong><strong><span style="color: #131313;">KOOKI </span></strong><strong><span style="color: #131313;">ได้แก่</span></strong></p>
+        <p style="margin-left: 40px;"><span style="color: #131313;">1. </span><span style="color: #131313;">คุณจารุพรรณ์&nbsp; ดวงใจ (สมัครลำดับที่ </span><span style="color: #131313;">10)</span></p>
+        <p style="margin-left: 40px;"><span style="color: #131313;">2. </span><span style="color: #131313;">คุณอรพันธ์&nbsp; อยู่ศิริ (สมัครลำดับที่ </span><span style="color: #131313;">20)</span></p>
+        <p style="margin-left: 40px;"><span style="color: #131313;">3. </span><span style="color: #131313;">คุณดาวใจ&nbsp; พรประสพ (สมัครลำดับที่ </span><span style="color: #131313;">30)</span></p>
+        <p style="margin-left: 40px;"><span style="color: #131313;">4. </span><span style="color: #131313;">คุณอภิพิชญ์&nbsp;&nbsp;</span><span style="color: #131313;"></span><span style="color: #131313;">ภูตีนนทกูร (สมัครลำดับที่ </span><span style="color: #131313;">40)</span></p>
+        <p><span style="color: #131313;">&nbsp;</span></p>
+        <p><strong><span style="color: #e87722;">กิจกรรมครั้งที่ </span></strong><strong><span style="color: #e87722;">2 </span></strong><strong><span style="color: #e87722;">วันที่ </span></strong><strong><span style="color: #e87722;">14 </span></strong><strong><span style="color: #e87722;">สิงหาคม ถึง </span></strong><strong><span style="color: #e87722;">16 </span></strong><strong><span style="color: #e87722;">สิงหาคม </span></strong><strong><span style="color: #e87722;">2563</span></strong></p>
+        <p><strong><span style="color: #131313;">ลูกค้าที่ได้รับ กระเป๋าเอฟดับบลิวดี ได้แก่</span></strong></p>
+        <p style="margin-left: 40px;"><span style="color: #131313;">1. </span><span style="color: #131313;">คุณธมลวรรณ&nbsp;&nbsp;</span><span style="color: #131313;"></span><span style="color: #131313;">ศิริพฤกษชาด (สมัครลำดับที่ </span><span style="color: #131313;">10)</span></p>
+        <p style="margin-left: 40px;"><span style="color: #131313;">2. </span><span style="color: #131313;">คุณวิลาสิณี&nbsp;&nbsp;</span><span style="color: #131313;"></span><span style="color: #131313;">วันชัย (สมัครลำดับที่ </span><span style="color: #131313;">20)</span></p>
+        <p style="margin-left: 40px;"><span style="color: #131313;">3. </span><span style="color: #131313;">คุณกาญจนา&nbsp;&nbsp;</span><span style="color: #131313;"></span><span style="color: #131313;">เพ็ชรรัตน์ (สมัครลำดับที่ </span><span style="color: #131313;">30)</span></p>
+        <p style="margin-left: 40px;"><span style="color: #131313;">4. </span><span style="color: #131313;">คุณฉัตรฤดี&nbsp;&nbsp;</span><span style="color: #131313;"></span><span style="color: #131313;">ศุขตระกูล (สมัครลำดับที่ </span><span style="color: #131313;">40)</span></p>
+        <p style="margin-bottom: 0.0001pt; margin-left: 40px;"><span style="color: #131313;">5. </span><span style="color: #131313;">คุณพิมพ์ชนก&nbsp;&nbsp;</span><span style="color: #131313;"></span><span style="color: #131313;">ตั้งเทียมศิริกุล (สมัครลำดับที่ </span><span style="color: #131313;">50)</span></p>
+        <p>&nbsp;</p>
+        <p><strong><span style="color: #e87722;">กิจกรรมครั้งที่ 3&nbsp;</span></strong><strong><span style="color: #e87722;"></span></strong><strong><span style="color: #e87722;">วันที่ </span></strong><strong><span style="color: #e87722;">24 </span></strong><strong><span style="color: #e87722;">สิงหาคม ถึง </span></strong><strong><span style="color: #e87722;">26 </span></strong><strong><span style="color: #e87722;">สิงหาคม </span></strong><strong><span style="color: #e87722;">2563</span></strong></p>
+        <p><strong><span style="color: #131313;">ลูกค้าที่ได้รับ กระบอกน้ำเอฟดับบลิวดี&nbsp;</span></strong><strong><span style="color: #131313;">ได้แก่</span></strong></p>
+        <p style="margin-left: 40px;">1.&nbsp;<span>คุณณรงค์ ขันแก้ว&nbsp;</span>(สมัครลำดับที่&nbsp;10)</p>
+        <p style="margin-left: 40px;">2.&nbsp;<span>คุณพัชราภรณ์ อินทร์มณี&nbsp;</span>(สมัครลำดับที่&nbsp;20)</p>
+        <p style="margin-left: 40px;">3.&nbsp;<span>คุณศิริวัฒน์ พรกิติพงษ์&nbsp;</span>(สมัครลำดับที่&nbsp;30)</p>
+        <p style="margin-left: 40px;">4.&nbsp;<span>คุณธนวรรธน์ กุลกานต์สวัสดิ์</span> (สมัครลำดับที่&nbsp;40)</p>
+        <p style="margin-bottom: 0.0001pt; margin-left: 40px;">5.&nbsp;<span>คุณศิริกานดา ตั้งสมสุข&nbsp;</span>(สมัครลำดับที่&nbsp;50)</p>
+        <p style="margin-left: 40px;">6.&nbsp;<span>คุณธัญวิโรจน์ คงสง&nbsp;</span>(สมัครลำดับที่ 60)</p>
+        <p style="margin-left: 40px;">7.&nbsp;<span>คุณพนัส เกิดแสง&nbsp;</span>(สมัครลำดับที่ 70)</p>
+        <p style="margin-left: 40px;">8.&nbsp;<span>คุณเกษมณี ทองดี</span> (สมัครลำดับที่ 80)</p>
+        <p style="margin-left: 40px;">9.&nbsp;<span>คุณขนิษฐา ยะรังวงษ์</span> (สมัครลำดับที่ 90)</p>
+        <p style="margin-bottom: 0.0001pt; margin-left: 40px;">10.&nbsp;<span>คุณดนัย น้าสกุล&nbsp;</span>(สมัครลำดับที่ 100)</p>
+        <p style="margin-left: 40px;">11.&nbsp;<span>คุณภัทรธิรา วัฒนวิจิตรสกุล</span> (สมัครลำดับที่ 110)</p>
+        <p style="margin-left: 40px;">12.&nbsp;<span>คุณพิมฐ์นภัสค์ วงศ์นาป่า&nbsp;</span>(สมัครลำดับที่ 120)</p>
+        <p style="margin-left: 40px;">13.&nbsp;<span>คุณเกียรติชัย รุ่งมณีพิพัฒน์&nbsp;</span>(สมัครลำดับที่ 130)</p>
+        <p style="margin-left: 40px;">14.&nbsp;<span>คุณธนกร จงอุตส่าห์&nbsp;</span>(สมัครลำดับที่ 140)</p>
+        <p style="margin-bottom: 0.0001pt; margin-left: 40px;">15.&nbsp;<span>คุณสุรกฤษฏิ์ สุขสกุล&nbsp;</span>(สมัครลำดับที่ 150)</p>
+        <p style="margin-left: 40px;">16.&nbsp;<span>คุณอังค์วราห์ สัจจรักษ์&nbsp;</span>(สมัครลำดับที่ 160)</p>
+        <p style="margin-left: 40px;">17.&nbsp;<span>คุณอรัญญา ปิ่นคำ&nbsp;</span>(สมัครลำดับที่ 170)</p>
+        <p style="margin-left: 40px;">18.&nbsp;<span>คุณอารีรัตน์ แป้นจันทร์&nbsp;</span>(สมัครลำดับที่ 180)</p>
+        <p style="margin-left: 40px;">19.&nbsp;<span>คุณบรรพต ขาวสลับ&nbsp;</span>(สมัครลำดับที่ 190)</p>
+        <p style="margin-bottom: 0.0001pt; margin-left: 40px;">20.&nbsp;<span>คุณสิริลักษณ์ ตันติประยุกต์&nbsp;</span>(สมัครลำดับที่ 200)</p>
+        <p style="margin-left: 40px;">21.&nbsp;<span>คุณณภาภัช ทองน่วม</span> (สมัครลำดับที่ 210)</p>
+        <p style="margin-bottom: 0.0001pt; margin-left: 40px;">22.&nbsp;<span>คุณปิยวรรณ ไชยผล&nbsp;</span>(สมัครลำดับที่ 220)</p>
+        <p style="margin-left: 40px;">23.&nbsp;<span>คุณวรวุธ วงษ์วิเชียร&nbsp;</span>(สมัครลำดับที่ 230)</p>
+        <p style="margin-left: 40px;">24.&nbsp;<span>คุณอารีรัตน์ ชัยวัง</span> (สมัครลำดับที่ 240)</p>
+        <p style="margin-bottom: 0.0001pt; margin-left: 40px;">25.&nbsp;<span>คุณอริสรา ติรวัฒนานนท์&nbsp;</span>(สมัครลำดับที่ 250)</p>
+        <p style="margin-left: 40px;">26.&nbsp;<span>คุณสุภาวดี สุวรรณพันธ์&nbsp;</span>(สมัครลำดับที่ 260)</p>
+        <p style="margin-left: 40px;">27.&nbsp;<span>คุณณัฐชัย กุลสุวรรณ&nbsp;</span>(สมัครลำดับที่ 270)</p>
+        <p style="margin-left: 40px;">28.&nbsp;<span>คุณวันเพ็ญ ชมเอ&nbsp;</span>(สมัครลำดับที่ 280)</p>
+        <p style="margin-left: 40px;">29.&nbsp;<span>คุณเอกวิทย์ พิมพาแป้น&nbsp;</span>(สมัครลำดับที่ 290)</p>
+        <p style="margin-bottom: 0.0001pt; margin-left: 40px;">30.&nbsp;<span>คุณจันทัปปภา พรมดวง&nbsp;</span>(สมัครลำดับที่ 300)</p>
+        <p style="margin-left: 40px;">31.&nbsp;<span>คุณภิญโญ ธรรมสุวรรณ&nbsp;</span>(สมัครลำดับที่ 310)</p>
+        <p style="margin-left: 40px;">32.&nbsp;<span>คุณธีรวัฒน์ จัดดี&nbsp;</span>(สมัครลำดับที่ 320)</p>
+        <p style="margin-left: 40px;">33.&nbsp;<span>คุณพิศลย์ พร้อมจรรยากุล&nbsp;</span>(สมัครลำดับที่ 330)</p>
+        <p style="margin-left: 40px;">34.&nbsp;<span>คุณสุดารัตน์ นัดดาเวช&nbsp;</span>(สมัครลำดับที่ 340)</p>
+        <p style="margin-bottom: 0.0001pt; margin-left: 40px;">35.&nbsp;<span>คุณสุชาดา วงษ์สอาด</span> (สมัครลำดับที่ 350)</p>
+        <p>&nbsp;</p>
+        <p><strong><span style="color: #e87722;">กิจกรรมครั้งที่ 4&nbsp;</span></strong><strong><span style="color: #e87722;"></span></strong><strong><span style="color: #e87722;">วันที่ 28&nbsp;</span></strong><strong><span style="color: #e87722;"></span></strong><strong><span style="color: #e87722;">สิงหาคม ถึง </span></strong><strong><span style="color: #e87722;">30 </span></strong><strong><span style="color: #e87722;">สิงหาคม </span></strong><strong><span style="color: #e87722;">2563</span></strong></p>
+        <p><strong><span style="color: #131313;">ลูกค้าที่ได้รับ ถุงทะเลเอฟดับบลิวดี ได้แก่</span></strong></p>
+        <p style="margin-left: 40px;"><span style="color: #131313;">1. คุณสวรส ภู่ขจร&nbsp;</span><span style="color: #131313;">(สมัครลำดับที่ </span><span style="color: #131313;">10)</span></p>
+        <p style="margin-left: 40px;"><span style="color: #131313;">2. คุณฌัลลิกา พรหมมาพันธุ์</span><span style="color: #131313;"> (สมัครลำดับที่ </span><span style="color: #131313;">20)</span></p>
+        <p style="margin-left: 40px;"><span style="color: #131313;">3.&nbsp;คุณอนงค์นุช อภิชิตพงศ์พันธุ์</span><span style="color: #131313;">&nbsp;(สมัครลำดับที่ </span><span style="color: #131313;">30)</span></p>
+        <p style="margin-left: 40px;"><span style="color: #131313;">4. คุณแพรวนภา สายสิงห์</span><span style="color: #131313;"> (สมัครลำดับที่ </span><span style="color: #131313;">40)</span></p>
+        <p style="margin-bottom: 0.0001pt; margin-left: 40px;"><span style="color: #131313;">5. คุณศุภรดา เผือกงาม</span><span style="color: #131313;"> (สมัครลำดับที่ </span><span style="color: #131313;">50)</span></p>
+        <p style="margin-left: 40px;">6.&nbsp;<span>คุณจรัญญาพร ทัฬหวรรัตน์&nbsp;</span>(สมัครลำดับที่ 60)</p>
+        <p style="margin-left: 40px;">7.&nbsp;<span>คุณพนิดา สุวรรณไพบูลย์&nbsp;</span>(สมัครลำดับที่ 70)</p>
+        <p style="margin-left: 40px;">8.&nbsp;<span>คุณกาญจนา เป้าเอี่ยม</span> (สมัครลำดับที่ 80)</p>
+        <p style="margin-left: 40px;">9.&nbsp;<span>คุณรังเรข จุมปีจิติ&nbsp;</span>(สมัครลำดับที่ 90)</p>
+        <p style="margin-bottom: 0.0001pt; margin-left: 40px;">10.&nbsp;<span>คุณอัญพัชน์ ยศเลิศลักษณ์&nbsp;</span>(สมัครลำดับที่ 100)</p>
+        <p style="margin-left: 40px;">11.&nbsp;<span>คุณวิชัย อาเคอ&nbsp;</span>(สมัครลำดับที่ 110)</p>
+        <p style="margin-left: 40px;">12.&nbsp;<span>คุณมาลี เพ็ชรณสังกุล&nbsp;</span>(สมัครลำดับที่ 120)</p>
+        <p style="margin-left: 40px;">13.&nbsp;<span>คุณทรงสิริวรรณ เลิศณรงค์</span> (สมัครลำดับที่ 130)</p>
+        <p style="margin-left: 40px;">14.&nbsp;<span>คุณวนา เวศย์วิจักษณ์&nbsp;</span>(สมัครลำดับที่ 140)</p>
+        <p style="margin-bottom: 0.0001pt; margin-left: 40px;">15.&nbsp;<span>คุณดวงกมล ฐิติวรนันท์กุล</span> (สมัครลำดับที่ 150)</p>
+        <p style="margin-left: 40px;">16.&nbsp;<span>คุณวิชัย ผลาหาญ</span> (สมัครลำดับที่ 160)</p>
+        <p style="margin-left: 40px;">17.&nbsp;<span>คุณมานิต เจนสาธิต</span> (สมัครลำดับที่ 170)</p>
+        <p style="margin-left: 40px;">18.&nbsp;<span>คุณทศวรรษ โชติธรรมธรา&nbsp;</span>(สมัครลำดับที่ 180)</p>
+        <p style="margin-left: 40px;">19.&nbsp;<span>คุณรัตนา ปี่แก้ว&nbsp;</span>(สมัครลำดับที่ 190)</p>
+        <p style="margin-bottom: 0.0001pt; margin-left: 40px;">20.&nbsp;<span>คุณศรีจันทร์ จันทร์ชีวะ</span> (สมัครลำดับที่ 200)</p>
+        <p style="margin-left: 40px;">21.&nbsp;<span>คุณเยาวลักษณ์ นอลา&nbsp;</span>(สมัครลำดับที่ 210)</p>
+        <p style="margin-bottom: 0.0001pt; margin-left: 40px;">22.&nbsp;<span>คุณวารินทร์ หอมขจร</span> (สมัครลำดับที่ 220)</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200902T091225Z

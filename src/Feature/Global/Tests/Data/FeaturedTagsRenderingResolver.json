@@ -1,0 +1,191 @@
+{
+    "Context Item": {
+
+        "title": {
+            "value": "Your daily inspiration"
+        },
+        "description": {
+            "value": "Looking for health advice, saving tips, or fitness goals? Explore a variety of FWD content that will energies you to celebrate living."
+        },
+        "featuredTags": [
+            {
+                "id": "4f3a2d61-bba0-47e8-afac-1a0873ac1d34",
+                "fields": {
+                    "name": {
+                        "value": "Travel"
+                    },
+                    "searchName": {
+                        "value": "Travel"
+                    },
+                    "articlePillarPage": {
+                        "value": "{A446783F-4B78-42D0-A902-0E9C2BF27ED4}"
+                    },
+                    "mobileImage": {
+                        "value": {
+                            "src": "/-/media/images/fwd/ii1a7309.jpg?rev=70f2e67fb78e40d782371c7edda85194",
+                            "x1": "/-/media/images/fwd/ii1a7309.jpg?rev=70f2e67fb78e40d782371c7edda85194&cx=0&cy=0&cw=160&ch=106&hash=D478430874326C596A77E10CD359CAFF",
+                            "x2": "/-/media/images/fwd/ii1a7309.jpg?rev=70f2e67fb78e40d782371c7edda85194&cx=0&cy=0&cw=320&ch=212&hash=02CD51E41496685EED411066C2EA5FF8"
+                        }
+                    },
+                    "image": {
+                        "value": {
+                            "src": "/-/media/images/fwd/ii1a7309.jpg?rev=70f2e67fb78e40d782371c7edda85194",
+                            "x1": "/-/media/images/fwd/ii1a7309.jpg?rev=70f2e67fb78e40d782371c7edda85194&cx=0&cy=0&cw=240&ch=135&hash=7A762AA9A4F17F06CB729BFB8FB18DB4",
+                            "x2": "/-/media/images/fwd/ii1a7309.jpg?rev=70f2e67fb78e40d782371c7edda85194&cx=0&cy=0&cw=480&ch=270&hash=FCC48AB945D5876E79D8F3CEEBF2DFCC"
+                        }
+                    }
+                }
+            },
+            {
+                "id": "4c6b8cb9-d359-4498-a1cd-107cbb0843fe",
+                "fields": {
+                    "name": {
+                        "value": "Dining"
+                    },
+                    "searchName": {
+                        "value": "Dining"
+                    },
+                    "articlePillarPage": {
+                        "value": "{A446783F-4B78-42D0-A902-0E9C2BF27ED4}"
+                    },
+                    "mobileImage": {
+                        "value": {
+                            "src": "/-/media/images/fwd/ii1a7309.jpg?rev=70f2e67fb78e40d782371c7edda85194",
+                            "x1": "/-/media/images/fwd/ii1a7309.jpg?rev=70f2e67fb78e40d782371c7edda85194&cx=0&cy=0&cw=160&ch=106&hash=D478430874326C596A77E10CD359CAFF",
+                            "x2": "/-/media/images/fwd/ii1a7309.jpg?rev=70f2e67fb78e40d782371c7edda85194&cx=0&cy=0&cw=320&ch=212&hash=02CD51E41496685EED411066C2EA5FF8"
+                        }
+                    },
+                    "image": {
+                        "value": {
+                            "src": "/-/media/images/fwd/ii1a7309.jpg?rev=70f2e67fb78e40d782371c7edda85194",
+                            "x1": "/-/media/images/fwd/ii1a7309.jpg?rev=70f2e67fb78e40d782371c7edda85194&cx=0&cy=0&cw=240&ch=135&hash=7A762AA9A4F17F06CB729BFB8FB18DB4",
+                            "x2": "/-/media/images/fwd/ii1a7309.jpg?rev=70f2e67fb78e40d782371c7edda85194&cx=0&cy=0&cw=480&ch=270&hash=FCC48AB945D5876E79D8F3CEEBF2DFCC"
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1a0882d1-29e0-44f1-a452-1bfa66656b0e",
+                "fields": {
+                    "name": {
+                        "value": "Sport"
+                    },
+                    "searchName": {
+                        "value": "Sport"
+                    },
+                    "articlePillarPage": {
+                        "value": "{A446783F-4B78-42D0-A902-0E9C2BF27ED4}"
+                    },
+                    "mobileImage": {
+                        "value": {
+                            "src": "/-/media/images/fwd/ii1a9580.jpg?rev=24ae1be61a2a4e09aa7198af6f97676f",
+                            "x1": "/-/media/images/fwd/ii1a9580.jpg?rev=24ae1be61a2a4e09aa7198af6f97676f&cx=0&cy=0&cw=160&ch=106&hash=2C67E7F2DB542B77D50F9EEE7772FF86",
+                            "x2": "/-/media/images/fwd/ii1a9580.jpg?rev=24ae1be61a2a4e09aa7198af6f97676f&cx=0&cy=0&cw=320&ch=212&hash=1E0E35422B08BBDEBC4489DE63F392EF"
+                        }
+                    },
+                    "image": {
+                        "value": {
+                            "src": "/-/media/images/fwd/ii1a9580.jpg?rev=24ae1be61a2a4e09aa7198af6f97676f",
+                            "x1": "/-/media/images/fwd/ii1a9580.jpg?rev=24ae1be61a2a4e09aa7198af6f97676f&cx=0&cy=0&cw=240&ch=135&hash=461765B00F268D703A689788EC25AE86",
+                            "x2": "/-/media/images/fwd/ii1a9580.jpg?rev=24ae1be61a2a4e09aa7198af6f97676f&cx=0&cy=0&cw=480&ch=270&hash=744332FE4E24F0DB4EA217280DE074F5"
+                        }
+                    }
+                }
+            },
+            {
+                "id": "27b45f29-dd3f-42a5-a19f-5193a9205d68",
+                "fields": {
+                    "name": {
+                        "value": "Health"
+                    },
+                    "searchName": {
+                        "value": "Health"
+                    },
+                    "articlePillarPage": {
+                        "value": "{A446783F-4B78-42D0-A902-0E9C2BF27ED4}"
+                    },
+                    "mobileImage": {
+                        "value": {
+                            "src": "/-/media/images/fwd/ii1a03020.jpg?rev=be8b57e904f54790822745d163d077a2",
+                            "x1": "/-/media/images/fwd/ii1a03020.jpg?rev=be8b57e904f54790822745d163d077a2&cx=0&cy=0&cw=160&ch=106&hash=83BB0318060C4A9B06A340A613A96E70",
+                            "x2": "/-/media/images/fwd/ii1a03020.jpg?rev=be8b57e904f54790822745d163d077a2&cx=0&cy=0&cw=320&ch=212&hash=E4F734EDF1CAD9B6D733530CFA2AE068"
+                        }
+                    },
+                    "image": {
+                        "value": {
+                            "src": "/-/media/images/fwd/ii1a03020.jpg?rev=be8b57e904f54790822745d163d077a2",
+                            "x1": "/-/media/images/fwd/ii1a03020.jpg?rev=be8b57e904f54790822745d163d077a2&cx=0&cy=0&cw=240&ch=135&hash=512DCA05F1338ADC0E3FF3CFEE69AE71",
+                            "x2": "/-/media/images/fwd/ii1a03020.jpg?rev=be8b57e904f54790822745d163d077a2&cx=0&cy=0&cw=480&ch=270&hash=DCC76361674DC221A5AC6EE216DFB4C0"
+                        }
+                    }
+                }
+            }
+        ],
+        "apiAllowPagination": {
+            "value": false
+        },
+        "apiContentType": {
+            "id": "20162863-ae86-4b42-9aec-b7a81a345553",
+            "fieldType": "Droplink",
+            "fieldName": "apiContentType",
+            "url": "/sitecore/content/fwd/global/settings/api-query/search-api/articles",
+            "fields": {
+                "apiName": {
+                    "value": "Articles"
+                },
+                "key": {
+                    "value": "6189bfb22950467db3410c99acba2681"
+                },
+                "value": {
+                    "value": " http://localhost:7071/api/{language}/GetArticleList"
+                }
+            }
+        },
+        "apiMobilePageSize": {
+            "value": ""
+        },
+        "apiPageSize": {
+            "value": "0"
+        },
+        "apiSortBy": {
+            "id": "c27171a2-8ac2-4005-8076-dc7489e3997b",
+            "fieldType": "Droplink",
+            "fieldName": "apiSortBy",
+            "url": "/sitecore/content/fwd/global/settings/api-query/sort-by/date",
+            "fields": {
+                "key": {
+                    "value": "Date"
+                },
+                "value": {
+                    "value": "date_dt desc"
+                }
+            }
+        },
+        "apiSubType": {
+            "id": "08b2f110-35f4-4ea3-86e8-daf511bb577d",
+            "fieldType": "Grouped Droplink",
+            "fieldName": "apiSubType",
+            "url": "/content/tags/commontags/contentsubtype/articles/max",
+            "fields": {
+                "name": {
+                    "value": "Max"
+                },
+                "searchName": {
+                    "value": "Max"
+                },
+                "articlePillarPage": {
+                    "value": ""
+                },
+                "mobileImage": {
+                    "value": {}
+                },
+                "image": {
+                    "value": {}
+                }
+            }
+        },
+        "gaCategoryName": {
+            "value": ""
+        }
+    }
+}

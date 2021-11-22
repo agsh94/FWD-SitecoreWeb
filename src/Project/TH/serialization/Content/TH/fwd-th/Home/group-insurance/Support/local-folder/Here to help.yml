@@ -1,0 +1,60 @@
+﻿---
+ID: "7e118ba7-a023-482c-a199-0cf5ec85df5a"
+Parent: "00ed85e8-9c1b-40d5-939d-82bc58932664"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/Support/local-folder/Here to help"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: We're here to help every step along the way
+    - ID: "178df5ea-8972-40e0-9c6c-ddb4aeec732c"
+      Hint: subTitle
+      Value: 
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{06DBC36E-1F3D-4975-A018-8BF6FD552A14}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191227T091404Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{06DBC36E-1F3D-4975-A018-8BF6FD552A14}" cropx="0.44" cropy="0.45" focusx="-0.12083371480305993" focusy="0.09062504768371582" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: เราพร้อมดูแลคุณ ในทุกย่างก้าว ตลอดทุกเส้นทาง
+    - ID: "178df5ea-8972-40e0-9c6c-ddb4aeec732c"
+      Hint: subTitle
+      Value: 
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{06DBC36E-1F3D-4975-A018-8BF6FD552A14}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200213T061255Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{06DBC36E-1F3D-4975-A018-8BF6FD552A14}" cropx="0.47" cropy="0.45" focusx="-0.0625" focusy="0.09375"></image>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

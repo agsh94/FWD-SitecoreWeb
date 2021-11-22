@@ -1,0 +1,47 @@
+﻿---
+ID: "d6ec9fe1-6716-41f9-b260-777a3a0df396"
+Parent: "524be966-bedc-4a0e-93d3-9a420bb10511"
+Template: "830501f6-6365-41e4-a1ab-b3b143f64b25"
+Path: "/sitecore/content/fwd/fwd-th/Components/country-selector/Indonesia"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200506T091315Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="FWD Indonesia" linktype="external" url="https://www.fwd.co.id/" anchor="" title="FWD Indonesia" target="_blank" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: Indonesia
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200506T091234Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="FWD Indonesia" linktype="external" url="https://www.fwd.co.id/" anchor="" title="FWD Indonesia" target="_blank" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: อินโดนีเซีย

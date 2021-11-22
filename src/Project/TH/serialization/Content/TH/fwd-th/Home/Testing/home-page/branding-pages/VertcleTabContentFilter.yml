@@ -1,0 +1,111 @@
+﻿---
+ID: "331e2806-3962-46d9-b98e-57b5d0e52406"
+Parent: "70a1ca3d-7ffc-40b8-8624-846e1c32a84d"
+Template: "40da990f-39dd-4d66-a9be-849f4ecffd22"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/VertcleTabContentFilter"
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{C879EB9D-195D-4984-B164-F1DD756158FA}"
+          s:par="HeroBannerVariant&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{2476A374-8836-45FE-AF59-3CD0AE06BE82}"
+          s:ds="{C5F37673-E5DC-418B-B725-7E3348896B86}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;contentBlockVariant=%7BB8818C35-0526-4FB3-8E2B-7F5CFD14E141%7D&amp;anchorText&amp;backgroundColor=%7BE36D5F2A-3DA5-4920-8A57-D681EEF00922%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{57AD34E9-D9E1-4B92-A392-E0A41486C935}"
+          s:par="buttonAlignment=%7BCF02F396-DAFD-448E-BC19-15E66C7CBA54%7D&amp;variant&amp;numberOfColumns=%7B463993C4-D100-40EB-9898-6A8E60F3BB34%7D&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{D6134FB5-960B-4784-8AE2-7231655F27DC}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;backgroundColor=%7BF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+        <r
+          uid="{B1198C94-F62C-444B-8E68-054E74C23D44}"
+          p:after="r[@uid='{D6134FB5-960B-4784-8AE2-7231655F27DC}']"
+          s:ds="{63AF88EE-1EF8-41EF-AEEB-D7398B128FB4}"
+          s:id="{230E4871-81C5-469D-9192-4F3E0E7BE90D}"
+          s:par="tabVariant=%7B58786B8C-EA70-4C2E-B456-B9A890633B26%7D&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{17B1E821-DE70-4BEA-A09D-F5AFEA80A86F}"
+          p:after="r[@uid='{B1198C94-F62C-444B-8E68-054E74C23D44}']"
+          s:ds="{B6841946-98E2-4675-A7D7-E37EB976ACF0}"
+          s:id="{230E4871-81C5-469D-9192-4F3E0E7BE90D}"
+          s:par="tabVariant=%7B461D5949-895D-456B-BD3A-3D6829726E84%7D&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{45B990BB-93CA-45A1-889C-79823F440EA6}"
+          p:after="r[@uid='{17B1E821-DE70-4BEA-A09D-F5AFEA80A86F}']"
+          s:ds="{683B485D-7D26-4675-897F-5D828F6ABBCF}"
+          s:id="{230E4871-81C5-469D-9192-4F3E0E7BE90D}"
+          s:par="tabVariant=%7B461D5949-895D-456B-BD3A-3D6829726E84%7D&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{57F6B21C-041E-4D18-8297-FC582A527BB1}"
+          p:after="r[@uid='{45B990BB-93CA-45A1-889C-79823F440EA6}']"
+          s:ds="{B927E2EF-D248-4DF3-9345-13B1AF0DFAA2}"
+          s:id="{230E4871-81C5-469D-9192-4F3E0E7BE90D}"
+          s:par="tabVariant=%7B461D5949-895D-456B-BD3A-3D6829726E84%7D&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{1683D299-AD7E-4883-AFE4-DD278722B4C8}"
+          p:after="r[@uid='{57F6B21C-041E-4D18-8297-FC582A527BB1}']"
+          s:ds="{9440FE9E-642F-4FD8-B5DF-1FC15A546FE8}"
+          s:id="{230E4871-81C5-469D-9192-4F3E0E7BE90D}"
+          s:par="tabVariant=%7B461D5949-895D-456B-BD3A-3D6829726E84%7D&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{95D9BE89-F0A1-460F-BCF4-CDF90BBEEA6F}"
+          p:after="*[1=2]"
+          s:ds="{8585963D-FD14-40A7-8AE7-A4584356245C}"
+          s:id="{230E4871-81C5-469D-9192-4F3E0E7BE90D}"
+          s:par="tabVariant=%7B461D5949-895D-456B-BD3A-3D6829726E84%7D&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{9E73D12F-3814-4CD5-B0FC-4169AB38CCA3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200902T060157Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "64e5dd33-f8a8-40fb-8e9f-6c53c3f64064"
+      Hint: pagetitle
+      Value: VertcleTabContentFilter
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: VertcleTabContentFilter
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200908T064432Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: VertcleTabContentFilter

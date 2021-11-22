@@ -1,0 +1,42 @@
+﻿---
+ID: "4eb7396c-509c-4c34-98ea-3f410a759fbf"
+Parent: "29deac75-41db-4f6c-97c2-7f032e7db805"
+Template: "69b601a8-8555-4411-8c17-aa91671eec32"
+Path: "/sitecore/content/fwd/fwd-th/Content/FacilityTypes/individual-hospitals-and-clinics"
+DB: master
+SharedFields:
+- ID: "66fed3d4-156e-4a87-af87-39b8851fa6ae"
+  Hint: filterBy
+  Value: "{D7D30236-45CF-42E6-959C-1A2CE6088BE7}"
+- ID: "a903eb23-a8d6-4a9a-bd27-4bd363b1fcf0"
+  Hint: searchName
+  Value: "Individual-Hospitals-and-Clinics"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Individual Hospitals and Clinics
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: Individual
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T065618Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: รายบุคคล
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T064545Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

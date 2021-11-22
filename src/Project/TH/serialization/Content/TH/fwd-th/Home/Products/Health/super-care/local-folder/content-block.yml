@@ -1,0 +1,91 @@
+﻿---
+ID: "d5956f17-6825-4b24-882e-45cd621f6b9b"
+Parent: "8db46106-2cdb-453b-abbb-25943b420008"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/super-care/local-folder/content-block"
+DB: master
+SharedFields:
+- ID: "9cb76228-fc26-48b7-bd66-1c6e133b625d"
+  Hint: secondaryLinkButtonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Content Block
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "1189664e-c462-4227-9fea-efb77771ad71"
+      Hint: enableFeaturedTags
+      Type: Checkbox
+      Value: 1
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191107T112946Z
+    - ID: "2d067f06-5100-49e0-83d8-64858a7c9b50"
+      Hint: videoLink
+      Value: 
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: 
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        We know that if you become ill, you’ll want to be treated as quickly as possible.
+        But we also know that many people hesitate because they have limited medical protection. FWD’s Super CARE upgrades your healthcare, so you won’t need to think twice about getting the treatment you need. And you’ll never have to wait until it gets worse.
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: 
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Get treatment as soon as you need it
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1189664e-c462-4227-9fea-efb77771ad71"
+      Hint: enableFeaturedTags
+      Type: Checkbox
+      Value: 1
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055202Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: 
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: เพราะเรารู้ว่า หากเจ็บป่วยขึ้นมา คุณย่อมต้องการได้รับการรักษาอย่างรวดเร็วและดีที่สุด และเราก็รู้ว่าหลายคนลังเลกับค่าใช้จ่ายที่จะเกิดขึ้นหากคุณต้องนอนโรงพยาบาล สวัสดิการด้านสุขภาพที่มีก็อาจจะไม่ครอบคลุมทุกค่าใช้จ่าย ซูเปอร์ แคร์ ประกันสุขภาพจากเอฟดับบลิวดีจึงยกระดับการดูแล เพื่อให้คุณเข้ารับการรักษาได้ทันทีโดยไม่ต้องกังวล
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: 
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ยกระดับการดูแล แคร์ทุกความต้องการ
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 

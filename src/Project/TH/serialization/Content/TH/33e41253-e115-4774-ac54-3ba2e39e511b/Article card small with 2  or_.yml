@@ -1,0 +1,24 @@
+﻿---
+ID: "ffff09a8-8e59-4880-b1be-9eb3f44c1e21"
+Parent: "33e41253-e115-4774-ac54-3ba2e39e511b"
+Template: "c24acda9-af2d-4f91-b736-509937cc444e"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/article-card/local-folder/Article card small with 2  or 3 lines heading in mobile"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200720T101519Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d7ce724c-2ece-4ca3-99ed-06b20e846322"
+      Hint: linkItems
+      Value: "{128A9A34-015D-493B-BDFE-8093893D510A}|{B5BBB1E9-66C5-4F0F-87B2-7D76EE848E65}|{77A1D089-ADE7-46A6-ABB2-D23AF39C2923}|{D0060934-FCEB-45A1-A78F-3EB7B2BF1D72}|{89635970-F556-4FB1-AC1B-9D75BA3F22E2}"
+    - ID: "f39b7a44-d8d3-467c-949d-5a6a33a9bb8a"
+      Hint: title
+      Value: Article card small with 2  or 3 lines heading in mobile

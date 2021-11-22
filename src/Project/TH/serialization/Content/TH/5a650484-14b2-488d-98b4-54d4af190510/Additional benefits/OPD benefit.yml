@@ -1,0 +1,72 @@
+﻿---
+ID: "5f28a23b-fae6-44bd-a335-74f4d3468958"
+Parent: "4947b799-27d7-4a49-876f-8bf6bc96c8ad"
+Template: "683bbabe-aadd-4e41-95eb-fd590132565d"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/fwd-healthy-max/Package5/AttributeFolder/Additional benefits/OPD benefit"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ecfd20e-1a1c-4143-9ad4-22a1374823bf"
+      Hint: value
+      Value: per visit
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T100417Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "5f64db6e-5306-48e3-b7ba-42955fc2b2d1"
+      Hint: leadingTextToolTip
+      Value: |
+        <span id="docs-internal-guid-37ba11c7-7fff-f76a-2180-a119f357ba5a"></span>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #006666;"><br />
+        </span></p>
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{4A21E77C-DFA5-478E-A24E-3D3ECE9961AD}"
+    - ID: "c46c42f1-4609-44be-af80-fd7b8e4b47a5"
+      Hint: leadingText
+      Value: THB 3,000
+    - ID: "d6e9084e-023d-4e83-8890-3be5f8c35b63"
+      Hint: trailingText
+      Value: (1 visit/day. Max 30 visits per year) 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ecfd20e-1a1c-4143-9ad4-22a1374823bf"
+      Hint: value
+      Value: 3,000  บาท ต่อครั้ง 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T100033Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "5f64db6e-5306-48e3-b7ba-42955fc2b2d1"
+      Hint: leadingTextToolTip
+      Value: 
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{4A21E77C-DFA5-478E-A24E-3D3ECE9961AD}"
+    - ID: "c46c42f1-4609-44be-af80-fd7b8e4b47a5"
+      Hint: leadingText
+      Value: 
+    - ID: "d6e9084e-023d-4e83-8890-3be5f8c35b63"
+      Hint: trailingText
+      Value: (1 ครั้ง ต่อวัน สูงสุดไม่เกิน 30 ครั้งต่อปี) 

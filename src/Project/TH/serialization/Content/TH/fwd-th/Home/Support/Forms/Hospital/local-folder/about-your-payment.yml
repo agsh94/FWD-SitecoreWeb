@@ -1,0 +1,105 @@
+﻿---
+ID: "ccdff363-b8ad-402d-be02-df5de764502e"
+Parent: "092db1a3-6802-42b8-921a-7c2463607397"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/Forms/Hospital/local-folder/about-your-payment"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: About your payment
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191226T094629Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p>Select, download and fill in the relevant form(s) below. The more accurate the information, the faster we can help </p>
+        <p>Are you one of our customers?</p>
+        
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: All the forms you need for FWD customers 
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Go to forms for FWD customers" anchor="" linktype="internal" class="" title=""  querystring="" id="{6EDDED5F-86D9-4C1B-82ED-846BB127475D}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200914T125746Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #333333;">Select, download and fill in the form you need so we can start processing your request(s) and get you the help you need.</span></p>
+        <p>Are you one of our customers?</p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200914T125746Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: All the forms you need for FWD customers 
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Go to forms for FWD customers" anchor="" linktype="internal" class="" title=""  querystring="" id="{6EDDED5F-86D9-4C1B-82ED-846BB127475D}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T085404Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p>เลือก ดาวน์โหลด และกรอกแบบฟอร์มที่คุณต้องการ ยิ่งคุณกรอกข้อมูลละเอียดมากเท่าไหร่ ยิ่งทำให้เราช่วยคุณได้รวดเร็วยิ่งขึ้น</p>
+        <p>คุณเป็นลูกค้าเอฟดับบลิวดีหรือไม่?</p>
+        
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: แบบฟอร์มต่างๆ สำหรับลูกค้าเอฟดับบลิวดี
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ไปที่หน้าแบบฟอร์มต่างๆ สำหรับลูกค้าเอฟดับบลิวดี" anchor="" linktype="internal" class="" title=""  querystring="" id="{6EDDED5F-86D9-4C1B-82ED-846BB127475D}" />

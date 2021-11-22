@@ -1,0 +1,14 @@
+@using Sitecore.ExperienceForms.Mvc.Html
+@model FWD.Foundation.Forms.CustomDropDownListViewModel
+
+<label for="@Html.IdFor(m => Model.Value)" api-name = "@Model.APIName" auto-suggest = "@Model.IsAutoSuggest" is-dynamicdropdown = "@Model.IsDynamicDropdown" node = "@Model.Node" general-error = "@Model.GeneralError" specific-error = "@Model.SpecificError" help-text="@Model.HelpText" class="@Model.LabelCssClass">@Html.DisplayTextFor(t => Model.Title)</label>
+<select id="@Html.IdFor(m => Model.Value)" name="@Html.NameFor(m => Model.Value)" class="@Model.CssClass" data-sc-tracking="@Model.IsTrackingEnabled" data-sc-field-name="@Model.Name" data-sc-field-key="@Model.ConditionSettings.FieldKey" @Html.GenerateUnobtrusiveValidationAttributes(m => m.Value)>
+    @if (Model.ShowEmptyItem)
+    {
+        <option label=" "></option>
+    }@foreach (var item in Model.Items)
+    {
+        <option value="@item.Value" selected="@item.Selected">@item.Text</option>
+    }
+</select>
+@Html.ValidationMessageFor(m => Model.Value)

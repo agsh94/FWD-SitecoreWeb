@@ -1,0 +1,83 @@
+﻿---
+ID: "3ee1204f-2a0b-4a9a-be6e-8576f02636c9"
+Parent: "d9c6779b-43e9-4106-8357-ad0510a8547c"
+Template: "b2d6d3cc-54af-43e5-83b9-b500efa0aa92"
+Path: "/sitecore/content/fwd/fwd-th/Home/Community"
+DB: master
+SharedFields:
+- ID: "3f9cc6f8-f003-47f4-8b4f-4d0137163bea"
+  Hint: contentType
+  Value: "{4FE0A16D-285F-4C41-9BFA-A1343B036CDF}"
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: "{FB2C4A8A-0593-44B7-B7C4-AE07AF4F8BB2}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+- ID: "be4e2ad7-6327-4c2f-9fe1-dbe9a2463c90"
+  Hint: subtype
+  Value: "{0D2D80E1-1FB0-43E9-805C-D1CBF54ED303}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}"
+          s:ph="   jss-header" />
+        <r
+          uid="{7A1DFC9C-7918-4790-B516-A4249D8FAAFD}"
+          s:ds="{4C8D9DFF-0E58-4300-9270-77E380F60603}"
+          s:par="HeroBannerVariant&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor=%7BF9F5FC4E-89D7-4701-A560-C0A7179384CB%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+        <r
+          uid="{BEE2C510-9FC3-45F0-AE37-A1D44D3A77FD}"
+          p:after="r[@uid='{7A1DFC9C-7918-4790-B516-A4249D8FAAFD}']"
+          s:ds="{3B9D905C-5EEB-4728-871A-11A0DC71B36B}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BF9F5FC4E-89D7-4701-A560-C0A7179384CB%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+        <r
+          uid="{11334338-1A2D-486D-AEAC-CCFB6D8E075B}"
+          p:after="*[1=2]"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{239257EA-B24F-4378-AC63-D77D248332B3}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Community
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T172120Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Caring for our community 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200330T055842Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: ใส่ใจในชุมชนของเรา

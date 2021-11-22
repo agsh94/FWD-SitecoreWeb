@@ -1,0 +1,21 @@
+﻿---
+ID: "37c7f6f3-1e89-4f33-b803-401c8b094e0a"
+Parent: "e4175e6f-cdb5-4175-bee4-e0ae09f3aa54"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Sport/running-man/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T132705Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: ซึ่งนั่นก็เป็นที่มาของเรื่องที่ผมกำลังจะเขียนถึง นั่นคือการฝึกซ้อมเพื่อให้บรรลุเป้าหมายที่เราตั้งเป้าไว้ ซึ่งพอพูดถึงการซ้อมเพื่อพัฒนาการวิ่ง หลายคนก็จะนึกถึงแต่การ &ldquo;ซ้อมวิ่ง&rdquo; ถามว่าถ้าอยากวิ่งดีขึ้นก็ต้องซ้อมวิ่งสิ ถามว่าถูกมั้ย...ถูกต้อง แต่ไม่ครบถ้วนทั้งหมด การฝึกซ้อมเพื่อพัฒนาการวิ่งนอกจาก &ldquo;การซ้อมวิ่ง&rdquo; ประกอบไปด้วย 2 หัวใจหลักๆ นั่นคือ

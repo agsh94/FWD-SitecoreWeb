@@ -1,0 +1,46 @@
+﻿---
+ID: "141637a2-5588-4e89-b7df-d555ae184819"
+Parent: "099d4e37-dcde-4f85-a11a-b455f590dbda"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/contentblock/local-folder/ContentBlock"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{02A5A5C7-C318-4919-B773-86A65BA98969}"
+- ID: "9cb76228-fc26-48b7-bd66-1c6e133b625d"
+  Hint: secondaryLinkButtonMode
+  Value: "{02A5A5C7-C318-4919-B773-86A65BA98969}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{68BE4375-2C18-4CAD-808A-6AC77720B96B}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ContentBlock
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200430T124810Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\testuser
+    - ID: "d0be2ac7-85f9-4ba4-91da-613370dbd6d6"
+      Hint: secondaryLink
+      Value: |
+        <link text="Terms and conditions" linktype="form" querystring="" target="" id="{B21F793F-F6E3-4DC4-BDB8-C56730E66B3B}" />
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Content Block 1
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Terms and conditions" linktype="modelpopup" querystring="" target="" id="{B21F793F-F6E3-4DC4-BDB8-C56730E66B3B}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 

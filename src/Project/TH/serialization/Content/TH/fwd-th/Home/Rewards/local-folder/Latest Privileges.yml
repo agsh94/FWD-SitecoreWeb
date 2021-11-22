@@ -1,0 +1,62 @@
+﻿---
+ID: "1d89e154-94cd-480d-a7e3-fd40d189fc43"
+Parent: "7bdb6756-1df2-47e1-8239-4a0edebe9edc"
+Template: "d9a88b8c-3b88-4428-820f-779e6c1991a6"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/local-folder/Latest Privileges"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "d3fe3a20-83db-44ee-b010-e26a2fcced15"
+  Hint: linkItems
+  Value: "{520C8DAE-8EF3-4046-862F-7A0C68FFD6A7}|{7F4FA45E-04B5-4BD8-91F0-43B21E61054D}|{82BB41B9-C830-4F9D-A3B6-1EA3BC636A09}|{3CD8C54D-D056-4DDD-B747-1D132929F715}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0bf240d5-8d38-41e4-a1bd-ae96553f5585"
+      Hint: title
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200219T091551Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0bf240d5-8d38-41e4-a1bd-ae96553f5585"
+      Hint: title
+      Value: สิทธิพิเศษและโปรโมชันล่าสุด
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200311T085740Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+  - Version: 2
+    Fields:
+    - ID: "0bf240d5-8d38-41e4-a1bd-ae96553f5585"
+      Hint: title
+      Value: สิทธิพิเศษและโปรโมชันล่าสุด
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200813T065054Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Chaiyawat
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200813T065054Z

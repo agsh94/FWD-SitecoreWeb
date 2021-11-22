@@ -1,0 +1,32 @@
+﻿---
+ID: "dcc31a4e-143e-4de3-995d-5b3cdf4f0a5e"
+Parent: "f78f231d-e18d-4e1e-beeb-e073c55c6bba"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/gypso/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200923T063543Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>3. เป็นเด็กบ้างก็ดี จิตใจจะได้เบิกบาน<br /><br />
+        “ยิปชอบการ์ตูน ยิปมีความสุข การเหลือพื้นที่ความเป็นเด็กในชีวิตเป็นสิ่งจำเป็นมากสำหรับยิป”</strong><br />
+        <br />
+        ไม่จำเป็นต้องซีเรียสและจริงจังไปเสียทุกเรื่อง ปล่อยที่ว่างในจิตใจให้มีความเป็นเด็กอยู่บ้างก็ได้ ย้อนไปทำในสิ่งที่ชอบที่อยากทำ เพื่อให้ความสุขได้มีพื้นที่เติบโตได้อย่างง่ายๆ แค่นี้ก็มีความสุขแล้ว...

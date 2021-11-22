@@ -1,0 +1,59 @@
+﻿---
+ID: "5ed6b147-d315-4601-8f9e-aa19d5945274"
+Parent: "c3a56568-bc46-4c43-9495-2e8691cf0789"
+Template: "cc866566-6b97-4bdc-814e-353b4d5dc8c0"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Health/cancer-knockout/package-i/Rider Plan Card"
+DB: master
+SharedFields:
+- ID: "139fac8d-ba0a-462c-a2e2-97b880ecb109"
+  Hint: minimumPremiumYearly
+  Value: 1000
+- ID: "54426e36-0a60-4ada-93f3-916e31cf73af"
+  Hint: minimumSumAssured
+  Value: 4000
+- ID: "653be724-02c5-4bb7-8813-833c6443e1e4"
+  Hint: planCode
+  Value: WN20N
+- ID: "902204f2-df95-45fa-b348-496743f27a4a"
+  Hint: maximumPremiumYearly
+  Value: 10000
+- ID: "9cb51dc0-7252-4372-8a9e-42fa7de2b4fd"
+  Hint: minAge
+  Value: "10-0-0"
+- ID: "b78d7fa0-a532-4f1a-90c1-98b0770294d4"
+  Hint: maxAge
+  Value: "25-0-0"
+- ID: "f41f9cfb-6e45-414e-aa8c-84b1c4148545"
+  Hint: maximumSumAssured
+  Value: 10000
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200130T105736Z
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: Rider Plan Card
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: Rider
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200311T095058Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: Rider Plan Card
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: Rider

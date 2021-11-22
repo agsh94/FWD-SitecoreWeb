@@ -1,0 +1,70 @@
+﻿---
+ID: "108de2f4-0a3f-4c38-b319-e1470ae485d7"
+Parent: "732bf284-8a9a-4f81-b42b-488370390366"
+Template: "e9fe119c-894c-43bd-bfd0-857be1acbe38"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Claims/local-folder/find-a-form"
+DB: master
+SharedFields:
+- ID: "2bb03f6c-a424-487e-b70e-8b96a004e219"
+  Hint: gaCategoryName
+  Value: FAF
+- ID: "6e7ee2d5-d16e-4038-89df-21145baec88b"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: |
+    {2096E263-A932-44C3-83D1-99BD099D959E}
+    {28585591-7EAA-4C5B-A469-24372EF4A785}
+    {41B7F4AA-69D3-479A-B2DA-7D0842BBB5AF}
+    {C1D4974A-027E-424A-A9D8-734BE9C843CF}
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: 
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{321EF32A-CEEA-43FE-8BBD-70C6E20386FE}"
+- ID: "fa4911ec-ddc9-4d82-9059-c1fe07006bba"
+  Hint: supportTopic
+  Value: "{87F139DF-7C5E-4098-9120-C5F651EB4628}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Find a form
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200811T032359Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Find a form
+    - ID: "f4163e07-1e81-42cd-9b93-cb8fb3aaf4f2"
+      Hint: relatedForms
+      Value: "{1782FAC2-6C45-441B-9FA2-0EB87F0C2B2F}|{37A7A820-D5BA-4486-94F3-D70AB0565F1E}|{C390BFE8-C0A0-40EB-AAC1-29F885CA1E03}|{42C6C968-FB2B-4273-A5E4-7E68AEDA29AB}"
+- Language: id
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Find a form
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200819T125655Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Find a form
+    - ID: "f4163e07-1e81-42cd-9b93-cb8fb3aaf4f2"
+      Hint: relatedForms
+      Value: "{1782FAC2-6C45-441B-9FA2-0EB87F0C2B2F}|{37A7A820-D5BA-4486-94F3-D70AB0565F1E}|{C390BFE8-C0A0-40EB-AAC1-29F885CA1E03}|{42C6C968-FB2B-4273-A5E4-7E68AEDA29AB}"

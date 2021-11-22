@@ -1,0 +1,58 @@
+﻿---
+ID: "f1a6a44b-2bd2-4285-abfd-913e809cdc0f"
+Parent: "5c6983b1-a2fd-44bf-941a-f3dddb3bfea7"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/family-care/local-folder/HeroBanner"
+DB: master
+SharedFields:
+- ID: "b77299ed-f266-4dc3-94b1-455764394788"
+  Hint: share
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: Family Care
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{CAC16EDF-0BC0-4BF9-B156-AE02F915638C}" cropx="0.46" cropy="0.45" focusx="-0.07017543859649122" focusy="0.09375" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T105950Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{CAC16EDF-0BC0-4BF9-B156-AE02F915638C}" cropx="0.52" cropy="0.27" focusx="0.04385964912280693" focusy="0.453125" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: แฟมิลี่ แคร์
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{CAC16EDF-0BC0-4BF9-B156-AE02F915638C}" cropx="0.46" cropy="0.44" focusx="-0.07894736842105265" focusy="0.125" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055158Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{CAC16EDF-0BC0-4BF9-B156-AE02F915638C}" cropx="0.56" cropy="0.21" focusx="0.11403508771929816" focusy="0.578125" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

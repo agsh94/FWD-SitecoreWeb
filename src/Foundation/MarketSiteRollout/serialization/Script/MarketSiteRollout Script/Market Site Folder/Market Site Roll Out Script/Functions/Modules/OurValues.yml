@@ -1,0 +1,62 @@
+﻿---
+ID: "aeda5b0a-9fd9-4237-933a-437a8a438ce8"
+Parent: "38a8fcc4-140e-40b2-bb61-f830003c6c80"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Functions/Modules/OurValues
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    param(
+    $params
+    )
+    
+    Import-Function Global-Functions
+    		if($params.Item){
+    
+    	
+    		$newPath = $params.Item.ItemPath + '/Components'
+    		$newItem = Get-Item -Path $newPath
+    		$ourvaluesItem = New-Item -Parent $newItem -Name "our-values" -ItemType $params.TemplateID -Language $params.language
+    		$ourvaluesItem.Editing.BeginEdit()
+    		$ourvaluesItem["__Display name"] = "Our Values"
+    		$ourvaluesItem.Editing.EndEdit()
+    		
+    		$modules = Get-ItemInsertOptions $ourvaluesItem
+    		$modulesSortedByKey = Get-OrderedDictionaryByKey $modules
+    		
+    		if ($modulesSortedByKey.Count -gt 0) {
+    		$OurValue1 = New-Item -Parent $ourvaluesItem -Name "ourvalues-1" -ItemType $modulesSortedByKey.'InfoCard' -Language $params.language
+    		$OurValue1.Editing.BeginEdit()
+    		$OurValue1["__Display name"] = "OurValues 1"
+    		$OurValue1["title"] = "Honesty and Integrity"
+    		$OurValue1["description"] = "We provide outstanding products and unsurpassed service that, together, deliver premium value to our customers."
+    		[Sitecore.Data.Fields.ImageField]$image = $OurValue1.Fields["image"]
+    		$image.MediaID = "{0DF53845-CF5A-4DFA-BC37-19A0E72952F8}"
+    		[Sitecore.Data.Fields.ImageField]$mobileImage = $OurValue1.Fields["mobileImage"]
+    		$mobileImage.MediaID = "{0DF53845-CF5A-4DFA-BC37-19A0E72952F8}"
+    		$OurValue1.Editing.EndEdit()
+    
+    		$OurValue2 = New-Item -Parent $ourvaluesItem -Name "ourvalues-2" -ItemType $modulesSortedByKey.'InfoCard' -Language $params.language
+    		$OurValue2.Editing.BeginEdit()
+    		$OurValue2["__Display name"] = "OurValues 2"
+    		$OurValue2["title"] = "Radiation therapy"
+    		$OurValue2["description"] = "We provide outstanding products and unsurpassed service that, together, deliver premium value to our customers."
+    		[Sitecore.Data.Fields.ImageField]$image = $OurValue2.Fields["image"]
+    		$image.MediaID = "{AE8F1065-B12C-4DE7-8E4A-DA1D803C3DD0}"
+    		[Sitecore.Data.Fields.ImageField]$mobileImage = $OurValue2.Fields["mobileImage"]
+    		$mobileImage.MediaID = "{AE8F1065-B12C-4DE7-8E4A-DA1D803C3DD0}"
+    		$OurValue2.Editing.EndEdit()
+    		}
+    		}
+    
+    	
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200526T080344Z

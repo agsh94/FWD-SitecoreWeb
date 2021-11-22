@@ -1,0 +1,29 @@
+﻿---
+ID: "f760e15c-725b-442e-82a7-2f4b4b6c2f08"
+Parent: "f962559a-508f-4c67-9b8a-3c23eb31b063"
+Template: "8d254d4a-bd30-4b07-8fa0-7464260d4bbc"
+Path: "/sitecore/content/fwd/fwd-th/Content/Tags/commonTags/Featured/primaryNeed"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Primary need
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191101T173648Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T064948Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

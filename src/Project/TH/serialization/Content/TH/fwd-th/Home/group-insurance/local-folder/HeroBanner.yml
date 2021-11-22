@@ -1,0 +1,64 @@
+﻿---
+ID: "4d191ad4-fa6e-46a5-abe8-2259543c20af"
+Parent: "d7a38098-3f6a-4ff6-93d6-29a0daa271d5"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/local-folder/HeroBanner"
+DB: master
+SharedFields:
+- ID: "b77299ed-f266-4dc3-94b1-455764394788"
+  Hint: share
+  Type: Checkbox
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: At FWD we protect what’s important
+    - ID: "178df5ea-8972-40e0-9c6c-ddb4aeec732c"
+      Hint: subTitle
+      Value: We’ll protect what’s precious to you 
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{98F76319-BF52-4317-898A-E71140169577}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200130T103250Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{98F76319-BF52-4317-898A-E71140169577}" cropx="0.53" cropy="0.27" focusx="0.05672468218887072" focusy="0.45937538146972656" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: ฉลองให้แก่การใช้ชีวิต เราจะปกป้องสิ่งที่สำคัญสำหรับคุณ
+    - ID: "178df5ea-8972-40e0-9c6c-ddb4aeec732c"
+      Hint: subTitle
+      Value: 
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{98F76319-BF52-4317-898A-E71140169577}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200217T102625Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{98F76319-BF52-4317-898A-E71140169577}" cropx="0.51" cropy="0.27" focusx="0.01041666666666674" focusy="0.453125" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

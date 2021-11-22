@@ -1,0 +1,29 @@
+﻿---
+ID: "4995cf7c-45a9-40f6-8617-d165c67edacd"
+Parent: "abcaf507-3e4d-40ac-b904-77e3f37c485d"
+Template: "8bee9bc5-6dab-4239-9e81-4377e5e0c5b2"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/savings/ValueProtector/PlanGrand/AttributeFolder"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200701T132822Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\testuser
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200708T135137Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

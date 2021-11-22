@@ -1,0 +1,38 @@
+﻿---
+ID: "be33a954-686b-4bbf-8023-65d954086919"
+Parent: "9c919136-81ca-44af-b475-05edc766c43a"
+Template: "92a746a0-f1f9-4b55-be94-d535275b9255"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/AttributeKeys/HospiceCare
+DB: master
+SharedFields:
+- ID: "0bb8c93b-a99d-46b3-8e18-fa27970a244c"
+  Hint: key
+  Value: hospiceCare
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200702T164052Z
+    - ID: "b95c8194-e837-46c4-ab8a-a5c6874359cf"
+      Hint: value
+      Value: Hospice care
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200708T133708Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b95c8194-e837-46c4-ab8a-a5c6874359cf"
+      Hint: value
+      Value: ดูแลบ้านพักรับรองพระธุดงค์

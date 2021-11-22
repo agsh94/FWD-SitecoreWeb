@@ -1,0 +1,25 @@
+﻿---
+ID: "8c12cf4f-2d1d-491d-88fe-5b9e968386e7"
+Parent: "80241586-e7b7-444c-9c72-16f72dbea2d3"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/travel-leh-ladakh/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T075757Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: "แถมยังเป็นกรวดหินดินลูกรัง รู้สึกเหมือนโดนจับมัด เข้าเครื่องเล่นแร็ปเตอร์ แล้วเขย่าๆ ในสวนสนุกอย่างน้อยๆ วันละ 3 ชั่วโมง พร้อมพิสูจน์ตนด้วยการอาบน้ำสามวันที และตัดขาดจากโลกภายนอก เพราะไม่มีทั้งสัญญาณโทรศัพท์ และอินเตอร์เน็ต!"

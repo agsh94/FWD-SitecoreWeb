@@ -1,0 +1,10 @@
+﻿---
+ID: "3f677618-ebea-412a-a377-38c883600151"
+Parent: "7c23d735-4e2d-49c9-b62b-31679de1c1ba"
+Template: "471e5ba2-0ea8-4fe6-9a4f-ea4333b2b57a"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Fund/riskLevel/High
+DB: master
+SharedFields:
+- ID: "0bb8c93b-a99d-46b3-8e18-fa27970a244c"
+  Hint: key
+  Value: 30

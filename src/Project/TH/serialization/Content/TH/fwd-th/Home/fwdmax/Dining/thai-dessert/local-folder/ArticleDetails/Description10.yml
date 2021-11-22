@@ -1,0 +1,25 @@
+﻿---
+ID: "b11c6ebf-d585-4756-8911-73ee64e39937"
+Parent: "900588e1-7e6b-433f-835f-5011ba2acb1a"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/thai-dessert/local-folder/ArticleDetails/Description10"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1800
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T012654Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: "ส่วนคนรักขนมไทยไปร้านนี้รับรองไม่ผิดหวัง เพราะที่เคาน์เตอร์ยังมีขนมไทยฟิวชั่นหน้าตาดี วางอวดโฉมยั่วน้ำลายอีกหลายเมนูเลยล่ะครับ บอกเลยว่าใครไปร้านนี้รับรองต้องยอมแพ้ใจให้กับความน่ากินที่เย้ายวนอยู่ตรงหน้าแน่นอน!"

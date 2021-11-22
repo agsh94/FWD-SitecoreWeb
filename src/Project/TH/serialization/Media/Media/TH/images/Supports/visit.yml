@@ -1,0 +1,48 @@
+﻿---
+ID: "042b7bd4-2b82-4957-953b-0b4b295292c1"
+Parent: "969ecea3-d41c-4f9d-966f-d2301a68f60f"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/FWD/TH/images/Supports/visit
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/042B7BD42B824957953B0B4B295292C1.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "28cb649a-33a8-40b0-b739-a4b981a799c7"
+  Value: PHN2ZyBoZWlnaHQ9IjQ4IiB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Im0yNC4wMDA3MzAxIDBjMTMuMjU0NjQzMyAwIDIzLjk5OTU4OTkgMTAuNzQ1NzY2OCAyMy45OTk1ODk5IDI0LjAwMDQxMDFzLTEwLjc0NDk0NjYgMjQuMDAxMjMwMi0yMy45OTk1ODk5IDI0LjAwMTIzMDJjLTEzLjI1NTQ2MzUgMC0yNC4wMDA0MTAxLTEwLjc0NjU4NjktMjQuMDAwNDEwMS0yNC4wMDEyMzAyczEwLjc0NDk0NjYtMjQuMDAwNDEwMSAyNC4wMDA0MTAxLTI0LjAwMDQxMDF6IiBmaWxsPSIjMDAwIi8+PGcgZmlsbD0iI2ZmZiI+PHBhdGggZD0ibTI0IDBjLTEzLjI1NDQxNjggMC0yNCAxMC43NDU3NjY4LTI0IDI0LjAwMTIzMDIgMCAxMy4yNTM4MjMyIDEwLjc0NTU4MzIgMjMuOTk4NzY5OCAyNCAyMy45OTg3Njk4eiIgZmlsbC1vcGFjaXR5PSIuMiIvPjx0ZXh0IGZvbnQtZmFtaWx5PSJGV0RDaXJjdWxhclRULUJsYWNrLCBGV0QgQ2lyY3VsYXIgVFQiIGZvbnQtc2l6ZT0iMTAiIGZvbnQtd2VpZ2h0PSI3MDAiIGxldHRlci1zcGFjaW5nPSIuNDYxNTM4NDYyIj48dHNwYW4geD0iOS45OTYxNTQiIHk9IjI4Ij5WSVNJVDwvdHNwYW4+PC90ZXh0PjwvZz48L2c+PC9zdmc+
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 681
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191009T114014Z
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: visit
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T035944Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: visit

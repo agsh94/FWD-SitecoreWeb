@@ -1,0 +1,42 @@
+﻿---
+ID: "ac930c08-d8c1-40ca-9c7f-35c6dd2f908a"
+Parent: "6d5cf238-24c5-4f43-9bbf-0dab4450a26c"
+Template: "cef6e819-7951-4dad-b3ff-cb42f0dcf7d5"
+Path: "/sitecore/content/fwd/fwd-th/Components/headerLinks/Icon Links Folder/Call"
+DB: master
+SharedFields:
+- ID: "a6ee811d-8f6f-4560-80b5-a4faa92bb6db"
+  Hint: buttonIcon
+  Value: "{79CC843A-2212-40B5-B09F-2018D04C72A9}"
+- ID: "ffff450b-9e1e-472d-955f-c39bb9c6218b"
+  Hint: listType
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201203T123845Z
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201216T144256Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: Chat
+    - ID: "baa2afdd-f108-4ba2-a95d-cd1221e6da39"
+      Hint: enableDropdown
+      Type: Checkbox
+      Value: 0

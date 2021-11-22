@@ -1,0 +1,48 @@
+﻿---
+ID: "fda17393-5a5c-4ab5-979c-a4e76186111c"
+Parent: "e2478895-21a1-44b8-9ff9-eaa361c241f8"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Claims/Can I claim for a hospital expense if I was treated in a hospital that is not affiliated with FWD"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-12"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T014009Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "Can I claim for a hospital expense if I was treated in a hospital that is not affiliated with FWD?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        For information on this, please refer to the <a href="~/link.aspx?_id=645F96770A724985BA13AFC14647AE5F&amp;_z=z">health claim process</a>&nbsp;on our website.
+        
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T014124Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: " กรณีที่ไปเข้ารับการรักษาในโรงพยาบาลที่ไม่ใช่เครือข่ายของบริษัท สามารถเบิกสินไหมค่ารักษาพยาบาลได้หรือไม่?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        สามารถเบิกสินไหมค่ารักษาพยาบาลได้ กรุณาคลิกดูรายละเอียด วิธีเบิกสินไหมค่ารักษาพยาบาล <a href="~/link.aspx?_id=645F96770A724985BA13AFC14647AE5F&amp;_z=z">ที่นี่</a>

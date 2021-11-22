@@ -1,0 +1,49 @@
+﻿---
+ID: "e933232a-2df0-4efd-98c7-f54a28025f02"
+Parent: "e8bc2a3d-340b-44f8-9744-b282bae2dfba"
+Template: "68016eee-7ce8-453d-9b04-20bcd42da406"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Support/local-folder/customer-support-vertical"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Customer Support Vertical
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191009T101628Z
+    - ID: "5dd69fbe-84e3-4439-884c-37e51ca4e708"
+      Hint: showMoreLink
+      Value: |
+        <link text="Show me all support options" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />
+    - ID: "d7fa80f1-d6d1-4ddd-9366-fd4a9c39b13a"
+      Hint: title
+      Value: Get personalised advice
+    - ID: "e5d5024c-a73c-4218-a3ce-0ec1d13276bc"
+      Hint: listItems
+      Value: "{CC115D5A-4819-4224-8B56-F69AEC264865}|{FC7A06F3-E7DE-454C-A8BF-514556E68054}|{38D5363F-C287-40E3-ABC4-84B7D2D669C5}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T104947Z
+    - ID: "5dd69fbe-84e3-4439-884c-37e51ca4e708"
+      Hint: showMoreLink
+      Value: |
+        <link text="Show me all support options" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d7fa80f1-d6d1-4ddd-9366-fd4a9c39b13a"
+      Hint: title
+      Value: Get personalised advice
+    - ID: "e5d5024c-a73c-4218-a3ce-0ec1d13276bc"
+      Hint: listItems
+      Value: "{CC115D5A-4819-4224-8B56-F69AEC264865}|{FC7A06F3-E7DE-454C-A8BF-514556E68054}|{38D5363F-C287-40E3-ABC4-84B7D2D669C5}"

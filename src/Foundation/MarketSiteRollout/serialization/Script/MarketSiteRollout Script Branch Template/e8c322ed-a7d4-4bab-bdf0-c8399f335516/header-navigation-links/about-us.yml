@@ -1,0 +1,53 @@
+﻿---
+ID: "d9d7861a-5e1c-424f-891e-380c4a8e62d4"
+Parent: "b962f373-ff7b-49e7-a41d-45387a60837c"
+Template: "4faa2cd7-63df-4c30-abb2-9d55380d2106"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Components/headerLinks/header-navigation-links/about-us"
+DB: master
+SharedFields:
+- ID: "0506ee6d-80ab-42a9-aa0d-06cb556b05b0"
+  Hint: pageType
+  Value: "{FB2C4A8A-0593-44B7-B7C4-AE07AF4F8BB2}"
+- ID: "a6ee811d-8f6f-4560-80b5-a4faa92bb6db"
+  Hint: buttonIcon
+  Value: "{368BA79D-8CAE-435C-A781-FE6FB2F3725D}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: About Us
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200312T184640Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{49F0D81D-2E91-44B2-9F6E-3267BABAFA41}" />
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: About us
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200316T190613Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{49F0D81D-2E91-44B2-9F6E-3267BABAFA41}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: เกี่ยวกับเรา

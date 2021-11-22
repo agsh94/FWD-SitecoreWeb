@@ -1,0 +1,77 @@
+﻿---
+ID: "bcf29cf5-a3d6-4a1e-84b4-7e3c3d5fab80"
+Parent: "4e3c025f-c7e7-41b4-b217-ab13d56326a1"
+Template: "937f9755-269c-46cb-87cf-e05c0211ef32"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/ArticleLandingPage/local-folder/Article Card Small"
+DB: master
+SharedFields:
+- ID: "05b2b484-bdd9-4a0c-9bc2-013e6a9989a9"
+  Hint: subtype
+  Value: "{16E100BB-C6E3-4C43-9770-45802CE9161F}"
+- ID: "10e652c4-46dd-4b96-94af-033d6997a41a"
+  Hint: userType
+  Type: Multilist
+  Value: |
+    {A13E3F64-579D-467A-BDD8-A3214871CC4B}
+    {4C697943-FF95-4B21-9636-95C25F2A1A56}
+- ID: "51605d25-f8a6-4776-990d-342cf6bc523b"
+  Hint: subtopics
+  Type: Multilist
+  Value: |
+    {7C0EAA1E-9D94-494E-B9C3-B5BF7943AF7A}
+    {2E566BC1-75BB-4A15-B706-8861E20AAC4C}
+- ID: "644a759b-d9f0-46b0-b5a2-afc11a100bb1"
+  Hint: topics
+  Type: Multilist
+  Value: |
+    {29E61A52-59F8-45F0-B7D0-DCF3FFCEE6BA}
+    {65DFE505-B497-4ABD-A5EC-CFA2185F68FA}
+- ID: "adb8c199-23ee-47b6-ac3a-e42511001cd9"
+  Hint: featuredTags
+  Type: TreelistEx
+  Value: "{CF0C84AA-2987-4D4E-BE51-0297A9AE251D}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F4401E93-3C44-4861-AE73-AE8F72A5C86F}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{DCEFBE9A-CB6F-4EA1-B123-C1DB121B4108}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200727T045000Z
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20200727T000000Z
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Article card small in column three
+    - ID: "8903e668-0898-456c-b6ed-09d94259e5b1"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{B12C63C5-B4B6-45D0-86E6-5AF118C5C52D}" />
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: Article Card Small in column three
+    - ID: "d940cafe-2148-466e-9707-0748711f5fdc"
+      Hint: image
+      Value: |
+        <image mediaid="{B12C63C5-B4B6-45D0-86E6-5AF118C5C52D}" cropx="0.31" cropy="0.90" focusx="-0.3893129770992366" focusy="-0.796875" />
+    - ID: "f109a737-77b7-48cf-969c-2f55df9d876a"
+      Hint: shortDescription
+      Value: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo

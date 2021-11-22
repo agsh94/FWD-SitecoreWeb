@@ -1,0 +1,50 @@
+﻿---
+ID: "00ed61e4-b8b2-42aa-8130-5be07a24683d"
+Parent: "7a1f5428-6c67-47e2-a91d-114207f0261b"
+Template: "14cf212d-7cf4-41aa-b50b-24d748a87556"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/Health/CancerFighter/local-folder/FAQsAccordion"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f973c399-5998-47a5-ae48-760ebed901b1"
+  Hint: faqItems
+  Value: "{E5E91ABE-E689-4FA6-97EB-493D2AB4DDA4}|{68C3A4CE-FB2A-4D12-900C-CDB9CD53FADC}|{6608654E-BA84-48E1-9BA7-F81A535918A0}|{135D0165-F476-4B1A-A659-F05DC859BACF}|{875E3757-2ED3-4D73-92AE-2059DBEB77C1}|{28BD5341-F22B-4414-90C3-C215040784E1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191014T062541Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See more FAQs" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: FAQ
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T115746Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See more FAQs" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: FAQ

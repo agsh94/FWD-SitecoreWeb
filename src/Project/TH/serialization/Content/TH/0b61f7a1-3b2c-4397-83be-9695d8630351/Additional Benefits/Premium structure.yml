@@ -1,0 +1,24 @@
+﻿---
+ID: "b720e852-70c8-4be9-8b91-e4530dfa7e28"
+Parent: "e17e59a0-baba-4f60-ae53-fd53d8e4b0e6"
+Template: "0961098e-2ea2-458f-8660-b9b9be61bc57"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/ValueProtector/PlanSuper/AttributeFolder/Additional Benefits/Premium structure"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200615T044326Z
+    - ID: "409c4452-e4f8-4e83-8f50-388a52104cbb"
+      Hint: value
+      Value: |
+        <ul>
+            <li>Based on insured person's issue age and gender.</li>
+            <li>Renewal premium are non-guaranteed and will be increased yearly accordingly to the insured person's attained age at the time of renewal.</li>
+        </ul>
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{98E0DD26-E3E9-4A0C-9341-75C7E705B411}"

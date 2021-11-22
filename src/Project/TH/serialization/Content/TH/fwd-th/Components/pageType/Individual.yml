@@ -1,0 +1,21 @@
+﻿---
+ID: "fb2c4a8a-0593-44b7-b7c4-ae07af4f8bb2"
+Parent: "4b0e25c7-cea7-4a77-93a5-170b998a9e90"
+Template: "471e5ba2-0ea8-4fe6-9a4f-ea4333b2b57a"
+Path: "/sitecore/content/fwd/fwd-th/Components/pageType/Individual"
+DB: master
+SharedFields:
+- ID: "0bb8c93b-a99d-46b3-8e18-fa27970a244c"
+  Hint: key
+  Value: individual
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200316T175408Z
+    - ID: "b95c8194-e837-46c4-ab8a-a5c6874359cf"
+      Hint: value
+      Value: Individual

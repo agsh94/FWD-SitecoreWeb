@@ -1,0 +1,65 @@
+﻿---
+ID: "89814fe5-057f-4daf-b25a-64d0cbf651c0"
+Parent: "12686c5d-cd7c-44c1-bb98-44fcd3c75140"
+Template: "979fdf53-37cb-434c-bbff-f7aaf6abaac0"
+Path: "/sitecore/content/fwd/fwd-th/Components/Forms/Premium Payment/New cheque request Form"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{A03E086C-A7FD-4FD0-8D38-AA313D696179}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "186c45f7-6f3f-446c-94ee-ec30fcf29dfb"
+      Hint: primaryNeedTags
+      Type: Multilist
+      Value: "{67F745F2-3A37-4569-B598-0B98CDC6B144}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T114409Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdtestauthor
+    - ID: "c9430c02-23e5-4887-87e5-872059655027"
+      Hint: topics
+      Value: "{121CAC1E-7FDB-49B3-ACFA-AA0EE00CAC53}"
+    - ID: "d57a04ff-b168-4c1e-8221-799439725666"
+      Hint: title
+      Value: New cheque request Form
+    - ID: "f55ccf38-f0bf-4b15-b4e9-edb6e07245b4"
+      Hint: contentType
+      Value: "{04E7400A-22DE-4392-A4AD-B78B7AA3B7A3}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T114607Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdtestauthor
+    - ID: "74eb711f-f1e9-4622-a04d-94f5ae11ef15"
+      Hint: description
+      Value:  
+    - ID: "c9430c02-23e5-4887-87e5-872059655027"
+      Hint: topics
+      Value: "{121CAC1E-7FDB-49B3-ACFA-AA0EE00CAC53}"
+    - ID: "d57a04ff-b168-4c1e-8221-799439725666"
+      Hint: title
+      Value: แบบฟอร์มขอออกเช็คฉบับใหม่
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="แบบฟอร์มขอออกเช็คฉบับใหม่" linktype="media" target="" id="{D44D779C-7ACD-4D6B-8450-DD2F3D192251}" />
+    - ID: "f55ccf38-f0bf-4b15-b4e9-edb6e07245b4"
+      Hint: contentType
+      Value: "{04E7400A-22DE-4392-A4AD-B78B7AA3B7A3}"

@@ -1,0 +1,33 @@
+﻿---
+ID: "bd9f74ab-11b1-4202-83cb-429749e040a8"
+Parent: "aab68ce2-1438-45eb-b720-ab0e94a98e53"
+Template: "cc4b9005-2021-4e36-9e01-196132da731e"
+Path: "/sitecore/content/fwd/fwd-th/Components/Awards/Awards-FWD-Story-2/Global/Award2/Categories"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191106T061939Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T084757Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T065147Z
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200211T065147Z

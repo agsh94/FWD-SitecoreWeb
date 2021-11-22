@@ -1,0 +1,30 @@
+﻿---
+ID: "f9ba66a9-e72f-4870-9df7-fe54661e5d96"
+Parent: "eade70c2-4c1c-4910-96c3-c7bd7f9d8c1e"
+Template: "d188c909-be9c-4149-9106-b25be4b6fb55"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Sport/alita-pear/local-folder/ArticleHeroBanner"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4573EFE0-6D5D-4A69-BC87-F46AFA1CD32D}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ec1b066-046b-4099-8dde-7ef17d1818a5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{6FAF7B8C-7920-4CB8-8CFF-20D4E679857F}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T125303Z
+    - ID: "43c58d25-8056-4ce0-b071-440c9f96ecf3"
+      Hint: image
+      Value: |
+        <image mediaid="{AF504C08-CCBE-4E1D-B6D2-F0CE3AF9F03D}" cropx="0.60" cropy="0.53" focusx="0.20272904111627943" focusy="-0.0625" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit

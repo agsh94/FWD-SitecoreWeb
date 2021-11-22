@@ -1,0 +1,43 @@
+﻿---
+ID: "8a2e371d-020e-410d-85ee-1fddb7a48c44"
+Parent: "8040dacc-b8a4-4d2d-9ef2-bfe94a9b7f35"
+Template: "8bac8cc4-dec2-4c0c-9d84-6dfb7d398819"
+Path: "/sitecore/content/fwd/fwd-th/Components/footerLinks/footer-quick-links/Disclaimer"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200227T103026Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="Disclaimer" anchor="" linktype="internal" class="" title="Disclaimer"  querystring="" id="{A6C39A1A-72C8-4766-AA77-F71EC84E3753}" />
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: Disclaimer
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200314T094102Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="Disclaimer" anchor="" linktype="internal" class="" title="Disclaimer"  querystring="" id="{A6C39A1A-72C8-4766-AA77-F71EC84E3753}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: ข้อตกลงการใช้

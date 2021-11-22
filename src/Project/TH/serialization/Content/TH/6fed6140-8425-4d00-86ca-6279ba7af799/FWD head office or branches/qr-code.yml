@@ -1,0 +1,119 @@
+﻿---
+ID: "3e195997-8f01-4335-85bd-6dbc098ca48a"
+Parent: "af5ba7a2-85d2-42d5-aa34-91d9041fb3d4"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/premium-payment/local-folder/premium-payment/DropdownItem/FWD head office or branches/qr-code"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: QR CODE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200107T090503Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>QR Code</strong></p>
+        <p style="margin-left: 40px;">Available at:</p>
+        <ul style="margin-left: 40px;">
+            <li>Bangkok head office</li>
+            <li>Rachada branch</li>
+        </ul>
+        <p style="margin-left: 40px;">We can accept up to THB500,000 in cash &ndash; per invoice. If the amount exceeds THB500,000, please pay via the bank or by cheque. </p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200918T042501Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>QR Code</strong></p>
+        <p style="margin-left: 40px;">Available at:</p>
+        <ul style="margin-left: 40px;">
+            <li>Our Bangkok head office and All Seasons Place branch</li>
+            <li>Rachada branch</li>
+        </ul>
+        <p style="margin-left: 40px;">We can accept up to THB 100,000 in cash (per invoice) for all policies bought from SCB or through a former agency channel&nbsp;channel. We can accept up to THB 500,000 in cash (per invoice) for policies bought through&nbsp;FWD agents or any other FWD channels.<br />
+        If the amount exceeds these, please pay via bank or cheque. </p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200918T042501Z
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: QR CODE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T084826Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>รับชำระด้วย QR Code</strong></p>
+        <p>ชำระโดยตรงกับบริษัทฯ: </p>
+        <ul>
+            <li>สำนักงานใหญ่</li>
+            <li>สาขารัชดา</li>
+        </ul>
+        <p>รับชำระด้วยเงินสดไม่เกิน 500,000 บาทต่อรายการ  หากเกินกว่าที่กำหนดให้นำฝากที่ธนาคาร หรือชำระเป็นเช็ค</p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200918T042627Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>รับชำระด้วย QR Code</strong></p>
+        <p>ชำระโดยตรงกับบริษัทฯ: </p>
+        <ul>
+            <li>สำนักงานใหญ่ กรุงเทพฯ และสาขาออล ซีซั่นส์</li>
+            <li>สาขารัชดา</li>
+        </ul>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: black;">กรมธรรม์ที่ซื้อผ่านธนาคารไทยพาณิชย์และตัวแทนเดิมชำระด้วยเงินสดไม่เกิน </span><span style="color: black;">100,000 </span><span style="color: black;">บาท</span></p>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: black;">กรมธรรม์ที่ซื้อผ่านตัวแทนของ </span><span style="color: black;">FWD </span><span style="color: black;">และช่องทางอื่นๆ</span><span style="color: black;"> </span><span style="color: black;">รับชำระด้วยเงินสดไม่เกิน </span><span style="color: black;">500,000 </span><span style="color: black;">บาท </span></p>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: black;">หากเกินที่กำหนดให้นำฝากธนาคารหรือชำระเป็นเช็ค</span></p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200918T042627Z

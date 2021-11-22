@@ -1,0 +1,38 @@
+﻿---
+ID: "c2f0763b-2d11-4567-8530-4bbce74846b7"
+Parent: "dd5e871d-9e41-4270-b383-655482e0f737"
+Template: "92f8b466-99a5-407e-af15-4c300df52088"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/HeroBannerKS/local-folder/HeroBannerCarousel1/HeroBanner Carousel Item2"
+DB: master
+SharedFields:
+- ID: "3f77495e-4c04-4f84-96f8-c3fd4a45d7d1"
+  Hint: HeroBannerVariant
+  Value: "{0B1166D9-2C27-4392-B0FB-C3E5F2C18380}"
+- ID: "ae1df6f1-a950-4d23-87f9-6beddcd1f988"
+  Hint: PlayVideoInBackground
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: Living Life to the max
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200710T092047Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdthauthor
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: kIt05tnmIxk

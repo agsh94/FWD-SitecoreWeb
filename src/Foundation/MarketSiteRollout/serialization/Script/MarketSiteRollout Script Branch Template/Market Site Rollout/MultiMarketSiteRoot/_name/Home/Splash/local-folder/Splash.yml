@@ -1,0 +1,30 @@
+﻿---
+ID: "705b111a-6cf0-4399-a871-46200c8b1076"
+Parent: "bb8cbcb8-4366-4afb-bae8-68269d4d7044"
+Template: "31c926ae-86fb-4275-acb9-ef1447ebd0f9"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Splash/local-folder/Splash"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200811T032448Z
+    - ID: "4cba66e5-da51-4b5a-87d8-f289063e1a15"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{37B9E7D1-D934-45DB-AAAC-C508D3802DAC}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "98d6c289-8c3a-4358-a935-028691fbf90d"
+      Hint: image
+      Value: |
+        <image mediaid="{37B9E7D1-D934-45DB-AAAC-C508D3802DAC}" />

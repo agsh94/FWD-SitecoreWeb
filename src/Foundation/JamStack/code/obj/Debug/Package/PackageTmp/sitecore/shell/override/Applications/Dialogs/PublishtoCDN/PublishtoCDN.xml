@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<control xmlns:def="Definition" xmlns="http://schemas.sitecore.net/Visual-Studio-Intellisense" xmlns:content="http://www.sitecore.net/content">
+    <PublishtoCDN>
+        <style>
+            .publish-wizard-tooltip {
+            position: relative;
+            display: inline-block;
+            margin-left: 5px;
+            }
+
+            .publish-wizard-tooltip .publish-wizard-tooltiptext {
+            visibility: hidden;
+            width: 250px;
+            background-color: #555;
+            color: #fff;
+            border-radius: 6px;
+            padding: 5px 5px;
+            position: absolute;
+            z-index: 1;
+            bottom: 125%;
+            left: 50%;
+            margin-left: -130px;
+            opacity: 0;
+            transition: opacity 1s;
+            text-align:left;
+            }
+
+            .publish-wizard-tooltip .publish-wizard-tooltiptext::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: #555 transparent transparent transparent;
+            }
+
+            .publish-wizard-tooltip:hover .publish-wizard-tooltiptext {
+            visibility: visible;
+            opacity: 1;
+            }
+        </style>
+        <WizardForm CodeBeside="FWD.Foundation.JamStack.Forms.CustomPublishFormtoCdn,FWD.Foundation.JamStack">
+            <Stylesheet Src="/sitecore/shell/override/Applications/Dialogs/PublishtoCDN/PublishtoCDN.css"/>
+            <Script Src="/sitecore/shell/Controls/Lib/jQuery/jQuery.noconflict.js"></Script>
+            <Script Src="/sitecore/shell/override/Applications/Dialogs/PublishtoCDN/PublishtoCDN.js"></Script>
+
+            <WizardFormPage ID="Settings" Header='${( JamStackText.PublishToCDN )}'
+                            Text='${( JamStackText.PublishRelevantItemsToCDN )}'>
+                <WizardFormPadding>
+                    <DataContext ID="CountryDropdownDataContext" DataViewName="Master" Root="/sitecore/content/fwd"/>
+                    <Scrollbox ID="SettingsPane" Border="none" Background="transparent">
+
+                        <Memo ID="APIEndpoint" ReadOnly="true" Visible="false"/>
+                        <Memo ID="APISecret" ReadOnly="true" Visible="false"/>
+
+
+                        <Groupbox ID="CountryDropdownPanel" Class="bold-publishing-heading" Header="Please choose the country site" Margin="15px 30px 25px 0px">
+                            <content:CustomTreePicker ID="CountryDropdownTreePicker" DataContext="CountryDropdownDataContext" SelectOnly="true" Width="100%"/>
+                        </Groupbox>
+
+                        <Groupbox ID="LanguagesPanel" Class="bold-publishing-heading" Header="Please select the publishing languages" Margin="15px 0px 15px 0px">
+                            <Literal Visible="false" ID="PublishingLanguageError" class="error-message" Text="* ${( JamStackText.PublishingLanguageError )}"/>
+                            <Checkbox ID="SelectAllLanguages" Header="Select all" value="1" />
+                            <Border ID="JamStackLanguages" />
+                        </Groupbox>
+
+                        <div class="publishtreeviewpanel">
+                            <Literal class="sc-text-largevalue" Text='Please select the pages to be pushed for static site generation'/>
+                            <Literal Visible="false" ID="PublishingItemsError" class="error-message" Text="* ${( JamStackText.PublishToCdnListError )}"/>
+                            <div class='add-btns-tree-panel'>
+                                <Toolbutton Icon="Office/24x24/elements_cascade.png" Header="Add page with Subitems" ToolTip="Adds page with subitems" Click="AddTree"/>
+                                <Toolbutton Icon="Office/24x24/document_empty.png" Header="Add page" ToolTip="Add page" Click="AddItem"/>
+                            </div>
+                            <content:PublishTreeList ID="PublishTreeList" Activation="false" Style="" />
+                        </div>
+
+                        <div class="bold-publishing-heading publishtreeviewpanel cdndeletelistpanel">
+                            <Literal class="sc-text-largevalue delete-from-cdn-text" Text='Please select the pages to be purged from static site which have been deleted'/>
+                            <Literal Visible="false" ID="PurgingItemsCdnError" class="error-message" Text="* ${( JamStackText.DeleteFromCdnListError )}"/>
+                            <content:DeleteFromCdn ID="DeleteFromCdnList" Activation="false" Style="" />
+                        </div>
+
+                        <div class="bold-publishing-heading publishtreeviewpanel cdndeletelistpanel">
+                            <Literal class="sc-text-largevalue delete-from-cdn-text" Text='Please select the pages to be purged from static site have been unpublished'/>
+                            <Literal Visible="false" ID="PurgingItemsUnpublishCdnError" class="error-message" Text="* ${( JamStackText.DeleteFromCdnListUnpublishError )}"/>
+                            <content:DeleteFromCdnUnPublished ID="DeleteFromCdnUnpublishedList" Activation="false" Style="" />
+                        </div>
+
+                    </Scrollbox>
+                </WizardFormPadding>
+            </WizardFormPage>
+
+            <WizardFormProgressPage ID="Publishing" Header='${( JamStackText.PublishToCDN )}'
+                                    Text='${( JamStackText.PleaseWaitPublishingMessage )}'
+                                    ActionText="Generating Static Site...">
+                <Border ID="CDNPublishingMessage">
+                    &#160;
+                </Border>
+            </WizardFormProgressPage>
+
+            <WizardFormPage ID="Retry" Header='${( JamStackText.PublishToCDN )}'
+                            Text="An error occurred while generating static site.">
+                <WizardFormPadding>
+                    <Memo ID="ErrorText" ReadOnly="true" Width="100%" Height="100%"/>
+                </WizardFormPadding>
+            </WizardFormPage>
+
+            <WizardFormPage ID="LastPage" Header='${( JamStackText.PublishToCDN )}'>
+                <WizardFormPadding>
+                    <div class="scStretch scFlexColumnContainerWithoutFlexie">
+                        <Literal class="sc-text-largevalue" Text='${( JamStackText.ItemsPublished )}'/>
+                        <Literal class="scFieldLabel" ID="Status"/>
+                        <Literal class="scFieldLabel result-text" ID="ResultScreenText" Text="Result:"/>
+                        <Scrollbox ID="ResultListPaneScroll">
+                            <Border ID="ResultTableSection" class="resultscreen" Visible="False">
+                                <Literal class="resultscreentext" ID="ResultTableText" Text="Pages pushed to static site:"></Literal>
+                                <Border ID="ResultTable" class="resultTable">
+                                    <div class="resultHeader" View="List">
+                                        <div class="resultHeaderRow">
+                                            <div class="scListviewItemList">S.No</div>
+                                            <div class="scListviewItemList">Page Path</div>
+                                            <div class="scListviewItemList">Page Url</div>
+                                        </div>
+                                    </div>
+                                    <Border ID="ResultBody" class="resultBody">
+                                    </Border>
+                                </Border>
+                            </Border>
+                            <Border ID="ResultTableCdnSection" class="resultscreen" Visible="False">
+                                <Literal class="resultscreentext" ID="ResultTableCdnDeleteText" Text="List of pages purged from static site which were deleted:"></Literal>
+                                <Border ID="ResultTableCdnDelete" class="resultTable">
+                                    <div class="resultHeader" View="List">
+                                        <div class="resultHeaderRow">
+                                            <div class="scListviewItemList">Icon</div>
+                                            <div class="scListviewItemList">Page Path</div>
+                                        </div>
+                                    </div>
+                                    <Border ID="ResultBodyCdnDelete" class="resultBody">
+                                    </Border>
+                                </Border>
+                            </Border>
+                            <Border ID="ResultTableUnpublishCdnSection" class="resultscreen" Visible="False">
+                                <Literal class="resultscreentext" ID="ResultTableUnpublishCdnDeleteText" Text="List of pages purged from static site which were unpublished:"></Literal>
+                                <Border ID="ResultTableUnpublishCdnDelete" class="resultTable">
+                                    <div class="resultHeader" View="List">
+                                        <div class="resultHeaderRow">
+                                            <div class="scListviewItemList">Icon</div>
+                                            <div class="scListviewItemList">Page Path</div>
+                                        </div>
+                                    </div>
+                                    <Border ID="ResultBodyUnpublishCdnDelete" class="resultBody">
+                                    </Border>
+                                </Border>
+                            </Border>
+                            <Border ID="ResultTableRenameCdnSection" class="resultscreen" Visible="False">
+                                <Literal class="resultscreentext" ID="ResultTableRenameCdnDeleteText" Text="List of pages purged from static site which were renamed:"></Literal>
+                                <Border ID="ResultTableRenameCdnDelete" class="resultTable">
+                                    <div class="resultHeader" View="List">
+                                        <div class="resultHeaderRow">
+                                            <div class="scListviewItemList">Icon</div>
+                                            <div class="scListviewItemList">Page Path</div>
+                                        </div>
+                                    </div>
+                                    <Border ID="ResultBodyRenameCdnDelete" class="resultBody">
+                                    </Border>
+                                </Border>
+                            </Border>
+                            <Border ID="ResultTableMoveCdnSection" class="resultscreen" Visible="False">
+                                <Literal class="resultscreentext" ID="ResultTableMoveCdnDeleteText" Text="List of pages purged from static site which were moved:"></Literal>
+                                <Border ID="ResultTableMoveCdnDelete" class="resultTable">
+                                    <div class="resultHeader" View="List">
+                                        <div class="resultHeaderRow">
+                                            <div class="scListviewItemList">Icon</div>
+                                            <div class="scListviewItemList">Page Path</div>
+                                        </div>
+                                    </div>
+                                    <Border ID="ResultBodyMoveCdnDelete" class="resultBody">
+                                    </Border>
+                                </Border>
+                            </Border>
+                        </Scrollbox>
+                    </div>
+                </WizardFormPadding>
+            </WizardFormPage>
+
+        </WizardForm>
+    </PublishtoCDN>
+</control>

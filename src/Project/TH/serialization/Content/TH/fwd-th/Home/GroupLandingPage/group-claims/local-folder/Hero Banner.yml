@@ -1,0 +1,58 @@
+﻿---
+ID: "f504c05b-d692-48ca-b907-ee3bc2b9fdc9"
+Parent: "d4a98485-166c-4767-a449-fded9b0435db"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/content/fwd/fwd-th/Home/GroupLandingPage/group-claims/local-folder/Hero Banner"
+DB: master
+SharedFields:
+- ID: "b77299ed-f266-4dc3-94b1-455764394788"
+  Hint: share
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: "Fuss-free claims for you with FWD Care"
+    - ID: "178df5ea-8972-40e0-9c6c-ddb4aeec732c"
+      Hint: subTitle
+      Value: 
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{967BD10A-6DCA-4C1C-8093-EA5C755F9F41}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200202T154415Z
+    - ID: "3210034d-ff83-4f4f-a52d-10e41d1ce985"
+      Hint: label
+      Value: 
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{967BD10A-6DCA-4C1C-8093-EA5C755F9F41}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: "Fuss-free claims for you with FWD Care"
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{967BD10A-6DCA-4C1C-8093-EA5C755F9F41}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T123422Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{967BD10A-6DCA-4C1C-8093-EA5C755F9F41}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qatestTH

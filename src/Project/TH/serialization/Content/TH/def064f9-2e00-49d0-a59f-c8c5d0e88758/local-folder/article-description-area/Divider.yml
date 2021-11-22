@@ -1,0 +1,29 @@
+﻿---
+ID: "fc371801-d47e-4c8a-bea1-8720734342c3"
+Parent: "36699ee4-0810-4c33-986e-211ff117926e"
+Template: "2c8293d2-9b5c-42d9-a207-f3ea0a725d08"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/article-page/article-details/local-folder/article-description-area/Divider"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T174700Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200108T084133Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

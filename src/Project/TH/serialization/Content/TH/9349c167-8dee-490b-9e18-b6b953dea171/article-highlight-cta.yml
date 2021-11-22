@@ -1,0 +1,29 @@
+﻿---
+ID: "5fc19cf3-0af9-422a-aea1-fdc7a0a8fef3"
+Parent: "9349c167-8dee-490b-9e18-b6b953dea171"
+Template: "91c91756-644c-4460-812b-9d3a33b076b2"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Privileges/Privilege2/local-folder/ArticleDetails/article-highlight-cta"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 350
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Article Highlight CTA
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200210T132755Z
+    - ID: "ba0719f6-3c44-44c3-88f7-36c6f9f9612a"
+      Hint: content
+      Value: Add us on LINE to redeem this privileges.
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Redeem Now" linktype="external" url="https://line.me/ti/p/%40fwdthailand" anchor="" title="Redeem Now" target="" />

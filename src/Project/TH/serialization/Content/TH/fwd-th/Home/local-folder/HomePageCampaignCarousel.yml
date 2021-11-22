@@ -1,0 +1,90 @@
+﻿---
+ID: "71e3b9a9-8b5d-49f2-bfe5-9819c35d2bed"
+Parent: "ab707055-b0ba-4203-92ed-38b287e2fda3"
+Template: "5ea255c0-2816-4472-a068-26cd0186b9ac"
+Path: "/sitecore/content/fwd/fwd-th/Home/local-folder/HomePageCampaignCarousel"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 25
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200227T104300Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "f23d21a4-5e80-4efb-be1d-751e0465f998"
+      Hint: carouselItems
+      Type: Multilist
+      Value: |
+        {8C79D07C-2BE3-4342-9AFD-DDF66A09BA6B}
+        {C98DBF79-765D-41C7-8B7F-59E36268199A}
+        {57F909FF-BD07-42D8-A96F-78D6F6373850}
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T095053Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201001T095053Z
+    - ID: "f23d21a4-5e80-4efb-be1d-751e0465f998"
+      Hint: carouselItems
+      Type: Multilist
+      Value: "{8C79D07C-2BE3-4342-9AFD-DDF66A09BA6B}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T184501Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "f23d21a4-5e80-4efb-be1d-751e0465f998"
+      Hint: carouselItems
+      Type: Multilist
+      Value: |
+        {8C79D07C-2BE3-4342-9AFD-DDF66A09BA6B}
+        {C98DBF79-765D-41C7-8B7F-59E36268199A}
+        {57F909FF-BD07-42D8-A96F-78D6F6373850}
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T095036Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201001T095036Z
+    - ID: "f23d21a4-5e80-4efb-be1d-751e0465f998"
+      Hint: carouselItems
+      Type: Multilist
+      Value: "{8C79D07C-2BE3-4342-9AFD-DDF66A09BA6B}"

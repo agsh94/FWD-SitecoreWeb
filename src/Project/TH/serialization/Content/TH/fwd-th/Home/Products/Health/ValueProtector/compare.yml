@@ -1,0 +1,46 @@
+﻿---
+ID: "d7d5d71b-da67-407b-9609-b63080bb34c4"
+Parent: "5fc9f8e0-ab3e-4f52-8960-5b7eb81fd791"
+Template: "ba8c333b-add6-430d-b14e-7a8009689339"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/ValueProtector/compare"
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{099ADFCF-7952-45FD-9498-FD6538110D83}">
+          <p:d />
+        </r>
+        <r
+          uid="{7EB51B9A-E479-42ED-AAE6-2A4393AD0FCA}"
+          p:after="r[@uid='{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}']"
+          s:ds="{D6CB7BED-09FE-40B7-92B3-6848CA6FF991}"
+          s:id="{600EECCB-DBE7-406E-93F6-4FA33A94DCF0}"
+          s:par="anchorText&amp;backgroundColor=%7BB47928D6-98FC-4B29-8D0F-586AB477286E%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{F703E97D-B432-4C44-ACCD-2F56BBFA8E1F}"
+          s:ds="{F1A6084F-619F-4514-BF16-99AB546BE6B7}" />
+        <r
+          uid="{8C18F6AE-E6DF-48E4-8667-A69ED7D676AA}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200610T130426Z

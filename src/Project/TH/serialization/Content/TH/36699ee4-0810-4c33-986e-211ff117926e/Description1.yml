@@ -1,0 +1,28 @@
+﻿---
+ID: "f075edaa-03b9-46e0-93e5-607ea6bf95ae"
+Parent: "36699ee4-0810-4c33-986e-211ff117926e"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/article-page/article-details/local-folder/article-description-area/Description1"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T062057Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdthauthor
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>FWD Management Holdings Limited (&ldquo;FWD&rdquo;), the Hong Kong registered business of FWD Group, today announced it has entered into an agreement to acquire MetLife Limited and Metropolitan Life Insurance Company of Hong Kong Limited (collectively &ldquo;MetLife Hong Kong&rdquo;) from MetLife Inc. (NYSE: MET). The transaction is subject to regulatory approvals. Terms of the deal were not disclosed.</p>
+        <p>The acquisition of MetLife Hong Kong will further increase FWD&rsquo;s market share in Hong Kong and reinforce its position as a leading life insurer in the city.</p>
+        <p>FWD is a growing company and believes that there is a place for everyone in the organisation. All existing MetLife Hong Kong policies will continue to be honoured by FWD following the change in ownership. FWD also intends to rename and rebrand the business.</p>

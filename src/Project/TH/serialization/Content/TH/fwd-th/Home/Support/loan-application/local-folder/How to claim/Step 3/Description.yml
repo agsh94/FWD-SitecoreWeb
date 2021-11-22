@@ -1,0 +1,43 @@
+﻿---
+ID: "43ad5143-372e-4462-a85b-d759fa8b3fb2"
+Parent: "736c5cc3-a3c5-4ae5-ac2f-5e45984ad13a"
+Template: "ad6870d4-2dd6-40ef-a8fa-941ab32cee43"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/loan-application/local-folder/How to claim/Step 3/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T023752Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>Our typical processing time is 5 days</p><br />
+        <p>You’ll be notified of the result by post. Please allow a few days for the mail to reach you.</p><br />
+        <p>Please note that the loan benefits remain in effect as long as you continue to pay your premiums.</p>
+        
+        
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T023748Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ระยะเวลาดำเนินการโดยทั่วไปประมาณ 5 วันทำการ</p><br />
+        <p>โดยบริษัทฯ จะแจ้งผลทางไปรษณีย์ ซึ่งไปรษณีย์อาจใช้ระยะเวลาในการจัดส่งประมาณ 2-3 วัน</p><br />
+        <p>ผลประโยชน์ทั้งหมดตามกรมธรรม์ประกันชีวิตยังคงมีผลบังคับใช้ตลอดเวลาที่คุณชำระค่าเบี้ยประกันอย่างต่อเนื่อง</p>

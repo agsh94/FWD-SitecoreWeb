@@ -1,0 +1,55 @@
+﻿---
+ID: "313a069a-7a53-45c3-8cb6-7889745e4c91"
+Parent: "e13afe7a-7aec-4f58-b2ea-b5fc7e775433"
+Template: "14cf212d-7cf4-41aa-b50b-24d748a87556"
+Path: "/sitecore/content/fwd/fwd-th/Home/Merger/local-folder/FAQsMerger"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 750
+- ID: "f973c399-5998-47a5-ae48-760ebed901b1"
+  Hint: faqItems
+  Value: "{402E0613-9B1B-4E76-8911-816ABF9256F8}|{F859CBA0-B037-484F-981F-AE53EFCAEAEE}|{E4CEDF49-6648-433F-BE12-35CB438EAE44}|{96F7E4B6-928B-4FA1-9023-F3976E617A6D}|{9BB030FD-AD67-44E6-B95E-9D8318DF18F9}|{1901D2D7-1B0C-4B54-998D-0AE95933A53B}|{BBF5D8AC-6C64-469D-8E50-B2C58F9D7392}|{B52AC30D-5DBF-4F13-8DF6-FC1F44471630}|{32AA8F7C-6E3E-4C74-B0C2-C659B353D8B4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200323T131005Z
+    - ID: "45e2df09-7d41-4b33-b7f1-f6d4bb8ba530"
+      Hint: description
+      Value: |
+        FWD Life Insurance Public Company Limited (“FWD Life”) and SCB Life Assurance Public Company Limited (“SCB Life”), both part of FWD Group, are planning to amalgamate into one company, called "FWD Life Insurance Public Company Limited" on 1 Oct 2020.
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200510T061839Z
+    - ID: "45e2df09-7d41-4b33-b7f1-f6d4bb8ba530"
+      Hint: description
+      Value: |
+        บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) (“FWD Life”) และ บริษัทไทยพาณิชย์ประกันชีวิต จำกัด (มหาชน) (“SCB Life”) ซึ่งทั้งสองบริษัทเป็นบริษัทในเครือกลุ่มเอฟดับบลิวดี อยู่ในระหว่างควบรวมกิจการเพื่อรวมเป็นหนึ่งเดียวภายใต้บริษัทใหม่ชื่อ “บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน)" คาดว่าการควบรวมกิจการจะมีผลตั้งแต่ วันที่ 1 ตุลาคม 2563 เป็นต้นไป
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: 

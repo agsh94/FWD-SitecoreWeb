@@ -1,0 +1,49 @@
+﻿---
+ID: "04ca7a5d-e131-413c-8f3c-53963477c4a6"
+Parent: "c2cbf05d-3eb4-49ff-b40f-f0308003ffac"
+Template: "967a8dad-4a23-491b-95e2-295dec0b64b3"
+Path: "/sitecore/content/fwd/fwd-th/Home/about-us/local-folder/Caring for our community"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200401T121515Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "dc5aad88-e827-445f-a6ff-9ddadf5a26c7"
+      Hint: subTitle
+      Value: FWD donantes THB500,000 to support Thailand's Special Olympics athletes
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See all community care events" anchor="" linktype="internal" class="" title=""  querystring="contenttype=Article&amp;subtype=Community%20Care" id="{564D4C9C-BEEB-4497-9BB7-74A9EBAEF812}" />
+    - ID: "ef4ceecf-b302-475f-be16-370851260a17"
+      Hint: title
+      Value: Caring for our community
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200401T123409Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "dc5aad88-e827-445f-a6ff-9ddadf5a26c7"
+      Hint: subTitle
+      Value: เอฟดับบลิวดี มอบเงินสนับสนุนสเปเชียลโอลิมปิค เอฟดับบลิวดี ประกันชีวิต มอบเงิน 500,000 บาท สนับสนุนสเปเชียลโอลิมปิคแห่งประเทศไทย
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ดูกิจกรรมส่งเสริมชุมชนทั้งหมด" anchor="" linktype="internal" class="" title=""  querystring="contenttype=บทความ&amp;subtype=ใส่ใจในชุมชนของเรา" id="{564D4C9C-BEEB-4497-9BB7-74A9EBAEF812}" />
+    - ID: "ef4ceecf-b302-475f-be16-370851260a17"
+      Hint: title
+      Value: ใส่ใจในชุมชน

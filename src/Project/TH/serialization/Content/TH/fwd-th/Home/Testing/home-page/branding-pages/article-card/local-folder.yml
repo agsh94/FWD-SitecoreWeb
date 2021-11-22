@@ -1,0 +1,48 @@
+﻿---
+ID: "33e41253-e115-4774-ac54-3ba2e39e511b"
+Parent: "99789d97-06eb-4f96-95c4-2e05dc30b7c4"
+Template: "fff5f245-ffc0-4022-a998-9b07aa5e761f"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/article-card/local-folder"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {681B61A2-6F52-4119-B8F4-033587EAEACC}
+    {C24ACDA9-AF2D-4F91-B736-509937CC444E}
+    {7C74CEF1-823C-4BC7-A386-21FEB21E7441}
+    {EE2C800F-5808-4E93-B521-517495E4A1E6}
+    {83A147F2-89BA-4A48-8222-4B73FFE65216}
+    {7D6BB8C2-D538-441D-82BF-D6AEC40B5929}
+    {937F9755-269C-46CB-87CF-E05C0211EF32}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-1000"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Page Contents
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T082808Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T060935Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

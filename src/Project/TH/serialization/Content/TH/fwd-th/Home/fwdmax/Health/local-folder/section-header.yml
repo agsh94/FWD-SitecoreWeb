@@ -1,0 +1,34 @@
+﻿---
+ID: "30a59320-0aa9-4506-ab14-0349bbce64d8"
+Parent: "b52d35c3-337e-4bc8-8052-789d803840d0"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/local-folder/section-header"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Section Header
+  Versions:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200219T091748Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: คุณจึงควรรู้เท่าทัน เพื่อใช้ชีวิตอย่างถูกต้องเหมาะสม เมื่อสุขภาพดี ชีวิตที่ดีก็ไม่ไกลเกินฝัน มาเรียนรู้ที่จะอยู่อย่างมีสุขภาพที่ดี ไปกับเอฟดับบลิวดี ด้วยเรื่องราวสุขภาพน่ารู้ ทั้งข้อมูลและวิธีดูแลสุขภาพจากผู้เชี่ยวชาญ สถิติที่น่าสนใจ เรื่องเล่าจากประสบการณ์ตรง ที่จะทำให้คุณรู้ทันสุขภาพ และมีความสุขกับการใช้ชีวิตได้อย่างแท้จริง
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: เพราะสุขภาพไม่ใช่เรื่องไกลตัว

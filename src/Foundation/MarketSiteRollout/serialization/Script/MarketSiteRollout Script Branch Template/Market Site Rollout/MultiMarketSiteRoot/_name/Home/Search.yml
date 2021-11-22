@@ -1,0 +1,54 @@
+﻿---
+ID: "919df4bd-134e-43ce-a1be-2a382127e8ca"
+Parent: "0c85f34f-c7ef-4abf-8c68-f61c96789286"
+Template: "effe8a1c-4564-4ce6-8e74-89fc80bc05e4"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Search
+DB: master
+SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\FWD TH Content Approver|pe|!*|-item:write|+item:read|-item:admin|pd|!*|-item:write|+item:read|-item:admin|ar|sitecore\FWD TH Author|pe|-item:create|-item:write|+item:read|!*|-item:rename|pd|-item:create|-item:write|+item:read|!*|-item:rename|
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{06B82377-46E4-4377-9D3A-C581506AE1A1}">
+          <p:d />
+        </r>
+        <r
+          uid="{4CE3023D-51DC-4276-93CD-B967DE139D50}"
+          p:after="r[@uid='{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}']"
+          s:ds="{615EC48A-A46C-472B-81EA-CA9B31B95E74}"
+          s:id="{89B10C37-A35B-47CD-9842-8235791C3096}"
+          s:par="anchorText&amp;backgroundColor=%7B74965DCF-F22E-47B3-BE45-1D05679CE13E%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+          s:ph="jss-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200603T112313Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Search

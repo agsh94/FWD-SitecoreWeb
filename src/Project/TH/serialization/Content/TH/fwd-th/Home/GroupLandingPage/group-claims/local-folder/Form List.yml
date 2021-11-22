@@ -1,0 +1,57 @@
+﻿---
+ID: "9c90f22e-4279-411a-a227-66b97abe437b"
+Parent: "d4a98485-166c-4767-a449-fded9b0435db"
+Template: "e9fe119c-894c-43bd-bfd0-857be1acbe38"
+Path: "/sitecore/content/fwd/fwd-th/Home/GroupLandingPage/group-claims/local-folder/Form List"
+DB: master
+SharedFields:
+- ID: "6e7ee2d5-d16e-4038-89df-21145baec88b"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: |
+    {8DBD5BD3-0CFB-425F-ADD3-B718ABAF6530}
+    {390404DC-4C70-4662-B09E-5FB89B7B5294}
+    {FE8587F2-045F-44A2-83AC-6058AF7CC0AF}
+    {EDA8AA85-90E4-409C-99E9-ADC0ECA09767}
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{AAE0FCBF-5276-4A3A-8CED-AEAF6994D21B}"
+- ID: "fa4911ec-ddc9-4d82-9059-c1fe07006bba"
+  Hint: supportTopic
+  Value: "{3F8847FA-88E1-4BC6-81E8-BD183B8D5917}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "082ccea0-107e-474b-99d1-c9f1b7bff0ef"
+      Hint: description
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200202T161813Z
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Find a form
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See all forms" anchor="" linktype="internal" class="" title="See all forms"  querystring="" id="{515D3ADB-439C-43E0-BA46-9F36E2212DCC}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T123300Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qatestTH
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Find a form
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Forms" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{515D3ADB-439C-43E0-BA46-9F36E2212DCC}" />

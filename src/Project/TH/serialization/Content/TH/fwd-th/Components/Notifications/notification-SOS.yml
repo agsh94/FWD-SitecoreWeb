@@ -1,0 +1,197 @@
+﻿---
+ID: "6f02942f-6ada-45d1-80ed-d74113e7d683"
+Parent: "15603052-36cc-4d9e-832c-869ca38f8485"
+Template: "a9929d97-7dcf-4697-8966-831b0b8dbe53"
+Path: "/sitecore/content/fwd/fwd-th/Components/Notifications/notification-SOS"
+DB: master
+SharedFields:
+- ID: "1ebb61e3-4599-40f0-b696-3215155f6cb0"
+  Hint: icon
+  Value: "{C0C57154-6EC6-4264-8D86-A4EFEBBD1533}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Notification SOS
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200210T072938Z
+    - ID: "2e6f61d7-8f07-4d20-a1ce-02ce01b686b7"
+      Hint: hidePublishDate
+      Type: Checkbox
+      Value: 0
+    - ID: "37c28fc7-4fd8-4405-bca9-b92f748aec70"
+      Hint: description
+      Value: |
+        <strong>Announcement:</strong> Changing fund names of Principle AM <a href="~/link.aspx?_id=564D4C9CBEEB44979BB774A9EBAEF812&amp;_z=z?contenttype=Article&amp;subtype=Announcements">See all media</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D80D2A5C-D5F8-4DA1-8828-B4F51D64461B}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "cb970e6f-a63f-41ea-92b1-d3855b4ba7ef"
+      Hint: expiryDate
+      Value: 20200611T063900Z
+    - ID: "dee76eea-85f7-4dde-9e7e-983060740ff1"
+      Hint: publishDate
+      Value: 20200426T153000Z
+    - ID: "eae79990-be60-47f1-bac4-d864a827b765"
+      Hint: pagesList
+      Value: "/about-us/*, /products/*,/support"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200715T173037Z
+    - ID: "2e6f61d7-8f07-4d20-a1ce-02ce01b686b7"
+      Hint: hidePublishDate
+      Type: Checkbox
+      Value: 0
+    - ID: "37c28fc7-4fd8-4405-bca9-b92f748aec70"
+      Hint: description
+      Value: "Welcome to our new website! You told us what you wanted – so we designed this for you. Have a browse, take the tour, enjoy the experience…"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D80D2A5C-D5F8-4DA1-8828-B4F51D64461B}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200715T173037Z
+    - ID: "cb970e6f-a63f-41ea-92b1-d3855b4ba7ef"
+      Hint: expiryDate
+      Value: 20200731T173000Z
+    - ID: "dee76eea-85f7-4dde-9e7e-983060740ff1"
+      Hint: publishDate
+      Value: 20200715T173000Z
+    - ID: "eae79990-be60-47f1-bac4-d864a827b765"
+      Hint: pagesList
+      Value: /*
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200717T113021Z
+    - ID: "2e6f61d7-8f07-4d20-a1ce-02ce01b686b7"
+      Hint: hidePublishDate
+      Type: Checkbox
+      Value: 0
+    - ID: "37c28fc7-4fd8-4405-bca9-b92f748aec70"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        New SOS assistant hotline number   <a href="tel:022065444" target="_self" data-type="call">0 2206 5444</a> call now
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200717T113021Z
+    - ID: "cb970e6f-a63f-41ea-92b1-d3855b4ba7ef"
+      Hint: expiryDate
+      Value: 20200831T150900Z
+    - ID: "dee76eea-85f7-4dde-9e7e-983060740ff1"
+      Hint: publishDate
+      Value: 20200727T150900Z
+    - ID: "eae79990-be60-47f1-bac4-d864a827b765"
+      Hint: pagesList
+      Value: /support
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200611T063945Z
+    - ID: "37c28fc7-4fd8-4405-bca9-b92f748aec70"
+      Hint: description
+      Value: |
+        <strong>การประกาศ:</strong> Changing fund names of Principle AM <a href="~/link.aspx?_id=564D4C9CBEEB44979BB774A9EBAEF812&amp;_z=z?contenttype=Article&amp;subtype=Announcements">See all media</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D80D2A5C-D5F8-4DA1-8828-B4F51D64461B}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "cb970e6f-a63f-41ea-92b1-d3855b4ba7ef"
+      Hint: expiryDate
+      Value: 20200611T063900Z
+    - ID: "dee76eea-85f7-4dde-9e7e-983060740ff1"
+      Hint: publishDate
+      Value: 20200611T063945Z
+    - ID: "eae79990-be60-47f1-bac4-d864a827b765"
+      Hint: pagesList
+      Value: /*
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200715T172840Z
+    - ID: "37c28fc7-4fd8-4405-bca9-b92f748aec70"
+      Hint: description
+      Value: เว็บไซต์โฉมใหม่ ออกแบบจากทุกเสียงของลูกค้า เพื่อประสบการณ์ที่ดีที่สุดของคุณ
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D80D2A5C-D5F8-4DA1-8828-B4F51D64461B}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200715T172840Z
+    - ID: "cb970e6f-a63f-41ea-92b1-d3855b4ba7ef"
+      Hint: expiryDate
+      Value: 20200731T172900Z
+    - ID: "dee76eea-85f7-4dde-9e7e-983060740ff1"
+      Hint: publishDate
+      Value: 20200715T172900Z
+    - ID: "eae79990-be60-47f1-bac4-d864a827b765"
+      Hint: pagesList
+      Value: /*
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200717T113130Z
+    - ID: "37c28fc7-4fd8-4405-bca9-b92f748aec70"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        ศูนย์บริการช่วยเหลือฉุกเฉิน (SOS) เบอร์ใหม่ <a href="tel:022065444" target="_self" data-type="call">0 2206 5444</a> โทรตอนนี้
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200717T113130Z
+    - ID: "cb970e6f-a63f-41ea-92b1-d3855b4ba7ef"
+      Hint: expiryDate
+      Value: 20200831T151500Z
+    - ID: "dee76eea-85f7-4dde-9e7e-983060740ff1"
+      Hint: publishDate
+      Value: 20200727T151500Z
+    - ID: "eae79990-be60-47f1-bac4-d864a827b765"
+      Hint: pagesList
+      Value: /support

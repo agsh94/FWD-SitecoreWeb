@@ -1,0 +1,14 @@
+﻿---
+ID: "7bf5c1f6-1419-4683-9466-9e4bf49d6f5f"
+Parent: "79cfbc05-6484-4b81-81fa-ea521b2f4551"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Forms/EligibilityCriteria
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191015T112951Z

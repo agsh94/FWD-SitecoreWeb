@@ -1,0 +1,47 @@
+﻿---
+ID: "207b799e-7f87-43b6-b449-b4f07d0ef35b"
+Parent: "2e37d959-ce20-4346-9aeb-3a07cd2ba1c9"
+Template: "0961098e-2ea2-458f-8660-b9b9be61bc57"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/savings/ValueProtector/PlanMultiple/AttributeFolder/Coverage/Premium"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200702T170608Z
+    - ID: "409c4452-e4f8-4e83-8f50-388a52104cbb"
+      Hint: value
+      Value: |
+        <ul>
+            <li>Based on insured person&rsquo;s issue age and gender</li>
+            <li>Renewal premium are non-guaranteed and will be increased yearly accordingly to the insured person&rsquo;s attained age at the time of renewal</li>
+            <li>Further conditions apply. Download brochure for more details</li>
+        </ul>
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{98E0DD26-E3E9-4A0C-9341-75C7E705B411}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200708T135332Z
+    - ID: "409c4452-e4f8-4e83-8f50-388a52104cbb"
+      Hint: value
+      Value: |
+        <ul>
+            <li>ขึ้นอยู่กับอายุและเพศของผู้เอาประกันภัย</li>
+            <li>เบี้ยประกันภัยต่ออายุไม่รับประกันและจะเพิ่มขึ้นทุกปีตามอายุของผู้เอาประกันภัยเมื่อถึงเวลาต่ออายุ</li>
+            <li>มีเงื่อนไขเพิ่มเติม ดาวน์โหลดโบรชัวร์เพื่อรับรายละเอียดเพิ่มเติม</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{98E0DD26-E3E9-4A0C-9341-75C7E705B411}"

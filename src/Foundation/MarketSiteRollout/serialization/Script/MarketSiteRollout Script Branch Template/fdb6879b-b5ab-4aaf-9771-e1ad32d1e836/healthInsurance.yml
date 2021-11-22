@@ -1,0 +1,34 @@
+﻿---
+ID: "8690d820-798b-4037-9e6f-84de9fca695b"
+Parent: "fdb6879b-b5ab-4aaf-9771-e1ad32d1e836"
+Template: "471e5ba2-0ea8-4fe6-9a4f-ea4333b2b57a"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Forms/insuranceTypes/healthInsurance
+DB: master
+SharedFields:
+- ID: "0bb8c93b-a99d-46b3-8e18-fa27970a244c"
+  Hint: key
+  Value: 2
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Health insurance
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200203T041804Z
+    - ID: "b95c8194-e837-46c4-ab8a-a5c6874359cf"
+      Hint: value
+      Value: Health insurance
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ประกันสุขภาพ
+  Versions:

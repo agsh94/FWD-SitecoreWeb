@@ -1,0 +1,23 @@
+﻿---
+ID: "4245bc28-fe5a-42b0-b6b0-626bb21a5006"
+Parent: "f9045bc5-9ce0-4006-aa6c-1af01979f63d"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/FWD/TH
+DB: master
+SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\FWDTH Author|pe|+item:rename|+item:create|+item:write|+item:read|^*|pd|+item:rename|+item:create|+item:write|+item:read|^*|ar|sitecore\FWD HK Content Approver|pe|-item:read|pd|-item:read|ar|sitecore\FWD TH Author|pe|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|pd|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|ar|sitecore\FWD GO Author|pe|-item:read|pd|-item:read|ar|sitecore\FWD GO Administrator|pe|-item:read|pd|-item:read|ar|sitecore\FWD HK Administrator|pe|-item:read|pd|-item:read|ar|sitecore\FWD TH Administrator|pe|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|+item:admin|pd|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|+item:admin|ar|sitecore\FWD HK Author|pe|-item:read|pd|-item:read|au|sitecore\testuser|pe|+item:rename|+item:create|+item:write|+item:read|^*|pd|+item:rename|+item:create|+item:write|+item:read|^*|
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: TH
+  Versions:
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20200303T134109:637188396693114084Z"

@@ -1,0 +1,57 @@
+﻿---
+ID: "2dc4be59-a101-4086-9491-0ae42029c0ed"
+Parent: "cabcc0b1-399c-4999-90c0-9e3d55140cda"
+Template: "83a147f2-89ba-4a48-8222-4b73ffe65216"
+Path: "/sitecore/content/fwd/fwd-th/Home/about-us/Careers/Agent/local-folder/customer-support"
+DB: master
+SharedFields:
+- ID: "56b35c4a-f364-45f9-8d35-5a28cecdd7a8"
+  Hint: supportOptions
+  Value: "{464E067D-BB1D-4B34-BAFE-11A8B6B56333}"
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1163
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Customer Support
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200203T095956Z
+    - ID: "e43f6d15-838d-41cd-b745-616c1b373dff"
+      Hint: description
+      Value: If you have the same chemistry and want to explore more opportunities please call
+    - ID: "e59ccccf-b566-4b39-b862-7fc68fe13e39"
+      Hint: title
+      Value: Join us at FWD
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T034436Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "e43f6d15-838d-41cd-b745-616c1b373dff"
+      Hint: description
+      Value: หากคุณมีเคมีเดียวกันกับเรา และกำลังมองหาโอกาสดีๆ ในการทำงาน โทร.
+    - ID: "e59ccccf-b566-4b39-b862-7fc68fe13e39"
+      Hint: title
+      Value: ร่วมงานกับเรา
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 

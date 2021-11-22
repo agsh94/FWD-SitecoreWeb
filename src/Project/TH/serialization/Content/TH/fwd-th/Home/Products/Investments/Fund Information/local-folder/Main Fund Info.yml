@@ -1,0 +1,41 @@
+﻿---
+ID: "d2b2642e-e6b1-47c3-b1b2-77208639570f"
+Parent: "1ec33c06-6146-4aac-9359-2860aa289542"
+Template: "68016eee-7ce8-453d-9b04-20bcd42da406"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Investments/Fund Information/local-folder/Main Fund Info"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200518T110301Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "d7fa80f1-d6d1-4ddd-9366-fd4a9c39b13a"
+      Hint: title
+      Value: Investment information
+    - ID: "e5d5024c-a73c-4218-a3ce-0ec1d13276bc"
+      Hint: listItems
+      Value: "{C4F6F0CF-B6FF-457B-A41F-74860D7D93CE}|{ED2ACD73-40C3-47A9-918C-0CD3C49C58D1}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200518T111142Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "d7fa80f1-d6d1-4ddd-9366-fd4a9c39b13a"
+      Hint: title
+      Value: Investment information
+    - ID: "e5d5024c-a73c-4218-a3ce-0ec1d13276bc"
+      Hint: listItems
+      Value: "{C4F6F0CF-B6FF-457B-A41F-74860D7D93CE}|{ED2ACD73-40C3-47A9-918C-0CD3C49C58D1}"

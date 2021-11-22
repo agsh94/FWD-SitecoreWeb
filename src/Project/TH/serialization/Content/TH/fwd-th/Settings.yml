@@ -1,0 +1,19 @@
+﻿---
+ID: "23ea3a12-c756-499b-845a-81274891959d"
+Parent: "c3bdd602-4fed-4688-b5bd-3d021994351a"
+Template: "406c3965-ea5b-4018-aa2f-c07e04557550"
+Path: "/sitecore/content/fwd/fwd-th/Settings"
+DB: master
+SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\FWD TH Author|pe|-item:rename|-item:delete|-item:create|-item:admin|-item:write|+item:read|^*|pd|-item:rename|-item:delete|-item:create|-item:admin|-item:write|+item:read|^*|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190912T064036Z

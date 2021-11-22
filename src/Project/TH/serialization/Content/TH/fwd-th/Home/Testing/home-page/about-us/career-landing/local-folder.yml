@@ -1,0 +1,43 @@
+﻿---
+ID: "d0db136f-9797-4704-bfe8-0673fb4f7d4b"
+Parent: "34906841-849f-4763-9e4b-0dd500f2ef97"
+Template: "fff5f245-ffc0-4022-a998-9b07aa5e761f"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/career-landing/local-folder"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {EE2C800F-5808-4E93-B521-517495E4A1E6}
+    {51555475-5028-4B05-9B45-53BE53615704}
+    {7D6BB8C2-D538-441D-82BF-D6AEC40B5929}
+    {681B61A2-6F52-4119-B8F4-033587EAEACC}
+    {83A147F2-89BA-4A48-8222-4B73FFE65216}
+    {F1076E50-7EA9-4CE1-A4DA-09F5C71B91E3}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-1000"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T074619Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T034318Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

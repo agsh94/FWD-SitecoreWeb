@@ -1,0 +1,29 @@
+﻿---
+ID: "b27b111b-2da6-4fc1-b12b-be173bfa1a7f"
+Parent: "a7688994-c0df-4122-8510-97002775fbc9"
+Template: "d9df7a98-c006-400d-8855-d0ef021e7fcd"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/HerobannerVideo/local-folder/HeroBanner Carousel1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200418T161711Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\testuser
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200418T161321Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\testuser

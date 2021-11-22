@@ -1,0 +1,23 @@
+﻿---
+ID: "3585992f-a9af-4919-8767-88ae4901b683"
+Parent: "89d5b135-511d-4b26-849c-e9576d6f7725"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/cancer-knockout/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200402T170101Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>เลี่ยงพฤติกรรมโต้รุ่ง</strong><strong></strong><strong>พักผ่อนให้เพียงพอดีกว่ากันเยอะ</strong></p>
+        พักผ่อนให้เพียงพอปรับเวลานอนให้เหมาะสม&nbsp;ถึงเวลานอนก็ควรนอน&nbsp;ง่วงแล้วก็อย่าฝืน&nbsp;บางคนติด ดูซีรีส์&nbsp;แล้วอยากจะดูต่อให้จบ&nbsp;รู้ตัวอีกทีก็เกือบสว่าง&nbsp;ไม่เอา&nbsp;ไม่เป็นแบบนี้กันแล้วเนอะบริหารเวลาร่างกายให้ดี&nbsp;ถึงเวลานอนก็ปล่อยให้ร่างกายได้พักผ่อนอย่างเต็มที่&nbsp;อย่างวัยทำงานระยะเวลาการนอนที่ควรจะเป็นเพื่อการพักผ่อนอย่างเต็มที่จะอยู่ที่ราวๆ&nbsp;7-9&nbsp;ชั่วโมง&nbsp;มีข้อมูลทางการแพทย์ที่เผยออกมาว่าคนที่นอนน้อยกว่า&nbsp;6&nbsp;ชั่วโมง&nbsp;ถึง&nbsp;47%&nbsp;มักจะมีอาการของมะเร็งลำไส้&nbsp;มากกว่าคนที่นอนหลับอย่างน้อย&nbsp;7&nbsp;ชั่วโมงขึ้นไปเลยทีเดียว

@@ -1,0 +1,58 @@
+﻿---
+ID: "f5581e87-179f-4cee-b5fa-c0d4d00567e9"
+Parent: "f386a623-f542-4c25-8de1-fa57067d8b14"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/Accident and Health/local-folder/How to deal/What if I have a question on how you handled my claim"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: |
+        We&rsquo;re happy to assist with any queries or questions you may have. <a href="tel:1351">Get in touch</a>.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200621T113331Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: "What if I have a question on how you handled my claim?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{68D0711B-CFF0-4590-8F14-E2A2AE3EAF3C}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: |
+        เรายินดีให้ความช่วยเหลือ ไม่ว่าจะเป็นการสอบถามหรือคำถามที่คุณอาจจะมี <a href="tel:1351">เพียงติดต่อเรา</a>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200621T113152Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: "จะทำอย่างไรหากต้องการสอบถามเกี่ยวกับการจัดการพิจารณาจ่ายค่าสินไหม?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{68D0711B-CFF0-4590-8F14-E2A2AE3EAF3C}" />

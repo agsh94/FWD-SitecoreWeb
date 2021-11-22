@@ -1,0 +1,41 @@
+﻿---
+ID: "c5429a69-4610-43d3-82a2-d5588f34d101"
+Parent: "fa7b2746-f59d-42c0-a7c6-c5e63caf097c"
+Template: "1d74b3b3-2234-4eac-bd93-d00a35863a01"
+Path: "/sitecore/content/fwd/fwd-th/Components/linkList/Main Fund Info/Announcement TMBAGLF"
+DB: master
+SharedFields:
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{A03E086C-A7FD-4FD0-8D38-AA313D696179}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200519T014715Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Announcement change/addition TMBAGLF TMBAGLRMF" linktype="media" title="Announcement change/addition TMBAGLF TMBAGLRMF" target="" id="{23974E0B-A015-4AC2-AED7-4296E96AD132}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200519T014852Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ประกาศแจ้งการแก้ไขเพิ่มเติมโครงการ TMBAGLF TMBAGLRMF" linktype="media" title="ประกาศแจ้งการแก้ไขเพิ่มเติมโครงการ TMBAGLF TMBAGLRMF" target="" id="{23974E0B-A015-4AC2-AED7-4296E96AD132}" />

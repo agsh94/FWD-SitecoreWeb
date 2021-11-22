@@ -1,0 +1,44 @@
+﻿---
+ID: "6a7f54c1-aaa4-4f74-a108-afc9d0662669"
+Parent: "78bed0a7-90db-4c3e-a726-908ae31b4bbd"
+Template: "d0bdcbb7-74c7-49e2-840c-9e40055936c3"
+Path: "/sitecore/content/fwd/fwd-th/Settings/dialogModals/ActiveSessionModal"
+DB: master
+SharedFields:
+- ID: "421870f0-4854-4af8-a586-8b35385bebb7"
+  Hint: key
+  Value: "{BAB3DABC-242D-419F-BC41-F342458CB50A}"
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T081923Z
+    - ID: "57c313a7-d13d-4680-957f-74d97431a41c"
+      Hint: description
+      Value: "This page will expire in {time} seconds. You've been inactive for some time. Select continue to stay on page."
+    - ID: "c6756251-2ceb-4a5a-98f0-8c92e129841e"
+      Hint: title
+      Value: "Are you still here?"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200522T064930Z
+    - ID: "57c313a7-d13d-4680-957f-74d97431a41c"
+      Hint: description
+      Value: "หน้านี้จะหมดอายุใน {time} คุณไม่ได้ใช้งานมาระยะหนึ่งแล้ว เลือกดำเนินการต่อเพื่อให้อยู่ในหน้า"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c6756251-2ceb-4a5a-98f0-8c92e129841e"
+      Hint: title
+      Value: "คุณยังอยู่ที่นี่หรือไม่?"

@@ -1,0 +1,62 @@
+﻿---
+ID: "8bdc3745-0793-4528-9a73-26440538072a"
+Parent: "23b991c4-72fa-4f3b-b82f-6d0bcfe93537"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/Fund Information/Fixed Income Funds/PRINCIPAL iFIXED-C"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200703T044514Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "Principal Core Fixed Income Fund C (PRINCIPAL iFIXED-C)"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.principal.th/th/principal/iFIXED-C'>Fund page</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_PRINCIPAL_iFIXED_FFS.pdf'>Fund information summary</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_PRINCIPAL_iFIXED_Prospectus_Full.pdf'>Prospectus</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_PRINCIPAL_iFIXED_Prospectus_Mini.pdf'>Fact sheet</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_Interim_Report_iFIXED.pdf'>Bi-annual report</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_iFIXED_Annual_Report.pdf'>Annual report</a></li>
+        </ul>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200703T044614Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "กองทุนเปิดพรินซิเพิล คอร์ ฟิกซ์ อินคัม-ชนิดผู้ลงทุนกลุ่ม (PRINCIPAL iFIXED-C)"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.principal.th/th/principal/iFIXED-C'>หน้าหลักกองทุน</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_PRINCIPAL_iFIXED_FFS.pdf'>สาระสำคัญ ของกองทุน</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_PRINCIPAL_iFIXED_Prospectus_Full.pdf'>หนังสือชี้ชวน</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_PRINCIPAL_iFIXED_Prospectus_Mini.pdf'>หนังสือชี้ชวนส่วนสรุป</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_Interim_Report_iFIXED.pdf'>รายงาน 6 เดือน</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_iFIXED_Annual_Report.pdf'>รายงานประจำปี</a></li>
+        </ul>
+        

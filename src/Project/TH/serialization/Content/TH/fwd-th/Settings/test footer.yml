@@ -1,0 +1,25 @@
+﻿---
+ID: "58edf636-50cc-4b72-8314-5bbf1775447b"
+Parent: "23ea3a12-c756-499b-845a-81274891959d"
+Template: "6d53377b-7a53-4357-8363-82776c43dd2b"
+Path: "/sitecore/content/fwd/fwd-th/Settings/test footer"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201007T092425Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{134AD8C3-C60A-4751-8997-16E231476139}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\cmsuser2

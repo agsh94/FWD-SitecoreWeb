@@ -1,0 +1,53 @@
+﻿---
+ID: "9270d110-9da2-45d0-9dd6-04deb6caae9b"
+Parent: "ec249037-af2b-4c13-a6a7-006db336c36e"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/about-us/press-releases/article-12/local-folder/article-description-area/fwd-group-content"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: FWD Group Content
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T061641Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>FWD Group spans Hong Kong &amp; Macau, Thailand, Indonesia, the Philippines, Singapore, Vietnam, Japan and Malaysia, offering life and medical insurance, general insurance, employee benefits, Shariah and Family Takaful products across a number of its markets.</strong><br />
+        <br />
+        FWD is focused on creating fresh customer experiences, with easy-to-understand products, supported by digital technology. Through this customer-led approach, FWD aims to become a leading pan-Asian insurer that changes the way people feel about insurance.<br />
+        <br />
+        Established in Asia in 2013, FWD is the insurance business of investment group, Pacific Century Group.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T034640Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>FWD Group spans Hong Kong &amp; Macau, Thailand, Indonesia, the Philippines, Singapore, Vietnam, Japan and Malaysia, offering life and medical insurance, general insurance, employee benefits, Shariah and Family Takaful products across a number of its markets.</strong><br />
+        <br />
+        FWD is focused on creating fresh customer experiences, with easy-to-understand products, supported by digital technology. Through this customer-led approach, FWD aims to become a leading pan-Asian insurer that changes the way people feel about insurance.<br />
+        <br />
+        Established in Asia in 2013, FWD is the insurance business of investment group, Pacific Century Group.

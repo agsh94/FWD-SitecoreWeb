@@ -1,0 +1,26 @@
+﻿---
+ID: "b1cb6613-942b-48d8-8367-c9393260046d"
+Parent: "67b23de7-dabe-497a-820a-ab51abc44805"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/ohkaju-organic-restaurant/local-folder/ArticleDetails/Description8"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1500
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T011218Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <span style="background: white; color: black;">อีกหนึ่งจานสลัดที่อร่อยแบบไม่ไหวแล้ว</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">กับเมนูสลัดแซลมอนย่างจานนี้ไซส์บิ๊กเบิ้มเหมือนเคย</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">แบ่งครึ่งจานเป็นสลัดผัก</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">5 </span><span style="background: white; color: black;">สี</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">และอีกครึ่งหนึ่งคือแซลมอนย่างที่สุกกำลังพอดี</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">เคียงคู่ด้วยมันบด</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">หน่อไม้ฝรั่ง</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">เห็ดออรินจิ</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">และเห็ดชิตาเกะที่นำไปย่างแล้วไปผัดกับน้ำมันมะกอก</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">เสิร์ฟมาพร้อมกับน้ำสลัด</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">2 </span><span style="background: white; color: black;">อย่าง</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">คือน้ำสลัดใสอิตาเลียน</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">และน้ำสลัดวาซาบิ</span>

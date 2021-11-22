@@ -1,0 +1,14 @@
+﻿---
+ID: "2ff3e47d-e2a3-4895-a1db-f33552931921"
+Parent: "fd590ff7-2406-4a76-b3db-c33021b533a1"
+Template: "8bee9bc5-6dab-4239-9e81-4377e5e0c5b2"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/sa-stepper-and-premium-dropdown-valueprotector/PlanSuper/AttributeFolder"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200614T190430Z

@@ -1,0 +1,53 @@
+﻿---
+ID: "69fcacd9-3ac6-456f-aa9f-b45a16660b4b"
+Parent: "1b0523ab-6442-4efa-a6ce-4ad723171799"
+Template: "b2d6d3cc-54af-43e5-83b9-b500efa0aa92"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/About Us/News
+DB: master
+SharedFields:
+- ID: "3f9cc6f8-f003-47f4-8b4f-4d0137163bea"
+  Hint: contentType
+  Value: "{6F403E21-6155-4307-AAC3-21FC9FD8616F}"
+- ID: "be4e2ad7-6327-4c2f-9fe1-dbe9a2463c90"
+  Hint: subtype
+  Value: "{28B3F2F3-DA74-4F3D-BFD4-24AE65006C85}"
+- ID: "d37288ed-2037-4fe1-af04-e0a3b6fc4db8"
+  Hint: topics
+  Type: Multilist
+  Value: |
+    {A3A37188-F290-4B4A-86B1-DE407F1F1FE6}
+    {E3D5DA14-6C81-4D72-8070-E2FC348FAF11}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{BEE2C510-9FC3-45F0-AE37-A1D44D3A77FD}">
+          <p:d />
+        </r>
+        <r
+          uid="{11334338-1A2D-486D-AEAC-CCFB6D8E075B}"
+          p:after="*[1=2]"
+          s:ds="/siquery:./ancestor::*[@@templateid='{544A6BB2-03FF-404F-889F-225D92310585}']/Settings/Footer" />
+        <r
+          uid="{7A1DFC9C-7918-4790-B516-A4249D8FAAFD}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191121T152555Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,72 @@
+﻿---
+ID: "3565928f-f538-40da-95a1-25096e5da269"
+Parent: "4604a084-1961-49d8-8736-db60a4c57ad9"
+Template: "a0d45892-4b68-42d4-9b33-927e45a3ce73"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Settings/Header
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "fa2ff38e-5b36-47a3-af22-ce7131f3a472"
+  Hint: languageList
+  Type: Multilist
+  Value: "{8896FE2D-7884-419F-83FF-B8AEAA575715}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Header
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b66438e-6dc5-47aa-9a4e-7aa685a84055"
+      Hint: mobileLogo
+      Value: |
+        <image mediaid="{1EDA7359-6BEA-42C6-9D12-1E436A75AD8F}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191112T163450Z
+    - ID: "2ca3f8ae-7653-468f-8a36-0b6af12e32f6"
+      Hint: languageModalTitle
+      Value: This content might not be in your language.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65aecd37-d496-4ca1-b0dd-05fd3dbd45a9"
+      Hint: languageModalDescription
+      Value: We currently working to have this content in your language. You can choose to stay on this page, or proceed to explore other relevant content.
+    - ID: "698c2f3b-061b-47b8-a71d-56e1b2ed152d"
+      Hint: title
+      Value: I'm looking for...
+    - ID: "76d94af7-13b3-44f8-b3fd-d4181ce2a4a5"
+      Hint: placeholderText
+      Value: type keyword or phrase
+    - ID: "8e25c361-d64a-478e-bae9-4ae241fce582"
+      Hint: headerNavigationLinks
+      Value: 
+    - ID: "9057584a-3b70-408f-8205-8a037bd0244e"
+      Hint: countrySelector
+      Value: 
+    - ID: "accab2ad-a39d-42cd-ad30-3b1d170638e6"
+      Hint: languageModalSecondaryLink
+      Value: Stay on page
+    - ID: "d5b8120c-51c6-4205-8072-6617f09874a7"
+      Hint: logo
+      Value: |
+        <image mediaid="{D4662316-161B-4F24-9EB1-2196CE271B08}" />
+    - ID: "dc6ae3af-5c32-4e68-9435-5c776d0f822b"
+      Hint: iconNavigationLinks
+      Value: 
+    - ID: "e482e19c-7356-474e-bc58-bcaa6c09de48"
+      Hint: languageModalLink
+      Value: 
+    - ID: "f291ae29-a2fc-477c-b01e-1b621130a073"
+      Hint: searchPageLink
+      Value: 

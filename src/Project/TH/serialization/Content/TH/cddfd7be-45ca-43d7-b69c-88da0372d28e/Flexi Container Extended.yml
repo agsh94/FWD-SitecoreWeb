@@ -1,0 +1,17 @@
+﻿---
+ID: "ed6a74d8-0095-4a3a-9306-3f7b3158f594"
+Parent: "cddfd7be-45ca-43d7-b69c-88da0372d28e"
+Template: "967a8dad-4a23-491b-95e2-295dec0b64b3"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/about-us/career-agent/local-folder/Flexi Container Extended"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200408T063655Z
+    - ID: "ef4ceecf-b302-475f-be16-370851260a17"
+      Hint: title
+      Value: Latest events

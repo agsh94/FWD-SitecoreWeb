@@ -1,0 +1,21 @@
+﻿---
+ID: "1dd02c62-3570-48ce-9810-021c4ecab620"
+Parent: "8260a212-cb84-4e94-b0fb-47f18f266833"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/About Us/News/coffee-bar/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191122T111548Z
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p style="color: #575757; background: white; margin: 0cm 0cm 7.5pt;">The location of the One Two Two Coffee Bar is located in Soi Srinakarin 57 or Premier Premier Soi, next to Paradise Park Shopping Center. From the entrance of the alley, drive about 200 meters. The shop is on the left.&nbsp;Those who bring the car can park on the street.</p>
+        <p style="color: #575757; background: white; margin: 0cm 0cm 7.5pt;">The shop is a 2-story building, painted entirely white.&nbsp;The shop is located on the 2nd floor, with an outside stairway that leads into the shop.&nbsp;The shop is simply decorated but has chic details.&nbsp;Makes the shop look cool, not light, such as making a long wooden bar&nbsp;So customers can sit back and have a drink while chatting with the barista behind the counter.&nbsp;Creating a long wooden glass bar seat with a wooden table that is designed to fit your knees when sitting properly&nbsp;And can slide in, slide out</p>

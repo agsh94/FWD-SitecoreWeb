@@ -1,0 +1,49 @@
+﻿---
+ID: "5fca5c0c-f2af-42df-a57e-a415ca3cf2fd"
+Parent: "808bcca0-d635-45c4-b071-08c1f87d2a50"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/family-unpublished/local-folder/ContentBlock"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T072044Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "…but we also know it helps when you need it. So our family plans have been designed to help you protect what’s most important. That’s because many of us are parents too, and we know you want to give your kids the best possible start in life. Our family plans have built-in financial security, designed to safeguard everyone’s health."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdtestauthor
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: We know that money isn’t the most important thing…
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1189664e-c462-4227-9fea-efb77771ad71"
+      Hint: enableFeaturedTags
+      Type: Checkbox
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T134653Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: ...แต่เงินก็เป็นตัวช่วยเมื่อถึงคราวจำเป็น เราจึงออกแบบประกันชีวิตสำหรับครอบครัวเพื่อให้คุณสร้างหลักประกันทางการเงินที่มั่นคง เพื่อให้ทุกจุดเริ่มต้นของชีวิตลูกดีที่สุดเท่าที่จะเป็นไปได้ เพราะในฐานะที่เราหลายคนก็เป็นพ่อแม่เช่นกัน เราจึงเข้าใจว่าคุณต้องการปกป้องสิ่งที่สำคัญที่สุดในชีวิต และเรายังพร้อมช่วยดูแลสุขภาพของพวกเขาเพื่อให้คุณเบาใจ และใช้ชีวิตได้อย่างมีความสุข
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: เรารู้ว่าเงินไม่ใช่สิ่งสำคัญที่สุด...

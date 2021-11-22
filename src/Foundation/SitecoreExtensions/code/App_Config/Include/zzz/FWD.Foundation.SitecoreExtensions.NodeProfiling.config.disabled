@@ -1,0 +1,9 @@
+<configuration xmlns:patch="http://www.sitecore.net/xmlconfig/">
+    <sitecore>
+        <services>
+            <configurator
+              type="FWD.Foundation.SitecoreExtensions.Pipelines.CustomRegisterDependencies, FWD.Foundation.SitecoreExtensions"
+              patch:after="*[@type='Sitecore.JavaScriptServices.ViewEngine.Node.RegisterDependencies, Sitecore.JavaScriptServices.ViewEngine.Node']" />
+        </services>
+    </sitecore>
+</configuration>

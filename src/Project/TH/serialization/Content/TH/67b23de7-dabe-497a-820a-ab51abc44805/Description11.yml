@@ -1,0 +1,26 @@
+﻿---
+ID: "df1a62bd-3299-4898-aeca-18eda62e0f88"
+Parent: "67b23de7-dabe-497a-820a-ab51abc44805"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/ohkaju-organic-restaurant/local-folder/ArticleDetails/Description11"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2100
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T011414Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <span style="background: white; color: black;">ไล่ลำดับเลเวลความหนักมาจนถึงเมนูจานยักษ์อย่างสเต๊กกันบ้าง</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ครั้งนี้ขอจัดมาถึง</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">3 </span><span style="background: white; color: black;">จาน</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">เริ่มต้นด้วยสเต๊กไก่โอ้กะจู๋</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ที่ใช้เนื้ออกไก่ชิ้นโตมาหมักจนได้ที่แล้วนำไปย่างด้วยไฟอ่อนๆ</span><span style="background: white; color: black;">เสิร์ฟมาพร้อม เบค่อนกรอบ</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">สวิสชีส</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ท็อปด้านบนด้วยซัลซ่า</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">เป็นสเต๊กไก่ที่คอนเฟิร์มเลยว่าอร่อยที่สุดเท่าที่ผมเคยกินมา</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ตัวไก่นุ่มมากๆ</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">และเนื้อไก่มีความชุ่มฉ่ำแบบจุยซี่</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">เสิร์ฟมาพร้อมสลัดผัก</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">5 </span><span style="background: white; color: black;">สี</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">และยังมีไซด์ดิชที่มีให้เลือก</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">5 </span><span style="background: white; color: black;">อย่าง</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ทั้งเฟรนช์ฟราย</span><span style="background: white; color: black;">, </span><span style="background: white; color: black;">หอมทอด</span><span style="background: white; color: black;">, </span><span style="background: white; color: black;">มันบด</span><span style="background: white; color: black;">, </span><span style="background: white; color: black;">ข้าวขมิ้น</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">และมันหวาน</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ซึ่งครั้งนี้ผมเลือกมันหวานฮะ</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ทำจากมันเทศบอกเลยว่าอร่อยมากๆ</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">เพราะมันจะมีความหนึบและความหวานกินคู่กับสเต๊กไก่ที่มีความเค็มอยู่แล้วมันช่างตัดกันสุดๆ</span><span style="background: white; color: black;"></span>

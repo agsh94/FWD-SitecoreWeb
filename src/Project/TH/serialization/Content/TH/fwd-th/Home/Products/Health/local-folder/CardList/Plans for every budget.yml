@@ -1,0 +1,72 @@
+﻿---
+ID: "d8e44d35-38ac-4bfa-ad6f-ce0c79a02c5d"
+Parent: "b305c05f-5f09-4ba2-9cbd-61344d5d66cc"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/local-folder/CardList/Plans for every budget"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Plans for every budget
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: "We have affordable plans for every budget - and a range of payment options for every need."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T182834Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: Plans for every budget
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{ED9A4992-7AD0-413E-BDA2-E18C4FEAAED7}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{ED9A4992-7AD0-413E-BDA2-E18C4FEAAED7}" />
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value:  Plans for every budget 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: เรามีแบบประกันที่จับต้องได้ ไม่ว่ามีงบเท่าไหร่ก็เลือกความคุ้มครองได้ครอบคลุม พร้อมเลือกงวดชำระเบี้ยได้ตามต้องการ
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200410T081916Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: แบบประกันสำหรับทุกความต้องการ
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{ED9A4992-7AD0-413E-BDA2-E18C4FEAAED7}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{ED9A4992-7AD0-413E-BDA2-E18C4FEAAED7}" />

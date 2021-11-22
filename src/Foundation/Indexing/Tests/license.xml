@@ -1,0 +1,444 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/xsl' href='http://www.sitecore.net/licenseviewer/license.xsl'?>
+<signedlicense id='20200224134408'>
+    <Signature>
+        <SignedInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <CanonicalizationMethod Algorithm='http://www.w3.org/TR/2001/REC-xml-c14n-20010315' />
+            <SignatureMethod Algorithm='http://www.w3.org/2000/09/xmldsig#rsa-sha1' />
+            <Reference URI='#SiteCore.License'>
+                <DigestMethod Algorithm='http://www.w3.org/2000/09/xmldsig#sha1' />
+                <DigestValue>c99HBfUUJz71MtAhUX24+jv49NU=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>ZmVRxUhUAGQfiSVkLmSNyUIA0HWTlmPSrVP+5OOZWYZeltYRFO0MJqK/x1/F/PjN47MNaCU5LrieOGKTZ4CqQCS807trPH9BYRu7fFzsGf+6Y1daKOt3onJML8kWX3WcujeZBivbYDiEvTZstA8+cHuJ+9GGhTXyOh2qEacEl94=
+        </SignatureValue>
+        <KeyInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <KeyValue>
+                <RSAKeyValue>
+                    <Modulus>wRSGFs73V0JMKVVRCX9pEVmluvNojvtDvzHduZ+pX458q9THGbti8zEty6ydF7nxVFCRriONFm6w+PtcZhRT+eXMb21jzY6biII4BXdh91BmVZ96FyYROMnHS6zjfK7+oDbsVV8XWkZ11DiHa+9wySxQcc4fBd23xGYpo52p2fc=</Modulus>
+                    <Exponent>AQAB</Exponent>
+                </RSAKeyValue>
+            </KeyValue>
+        </KeyInfo>
+        <Object Id='SiteCore.License'
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <license
+                xmlns=''>
+                <id>20200224134408</id>
+                <expiration>21000101T000000</expiration>
+                <version>9</version>
+                <urls>?</urls>
+                <licensee>FWD Group Management Holdings Limited</licensee>
+                <companyno />
+                <purpose />
+                <address />
+                <countryiso />
+                <country>Hong Kong</country>
+                <reseller />
+                <resellerurl />
+                <licenseagreement id='{41192D07-0B58-4957-BEBB-C4BEEAC3878A}' title='License Agreement'>
+                    <![CDATA[Your usage rights to the Sitecore Software are as set forth in your license agreement with Sitecore.]]>
+                </licenseagreement>
+            </license>
+        </Object>
+    </Signature>
+    <Signature>
+        <SignedInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <CanonicalizationMethod Algorithm='http://www.w3.org/TR/2001/REC-xml-c14n-20010315' />
+            <SignatureMethod Algorithm='http://www.w3.org/2000/09/xmldsig#rsa-sha1' />
+            <Reference URI='#SiteCore.ContentManager'>
+                <DigestMethod Algorithm='http://www.w3.org/2000/09/xmldsig#sha1' />
+                <DigestValue>sQnvPW3zdjxERcbX6P7kl8lByLY=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>H2T6V2iAmFCArXZRLaIAeVJNd6DK6meSbu4YxFtAaBJrqKXVwM6S3DnbXIorbie3ufaE08PLBI8w8wWp8IPteFdSod+STZ+hgQT9bnIbyPqJLL6HTPSfuw/nbHqjoDMq2uwOcN+e6Yo4pd2YiEChPr8fe8PgsxOIMEHTd8GHM7g=
+        </SignatureValue>
+        <KeyInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <KeyValue>
+                <RSAKeyValue>
+                    <Modulus>wRSGFs73V0JMKVVRCX9pEVmluvNojvtDvzHduZ+pX458q9THGbti8zEty6ydF7nxVFCRriONFm6w+PtcZhRT+eXMb21jzY6biII4BXdh91BmVZ96FyYROMnHS6zjfK7+oDbsVV8XWkZ11DiHa+9wySxQcc4fBd23xGYpo52p2fc=</Modulus>
+                    <Exponent>AQAB</Exponent>
+                </RSAKeyValue>
+            </KeyValue>
+        </KeyInfo>
+        <Object Id='SiteCore.ContentManager'
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <module
+                xmlns=''>
+                <idref>20200224134408</idref>
+                <name>SiteCore.ContentManager</name>
+                <count>7</count>
+                <expiration>21000101T000000</expiration>
+                <version>9</version>
+                <comment />
+                <licenseagreement>?</licenseagreement>
+            </module>
+        </Object>
+    </Signature>
+    <Signature>
+        <SignedInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <CanonicalizationMethod Algorithm='http://www.w3.org/TR/2001/REC-xml-c14n-20010315' />
+            <SignatureMethod Algorithm='http://www.w3.org/2000/09/xmldsig#rsa-sha1' />
+            <Reference URI='#Sitecore.Environment'>
+                <DigestMethod Algorithm='http://www.w3.org/2000/09/xmldsig#sha1' />
+                <DigestValue>YNQ2faJZ2SYwn1EIocW9K6gC0ck=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>ooxt5n5jRaOr0xoaIaW1hrTDYibFkGF2+F5v85VXEUop6yY6e5Vav+WtlsrmciFZ2/c2JRoRpNxokBg7NzCvWMJeuJh4pESpWmzu9yjJnzxbzvLTV5bBO5K0X1s/W9IpEs+I4R6H9s8pyfMFhJ8wMptiNwrzxBE4FNPza/o/uXk=
+        </SignatureValue>
+        <KeyInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <KeyValue>
+                <RSAKeyValue>
+                    <Modulus>wRSGFs73V0JMKVVRCX9pEVmluvNojvtDvzHduZ+pX458q9THGbti8zEty6ydF7nxVFCRriONFm6w+PtcZhRT+eXMb21jzY6biII4BXdh91BmVZ96FyYROMnHS6zjfK7+oDbsVV8XWkZ11DiHa+9wySxQcc4fBd23xGYpo52p2fc=</Modulus>
+                    <Exponent>AQAB</Exponent>
+                </RSAKeyValue>
+            </KeyValue>
+        </KeyInfo>
+        <Object Id='Sitecore.Environment'
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <module
+                xmlns=''>
+                <idref>20200224134408</idref>
+                <name>Sitecore.Environment</name>
+                <count>7</count>
+                <expiration>21000101T000000</expiration>
+                <version>9</version>
+                <comment />
+                <licenseagreement>?</licenseagreement>
+            </module>
+        </Object>
+    </Signature>
+    <Signature>
+        <SignedInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <CanonicalizationMethod Algorithm='http://www.w3.org/TR/2001/REC-xml-c14n-20010315' />
+            <SignatureMethod Algorithm='http://www.w3.org/2000/09/xmldsig#rsa-sha1' />
+            <Reference URI='#Sitecore.FederatedExperienceManager'>
+                <DigestMethod Algorithm='http://www.w3.org/2000/09/xmldsig#sha1' />
+                <DigestValue>UxnNKbocwf/YxyLK/5DJzPOKPkg=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>oKKyCOp4ZRstdodNdPHlprGiT/fpFFPEKp1bbFFiQ1Q+M0RYU6ubDtFhq/uaOVdj4/3O5YY/b2B3DvqApnm2zX8Apsi5JLHUHxP2B7OAwy318/DgNdPHqxs+ngKpt/+HqVHFbDLQdaWzCcGLVkTjkGWHUZT8u0fH4o/qzkzvd7w=
+        </SignatureValue>
+        <KeyInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <KeyValue>
+                <RSAKeyValue>
+                    <Modulus>wRSGFs73V0JMKVVRCX9pEVmluvNojvtDvzHduZ+pX458q9THGbti8zEty6ydF7nxVFCRriONFm6w+PtcZhRT+eXMb21jzY6biII4BXdh91BmVZ96FyYROMnHS6zjfK7+oDbsVV8XWkZ11DiHa+9wySxQcc4fBd23xGYpo52p2fc=</Modulus>
+                    <Exponent>AQAB</Exponent>
+                </RSAKeyValue>
+            </KeyValue>
+        </KeyInfo>
+        <Object Id='Sitecore.FederatedExperienceManager'
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <module
+                xmlns=''>
+                <idref>20200224134408</idref>
+                <name>Sitecore.FederatedExperienceManager</name>
+                <count>7</count>
+                <expiration>21000101T000000</expiration>
+                <version>9</version>
+                <comment />
+                <licenseagreement>?</licenseagreement>
+            </module>
+        </Object>
+    </Signature>
+    <Signature>
+        <SignedInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <CanonicalizationMethod Algorithm='http://www.w3.org/TR/2001/REC-xml-c14n-20010315' />
+            <SignatureMethod Algorithm='http://www.w3.org/2000/09/xmldsig#rsa-sha1' />
+            <Reference URI='#SiteCore.Runtime'>
+                <DigestMethod Algorithm='http://www.w3.org/2000/09/xmldsig#sha1' />
+                <DigestValue>w6Ddk5qJpdYVDIk/6hGcBvheii8=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>Or8vUGR7vpdo9oGc9JjnACeeNyB8dTNkIiXyDllt71+b2ggJSmr5efJTeFgQpNsAip7Y3HD4Dnjv1hiDmRoQbdwxAoM2zNmEjJUeAmeHxgUV2HqYP1XblnT8WSYFnR8GUQK22Gblo47FRUeh2v7KYI1FxeOirLphP4s77xXqe24=
+        </SignatureValue>
+        <KeyInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <KeyValue>
+                <RSAKeyValue>
+                    <Modulus>wRSGFs73V0JMKVVRCX9pEVmluvNojvtDvzHduZ+pX458q9THGbti8zEty6ydF7nxVFCRriONFm6w+PtcZhRT+eXMb21jzY6biII4BXdh91BmVZ96FyYROMnHS6zjfK7+oDbsVV8XWkZ11DiHa+9wySxQcc4fBd23xGYpo52p2fc=</Modulus>
+                    <Exponent>AQAB</Exponent>
+                </RSAKeyValue>
+            </KeyValue>
+        </KeyInfo>
+        <Object Id='SiteCore.Runtime'
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <module
+                xmlns=''>
+                <idref>20200224134408</idref>
+                <name>SiteCore.Runtime</name>
+                <count>7</count>
+                <expiration>21000101T000000</expiration>
+                <version>9</version>
+                <comment />
+                <licenseagreement>?</licenseagreement>
+            </module>
+        </Object>
+    </Signature>
+    <Signature>
+        <SignedInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <CanonicalizationMethod Algorithm='http://www.w3.org/TR/2001/REC-xml-c14n-20010315' />
+            <SignatureMethod Algorithm='http://www.w3.org/2000/09/xmldsig#rsa-sha1' />
+            <Reference URI='#Sitecore.SXA'>
+                <DigestMethod Algorithm='http://www.w3.org/2000/09/xmldsig#sha1' />
+                <DigestValue>cMgjYLgezx6FHWIxy6BhmLoO6wQ=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>bdCSz3r6VPs6GIRQLmbGOxb7eOHzGU0+y1L0bJc6JqXyw8uiKZ4xx9k1HBiRxE+Vb2ID4Dm/66erAJ+S9jqVQYuJravyQUOS7brHIINyG5dwMWIzxT0gIo71aaJtjp43blBXjhbs0H73wQNKkPtoY0EXQc2UJQtt7/9i3I0uuLI=
+        </SignatureValue>
+        <KeyInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <KeyValue>
+                <RSAKeyValue>
+                    <Modulus>wRSGFs73V0JMKVVRCX9pEVmluvNojvtDvzHduZ+pX458q9THGbti8zEty6ydF7nxVFCRriONFm6w+PtcZhRT+eXMb21jzY6biII4BXdh91BmVZ96FyYROMnHS6zjfK7+oDbsVV8XWkZ11DiHa+9wySxQcc4fBd23xGYpo52p2fc=</Modulus>
+                    <Exponent>AQAB</Exponent>
+                </RSAKeyValue>
+            </KeyValue>
+        </KeyInfo>
+        <Object Id='Sitecore.SXA'
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <module
+                xmlns=''>
+                <idref>20200224134408</idref>
+                <name>Sitecore.SXA</name>
+                <count>7</count>
+                <expiration>21000101T000000</expiration>
+                <version>9</version>
+                <comment />
+                <licenseagreement>?</licenseagreement>
+            </module>
+        </Object>
+    </Signature>
+    <Signature>
+        <SignedInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <CanonicalizationMethod Algorithm='http://www.w3.org/TR/2001/REC-xml-c14n-20010315' />
+            <SignatureMethod Algorithm='http://www.w3.org/2000/09/xmldsig#rsa-sha1' />
+            <Reference URI='#Sitecore.xDB.Base'>
+                <DigestMethod Algorithm='http://www.w3.org/2000/09/xmldsig#sha1' />
+                <DigestValue>DuIl8/N171R3uZo/PIDrSuB5mBA=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>ZmKsAmONco3UnzqZHvgJ0xpdY+s1+NLtSc0N3qhMe2S+gUQro8NwKiEnRNy6A6I/pvfBzHChrRZDFPQxJZcmbQOiUsfpdd6Qmz60f3q0NPOdNWv2rFtsFM/U1i3JXmeauJ/VSfaWgDe4xjpvqjfQ+RaG4xrbq1ga9v/5xoQkhUs=
+        </SignatureValue>
+        <KeyInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <KeyValue>
+                <RSAKeyValue>
+                    <Modulus>wRSGFs73V0JMKVVRCX9pEVmluvNojvtDvzHduZ+pX458q9THGbti8zEty6ydF7nxVFCRriONFm6w+PtcZhRT+eXMb21jzY6biII4BXdh91BmVZ96FyYROMnHS6zjfK7+oDbsVV8XWkZ11DiHa+9wySxQcc4fBd23xGYpo52p2fc=</Modulus>
+                    <Exponent>AQAB</Exponent>
+                </RSAKeyValue>
+            </KeyValue>
+        </KeyInfo>
+        <Object Id='Sitecore.xDB.Base'
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <module
+                xmlns=''>
+                <idref>20200224134408</idref>
+                <name>Sitecore.xDB.Base</name>
+                <count>7</count>
+                <expiration>21000101T000000</expiration>
+                <version>9</version>
+                <comment />
+                <licenseagreement>?</licenseagreement>
+            </module>
+        </Object>
+    </Signature>
+    <Signature>
+        <SignedInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <CanonicalizationMethod Algorithm='http://www.w3.org/TR/2001/REC-xml-c14n-20010315' />
+            <SignatureMethod Algorithm='http://www.w3.org/2000/09/xmldsig#rsa-sha1' />
+            <Reference URI='#Sitecore.XP'>
+                <DigestMethod Algorithm='http://www.w3.org/2000/09/xmldsig#sha1' />
+                <DigestValue>j0S+Kmx1KKlxZSFYZr+XCJIRYgY=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>YZHRDmGJR8fTorEqUV1yZ3dAyiH9gQRbcFPz8x4nbbi2dsuAxGJQmRb+AH7w4iTrJU8Gt0hPv+eqdX0pYl5wNu3tHjvyKl7fqUVFdecuOlWmbudSphISlYEsGiTA8VAUL0d+ydv+lkQDcmVWPpy4PSks9AzPpD8ju5tjPQomf40=
+        </SignatureValue>
+        <KeyInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <KeyValue>
+                <RSAKeyValue>
+                    <Modulus>wRSGFs73V0JMKVVRCX9pEVmluvNojvtDvzHduZ+pX458q9THGbti8zEty6ydF7nxVFCRriONFm6w+PtcZhRT+eXMb21jzY6biII4BXdh91BmVZ96FyYROMnHS6zjfK7+oDbsVV8XWkZ11DiHa+9wySxQcc4fBd23xGYpo52p2fc=</Modulus>
+                    <Exponent>AQAB</Exponent>
+                </RSAKeyValue>
+            </KeyValue>
+        </KeyInfo>
+        <Object Id='Sitecore.XP'
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <module
+                xmlns=''>
+                <idref>20200224134408</idref>
+                <name>Sitecore.XP</name>
+                <count>7</count>
+                <expiration>21000101T000000</expiration>
+                <version>9</version>
+                <comment />
+                <licenseagreement>?</licenseagreement>
+            </module>
+        </Object>
+    </Signature>
+    <Signature>
+        <SignedInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <CanonicalizationMethod Algorithm='http://www.w3.org/TR/2001/REC-xml-c14n-20010315' />
+            <SignatureMethod Algorithm='http://www.w3.org/2000/09/xmldsig#rsa-sha1' />
+            <Reference URI='#Sitecore.Visit'>
+                <DigestMethod Algorithm='http://www.w3.org/2000/09/xmldsig#sha1' />
+                <DigestValue>WnUHP5UFZoKcIHZGBwax+l2p9sk=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>TTpQx8h0odxbplUIaGMz6mD61HWB49Y1sa01yM5096gv0Tp62LsZbG+vVM03noF171AnHJyMHePkfOAuNscstnoQfbg6pbCgXTmizJJ+PVWGNTqyPq9nXv11/fHibkyNNqSKc64E+aN2jpkHDN7qWja5ASa40EZ8jmbN8oB+WIM=
+        </SignatureValue>
+        <KeyInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <KeyValue>
+                <RSAKeyValue>
+                    <Modulus>wRSGFs73V0JMKVVRCX9pEVmluvNojvtDvzHduZ+pX458q9THGbti8zEty6ydF7nxVFCRriONFm6w+PtcZhRT+eXMb21jzY6biII4BXdh91BmVZ96FyYROMnHS6zjfK7+oDbsVV8XWkZ11DiHa+9wySxQcc4fBd23xGYpo52p2fc=</Modulus>
+                    <Exponent>AQAB</Exponent>
+                </RSAKeyValue>
+            </KeyValue>
+        </KeyInfo>
+        <Object Id='Sitecore.Visit'
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <module
+                xmlns=''>
+                <idref>20200224134408</idref>
+                <name>Sitecore.Visit</name>
+                <count>166668</count>
+                <expiration>21000101T000000</expiration>
+                <version>9</version>
+                <comment />
+                <licenseagreement>?</licenseagreement>
+            </module>
+        </Object>
+    </Signature>
+    <Signature>
+        <SignedInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <CanonicalizationMethod Algorithm='http://www.w3.org/TR/2001/REC-xml-c14n-20010315' />
+            <SignatureMethod Algorithm='http://www.w3.org/2000/09/xmldsig#rsa-sha1' />
+            <Reference URI='#Sitecore.Env.NonProd'>
+                <DigestMethod Algorithm='http://www.w3.org/2000/09/xmldsig#sha1' />
+                <DigestValue>jNaJIICnZ5lsdEF7R5pQb74elkI=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>RrOvBqPbCMKsckFfsU0LuzoCBb85Tmmikl/qzgUlEcMTec0F5yyjkzgKn6TMr1RzmK+YOpDuqwIX9GSVTEIDyaLl/Wdkp/umutDhrsCTgRkgNO5Yjl5tvT1GUVt6Lag2iTvY/a5ANCs+acfN/KU09YFVaZjg1pNEViQbQrzNtT8=
+        </SignatureValue>
+        <KeyInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <KeyValue>
+                <RSAKeyValue>
+                    <Modulus>wRSGFs73V0JMKVVRCX9pEVmluvNojvtDvzHduZ+pX458q9THGbti8zEty6ydF7nxVFCRriONFm6w+PtcZhRT+eXMb21jzY6biII4BXdh91BmVZ96FyYROMnHS6zjfK7+oDbsVV8XWkZ11DiHa+9wySxQcc4fBd23xGYpo52p2fc=</Modulus>
+                    <Exponent>AQAB</Exponent>
+                </RSAKeyValue>
+            </KeyValue>
+        </KeyInfo>
+        <Object Id='Sitecore.Env.NonProd'
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <module
+                xmlns=''>
+                <idref>20200224134408</idref>
+                <name>Sitecore.Env.NonProd</name>
+                <count>7</count>
+                <expiration>21000101T000000</expiration>
+                <version>9</version>
+                <comment />
+                <licenseagreement>?</licenseagreement>
+            </module>
+        </Object>
+    </Signature>
+    <Signature>
+        <SignedInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <CanonicalizationMethod Algorithm='http://www.w3.org/TR/2001/REC-xml-c14n-20010315' />
+            <SignatureMethod Algorithm='http://www.w3.org/2000/09/xmldsig#rsa-sha1' />
+            <Reference URI='#Sitecore.JSS'>
+                <DigestMethod Algorithm='http://www.w3.org/2000/09/xmldsig#sha1' />
+                <DigestValue>4/rCdNBR0SXSmf2+8N7OQRMr1pM=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>jQMIWxfWHqBtIaELF6BMLyyjJ5JpJujYTHnzVOYoY7a4/HnyJduBSucpfnHGSYytm9VJQbgXs49MkS4Ed0dYPQGWAE9RPgjB4cqrsdUP6yQdbHDv6cFDah1iSS7S4GeXfFwDS0SNYw/t0gGi+zta5A0nDGXuW0sFiXyGt10jfxc=
+        </SignatureValue>
+        <KeyInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <KeyValue>
+                <RSAKeyValue>
+                    <Modulus>wRSGFs73V0JMKVVRCX9pEVmluvNojvtDvzHduZ+pX458q9THGbti8zEty6ydF7nxVFCRriONFm6w+PtcZhRT+eXMb21jzY6biII4BXdh91BmVZ96FyYROMnHS6zjfK7+oDbsVV8XWkZ11DiHa+9wySxQcc4fBd23xGYpo52p2fc=</Modulus>
+                    <Exponent>AQAB</Exponent>
+                </RSAKeyValue>
+            </KeyValue>
+        </KeyInfo>
+        <Object Id='Sitecore.JSS'
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <module
+                xmlns=''>
+                <idref>20200224134408</idref>
+                <name>Sitecore.JSS</name>
+                <count>7</count>
+                <expiration>21000101T000000</expiration>
+                <version>9</version>
+                <comment />
+                <licenseagreement>?</licenseagreement>
+            </module>
+        </Object>
+    </Signature>
+    <Signature>
+        <SignedInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <CanonicalizationMethod Algorithm='http://www.w3.org/TR/2001/REC-xml-c14n-20010315' />
+            <SignatureMethod Algorithm='http://www.w3.org/2000/09/xmldsig#rsa-sha1' />
+            <Reference URI='#SiteCore.EditorUser'>
+                <DigestMethod Algorithm='http://www.w3.org/2000/09/xmldsig#sha1' />
+                <DigestValue>hpegixf+PlsqrwOQHa9FtM/YkTM=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>qtBey5La1qgD1eishxbXBVFD3uo34iLy9ulvUwpEn0J9TXEV/MxTPlXvq+4epprLoqGqnAnaj0/RdB/Fwjijb6uzcmloROiYJW/KtwA7uXvDdCdR2g3CmNB24ItS+hjMOPdZ+nYLMN26Ws5qvGTXlOm3eyOBER5l7IXJy4/3CuE=
+        </SignatureValue>
+        <KeyInfo
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <KeyValue>
+                <RSAKeyValue>
+                    <Modulus>wRSGFs73V0JMKVVRCX9pEVmluvNojvtDvzHduZ+pX458q9THGbti8zEty6ydF7nxVFCRriONFm6w+PtcZhRT+eXMb21jzY6biII4BXdh91BmVZ96FyYROMnHS6zjfK7+oDbsVV8XWkZ11DiHa+9wySxQcc4fBd23xGYpo52p2fc=</Modulus>
+                    <Exponent>AQAB</Exponent>
+                </RSAKeyValue>
+            </KeyValue>
+        </KeyInfo>
+        <Object Id='SiteCore.EditorUser'
+            xmlns='http://www.w3.org/2000/09/xmldsig#'>
+            <module
+                xmlns=''>
+                <idref>20200224134408</idref>
+                <name>SiteCore.EditorUser</name>
+                <count>16</count>
+                <expiration>21000101T000000</expiration>
+                <version>9</version>
+                <comment />
+                <licenseagreement>?</licenseagreement>
+            </module>
+        </Object>
+    </Signature>
+</signedlicense>

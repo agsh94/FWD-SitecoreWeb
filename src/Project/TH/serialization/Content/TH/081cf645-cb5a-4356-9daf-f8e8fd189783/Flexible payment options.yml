@@ -1,0 +1,96 @@
+﻿---
+ID: "2d8a27cb-2c79-4794-9bf4-21b044885e34"
+Parent: "081cf645-cb5a-4356-9daf-f8e8fd189783"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Life Protection/value-protector/local-folder/CardList/Flexible payment options"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: Choose a payment term of 10 years, 20 years or until the age of 90 – our flexibility means it won’t affect your other financial commitments.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T182834Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: Flexible payment options
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{7F037B6B-F210-4CF4-90A1-EEB91AFB8146}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{7F037B6B-F210-4CF4-90A1-EEB91AFB8146}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: เพราะเรารู้ว่าภาระในชีวิตของแต่ละคนนั้นแตกต่าง จึงให้คุณเลือกระยะเวลาชำระเบี้ยได้ตามต้องการ ทั้งแบบ 10 ปี / 20 ปี หรือ 90 ปี
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200410T081956Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: เลือกระยะเวลาชำระเบี้ยได้
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{7F037B6B-F210-4CF4-90A1-EEB91AFB8146}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{7F037B6B-F210-4CF4-90A1-EEB91AFB8146}" />
+  - Version: 2
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: เพราะเรารู้ว่า ทุกคนมีภาระที่แตกต่างกัน เราจึงให้คุณเลือกระยะเวลาชำระเบี้ยฯ ได้ตามต้องการ ทั้งแบบ 10 ปี / 20 ปี หรือถึงอายุ 90 ปี
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200814T031910Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: เลือกระยะเวลาชำระเบี้ยประกันได้
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{7F037B6B-F210-4CF4-90A1-EEB91AFB8146}" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200814T031910Z
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{7F037B6B-F210-4CF4-90A1-EEB91AFB8146}" />

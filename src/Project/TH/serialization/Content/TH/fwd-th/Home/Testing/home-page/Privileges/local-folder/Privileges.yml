@@ -1,0 +1,39 @@
+﻿---
+ID: "ce3dd994-0407-4f23-bb69-eea6a618c291"
+Parent: "b9f2bda5-b462-45a0-a87c-3c889d03d5a0"
+Template: "d9a88b8c-3b88-4428-820f-779e6c1991a6"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Privileges/local-folder/Privileges"
+DB: master
+SharedFields:
+- ID: "d3fe3a20-83db-44ee-b010-e26a2fcced15"
+  Hint: linkItems
+  Value: "{41AAC906-7E42-4BAF-9610-5543088FD74D}|{3CD8C54D-D056-4DDD-B747-1D132929F715}|{520C8DAE-8EF3-4046-862F-7A0C68FFD6A7}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0bf240d5-8d38-41e4-a1bd-ae96553f5585"
+      Hint: title
+      Value: Latest Privileges
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200219T092757Z
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See all Test Privilges" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{49F0D81D-2E91-44B2-9F6E-3267BABAFA41}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0bf240d5-8d38-41e4-a1bd-ae96553f5585"
+      Hint: title
+      Value: Latest Privileges
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200311T085905Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

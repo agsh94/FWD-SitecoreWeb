@@ -1,0 +1,771 @@
+﻿---
+ID: "0974dab0-c548-40d8-8ccd-491b4ff514b4"
+Parent: "cc3f0f9c-2f1d-4151-9d50-8817d8833a0a"
+Template: "ab750b30-eb3c-4f78-acd7-7124675e31b9"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/the-exclusive-care"
+DB: master
+SharedFields:
+- ID: "0335b2bf-73a5-4556-845c-3d293900a051"
+  Hint: calculationOptions
+  Type: Multilist
+  Value: |
+    {4427E37A-FF0A-4C22-956A-B6775EE2D406}
+    {997537B8-BA25-403A-822A-FA55F7C6DCDC}
+- ID: "1294d890-c666-4ba0-b34a-68aaacfb432c"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: "{67F745F2-3A37-4569-B598-0B98CDC6B144}"
+- ID: "1d3856ad-c8db-42d3-b82a-e7d555d1c57b"
+  Hint: contentType
+  Value: "{A57B5556-98B3-4112-AC9F-1926D90455B8}"
+- ID: "1e782c94-c96a-4b39-b307-11d29bd39b83"
+  Hint: parameters
+  Value: "{A92C4649-6913-4A36-BC07-4E6095C518E2}=Corporate-TheExclusiveCARE&{D8401411-ACDC-4221-A0B9-BF30463B2E5C}=%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A2%20The%20Exclusive%20CARE&{2DB614A6-AFE0-48C9-BADF-9E86E1D8081A}=N"
+- ID: "27dcf3b3-6b64-45be-9830-7b18e7b5a30d"
+  Hint: purchaseMethod
+  Type: Multilist
+  Value: "{9C0ACDAD-FDB8-4D81-98AD-4A6D09F5A0F8}"
+- ID: "3d992b17-a5b9-46ad-ad74-057f59dde04e"
+  Hint: userType
+  Type: Multilist
+  Value: "{4C697943-FF95-4B21-9636-95C25F2A1A56}"
+- ID: "40e7cd76-1c3f-4c59-9add-5d87fd722c95"
+  Hint: minimumSumAssured
+  Value: 550000
+- ID: "53e81091-36e9-4fae-82ef-cc970323fb4a"
+  Hint: promotionLabel
+  Value: "{434831C0-612F-4135-8264-BCFDCC6EF27D}"
+- ID: "5da84e26-edc9-46f4-a612-9d0a06f10f78"
+  Hint: maxAge
+  Value: 70
+- ID: "64abb349-60f0-4cdd-ba49-85d3e30a064c"
+  Hint: maximumSumAssured
+  Value: 3300000
+- ID: "71c19061-4acb-437b-aa10-bce14430a683"
+  Hint: premiumSelectionType
+  Value: "{5AAFB9B3-C726-43C7-B42B-3D7CB583EF7A}"
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: "{FB2C4A8A-0593-44B7-B7C4-AE07AF4F8BB2}"
+- ID: "7d65632c-3707-4aa1-8fde-154708f5309b"
+  Hint: secondaryNeedTags
+  Type: Multilist
+  Value: |
+    {147B9125-5DD2-438B-81F2-B1D370122B56}
+    {BFF3373D-BF65-4D18-9C77-585F7B90FF34}
+    {07176E71-7DA2-4DCD-B6F8-2B1DF480446C}
+- ID: "94def7f2-cb5c-478d-b5a3-58b9337cec2f"
+  Hint: minAge
+  Value: 0
+- ID: "95f6d4a5-8a21-4df1-bc3f-854aec6266e0"
+  Hint: premiumRange
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "af94fe71-3c3b-4b14-ae3a-dca68b492f9f"
+  Hint: expectedInsuranceType
+  Value: "{33306E81-6A70-459A-8379-6F6060FE2F50}"
+- ID: "b3910e5d-a842-4cc7-ac42-7a16a325a534"
+  Hint: promotionLabelIcon
+  Value: "{5068E94F-A8F8-4A5A-BD88-A77A00E7EA31}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+- ID: "bdc75d02-2884-4dbb-a5a1-f54b2d539328"
+  Hint: featuredTags
+  Type: Treelist
+  Value: |
+    {67F745F2-3A37-4569-B598-0B98CDC6B144}
+    {147B9125-5DD2-438B-81F2-B1D370122B56}
+    {BFF3373D-BF65-4D18-9C77-585F7B90FF34}
+- ID: "d9c07f77-f259-40d6-a5ba-9d6d81f78602"
+  Hint: sumAssuredRange
+  Value: 
+- ID: "e09501cb-adda-4125-a787-ba70b6b7e436"
+  Hint: planComponent
+  Value: "{685EAA7C-AB5F-4274-B3BC-01A34E45A474}"
+- ID: "e3e8c0b9-206d-4244-979b-966180ad502e"
+  Hint: sumAssuredPaymentMode
+  Type: Multilist
+  Value: |
+    {A90AED14-A023-4680-B2BE-A1999121D860}
+    {30D4F456-6094-443C-B87F-90D7EF7C2F6E}
+    {733A0160-DEBE-4F25-B188-819B3CF815A2}
+    {F6488E62-B165-449F-A3EE-43234D6D7C72}
+- ID: "ed85308c-d1e0-4bc4-95d2-6f72dd0a983e"
+  Hint: minimumPremiumYearly
+  Value: 19800
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <p
+          uid="{D700A48C-6A70-4030-AEBD-2687ED523B9C}">
+          <p:d />
+        </p>
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}">
+          <p:d />
+        </r>
+        <r
+          uid="{E29659DC-AFAE-41F4-888B-95E901B67F55}">
+          <p:d />
+        </r>
+        <r
+          uid="{9E368FE2-5DFB-465C-9E94-837AD3BB0696}">
+          <p:d />
+        </r>
+        <r
+          uid="{C04DA881-B7C4-4924-B8A7-BB4FA0B72B1E}">
+          <p:d />
+        </r>
+        <r
+          uid="{ADF6295D-2030-4C36-A77D-30BAFA91656E}">
+          <p:d />
+        </r>
+        <r
+          uid="{C0E77E9F-DF53-477F-8E55-00D7FBAA2304}">
+          <p:d />
+        </r>
+        <r
+          uid="{38AD9579-71F2-4684-9D94-B97D743F0F42}">
+          <p:d />
+        </r>
+        <r
+          uid="{6CE5E330-1851-42B6-B084-E1A12CBF1020}">
+          <p:d />
+        </r>
+        <r
+          uid="{4C7B980C-F70F-4E66-8244-6D525E8893B6}">
+          <p:d />
+        </r>
+        <r
+          uid="{DED5BBA4-06A4-4A75-9C4D-82213BC122FB}">
+          <p:d />
+        </r>
+        <r
+          uid="{2B390507-47BA-4B3D-905C-6F34CE7E2210}">
+          <p:d />
+        </r>
+        <r
+          uid="{D27BEE87-DE3E-4D55-8DA3-CD4B71AA88A8}">
+          <p:d />
+        </r>
+        <r
+          uid="{3F81063B-49DF-486C-B93E-65EDAEE69DD0}">
+          <p:d />
+        </r>
+        <p
+          uid="{FEF920EC-26A0-4273-A671-D2D80186567C}"
+          p:before="*"
+          s:key="jss-main"
+          s:md="{C644BF98-D4A6-4217-94C0-4ACEB8F09AC5}" />
+        <r
+          uid="{7B856052-3ECB-4B5B-9DFA-7A5D85EA03F7}"
+          p:after="p[@uid='{FEF920EC-26A0-4273-A671-D2D80186567C}']"
+          s:ds="{4A163E60-C64C-404C-A14F-9AE08D389118}"
+          s:id="{5410E093-9B56-4C2F-B411-9FB3702CBC63}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;HeroBannerVariant&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;PlayVideoInBackground&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{C50F0FFA-7485-4912-A606-8A588E1D50A0}"
+          p:after="r[@uid='{7B856052-3ECB-4B5B-9DFA-7A5D85EA03F7}']"
+          s:ds="{93F9260B-696F-4233-85CF-96CA7948BB79}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType=%7BE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7D&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{3E2DAFA5-C672-4D56-9099-2DBB70261BD3}"
+          p:after="r[@uid='{C50F0FFA-7485-4912-A606-8A588E1D50A0}']"
+          s:ds="{F3C71074-0A16-4727-A85B-B7E597A840C0}"
+          s:id="{1B2D4D22-4BFA-48E9-ACD5-0120D07747F3}"
+          s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;cardStyle=%7bD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7d&amp;cardType=%7b3A755B62-8B19-4B2E-940B-B844C3AAFE15%7d&amp;divider&amp;backgroundColor=%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d&amp;cardVariant=%7bC0DF1746-485D-4546-AEB1-6F1313FE52D9%7d"
+          s:ph="jss-main" />
+        <r
+          uid="{897B6ABB-C55A-4996-A169-F1E062D119BE}"
+          p:after="r[@uid='{3E2DAFA5-C672-4D56-9099-2DBB70261BD3}']"
+          s:ds="{18FC20F3-259E-44A0-B9DA-F3E117CF1F96}"
+          s:id="{3EE18C0F-61A1-458B-B8CB-084414663766}"
+          s:par="anchorText&amp;backgroundColor=%7B7FE90E5C-F76F-4338-94E9-1BF81D5785A2%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{1BFD34B2-B0BB-4B03-B583-41A71A86E96E}"
+          p:after="r[@uid='{897B6ABB-C55A-4996-A169-F1E062D119BE}']"
+          s:ds="{1F2EE358-2739-49F2-9B06-2FD22E8E75F3}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="imageAlignment&amp;showMediaOnMobile&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{D87DCEC3-5D90-4D11-9387-5E25F9E3DC3C}"
+          p:after="r[@uid='{1BFD34B2-B0BB-4B03-B583-41A71A86E96E}']"
+          s:ds="{8FA18623-78CC-49B1-BAF1-8FC2B2E0D17C}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="jss-main1" />
+        <r
+          uid="{555FE8BF-E30B-41CE-B653-412FCBDAF40A}"
+          p:after="r[@uid='{D87DCEC3-5D90-4D11-9387-5E25F9E3DC3C}']"
+          s:id="{1AB826DB-23E9-4CC1-A413-13AC7CB1A6C0}"
+          s:ph="jss-main" />
+        <r
+          uid="{606FF16E-4FAC-4C55-98B3-C6EE79AA7475}"
+          p:after="r[@uid='{555FE8BF-E30B-41CE-B653-412FCBDAF40A}']"
+          s:ds="{D9B6D2A8-F2E8-4A6B-A25E-F338A810801D}"
+          s:id="{4A816582-39CE-4F69-BCDE-010F91E0C947}"
+          s:par="hideCardImage=1&amp;paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;anchorText&amp;backgroundColor=%7bB47928D6-98FC-4B29-8D0F-586AB477286E%7d&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{9EEDE03B-3F95-4F1B-9B83-7C679C83EB6A}"
+          p:after="r[@uid='{606FF16E-4FAC-4C55-98B3-C6EE79AA7475}']"
+          s:ds="{7F724B39-5B62-42DE-B126-514304DB4800}"
+          s:id="{251042B9-4BD2-47B4-A9A9-F097EB5C71B3}"
+          s:par="anchorText&amp;backgroundColor=%7B3DF8265F-AA5C-46B6-AE37-0745E8A3FCAD%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="jss-main-1" />
+        <r
+          uid="{47437E79-5354-4606-B676-72A0A8945078}"
+          p:after="r[@uid='{9EEDE03B-3F95-4F1B-9B83-7C679C83EB6A}']"
+          s:ds="{9C32F712-00DA-4E89-93E5-02ED84E6F8F2}"
+          s:id="{FC55218D-3368-4037-B642-7FD35BD96EA1}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{D8B79D6B-42A8-4A0E-8708-DB9C188854D0}"
+          p:after="r[@uid='{47437E79-5354-4606-B676-72A0A8945078}']"
+          s:ds="{BAA73804-C1EB-4EC2-BA8F-040684EC5B93}"
+          s:id="{E9189BB0-4352-4FC7-B5F6-7C992E35E897}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;variant&amp;buttonVariant=%7b4DCB1D75-378A-454A-AB35-7C739D877279%7d&amp;buttonMode=%7b2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9%7d&amp;buttonColor&amp;anchorText&amp;backgroundColor=%7bB47928D6-98FC-4B29-8D0F-586AB477286E%7d&amp;buttonAlignment=%7bCF02F396-DAFD-448E-BC19-15E66C7CBA54%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{808C51CE-8541-4E4D-9C04-39A4011DF61A}"
+          p:after="r[@uid='{D8B79D6B-42A8-4A0E-8708-DB9C188854D0}']"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}"
+          s:id="{3E7FEC38-10C9-4D00-BA82-D058F17478D0}"
+          s:par="enableMargin&amp;anchorText&amp;backgroundColor=%7BF9F5FC4E-89D7-4701-A560-C0A7179384CB%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+          s:ph="jss-header" />
+        <r
+          uid="{72915C72-E238-42CD-B55C-292749D539FD}"
+          p:after="*[1=2]"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:id="{94C814D6-4C8D-45A3-8899-394CCE33495F}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d"
+          s:ph="jss-footer" />
+      </d>
+    </r>
+- ID: "fac6da5e-91c2-4a88-869d-c13ee530df7c"
+  Hint: maximumPremiumYearly
+  Value: 347620
+- ID: "feb2e6da-b570-4b5e-9d80-80ccad7d0d47"
+  Hint: sumAssuredSelectionType
+  Value: "{5AAFB9B3-C726-43C7-B42B-3D7CB583EF7A}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: The Exclusive Care
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{47437E79-5354-4606-B676-72A0A8945078}"
+              p:after="p[@uid='{FEF920EC-26A0-4273-A671-D2D80186567C}']"
+              s:ph="/jss-main/jss-col-1-{DBDDDE86-4E6B-4C62-A4CE-55AF83FBD885}-0" />
+            <r
+              uid="{D8B79D6B-42A8-4A0E-8708-DB9C188854D0}"
+              p:after="r[@uid='{47437E79-5354-4606-B676-72A0A8945078}']"
+              s:ph="/jss-main/jss-col-2-{DBDDDE86-4E6B-4C62-A4CE-55AF83FBD885}-0" />
+            <r
+              uid="{1BFD34B2-B0BB-4B03-B583-41A71A86E96E}"
+              s:ph="jss-main1" />
+            <r
+              uid="{606FF16E-4FAC-4C55-98B3-C6EE79AA7475}"
+              s:par="hideCardImage=1&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{DBDDDE86-4E6B-4C62-A4CE-55AF83FBD885}"
+              p:after="r[@uid='{9EEDE03B-3F95-4F1B-9B83-7C679C83EB6A}']"
+              s:ds=""
+              s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+              s:par="carouselMode=%7b65BDD6C4-9B17-42DA-A050-72CEF86F370E%7d&amp;divider&amp;anchorText&amp;backgroundColor=%7bEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7d%7c%7bCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7d&amp;numberOfColumns=%7b41CCF7E7-59F7-494A-80D1-0EB88C898A10%7d&amp;paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d"
+              s:ph="jss-main" />
+            <r
+              uid="{808C51CE-8541-4E4D-9C04-39A4011DF61A}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bF9F5FC4E-89D7-4701-A560-C0A7179384CB%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d%c3%b7r&amp;enableMargin&amp;divider" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T102834Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: "Why accept limits with your medical insurance? FWD’s The Exclusive CARE doesn’t set limits on the care, and the treatment, that one day you might need. "
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: The Exclusive CARE 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: The Exclusive CARE 
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{18257222-D719-4C1A-8536-F271F983CFE5}" cropx="0.50" cropy="0.41" focusx="0.00877192982456143" focusy="0.171875" />
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{18257222-D719-4C1A-8536-F271F983CFE5}" />
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: Health, tax deduction, family, lump sum
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: |
+        You don’t set limits for yourself, so why accept limits with your medical insurance? FWD’s The Exclusive CARE doesn’t set limits on the care, and the treatment, that one day you might need. 
+        
+  - Version: 2
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{47437E79-5354-4606-B676-72A0A8945078}"
+              p:after="p[@uid='{FEF920EC-26A0-4273-A671-D2D80186567C}']"
+              s:ph="/jss-main/jss-col-1-{DBDDDE86-4E6B-4C62-A4CE-55AF83FBD885}-0" />
+            <r
+              uid="{D8B79D6B-42A8-4A0E-8708-DB9C188854D0}"
+              p:after="r[@uid='{47437E79-5354-4606-B676-72A0A8945078}']"
+              s:ph="/jss-main/jss-col-2-{DBDDDE86-4E6B-4C62-A4CE-55AF83FBD885}-0" />
+            <r
+              uid="{1BFD34B2-B0BB-4B03-B583-41A71A86E96E}"
+              s:ph="jss-main1" />
+            <r
+              uid="{606FF16E-4FAC-4C55-98B3-C6EE79AA7475}"
+              s:par="hideCardImage=1&amp;showProductCTA&amp;anchorText&amp;backgroundColor=%7B74965DCF-F22E-47B3-BE45-1D05679CE13E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{DBDDDE86-4E6B-4C62-A4CE-55AF83FBD885}"
+              p:after="r[@uid='{9EEDE03B-3F95-4F1B-9B83-7C679C83EB6A}']"
+              s:ds=""
+              s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+              s:par="carouselMode=%7b65BDD6C4-9B17-42DA-A050-72CEF86F370E%7d&amp;divider&amp;anchorText&amp;backgroundColor=%7bEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7d%7c%7bCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7d&amp;numberOfColumns=%7b41CCF7E7-59F7-494A-80D1-0EB88C898A10%7d&amp;paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d"
+              s:ph="jss-main" />
+            <r
+              uid="{808C51CE-8541-4E4D-9C04-39A4011DF61A}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bF9F5FC4E-89D7-4701-A560-C0A7179384CB%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d%c3%b7r&amp;enableMargin&amp;divider" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201009T092531Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: "Why accept limits with your medical insurance? FWD’s The Exclusive CARE doesn’t set limits on the care, and the treatment, that one day you might need. "
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: The Exclusive CARE 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: The Exclusive CARE 
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{18257222-D719-4C1A-8536-F271F983CFE5}" cropx="0.50" cropy="0.41" focusx="0.00877192982456143" focusy="0.171875" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201009T092531Z
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{18257222-D719-4C1A-8536-F271F983CFE5}" />
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: Health, tax deduction, family, lump sum
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: |
+        Start living without limitations. This plan removes any limits on your healthcare and provides coverage up to THB 3.3 million. 
+        
+        
+  - Version: 3
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{47437E79-5354-4606-B676-72A0A8945078}"
+              p:after="p[@uid='{FEF920EC-26A0-4273-A671-D2D80186567C}']"
+              s:ph="/jss-main/jss-col-1-{DBDDDE86-4E6B-4C62-A4CE-55AF83FBD885}-0" />
+            <r
+              uid="{D8B79D6B-42A8-4A0E-8708-DB9C188854D0}"
+              p:after="r[@uid='{47437E79-5354-4606-B676-72A0A8945078}']"
+              s:ph="/jss-main/jss-col-2-{DBDDDE86-4E6B-4C62-A4CE-55AF83FBD885}-0" />
+            <r
+              uid="{1BFD34B2-B0BB-4B03-B583-41A71A86E96E}"
+              s:ph="jss-main1" />
+            <r
+              uid="{606FF16E-4FAC-4C55-98B3-C6EE79AA7475}"
+              s:par="hideCardImage=1&amp;showProductCTA&amp;anchorText&amp;backgroundColor=%7B74965DCF-F22E-47B3-BE45-1D05679CE13E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{DBDDDE86-4E6B-4C62-A4CE-55AF83FBD885}"
+              p:after="r[@uid='{9EEDE03B-3F95-4F1B-9B83-7C679C83EB6A}']"
+              s:ds=""
+              s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+              s:par="carouselMode=%7b65BDD6C4-9B17-42DA-A050-72CEF86F370E%7d&amp;divider&amp;anchorText&amp;backgroundColor=%7bEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7d%7c%7bCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7d&amp;numberOfColumns=%7b41CCF7E7-59F7-494A-80D1-0EB88C898A10%7d&amp;paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d"
+              s:ph="jss-main" />
+            <r
+              uid="{808C51CE-8541-4E4D-9C04-39A4011DF61A}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bF9F5FC4E-89D7-4701-A560-C0A7179384CB%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d%c3%b7r&amp;enableMargin&amp;divider" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201012T065254Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: "Why accept limits with your medical insurance? FWD’s The Exclusive CARE doesn’t set limits on the care, and the treatment, that one day you might need. "
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: The Exclusive CARE 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: The Exclusive CARE 
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{18257222-D719-4C1A-8536-F271F983CFE5}" cropx="0.50" cropy="0.41" focusx="0.00877192982456143" focusy="0.171875" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201012T065254Z
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{18257222-D719-4C1A-8536-F271F983CFE5}" />
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: Health, tax deduction, family, lump sum
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: |
+        Start living without limitations. This plan removes any limits on your healthcare and provides coverage up to THB 3.3 million. 
+        
+        
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D8B79D6B-42A8-4A0E-8708-DB9C188854D0}"
+              p:after="p[@uid='{FEF920EC-26A0-4273-A671-D2D80186567C}']"
+              s:ph="/jss-main/jss-col-2-{3EE75FB8-643A-4053-BC97-7B0FB8B3B32D}-0" />
+            <r
+              uid="{47437E79-5354-4606-B676-72A0A8945078}"
+              p:after="r[@uid='{D8B79D6B-42A8-4A0E-8708-DB9C188854D0}']"
+              s:ph="/jss-main/jss-col-1-{3EE75FB8-643A-4053-BC97-7B0FB8B3B32D}-0" />
+            <r
+              uid="{606FF16E-4FAC-4C55-98B3-C6EE79AA7475}"
+              s:par="hideCardImage=1&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{3EE75FB8-643A-4053-BC97-7B0FB8B3B32D}"
+              p:after="r[@uid='{9EEDE03B-3F95-4F1B-9B83-7C679C83EB6A}']"
+              s:ds=""
+              s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+              s:par="numberOfColumns=%7B41CCF7E7-59F7-494A-80D1-0EB88C898A10%7D&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D%7C%7BCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7D&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{808C51CE-8541-4E4D-9C04-39A4011DF61A}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bF9F5FC4E-89D7-4701-A560-C0A7179384CB%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d÷r" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055201Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: จะซื้อประกันสุขภาพทั้งที ทำไมต้องมีลิมิต ดิเอ็กซ์คลูซีฟ แคร์ ประกันสุขภาพจากเอฟดับบลิวดี ให้คุณสบายใจ เพราะเหมาจ่ายค่ารักษาพยาบาลได้ตามจริงเมื่อถึงคราวจำเป็นต้องใช้ 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: ดิเอ็กซ์คลูซีฟ แคร์
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: ดิเอ็กซ์คลูซีฟ แคร์ 
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{18257222-D719-4C1A-8536-F271F983CFE5}" cropx="0.52" cropy="0.39" focusx="0.03508771929824572" focusy="0.21875" />
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{18257222-D719-4C1A-8536-F271F983CFE5}" cropx="0.51" cropy="0.37" focusx="0.026315789473684292" focusy="0.265625" />
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: ประกันสุขภาพ, ลดหย่อนภาษี, ครอบครัว, เหมาจ่าย
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: เมื่อใช้ชีวิตแบบไม่มีลิมิตได้ แล้วทำไมจะซื้อประกันสุขภาพทั้งที ต้องมีลิมิต ดิเอ็กซ์คลูซีฟ แคร์ ประกันสุขภาพจากเอฟดับบลิวดี ให้คุณสบายใจ เพราะเหมาจ่ายค่ารักษาพยาบาลได้ตามจริงเมื่อถึงคราวจำเป็นต้องใช้
+  - Version: 2
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D8B79D6B-42A8-4A0E-8708-DB9C188854D0}"
+              p:after="p[@uid='{FEF920EC-26A0-4273-A671-D2D80186567C}']"
+              s:ph="/jss-main/jss-col-2-{3EE75FB8-643A-4053-BC97-7B0FB8B3B32D}-0" />
+            <r
+              uid="{47437E79-5354-4606-B676-72A0A8945078}"
+              p:after="r[@uid='{D8B79D6B-42A8-4A0E-8708-DB9C188854D0}']"
+              s:ph="/jss-main/jss-col-1-{3EE75FB8-643A-4053-BC97-7B0FB8B3B32D}-0" />
+            <r
+              uid="{606FF16E-4FAC-4C55-98B3-C6EE79AA7475}"
+              s:par="hideCardImage=1&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{3EE75FB8-643A-4053-BC97-7B0FB8B3B32D}"
+              p:after="r[@uid='{9EEDE03B-3F95-4F1B-9B83-7C679C83EB6A}']"
+              s:ds=""
+              s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+              s:par="numberOfColumns=%7B41CCF7E7-59F7-494A-80D1-0EB88C898A10%7D&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D%7C%7BCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7D&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{808C51CE-8541-4E4D-9C04-39A4011DF61A}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bF9F5FC4E-89D7-4701-A560-C0A7179384CB%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d÷r" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200828T092103Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: จะซื้อประกันสุขภาพทั้งที ทำไมต้องมีลิมิต ดิเอ็กซ์คลูซีฟ แคร์ ประกันสุขภาพจากเอฟดับบลิวดี ให้คุณสบายใจ เพราะเหมาจ่ายค่ารักษาพยาบาลได้ตามจริงเมื่อถึงคราวจำเป็นต้องใช้ 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: ดิเอ็กซ์คลูซีฟ แคร์
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: ดิเอ็กซ์คลูซีฟ แคร์ 
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{18257222-D719-4C1A-8536-F271F983CFE5}" cropx="0.52" cropy="0.39" focusx="0.03508771929824572" focusy="0.21875" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200828T092103Z
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{18257222-D719-4C1A-8536-F271F983CFE5}" cropx="0.51" cropy="0.37" focusx="0.026315789473684292" focusy="0.265625" />
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: ประกันสุขภาพ, ลดหย่อนภาษี, ครอบครัว, เหมาจ่าย
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: เมื่อใช้ชีวิตแบบไม่มีลิมิตได้ แล้วทำไมจะซื้อประกันสุขภาพทั้งที ต้องมีลิมิต ดิเอ็กซ์คลูซีฟ แคร์ ประกันสุขภาพจากเอฟดับบลิวดี ให้คุณสบายใจ เพราะเหมาจ่ายค่ารักษาพยาบาลได้ตามจริงเมื่อถึงคราวจำเป็นต้องใช้
+  - Version: 3
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D8B79D6B-42A8-4A0E-8708-DB9C188854D0}"
+              p:after="p[@uid='{FEF920EC-26A0-4273-A671-D2D80186567C}']"
+              s:ph="/jss-main/jss-col-2-{3EE75FB8-643A-4053-BC97-7B0FB8B3B32D}-0" />
+            <r
+              uid="{47437E79-5354-4606-B676-72A0A8945078}"
+              p:after="r[@uid='{D8B79D6B-42A8-4A0E-8708-DB9C188854D0}']"
+              s:ph="/jss-main/jss-col-1-{3EE75FB8-643A-4053-BC97-7B0FB8B3B32D}-0" />
+            <r
+              uid="{606FF16E-4FAC-4C55-98B3-C6EE79AA7475}"
+              s:par="hideCardImage=1&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{3EE75FB8-643A-4053-BC97-7B0FB8B3B32D}"
+              p:after="r[@uid='{9EEDE03B-3F95-4F1B-9B83-7C679C83EB6A}']"
+              s:ds=""
+              s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+              s:par="numberOfColumns=%7B41CCF7E7-59F7-494A-80D1-0EB88C898A10%7D&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D%7C%7BCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7D&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{808C51CE-8541-4E4D-9C04-39A4011DF61A}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bF9F5FC4E-89D7-4701-A560-C0A7179384CB%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d÷r" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201009T092600Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: จะซื้อประกันสุขภาพทั้งที ทำไมต้องมีลิมิต ดิเอ็กซ์คลูซีฟ แคร์ ประกันสุขภาพจากเอฟดับบลิวดี ให้คุณสบายใจ เพราะเหมาจ่ายค่ารักษาพยาบาลได้ตามจริงเมื่อถึงคราวจำเป็นต้องใช้ 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: ดิเอ็กซ์คลูซีฟ แคร์
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: ดิเอ็กซ์คลูซีฟ แคร์ 
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{18257222-D719-4C1A-8536-F271F983CFE5}" cropx="0.52" cropy="0.39" focusx="0.03508771929824572" focusy="0.21875" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201009T092600Z
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{18257222-D719-4C1A-8536-F271F983CFE5}" cropx="0.51" cropy="0.37" focusx="0.026315789473684292" focusy="0.265625" />
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: ประกันสุขภาพ, ลดหย่อนภาษี, ครอบครัว, เหมาจ่าย
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: |
+        ประกันสุขภาพที่พร้อมดูแลคุณแบบไม่มีลิมิต ด้วยค่ารักษาพยาบาลเหมาจ่าย สูงสุด 3.3 ล้านบาท เพื่อให้คุณสบายใจ ใช้ชีวิตที่ใช่ได้เต็มที่
+        
+  - Version: 4
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D8B79D6B-42A8-4A0E-8708-DB9C188854D0}"
+              p:after="p[@uid='{FEF920EC-26A0-4273-A671-D2D80186567C}']"
+              s:ph="/jss-main/jss-col-2-{3EE75FB8-643A-4053-BC97-7B0FB8B3B32D}-0" />
+            <r
+              uid="{47437E79-5354-4606-B676-72A0A8945078}"
+              p:after="r[@uid='{D8B79D6B-42A8-4A0E-8708-DB9C188854D0}']"
+              s:ph="/jss-main/jss-col-1-{3EE75FB8-643A-4053-BC97-7B0FB8B3B32D}-0" />
+            <r
+              uid="{606FF16E-4FAC-4C55-98B3-C6EE79AA7475}"
+              s:par="hideCardImage=1&amp;showProductCTA&amp;anchorText&amp;backgroundColor=%7BB47928D6-98FC-4B29-8D0F-586AB477286E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{3EE75FB8-643A-4053-BC97-7B0FB8B3B32D}"
+              p:after="r[@uid='{9EEDE03B-3F95-4F1B-9B83-7C679C83EB6A}']"
+              s:ds=""
+              s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+              s:par="numberOfColumns=%7B41CCF7E7-59F7-494A-80D1-0EB88C898A10%7D&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D%7C%7BCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7D&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{808C51CE-8541-4E4D-9C04-39A4011DF61A}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bF9F5FC4E-89D7-4701-A560-C0A7179384CB%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d÷r" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201014T052554Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: จะซื้อประกันสุขภาพทั้งที ทำไมต้องมีลิมิต ดิเอ็กซ์คลูซีฟ แคร์ ประกันสุขภาพจากเอฟดับบลิวดี ให้คุณสบายใจ เพราะเหมาจ่ายค่ารักษาพยาบาลได้ตามจริงเมื่อถึงคราวจำเป็นต้องใช้ 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: ดิเอ็กซ์คลูซีฟ แคร์
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: ดิเอ็กซ์คลูซีฟ แคร์ 
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{18257222-D719-4C1A-8536-F271F983CFE5}" cropx="0.52" cropy="0.39" focusx="0.03508771929824572" focusy="0.21875" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201014T052554Z
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{18257222-D719-4C1A-8536-F271F983CFE5}" cropx="0.51" cropy="0.37" focusx="0.026315789473684292" focusy="0.265625" />
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: ประกันสุขภาพ, ลดหย่อนภาษี, ครอบครัว, เหมาจ่าย
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: |
+        ประกันสุขภาพที่พร้อมดูแลคุณแบบไม่มีลิมิต ด้วยค่ารักษาพยาบาลเหมาจ่าย สูงสุด 3.3 ล้านบาท เพื่อให้คุณสบายใจ ใช้ชีวิตที่ใช่ได้เต็มที่
+        

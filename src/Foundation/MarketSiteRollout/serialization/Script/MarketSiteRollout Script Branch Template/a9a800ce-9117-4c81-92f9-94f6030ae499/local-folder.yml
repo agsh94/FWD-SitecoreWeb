@@ -1,0 +1,30 @@
+﻿---
+ID: "4881d2d6-e73d-4ca8-a56c-f408b1cb0117"
+Parent: "a9a800ce-9117-4c81-92f9-94f6030ae499"
+Template: "fff5f245-ffc0-4022-a998-9b07aa5e761f"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Claims/critical-illness/local-folder"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {7D6BB8C2-D538-441D-82BF-D6AEC40B5929}
+    {B4C08E6E-4910-4CF1-8357-5135729AFAFB}
+    {51555475-5028-4B05-9B45-53BE53615704}
+    {83A147F2-89BA-4A48-8222-4B73FFE65216}
+    {14CF212D-7CF4-41AA-B50B-24D748A87556}
+    {FA86F689-9071-4D22-83DF-C3FC48EDDA47}
+    {EE2C800F-5808-4E93-B521-517495E4A1E6}
+    {128C8D06-48C1-46ED-B80E-904CC3DE68E0}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8206B7EE-52E7-4EE5-B72E-68E31C543C84}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200810T223147Z

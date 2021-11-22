@@ -1,0 +1,44 @@
+﻿---
+ID: "12fa054f-c3b6-4baf-a9a9-9d003c1f7cce"
+Parent: "7955e43a-dcc6-47f3-a3d7-c42fcd96e91e"
+Template: "515c66c7-5438-4aa1-94b5-2c1fe0c35a30"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Support/premium-payment/local-folder/premium-payment/life-and-accident-insurance/credit-card"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{B5E7B47E-3EE9-4427-8737-F48CE39D600C}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Credit Card
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191224T132106Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d67d5342-eb75-41e4-959f-466e00455f25"
+      Hint: title
+      Value: Credit Card
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T104950Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d67d5342-eb75-41e4-959f-466e00455f25"
+      Hint: title
+      Value: Credit Card

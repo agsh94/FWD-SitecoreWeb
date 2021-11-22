@@ -1,0 +1,29 @@
+﻿---
+ID: "2dd36889-800c-4559-91c9-ba622a5b5849"
+Parent: "0e40abdb-cf6f-452f-8bd5-ef1a48f901f6"
+Template: "0bf835ba-61b4-4ff6-94f2-444cb2d53dce"
+Path: "/sitecore/content/fwd/fwd-th/Content/DateFormats"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Date Formats
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201004T181648Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201004T184452Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

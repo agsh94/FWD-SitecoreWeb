@@ -1,0 +1,155 @@
+﻿---
+ID: "9e7a720a-7123-4903-bdcb-ae0c1fa079b4"
+Parent: "e7d4391e-ccb2-4507-beb4-66ca0847b43a"
+Template: "17f05b4d-4e1a-4598-afd0-eb05d76d5f68"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/fwd-healthy-max/Package5"
+DB: master
+SharedFields:
+- ID: "1d7292b5-07c1-4268-b196-263841c6000a"
+  Hint: key
+  Value: "tool-tip"
+- ID: "3b1d1a2d-0fe8-4b7f-b2b1-eed79c64bb97"
+  Hint: channel
+  Value: TA
+- ID: "53341179-76ac-497a-a4c4-28eb7c6c422e"
+  Hint: enableEnquiry
+  Type: Checkbox
+  Value: 1
+- ID: "8c99813d-8686-4f37-a5fb-02ddb0a93ecc"
+  Hint: protectionValue
+  Value: 20000
+- ID: "9cb51dc0-7252-4372-8a9e-42fa7de2b4fd"
+  Hint: minAge
+  Value: "20-0-0"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "b78d7fa0-a532-4f1a-90c1-98b0770294d4"
+  Hint: maxAge
+  Value: "65-0-0"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "ce362806-169f-431a-bd65-0f18284df62c"
+  Hint: packageList
+  Value: "{24CCF70A-D2A0-43F4-9A9A-6F57CF6567FC}=10000&{CAA03AF1-9666-49B7-8EA2-D7D2CB52C668}=10000&{49ECF085-AC55-4C0F-A6AC-4A77A051EF5F}=10000&{2F9AAB71-CE10-472F-8C70-3A4E8E539A35}=10000&{0228E603-09D3-4C88-A8AA-A5B92390A8D1}=10000&{7757B677-0C0B-495C-A3F1-D61ED544CEA6}=10000"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Package V
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200127T161123Z
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: Package V
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="Enquire" linktype="form" querystring="enquiry" target="" id="{136AA02C-41C6-4E79-88E1-7893B161A37F}" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: Package
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: |
+        What’s a package?<br />
+        A package is an insurance plan that we enhance with a set of riders
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055201Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: แพ็คเกจ 5
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="สอบถาม" linktype="form" querystring="enquiry" target="" id="{136AA02C-41C6-4E79-88E1-7893B161A37F}" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: แพ็คเกจ
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: |
+        แพ็คเกจคืออะไร?<br />
+        แพ็คเกจคือแผนประกันที่มาพร้อมกับสัญญาเพิ่มเติม
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200827T082216Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200827T082216Z
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: แพ็กเกจ 5
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="สอบถาม" linktype="form" querystring="enquiry" target="" id="{136AA02C-41C6-4E79-88E1-7893B161A37F}" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: แพ็กเกจ
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: |
+        แพ็กเกจคืออะไร?<br />
+        แพ็กเกจคือแผนประกันที่มาพร้อมกับสัญญาเพิ่มเติม
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201012T091820Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Panchitma
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201012T091820Z
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: แพ็กเกจ 5
+    - ID: "d0bc351a-eed6-4d43-8bd4-55ef531ce953"
+      Hint: isComparable
+      Type: Checkbox
+      Value: 1
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="สอบถาม" linktype="form" querystring="enquiry" target="" id="{136AA02C-41C6-4E79-88E1-7893B161A37F}" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: แพ็กเกจ
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: |
+        แพ็กเกจคืออะไร?<br />
+        แพ็กเกจคือแผนประกันที่มาพร้อมกับสัญญาเพิ่มเติม

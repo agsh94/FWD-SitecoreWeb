@@ -1,0 +1,58 @@
+﻿---
+ID: "88d95d69-85f4-4c30-8b61-f1462e23ed60"
+Parent: "983f8093-6b75-41fb-9ad1-6340d6fae759"
+Template: "683bbabe-aadd-4e41-95eb-fd590132565d"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/TestingLifeCare/PlanUltra/AttributeFolder/Key Benefits/Doctor"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ecfd20e-1a1c-4143-9ad4-22a1374823bf"
+      Hint: value
+      Value: 4,300
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200702T165424Z
+    - ID: "5f64db6e-5306-48e3-b7ba-42955fc2b2d1"
+      Hint: leadingTextToolTip
+      Value: 
+    - ID: "79bdc004-d6d5-4fad-86e4-4401981ca0ef"
+      Hint: trailingTextToolTip
+      Value: Maximum 180 days
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{25A8BF96-9F35-4A16-92E2-10F13979618D}"
+    - ID: "c46c42f1-4609-44be-af80-fd7b8e4b47a5"
+      Hint: leadingText
+      Value: THB
+    - ID: "c783126c-7875-4a65-98ee-d16aeafeb21c"
+      Hint: emphasisTextToolTip
+      Value: 
+    - ID: "d6e9084e-023d-4e83-8890-3be5f8c35b63"
+      Hint: trailingText
+      Value: per policy year
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ecfd20e-1a1c-4143-9ad4-22a1374823bf"
+      Hint: value
+      Value: 4,300
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200708T140519Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{25A8BF96-9F35-4A16-92E2-10F13979618D}"
+    - ID: "c46c42f1-4609-44be-af80-fd7b8e4b47a5"
+      Hint: leadingText
+      Value: บาท
+    - ID: "d6e9084e-023d-4e83-8890-3be5f8c35b63"
+      Hint: trailingText
+      Value:  ต่อปีกรมธรรม์

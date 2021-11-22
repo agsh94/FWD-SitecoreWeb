@@ -1,0 +1,74 @@
+﻿---
+ID: "7e87b926-f10d-4aa1-a029-6a16cdde86ce"
+Parent: "d77061f0-4033-4e10-846d-b391b5a4d07d"
+Template: "40da990f-39dd-4d66-a9be-849f4ecffd22"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/FlexiblePage"
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{4C2622A5-B3E5-443C-BAB1-272D4C647BB1}"
+          p:after="p[@uid='{D14661AB-7F89-4E68-A125-FBBB88BFB7B6}']"
+          s:ds="{E0C5A930-86B7-4E94-AD6F-02226382F231}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:ph="/jss-main/jss-col-1-{D76C98B5-619E-4019-8B1E-D1F4D8F25F23}-0" />
+        <r
+          uid="{9E28137F-4362-45C2-9518-920ADBBC1E41}"
+          p:after="r[@uid='{4C2622A5-B3E5-443C-BAB1-272D4C647BB1}']"
+          s:ds="{E0C5A930-86B7-4E94-AD6F-02226382F231}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="/jss-main/jss-col-2-{D76C98B5-619E-4019-8B1E-D1F4D8F25F23}-0" />
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{C879EB9D-195D-4984-B164-F1DD756158FA}"
+          s:ds="{8EF95A58-3BB0-4C98-89C2-A50DEA7AB06D}"
+          s:par="HeroBannerVariant&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{2476A374-8836-45FE-AF59-3CD0AE06BE82}"
+          s:ds="{E0C5A930-86B7-4E94-AD6F-02226382F231}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{D76C98B5-619E-4019-8B1E-D1F4D8F25F23}"
+          p:after="r[@uid='{2476A374-8836-45FE-AF59-3CD0AE06BE82}']"
+          s:ds=""
+          s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+          s:par="numberOfColumns=%7B63A7FCF5-15A7-41A5-86EA-A3010A9D12AA%7D&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D%7C%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{57AD34E9-D9E1-4B92-A392-E0A41486C935}"
+          s:ds="{78559CB5-E6F5-4F28-A344-5366C2DE728F}"
+          s:par="buttonAlignment=%7BCF02F396-DAFD-448E-BC19-15E66C7CBA54%7D&amp;variant&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{D6134FB5-960B-4784-8AE2-7231655F27DC}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{9E73D12F-3814-4CD5-B0FC-4169AB38CCA3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200418T121434Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\testuser
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: FlexiblePage

@@ -1,0 +1,158 @@
+﻿---
+ID: "10e42268-bf2a-448e-b98d-46fd406ac56f"
+Parent: "fb90ef79-9b2f-4bea-b025-95b91996b85c"
+Template: "40da990f-39dd-4d66-a9be-849f4ecffd22"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/GroupLandingPage/tailor-made-life-and-medical/group-enquiry-form/thankyou"
+DB: master
+SharedFields:
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: "{FB2C4A8A-0593-44B7-B7C4-AE07AF4F8BB2}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{D6134FB5-960B-4784-8AE2-7231655F27DC}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Thank you
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}">
+              <p:d />
+            </r>
+            <r
+              uid="{C879EB9D-195D-4984-B164-F1DD756158FA}">
+              <p:d />
+            </r>
+            <r
+              uid="{2476A374-8836-45FE-AF59-3CD0AE06BE82}">
+              <p:d />
+            </r>
+            <r
+              uid="{65ABE2C4-0BFD-4D9B-9333-11C6D9475DDF}"
+              p:after="p[@uid='{D14661AB-7F89-4E68-A125-FBBB88BFB7B6}']"
+              s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}"
+              s:id="{3E7FEC38-10C9-4D00-BA82-D058F17478D0}"
+              s:par="enableMargin&amp;anchorText&amp;backgroundColor=%7BB47928D6-98FC-4B29-8D0F-586AB477286E%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+              s:ph="jss-header" />
+            <r
+              uid="{82F6F836-CB94-4D7E-8F27-01A6F6DBDBAD}"
+              p:after="r[@uid='{65ABE2C4-0BFD-4D9B-9333-11C6D9475DDF}']"
+              s:ds="{F6DC43B6-2705-4541-9CE5-67A70B3B1001}"
+              s:id="{B6ADB920-BEF0-4306-AB58-327A223D141B}"
+              s:par="anchorText&amp;backgroundColor=%7BB47928D6-98FC-4B29-8D0F-586AB477286E%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{84F1DFD8-338E-47ED-8E7D-08E9DB06A4F0}"
+              p:after="*[1=2]"
+              s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+              s:id="{94C814D6-4C8D-45A3-8899-394CCE33495F}"
+              s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d"
+              s:ph="jss-footer" />
+            <r
+              uid="{57AD34E9-D9E1-4B92-A392-E0A41486C935}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6134FB5-960B-4784-8AE2-7231655F27DC}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200318T110023Z
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: "Group Enquiry Form - Thank You"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}">
+              <p:d />
+            </r>
+            <r
+              uid="{C879EB9D-195D-4984-B164-F1DD756158FA}">
+              <p:d />
+            </r>
+            <r
+              uid="{2476A374-8836-45FE-AF59-3CD0AE06BE82}">
+              <p:d />
+            </r>
+            <r
+              uid="{65ABE2C4-0BFD-4D9B-9333-11C6D9475DDF}"
+              p:after="p[@uid='{D14661AB-7F89-4E68-A125-FBBB88BFB7B6}']"
+              s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}"
+              s:id="{3E7FEC38-10C9-4D00-BA82-D058F17478D0}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bB47928D6-98FC-4B29-8D0F-586AB477286E%7d&amp;enableMargin&amp;divider"
+              s:ph="jss-header" />
+            <r
+              uid="{82F6F836-CB94-4D7E-8F27-01A6F6DBDBAD}"
+              p:after="r[@uid='{65ABE2C4-0BFD-4D9B-9333-11C6D9475DDF}']"
+              s:ds="{F6DC43B6-2705-4541-9CE5-67A70B3B1001}"
+              s:id="{B6ADB920-BEF0-4306-AB58-327A223D141B}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bB47928D6-98FC-4B29-8D0F-586AB477286E%7d&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{84F1DFD8-338E-47ED-8E7D-08E9DB06A4F0}"
+              p:after="*[1=2]"
+              s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+              s:id="{94C814D6-4C8D-45A3-8899-394CCE33495F}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d"
+              s:ph="jss-footer" />
+            <r
+              uid="{57AD34E9-D9E1-4B92-A392-E0A41486C935}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6134FB5-960B-4784-8AE2-7231655F27DC}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T075531Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: thankyou

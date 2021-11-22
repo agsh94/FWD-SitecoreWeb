@@ -1,0 +1,60 @@
+﻿---
+ID: "b650fd2a-cf06-4b9a-8040-66d96f2a141b"
+Parent: "80cb1f4b-6759-460a-80aa-e30b1ef6d03d"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Components/Info Card/Agent Valie/We create industry-leading training"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: "Our in-house academy means industry-leading training to get you on the road to success. It’s why we’re building the most professional, productive and trusted agency."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T100044Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: "We create industry-leading training"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{4B9B8C1F-4815-4D4F-AAB1-2CED486AB121}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{4B9B8C1F-4815-4D4F-AAB1-2CED486AB121}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: เราสร้างตัวแทนที่มีความสามารถ เป็นที่เชื่อถือ และเป็นมืออาชีพที่สุด จากการออกแบบและสร้างสรรค์การฝึกอบรมที่เปี่ยมคุณภาพเพื่อพาตัวแทนทุกคนของเราไปสู่เส้นทางแห่งความสำเร็จ
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T100408Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: เราออกแบบการฝึกอบรมที่เปี่ยมคุณภาพ
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{4B9B8C1F-4815-4D4F-AAB1-2CED486AB121}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{4B9B8C1F-4815-4D4F-AAB1-2CED486AB121}" />

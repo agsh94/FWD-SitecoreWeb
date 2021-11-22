@@ -1,0 +1,21 @@
+﻿---
+ID: "f8cde93e-0891-4da8-8019-a50aecdbd858"
+Parent: "b52d35c3-337e-4bc8-8052-789d803840d0"
+Template: "c24acda9-af2d-4f91-b736-509937cc444e"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/local-folder/ArticleCardList"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200412T033838Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "f39b7a44-d8d3-467c-949d-5a6a33a9bb8a"
+      Hint: title
+      Value: ArticleCardList

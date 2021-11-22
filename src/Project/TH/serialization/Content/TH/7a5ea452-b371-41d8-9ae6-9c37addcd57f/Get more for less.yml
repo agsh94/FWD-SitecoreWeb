@@ -1,0 +1,57 @@
+﻿---
+ID: "602c3c3a-19ee-4864-bfdf-fafc3793a782"
+Parent: "7a5ea452-b371-41d8-9ae6-9c37addcd57f"
+Template: "1c33ba69-85fa-4844-af04-f370b7f829ab"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/local-folder/Benefits/Company Benefits/Company Benefits/Get more for less"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0efba758-7b3d-4cec-a6d7-9cb3bbc199fa"
+      Hint: description
+      Value: On average, it costs less to buy group insurance than individual policies &ndash; with added benefits including life cover, critical illness, and total permanent disability.
+    - ID: "22b72a4c-26fe-45c6-a389-9208ed5f30a9"
+      Hint: title
+      Value: Get more for less
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T085557Z
+    - ID: "458a9aca-15af-4816-a2ce-a1359491db04"
+      Hint: image
+      Value: |
+        <image mediaid="{5F1F98C0-00FE-4166-8C9D-ECDF5883361A}" />
+    - ID: "e10bd642-d1a2-4376-9089-a17d8b83ddd6"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{5F1F98C0-00FE-4166-8C9D-ECDF5883361A}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0efba758-7b3d-4cec-a6d7-9cb3bbc199fa"
+      Hint: description
+      Value: โดยทั่วไปแล้ว ประกันภัยกลุ่มจะราคาถูกกว่าประกันภัยส่วนบุคคล ทั้งยังมอบผลประโยชน์เพิ่มเติมให้หลากหลาย ทั้งคุ้มครองชีวิต คุ้มครองโรคร้ายแรง และทุพพลภาพถาวรสิ้นเชิง
+    - ID: "22b72a4c-26fe-45c6-a389-9208ed5f30a9"
+      Hint: title
+      Value: จ่ายน้อยกว่าแต่ผลลัพธ์คุ้มค่ากว่า
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T115847Z
+    - ID: "458a9aca-15af-4816-a2ce-a1359491db04"
+      Hint: image
+      Value: |
+        <image mediaid="{5F1F98C0-00FE-4166-8C9D-ECDF5883361A}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "e10bd642-d1a2-4376-9089-a17d8b83ddd6"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{5F1F98C0-00FE-4166-8C9D-ECDF5883361A}" />

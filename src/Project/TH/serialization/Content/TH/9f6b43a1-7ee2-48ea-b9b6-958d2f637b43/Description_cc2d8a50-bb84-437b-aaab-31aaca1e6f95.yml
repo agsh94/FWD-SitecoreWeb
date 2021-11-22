@@ -1,0 +1,30 @@
+﻿---
+ID: "cc2d8a50-bb84-437b-aaab-31aaca1e6f95"
+Parent: "9f6b43a1-7ee2-48ea-b9b6-958d2f637b43"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/5-best-milk-tea/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1200
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T235152Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ที่ตั้ง : ชั้น 2 Siam Square One<br />
+        เวลาเปิด : จันทร์ - พฤหัสบดี 10.00 - 21.30 น.<br />
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;ศุกร์ - อาทิตย์ และวันหยุดนักขัตฤกษ์ 10.00 - 22.00 น.<br />
+        ราคา : 60 บาท<br />
+        เบอร์ติดต่อ : 099 - 2696924</p>

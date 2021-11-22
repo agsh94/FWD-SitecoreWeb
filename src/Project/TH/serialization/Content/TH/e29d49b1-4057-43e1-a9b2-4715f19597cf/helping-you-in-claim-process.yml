@@ -1,0 +1,68 @@
+﻿---
+ID: "a8d4aac7-f665-4c9d-b192-99ee4619334c"
+Parent: "e29d49b1-4057-43e1-a9b2-4715f19597cf"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/how-to-surrender-policy/local-folder/helping-you-in-claim-process"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Helping you in claim process
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200323T123501Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: 
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p><strong>We understand that sometimes circumstances change. If you need to surrender (give up) your policy, this guide tells you what you need to know.</strong></p>
+        <p>If you are the policy holder, you are entitled to terminate the policy contract and receive any policy surrender value or other benefits (if any), minus any outstanding debt amount. Your policy surrender value will be calculated according to the amount in the policy value table found in your contract.</p>
+        <p>Once your policy is surrendered, your life insurance policy will be terminated along with its benefits.</p>
+        <p>If you need any help, please call <a href="tel:1351">1351</a>.</p>
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: 
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200510T061824Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p><strong>ในบางครั้งชีวิตต้องเผชิญกับความเปลี่ยนแปลง หากคุณต้องการเวนคืนกรมธรรม์ นี่คือสิ่งที่คุณควรทราบ </strong></p>
+        <p>ในฐานะผู้ถือกรมธรรม์ คุณมีสิทธิบอกเลิกสัญญากรมธรรม์ประกันชีวิตและรับเงินเวนคืนกรมธรรม์พร้อมกับสิทธิประโยชน์อื่นๆ ทั้งหมดตามสัญญา หลังจากหักยอดหนี้คงค้างทั้งหมด (หากมี) โดยมูลค่าของเงินเวนคืนกรมธรรม์จะเป็นไปตามที่กำหนดไว้ในตารางคำนวณมูลค่าเวนคืนกรมธรรม์ที่อยู่ในสัญญากรมธรรม์ประกันชีวิตของคุณ</p>
+        <p>เมื่อเวนคืนแล้ว กรมธรรม์ประกันชีวิต รวมไปถึงผลประโยชน์ต่างๆ ในกรมธรรม์ จะมีผลสิ้นสุดลงทันที </p>
+        <p>ต้องการสอบถามเพิ่มเติม โปรดติดต่อ โทร. <a href="tel:1351">1351</a></p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: 

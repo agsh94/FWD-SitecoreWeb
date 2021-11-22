@@ -1,0 +1,25 @@
+﻿---
+ID: "037c04a3-27ed-48f7-a302-fb806ae83fba"
+Parent: "a4d2e404-2456-4b68-b8cc-296ce795c55d"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Wealth/power-link-fwd/local-folder/ArticleDetails/Heading1"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T034443Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: เราคงเคยได้ยินคำว่า &ldquo;ให้เงินทำงาน&rdquo; แต่เคยสงสัยกันไหมว่ามีวิธีขั้นตอนแบบไหนวันนี้ลงทุนแมนจะเล่าให้ฟังถึงตัวอย่างว่าเขาทำกันอย่างไรเพราะถ้าทำได้แล้วเราก็น่าจะมีอิสรภาพทางการเงินและใช้ชีวิตได้อย่างเต็มที่หลังจากนั้น

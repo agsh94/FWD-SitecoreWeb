@@ -1,0 +1,38 @@
+﻿---
+ID: "f932fc1d-1a2d-40a9-bf2f-231bb329baaa"
+Parent: "b249509b-ac4c-4318-95e8-245e97480cb4"
+Template: "d9a88b8c-3b88-4428-820f-779e6c1991a6"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/health-check-up/local-folder/Privileges"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 350
+- ID: "d3fe3a20-83db-44ee-b010-e26a2fcced15"
+  Hint: linkItems
+  Value: "{D2D987BE-C81F-43E0-91CE-D3A5DEEF3844}|{9B56401B-CEB9-497C-AA01-0CB545194E4C}|{87512A5F-F144-40D9-9605-9FD1D2E0CCC2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0bf240d5-8d38-41e4-a1bd-ae96553f5585"
+      Hint: title
+      Value: Privileges
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200219T092757Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0bf240d5-8d38-41e4-a1bd-ae96553f5585"
+      Hint: title
+      Value: สิทธิพิเศษอื่นๆ
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200311T085905Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

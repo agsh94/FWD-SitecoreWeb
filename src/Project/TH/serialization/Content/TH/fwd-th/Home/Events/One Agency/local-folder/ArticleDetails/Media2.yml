@@ -1,0 +1,48 @@
+﻿---
+ID: "061a5540-c83f-42d7-a8d2-d21f14ce59dc"
+Parent: "e9c2dfa5-cda8-4229-a1af-9751620b8021"
+Template: "2861c185-fc81-4fdc-8e91-93de381c752e"
+Path: "/sitecore/content/fwd/fwd-th/Home/Events/One Agency/local-folder/ArticleDetails/Media2"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T145335Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c93d0c7b-6b3a-4e3a-a9b6-dc89062a8a6c"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{BD1C907A-11A1-46DF-8F95-3FADC48A7610}" />
+    - ID: "e5628949-939b-4454-b990-5b6c89e0be4d"
+      Hint: image
+      Value: |
+        <image mediaid="{BD1C907A-11A1-46DF-8F95-3FADC48A7610}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b23ad3f-b76c-4a6a-830d-1434dd398ed6"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T144901Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c93d0c7b-6b3a-4e3a-a9b6-dc89062a8a6c"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{BD1C907A-11A1-46DF-8F95-3FADC48A7610}" />
+    - ID: "e5628949-939b-4454-b990-5b6c89e0be4d"
+      Hint: image
+      Value: |
+        <image mediaid="{BD1C907A-11A1-46DF-8F95-3FADC48A7610}" />

@@ -1,0 +1,127 @@
+﻿---
+ID: "31cb6a2d-11e9-47fa-8945-7a710c85aead"
+Parent: "ae4e055d-079b-4525-a700-af46f5f669bb"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Wealth/shopee-20-10/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200722T020519Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T064846Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: รวยไม่ทน แต่จนนาน สถานการณ์ทางการเงินที่คนเป็นหนี้มักหนีไม่พ้น ได้เงินมา นำไปจ่ายหนี้ เป็นแบบนี้วนไปในทุกเดือน บ่วงกรรมแห่งมนุษย์ที่เป็นหนี้ หวังจะมีเงินเหลือเก็บกับเขาบ้าง ก็แทบจะหมดหวังแต่พอมองให้ดีบนพื้นฐานความเป็นจริง เรื่องหนี้ก็เป็นเรื่องที่เราหนีไม่พ้น เพื่อความมั่นคง การเติบโตและหน้าที่ที่ต้องรับผิดชอบ เราจึงต้องผ่อนบัตรเครดิต ผ่อนบ้าน ผ่อนรถ ฯลฯ การที่ต้องเป็นราชาเงินผ่อนจึงเป็นสถานะที่จำใจต้องเจอ แต่ทุกปัญหามีทางออก เป็นหนี้ได้ ก็ปลดหนี้ได้ และนี่คือเทคนิคที่จะทำให้คุณปลดหนี้ได้ไวกว่าเดิมไม่เชื่อต้องทำตาม
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200722T020550Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        ประกันสะสมทรัพย์ เอฟดับบลิว ดี ฟอร์ เชฟวิ่ง 20/10
+        ให้การออมของคุณเป็นเรื่องง่ายๆ
+        พิเศษ! ซื้อประกันวันนี้ รับสิทธิ์แลกโค้ดส่วนลด Shopee
+        รวมมูลค่า 500 บาท (โค้ดละ 100 บาท)
+        เพียงใช้ FWD MAX Point 50 แต้มเท่านั้น วันนี้ – 31 ส.ค. 63
+        คลิก https://fwdth.co/SavingMAX
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200722T020550Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200722T021139Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p style="text-align: center;">ประกันสะสมทรัพย์ เอฟดับบลิว ดี ฟอร์ เชฟวิ่ง 20/10<br />
+        ให้การออมของคุณเป็นเรื่องง่ายๆ
+        <br />
+        <strong>พิเศษ! ซื้อประกันวันนี้ รับสิทธิ์แลกโค้ดส่วนลด Shopee
+        <br />
+        รวมมูลค่า 500 บาท (โค้ดละ 100 บาท)
+        </strong><br />
+        เพียงใช้ FWD MAX Point 50 แต้มเท่านั้น วันนี้ &ndash; 31 ส.ค. 63
+        <br />
+        คลิก https://fwdth.co/SavingMAX
+        </p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200722T021139Z
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200722T035341Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p style="text-align: center;">ประกันสะสมทรัพย์ เอฟดับบลิว ดี ฟอร์ เชฟวิ่ง 20/10<br />
+        ให้การออมของคุณเป็นเรื่องง่ายๆ
+        <br />
+        <strong>พิเศษ! ซื้อประกันวันนี้ รับสิทธิ์แลกโค้ดส่วนลด Shopee
+        <br />
+        รวมมูลค่า 500 บาท (โค้ดละ 100 บาท)
+        </strong><br />
+        เพียงใช้ FWD MAX Point 50 แต้มเท่านั้น วันนี้ &ndash; 31 ส.ค. 63
+        <br />
+        คลิก <a href="https://fwdth.co/SavingMAX">https://fwdth.co/SavingMAX</a>
+        </p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200722T035341Z

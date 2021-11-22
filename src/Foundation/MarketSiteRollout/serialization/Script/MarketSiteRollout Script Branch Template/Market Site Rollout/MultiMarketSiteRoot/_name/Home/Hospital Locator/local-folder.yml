@@ -1,0 +1,29 @@
+﻿---
+ID: "cdd725ff-615f-4bbb-97ab-4717f901f570"
+Parent: "d028a193-0526-4591-b569-3e2a18afc53e"
+Template: "fff5f245-ffc0-4022-a998-9b07aa5e761f"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Hospital Locator/local-folder"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {51555475-5028-4B05-9B45-53BE53615704}
+    {83A147F2-89BA-4A48-8222-4B73FFE65216}
+    {128C8D06-48C1-46ED-B80E-904CC3DE68E0}
+    {F7152A9C-EDEA-49D6-A218-EC7009D9A7F1}
+    {EE2C800F-5808-4E93-B521-517495E4A1E6}
+    {6FC2AE35-3E92-49D3-8190-CE2A26F68B83}
+    {ACAFEFD1-0429-47C1-A27C-6DEE5DBFCBFE}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{57B66D93-86DA-4999-9B24-F3BE8F74D192}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T125819Z

@@ -1,0 +1,45 @@
+﻿---
+ID: "7e9e8c5a-a4f8-4c7e-9885-780caa7eda1c"
+Parent: "5a2e41de-8373-4c19-af0a-f386d8eee7c9"
+Template: "d188c909-be9c-4149-9106-b25be4b6fb55"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/press-releases/Fwd-Awards-2020/local-folder/ArticleHeroBanner"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ec1b066-046b-4099-8dde-7ef17d1818a5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{967BD10A-6DCA-4C1C-8093-EA5C755F9F41}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191221T104838Z
+    - ID: "43c58d25-8056-4ce0-b071-440c9f96ecf3"
+      Hint: image
+      Value: |
+        <image mediaid="{967BD10A-6DCA-4C1C-8093-EA5C755F9F41}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ec1b066-046b-4099-8dde-7ef17d1818a5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{967BD10A-6DCA-4C1C-8093-EA5C755F9F41}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191221T104838Z
+    - ID: "43c58d25-8056-4ce0-b071-440c9f96ecf3"
+      Hint: image
+      Value: |
+        <image mediaid="{967BD10A-6DCA-4C1C-8093-EA5C755F9F41}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

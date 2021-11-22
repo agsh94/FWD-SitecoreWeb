@@ -1,0 +1,38 @@
+﻿---
+ID: "d393a159-9fab-49e8-adfb-a1916eada8a8"
+Parent: "7c11f58c-6811-4edc-a7c9-30954a14d856"
+Template: "c0386c47-3ce2-4827-ba4c-f6df0fa16d1b"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Claims/accident-and-health/local-folder/claim-process/step-1/prepare-supporting-documents"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Prepare supporting documents
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191213T082733Z
+    - ID: "4973e51a-61af-4572-b2bf-347e10701bc2"
+      Hint: subtitle
+      Value: 
+    - ID: "5bd917c5-c576-444d-8efb-e5c40cfef957"
+      Hint: title
+      Value: Prepare supporting documents en
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T085051Z
+    - ID: "5bd917c5-c576-444d-8efb-e5c40cfef957"
+      Hint: title
+      Value: Prepare supporting documents แบบฟอร์มสอบถาม
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

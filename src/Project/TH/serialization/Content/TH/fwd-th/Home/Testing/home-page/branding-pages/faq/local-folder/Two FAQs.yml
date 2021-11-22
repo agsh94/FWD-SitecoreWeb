@@ -1,0 +1,50 @@
+﻿---
+ID: "115fc794-3e6a-4f6d-9216-aff9d28e25c3"
+Parent: "7510a3c7-8024-43c6-91a0-78bb3f0b5881"
+Template: "14cf212d-7cf4-41aa-b50b-24d748a87556"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/faq/local-folder/Two FAQs"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "f973c399-5998-47a5-ae48-760ebed901b1"
+  Hint: faqItems
+  Value: "{F4E47D0B-4D02-4D6B-96C4-F1542C987C20}|{E3CA3E9D-134B-4FE0-8666-E9096DF365C2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200707T120213Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See More FAQs" anchor="" linktype="internal" class="" title=""  querystring="" id="{2FB8A667-9926-4939-8E62-0CFAF99D862F}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: Two FAQs
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200708T055845Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text=" ดูคำถามที่พบบ่อยเพิ่มเติม" anchor="" linktype="internal" class="" title=""  querystring="" id="{2FB8A667-9926-4939-8E62-0CFAF99D862F}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value:  สองคำถามที่พบบ่อย

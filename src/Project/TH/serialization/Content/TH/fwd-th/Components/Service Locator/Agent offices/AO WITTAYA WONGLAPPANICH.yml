@@ -1,0 +1,128 @@
+﻿---
+ID: "1857d242-bf5f-468d-bcbb-3be3ac092c0f"
+Parent: "0b52d3da-7193-4802-9694-a199484a87ea"
+Template: "e6a17ec7-e0d3-47b3-bd3e-28bbeb607420"
+Path: "/sitecore/content/fwd/fwd-th/Components/Service Locator/Agent offices/AO WITTAYA WONGLAPPANICH"
+DB: master
+SharedFields:
+- ID: "0580280c-57d4-4966-a08a-0f7e874814a4"
+  Hint: mobile
+  Value: 08 4049 9905
+- ID: "1012cc35-3918-4ca9-8029-9002bc4071c7"
+  Hint: fax
+  Value: 0 5671 2400
+- ID: "20969991-14d8-413f-a0b3-606dde852fb4"
+  Hint: district
+  Value: "{E5C705CA-DE61-4C31-B04E-545D08B6C363}"
+- ID: "3002e2b9-559e-4664-86a6-a9aeaec07cac"
+  Hint: buttonIcon
+  Value: "{FCD7D121-C241-4EEC-B2C2-9D47C66E4181}"
+- ID: "7e4ef5f8-c53e-40af-b1b0-aa8e85495dc0"
+  Hint: latitude
+  Value: 16.408614
+- ID: "896a3e55-9550-4e0c-a21d-efb9b0c61431"
+  Hint: officeType
+  Value: "{4BD66871-A396-4B6B-B8DC-D4ED56FEDD2E}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "a88837dd-01d0-456a-b678-ef12fffa2496"
+  Hint: province
+  Value: "{1D3930CB-5649-40CC-B69A-44928AE70A5F}"
+- ID: "c20cce7b-5349-432e-a656-77394ce985e2"
+  Hint: facilityType
+  Type: Multilist
+  Value: "{3BA3A91D-049E-49F5-9EA5-966A4A37D222}"
+- ID: "cc819fc2-63b9-4f6b-8538-24759fbd25d9"
+  Hint: telephone
+  Value: 0 5671 2400
+- ID: "d3b0e30b-d1e6-45b9-ae31-ba0e14b75b99"
+  Hint: code
+  Value: A057
+- ID: "dc85978e-5c4c-404e-a4b0-1d0b35c01fe2"
+  Hint: postalCode
+  Value: 67000
+- ID: "dfac8c14-e646-463a-8464-507b86e06134"
+  Hint: contentType
+  Value: "{04E7400A-22DE-4392-A4AD-B78B7AA3B7A3}"
+- ID: "e7bd7bbc-38c3-42c8-bbeb-a84e612d75a5"
+  Hint: longitude
+  Value: 101.144921
+- ID: "f493ee0f-a54a-4384-9f8e-f8ca6482b7aa"
+  Hint: area
+  Value: "{E0FAA4AE-3636-4C84-A5F7-0CEE14F2B71F}"
+- ID: "fb6d3f20-15f7-448b-ba1b-ba2304d55dc6"
+  Hint: county
+  Value: "{C9A9A851-DADE-41E4-87F0-BBC58FFDBB39}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Ao Wittaya Wonglappanich
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T123324Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a8df4643-7000-41ca-8038-46afe2cb5494"
+      Hint: road
+      Value: 
+    - ID: "bc88b2b5-f787-423f-966d-26720d738083"
+      Hint: name
+      Value: Wittaya Wonglappanich agent office
+    - ID: "d0a7ad35-ad85-43ae-aaf6-1dbf443c91fb"
+      Hint: streetNumber
+      Value: "7 / 15-16 Moo 2"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200731T082322Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "a8df4643-7000-41ca-8038-46afe2cb5494"
+      Hint: road
+      Value: 
+    - ID: "bc88b2b5-f787-423f-966d-26720d738083"
+      Hint: name
+      Value: Wittaya Wonglappanich agent office
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200731T082322Z
+    - ID: "d0a7ad35-ad85-43ae-aaf6-1dbf443c91fb"
+      Hint: streetNumber
+      Value: "7 / 15-16 Moo 2"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200420T122547Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a8df4643-7000-41ca-8038-46afe2cb5494"
+      Hint: road
+      Value: 
+    - ID: "bc88b2b5-f787-423f-966d-26720d738083"
+      Hint: name
+      Value: คุณวิทยา  วงศ์ลาภพานิช สำนักงานตัวแทน
+    - ID: "d0a7ad35-ad85-43ae-aaf6-1dbf443c91fb"
+      Hint: streetNumber
+      Value: "7/15-16 ม.2"

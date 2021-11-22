@@ -1,0 +1,157 @@
+﻿---
+ID: "209051c3-ea4f-43e4-86d9-13eedbd794cd"
+Parent: "70a1ca3d-7ffc-40b8-8624-846e1c32a84d"
+Template: "40da990f-39dd-4d66-a9be-849f4ecffd22"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/info-card"
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;enableMargin&amp;divider" />
+        <r
+          uid="{C879EB9D-195D-4984-B164-F1DD756158FA}"
+          s:ds="{E85FE902-E9E3-4EFF-9C58-8FDD5DB99F4D}"
+          s:par="paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;divider&amp;anchorText&amp;backgroundColor=%7bCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7d&amp;PlayVideoInBackground&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;HeroBannerVariant" />
+        <r
+          uid="{2476A374-8836-45FE-AF59-3CD0AE06BE82}"
+          s:ds="{0DE95AE4-41AB-4D01-9EB0-67441B7C2450}"
+          s:par="paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;contentBlockType&amp;backgroundColor=%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;divider" />
+        <r
+          uid="{57AD34E9-D9E1-4B92-A392-E0A41486C935}"
+          s:ds="{0DE95AE4-41AB-4D01-9EB0-67441B7C2450}"
+          s:par="paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;variant&amp;anchorText&amp;backgroundColor=%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d&amp;buttonAlignment=%7bCF02F396-DAFD-448E-BC19-15E66C7CBA54%7d&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;divider" />
+        <r
+          uid="{D6134FB5-960B-4784-8AE2-7231655F27DC}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{9E73D12F-3814-4CD5-B0FC-4169AB38CCA3}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Info Card
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C879EB9D-195D-4984-B164-F1DD756158FA}"
+              s:par="HeroBannerVariant=%7B0BDF58FF-C695-448B-BC29-6E1C8DC08D4E%7D&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor=%7BEBDF491B-A72E-47CA-A391-E44A39C9C329%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+            <r
+              uid="{2476A374-8836-45FE-AF59-3CD0AE06BE82}">
+              <p:d />
+            </r>
+            <r
+              uid="{57AD34E9-D9E1-4B92-A392-E0A41486C935}">
+              <p:d />
+            </r>
+            <r
+              uid="{ADDF10E9-7155-4AED-9DF4-701146B9A3AE}"
+              p:after="r[@uid='{C879EB9D-195D-4984-B164-F1DD756158FA}']"
+              s:ds="{1205FE32-7AC5-407F-9B37-2136217DF7EC}"
+              s:id="{1B2D4D22-4BFA-48E9-ACD5-0120D07747F3}"
+              s:par="cardVariant=%7B391EEB52-5539-4302-AB99-A276A24F70C2%7D&amp;cardType=%7B3A755B62-8B19-4B2E-940B-B844C3AAFE15%7D&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{F3E3B44F-3BAB-4EAF-ABB0-A823507D1BAF}"
+              p:after="r[@uid='{ADDF10E9-7155-4AED-9DF4-701146B9A3AE}']"
+              s:ds="{7178DBEE-140E-4A56-B417-6590B47FA418}"
+              s:id="{1B2D4D22-4BFA-48E9-ACD5-0120D07747F3}"
+              s:par="cardVariant=%7B21D6E3B0-DAD4-4DE5-A1CE-843A3DCCD6A8%7D&amp;cardType=%7B3A755B62-8B19-4B2E-940B-B844C3AAFE15%7D&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7B43D56D20-6830-4D30-A546-89910FB6219C%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{C250C582-294F-4693-A493-7AA7CE419282}"
+              p:after="r[@uid='{F3E3B44F-3BAB-4EAF-ABB0-A823507D1BAF}']"
+              s:ds="{5092FA4D-8D50-4E0F-AD11-FBFF19A8A696}"
+              s:id="{1B2D4D22-4BFA-48E9-ACD5-0120D07747F3}"
+              s:par="cardVariant=%7BC0DF1746-485D-4546-AEB1-6F1313FE52D9%7D&amp;cardType=%7B3A755B62-8B19-4B2E-940B-B844C3AAFE15%7D&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200625T052122Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Info Card
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C879EB9D-195D-4984-B164-F1DD756158FA}"
+              s:par="HeroBannerVariant=%7B0BDF58FF-C695-448B-BC29-6E1C8DC08D4E%7D&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor=%7BEBDF491B-A72E-47CA-A391-E44A39C9C329%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{2476A374-8836-45FE-AF59-3CD0AE06BE82}">
+              <p:d />
+            </r>
+            <r
+              uid="{57AD34E9-D9E1-4B92-A392-E0A41486C935}">
+              <p:d />
+            </r>
+            <r
+              uid="{1F2B6734-86FA-4443-AE5D-A05D7FE62EAE}"
+              p:after="r[@uid='{C879EB9D-195D-4984-B164-F1DD756158FA}']"
+              s:ds="{1205FE32-7AC5-407F-9B37-2136217DF7EC}"
+              s:id="{1B2D4D22-4BFA-48E9-ACD5-0120D07747F3}"
+              s:par="cardVariant=%7B391EEB52-5539-4302-AB99-A276A24F70C2%7D&amp;cardType=%7B3A755B62-8B19-4B2E-940B-B844C3AAFE15%7D&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{67E1914F-4919-4F38-9AC5-EB94CBCCC8C0}"
+              p:after="r[@uid='{1F2B6734-86FA-4443-AE5D-A05D7FE62EAE}']"
+              s:ds="{7178DBEE-140E-4A56-B417-6590B47FA418}"
+              s:id="{1B2D4D22-4BFA-48E9-ACD5-0120D07747F3}"
+              s:par="cardVariant=%7B21D6E3B0-DAD4-4DE5-A1CE-843A3DCCD6A8%7D&amp;cardType=%7B3A755B62-8B19-4B2E-940B-B844C3AAFE15%7D&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7B43D56D20-6830-4D30-A546-89910FB6219C%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{D3FFE06B-9786-463D-B891-75C1A078250F}"
+              p:after="r[@uid='{67E1914F-4919-4F38-9AC5-EB94CBCCC8C0}']"
+              s:ds="{5092FA4D-8D50-4E0F-AD11-FBFF19A8A696}"
+              s:id="{1B2D4D22-4BFA-48E9-ACD5-0120D07747F3}"
+              s:par="cardVariant=%7B5A142F32-29AC-4CEB-9987-D0998ABA7677%7D&amp;cardType=%7B3A755B62-8B19-4B2E-940B-B844C3AAFE15%7D&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200625T064203Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: บัตรข้อมูล

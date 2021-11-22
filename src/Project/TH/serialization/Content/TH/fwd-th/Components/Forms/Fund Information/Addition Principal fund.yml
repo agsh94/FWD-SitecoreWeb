@@ -1,0 +1,47 @@
+﻿---
+ID: "291e457d-991e-450f-a00e-e4b5946b16c1"
+Parent: "b8e8f2e7-9a0d-4497-b55d-344213783ecb"
+Template: "979fdf53-37cb-434c-bbff-f7aaf6abaac0"
+Path: "/sitecore/content/fwd/fwd-th/Components/Forms/Fund Information/Addition Principal fund"
+DB: master
+SharedFields:
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{96BC3A53-AB72-49EF-BA31-37D901B59263}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200529T100619Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "d57a04ff-b168-4c1e-8221-799439725666"
+      Hint: title
+      Value: Announcement change/addition Principal fund
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Announcement change/addition Principal fund" linktype="media" title="Announcement change/addition Principal fund" target="" id="{DAD266DA-EE05-400C-9ED1-8624DDB0E8C2}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200529T100813Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "d57a04ff-b168-4c1e-8221-799439725666"
+      Hint: title
+      Value: แก้ไข/เพิ่มเติมรายละเอียดโครงการจัดการกองทุนเปิดจำนวน 5 กองทุน
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="แก้ไข/เพิ่มเติมรายละเอียดโครงการจัดการกองทุนเปิดจำนวน 5 กองทุน" linktype="media" title="แก้ไข/เพิ่มเติมรายละเอียดโครงการจัดการกองทุนเปิดจำนวน 5 กองทุน" target="" id="{DAD266DA-EE05-400C-9ED1-8624DDB0E8C2}" />

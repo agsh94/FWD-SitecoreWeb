@@ -1,0 +1,177 @@
+﻿.bold-publishing-heading legend {
+    font-weight: 600;
+    font-size: 14px;
+}
+#AddTreePanel {
+    background: antiquewhite;
+    margin-right: 30px;
+    padding: 5px 0;
+}
+.publishtreeviewpanel{
+    position:relative;
+}
+.add-btns-tree-panel {
+    position: absolute;
+    right: 30px;
+    top: 0;
+}
+#PublishTreeList{
+    margin-top:15px;
+}
+#PublishTreeList_selected {
+    border: none;
+}
+.scContentControlSelectedListView{
+    bottom:0;
+}
+.scScrollBoxListView {
+    border: 1px solid #e3e3e3;
+}
+#CountryDropdown option{
+    padding:10px 0;
+}
+#CountryDropdownPanellegend {
+    margin-bottom: 7px;
+}
+#LanguagesPanellegend {
+    margin-bottom: 10px;
+}
+#PublishedItemsList tr th:nth-child(1) {
+    width: 7%;
+}
+#PublishedItemsList tr th:nth-child(2) {
+    width: 20%;
+}
+#PublishedItemsList tr th:nth-child(3) {
+    width: 73%;
+}
+#LanguagesPanellegend{
+    line-height:5px;
+}
+.error-message {
+    color: red;
+    display: block;
+    margin: 5px 0;
+}
+.resultHeader {
+    background-color: #5E5E5E;
+    color: white;
+}
+.resultTable {
+    color: #000;
+    border-collapse: collapse;
+    display: table;
+}
+.resultBody .resultHeaderRow{
+    border: 1px solid #ccc;
+    border-bottom:none;
+    border-right:none;
+}
+.resultBody .resultHeaderRow:nth-child(1) {
+    border-top: none;
+}
+.resultBody .resultHeaderRow:nth-child(odd) {
+    background-color: #f7f7f7;
+}
+.resultBody .resultHeaderRow:nth-child(even) {
+    background-color:#fff;
+}
+.resultBody .resultHeaderRow:last-child {
+    border-bottom: 1px solid #ccc;
+}
+.resultBody .resultHeaderRow:hover {
+    background-color: #e3e3e3;
+}
+.resultHeaderRow {
+    height: auto;
+    display: table-row;
+}
+
+.resultHeaderRow .scListviewItemList {
+    padding: 14px 15px;
+    text-align: left;
+    position: relative;
+    float: none;
+    display: table-cell;
+    text-align: center;
+}
+
+.resultHeaderRow .scListviewItemList:hover {
+    background-color: unset;
+}
+.resultHeaderRow .scListviewItemList:after{
+    background: #d6d6d6 right center;
+    position: absolute;
+    width: 1px;
+    display: block;
+    height: 20px;
+    top: 13px;
+    right: 0;
+    content: "";
+}
+.resultHeaderRow .scListviewItemList:nth-child(1) {
+    width: 7%;
+}
+.resultHeaderRow .scListviewItemList:nth-child(2) {
+    width: 20%;
+}
+.resultHeaderRow .scListviewItemList:nth-child(3) {
+    width: 73%;
+}
+.resultHeaderRow .scListviewItemList:nth-child(3):after {
+    background: none;
+}
+
+.resultBody .resultHeaderRow .scListviewItemList:after {
+    background: #d6d6d6 right center;
+    position: absolute;
+    width: 1px;
+    display: block;
+    right: 0;
+    content: "";
+    height: 100%;
+    top: 0;
+}
+.resultBody .resultHeaderRow .scListviewItemList a{
+    display:block;
+}
+.resultBody .resultHeaderRow .scListviewItemList:nth-child(3):after {
+    background: #d6d6d6 right center;
+}
+.resultHeader {
+    display: table-header-group;
+}
+.resultBody {
+    display: table-row-group;
+}
+.cdndeletelistpanel{
+    margin-top:15px;
+}
+#DeleteFromCdnList_all_deleted_items, #DeleteFromCdnList_selected_items_delete {
+    border: none;
+}
+#DeleteFromCdnUnpublishedList_all_deleted_items, #DeleteFromCdnUnpublishedList_selected_items_delete {
+    border: none;
+}
+.delete-from-cdn-text{
+    display:block;
+    margin-bottom:10px;
+}
+.resultscreen{
+    margin-bottom:20px;
+}
+.resultscreen .resultscreentext{
+    margin-bottom: 15px;
+    display: block;
+    font-weight: bold;
+    font-size: 14px;
+}
+.result-text {
+    font-size: 14px;
+    font-weight: 700;
+    color: #E87722;
+}
+.delete-cdn-icon{
+    width:20px;
+    height:20px;
+}

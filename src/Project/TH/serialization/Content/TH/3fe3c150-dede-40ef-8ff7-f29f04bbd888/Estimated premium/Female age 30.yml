@@ -1,0 +1,134 @@
+﻿---
+ID: "120caa5f-0917-4de4-bf5e-0bb42e5abfed"
+Parent: "915c7fac-5c99-4308-9fe4-f586cb0a9073"
+Template: "683bbabe-aadd-4e41-95eb-fd590132565d"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/super-care/Super CARE Plan S/AttributeFolder/Estimated premium/Female age 30"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ecfd20e-1a1c-4143-9ad4-22a1374823bf"
+      Hint: value
+      Value: 6,700
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T063522Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "5f64db6e-5306-48e3-b7ba-42955fc2b2d1"
+      Hint: leadingTextToolTip
+      Value: |
+        <span id="docs-internal-guid-3fa7ad90-7fff-ffd2-8ab1-5e53549256bf"></span>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #006666;">Premiums may vary depending on your age, gender, and general health&nbsp;</span></p>
+        <div><span style="color: #006666;"><br />
+        </span></div>
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{EE56B690-2C3B-4D38-92D7-DFBDFA9D361C}"
+    - ID: "c46c42f1-4609-44be-af80-fd7b8e4b47a5"
+      Hint: leadingText
+      Value: THB
+  - Version: 2
+    Fields:
+    - ID: "1ecfd20e-1a1c-4143-9ad4-22a1374823bf"
+      Hint: value
+      Value: 6,700
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201012T105137Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Panchitma
+    - ID: "5f64db6e-5306-48e3-b7ba-42955fc2b2d1"
+      Hint: leadingTextToolTip
+      Value: |
+        <span id="docs-internal-guid-3fa7ad90-7fff-ffd2-8ab1-5e53549256bf"></span>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #006666;"><br />
+        </span></p>
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{EE56B690-2C3B-4D38-92D7-DFBDFA9D361C}"
+    - ID: "c46c42f1-4609-44be-af80-fd7b8e4b47a5"
+      Hint: leadingText
+      Value: THB
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201012T105137Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ecfd20e-1a1c-4143-9ad4-22a1374823bf"
+      Hint: value
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T065049Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "5f64db6e-5306-48e3-b7ba-42955fc2b2d1"
+      Hint: leadingTextToolTip
+      Value: |
+        <span id="docs-internal-guid-8aac2246-7fff-0829-fbc8-5f2ee89df804" style="color: #548135;"><span id="docs-internal-guid-77c69ce3-7fff-6523-5d8b-255566f4075d"></span></span>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #006666;">เบี้ยประกันภัยอาจมีการปรับเปลี่ยน ทั้งนี้ ขึ้นอยู่กับอายุ เพศ และลักษณะสุขภาพโดยทั่วไปของคุณ</span></p>
+        <div><span style="color: #006666;"><br />
+        </span></div>
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{EE56B690-2C3B-4D38-92D7-DFBDFA9D361C}"
+    - ID: "c46c42f1-4609-44be-af80-fd7b8e4b47a5"
+      Hint: leadingText
+      Value: 6,700 บาท
+  - Version: 2
+    Fields:
+    - ID: "1ecfd20e-1a1c-4143-9ad4-22a1374823bf"
+      Hint: value
+      Value: 6,700 บาท
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201012T094335Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "5f64db6e-5306-48e3-b7ba-42955fc2b2d1"
+      Hint: leadingTextToolTip
+      Value: |
+        <span id="docs-internal-guid-8aac2246-7fff-0829-fbc8-5f2ee89df804" style="color: #548135;"><span id="docs-internal-guid-77c69ce3-7fff-6523-5d8b-255566f4075d"></span></span>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #006666;"><br />
+        </span></p>
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{EE56B690-2C3B-4D38-92D7-DFBDFA9D361C}"
+    - ID: "c46c42f1-4609-44be-af80-fd7b8e4b47a5"
+      Hint: leadingText
+      Value: 
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201012T094335Z
+    - ID: "d6e9084e-023d-4e83-8890-3be5f8c35b63"
+      Hint: trailingText
+      Value: 

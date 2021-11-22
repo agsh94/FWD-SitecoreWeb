@@ -1,0 +1,53 @@
+﻿---
+ID: "1db15de7-cde6-4c4b-8605-1957cad15c2f"
+Parent: "71bbcb70-32ea-4366-84ec-75fdc0b08d0a"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/premium-payment/local-folder/premium-payment/DropdownItem/Our agent/credit-card"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Credit cards
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T114240Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Credit cards</strong></p>
+        <p>We accept</p>
+        <img alt="" src="-/media/35c216d8be6e45c1a1cb59ae167e395d.ashx?h=64&w=64" style="height:64px; width:64px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="" src="-/media/4187e5ab44544df096112e1e60f69216.ashx?h=64&w=64" style="height:64px; width:64px;" />
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Credit cards
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T114315Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>บัตรเครดิต</strong></p>
+        <p>รับบัตรเครดิตวีซ่าและมาสเตอร์การ์ด  ของทุกสถาบันการเงิน</p>
+        <img alt="" src="-/media/35c216d8be6e45c1a1cb59ae167e395d.ashx?h=64&w=64" style="height:64px; width:64px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="" src="-/media/4187e5ab44544df096112e1e60f69216.ashx?h=64&w=64" style="height:64px; width:64px;" />

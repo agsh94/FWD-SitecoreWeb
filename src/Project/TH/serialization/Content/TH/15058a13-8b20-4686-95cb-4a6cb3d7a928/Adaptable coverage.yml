@@ -1,0 +1,60 @@
+﻿---
+ID: "db3ccaa4-a17a-4554-9c1d-7fcc1768206c"
+Parent: "15058a13-8b20-4686-95cb-4a6cb3d7a928"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/tailor-made/local-folder/Flexible insurance plans/Adaptable coverage"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: "Our cover means you can add-on numerous benefits, helping ease the burden of medical treatment."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200117T112556Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: Adaptable coverage
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{8E809776-5C9F-475C-BF6E-48F4B889C76F}" cropx="0.49" cropy="0.51" focusx="-0.012022850271888763" focusy="-0.017197608947753906" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{8E809776-5C9F-475C-BF6E-48F4B889C76F}" cropx="0.48" cropy="0.54" focusx="-0.038454568333562755" focusy="-0.08127164840698242" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: ซึ่งนั่นหมายถึงคุณสามารถเพิ่มผลประโยชน์ความคุ้มครองได้หลากหลาย และลดภาระค่าใช้จ่ายในการรักษาพยาบาล
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T115849Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: ความคุ้มครองที่ปรับเปลี่ยนได้
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{8E809776-5C9F-475C-BF6E-48F4B889C76F}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{8E809776-5C9F-475C-BF6E-48F4B889C76F}" />

@@ -1,0 +1,21 @@
+﻿---
+ID: "ef14f52d-d51e-4727-a368-6f642d494e4a"
+Parent: "a38a3992-925d-436a-b9d9-a765104f1fb3"
+Template: "83a147f2-89ba-4a48-8222-4b73ffe65216"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branch-locator/local-folder/Customer Support"
+DB: master
+SharedFields:
+- ID: "56b35c4a-f364-45f9-8d35-5a28cecdd7a8"
+  Hint: supportOptions
+  Value: "{D060DDA0-E848-47A0-8806-C8C1A64F1D57}|{14E92932-C58E-4A9E-992B-12250856F9DB}|{B6DD1DF1-524D-46FB-93DC-C7891FE384AB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200106T062714Z
+    - ID: "e59ccccf-b566-4b39-b862-7fc68fe13e39"
+      Hint: title
+      Value: Customer Support

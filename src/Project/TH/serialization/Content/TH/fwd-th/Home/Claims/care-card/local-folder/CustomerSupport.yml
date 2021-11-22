@@ -1,0 +1,58 @@
+﻿---
+ID: "8794494c-ef60-4a31-b059-529ba1585587"
+Parent: "334d56d5-9720-4f61-afc4-d5db2020317f"
+Template: "83a147f2-89ba-4a48-8222-4b73ffe65216"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/care-card/local-folder/CustomerSupport"
+DB: master
+SharedFields:
+- ID: "56b35c4a-f364-45f9-8d35-5a28cecdd7a8"
+  Hint: supportOptions
+  Value: "{FC7A06F3-E7DE-454C-A8BF-514556E68054}|{CC115D5A-4819-4224-8B56-F69AEC264865}|{8C8011E7-F1D3-4D18-B465-127374D4AD0D}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{9D107E28-E33F-4100-B2EF-062FAFDC5677}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Customer Support
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200518T110812Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "e43f6d15-838d-41cd-b745-616c1b373dff"
+      Hint: description
+      Value: No problem. These are the different ways we can help and support.
+    - ID: "e59ccccf-b566-4b39-b862-7fc68fe13e39"
+      Hint: title
+      Value: "Need help with your claim?"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200518T120226Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "e43f6d15-838d-41cd-b745-616c1b373dff"
+      Hint: description
+      Value: พร้อมช่วยเหลือและเคียงข้าง เพื่อให้คุณหมดกังวลกับทุกปัญหา
+    - ID: "e59ccccf-b566-4b39-b862-7fc68fe13e39"
+      Hint: title
+      Value: ต้องการความช่วยเหลือเกี่ยวกับการเรียกร้องสินไหม
+    - ID: "ea954541-e58e-4ce1-9771-2c30f33c4a58"
+      Hint: supportIcon
+      Value: "{0853A008-9B3C-4A10-98B9-1E96A3CDC253}"

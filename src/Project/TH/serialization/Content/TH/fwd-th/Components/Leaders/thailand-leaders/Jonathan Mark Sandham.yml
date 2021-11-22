@@ -1,0 +1,67 @@
+﻿---
+ID: "00bdf5a8-7e73-41eb-b2df-6936bc61deee"
+Parent: "2e14c608-31d3-4365-9a5d-2483de408270"
+Template: "8e353b27-e5f9-4361-b332-9b3557fb7cd8"
+Path: "/sitecore/content/fwd/fwd-th/Components/Leaders/thailand-leaders/Jonathan Mark Sandham"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 950
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{F96A106D-5CCF-4513-96AE-12DB0625BCF2}" cropx="0.51" cropy="0.32" focusx="0.01754385964912286" focusy="0.359375" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200523T112334Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: Jonathan Mark Sandham
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: "Jon oversees all our distribution channels here in Thailand, along with our core business development. Within this he also leads the FWD Distribution Academy, our award-winning training programme. Prior to joining FWD Life Thailand, he led the agency distribution business at a major insurance brand in Singapore including its tied and broker distribution channels, encompassing its employee benefits business. Jon has a proven track record with over 30 years’ experience in the financial services industry. This spans strategic leadership of multiple distribution channels including direct sales, tied agency, and bancassurance - both in the UK and Asia."
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: Chief Distribution Officer
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{F96A106D-5CCF-4513-96AE-12DB0625BCF2}" cropx="0.52" cropy="0.34" focusx="0.03508771929824572" focusy="0.3125" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200523T112518Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: โจนาธาน มาร์ค แซนด์แฮม
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: |
+        คุณจอนรับผิดชอบดูแลสายงานช่องทางการจัดจำหน่ายทุกช่องทาง  ฝ่ายพัฒนาธุรกิจและฝ่ายฝึกอบรม
+        ก่อนเข้าร่วมงานกับเอฟดับบลิวดี ประกันชีวิต คุณจอนเป็นผู้บริหารช่องทางจัดจำหน่ายผ่านตัวแทนที่ใหญ่ที่สุดและมีประสิทธิภาพที่สุดในประเทศสิงคโปร์ รวมถึงการประกันกลุ่มที่จัดจำหน่ายผ่านช่องทางตัวแทนและนายหน้า
+        ด้วยประสบการณ์มากกว่า 30 ปี ในอุตสาหกรรมทางการเงิน เขาสามารถบริหารงานครอบคลุมทั้งด้านการบริหารจัดการช่องทางการจัดจำหน่ายที่หลากหลายในทุกระดับด้วยรูปแบบการขายตรง  
+        การขายผ่านตัวแทน  และการขายผ่านธนาคาร  ในประเทศอังกฤษและเอเชีย
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: ประธานเจ้าหน้าที่ช่องทางการจัดจำหน่าย
+    - ID: "ffce884f-680c-485e-9bef-f4dbf574d377"
+      Hint: featuredPictogramImage
+      Value: |
+        <image mediaid="{F7D82769-AF23-4E37-B4F1-C32E0C641585}" />

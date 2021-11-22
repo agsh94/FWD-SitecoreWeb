@@ -1,0 +1,34 @@
+﻿---
+ID: "08649b5d-6a58-459c-b96d-79ee8d7d7038"
+Parent: "f9f56505-db1d-4b61-a8e7-ec2a1b980d57"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Wealth/business-trends/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200928T053945Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        ทุกวันนี้ใครๆ ก็อยากเป็นเจ้านายตัวเอง แต่การที่จะทำแบบนั้นได้ต้องตอบคำถามตัวเองก่อนว่า ชอบหรือถนัดในสิ่งไหน ทำอะไรแล้วมีความสุข เพราะมันคือหนึ่งในปัจจัยที่จะทำให้การเป็นเจ้านายตัวเองหรือเจ้าของธุรกิจ ไม่ร่วงแต่กลับรุ่งจนใครๆ ก็ให้ความสนใจ<br />
+        <br />
+        สิ่งสำคัญอีกอย่างคือความเข้าใจในวิถีชีวิตที่เปลี่ยนไปตามยุคสมัย โดยเฉพาะตอนนี้ สมาร์ตโฟนทำให้ทุกคนสะดวกสบายขึ้น ดูหนัง ฟังเพลง ค้นหาข้อมูลได้ในทันที ซึ่งส่งผลโดยตรงต่อการทำธุรกิจ ธุรกิจเก่าก็ต้องปรับตัวให้รองรับความต้องการของผู้บริโภคมากขึ้น ธุรกิจใหม่ก็ขยายตัวอย่างรวดเร็ว&nbsp;และต่อไปนี้คือ 5 ธุรกิจที่คนอยากเป็นเจ้านายตัวเองต้องจับตามอง

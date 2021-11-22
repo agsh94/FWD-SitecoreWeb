@@ -1,0 +1,44 @@
+﻿---
+ID: "eecb9710-ef0a-49c2-837b-9763355da8fc"
+Parent: "ffaa0a82-fa41-4f50-a7c4-c2c668ded9b5"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/About Us/local-folder/ContentBlock"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F2144FAD-79BA-490B-B81C-6104A84EB769}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ContentBlock
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{F9AC5180-8D9D-492F-9A80-39378F0241FB}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200603T112311Z
+    - ID: "2d067f06-5100-49e0-83d8-64858a7c9b50"
+      Hint: videoLink
+      Value: |
+        <file mediapath="/FWD/Global/videos/videoplayback" mediaid="{B0D34069-4739-43F8-9188-E5A9FEB9325D}" src="-/media/b0d34069473943f89188e5a9feb9325d.ashx" />
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{F9AC5180-8D9D-492F-9A80-39378F0241FB}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: <p>FWD is a fresh insurance company for aspirational people who are looking forward to their lives ahead. We believe that life is all about living your passion and pursuing happiness; it’s our commitment to empower people to live their lives to the fullest everyday. </p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: About Us

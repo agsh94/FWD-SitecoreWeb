@@ -1,0 +1,47 @@
+﻿---
+ID: "27447ee7-0cfc-4bc8-a0ee-be38f4d60e72"
+Parent: "015826a8-cada-4cba-9dd5-924253de51d5"
+Template: "a874f518-dbe3-409e-b0cf-a6040ae33471"
+Path: "/sitecore/content/fwd/fwd-th/Components/Partners/AboutUs/TMB Bank Public Company Limited"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 125
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T192025Z
+    - ID: "4c631be5-5969-4825-a79d-ed44278401e0"
+      Hint: title
+      Value: TMB Bank Public Company Limited
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "85332073-47d2-4e12-952e-6ab2dbff23ba"
+      Hint: image
+      Value: |
+        <image mediaid="{0C919A3A-A925-43C0-8A37-5E73B5C1B9C2}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T192034Z
+    - ID: "4c631be5-5969-4825-a79d-ed44278401e0"
+      Hint: title
+      Value: ธนาคารทหารไทย จำกัด (มหาชน)
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "85332073-47d2-4e12-952e-6ab2dbff23ba"
+      Hint: image
+      Value: |
+        <image mediaid="{0C919A3A-A925-43C0-8A37-5E73B5C1B9C2}" />

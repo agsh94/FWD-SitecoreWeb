@@ -1,0 +1,40 @@
+﻿---
+ID: "c68b83f3-8be4-4a31-8ae9-65fb223f5e83"
+Parent: "e8fc7233-4c9d-4c8c-baa4-d9de04d42f2e"
+Template: "681b61a2-6f52-4119-b8f4-033587eaeacc"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/Xsell20 ICP/local-folder/DynamicCardList"
+DB: master
+SharedFields:
+- ID: "2250f909-bae3-415f-a645-9d07826b6566"
+  Hint: apiPageSize
+  Value: 4
+- ID: "8f397566-a4d1-4f23-8594-dce13b3720fe"
+  Hint: apiSortBy
+  Value: "{22E8CD03-D525-4DB4-A1AA-8002FCD5673A}"
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{20162863-AE86-4B42-9AEC-B7A81A345553}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 900
+- ID: "e82938f3-6c97-4755-9c0b-baf56b4a5e4f"
+  Hint: apiMobilePageSize
+  Value: 5
+- ID: "ef2bcb82-b8a8-4be6-88a7-5269b777ad1d"
+  Hint: apiSubType
+  Value: "{86924A38-30E8-45E4-AE10-1663F1632B58}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200419T153314Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: บทความที่น่าสนใจ

@@ -1,0 +1,91 @@
+﻿---
+ID: "4c0bee3b-de1e-4f10-a7e2-fa898f24d331"
+Parent: "fdef80d2-9131-4325-9bf4-6a2e7534f818"
+Template: "17f05b4d-4e1a-4598-afd0-eb05d76d5f68"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/Health/CancerFighter/copy-of-packageplancard-iii"
+DB: master
+SharedFields:
+- ID: "1d7292b5-07c1-4268-b196-263841c6000a"
+  Hint: key
+  Value: "tool-tip"
+- ID: "9cb51dc0-7252-4372-8a9e-42fa7de2b4fd"
+  Hint: minAge
+  Value: "yy-mm-dd"
+- ID: "b78d7fa0-a532-4f1a-90c1-98b0770294d4"
+  Hint: maxAge
+  Value: "yy-mm-dd"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 650
+- ID: "ce362806-169f-431a-bd65-0f18284df62c"
+  Hint: packageList
+  Value: "{942FC3CF-3C25-4D28-8D62-CC3D24180BC0}|{957789D6-D160-4CDD-B073-6E985898E9C4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Packageplancard-IV"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191210T093754Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\testuser
+    - ID: "b92c2dde-7a5d-47d6-a1a5-beb79513d9e8"
+      Hint: share
+      Type: Checkbox
+      Value: 1
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: Package IV
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="Enquire" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{49F0D81D-2E91-44B2-9F6E-3267BABAFA41}" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: Package
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: Value Protector
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055203Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: Package IV
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="Enquire" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{49F0D81D-2E91-44B2-9F6E-3267BABAFA41}" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: Package
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: Value Protector
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T115746Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200409T115746Z

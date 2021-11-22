@@ -1,0 +1,103 @@
+﻿---
+ID: "440af0ae-da68-4125-ab33-2d649bf750ca"
+Parent: "c4b9c100-be14-43ac-a97c-de408f20c93d"
+Template: "ad6870d4-2dd6-40ef-a8fa-941ab32cee43"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/care-card/local-folder/Out-patient In-patient/Out-Patient/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T075539Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ol>
+            <li>Present your FWD Care Card (check its expiry date) along with your ID card or student card or valid documents issued by the government. Then fill in the form provided by the hospital.</li>
+            <li>Upon discharge, the hospital officer will review your total expenditure to ensure that it meets the agreed coverage and conditions stated in your policy. If the total cost exceeds your coverage, the hospital will charge the excess amount directly to you, the policy owner.</li>
+        </ol>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200914T123259Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ol>
+            <li>Present your FWD Care Card along with your ID card or student card or valid documents issued by the government. Then fill in the form provided by the hospital.</li>
+            <li>Upon discharge, the hospital officer will review your total expenditure to ensure that it meets the agreed coverage and conditions stated in your policy. If the total cost exceeds your coverage, the hospital will charge the excess amount directly, the policy owner.</li>
+        </ol>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200914T123259Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T081004Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ol>
+            <li>แสดงบัตรเอฟดับบลิวดี แคร์การ์ด (โปรดตรวจสอบวันหมดอายุของบัตร) ประกอบกับบัตรประชาชนหรือบัตรนักเรียน/นักศึกษา หรือเอกสารอื่นที่ออกโดยหน่วยงานรัฐและยังไม่หมดอายุ พร้อมทั้งกรอกแบบฟอร์มของโรงพยาบาล</li>
+            <li>เมื่อจะออกจากโรงพยาบาล เจ้าหน้าที่การเงินของโรงพยาบาลจะสรุปรายการค่าใช้จ่ายให้คุณรับทราบ เพื่อยืนยันว่าเป็นไปตามความคุ้มครองและข้อกำหนดตามที่ตกลง ซึ่งระบุไว้ในกรมธรรม์ของคุณ ในกรณีที่มีค่ารักษาส่วนเกินจากความคุ้มครองตามกรมธรรม์ โรงพยาบาลจะเรียกชำระค่าใช้จ่ายส่วนเกินจากคุณโดยตรงในฐานะผู้ถือกรมธรรม์</li>
+        </ol>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200915T035502Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ol>
+            <li>แสดงบัตรเอฟดับบลิวดี แคร์การ์ด ประกอบกับบัตรประชาชนหรือบัตรนักเรียน/นักศึกษา หรือเอกสารอื่นที่ออกโดยหน่วยงานรัฐและยังไม่หมดอายุ พร้อมทั้งกรอกแบบฟอร์มของโรงพยาบาล</li>
+            <li>เมื่อจะออกจากโรงพยาบาล เจ้าหน้าที่การเงินของโรงพยาบาลจะสรุปรายการค่าใช้จ่ายให้คุณรับทราบ เพื่อยืนยันว่าเป็นไปตามความคุ้มครองและข้อกำหนดตามที่ตกลง ซึ่งระบุไว้ในกรมธรรม์ของคุณ ในกรณีที่มีค่ารักษาส่วนเกินจากความคุ้มครองตามกรมธรรม์ โรงพยาบาลจะเรียกชำระค่าใช้จ่ายส่วนเกินจากคุณโดยตรงในฐานะผู้ถือกรมธรรม์</li>
+        </ol>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200915T035502Z

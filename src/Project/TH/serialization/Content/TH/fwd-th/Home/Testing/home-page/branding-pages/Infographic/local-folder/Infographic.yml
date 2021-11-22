@@ -1,0 +1,71 @@
+﻿---
+ID: "9a731aa6-f77e-4bda-ab6c-ae50c095bdaf"
+Parent: "338ef0ed-1d88-42eb-ba39-bf9809ad0627"
+Template: "293fa631-49cc-4fce-baf8-de80b6230a68"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/Infographic/local-folder/Infographic"
+DB: master
+SharedFields:
+- ID: "bf45035b-b8e5-40ec-bc82-d0d7eeb23954"
+  Hint: imageAlignment
+  Value: "{2C69CF5E-4D54-4BA2-967A-EF22E91A63B1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ee49dd2-9834-4aec-a9e3-b9403125b8c9"
+      Hint: buttonText
+      Value: Expand diagram
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200722T145029Z
+    - ID: "3c5186ed-dbd7-4430-b6d9-ca388602a018"
+      Hint: title
+      Value: Benefit summary diagram
+    - ID: "7a85eb46-2733-406c-9942-0e415bdd6c5e"
+      Hint: infographicImage
+      Value: |
+        <image mediaid="{729D08C1-7A8E-4AE1-B367-F33D3D8D5F61}" />
+    - ID: "86ca21ca-d795-4158-aefc-30808ec4edae"
+      Hint: description
+      Value: Vestibulum rutrum quam vitae fringilla tincidunt. Suspendisse nec tortor urna. Ut laoreet sodales nisi, quis iaculis nulla iaculis vitae. Donec sagittis faucibus lacus eget blandit22
+    - ID: "98af5575-9485-44c6-9c6c-4cc4336a4367"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{729D08C1-7A8E-4AE1-B367-F33D3D8D5F61}" />
+    - ID: "ea95a986-f3a6-4ea1-b2ff-0b4410968aab"
+      Hint: image
+      Value: |
+        <image mediaid="{729D08C1-7A8E-4AE1-B367-F33D3D8D5F61}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ee49dd2-9834-4aec-a9e3-b9403125b8c9"
+      Hint: buttonText
+      Value:  ขยายไดอะแกรม
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200724T040720Z
+    - ID: "3c5186ed-dbd7-4430-b6d9-ca388602a018"
+      Hint: title
+      Value: แผนภาพสรุปผลประโยชน์
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7a85eb46-2733-406c-9942-0e415bdd6c5e"
+      Hint: infographicImage
+      Value: |
+        <image mediaid="{729D08C1-7A8E-4AE1-B367-F33D3D8D5F61}" />
+    - ID: "86ca21ca-d795-4158-aefc-30808ec4edae"
+      Hint: description
+      Value: มากกว่าชีวิตของ Vivamus pretium, purus tincidunt ligula ช่วงล่างของฤดูใบไม้ผลิ iaculis ในเวลาต่อมา, ชีวิตของฉันเป็นโมฆะของชีวิต. Risus นั่งจนกว่าเราต้องการผู้ประกอบการ
+    - ID: "98af5575-9485-44c6-9c6c-4cc4336a4367"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{729D08C1-7A8E-4AE1-B367-F33D3D8D5F61}" />
+    - ID: "ea95a986-f3a6-4ea1-b2ff-0b4410968aab"
+      Hint: image
+      Value: |
+        <image mediaid="{729D08C1-7A8E-4AE1-B367-F33D3D8D5F61}" />

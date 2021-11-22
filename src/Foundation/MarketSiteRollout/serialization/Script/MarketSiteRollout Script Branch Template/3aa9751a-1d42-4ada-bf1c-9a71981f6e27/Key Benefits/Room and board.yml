@@ -1,0 +1,35 @@
+﻿---
+ID: "02d9f2ff-8c27-489c-aad8-84b823316a17"
+Parent: "b7d29a77-21ce-4eab-8f2c-51c7dd203a4a"
+Template: "683bbabe-aadd-4e41-95eb-fd590132565d"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Health/cancer-knockout/Package IV/AttributeFolder/Key Benefits/Room and board"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ecfd20e-1a1c-4143-9ad4-22a1374823bf"
+      Hint: value
+      Value: 750
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200615T043507Z
+    - ID: "5f64db6e-5306-48e3-b7ba-42955fc2b2d1"
+      Hint: leadingTextToolTip
+      Value: per day
+    - ID: "79bdc004-d6d5-4fad-86e4-4401981ca0ef"
+      Hint: trailingTextToolTip
+      Value: Term & Conditions Applied
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{DB452370-ED4A-4C70-9314-D610399CE6A7}"
+    - ID: "c46c42f1-4609-44be-af80-fd7b8e4b47a5"
+      Hint: leadingText
+      Value: THB
+    - ID: "c783126c-7875-4a65-98ee-d16aeafeb21c"
+      Hint: emphasisTextToolTip
+      Value: Terms
+    - ID: "d6e9084e-023d-4e83-8890-3be5f8c35b63"
+      Hint: trailingText
+      Value: per day

@@ -1,0 +1,111 @@
+﻿---
+ID: "cf4d1042-f3d2-44b6-9630-8b1228fdbfe7"
+Parent: "b12b424d-926c-4aff-8c62-4f6d89c8ce8d"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/contentblock/local-folder/ContentBlock"
+DB: master
+SharedFields:
+- ID: "103f05ef-7d28-4ded-bc43-030b1834eaf0"
+  Hint: secondaryLinkGALabelName
+  Value: test2
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "9916acb2-f8e6-4480-b9a1-15ac7b642abe"
+  Hint: gaLabelName
+  Value: Test
+- ID: "998bce23-8608-4a00-b7e8-612a1dd3cb66"
+  Hint: linkGALabelName
+  Value: test1
+- ID: "dab4200c-a87f-4605-b2f7-2544616ece6e"
+  Hint: secondaryLinkButtonIcon
+  Value: "{7A571888-B9C6-4778-973B-828EC009C8B0}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{68BE4375-2C18-4CAD-808A-6AC77720B96B}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ContentBlockWhiteRightImage
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{90976C13-FD3D-4C06-A8AC-18DBE0D166A9}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200624T071259Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{90976C13-FD3D-4C06-A8AC-18DBE0D166A9}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        You want to buy things that you&rsquo;ll actually use, not sit in a closet for years. Surely the same should apply to your <a href="~/link.aspx?_id=4299EE48028D4462B8B1704971946123&amp;_z=z">insurance</a>? Be Sure, our low premium-high protection life insurance plan lets you choose your term length (5, 10 or 15 years). It means nothing feels wasted and you can be sure you&rsquo;re only paying for protection when you really need it the most &ndash; for example when you have a young, growing family.<br />
+        Please do bear in mind that occasionally we need more time to make a claims payment. A delay could be for a number of reasons - for example the type of claim, how complex the case is, and whether we have all the information and documents we need. If we think we&rsquo;ll need longer than 15 days, we&rsquo;ll inform you (or your beneficiary) in writing and will give you the reason why. Our target will then be to pay the claim within 90 days. Assuming your claim is successful, if we then fail to make a payment within either 90 days, or any new extended target we commit to, we&rsquo;ll additionally pay you interest when we do pay. Any interest rate will be an additional 15% on the amount we owe you, from the first day we go over our extended target until the day we process your claims payment.<br />
+        <div>&nbsp;</div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: kIt05tnmIxk
+    - ID: "d0be2ac7-85f9-4ba4-91da-613370dbd6d6"
+      Hint: secondaryLink
+      Value: |
+        <link text="External" linktype="external" url="https://www.fwd.co.th/en/" anchor="" target="_blank" />
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Content Block With Media on Right and Content on left
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Internal" anchor="" linktype="internal" class="" title=""  querystring="" id="{49F0D81D-2E91-44B2-9F6E-3267BABAFA41}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{90976C13-FD3D-4C06-A8AC-18DBE0D166A9}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200626T065641Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{90976C13-FD3D-4C06-A8AC-18DBE0D166A9}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: FWD เป็น บริษัท ประกันภัยใหม่สำหรับคนที่มีแรงบันดาลใจซึ่งกำลังรอคอยชีวิตของพวกเขาอยู่ข้างหน้า เราเชื่อว่าชีวิตคือการดำเนินชีวิตตามความปรารถนาของคุณและแสวงหาความสุข
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: kIt05tnmIxk
+    - ID: "d0be2ac7-85f9-4ba4-91da-613370dbd6d6"
+      Hint: secondaryLink
+      Value: |
+        <link text="Claims" anchor="" linktype="internal" class="" title=""  querystring="" id="{69567D54-9813-4873-A169-DDE101852FAE}" />
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: เปลี่ยนวิธีที่ผู้คนรู้สึกเกี่ยวกับการประกัน
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ประวัติความเป็นมา" anchor="" linktype="internal" class="" title=""  querystring="" id="{49F0D81D-2E91-44B2-9F6E-3267BABAFA41}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"

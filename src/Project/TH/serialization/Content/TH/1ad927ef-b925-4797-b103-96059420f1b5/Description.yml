@@ -1,0 +1,35 @@
+﻿---
+ID: "0fd956b7-75b5-4404-bbb9-b390aa14c41f"
+Parent: "1ad927ef-b925-4797-b103-96059420f1b5"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Events/FWD invites you to challenge yourself/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200414T054518Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: "Introducing FWD Move to the MAX | Challenge 2020. Challenging everyone to run from 23 Jan - 8 Apr 2020. The runner who achieves the longest distance will receive a gift card and rewards for our charity project #FWD4SHARE"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200414T054450Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: FWD Move to the MAX | Challenge 2020 เราขอท้าให้ทุกคนวิ่ง ตั้งแต่วันที่ 23 มค &ndash; 8 เมย 2020 ผู้ที่สะสมระยะทางได้มากที่สุด รับรางวัลบัตรของขวัญ พร้อมทำบุญร่วมกับบริษัทในโครงการ #FWD4SHARE

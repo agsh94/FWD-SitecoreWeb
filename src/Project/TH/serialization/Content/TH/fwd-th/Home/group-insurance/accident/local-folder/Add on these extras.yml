@@ -1,0 +1,64 @@
+﻿---
+ID: "1cae6d4e-224b-4ed6-9524-e70f1ec388a0"
+Parent: "71e7b6d1-9789-441e-8f1e-bc17a02d98de"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/accident/local-folder/Add on these extras"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 488
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200416T035614Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p><strong>Add on these extras</strong></p>
+        <ul>
+            <li>Injuries caused by accident (including motorcycles)</li>
+            <li>Coverage against permanent disability, temporary disability or temporary partial disability all from accidental causes</li>
+            <li>Loss of organ(s) from accidental causes</li>
+            <li>Death coverage from accidental causes</li>
+            <li>Loss of organ(s) from being physical attacked</li>
+            <li>Death coverage from murder</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200416T035349Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p><strong>ความคุ้มครองที่สามารถซื้อเพิ่มได้สำหรับผลิตภัณฑ์นี้</strong> </p>
+        <ul>
+            <li>คุ้มครองการบาดเจ็บจากอุบัติเหตุ รวมทั้งอุบัติเหตุจากรถจักรยานยนต์</li>
+            <li>คุ้มครองกรณีทุพพลภาพสิ้นเชิงถาวร ชั่วคราวสิ้นเชิง ชั่วคราวบางส่วน เนื่องจากอุบัติเหตุ</li>
+            <li>คุ้มครองกรณีสูญเสียอวัยวะจากอุบัติเหตุ
+            </li>
+            <li>คุ้มครองการเสียชีวิตจากอุบัติเหตุ</li>
+            <li>คุ้มครองกรณีสูญเสียอวัยวะจากการถูกทำร้ายร่างกาย</li>
+            <li>คุ้มครองการเสียชีวิตจากเหตุฆาตรกรรม</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: 

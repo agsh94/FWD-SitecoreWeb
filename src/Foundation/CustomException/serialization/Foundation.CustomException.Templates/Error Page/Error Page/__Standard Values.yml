@@ -1,0 +1,27 @@
+﻿---
+ID: "e6b17a18-b436-4eca-af1f-02cb231c04d6"
+Parent: "5a4f030d-41e4-415f-8acd-3e94e20d55c6"
+Template: "5a4f030d-41e4-415f-8acd-3e94e20d55c6"
+Path: /sitecore/templates/FWD/Foundation/Error Page/Error Page/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "169f20cf-22fe-4027-9843-bf185ab9a17d"
+      Hint: PageDescription
+      Value: Please add your description here
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180129T080920Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "623a4f58-f806-47fe-95a2-1bc6369f0d36"
+      Hint: NotFoundImage
+      Value: 
+    - ID: "cc9a5a10-4d20-413e-bdbd-70402d5d7185"
+      Hint: Title
+      Value: This is an error page standard template

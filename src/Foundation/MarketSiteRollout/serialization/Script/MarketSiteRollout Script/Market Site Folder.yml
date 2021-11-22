@@ -1,0 +1,14 @@
+﻿---
+ID: "84a533c2-3558-41b5-a7fb-e469021ae6c1"
+Parent: "a3572733-5062-43e9-a447-54698bc1c637"
+Template: "b6a55ac6-a602-4c09-ac3a-1d2938621d5b"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Market Site Folder
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T103021Z

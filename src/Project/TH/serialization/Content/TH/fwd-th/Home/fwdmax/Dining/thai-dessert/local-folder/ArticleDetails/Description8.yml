@@ -1,0 +1,25 @@
+﻿---
+ID: "2cf1b873-b065-406b-afba-7eb7c84182ee"
+Parent: "900588e1-7e6b-433f-835f-5011ba2acb1a"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/thai-dessert/local-folder/ArticleDetails/Description8"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1500
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T012520Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: "แต่ถ้าหากอากาศข้างนอกร้อนเกินกว่าจะมีอารมณ์จิบชา ก็มีเซ็ทโซดาสีสวย เย็นชื่นใจอย่างโซดาอัญชันทองคราม และลิ้นจี่กุหลาบทองชมพู รสชาติหวานหอมไว้ให้เป็นทางเลือกคลายร้อนกันด้วย ยิ่งได้ทานคู่กับคุ้กกี้งาม่อนกรอบๆ หอมงาก็ยิ่งฟิน แถมสั่งเซ็ทเดียวได้ทั้งขนม เครื่องดื่มร้อนและเย็นนี้ คุ้มค่าตอบโจทย์ลงตัวสุดๆ ไปเลยฮะ!"

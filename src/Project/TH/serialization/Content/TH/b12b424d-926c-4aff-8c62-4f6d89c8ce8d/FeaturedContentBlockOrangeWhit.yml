@@ -1,0 +1,47 @@
+﻿---
+ID: "231d64d3-44c2-4285-b6d8-e16464310244"
+Parent: "b12b424d-926c-4aff-8c62-4f6d89c8ce8d"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/contentblock/local-folder/FeaturedContentBlockOrangeWhite"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "dab4200c-a87f-4605-b2f7-2544616ece6e"
+  Hint: secondaryLinkButtonIcon
+  Value: "{FBDC2DBB-311B-47D3-929D-214D7B812BA5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{C50EE22F-37F2-43C5-8F39-3054E8C83246}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200811T094613Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{99EE682D-5C12-42C7-B6AC-12C92177400C}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: FWD is a fresh insurance company for aspirational people who are looking forward to their lives ahead. We believe that life is all about living your passion and pursuing happiness.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d0be2ac7-85f9-4ba4-91da-613370dbd6d6"
+      Hint: secondaryLink
+      Value: |
+        <link text="Support" anchor="" linktype="internal" class="" title=""  querystring="" id="{F55535E6-265D-49D0-902C-5722E44C5768}" />
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Content Block Orange White
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Buy Now" linktype="external" url="https://www.fwd.co.th/en/" anchor="" target="_blank" />

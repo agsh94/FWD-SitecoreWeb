@@ -1,0 +1,35 @@
+﻿---
+ID: "b006e85c-aed4-448e-8af6-27d05d6565b7"
+Parent: "fb14949f-2257-440d-ac81-88fd696a992d"
+Template: "3dfbb2d7-b19a-4df9-8a93-4ecb69088625"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/savings/ValueProtector/PlanUltra/AttributeFolder/Additional/Emergency"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200702T165938Z
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{8C6EE91D-9C79-46F9-B9AB-DF8A30B3692C}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200708T141718Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{8C6EE91D-9C79-46F9-B9AB-DF8A30B3692C}"
+    - ID: "f74f0637-1a3b-4152-b0c2-db88576ed70f"
+      Hint: value
+      Type: Checkbox
+      Value: 1

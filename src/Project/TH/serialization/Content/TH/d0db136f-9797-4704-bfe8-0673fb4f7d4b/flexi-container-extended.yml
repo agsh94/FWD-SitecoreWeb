@@ -1,0 +1,43 @@
+﻿---
+ID: "df4e6eb0-b8f9-4ab4-bfed-3ca92379e36e"
+Parent: "d0db136f-9797-4704-bfe8-0673fb4f7d4b"
+Template: "967a8dad-4a23-491b-95e2-295dec0b64b3"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/career-landing/local-folder/flexi-container-extended"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Flexi Container Extended
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T205019Z
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See more events" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D77061F0-4033-4E10-846D-B391B5A4D07D}" />
+    - ID: "ef4ceecf-b302-475f-be16-370851260a17"
+      Hint: title
+      Value: Latest events
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200403T084441Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See more events" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D77061F0-4033-4E10-846D-B391B5A4D07D}" />
+    - ID: "ef4ceecf-b302-475f-be16-370851260a17"
+      Hint: title
+      Value: Latest events

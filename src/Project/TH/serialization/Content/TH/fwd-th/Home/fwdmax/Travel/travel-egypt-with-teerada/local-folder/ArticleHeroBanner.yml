@@ -1,0 +1,30 @@
+﻿---
+ID: "bb6a9149-ffde-4ddb-a998-f6abdac958a4"
+Parent: "55e12776-ce34-4afa-83fe-18767e119809"
+Template: "d188c909-be9c-4149-9106-b25be4b6fb55"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/travel-egypt-with-teerada/local-folder/ArticleHeroBanner"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4573EFE0-6D5D-4A69-BC87-F46AFA1CD32D}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ec1b066-046b-4099-8dde-7ef17d1818a5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{1C38EF7E-1711-48C0-9E33-74888D7D16BA}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T101503Z
+    - ID: "43c58d25-8056-4ce0-b071-440c9f96ecf3"
+      Hint: image
+      Value: |
+        <image mediaid="{1C38EF7E-1711-48C0-9E33-74888D7D16BA}" cropx="0.69" cropy="0.51" focusx="0.3771929824561404" focusy="-0.015625" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit

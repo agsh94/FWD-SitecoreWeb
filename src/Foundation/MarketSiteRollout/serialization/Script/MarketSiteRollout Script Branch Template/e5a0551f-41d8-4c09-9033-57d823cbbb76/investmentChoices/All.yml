@@ -1,0 +1,21 @@
+﻿---
+ID: "236c52df-99e8-45ab-8e1b-5ee0f0460656"
+Parent: "244f6e7f-7ddc-4800-baab-cc1cc0714c5c"
+Template: "ec74479e-eb93-417d-b1fe-1b1912ea159e"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Fund/filterList/investmentChoices/All
+DB: master
+SharedFields:
+- ID: "4b2b81c8-20b1-4ffa-80de-1011ba3faec4"
+  Hint: code
+  Value: All
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201014T082636Z
+    - ID: "45f7ae51-f539-40f8-9df8-beacc0b2bba7"
+      Hint: description
+      Value: All

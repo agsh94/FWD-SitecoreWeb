@@ -1,0 +1,31 @@
+﻿---
+ID: "bb6b98c2-c954-4732-9b8f-8ba35a94a9d1"
+Parent: "fff9e5a1-e213-414d-b9a4-51ccb6dd1d65"
+Template: "99a5d004-f5f7-4f4b-942d-0fa83d62c6a5"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/Let-s-Relax/local-folder/Article Description Area/Privilege3"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-125"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200812T180727Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Chaiyawat
+    - ID: "f39f1fcb-8829-42d2-b98b-b42596b9c427"
+      Hint: quote
+      Value: 3. รับส่วนลด 10% เมื่อเข้าใช้บริการที่ร้าน Let's Relax

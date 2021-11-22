@@ -1,0 +1,139 @@
+﻿---
+ID: "3cd8c54d-d056-4ddd-b747-1d132929f715"
+Parent: "37296fd4-8cf2-45ba-88e0-faaec51215a7"
+Template: "8d5eb13f-f98f-45e4-ab26-af0e735cc6aa"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/Xsell20 ICP"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F4401E93-3C44-4861-AE73-AE8F72A5C86F}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{8B882DA0-246E-4ED0-AF73-96D257D48B65}"
+          s:ds="{4A16AAB3-BFF8-48A0-BAD5-6A4BE70918A4}"
+          s:par="" />
+        <r
+          uid="{B34524D6-F06A-46EF-BBB9-37BE63541C2B}"
+          s:ds="{9C04A520-3EB8-4C82-84D7-ADB25A138594}" />
+        <r
+          uid="{6D1168AD-DDC2-4D45-B2FD-E7F60CAC24E5}"
+          p:after="r[@uid='{41DB1F41-DF41-4E0B-BB6E-C77DA83CE126}']"
+          s:ds="{0988DEF5-64B3-4841-BA35-D1853B3141A1}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{F131E204-4546-436A-9BAA-F8A7D613A0DE}"
+          s:ds="{B5F36D94-2269-4403-A025-B50C2B404B0F}"
+          s:par="carouselMode=%7BC81D8D8F-E8D9-468F-ACFC-BBDCE30D66EC%7D&amp;showCategory&amp;showImage&amp;anchorText&amp;backgroundColor=%7B3DF8265F-AA5C-46B6-AE37-0745E8A3FCAD%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+        <r
+          uid="{6E87C34A-617B-494F-AD45-2AEF6F333221}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EA85B337-A6FA-4A99-A14E-57DAE2515838}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200914T055039Z
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20200315T000000Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Aksaraphak
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: "ICP2020-test"
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: "ICP2020-test"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200914T055039Z
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20200315T000000Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D80D2A5C-D5F8-4DA1-8828-B4F51D64461B}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Aksaraphak
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: "ICP2020-test"
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: "ICP2020-test"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200914T055039Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "02b87b9a-bb93-4772-82ae-ddd40f19283c"
+      Hint: rewardText
+      Value: ลูกค้าปัจจุบัน (ผู้ชำระเบี้ย)
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200810T074714Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: "เอฟดับบลิวดีขอมอบสิทธิพิเศษเฉพาะคุณ เมื่อซื้อกรมธรรม์ใหม่เพิ่ม รับ เทสโก้ โลตัส (e-coupon) มูลค่าสูงสุด 1,000 บาท"
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20201001T000000Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5037a90a-18ed-4804-a73f-f6876caac1ec"
+      Hint: image
+      Value: |
+        <image mediaid="{13ADADDC-4767-488C-A1B8-1C488D1C87C6}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Aksaraphak
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: โปรโมชันสำหรับลูกค้าที่ได้รับเงินคืนตามกรมธรรม์ในปี 2563
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: โปรโมชันสำหรับลูกค้าที่ได้รับเงินคืนตามกรมธรรม์ในปี 2563
+    - ID: "8e29febc-0931-4bcb-bc39-19ea90bf9eb7"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{13ADADDC-4767-488C-A1B8-1C488D1C87C6}" />
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: PROMOTION, ICP

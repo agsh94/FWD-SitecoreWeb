@@ -1,0 +1,1159 @@
+﻿---
+ID: "1df79908-a272-44df-b96a-05a8b930dec2"
+Parent: "62f4d9b7-e439-45a7-8ddf-857d29b64e3a"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/health-check-up/local-folder/Article Description Area/Bangkok and Perimeter Region"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200805T043625Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sarat
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span><strong>กรุงเทพ และปริมณฑล&nbsp;</strong></span></p>
+        <table style="font-size: 0.8em; vertical-align: top;">
+            <tbody>
+                <tr style="height: 14.25pt;">
+                    <td class="xl65" style="height: 14.25pt; width: 54pt; text-align: left;"><strong>จังหวัด</strong></td>
+                    <td class="xl65" style="width: 170pt; text-align: left;"><strong>โรงพยาบาล</strong></td>
+                    <td class="xl65" style="width: 476pt; text-align: left;"><strong>แผนก/เบอร์ติดต่อ</strong></td>
+                    <td class="xl65" style="width: 101pt; text-align: left;"><strong>รายละเอียดโปรโมชั่น</strong></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพคริสเตียน</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ อาคารหมอแวลส์ ชั้น 2 /0 2625 9000 ต่อ 20512</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/da7e7271405e44d7843efcdbbc9cc29c.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์บางแค</td>
+                    <td class="xl65" style="text-align: left;">แผนกประสานสิทธิ์ อาคารตึกใหม่ ชั้น 1 /0 2804&nbsp; 8959-70 ต่อ 5038, 5053</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/e3ce7a81790e4f1d8cbc42420e64b0d5.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์ประชาชื่น</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2910-1600 ต่อ 1440, 1441</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/6ca4a729dc3f4b17bc61ef5841500b90.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. ธนบุรี</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ อาคาร 3 ชั้น 4 / 0 2487 2000 ต่อ 7673</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/980d8131a54b42d2b89e662bb417981e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. ธนบุรี 2</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 1 อาคาร 2 / 0 2487 2100 ต่อ 5155, 5158</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/bd5d2b3ca84245e8b0ce791ce5049859.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. นครธน</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์สุขภาพนครธน ชั้น 11 / 0 2450 9999 ต่อ 5207</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/507bc0dd768b413fbc07c63312a4164a.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. บางปะกอก 1</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2109 1111 ต่อ 1160</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/a57b54ab70a84a5997919aa7edb8ffb7.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. บางปะกอก 9 อินเตอร์</td>
+                    <td class="xl65" style="text-align: left;">0 2109 9111ต่อ 10300-10302</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/9f65dda9a9384c919817f70e4965f6ef.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. บำรุงราษฎร์</td>
+                    <td class="xl65" style="text-align: left;">0 2011 3193</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/679fd47ca032498f9ee63a17427d3834.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. ปิยะเวท</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพชั้น 3 อาคาร Ideal imaging / 0-2129-5555 ต่อ 20524</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/4d666b631eb64d418c1f0dd59c07e00e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล เกษตร</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2150 0900 ต่อ 5452</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล โชคชัย 4</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2514 4141 ต่อ 1700-2</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล พหลโยธิน</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ อาคาร 1 ชั้น 13 / 0 2271 7000 ต่อ 11292 (จันทร์-ศุกร์) ต่อ 11380 (เสาร์-อาทิตย์)</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. พญาไท 1</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ส่งเสริมสุขภาพ อาคาร 3 ชั้น 3 / 0 2201 4600 ต่อ 3857</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/fc591ccac4914ab486713782d7e66651.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. พญาไท 2</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ส่งเสริมสุขภาพ ชั้น 7 อาคาร B / 1772</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f26ca9f233724d128110985b4154a041.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. พญาไท 3</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพชั้น 18 / 0 2467 1111 ต่อ 1817</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f126057d175743cbae4872acbe3d018b.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. พญาไทนวมินทร์</td>
+                    <td class="xl65" style="text-align: left;">แผนกสร้างเสริมสุขภาพ ชั้น 4 / 0 2944 7111ต่อ 16308</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/1d2812f6c9c44d0cbc37d719798fc655.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. พระรามเก้า</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 8 / 0 2202 9999</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/0684c8a541dd4f9cac83abf8092f6005.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. รามคำแหง</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ อาคาร C ชั้น 1 / 0 2743 9999 ต่อ 3148-9</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/daa37c4b085d4a2e87b3de4333cae337.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. วิชัยยุทธ</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ 0 2265 7000</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f708b55f5509445c83a40ffccf4689e7.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. วิภาวดี</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ / 0 2561 1111</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/7b142f9030c443d1a3c16f872f4bb7f6.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เวชธานี</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 11 / 0 2734 0000 ต่อ 1111, 3605</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/ed44178c53e6497aa44e89a95baf93a1.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เวิลด์เมดิคอลเซ็นเตอร์</td>
+                    <td class="xl65" style="text-align: left;">แผนกลูกค้าสัมพันธ์ / 0 2836 9999 ต่อ 6111, 6220</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/5e95433b0264457187fe95e8d7c12ff4.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สมิติเวช ธนบุรี</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์สุขภาพดี Wellness center / 0 2408 0123</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/5f89e55988474e508f6b18e41dcb3b75.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สมิติเวช ศรีนครินทร์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2378 9167</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/8cd9898bf1944be5a2d3e28c1316f4c3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สมิติเวช สุขุมวิท</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2378 9167</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/8cd9898bf1944be5a2d3e28c1316f4c3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สมิติเวช ไชน่าทาวน์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2378 9167</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/8cd9898bf1944be5a2d3e28c1316f4c3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สุขุมวิท</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ (Check up center) ชั้น 6 / 0 2391-0011 ต่อ 682,683</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/75af850bfc41442890f51c8b93691209.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เสรีรักษ์</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ตึก D ชั้น 1 / 0 2761 9888 ต่อ 2101-2102</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f6d4cdfdefe546c9a8a7eba0fc5da53f.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์ รามคำแหง</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2339 0000 ต่อ 2016-2021</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/3811e495bd42420dbcb4986d5f0881d5.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ (ซ.ศูนย์วิจัย)</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ส่งเสริมสุขภาพ / 1719</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/c0e76a25f694416db4dfdef3e36addc3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. ไทยนครินทร์</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 3 / 0 2361 2727 ต่อ 3119</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/92c5dd1487d44abbaffc6324a147c8fe.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นครปฐม</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพสนามจันทร์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 2 / 0 3421 9600 ต่อ 6200-2</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/8982b79a58e24327b0b52ef1cb224802.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นนทบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์อินเตอร์ รัตนาธิเบศร์</td>
+                    <td class="xl65" style="text-align: left;">ประชาสัมพันธ์ / 0 2594 0020-65 #1184 หรือ 1218 ต่อ 1142</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/a5b94df483994eada1aa1ab82ffbb428.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นนทบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. นนทเวช</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2596 7888</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/fff7aec96fdc4bc78154fb367bf085b3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ปทุมธานี</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล รังสิต</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2577 8111 ต่อ 1430</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรปราการ</td>
+                    <td class="xl65" style="text-align: left;">รพ. จุฬารัตน์ 3</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพครบวงจร One stop service โรงพยาบาลจุฬารัตน์ 3 อินเตอร์ / 0 2033 2900</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/3ed51e6c42944fa68452b5f06e209969.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรปราการ</td>
+                    <td class="xl65" style="text-align: left;">รพ. จุฬารัตน์ 9</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพครบวงจร One stop service โรงพยาบาลจุฬารัตน์ 3 อินเตอร์ / 0 2738 9900</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/839bda261b3244d0a730343ca7edbd0a.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรปราการ&nbsp;&nbsp;</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล พระประแดง</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2818 9009 ต่อ 128</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรปราการ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล สมุทรปราการ</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2363 2000 ต่อ 4249</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรปราการ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สินแพทย์ เทพารักษ์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2761 5999 ต่อ 2222</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f44699bd90664705b55d7522841c5bb5.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรสาคร</td>
+                    <td class="xl65" style="text-align: left;">รพ. วิภารามสมุทรสาคร</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 1 / 0 3411 6999 ต่อ 2140</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/64644bb301ac48418a33ea8915aa2f79.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรสาคร</td>
+                    <td class="xl65" style="text-align: left;">รพ. เอกชัย</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 3441 7999 ต่อ 122-124</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/b47a17851e6c4bb9aa7a9ac189f0cdb3.ashx">คลิก</a></td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200813T042245Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span><strong>กรุงเทพ และปริมณฑล&nbsp;</strong></span></p>
+        <table style="font-size: 0.8em; vertical-align: top;">
+            <tbody>
+                <tr style="height: 14.25pt;">
+                    <td class="xl65" style="height: 14.25pt; width: 54pt; text-align: left;"><strong>จังหวัด</strong></td>
+                    <td class="xl65" style="width: 170pt; text-align: left;"><strong>โรงพยาบาล</strong></td>
+                    <td class="xl65" style="width: 476pt; text-align: left;"><strong>แผนก/เบอร์ติดต่อ</strong></td>
+                    <td class="xl65" style="width: 101pt; text-align: left;"><strong>รายละเอียดโปรโมชั่น</strong></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพคริสเตียน</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ อาคารหมอแวลส์ ชั้น 2 /0 2625 9000 ต่อ 20512</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/da7e7271405e44d7843efcdbbc9cc29c.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์บางแค</td>
+                    <td class="xl65" style="text-align: left;">แผนกประสานสิทธิ์ อาคารตึกใหม่ ชั้น 1 /0 2804&nbsp; 8959-70 ต่อ 5038, 5053</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/e3ce7a81790e4f1d8cbc42420e64b0d5.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์ประชาชื่น</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2910-1600 ต่อ 1440, 1441</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/6ca4a729dc3f4b17bc61ef5841500b90.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. ธนบุรี</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ อาคาร 3 ชั้น 4 / 0 2487 2000 ต่อ 7673</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/980d8131a54b42d2b89e662bb417981e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. ธนบุรี 2</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 1 อาคาร 2 / 0 2487 2100 ต่อ 5155, 5158</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/bd5d2b3ca84245e8b0ce791ce5049859.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. นครธน</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์สุขภาพนครธน ชั้น 11 / 0 2450 9999 ต่อ 5207</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/507bc0dd768b413fbc07c63312a4164a.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. บางปะกอก 1</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2109 1111 ต่อ 1160</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/a57b54ab70a84a5997919aa7edb8ffb7.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. บางปะกอก 9 อินเตอร์</td>
+                    <td class="xl65" style="text-align: left;">0 2109 9111ต่อ 10300-10302</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/9f65dda9a9384c919817f70e4965f6ef.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. บำรุงราษฎร์</td>
+                    <td class="xl65" style="text-align: left;">0 2011 3193</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/679fd47ca032498f9ee63a17427d3834.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. ปิยะเวท</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพชั้น 3 อาคาร Ideal imaging / 0-2129-5555 ต่อ 20524</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/4d666b631eb64d418c1f0dd59c07e00e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล เกษตร</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2150 0900 ต่อ 5452</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล โชคชัย 4</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2514 4141 ต่อ 1700-2</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล พหลโยธิน</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ อาคาร 1 ชั้น 13 / 0 2271 7000 ต่อ 11292 (จันทร์-ศุกร์) ต่อ 11380 (เสาร์-อาทิตย์)</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. พญาไท 1</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ส่งเสริมสุขภาพ อาคาร 3 ชั้น 3 / 0 2201 4600 ต่อ 3857</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/fc591ccac4914ab486713782d7e66651.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. พญาไท 2</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ส่งเสริมสุขภาพ ชั้น 7 อาคาร B / 1772</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f26ca9f233724d128110985b4154a041.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. พญาไท 3</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพชั้น 18 / 0 2467 1111 ต่อ 1817</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f126057d175743cbae4872acbe3d018b.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. พญาไทนวมินทร์</td>
+                    <td class="xl65" style="text-align: left;">แผนกสร้างเสริมสุขภาพ ชั้น 4 / 0 2944 7111ต่อ 16308</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/1d2812f6c9c44d0cbc37d719798fc655.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. พระรามเก้า</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 8 / 0 2202 9999</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/0684c8a541dd4f9cac83abf8092f6005.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. รามคำแหง</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ อาคาร C ชั้น 1 / 0 2743 9999 ต่อ 3148-9</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/daa37c4b085d4a2e87b3de4333cae337.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. วิชัยยุทธ</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ 0 2265 7000</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f708b55f5509445c83a40ffccf4689e7.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. วิภาวดี</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ / 0 2561 1111</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/7b142f9030c443d1a3c16f872f4bb7f6.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เวชธานี</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 11 / 0 2734 0000 ต่อ 1111, 3605</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/ed44178c53e6497aa44e89a95baf93a1.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เวิลด์เมดิคอลเซ็นเตอร์</td>
+                    <td class="xl65" style="text-align: left;">แผนกลูกค้าสัมพันธ์ / 0 2836 9999 ต่อ 6111, 6220</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/5e95433b0264457187fe95e8d7c12ff4.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สมิติเวช ธนบุรี</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์สุขภาพดี Wellness center / 0 2408 0123</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/5f89e55988474e508f6b18e41dcb3b75.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สมิติเวช ศรีนครินทร์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2378 9167</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/8cd9898bf1944be5a2d3e28c1316f4c3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สมิติเวช สุขุมวิท</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2378 9167</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/8cd9898bf1944be5a2d3e28c1316f4c3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สมิติเวช ไชน่าทาวน์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2378 9167</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/8cd9898bf1944be5a2d3e28c1316f4c3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สุขุมวิท</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ (Check up center) ชั้น 6 / 0 2391-0011 ต่อ 682,683</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/75af850bfc41442890f51c8b93691209.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เสรีรักษ์</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ตึก D ชั้น 1 / 0 2761 9888 ต่อ 2101-2102</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f6d4cdfdefe546c9a8a7eba0fc5da53f.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์ รามคำแหง</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2339 0000 ต่อ 2016-2021</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/3811e495bd42420dbcb4986d5f0881d5.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ (ซ.ศูนย์วิจัย)</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ส่งเสริมสุขภาพ / 1719</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/c0e76a25f694416db4dfdef3e36addc3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. ไทยนครินทร์</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 3 / 0 2361 2727 ต่อ 3119</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/92c5dd1487d44abbaffc6324a147c8fe.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นครปฐม</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพสนามจันทร์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 2 / 0 3421 9600 ต่อ 6200-2</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/8982b79a58e24327b0b52ef1cb224802.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นนทบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์อินเตอร์ รัตนาธิเบศร์</td>
+                    <td class="xl65" style="text-align: left;">ประชาสัมพันธ์ / 0 2594 0020-65 #1184 หรือ 1218 ต่อ 1142</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/a5b94df483994eada1aa1ab82ffbb428.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นนทบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. นนทเวช</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2596 7888</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/fff7aec96fdc4bc78154fb367bf085b3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ปทุมธานี</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล รังสิต</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2577 8111 ต่อ 1430</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรปราการ</td>
+                    <td class="xl65" style="text-align: left;">รพ. จุฬารัตน์ 3</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพครบวงจร One stop service โรงพยาบาลจุฬารัตน์ 3 อินเตอร์ / 0 2033 2900</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/3ed51e6c42944fa68452b5f06e209969.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรปราการ</td>
+                    <td class="xl65" style="text-align: left;">รพ. จุฬารัตน์ 9</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพครบวงจร One stop service โรงพยาบาลจุฬารัตน์ 3 อินเตอร์ / 0 2738 9900</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/839bda261b3244d0a730343ca7edbd0a.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรปราการ&nbsp;&nbsp;</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล พระประแดง</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2818 9009 ต่อ 128</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรปราการ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล สมุทรปราการ</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2363 2000 ต่อ 4249</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรปราการ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สินแพทย์ เทพารักษ์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2761 5999 ต่อ 2222</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f44699bd90664705b55d7522841c5bb5.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรสาคร</td>
+                    <td class="xl65" style="text-align: left;">รพ. วิภารามสมุทรสาคร</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 1 / 0 3411 6999 ต่อ 2140</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/64644bb301ac48418a33ea8915aa2f79.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรสาคร</td>
+                    <td class="xl65" style="text-align: left;">รพ. เอกชัย</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 3441 7999 ต่อ 122-124</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/b47a17851e6c4bb9aa7a9ac189f0cdb3.ashx">คลิก</a></td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200813T042245Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T082919Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sirisak
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span><strong>กรุงเทพ และปริมณฑล&nbsp;</strong></span></p>
+        <table style="font-size: 0.8em; vertical-align: top;">
+            <tbody>
+                <tr style="height: 14.25pt;">
+                    <td class="xl65" style="height: 14.25pt; width: 54pt; text-align: left;"><strong>จังหวัด</strong></td>
+                    <td class="xl65" style="width: 170pt; text-align: left;"><strong>โรงพยาบาล</strong></td>
+                    <td class="xl65" style="width: 476pt; text-align: left;"><strong>แผนก/เบอร์ติดต่อ</strong></td>
+                    <td class="xl65" style="width: 101pt; text-align: left;"><strong>รายละเอียดโปรโมชั่น</strong></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพคริสเตียน</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ อาคารหมอแวลส์ ชั้น 2 /0 2625 9000 ต่อ 20512</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/da7e7271405e44d7843efcdbbc9cc29c.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์บางแค</td>
+                    <td class="xl65" style="text-align: left;">แผนกประสานสิทธิ์ อาคารตึกใหม่ ชั้น 1 /0 2804&nbsp; 8959-70 ต่อ 5038, 5053</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/e3ce7a81790e4f1d8cbc42420e64b0d5.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์ประชาชื่น</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2910-1600 ต่อ 1440, 1441</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/6ca4a729dc3f4b17bc61ef5841500b90.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. ธนบุรี</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ อาคาร 3 ชั้น 4 / 0 2487 2000 ต่อ 7673</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/980d8131a54b42d2b89e662bb417981e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. ธนบุรี 2</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 1 อาคาร 2 / 0 2487 2100 ต่อ 5155, 5158</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/bd5d2b3ca84245e8b0ce791ce5049859.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. นครธน</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์สุขภาพนครธน ชั้น 11 / 0 2450 9999 ต่อ 5207</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/507bc0dd768b413fbc07c63312a4164a.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. บางปะกอก 1</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2109 1111 ต่อ 1160</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/a57b54ab70a84a5997919aa7edb8ffb7.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. บางปะกอก 9 อินเตอร์</td>
+                    <td class="xl65" style="text-align: left;">0 2109 9111ต่อ 10300-10302</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/9f65dda9a9384c919817f70e4965f6ef.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. บำรุงราษฎร์</td>
+                    <td class="xl65" style="text-align: left;">0 2011 3193</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/679fd47ca032498f9ee63a17427d3834.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. ปิยะเวท</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพชั้น 3 อาคาร Ideal imaging / 0-2129-5555 ต่อ 20524</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/4d666b631eb64d418c1f0dd59c07e00e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล เกษตร</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2150 0900 ต่อ 5452</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล โชคชัย 4</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2514 4141 ต่อ 1700-2</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล พหลโยธิน</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ อาคาร 1 ชั้น 13 / 0 2271 7000 ต่อ 11292 (จันทร์-ศุกร์) ต่อ 11380 (เสาร์-อาทิตย์)</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. พญาไท 1</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ส่งเสริมสุขภาพ อาคาร 3 ชั้น 3 / 0 2201 4600 ต่อ 3857</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/fc591ccac4914ab486713782d7e66651.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. พญาไท 2</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ส่งเสริมสุขภาพ ชั้น 7 อาคาร B / 1772</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f26ca9f233724d128110985b4154a041.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. พญาไท 3</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพชั้น 18 / 0 2467 1111 ต่อ 1817</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f126057d175743cbae4872acbe3d018b.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. พญาไทนวมินทร์</td>
+                    <td class="xl65" style="text-align: left;">แผนกสร้างเสริมสุขภาพ ชั้น 4 / 0 2944 7111ต่อ 16308</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/1d2812f6c9c44d0cbc37d719798fc655.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. พระรามเก้า</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 8 / 0 2202 9999</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/0684c8a541dd4f9cac83abf8092f6005.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. รามคำแหง</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ อาคาร C ชั้น 1 / 0 2743 9999 ต่อ 3148-9</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/daa37c4b085d4a2e87b3de4333cae337.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. วิชัยยุทธ</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ 0 2265 7000</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f708b55f5509445c83a40ffccf4689e7.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. วิภาวดี</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ / 0 2561 1111</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/7b142f9030c443d1a3c16f872f4bb7f6.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เวชธานี</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 11 / 0 2734 0000 ต่อ 1111, 3605</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/ed44178c53e6497aa44e89a95baf93a1.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เวิลด์เมดิคอลเซ็นเตอร์</td>
+                    <td class="xl65" style="text-align: left;">แผนกลูกค้าสัมพันธ์ / 0 2836 9999 ต่อ 6111, 6220</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/5e95433b0264457187fe95e8d7c12ff4.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สมิติเวช ธนบุรี</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์สุขภาพดี Wellness center / 0 2408 0123</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/5f89e55988474e508f6b18e41dcb3b75.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สมิติเวช ศรีนครินทร์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2378 9167</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/8cd9898bf1944be5a2d3e28c1316f4c3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สมิติเวช สุขุมวิท</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2378 9167</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/8cd9898bf1944be5a2d3e28c1316f4c3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สมิติเวช ไชน่าทาวน์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2378 9167</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/8cd9898bf1944be5a2d3e28c1316f4c3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สุขุมวิท</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ (Check up center) ชั้น 6 / 0 2391-0011 ต่อ 682,683</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/75af850bfc41442890f51c8b93691209.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เสรีรักษ์</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ตึก D ชั้น 1 / 0 2761 9888 ต่อ 2101-2102</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f6d4cdfdefe546c9a8a7eba0fc5da53f.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์ รามคำแหง</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2339 0000 ต่อ 2016-2021</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/3811e495bd42420dbcb4986d5f0881d5.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ (ซ.ศูนย์วิจัย)</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ส่งเสริมสุขภาพ / 1719</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/c0e76a25f694416db4dfdef3e36addc3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. ไทยนครินทร์</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 3 / 0 2361 2727 ต่อ 3119</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/92c5dd1487d44abbaffc6324a147c8fe.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เจ้าพระยา</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ / 0 2434 1111</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/a4d30e6d05a14a80a6428e701ff8cc11.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นครปฐม</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพสนามจันทร์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 2 / 0 3421 9600 ต่อ 6200-2</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/8982b79a58e24327b0b52ef1cb224802.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นนทบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์อินเตอร์ รัตนาธิเบศร์</td>
+                    <td class="xl65" style="text-align: left;">ประชาสัมพันธ์ / 0 2594 0020-65 #1184 หรือ 1218 ต่อ 1142</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/a5b94df483994eada1aa1ab82ffbb428.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นนทบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. นนทเวช</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2596 7888</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/fff7aec96fdc4bc78154fb367bf085b3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ปทุมธานี</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล รังสิต</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2577 8111 ต่อ 1430</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรปราการ</td>
+                    <td class="xl65" style="text-align: left;">รพ. จุฬารัตน์ 3</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพครบวงจร One stop service โรงพยาบาลจุฬารัตน์ 3 อินเตอร์ / 0 2033 2900</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/3ed51e6c42944fa68452b5f06e209969.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรปราการ</td>
+                    <td class="xl65" style="text-align: left;">รพ. จุฬารัตน์ 9</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพครบวงจร One stop service โรงพยาบาลจุฬารัตน์ 3 อินเตอร์ / 0 2738 9900</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/839bda261b3244d0a730343ca7edbd0a.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรปราการ&nbsp;&nbsp;</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล พระประแดง</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2818 9009 ต่อ 128</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรปราการ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล สมุทรปราการ</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2363 2000 ต่อ 4249</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรปราการ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สินแพทย์ เทพารักษ์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2761 5999 ต่อ 2222</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f44699bd90664705b55d7522841c5bb5.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรสาคร</td>
+                    <td class="xl65" style="text-align: left;">รพ. วิภารามสมุทรสาคร</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 1 / 0 3411 6999 ต่อ 2140</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/64644bb301ac48418a33ea8915aa2f79.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรสาคร</td>
+                    <td class="xl65" style="text-align: left;">รพ. เอกชัย</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 3441 7999 ต่อ 122-124</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/b47a17851e6c4bb9aa7a9ac189f0cdb3.ashx">คลิก</a></td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200820T082919Z
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T085021Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sirisak
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span><strong>กรุงเทพ และปริมณฑล&nbsp;</strong></span></p>
+        <table style="font-size: 0.8em; vertical-align: top;">
+            <tbody>
+                <tr style="height: 14.25pt;">
+                    <td class="xl65" style="height: 14.25pt; width: 54pt; text-align: left;"><strong>จังหวัด</strong></td>
+                    <td class="xl65" style="width: 170pt; text-align: left;"><strong>โรงพยาบาล</strong></td>
+                    <td class="xl65" style="width: 476pt; text-align: left;"><strong>แผนก/เบอร์ติดต่อ</strong></td>
+                    <td class="xl65" style="width: 101pt; text-align: left;"><strong>รายละเอียดโปรโมชั่น</strong></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพคริสเตียน</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ อาคารหมอแวลส์ ชั้น 2 /0 2625 9000 ต่อ 20512</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/da7e7271405e44d7843efcdbbc9cc29c.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์บางแค</td>
+                    <td class="xl65" style="text-align: left;">แผนกประสานสิทธิ์ อาคารตึกใหม่ ชั้น 1 /0 2804&nbsp; 8959-70 ต่อ 5038, 5053</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/e3ce7a81790e4f1d8cbc42420e64b0d5.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์ประชาชื่น</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2910-1600 ต่อ 1440, 1441</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/6ca4a729dc3f4b17bc61ef5841500b90.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. ธนบุรี</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ อาคาร 3 ชั้น 4 / 0 2487 2000 ต่อ 7673</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/980d8131a54b42d2b89e662bb417981e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. ธนบุรี 2</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 1 อาคาร 2 / 0 2487 2100 ต่อ 5155, 5158</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/bd5d2b3ca84245e8b0ce791ce5049859.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. นครธน</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์สุขภาพนครธน ชั้น 11 / 0 2450 9999 ต่อ 5207</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/507bc0dd768b413fbc07c63312a4164a.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. บางปะกอก 1</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2109 1111 ต่อ 1160</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/a57b54ab70a84a5997919aa7edb8ffb7.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. บางปะกอก 9 อินเตอร์</td>
+                    <td class="xl65" style="text-align: left;">0 2109 9111ต่อ 10300-10302</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/9f65dda9a9384c919817f70e4965f6ef.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. บำรุงราษฎร์</td>
+                    <td class="xl65" style="text-align: left;">0 2011 3193</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/679fd47ca032498f9ee63a17427d3834.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. ปิยะเวท</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพชั้น 3 อาคาร Ideal imaging / 0-2129-5555 ต่อ 20524</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/4d666b631eb64d418c1f0dd59c07e00e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล เกษตร</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2150 0900 ต่อ 5452</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล โชคชัย 4</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2514 4141 ต่อ 1700-2</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล พหลโยธิน</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ อาคาร 1 ชั้น 13 / 0 2271 7000 ต่อ 11292 (จันทร์-ศุกร์) ต่อ 11380 (เสาร์-อาทิตย์)</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. พญาไท 1</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ส่งเสริมสุขภาพ อาคาร 3 ชั้น 3 / 0 2201 4600 ต่อ 3857</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/fc591ccac4914ab486713782d7e66651.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. พญาไท 2</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ส่งเสริมสุขภาพ ชั้น 7 อาคาร B / 1772</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f26ca9f233724d128110985b4154a041.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. พญาไท 3</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพชั้น 18 / 0 2467 1111 ต่อ 1817</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f126057d175743cbae4872acbe3d018b.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. พญาไทนวมินทร์</td>
+                    <td class="xl65" style="text-align: left;">แผนกสร้างเสริมสุขภาพ ชั้น 4 / 0 2944 7111ต่อ 16308</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/1d2812f6c9c44d0cbc37d719798fc655.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. พระรามเก้า</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 8 / 0 2202 9999</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/0684c8a541dd4f9cac83abf8092f6005.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. รามคำแหง</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ อาคาร C ชั้น 1 / 0 2743 9999 ต่อ 3148-9</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/daa37c4b085d4a2e87b3de4333cae337.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. วิชัยยุทธ</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ 0 2265 7000</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f708b55f5509445c83a40ffccf4689e7.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. วิภาวดี</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ / 0 2561 1111</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/7b142f9030c443d1a3c16f872f4bb7f6.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เวชธานี</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 11 / 0 2734 0000 ต่อ 1111, 3605</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/ed44178c53e6497aa44e89a95baf93a1.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เวิลด์เมดิคอลเซ็นเตอร์</td>
+                    <td class="xl65" style="text-align: left;">แผนกลูกค้าสัมพันธ์ / 0 2836 9999 ต่อ 6111, 6220</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/5e95433b0264457187fe95e8d7c12ff4.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สมิติเวช ธนบุรี</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์สุขภาพดี Wellness center / 0 2408 0123</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/5f89e55988474e508f6b18e41dcb3b75.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สมิติเวช ศรีนครินทร์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2378 9167</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/8cd9898bf1944be5a2d3e28c1316f4c3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สมิติเวช สุขุมวิท</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2378 9167</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/8cd9898bf1944be5a2d3e28c1316f4c3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สมิติเวช ไชน่าทาวน์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2378 9167</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/8cd9898bf1944be5a2d3e28c1316f4c3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สุขุมวิท</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ (Check up center) ชั้น 6 / 0 2391-0011 ต่อ 682,683</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/75af850bfc41442890f51c8b93691209.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เสรีรักษ์</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ตึก D ชั้น 1 / 0 2761 9888 ต่อ 2101-2102</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f6d4cdfdefe546c9a8a7eba0fc5da53f.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์ รามคำแหง</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2339 0000 ต่อ 2016-2021</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/3811e495bd42420dbcb4986d5f0881d5.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ (ซ.ศูนย์วิจัย)</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ส่งเสริมสุขภาพ / 1719</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/c0e76a25f694416db4dfdef3e36addc3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. ไทยนครินทร์</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 3 / 0 2361 2727 ต่อ 3119</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/92c5dd1487d44abbaffc6324a147c8fe.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กรุงเทพ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เจ้าพระยา</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ / 0 2434 1111</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/a4d30e6d05a14a80a6428e701ff8cc11.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นนทบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์อินเตอร์ รัตนาธิเบศร์</td>
+                    <td class="xl65" style="text-align: left;">ประชาสัมพันธ์ / 0 2594 0020-65 #1184 หรือ 1218 ต่อ 1142</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/a5b94df483994eada1aa1ab82ffbb428.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นนทบุรี</td>
+                    <td class="xl65" style="text-align: left;">รพ. นนทเวช</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2596 7888</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/fff7aec96fdc4bc78154fb367bf085b3.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ปทุมธานี</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล รังสิต</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2577 8111 ต่อ 1430</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรปราการ</td>
+                    <td class="xl65" style="text-align: left;">รพ. จุฬารัตน์ 3</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพครบวงจร One stop service โรงพยาบาลจุฬารัตน์ 3 อินเตอร์ / 0 2033 2900</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/3ed51e6c42944fa68452b5f06e209969.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรปราการ</td>
+                    <td class="xl65" style="text-align: left;">รพ. จุฬารัตน์ 9</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพครบวงจร One stop service โรงพยาบาลจุฬารัตน์ 3 อินเตอร์ / 0 2738 9900</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/839bda261b3244d0a730343ca7edbd0a.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรปราการ&nbsp;&nbsp;</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล พระประแดง</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2818 9009 ต่อ 128</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรปราการ</td>
+                    <td class="xl65" style="text-align: left;">รพ. เปาโล สมุทรปราการ</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2363 2000 ต่อ 4249</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/becd96a42d0a4c3eb0de588462c22a4e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สมุทรปราการ</td>
+                    <td class="xl65" style="text-align: left;">รพ. สินแพทย์ เทพารักษ์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ / 0 2761 5999 ต่อ 2222</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/f44699bd90664705b55d7522841c5bb5.ashx">คลิก</a></td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200820T085021Z

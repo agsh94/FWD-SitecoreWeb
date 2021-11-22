@@ -1,0 +1,29 @@
+﻿---
+ID: "6d5cf238-24c5-4f43-9bbf-0dab4450a26c"
+Parent: "06653d24-1522-4c93-8eac-aa2535e66e99"
+Template: "a45bb4e7-2e69-488a-b7d2-a8cd1aaf5848"
+Path: "/sitecore/content/fwd/fwd-th/Components/headerLinks/Icon Links Folder"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201203T123833Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201216T144420Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

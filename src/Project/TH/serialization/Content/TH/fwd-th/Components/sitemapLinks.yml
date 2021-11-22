@@ -1,0 +1,54 @@
+﻿---
+ID: "69497b69-f1d7-4cf8-8dbc-c53c6b57fdab"
+Parent: "53f11616-6659-419f-9d77-2752eb24c73b"
+Template: "187bad90-a80c-42bc-8c59-a5c6dcdc1d63"
+Path: "/sitecore/content/fwd/fwd-th/Components/sitemapLinks"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applicationsv2/32x32/book_blue_view.png
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2300
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Sitemap Links
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "08ab83db-7f48-480d-8421-0bb8d66db105"
+      Hint: categorySection
+      Value: "{B351C500-9B6C-4FDD-957F-6C0D0202FE59}"
+    - ID: "0a78153e-0660-4f1f-9f9f-d362f2dad250"
+      Hint: title
+      Value: Sitemap
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200308T165208Z
+    - ID: "d3a421aa-b610-41de-a118-b089d5021246"
+      Hint: commonSection
+      Value: "{8DCFC3DC-03A5-4E3F-86C7-0A5DDB4599D6}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "08ab83db-7f48-480d-8421-0bb8d66db105"
+      Hint: categorySection
+      Value: "{B351C500-9B6C-4FDD-957F-6C0D0202FE59}"
+    - ID: "0a78153e-0660-4f1f-9f9f-d362f2dad250"
+      Hint: title
+      Value: แผนผังเว็บไซต์
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200316T190637Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d3a421aa-b610-41de-a118-b089d5021246"
+      Hint: commonSection
+      Value: "{8DCFC3DC-03A5-4E3F-86C7-0A5DDB4599D6}"

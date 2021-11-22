@@ -1,0 +1,185 @@
+﻿---
+ID: "ba5b7b97-832d-4fe8-9ac0-5a3183bd00d2"
+Parent: "25a5cb25-2b1f-43ce-b758-f37104235fee"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/premium-payment/local-folder/premium-payment/DropdownItem/Our-partners-counter-service/through-mPAY"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1100
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Through mPAY
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191224T132318Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Through mPAY</strong></p>
+        <p>For customers using&nbsp;<img alt="" src="-/media/5d8a0b8be7fb4bdda65e7b43378cf0dd.ashx" style="height:25px; width:50px;" />and&nbsp;<img alt="" src="-/media/be72ec9bbe464b52818d7159ddbc9fd6.ashx" style="height:25px; width:50px;" />network:</p>
+        <p>Register membership, press 555 (free service).</p>
+        <p>Payment can be made by pressing *555*4132* amount*satang * PIN#, then&nbsp;<img alt="" src="-/media/15fd0ae8d6034e68b5c4fbd9b1638b97.ashx" style="height:12px; width:12px;" /></p>
+        <p>Find more details at <a href="http://www.mpay.co.th/" target="_blank">http://www.mpay.co.th/</a></p><br />
+        <p>No payment fee.</p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200722T104912Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <p><strong>Through mPAY</strong></p>
+        <p>For customers using&nbsp;<img alt="" src="-/media/5d8a0b8be7fb4bdda65e7b43378cf0dd.ashx" style="height:25px; width:50px;" />and&nbsp;<img alt="" src="-/media/be72ec9bbe464b52818d7159ddbc9fd6.ashx" style="height:25px; width:50px;" />network:</p>
+        <p>Register membership, press 555 (free service).</p>
+        <p>Payment can be made by pressing *555*4132* amount*satang * PIN#, then&nbsp;<img alt="" src="-/media/15fd0ae8d6034e68b5c4fbd9b1638b97.ashx" style="height:12px; width:12px;" /></p>
+        <p>Find more details at <a rel="noopener noreferrer" href="http://www.mpay.co.th/" target="_blank">http://www.mpay.co.th/</a></p>
+        <br />
+        <p>We cannot accept payments over THB30,000 (per invoice).</p>
+        <p>No payment fee.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200722T104912Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200921T024016Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <p><strong>Through mPAY</strong></p>
+        <p>For customers using&nbsp;<img alt="" src="-/media/5d8a0b8be7fb4bdda65e7b43378cf0dd.ashx" style="height:25px; width:50px;" />and&nbsp;<img alt="" src="-/media/be72ec9bbe464b52818d7159ddbc9fd6.ashx" style="height:25px; width:50px;" />network:</p>
+        <p>Register membership, press 555 (free service).</p>
+        <p>Payment can be made by pressing *555*4132* amount*satang * PIN#, then&nbsp;<img alt="" src="-/media/15fd0ae8d6034e68b5c4fbd9b1638b97.ashx" style="height:12px; width:12px;" /></p>
+        <p>Find more details at <a rel="noopener noreferrer" rel="noopener noreferrer" href="http://www.mpay.co.th/" target="_blank">http://www.mpay.co.th/</a></p>
+        <br />
+        <p>We cannot accept payments over THB30,000 (per invoice).</p>
+        <p>No payment fee.</p>
+        <p>&nbsp;</p>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: black;">Note: Unfortunately, customers with policies previously bought from </span><span style="color: black;">SCB or&nbsp;through a former agency channel </span><span style="color: black;">are unable to access </span><span style="color: black;">mPay</span><span style="color: black;"> at the moment. We will let you know if this changes.</span></p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200921T024016Z
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Through mPAY
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T084907Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>ชำระค่าเบี้ยประกันภัยผ่านมือถือด้วยบริการ mPAY</strong></p>
+        <strong>
+        </strong>
+        <p>(สำหรับผู้ใช้โทรศัพท์ในระบบ <img alt="" src="-/media/5d8a0b8be7fb4bdda65e7b43378cf0dd.ashx" style="height:25px; width:50px;" />&nbsp;and&nbsp; <img alt="" src="-/media/be72ec9bbe464b52818d7159ddbc9fd6.ashx" style="height:25px; width:50px;" />และ  )</p>
+        <p>สมัครบริการ mPAY ฟรี กด&nbsp;<img alt="" src="-/media/15fd0ae8d6034e68b5c4fbd9b1638b97.ashx" style="height:12px; width:12px;" />&nbsp; *555 โทร.ออก</p>
+        <p>ชำระค่าบริการ กด *555*4132*จำนวนเงิน*สตางค์*รหัสส่วนตัว(PIN)#&nbsp; <img alt="" src="-/media/15fd0ae8d6034e68b5c4fbd9b1638b97.ashx" style="height:12px; width:12px;" />&nbsp; โทรออก</p>
+        <p>ต้องการดูรายละเอียดเพิ่ม สามารถดูได้ที่  <a href="http://www.mpay.co.th/" target="_blank">http://www.mpay.co.th/</a></p><br />
+        <p>ไม่เสียค่าธรรมเนียมในการชำระ</p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200722T083657Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <p><strong>ชำระค่าเบี้ยประกันภัยผ่านมือถือด้วยบริการ mPAY</strong></p>
+        <strong>
+        </strong>
+        <p>(สำหรับผู้ใช้โทรศัพท์ในระบบ <img alt="" src="-/media/5d8a0b8be7fb4bdda65e7b43378cf0dd.ashx" style="height:25px; width:50px;" />&nbsp;and&nbsp; <img alt="" src="-/media/be72ec9bbe464b52818d7159ddbc9fd6.ashx" style="height:25px; width:50px;" />และ  )</p>
+        <p>สมัครบริการ mPAY ฟรี กด&nbsp;<img alt="" src="-/media/15fd0ae8d6034e68b5c4fbd9b1638b97.ashx" style="height:12px; width:12px;" />&nbsp; *555 โทร.ออก</p>
+        <p>ชำระค่าบริการ กด *555*4132*จำนวนเงิน*สตางค์*รหัสส่วนตัว(PIN)#&nbsp; <img alt="" src="-/media/15fd0ae8d6034e68b5c4fbd9b1638b97.ashx" style="height:12px; width:12px;" />&nbsp; โทรออก</p>
+        <p>ต้องการดูรายละเอียดเพิ่ม สามารถดูได้ที่  <a rel="noopener noreferrer" href="http://www.mpay.co.th/" target="_blank">http://www.mpay.co.th/</a></p>
+        <br />
+        <p>ไม่เสียค่าธรรมเนียมในการชำระ</p>
+        <p>สามารถชำระได้ไม่เกิน 30,000 บาท</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200722T083657Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200921T024124Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <p><strong>ชำระค่าเบี้ยประกันภัยผ่านมือถือด้วยบริการ mPAY</strong></p>
+        <strong>
+        </strong>
+        <p>(สำหรับผู้ใช้โทรศัพท์ในระบบ <img alt="" src="-/media/5d8a0b8be7fb4bdda65e7b43378cf0dd.ashx" style="height:25px; width:50px;" />&nbsp;and&nbsp; <img alt="" src="-/media/be72ec9bbe464b52818d7159ddbc9fd6.ashx" style="height:25px; width:50px;" />และ  )</p>
+        <p>สมัครบริการ mPAY ฟรี กด&nbsp;<img alt="" src="-/media/15fd0ae8d6034e68b5c4fbd9b1638b97.ashx" style="height:12px; width:12px;" />&nbsp; *555 โทร.ออก</p>
+        <p>ชำระค่าบริการ กด *555*4132*จำนวนเงิน*สตางค์*รหัสส่วนตัว(PIN)#&nbsp; <img alt="" src="-/media/15fd0ae8d6034e68b5c4fbd9b1638b97.ashx" style="height:12px; width:12px;" />&nbsp; โทรออก</p>
+        <p>ต้องการดูรายละเอียดเพิ่ม สามารถดูได้ที่  <a rel="noopener noreferrer" rel="noopener noreferrer" href="http://www.mpay.co.th/" target="_blank">http://www.mpay.co.th/</a></p>
+        <br />
+        <p>ไม่เสียค่าธรรมเนียมในการชำระ</p>
+        <p>สามารถชำระได้ไม่เกิน 30,000 บาท</p>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: black;">กรมธรรม์ที่ซื้อผ่านธนาคารไทยพาณิชย์และตัวแทนเดิมไม่สามารถชำระค่าเบี้ยประกันภัยผ่านบริการ </span><span style="color: black;">mPay</span><span style="color: black;"> </span><span style="color: black;">ได้</span></p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200921T024124Z

@@ -1,0 +1,30 @@
+﻿---
+ID: "ce80a31f-7111-43f0-a1a5-24c415b6274b"
+Parent: "2670b64d-0314-4abe-adb6-76c4827e8942"
+Template: "6cb4dc66-e4e8-4cad-8cad-2883fd3ff0c5"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content
+DB: master
+SharedFields:
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Type: Checkbox
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-50"
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\FWD TH Author|pe|-item:rename|-item:delete|-item:create|-item:admin|-item:write|+item:read|^*|pd|-item:rename|-item:delete|-item:create|-item:admin|-item:write|+item:read|^*|ar|sitecore\FWDTH Author|pe|-item:create|-item:write|-item:delete|-item:rename|pd|-item:create|-item:write|-item:delete|-item:rename|
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Master Data
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191009T060729Z

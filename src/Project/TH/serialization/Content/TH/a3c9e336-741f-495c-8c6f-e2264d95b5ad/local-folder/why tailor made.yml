@@ -1,0 +1,83 @@
+﻿---
+ID: "3fbd3be9-2495-4a77-9730-de8f57a10569"
+Parent: "29071005-487d-4708-bb3d-4aa939631977"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/GroupLandingPage/tailor-made-life-and-medical/local-folder/why tailor made"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "9cb76228-fc26-48b7-bd66-1c6e133b625d"
+  Hint: secondaryLinkButtonMode
+  Value: "{02A5A5C7-C318-4919-B773-86A65BA98969}"
+- ID: "dab4200c-a87f-4605-b2f7-2544616ece6e"
+  Hint: secondaryLinkButtonIcon
+  Value: "{53C9E278-E7B2-4152-BEC5-8779F6DB3EE4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{C147DFDA-6EEF-46FA-B59B-8A286D6DD6CD}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200226T132346Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{C147DFDA-6EEF-46FA-B59B-8A286D6DD6CD}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "<p>Truly customer-led products and innovative technology-led distribution tools - we aim to help you gain maximum traction in your career.</p>"
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: kIt05tnmIxk
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: "Why Tailor Made ?"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Enquire" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{FB90EF79-9B2F-4BEA-B025-95B91996B85C}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{C147DFDA-6EEF-46FA-B59B-8A286D6DD6CD}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200813T143134Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{C147DFDA-6EEF-46FA-B59B-8A286D6DD6CD}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "<p>Truly customer-led products and innovative technology-led distribution tools - we aim to help you gain maximum traction in your career.</p>"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: kIt05tnmIxk
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: "Why Tailor Made ?"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Enquire" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{FB90EF79-9B2F-4BEA-B025-95B91996B85C}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"

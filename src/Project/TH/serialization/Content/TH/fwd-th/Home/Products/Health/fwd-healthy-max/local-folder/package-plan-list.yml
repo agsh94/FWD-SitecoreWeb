@@ -1,0 +1,57 @@
+﻿---
+ID: "1cbfc674-e6b4-41a9-9b36-5d8314a4691f"
+Parent: "26cf44ff-833d-48c3-917c-cbef714d77ba"
+Template: "175e0994-9695-4a52-9837-b6e9f53d9d56"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/fwd-healthy-max/local-folder/package-plan-list"
+DB: master
+SharedFields:
+- ID: "31ed2cdd-191f-4c8e-94fe-71b04431ef3b"
+  Hint: planCards
+  Type: Multilist
+  Value: |
+    {1E5C9725-82BD-4AF8-AFA1-228DF3560B8B}
+    {C365070B-D064-4EC5-BC56-000D9EA70811}
+    {01D47C60-85CC-4EAC-BD02-942239BB2D4D}
+    {99ED9D78-347D-4C26-8069-FF1F39B0A897}
+    {9E7A720A-7123-4903-BDCB-AE0C1FA079B4}
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Package Plan List
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "048c3952-ef2e-455f-9a0d-4d9e9073bea9"
+      Hint: calculateLink
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200127T161558Z
+    - ID: "40610ec3-80f6-4071-92c3-3df8c6dc0a93"
+      Hint: title
+      Value: "Interested?"
+    - ID: "f55de024-97c9-4db0-abf7-23bc3e35a96e"
+      Hint: subTitle
+      Value: "Take a closer look at all the details - and compare this with some of our other products."
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "048c3952-ef2e-455f-9a0d-4d9e9073bea9"
+      Hint: calculateLink
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200130T150932Z
+    - ID: "40610ec3-80f6-4071-92c3-3df8c6dc0a93"
+      Hint: title
+      Value: "สนใจ?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "f55de024-97c9-4db0-abf7-23bc3e35a96e"
+      Hint: subTitle
+      Value: ลองดูรายละเอียดทั้งหมด และเปรียบเทียบกับผลิตภัณฑ์อื่นๆ ของเรา

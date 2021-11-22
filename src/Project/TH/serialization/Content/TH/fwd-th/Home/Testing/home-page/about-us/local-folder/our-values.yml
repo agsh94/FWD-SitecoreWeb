@@ -1,0 +1,43 @@
+﻿---
+ID: "250262ea-ead4-4752-9d1e-7bb6f7eef816"
+Parent: "d8ae49d3-adad-4384-8fe8-2836465dd88f"
+Template: "7d6bb8c2-d538-441d-82bf-d6aec40b5929"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/local-folder/our-values"
+DB: master
+SharedFields:
+- ID: "e393d27b-259f-4774-91b7-a2965d57238d"
+  Hint: linkItems
+  Value: "{839BFBCD-D6A8-4C34-B020-8C6F60DE84FB}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Our Values
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T132702Z
+    - ID: "2ed70c09-d8b1-4780-8037-dfe4ca6dd644"
+      Hint: title
+      Value: Our values
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200108T105318Z
+    - ID: "2ed70c09-d8b1-4780-8037-dfe4ca6dd644"
+      Hint: title
+      Value: Our values
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

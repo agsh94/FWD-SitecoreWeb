@@ -1,0 +1,38 @@
+﻿---
+ID: "ac8ea07a-9bce-413f-a425-f283ef2801ff"
+Parent: "98333f5c-6fcf-4f2c-9310-d4b520fd6650"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Events/2020 Agency Year Plan hosted by FWD Insurance/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T141909Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: Ms Poramasiri Manolamai, Chief Executive Officer of FWD Life Insurance PCL, and Mr Sahapol Polpatapee, Chief Agency Officer, launch FWD&rsquo;s 2020 Agency Year Plan, announcing 2020&rsquo;s strategic direction of FWD insurance agents,&nbsp; further reinforcing their aim to become the biggest&nbsp; and fastest growing insurance agency in Thailand. The event was attended by more than 900 people, including executives and agents, at Ambassador City Jomtien Pattaya Hotel.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T142627Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>คุณปรมาศิริ มโนลม้าย ประธานเจ้าหน้าที่บริหาร บริษัท เอฟดับบลิวดี ประกันชีวิต และคุณสหพล พลปัถพี ประธานเจ้าหน้าที่สายงานตัวแทน
+        นำทีมผู้บริหารร่วมเปิดงาน 2020 Agency Year Plan พร้อมเผยทิศทางการดำเนินงานของช่องทางตัวแทนในปี 2563 เพื่อก้าวสู่การเป็นตัวแทน
+        ที่เติบโตสูงสุดในไทย ด้วยการเติบโตอย่างแตกต่าง งานนี้มีผู้บริหารและพลังตัวแทนเข้าร่วมกว่า 900 คน ณ โรงแรมแอมบาสซาเดอร์ ซิตี้ จอมเทียน พัทยา</p>

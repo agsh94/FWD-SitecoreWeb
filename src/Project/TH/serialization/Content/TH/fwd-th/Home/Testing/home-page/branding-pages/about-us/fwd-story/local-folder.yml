@@ -1,0 +1,45 @@
+﻿---
+ID: "5a2044b0-30cb-40bd-be42-bdc69ed068cb"
+Parent: "1232e377-312a-4f2f-bddb-0e5304c4dff7"
+Template: "fff5f245-ffc0-4022-a998-9b07aa5e761f"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/about-us/fwd-story/local-folder"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {826504B4-1F9B-53B0-81D6-52E22EE10497}
+    {14CF212D-7CF4-41AA-B50B-24D748A87556}
+    {967A8DAD-4A23-491B-95E2-295DEC0B64B3}
+    {51555475-5028-4B05-9B45-53BE53615704}
+    {7D6BB8C2-D538-441D-82BF-D6AEC40B5929}
+    {68016EEE-7CE8-453D-9B04-20BCD42DA406}
+    {8AD5BB9C-B124-437E-A0C3-34149B049FAC}
+    {EE2C800F-5808-4E93-B521-517495E4A1E6}
+    {681B61A2-6F52-4119-B8F4-033587EAEACC}
+    {FB4B274E-49CD-43CD-9368-EB43D032E74B}
+    {1092EE48-8573-46ED-8414-1D885F477D3B}
+    {587B045E-069E-4D08-802F-6722A452EEEE}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-1000"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180925T060737Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T081742Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

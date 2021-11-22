@@ -1,0 +1,28 @@
+﻿---
+ID: "51b7b7ab-be02-48fe-baad-06afb266362d"
+Parent: "ffaa0a82-fa41-4f50-a7c4-c2c668ded9b5"
+Template: "7d6bb8c2-d538-441d-82bf-d6aec40b5929"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/About Us/local-folder/QuickFacts"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "e393d27b-259f-4774-91b7-a2965d57238d"
+  Hint: linkItems
+  Value: "{609A5AA0-AF54-4D24-8797-BC4AA0C47012}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T113439Z
+    - ID: "2ed70c09-d8b1-4780-8037-dfe4ca6dd644"
+      Hint: title
+      Value: Quick facts about FWD
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,36 @@
+﻿---
+ID: "360c9d75-ace0-49b0-8510-45031c20b0d6"
+Parent: "d1531f05-7175-4a7d-a96e-5d4784eeadc5"
+Template: "b7896f65-9c57-4ff4-95ac-edb35665badf"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Health/ValueProtector/local-folder/product-benefits/relation-tharapy-3"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 12
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Relation Therapy 3
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17265e40-8337-4955-a178-099b0454e4f4"
+      Hint: benefitTitle
+      Value: Security
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191107T112508Z
+    - ID: "624e4459-604e-46b7-83b2-904dd19e712f"
+      Hint: benefitDescription
+      Value: Safeguard your family’s future with life coverage up to the age of 90.
+    - ID: "ced9fafd-1ec7-4eaa-a83a-02a58bb405f1"
+      Hint: benefitImage
+      Value: |
+        <image mediaid="{0DF53845-CF5A-4DFA-BC37-19A0E72952F8}" />
+    - ID: "f031ebc2-c599-483c-a66a-b7d705ef46d7"
+      Hint: image
+      Value: |
+        <image mediaid="{B85FED73-5B6D-447B-A248-BD272A76DD0A}" />

@@ -1,0 +1,53 @@
+﻿---
+ID: "3ac6bf2a-f28f-4a01-831e-b695e27b22a7"
+Parent: "cddfd7be-45ca-43d7-b69c-88da0372d28e"
+Template: "83a147f2-89ba-4a48-8222-4b73ffe65216"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/about-us/career-agent/local-folder/customer-support"
+DB: master
+SharedFields:
+- ID: "56b35c4a-f364-45f9-8d35-5a28cecdd7a8"
+  Hint: supportOptions
+  Value: "{83A3F508-B542-4F89-A759-98EA26BEBA77}|{CC115D5A-4819-4224-8B56-F69AEC264865}|{9A1BE68C-CC07-49A0-9017-FD0E0A4A6873}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Customer Support
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T081911Z
+    - ID: "e43f6d15-838d-41cd-b745-616c1b373dff"
+      Hint: description
+      Value: "Need to get in touch with our customer support? Here's how can we reach us."
+    - ID: "e59ccccf-b566-4b39-b862-7fc68fe13e39"
+      Hint: title
+      Value: "Have a question?"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Show me all support options" anchor="" linktype="internal" class="" title="Show me all support options" target="|Custom" querystring="" id="{217CDBFB-F29B-405C-8F68-517B7FBC0199}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T035144Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "e43f6d15-838d-41cd-b745-616c1b373dff"
+      Hint: description
+      Value: "Need to get in touch with our customer support? Here's how can we reach us."
+    - ID: "e59ccccf-b566-4b39-b862-7fc68fe13e39"
+      Hint: title
+      Value: "Have a question?"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Show me all support options" anchor="" linktype="internal" class="" title="Show me all support options" target="|Custom" querystring="" id="{217CDBFB-F29B-405C-8F68-517B7FBC0199}" />

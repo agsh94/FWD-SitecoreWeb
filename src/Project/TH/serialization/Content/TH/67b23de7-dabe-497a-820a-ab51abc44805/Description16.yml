@@ -1,0 +1,30 @@
+﻿---
+ID: "d53ef61b-79a4-492b-8d4f-cbf5e04e1432"
+Parent: "67b23de7-dabe-497a-820a-ab51abc44805"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/ohkaju-organic-restaurant/local-folder/ArticleDetails/Description16"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 3100
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T011729Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span>ที่ตั้ง</span><span dir="RTL"> : </span><span>สยามสแควร์ซอย</span><span dir="RTL"> </span><span>2 </span><span>ตรงข้าม</span><span dir="RTL"> </span><span>Sense (</span><span>สยามสแควร์ซอย</span><span dir="RTL"> </span><span>7)</span></p>
+        <p><span>เวลาเปิด</span><span dir="RTL"> : </span><span>ทุกวัน</span><span dir="RTL"> </span><span>10.00 - 22.00 </span><span>น</span><span dir="RTL">.</span></p>
+        <p><span>ราคา</span><span dir="RTL"> : </span><span>75-565 </span><span>บาท</span></p>
+        <p><span>เบอร์ติดต่อ</span><span dir="RTL"> : </span><span>081-980-2416</span></p>
+        <p><span>GPS : &nbsp;</span><span><a href="https://goo.gl/maps/2jh9JLSfRfhLeCuYA"><span>https://goo.gl/maps/2jh9JLSfRfhLeCuYA</span></a></span></p>

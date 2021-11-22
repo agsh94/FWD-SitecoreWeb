@@ -1,0 +1,38 @@
+﻿---
+ID: "125943aa-d336-4ec8-b88b-f3cf3c8b9b9f"
+Parent: "153c15f6-23ad-4ac1-9163-fbec772c487a"
+Template: "63bd1365-c4a9-4fe7-97db-6c56a3b85d39"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/New Product Page/local-folder/Copy of RelatedProducts"
+DB: master
+SharedFields:
+- ID: "21f74f6e-42d4-42a2-a4b4-4cefbcfbd2bb"
+  Hint: __Facets
+  Type: Treelist
+  Value: "{BF25C885-8688-4616-B969-EC9D86A154C2}"
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{3B19D2B5-AAA3-4FB7-A107-4CEC5F9110F1}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1100
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{6D746F51-A4FB-4E4B-BB66-860E51907C52}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Related Products
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200709T041139Z
+    - ID: "c63030f7-bd7d-4d6e-b4bd-7471a2865575"
+      Hint: linkItems
+      Value: 
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Find the best Savings product for you  Small Card Variation

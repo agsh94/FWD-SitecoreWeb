@@ -1,0 +1,81 @@
+﻿---
+ID: "8bdc81e9-a27a-425a-97e9-4644a141e4ed"
+Parent: "2b4fb7e0-eaba-42f8-a22e-a04886fcb0eb"
+Template: "8e353b27-e5f9-4361-b332-9b3557fb7cd8"
+Path: "/sitecore/content/fwd/fwd-th/Components/New Leaders/LeadersNew/AJ"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{86651E5A-80FF-4A46-901E-8F67ABC3E09B}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200930T070053Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: Arjan Wes
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: "Arjan leads the strategy and development of our brand and communications, customer experience, and new markets. He&rsquo;s a dynamic and results-driven life insurance professional with more than 20 years&rsquo; experience across multiple territories across Europe and Asia. His experience spans several functions in the industry including customer analytics, general management and distribution."
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: Chief Commercial Officer 
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{86651E5A-80FF-4A46-901E-8F67ABC3E09B}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{86651E5A-80FF-4A46-901E-8F67ABC3E09B}" cropx="0.49" cropy="0.39" focusx="-0.027199193050986836" focusy="0.2207033634185791" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200930T070314Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: เจน อรัน เวส
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: |
+        <p><span style="color: #333333;">คุณอาร์แจนดูแลรับผิดชอบด้านกลยุทธ์การพัฒนาแบรนด์และการสื่อสาร และยังรับผิดชอบด้านประสบการณ์ของลูกค้า และการสร้างตลาดใหม่อีกด้วย ด้วยประสบการณ์มากกว่า 20 ปีในหลายประเทศทั้งในทวีปยุโรปและเอเชีย ทำให้เขาเป็นมืออาชีพด้านการประกันชีวิตที่ขับเคลื่อนด้วยการสร้างผลลัพธ์อย่างไม่เคยหยุดนิ่ง นอกจากนี้ประสบการณ์ของเขายังครอบคลุมหลากหลายหน้าที่ในอุตสาหกรรมประกัน ซึ่งรวมทั้งการวิเคราะห์ลูกค้า การจัดการทั่วไป และการจัดจำหน่าย</span></p>
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: ประธานเจ้าหน้าที่ สายงานพัฒนาและสนับสนุนธุรกิจ
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{86651E5A-80FF-4A46-901E-8F67ABC3E09B}" />
+    - ID: "ffce884f-680c-485e-9bef-f4dbf574d377"
+      Hint: featuredPictogramImage
+      Value: |
+        <image mediaid="{F7D82769-AF23-4E37-B4F1-C32E0C641585}" />

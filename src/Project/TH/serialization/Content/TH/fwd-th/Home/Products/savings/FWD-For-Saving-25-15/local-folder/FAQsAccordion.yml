@@ -1,0 +1,53 @@
+﻿---
+ID: "05bb2dcb-4dae-4727-ab2b-0b069571e757"
+Parent: "ab8fc8b3-08dc-4459-a9be-03a6c4dc8208"
+Template: "14cf212d-7cf4-41aa-b50b-24d748a87556"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/savings/FWD-For-Saving-25-15/local-folder/FAQsAccordion"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f973c399-5998-47a5-ae48-760ebed901b1"
+  Hint: faqItems
+  Value: "{E79E677D-640D-430C-8692-9C2804FACF74}|{52E950AB-06DC-49C1-AC6A-1F581C5D2E86}|{AFFE62A3-10E7-4515-AA85-8362AF2AE64F}|{7278B1B3-A76B-46BB-898E-6869FCBFA206}|{3C69E350-57CD-432E-8C9B-CE8146D4D459}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191014T062541Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See more FAQs" anchor="" linktype="internal" class="" title="See more FAQs"  querystring="" id="{4D410CCC-DDD8-456C-B317-FD8D00637F32}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: Frequently asked questions
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055158Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="คำถามทั้งหมด" anchor="" linktype="internal" class="" title="คำถามทั้งหมด"  querystring="" id="{4D410CCC-DDD8-456C-B317-FD8D00637F32}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: คำถามที่พบบ่อย

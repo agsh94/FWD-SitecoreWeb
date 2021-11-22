@@ -1,0 +1,70 @@
+﻿---
+ID: "ef4da082-c75c-43e5-baf5-01079e1feb78"
+Parent: "e1a91032-6f25-41cc-9689-01bd51789302"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/hospital-network/local-folder/ContentBlock"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200106T061959Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        Just show your FWD Care Card at our network of over 400 hospitals and clinics nationwide. Receive treatment with no advance payment required.
+        <br />
+        <br />
+        If you forget to bring your FWD Care Card or you have to pay your expenses directly*, you can also submit these expenses (with your receipts / any documents) by following the normal <a href="~/link.aspx?_id=645F96770A724985BA13AFC14647AE5F&amp;_z=z">claims process</a>.
+        <br />
+        <br />
+        *Applies only to hospitals and clinics within our network.
+    - ID: "869e361f-947c-4aa5-8f47-faa91843a591"
+      Hint: enableHeading
+      Type: Checkbox
+      Value: 1
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Your nearest hospital or clinic
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{AAD27929-2ECF-455F-9D17-7FBE1554B510}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200217T102735Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p>เพียงแสดงบัตรเอฟดับบลิวดี แคร์การ์ด ที่โรงพยาบาลเครือข่ายและคลินิกกว่า 400 แห่งทั่วประเทศ ก็รับการรักษาได้ทันที ไม่ต้องสำรองจ่ายล่วงหน้า</p>
+        <p>หากคุณลืมบัตรเอฟดับบลิวดี แคร์การ์ด หรือจำเป็นต้องสำรองจ่ายล่วงหน้า คุณสามารถที่จะยื่นเรียกร้องสินไหม โดยส่งเอกสารค่าใช้จ่าย (ใบเสร็จ หรือเอกสารประกอบใดๆ) ตาม<a href="/th/claims/accident-and-health">ขั้นตอนการเรียกร้องสินไหม</a> โดยปกติ</p>
+        <p>*ใช้กับโรงพยาบาลและคลีนิกในเครือข่ายของเราเท่านั้น</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "869e361f-947c-4aa5-8f47-faa91843a591"
+      Hint: enableHeading
+      Type: Checkbox
+      Value: 1
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: โรงพยาบาลเครือข่ายใกล้คุณ
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{AAD27929-2ECF-455F-9D17-7FBE1554B510}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"

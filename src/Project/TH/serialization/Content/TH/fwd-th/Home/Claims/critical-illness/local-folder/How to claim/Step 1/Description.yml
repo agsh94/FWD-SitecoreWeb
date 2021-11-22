@@ -1,0 +1,54 @@
+﻿---
+ID: "62310f26-152f-4e4e-b6d0-d4f41de55124"
+Parent: "39e00132-4201-4686-9079-d094419ec267"
+Template: "ad6870d4-2dd6-40ef-a8fa-941ab32cee43"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/critical-illness/local-folder/How to claim/Step 1/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T023752Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Certified true copy</strong></p>
+        <ul>
+            <li>Any medical examination reports such as lab investigations, CT results, pathology reports etc. These must be certified by a hospital officer.</li>
+        </ul>
+        <br />
+        <p><strong>Copy</strong></p>
+        <ul>
+            <li>Your medical certificate<br />
+            This can be a written or printed statement from your doctor stating the results of any medical examination</li>
+        </ul>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T023748Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>เอกสารรับรองสำเนาถูกต้อง</strong></p>
+        <ul>
+            <li>รายงานผลการตรวจรักษาทางการแพทย์ เช่น ผลการตรวจทางห้องปฏิบัติการ รายงานผลชิ้นเนื้อ และผลการตรวจเอ็กซ์เรย์คอมพิวเตอร์ (CT/MRI) ซึ่งรับรองโดยโรงพยาบาล</li>
+        </ul>
+        <br />
+        <p><strong>เอกสารสำเนา</strong></p>
+        <ul>
+            <li>ใบรับรองแพทย์ ซึ่งระบุผลการตรวจรักษาโดยแพทย์ อาจเขียนด้วยมือหรือพิมพ์ก็ได้</li>
+        </ul>

@@ -1,0 +1,295 @@
+{
+    "MultiList Item1": {
+        "image": {
+            "value": {
+                "src": "http://fwd-th.dev.local/-/media/fwd/project/th/img/placeholder-392-221.jpg?h=221&w=392&hash=0DF2346F92A8DB365B7784528FB9D3B5",
+                "alt": "art-rec-img",
+                "width": "392",
+                "height": "221"
+            }
+        },
+        "isFeatured": {
+            "value": true
+        },
+        "shortDescription": {
+            "value": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo"
+        },
+        "mobileImage": {
+            "value": {
+                "src": "http://fwd-th.dev.local/-/media/fwd/project/th/img/article-card-small.jpg?h=120&w=120&hash=F434E9F962C4679ADFD2F961F09A05F4",
+                "alt": "article card",
+                "width": "120",
+                "height": "120"
+            }
+        },
+        "subtype": {
+            "id": "f9477f10-1a0c-48a1-9ab0-4cd0672c9aa9",
+            "url": "/Content/Tags/commonTags/contentSubtype/Articles/press-releases",
+            "fields": {
+                "searchName": {
+                    "value": "Press-Releases"
+                },
+                "name": {
+                    "value": "Press Releases"
+                }
+            }
+        },
+        "contentType": {
+            "id": "4fe0a16d-285f-4c41-9bfa-a1343b036cdf",
+            "url": "/Content/Tags/commonTags/contentType/Articles",
+            "fields": {
+                "searchName": {
+                    "value": "Articles"
+                },
+                "name": {
+                    "value": "Articles"
+                }
+            }
+        },
+        "featuredTags": [
+            {
+                "id": "26e51be2-bb06-499c-be0e-ce58cd11f888",
+                "fields": {
+                    "searchName": {
+                        "value": "whole-life-protection"
+                    },
+                    "name": {
+                        "value": "Whole Life Protection"
+                    }
+                }
+            },
+            {
+                "id": "9850ffc3-58bc-407a-9d77-eb32cb57bd6e",
+                "fields": {
+                    "searchName": {
+                        "value": "organ-failure"
+                    },
+                    "name": {
+                        "value": "Organ Failure"
+                    }
+                }
+            },
+            {
+                "id": "1e39c0d9-cb59-4ad9-9c6a-4fdc8436f456",
+                "fields": {
+                    "searchName": {
+                        "value": "heart-disease"
+                    },
+                    "name": {
+                        "value": "Heart Disease"
+                    }
+                }
+            }
+        ],
+        "isPageSearchable": {
+            "value": false
+        },
+        "metadataTitle": {
+            "value": "Article 10"
+        },
+        "metadataDescription": {
+            "value": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium."
+        }
+    },
+    "Datasource Item": {
+        "description": {
+            "value": ""
+        },
+        "linkItems": [
+            {
+                "id": "8463494a-5b29-4fb6-8038-745aa671c899",
+                "fields": {
+                    "shortDescription": {
+                        "value": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo"
+                    },
+                    "subtype": {
+                        "id": "86924a38-30e8-45e4-ae10-1663f1632b58",
+                        "fieldType": "Droplink",
+                        "fieldName": "subtype",
+                        "url": "/content/tags/commontags/contentsubtype/articles/privileges",
+                        "fields": {
+                            "name": {
+                                "value": "Privileges"
+                            },
+                            "searchName": {
+                                "value": "Privileges"
+                            }
+                        }
+                    },
+                    "featuredTags": [
+                        {
+                            "id": "cf0c84aa-2987-4d4e-be51-0297a9ae251d",
+                            "fields": {
+                                "name": {
+                                    "value": "Critical Illness"
+                                },
+                                "searchName": {
+                                    "value": "critical-illness"
+                                },
+                                "articlePillarPage": {
+                                    "value": "{A446783F-4B78-42D0-A902-0E9C2BF27ED4}"
+                                },
+                                "mobileImage": {
+                                    "value": {
+                                        "src": "/-/media/images/fwd/ii1a3510.jpg?rev=e0a65593ca884034a9ead36f77602444",
+                                        "x1": "/-/media/images/fwd/ii1a3510.jpg?rev=e0a65593ca884034a9ead36f77602444&cx=0&cy=0&cw=160&ch=106&hash=CF635035058DDCF507BADC5ACF5CCDE0",
+                                        "x2": "/-/media/images/fwd/ii1a3510.jpg?rev=e0a65593ca884034a9ead36f77602444&cx=0&cy=0&cw=320&ch=212&hash=7D68D76451C0C9DC7A265BF46BF8A01C"
+                                    }
+                                },
+                                "image": {
+                                    "value": {
+                                        "src": "/-/media/images/fwd/ii1a3510.jpg?rev=e0a65593ca884034a9ead36f77602444",
+                                        "x1": "/-/media/images/fwd/ii1a3510.jpg?rev=e0a65593ca884034a9ead36f77602444&cx=0&cy=0&cw=240&ch=135&hash=BC2DD6763D626E7D085CC92C2CC5E080",
+                                        "x2": "/-/media/images/fwd/ii1a3510.jpg?rev=e0a65593ca884034a9ead36f77602444&cx=0&cy=0&cw=480&ch=270&hash=3E044C51A573031DA9F85BD7EA932A0F"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": "1a8606e9-19c8-4a14-8dec-197dc189332a",
+                            "fields": {
+                                "name": {
+                                    "value": "Existing Condition"
+                                },
+                                "searchName": {
+                                    "value": "existing-condition"
+                                },
+                                "articlePillarPage": {
+                                    "value": "{A446783F-4B78-42D0-A902-0E9C2BF27ED4}"
+                                },
+                                "mobileImage": {
+                                    "value": {
+                                        "src": "/-/media/images/fwd/parachutist.jpg?rev=4d9cffe6e8704b30af06cc2bf23cd9f1",
+                                        "x1": "/-/media/images/fwd/parachutist.jpg?rev=4d9cffe6e8704b30af06cc2bf23cd9f1&cx=0&cy=0&cw=160&ch=106&hash=26FB6A7223BEE0CE6A4848F84AFA1C5B",
+                                        "x2": "/-/media/images/fwd/parachutist.jpg?rev=4d9cffe6e8704b30af06cc2bf23cd9f1&cx=0&cy=0&cw=320&ch=212&hash=A1A62CD5ABA1C406ED2000297D869F62"
+                                    }
+                                },
+                                "image": {
+                                    "value": {
+                                        "src": "/-/media/images/fwd/parachutist.jpg?rev=4d9cffe6e8704b30af06cc2bf23cd9f1",
+                                        "x1": "/-/media/images/fwd/parachutist.jpg?rev=4d9cffe6e8704b30af06cc2bf23cd9f1&cx=0&cy=0&cw=240&ch=135&hash=56D09BF0C5C4BACF7CDCA878489B7F4B",
+                                        "x2": "/-/media/images/fwd/parachutist.jpg?rev=4d9cffe6e8704b30af06cc2bf23cd9f1&cx=0&cy=0&cw=480&ch=270&hash=9D01A164D3DA4ECABAC330991D3BB9BA"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": "e41a0842-6c1e-4dfa-b433-fb21a50e240d",
+                            "fields": {
+                                "name": {
+                                    "value": "Employee Cover"
+                                },
+                                "searchName": {
+                                    "value": "employee-cover"
+                                },
+                                "articlePillarPage": {
+                                    "value": "{A446783F-4B78-42D0-A902-0E9C2BF27ED4}"
+                                },
+                                "mobileImage": {
+                                    "value": {
+                                        "src": "/-/media/images/fwd/ii1a9936.jpg?rev=9443d10a1a4840ba82396658c0cdf88e",
+                                        "x1": "/-/media/images/fwd/ii1a9936.jpg?rev=9443d10a1a4840ba82396658c0cdf88e&cx=0&cy=0&cw=160&ch=106&hash=1AA7BCF9FA05E2702855CC0F56435F11",
+                                        "x2": "/-/media/images/fwd/ii1a9936.jpg?rev=9443d10a1a4840ba82396658c0cdf88e&cx=0&cy=0&cw=320&ch=212&hash=3B5036AC6C0759FAE4C33AE0F1BAFF3B"
+                                    }
+                                },
+                                "image": {
+                                    "value": {
+                                        "src": "/-/media/images/fwd/ii1a9936.jpg?rev=9443d10a1a4840ba82396658c0cdf88e",
+                                        "x1": "/-/media/images/fwd/ii1a9936.jpg?rev=9443d10a1a4840ba82396658c0cdf88e&cx=0&cy=0&cw=240&ch=135&hash=051A58FC93430C71A9799AFC62BB16BD",
+                                        "x2": "/-/media/images/fwd/ii1a9936.jpg?rev=9443d10a1a4840ba82396658c0cdf88e&cx=0&cy=0&cw=480&ch=270&hash=7B165332623ABD1CD61CF5B97B686E65"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "mobileImage": {
+                        "value": {
+                            "src": "/-/media/images/fwd/ii1a3510.jpg?rev=e0a65593ca884034a9ead36f77602444",
+                            "Medium": {
+                                "x1": "/-/media/images/fwd/ii1a3510.jpg?rev=e0a65593ca884034a9ead36f77602444&cx=0&cy=0&cw=328&ch=164&hash=C53BD96389AB2CFA611C2B90C6D9F5C9",
+                                "x2": "/-/media/images/fwd/ii1a3510.jpg?rev=e0a65593ca884034a9ead36f77602444&cx=0&cy=0&cw=656&ch=328&hash=4FE7C837FF20E51F626EB65559E0FC84"
+                            },
+                            "Small": {
+                                "x1": "/-/media/images/fwd/ii1a3510.jpg?rev=e0a65593ca884034a9ead36f77602444&cx=0&cy=0&cw=328&ch=164&hash=C53BD96389AB2CFA611C2B90C6D9F5C9",
+                                "x2": "/-/media/images/fwd/ii1a3510.jpg?rev=e0a65593ca884034a9ead36f77602444&cx=0&cy=0&cw=656&ch=328&hash=4FE7C837FF20E51F626EB65559E0FC84"
+                            },
+                            "Large": {
+                                "x1": "/-/media/images/fwd/ii1a3510.jpg?rev=e0a65593ca884034a9ead36f77602444&cx=0&cy=0&cw=328&ch=328&hash=496AC76E3C2D33295BC2DC4A18CA4374",
+                                "x2": "/-/media/images/fwd/ii1a3510.jpg?rev=e0a65593ca884034a9ead36f77602444&cx=0&cy=0&cw=656&ch=656&hash=26BF41204F110BEEE7CAAE552DF71E98"
+                            }
+                        }
+                    },
+                    "image": {
+                        "value": {
+                            "src": "/-/media/images/fwd/ii1a3510.jpg?rev=e0a65593ca884034a9ead36f77602444",
+                            "Medium": {
+                                "x2": "/-/media/images/fwd/ii1a3510.jpg?rev=e0a65593ca884034a9ead36f77602444&cx=0&cy=0&cw=1200&ch=1200&hash=25B533390E1C5FD19374B8977B316972",
+                                "x1": "/-/media/images/fwd/ii1a3510.jpg?rev=e0a65593ca884034a9ead36f77602444&cx=0&cy=0&cw=600&ch=600&hash=96CA0146CC1519D6B801654F44667ADA"
+                            },
+                            "Small": {
+                                "x2": "/-/media/images/fwd/ii1a3510.jpg?rev=e0a65593ca884034a9ead36f77602444&cx=0&cy=0&cw=1200&ch=600&hash=C64D8A95C52EE5E0B68E2396737E58A2",
+                                "x1": "/-/media/images/fwd/ii1a3510.jpg?rev=e0a65593ca884034a9ead36f77602444&cx=0&cy=0&cw=600&ch=300&hash=118E1CD98FB681E10DAABED4D2DE3A95"
+                            },
+                            "Large": {
+                                "x1": "/-/media/images/fwd/ii1a3510.jpg?rev=e0a65593ca884034a9ead36f77602444&cx=0&cy=0&cw=1224&ch=408&hash=CC08C58FD3B0A31625B8C753C40D434D",
+                                "x2": "/-/media/images/fwd/ii1a3510.jpg?rev=e0a65593ca884034a9ead36f77602444&cx=0&cy=0&cw=2448&ch=816&hash=3E40FD785FE30D0F4E9C9FAFDEFDFD1D"
+                            }
+                        }
+                    }
+                }
+            }
+        ],
+        "subTitle": {
+            "value": ""
+        },
+        "title": {
+            "value": "Latest Privileges"
+        },
+        "gaLabelName": {
+            "value": ""
+        },
+        "link": {
+            "value": {}
+        },
+        "buttonIcon": {
+            "id": "7ea908fb-506f-45e9-ab04-2b33b5dcde2a",
+            "fieldType": "CustomDroplink",
+            "fieldName": "buttonIcon",
+            "url": "/sitecore/content/fwd/global/settings/list/linkvariant/link",
+            "fields": {
+                "key": {
+                    "value": "Link"
+                },
+                "value": {
+                    "value": "arrow-right"
+                }
+            }
+        },
+        "buttonMode": {
+            "id": "02a5a5c7-c318-4919-b773-86a65ba98969",
+            "fieldType": "Droplink",
+            "fieldName": "buttonMode",
+            "url": "/sitecore/content/fwd/global/settings/list/button-mode/simple-link",
+            "fields": {
+                "key": {
+                    "value": "SimpleLink"
+                },
+                "value": {
+                    "value": "SimpleLink"
+                }
+            }
+        },
+        "gaCategoryName": {
+            "value": ""
+        }
+    },
+
+    "featuredTag": {
+        "searchName": {
+            "value": "heart-disease"
+        },
+        "name": {
+            "value": "Heart Disease"
+        }
+    }
+}

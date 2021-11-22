@@ -1,0 +1,18 @@
+﻿---
+ID: "0cb40f34-2656-4c74-a71b-5b7e421cf3bb"
+Parent: "d79813a5-ea1a-48e7-876f-3b797b68c918"
+Template: "6d556fd5-15d7-4e09-83dc-02c8e01bf894"
+Path: "/sitecore/content/fwd/fwd-th/Components/Teams/Agent"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T093258Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit

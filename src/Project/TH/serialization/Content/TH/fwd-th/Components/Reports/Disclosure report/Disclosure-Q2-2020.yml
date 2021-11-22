@@ -1,0 +1,59 @@
+﻿---
+ID: "b761c814-2602-44a6-9c97-7ce234e1fbe5"
+Parent: "cd7bbdf6-26d7-4ac9-ab55-aaaefd1d5954"
+Template: "299af6fd-7435-47fd-b7e4-32eaca8c3f9a"
+Path: "/sitecore/content/fwd/fwd-th/Components/Reports/Disclosure report/Disclosure-Q2-2020"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200825T085639Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "59361d7d-0099-40a4-9b9c-5346500afc3d"
+      Hint: year
+      Value: 2020
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "e92854c1-191c-40e8-b25c-034d921ea9a0"
+      Hint: quarter
+      Value: Q2
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Download" linktype="media" target="" id="{362BB561-495C-4EEE-B6AC-E3CC42CA2616}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200825T085845Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "59361d7d-0099-40a4-9b9c-5346500afc3d"
+      Hint: year
+      Value: 2563
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "e92854c1-191c-40e8-b25c-034d921ea9a0"
+      Hint: quarter
+      Value: Q2
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ดาวน์โหลด" linktype="media" target="" id="{5A3FED51-FB02-4E1A-BAFC-F155B5B95A7D}" />

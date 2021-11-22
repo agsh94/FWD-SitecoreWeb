@@ -1,0 +1,114 @@
+﻿---
+ID: "a930ba0a-8f8f-4196-b8e0-dac435aa0992"
+Parent: "992f73a5-4b15-488f-8c4a-4d8a6ba32fac"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/Total permanent disability/local-folder/Important things you should know"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200621T151633Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <ul>
+        <li>Please do bear in mind that occasionally we need more time to make a claims payment. A delay could be for a number of reasons - for example the type of claim, how complex the case is, and whether we have all the information and documents we need.</li>
+        <li>If we think we’ll need longer than 15 days, we’ll inform you (or your beneficiary) in writing and will give you the reason why. Our target will then be to pay the claim within 90 days.</li>
+        <li>Assuming your claim is successful, if we then fail to make a payment within either 90 days, or any new extended target we commit to, we’ll additionally pay you interest when we do pay.</li>
+        <li>Any interest rate will be an additional 15% on the amount we owe you, from the first day we go over our extended target until the day we process your claims payment.</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Important things you should know
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200621T151547Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <ul>
+        <li>ในบางกรณีอาจต้องใช้เวลามากกว่าปกติและจำเป็นต้องยืดเวลาดำเนินการออกไปอีก เนื่องมาจากเหตุหลายประการ เช่น ประเภทของการเรียกร้องสินไหม ความซับซ้อนในแต่ละกรณี หรือข้อมูลและเอกสารประกอบที่ส่งให้เรามีความครบถ้วนเพียงพอแล้วหรือไม่</li>
+        <li>หากต้องใช้เวลาดำเนินการมากกว่า 15 วัน คุณหรือผู้รับผลประโยชน์จะได้รับหนังสือชี้แจงเหตุผลจากบริษัท โดยเราตั้งเป้าไว้ว่าจะจ่ายค่าสินไหมทดแทนให้คุณภายใน 90 วัน</li>
+        <li>ในกรณีที่การเรียกร้องสินไหมของคุณได้รับการอนุมัติ แต่ยังไม่ได้รับเงินภายใน 90 วันหรือภายในระยะเวลาที่ถูกขยายออกไปซึ่งเราได้แจ้งเวลาไว้ เราจะจ่ายดอกเบี้ยพร้อมค่าสินไหม</li>
+        <li>ดอกเบี้ยจะคำนวณที่อัตราร้อยละ 15 จากค่าสินไหมที่ค้างชำระ นับจากวันแรกหลังจากวันกำหนดชำระที่ขยายออกไปครบกำหนดแล้ว ไปจนกว่าวันที่ได้ชำระเงินค่าสินไหมแล้วเสร็จ</li>
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: สิ่งสำคัญที่คุณควรทราบ
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200713T154955Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <ul>
+        <li>ในบางกรณีอาจต้องใช้เวลามากกว่าปกติและจำเป็นต้องยืดเวลาดำเนินการออกไปอีก เนื่องมาจากเหตุหลายประการ เช่น ประเภทของการเรียกร้องสินไหม ความซับซ้อนในแต่ละกรณี หรือข้อมูลและเอกสารประกอบที่ส่งให้เรามีความครบถ้วนเพียงพอแล้วหรือไม่</li>
+        <li>หากต้องใช้เวลาดำเนินการมากกว่า 15 วัน คุณหรือผู้รับผลประโยชน์จะได้รับหนังสือชี้แจงเหตุผลจากบริษัทฯ โดยเราตั้งเป้าไว้ว่าจะจ่ายค่าสินไหมทดแทนให้คุณภายใน 90 วัน</li>
+        <li>ในกรณีที่การเรียกร้องสินไหมของคุณได้รับการอนุมัติ แต่ยังไม่ได้รับเงินภายใน 90 วันหรือภายในระยะเวลาที่ถูกขยายออกไปซึ่งเราได้แจ้งเวลาไว้ เราจะจ่ายดอกเบี้ยพร้อมค่าสินไหม</li>
+        <li>ดอกเบี้ยจะคำนวณที่อัตราร้อยละ 15 จากค่าสินไหมที่ค้างชำระ นับจากวันแรกหลังจากวันกำหนดชำระที่ขยายออกไปครบกำหนดแล้ว ไปจนกว่าวันที่ได้ชำระเงินค่าสินไหมแล้วเสร็จ</li>
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200713T154955Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: สิ่งสำคัญที่คุณควรทราบ
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200716T062530Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <ul>
+        <li>ในบางกรณีอาจต้องใช้เวลามากกว่าปกติและจำเป็นต้องขยายเวลาดำเนินการออกไปอีก เนื่องมาจากเหตุหลายประการ เช่น ประเภทของการเรียกร้องสินไหม ความซับซ้อนในแต่ละกรณี หรือข้อมูลและเอกสารประกอบที่ส่งให้เรามีความครบถ้วนเพียงพอแล้วหรือไม่</li>
+        <li>หากต้องใช้เวลาดำเนินการมากกว่า 15 วัน คุณหรือผู้รับผลประโยชน์จะได้รับหนังสือชี้แจงเหตุผลจากบริษัทฯ โดยเราตั้งเป้าไว้ว่าจะจ่ายค่าสินไหมทดแทนให้คุณภายใน 90 วัน</li>
+        <li>ในกรณีที่การเรียกร้องสินไหมของคุณได้รับการอนุมัติ แต่ยังไม่ได้รับเงินภายใน 90 วันหรือภายในระยะเวลาที่ถูกขยายออกไปซึ่งเราได้แจ้งเวลาไว้ เราจะจ่ายดอกเบี้ยพร้อมค่าสินไหม</li>
+        <li>ดอกเบี้ยจะคำนวณที่อัตราร้อยละ 15 จากค่าสินไหมที่ค้างชำระ นับจากวันแรกหลังจากวันกำหนดชำระที่ขยายออกไปครบกำหนดแล้ว ไปจนกว่าวันที่ได้ชำระเงินค่าสินไหมแล้วเสร็จ</li>
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200716T062530Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: สิ่งสำคัญที่คุณควรทราบ

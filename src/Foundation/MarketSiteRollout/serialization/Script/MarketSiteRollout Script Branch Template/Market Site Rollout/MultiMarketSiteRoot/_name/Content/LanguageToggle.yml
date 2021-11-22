@@ -1,0 +1,14 @@
+﻿---
+ID: "88323f6c-5a37-4f82-a2b3-c8ce558c3991"
+Parent: "ce80a31f-7111-43f0-a1a5-24c415b6274b"
+Template: "97daaed3-9ad6-4ec2-ac75-2356c91358cb"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/LanguageToggle
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200907T093158Z

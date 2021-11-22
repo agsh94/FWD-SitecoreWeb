@@ -1,0 +1,58 @@
+﻿---
+ID: "b1a5bf1e-7e65-4a7a-a5aa-990b30d99eee"
+Parent: "71bbcb70-32ea-4366-84ec-75fdc0b08d0a"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/premium-payment/local-folder/premium-payment/DropdownItem/Our agent/payment-methods"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Payment Method With Cheque
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200107T090503Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value: 
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Payment methods</strong></p>
+        <p><strong>Cheques</strong></p>
+        <ul>
+            <li>Cheques payable to “FWD Life Insurance Public Company Limited”, cross “A/C Payee only” and “Or Bearer”</li>
+            <li>Specify your policy number/ insured name and contact number on the back of the cheque.</li>
+        </ul>
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Payment Method With Cheque
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T084826Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>วิธีการชำระเงิน</strong></p>
+        <p><strong>เช็ค</strong></p>
+        <ul>
+            <li>สั่งจ่ายเช็คขีดคร่อมในนาม บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) "หรือผู้ถือ"</li>
+            <li>ระบุ "เลขที่กรมธรรม์ / ชื่อ-นามสกุลผู้เอาประกันภัย / หมายเลขโทรศัพท์" ด้านหลังเช็ค</li>
+        </ul>

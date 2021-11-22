@@ -1,0 +1,25 @@
+﻿---
+ID: "3ca433c2-8ff9-4f0c-9c12-fc3affdbc08e"
+Parent: "475c4337-8e61-45ab-8c9e-0607f9cb5552"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/travel-egypt-with-teerada/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T101739Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: หากคุณคือคนหนึ่ง ที่ยิ้มได้ทุกครั้งที่เห็นโปรตั๋วเครื่องบินราคาน่ารัก กด Like ทุกโพสต์ที่เป็นรีวิวเกี่ยวกับการท่องเที่ยว และรู้ปฏิทินวันลาตลอดทั้งปีเป็นอย่างดี จากพฤติกรรมต่างๆ เหล่านี้ บอกเป็นนัยๆ ได้ว่าคุณน่าจะเข้าข่ายเป็น..............&ldquo;คนรักการเดินทาง&rdquo; แน่นอน

@@ -1,0 +1,18 @@
+﻿---
+ID: "161c0fd1-1559-4a39-8a23-82d5e25a0c58"
+Parent: "ce80a31f-7111-43f0-a1a5-24c415b6274b"
+Template: "8d254d4a-bd30-4b07-8fa0-7464260d4bbc"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/HospitalFilterTags
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Hospital Filter Tags
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191102T103851Z

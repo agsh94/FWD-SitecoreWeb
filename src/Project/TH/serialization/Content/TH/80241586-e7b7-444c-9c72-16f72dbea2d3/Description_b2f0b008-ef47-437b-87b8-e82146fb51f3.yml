@@ -1,0 +1,25 @@
+﻿---
+ID: "b2f0b008-ef47-437b-87b8-e82146fb51f3"
+Parent: "80241586-e7b7-444c-9c72-16f72dbea2d3"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/travel-leh-ladakh/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 3600
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T073847Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: <strong>Thiksey</strong> เป็นที่ๆได้รับฉายาว่า <strong>Mini Potala</strong> เนื่องจากผู้สร้างตั้งใจจำลองแบบมาจาก <strong>Potala Palace</strong> ที่ทิเบต ถือเป็นหนึ่งในวัดที่สวยงามที่สุดในแคว้นลาดักห์ สูงถึง 12 ชั้น เล่นเอาเดินหอบเหมือนกัน 555

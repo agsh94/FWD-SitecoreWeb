@@ -1,0 +1,77 @@
+﻿---
+ID: "50ce6ea6-bc59-428f-b68b-5c61557c60f7"
+Parent: "1d409739-ac08-421c-b21d-676ea568c041"
+Template: "c97ba923-8009-4858-bdd5-d8be5fccecf7"
+Path: "/sitecore/media library/FWD/TH/images/Supports/From-current-website/government-savings-bank"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/50ce6ea6bc59428fb68b5c61557c60f7.ashx?h=16&la=th&thn=1&w=16"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200518T124314Z
+    - ID: "3eb149f8-de14-4220-a8f4-9e723cfae5d9"
+      Hint: Extension
+      Value: png
+    - ID: "5be6c122-84c9-4661-a0c9-3718909c8dad"
+      Hint: Size
+      Value: 1847
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "611ba5dd-8d26-4c9b-a95d-900ac94cb32a"
+      Hint: Height
+      Value: 40
+    - ID: "6405cc9e-9ca1-44a1-adf8-0decf05071ce"
+      Hint: Dimensions
+      Value: 70 x 40
+    - ID: "aba5ce58-6d8f-43a4-b4fa-b181651347dd"
+      Hint: Mime Type
+      Value: image/png
+    - ID: "d8e619c3-2d16-47f4-ad3b-c68103df86c2"
+      Hint: Width
+      Value: 70
+    - ID: "dbbe7d99-1388-4357-bb34-ad71edf18ed3"
+      Hint: Blob
+      BlobID: "5d842ad0-cd51-42ae-ac50-02bbbc701a93"
+      Value: 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
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200518T124412Z
+    - ID: "3eb149f8-de14-4220-a8f4-9e723cfae5d9"
+      Hint: Extension
+      Value: png
+    - ID: "5be6c122-84c9-4661-a0c9-3718909c8dad"
+      Hint: Size
+      Value: 1847
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "611ba5dd-8d26-4c9b-a95d-900ac94cb32a"
+      Hint: Height
+      Value: 40
+    - ID: "6405cc9e-9ca1-44a1-adf8-0decf05071ce"
+      Hint: Dimensions
+      Value: 70 x 40
+    - ID: "aba5ce58-6d8f-43a4-b4fa-b181651347dd"
+      Hint: Mime Type
+      Value: image/png
+    - ID: "d8e619c3-2d16-47f4-ad3b-c68103df86c2"
+      Hint: Width
+      Value: 70
+    - ID: "dbbe7d99-1388-4357-bb34-ad71edf18ed3"
+      Hint: Blob
+      BlobID: "33b5f123-439f-477e-bf9b-5072f490ca8c"
+      Value: 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

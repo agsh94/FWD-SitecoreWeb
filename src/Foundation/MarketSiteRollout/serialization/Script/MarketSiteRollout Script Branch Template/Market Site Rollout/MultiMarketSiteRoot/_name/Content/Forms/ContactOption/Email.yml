@@ -1,0 +1,25 @@
+﻿---
+ID: "eebc76b9-273b-4764-99be-1d0967216973"
+Parent: "10454f3f-e8ab-49c4-a1fd-a12ec0025be8"
+Template: "471e5ba2-0ea8-4fe6-9a4f-ea4333b2b57a"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Forms/ContactOption/Email
+DB: master
+SharedFields:
+- ID: "0bb8c93b-a99d-46b3-8e18-fa27970a244c"
+  Hint: key
+  Value: 2
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Email
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191015T112349Z
+    - ID: "b95c8194-e837-46c4-ab8a-a5c6874359cf"
+      Hint: value
+      Value: Email

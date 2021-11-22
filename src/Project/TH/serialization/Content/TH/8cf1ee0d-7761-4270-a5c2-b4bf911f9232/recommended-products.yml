@@ -1,0 +1,57 @@
+﻿---
+ID: "2e244a96-733b-4b7a-85f2-6bc5c106be40"
+Parent: "8cf1ee0d-7761-4270-a5c2-b4bf911f9232"
+Template: "681b61a2-6f52-4119-b8f4-033587eaeacc"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/article-card/Health/local-folder/recommended-products"
+DB: master
+SharedFields:
+- ID: "2bb03f6c-a424-487e-b70e-8b96a004e219"
+  Hint: gaCategoryName
+  Value: GA Product
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{3B19D2B5-AAA3-4FB7-A107-4CEC5F9110F1}"
+- ID: "bd1fe0cc-270d-4276-a07d-da02b962d325"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: |
+    {B69D6574-F28A-4C35-8B76-CC0DB8099D75}
+    {9F39A5D3-BB90-4389-863E-4596F54970EA}
+- ID: "fdd5a7f8-e97a-4737-b3ac-e428d033fd0c"
+  Hint: secondaryNeedTags
+  Type: Multilist
+  Value: |
+    {20F76269-D63E-4C89-8CC3-DD1336CD68FD}
+    {6B082910-E91C-4DD0-9BA4-BDABD3CF350B}
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Recommended Products
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20200206T122542:637165887425974823Z"
+    - ID: "d88ea793-1587-4f65-ae5c-80926cd5438b"
+      Hint: subTitle
+      Value: 
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Related products
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200219T091748Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Related products

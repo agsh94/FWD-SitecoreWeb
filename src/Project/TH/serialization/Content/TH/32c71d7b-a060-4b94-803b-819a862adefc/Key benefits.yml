@@ -1,0 +1,48 @@
+﻿---
+ID: "01622d0f-a082-490c-a5de-b60df4917443"
+Parent: "32c71d7b-a060-4b94-803b-819a862adefc"
+Template: "b35e143d-a4ef-497e-8326-f558715868e4"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/super-care/Super CARE Plan XL/AttributeFolder/Key benefits"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ce1ad82-1fa2-4aff-bca7-f02e23fa1099"
+      Hint: attributeSectionKey
+      Value: "{8E1B7BE5-7873-4D89-87ED-0E244FFF6717}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T045904Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ce1ad82-1fa2-4aff-bca7-f02e23fa1099"
+      Hint: attributeSectionKey
+      Value: "{8E1B7BE5-7873-4D89-87ED-0E244FFF6717}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T121713Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma

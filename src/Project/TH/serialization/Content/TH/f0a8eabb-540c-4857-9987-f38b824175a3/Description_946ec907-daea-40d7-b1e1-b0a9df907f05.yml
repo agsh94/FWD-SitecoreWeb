@@ -1,0 +1,23 @@
+﻿---
+ID: "946ec907-daea-40d7-b1e1-b0a9df907f05"
+Parent: "f0a8eabb-540c-4857-9987-f38b824175a3"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Sport/fitfir-knockout/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T131615Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>ท่าแรก Burpee</strong></p>
+        <p>ท่านี้จะช่วยเบิร์นไขมันได้ดีค่ะ ท่านี้สามารถออกกำลังกายได้ทั้งตัวเลย คือทำแล้วเหงื่อออกเยอะมาก รู้เลยว่ามันช่วยเผาผลาญจริง ร่างกายนี่ร้อนไปหมด นอกจากนี้แล้ว ท่านี้ยังนำไปใช้เพื่อเป็นการวอร์มอัพก่อนออกกำลังหรือใช้เป็นท่าฝึกสำหรับการบริหารแบบเซอร์กิต เทรนนิ่งได้ด้วย เรียกได้ว่าเป็นทั้งท่าออกกำลังกาย และท่าบริหารก่อนเวทเบาๆ ครบจริงๆ</p>

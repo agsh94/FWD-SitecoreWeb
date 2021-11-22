@@ -1,0 +1,58 @@
+﻿---
+ID: "d008c21f-e1c7-4025-81cb-b5cf692bee1d"
+Parent: "1afa0f73-dfb5-4ae2-a85e-d7731d9923e4"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/hospital-benefit/local-folder/HeroBanner"
+DB: master
+SharedFields:
+- ID: "b77299ed-f266-4dc3-94b1-455764394788"
+  Hint: share
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: Hospital Benefit (HB)
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{F2DCFA98-05DB-426B-A20A-CE34FDA40A1C}" cropx="0.38" cropy="0.49" focusx="-0.23684210526315785" focusy="0.015625" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T105950Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{F2DCFA98-05DB-426B-A20A-CE34FDA40A1C}" cropx="0.50" cropy="0.36" focusx="0" focusy="0.28125" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: หายห่วง (เฮชบี)
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{F2DCFA98-05DB-426B-A20A-CE34FDA40A1C}" cropx="0.39" cropy="0.52" focusx="-0.2192982456140351" focusy="-0.046875" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055158Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{F2DCFA98-05DB-426B-A20A-CE34FDA40A1C}" cropx="0.51" cropy="0.36" focusx="0.026315789473684292" focusy="0.28125" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

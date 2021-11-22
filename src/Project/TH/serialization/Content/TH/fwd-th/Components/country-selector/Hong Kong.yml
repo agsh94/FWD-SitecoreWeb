@@ -1,0 +1,51 @@
+﻿---
+ID: "705fb6bf-8708-4aff-aba3-843de80e7577"
+Parent: "524be966-bedc-4a0e-93d3-9a420bb10511"
+Template: "830501f6-6365-41e4-a1ab-b3b143f64b25"
+Path: "/sitecore/content/fwd/fwd-th/Components/country-selector/Hong Kong"
+DB: master
+SharedFields:
+- ID: "3e210d83-0524-40ac-97f5-07502f753671"
+  Hint: isDefault
+  Type: Checkbox
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 125
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Hong Kong
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200226T065859Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="FWD Hong Kong" linktype="external" url="https://www.fwd.com.hk/" anchor="" title="FWD Hong Kong" target="_blank" />
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: Hong Kong
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200314T113919Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="FWD Hong Kong" linktype="external" url="https://www.fwd.com.hk/" anchor="" title="FWD Hong Kong" target="_blank" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value:  ฮ่องกง

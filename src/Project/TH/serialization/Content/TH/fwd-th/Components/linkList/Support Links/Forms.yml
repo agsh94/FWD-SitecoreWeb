@@ -1,0 +1,41 @@
+﻿---
+ID: "4bd0c323-e7a4-4464-b566-5cbd31c5e068"
+Parent: "34d8965a-b446-452d-9b30-a64a1200159a"
+Template: "1d74b3b3-2234-4eac-bd93-d00a35863a01"
+Path: "/sitecore/content/fwd/fwd-th/Components/linkList/Support Links/Forms"
+DB: master
+SharedFields:
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{BD23EE54-ED1C-4202-A7DB-EBCBDFE0EA68}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Forms
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191008T163907Z
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Forms" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T071324Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Forms" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />

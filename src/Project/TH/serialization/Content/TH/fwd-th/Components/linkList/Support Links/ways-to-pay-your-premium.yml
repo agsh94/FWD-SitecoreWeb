@@ -1,0 +1,41 @@
+﻿---
+ID: "1bfeef28-8629-4ba0-9e04-bba72beb81f2"
+Parent: "34d8965a-b446-452d-9b30-a64a1200159a"
+Template: "1d74b3b3-2234-4eac-bd93-d00a35863a01"
+Path: "/sitecore/content/fwd/fwd-th/Components/linkList/Support Links/ways-to-pay-your-premium"
+DB: master
+SharedFields:
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{21858390-0B39-474F-A15B-696B15014FF5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Ways to Pay your Premium
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191008T163907Z
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Find ways to pay your premium " anchor="" linktype="internal" class="" title=""  querystring="" id="{D217816A-00B3-439C-8B2F-42A1037B306A}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T071324Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="วิธีชำระเบี้ยประกัน" anchor="" linktype="internal" class="" title=""  querystring="" id="{D217816A-00B3-439C-8B2F-42A1037B306A}" />

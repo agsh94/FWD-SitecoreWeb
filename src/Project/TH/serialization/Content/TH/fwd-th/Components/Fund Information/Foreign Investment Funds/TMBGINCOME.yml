@@ -1,0 +1,61 @@
+﻿---
+ID: "5cbb4480-22b8-4f60-b7f7-4394f5bd7224"
+Parent: "4a67d2c5-3716-42f9-bdf4-4dc7f8ea08aa"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/Fund Information/Foreign Investment Funds/TMBGINCOME"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T041727Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: TMB Global Income Fund (TMBGINCOME)
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/funds/mutual-funds/funddetails?fundcode=I20'>Fund page</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/FI/Fund%20Insight%20-%20I20_th.pdf'>Fund information summary</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/funds/mutual-funds/funddetails?fundcode=I20'>Prospectus</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/FS/I20_03.pdf'>Fact sheet</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/SAR/I20_h_04.pdf'>Bi-annual report</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/AR/I20_y_04.pdf '>Annual report</a></li>
+        </ul>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T041804Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: กองทุนเปิดทหารไทย Global Income (TMBGINCOME)
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/funds/mutual-funds/funddetails?fundcode=I20'>หน้าหลักกองทุน</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/FI/Fund%20Insight%20-%20I20_th.pdf'>สาระสำคัญ ของกองทุน</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/funds/mutual-funds/funddetails?fundcode=I20'>หนังสือชี้ชวน</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/FS/I20_03.pdf'>หนังสือชี้ชวนส่วนสรุป</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/SAR/I20_h_04.pdf'>รายงาน 6 เดือน</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/AR/I20_y_04.pdf'>รายงานประจำปี</a></li>
+        </ul>

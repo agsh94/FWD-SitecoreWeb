@@ -1,0 +1,70 @@
+﻿---
+ID: "1dca024f-4f63-4824-8ef6-0a82f39956c7"
+Parent: "ce6f58bc-7f41-42e6-b4a5-1189f9a7eb3b"
+Template: "8be97fff-47c2-4fd6-8633-d3ca30ba6d97"
+Path: "/sitecore/content/fwd/fwd-th/Components/customerSupport/Call/Arrange a call"
+DB: master
+SharedFields:
+- ID: "5966c694-da32-4aab-a10a-06e5a50aad86"
+  Hint: supportIcon
+  Value: "{F35ED9FD-AD24-494A-8FB6-33BE8955A85D}"
+- ID: "a09d41ca-93f6-409c-96a9-1341d3719e83"
+  Hint: listType
+  Value: "{A5BEE68C-8E43-4F78-8D15-D42982FD053A}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Arrange a call
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a76c254-ad1c-48b3-8190-f72bca6de64c"
+      Hint: title
+      Value: Arrange a call
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191008T163848Z
+    - ID: "af0fe602-84ae-4056-91da-71d752d562b9"
+      Hint: contactNumber
+      Value: 
+    - ID: "e7a69e3e-57f2-48b8-9fa4-c05823caa4fd"
+      Hint: icon
+      Value: |
+        <image mediaid="{FC7AF7FD-1BE5-4F14-A049-05D6D3248838}" ></image>
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Open contact form" linktype="form" anchor="Open contact form" querystring="bookAnAgent" target="" id="{90D7A8DC-2EBC-4E16-8D0F-E162C7D01EC5}" />
+    - ID: "fce6d7a9-e54d-4693-afc1-d0840fcfc163"
+      Hint: subTitle
+      Value: Send us a few details and we’ll get back to you shortly
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a76c254-ad1c-48b3-8190-f72bca6de64c"
+      Hint: title
+      Value: ติดต่อสอบถาม
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T084050Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "af0fe602-84ae-4056-91da-71d752d562b9"
+      Hint: contactNumber
+      Value: 1351
+    - ID: "e7a69e3e-57f2-48b8-9fa4-c05823caa4fd"
+      Hint: icon
+      Value: |
+        <image mediaid="{FC7AF7FD-1BE5-4F14-A049-05D6D3248838}" />
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Open contact us form" linktype="modelpopup" anchor="Open contact form" querystring="bookAnAgent" target="" id="{90D7A8DC-2EBC-4E16-8D0F-E162C7D01EC5}" />
+    - ID: "fce6d7a9-e54d-4693-afc1-d0840fcfc163"
+      Hint: subTitle
+      Value: ส่งคำถามของคุณมาหาเรา เราจะติดต่อกลับคุณโดยเร็วที่สุด

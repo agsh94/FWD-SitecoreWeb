@@ -1,0 +1,30 @@
+﻿---
+ID: "87872986-12a6-4fcd-a175-6bfbcfd234b1"
+Parent: "d79813a5-ea1a-48e7-876f-3b797b68c918"
+Template: "6d556fd5-15d7-4e09-83dc-02c8e01bf894"
+Path: "/sitecore/content/fwd/fwd-th/Components/Teams/Managers"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{8E353B27-E5F9-4361-B332-9B3557FB7CD8}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T161113Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T042854Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

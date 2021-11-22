@@ -1,0 +1,53 @@
+﻿---
+ID: "bc0bb09c-f4b7-4917-9c39-28d0f54b1aca"
+Parent: "3b298e55-d2f8-43ed-9abc-df4bfc2eb0ef"
+Template: "fda900f6-9525-4905-9911-7f2e30875704"
+Path: "/sitecore/content/fwd/fwd-th/Components/noResultFound/hospital-and-clinic"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Hospital and Clinic
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200303T081127Z
+    - ID: "41ee4022-228e-4f45-b929-c630b81d22de"
+      Hint: icon
+      Value: |
+        <image mediaid="{75F4548C-0D61-4BED-AE2F-AF48259A508A}" />
+    - ID: "436cb83b-e18f-4282-856e-97c8bcef3cec"
+      Hint: title
+      Value: No results found
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "a94a93a8-22d7-44d0-94b3-288886f35fef"
+      Hint: subTitle
+      Value: To see results, please try selecting fewer filters.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200531T172019Z
+    - ID: "41ee4022-228e-4f45-b929-c630b81d22de"
+      Hint: icon
+      Value: |
+        <image mediaid="{75F4548C-0D61-4BED-AE2F-AF48259A508A}" />
+    - ID: "436cb83b-e18f-4282-856e-97c8bcef3cec"
+      Hint: title
+      Value: ไม่พบผลการค้นหา
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a94a93a8-22d7-44d0-94b3-288886f35fef"
+      Hint: subTitle
+      Value: เพื่อผลการค้นหาที่ดีขึ้น กรุณาเลือกตัวกรองที่เฉพาะเจาะจง

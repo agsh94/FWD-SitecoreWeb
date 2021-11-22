@@ -1,0 +1,29 @@
+﻿---
+ID: "015826a8-cada-4cba-9dd5-924253de51d5"
+Parent: "29e2e731-bda2-4825-812a-88823d59a477"
+Template: "0c21e33d-c723-41b1-8525-082686a665fd"
+Path: "/sitecore/content/fwd/fwd-th/Components/Partners/AboutUs"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200410T143800Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200410T143658Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit

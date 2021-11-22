@@ -1,0 +1,67 @@
+﻿---
+ID: "43b3e5a0-f6be-4109-9690-cfc719ab124f"
+Parent: "49815e8c-6362-476e-a764-a217827ee730"
+Template: "f1076e50-7ea9-4ce1-a4da-09f5c71b91e3"
+Path: "/sitecore/content/fwd/fwd-th/Components/CampaignCards/FWD launches a new team to help people live more healthy"
+DB: master
+SharedFields:
+- ID: "76eb0c81-c181-4fb8-b5a8-cbdcb0de9fb2"
+  Hint: link
+  Value: |
+    <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{593FC8B9-78D9-4156-9938-15AF5D8DBE2B}" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-100"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200413T141736Z
+    - ID: "5ca0b426-a772-4ca2-83f7-a402b5674c40"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{68AF00E9-DB10-4725-984F-B45DF3637FB6}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c25bc0d0-1892-4153-ae5d-54f266e1cdfe"
+      Hint: subTitle
+      Value: #DOCTORTALK offers useful information from medical specialists and family physicians
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: FWD launches a new team to help people live healthier lives
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{68AF00E9-DB10-4725-984F-B45DF3637FB6}" cropx="0.64" cropy="0.40" focusx="0.2894736842105263" focusy="0.203125" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200413T141841Z
+    - ID: "5ca0b426-a772-4ca2-83f7-a402b5674c40"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{68AF00E9-DB10-4725-984F-B45DF3637FB6}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c25bc0d0-1892-4153-ae5d-54f266e1cdfe"
+      Hint: subTitle
+      Value: |
+         #DOCTORTALK นำเสนอข้อมูลที่มีประโยชน์ตั้งแต่กลุ่มโรคเรื้อรังไปจนถึงเวชศาสตร์ชะลอวัย โดยผู้เชี่ยวชาญด้านการแพทย์และเวชศาสตร์ครอบครัว #HEALTHYCHALLENGE กิจกรรมส่งเสริมสุขภาพการกิน การออกกำลังกาย โดยนักโภชนาการมืออาชีพ ผู้เข้าร่วมกิจกรรมที่มีผลตรวจสุขภาพดีขึ้น จะได้รับของรางวัล
+        
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: เอฟดับบลิวดี ประกันชีวิต นำเสนอทีมงานใหม่ที่จะส่งเสริมให้ผู้คนมีสุขภาพดี
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{68AF00E9-DB10-4725-984F-B45DF3637FB6}" cropx="0.68" cropy="0.37" focusx="0.368421052631579" focusy="0.265625" />

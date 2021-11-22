@@ -1,0 +1,28 @@
+﻿---
+ID: "e96013e2-e808-446f-9bc5-12219d82dddd"
+Parent: "475c4337-8e61-45ab-8c9e-0607f9cb5552"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/travel-egypt-with-teerada/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T101739Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ซึ่งอาการข้างต้นที่กล่าวไปนั้น สามารถเกิดได้กับทุกคนที่หลงใหล และชื่นชอบกับการได้ออกไปค้นพบความสนุกบนโลกใบใหญ่ เช่นเดียวกันกับบุคคลที่เราจะพาทุกท่านไปทำความรู้จักในวันนี้ เป็นอีกหนึ่งเพจท่องเที่ยวที่มีคนติดตามเป็นหมื่น บอกได้เลยว่า เป็นเพจที่แตกต่างจากเพจเที่ยวแบบที่คุณเคยเห็นมาแน่นอน เพราะรูปสวย แฟชั่นอินเทรนด์ ไปเที่ยวมาแล้วหลายประเทศแทบทุกทวีป และที่สำคัญเจ้าของเพจมี Passion ในการเที่ยวร้อนแรงมากๆ เพจมาแรงนี้ได้แก่ teerada.travels  ไปทำความรู้จักกับเธอได้ใน Club Wednesday  ประจำเดือนนี้กันได้เลย</p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>จุดเริ่มต้นของ teerada.travels</strong></p>

@@ -1,0 +1,61 @@
+﻿---
+ID: "72b42c7c-d670-48e7-8473-919b128f54c0"
+Parent: "49815e8c-6362-476e-a764-a217827ee730"
+Template: "f1076e50-7ea9-4ce1-a4da-09f5c71b91e3"
+Path: "/sitecore/content/fwd/fwd-th/Components/CampaignCards/FWD donated money"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T094602Z
+    - ID: "5ca0b426-a772-4ca2-83f7-a402b5674c40"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{83B973DE-536E-4B5A-A237-311F9E5C26EC}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c25bc0d0-1892-4153-ae5d-54f266e1cdfe"
+      Hint: subTitle
+      Value: "Join our song writer contest – to win the first prize of THB20,000., Our challenge is for you to write creatively about FWD! . "
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: FWD Anthem Contest 2020
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{83B973DE-536E-4B5A-A237-311F9E5C26EC}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T094657Z
+    - ID: "5ca0b426-a772-4ca2-83f7-a402b5674c40"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{1595181C-4E4D-4153-A27B-F617C46178E2}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c25bc0d0-1892-4153-ae5d-54f266e1cdfe"
+      Hint: subTitle
+      Value: มอบเงินบริจาค จำนวน 17,200 บาท และ เสื้อผ้า สิ่งของต่างๆ ให้กับโรงเรียนบ้านผักหย่าและโรงเรียนบ้านไร่ใต้
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: มอบเงิน และสิ่งของ บริจาคฟื้นฟูโรงเรียน น้ำท่วมภาคอีสาน
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{1595181C-4E4D-4153-A27B-F617C46178E2}" />

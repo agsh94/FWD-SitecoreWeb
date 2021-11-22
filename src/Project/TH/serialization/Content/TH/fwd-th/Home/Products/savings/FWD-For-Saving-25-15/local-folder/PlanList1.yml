@@ -1,0 +1,127 @@
+﻿---
+ID: "555bdcc4-f95e-4190-b711-1e8cc38ef49f"
+Parent: "ab8fc8b3-08dc-4459-a9be-03a6c4dc8208"
+Template: "175e0994-9695-4a52-9837-b6e9f53d9d56"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/savings/FWD-For-Saving-25-15/local-folder/PlanList1"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {CC866566-6B97-4BDC-814E-353B4D5DC8C0}
+    {C63EF700-7CE7-4315-9A86-80B0F028CC43}
+    {17F05B4D-4E1A-4598-AFD0-EB05D76D5F68}
+- ID: "31ed2cdd-191f-4c8e-94fe-71b04431ef3b"
+  Hint: planCards
+  Type: Multilist
+  Value: "{CCF60B9A-B59B-4A07-924E-404BC93C6F1C}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "048c3952-ef2e-455f-9a0d-4d9e9073bea9"
+      Hint: calculateLink
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191111T100302Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "40610ec3-80f6-4071-92c3-3df8c6dc0a93"
+      Hint: title
+      Value: Buy online
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+    - ID: "f55de024-97c9-4db0-abf7-23bc3e35a96e"
+      Hint: subTitle
+      Value: Quick, easy protection. Take a closer look at the details, and when you’re ready to buy, we’ll get you covered immediately.
+  - Version: 2
+    Fields:
+    - ID: "048c3952-ef2e-455f-9a0d-4d9e9073bea9"
+      Hint: calculateLink
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200811T091100Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "40610ec3-80f6-4071-92c3-3df8c6dc0a93"
+      Hint: title
+      Value: Plans
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200811T091100Z
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+    - ID: "f55de024-97c9-4db0-abf7-23bc3e35a96e"
+      Hint: subTitle
+      Value: Take a look at our plans, and then make an enquiry to find out more.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "048c3952-ef2e-455f-9a0d-4d9e9073bea9"
+      Hint: calculateLink
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200113T134055Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "40610ec3-80f6-4071-92c3-3df8c6dc0a93"
+      Hint: title
+      Value: ซื้อออนไลน์
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+    - ID: "f55de024-97c9-4db0-abf7-23bc3e35a96e"
+      Hint: subTitle
+      Value: ความคุ้มครองที่ง่ายและรวดเร็ว เพียงดูรายละเอียดเพิ่มเติม และเมื่อคุณพร้อมที่จะซื้อ เราก็พร้อมดูแลคุณในทันที
+  - Version: 2
+    Fields:
+    - ID: "048c3952-ef2e-455f-9a0d-4d9e9073bea9"
+      Hint: calculateLink
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200811T091213Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "40610ec3-80f6-4071-92c3-3df8c6dc0a93"
+      Hint: title
+      Value: แผนประกัน
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200811T091213Z
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+    - ID: "f55de024-97c9-4db0-abf7-23bc3e35a96e"
+      Hint: subTitle
+      Value: ดูแผนประกันที่เหมาะกับคุณ และสอบถาม หากต้องการรายละเอียดเพิ่มเติม

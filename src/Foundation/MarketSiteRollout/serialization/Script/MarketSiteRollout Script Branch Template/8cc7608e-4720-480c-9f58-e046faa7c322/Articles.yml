@@ -1,0 +1,18 @@
+﻿---
+ID: "7c070ead-3222-4435-bc3b-439712c9b613"
+Parent: "8cc7608e-4720-480c-9f58-e046faa7c322"
+Template: "8d254d4a-bd30-4b07-8fa0-7464260d4bbc"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Tags/commonTags/contentSubtype/Articles
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191101T173015Z

@@ -1,0 +1,58 @@
+﻿---
+ID: "3371518c-d1bc-4806-a850-1f8e9f8ea8b4"
+Parent: "e29d49b1-4057-43e1-a9b2-4715f19597cf"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/how-to-surrender-policy/local-folder/HeroBanner"
+DB: master
+SharedFields:
+- ID: "b77299ed-f266-4dc3-94b1-455764394788"
+  Hint: share
+  Type: Checkbox
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: How to surrender your policy
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{1E6D3128-E555-47AB-B7E2-525983414F3A}" cropx="0.63" cropy="0.47" focusx="0.2543859649122806" focusy="0.0625" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200323T123306Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{1E6D3128-E555-47AB-B7E2-525983414F3A}" cropx="0.57" cropy="0.40" focusx="0.14035087719298245" focusy="0.203125" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: ขั้นตอนการเวนคืนกรมธรรม์
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{1E6D3128-E555-47AB-B7E2-525983414F3A}" cropx="0.62" cropy="0.48" focusx="0.2456140350877194" focusy="0.03125" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200510T062803Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{1E6D3128-E555-47AB-B7E2-525983414F3A}" cropx="0.58" cropy="0.38" focusx="0.16666666666666674" focusy="0.25" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit

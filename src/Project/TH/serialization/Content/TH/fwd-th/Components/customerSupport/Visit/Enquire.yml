@@ -1,0 +1,60 @@
+﻿---
+ID: "a27903b6-13a8-4e68-b3d2-02dd813e0206"
+Parent: "c4118b5c-975e-4c13-a9e8-71283e66dbfe"
+Template: "655f3eab-2573-4aba-9eae-e93741fae0b9"
+Path: "/sitecore/content/fwd/fwd-th/Components/customerSupport/Visit/Enquire"
+DB: master
+SharedFields:
+- ID: "14060f95-7b61-4164-8f82-1d87c980edb9"
+  Hint: supportIcon
+  Value: "{CA7B3CE9-8A9D-4441-900D-217410B194A0}"
+- ID: "a09d41ca-93f6-409c-96a9-1341d3719e83"
+  Hint: listType
+  Value: "{F281AF72-FA4B-4F87-98F1-4B9D77180E60}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200120T092436Z
+    - ID: "5895aae2-ca68-4b63-83d6-f835c2d94ec5"
+      Hint: subTitle
+      Value: Send us a question
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "68b9b7c2-e820-4b57-9e40-f73816d6dbec"
+      Hint: icon
+      Value: |
+        <image mediaid="{FC7AF7FD-1BE5-4F14-A049-05D6D3248838}" ></image>
+    - ID: "b0ec22ca-d046-4211-90bd-d498a5bcfe92"
+      Hint: title
+      Value: Enquire
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Enquire" linktype="form" querystring="enquiry" target="" id="{136AA02C-41C6-4E79-88E1-7893B161A37F}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T065154Z
+    - ID: "5895aae2-ca68-4b63-83d6-f835c2d94ec5"
+      Hint: subTitle
+      Value: Send us a question
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "68b9b7c2-e820-4b57-9e40-f73816d6dbec"
+      Hint: icon
+      Value: |
+        <image mediaid="{FC7AF7FD-1BE5-4F14-A049-05D6D3248838}" ></image>
+    - ID: "b0ec22ca-d046-4211-90bd-d498a5bcfe92"
+      Hint: title
+      Value: Enquire

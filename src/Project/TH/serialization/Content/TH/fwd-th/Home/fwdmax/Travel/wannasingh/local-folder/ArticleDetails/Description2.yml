@@ -1,0 +1,27 @@
+﻿---
+ID: "cfe4ab30-0f3d-4271-ab7a-aa95b06d20ee"
+Parent: "22f44118-ec11-4fca-a118-bb1dbb07887a"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/wannasingh/local-folder/ArticleDetails/Description2"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T123322Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>กว่าจะมาเป็นเถื่อน&nbsp; Travel</strong></p>
+        <p>เถื่อน Travel นี่มันมีความหมายกับเรามาก ทำรายการมาสัก 10 กว่าปีแล้วนะครับ ตั้งแต่อายุ 17 ปี นี่น่าจะเป็นรายการที่ 20 หรือ 30 แล้วจำไม่ได้เหมือนกัน แต่เป็นรายการที่รักที่สุด และเป็นตัวของตัวเองที่สุด คือรายการนี้อยู่ดีๆ มันไม่ได้เกิดขึ้น มันเป็นผลพวงจากความตั้งใจและความฝันมานานหลายปีมากๆ อย่างแรกเลยคือที่มาของรายการเนี่ยจริงๆ มันไม่ใช่แค่แบบคิดว่าไปดีกว่าแอฟริกา อัฟกานิสถาน มันเป็นสิ่งที่ตั้งใจจริงและเป็นสิ่งที่อยากทำมานานมากแล้ว กว่าจะเป็นรายการนี้ได้เราล้มเหลวมาหลายครั้ง ทั้งเสนอไม่ผ่าน หางบไม่ได้ กว่าจะมีรายการนี้ได้ เราต้องสู้มาพอสมควร</p>

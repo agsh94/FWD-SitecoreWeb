@@ -1,0 +1,18 @@
+﻿---
+ID: "0c6bc043-4b49-435c-962e-684416487873"
+Parent: "7dbd04ee-d988-4c7f-a70e-364ec33ef09f"
+Template: "fff5f245-ffc0-4022-a998-9b07aa5e761f"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/forms/local-folder"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-1000"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200708T093009Z

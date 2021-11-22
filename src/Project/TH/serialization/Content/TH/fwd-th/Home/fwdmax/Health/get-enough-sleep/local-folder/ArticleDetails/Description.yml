@@ -1,0 +1,33 @@
+﻿---
+ID: "531e6524-44ff-45ab-a901-a87a52fad34c"
+Parent: "ed14fba4-1990-438c-849f-e140467e577c"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/get-enough-sleep/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200928T080215Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>5. เจ็บป่วยบ่อย</strong><br />
+        การนอนหลับพักผ่อนเป็นการฟื้นฟูซ่อมแซมตัวเอง ซึ่งหากใช้เวลานอนไปทำกิจกรรมอื่นๆ เท่ากับเป็นการแย่งเวลาพักฟื้นของร่างกาย ทำให้ฮอร์โมนหลั่งผิดปกติ ฮอร์โมนที่ดีหลั่งได้น้อยลง ภูมิคุ้มกันต่ำตามไปด้วย จึงไวต่อเชื้อโรค เกิดความเจ็บป่วยได้ง่าย</p>
+        <p>&nbsp;</p>
+        <p><strong>หนทางสู่การนอนหลับที่มีคุณภาพ</strong><br />
+        เมื่อเอนตัวลงนอนแล้วให้หยุดคิดเรื่องที่เครียด ไม่สบายใจ ดังนั้นก่อนนอน ลองเขียนสิ่งที่ทำให้คุณไม่สบายใจ อะไรที่เราแก้ไขได้ และอะไรที่เราแก้ไขไม่ได้ เรื่องที่แก้ไขไม่ได้เราต้องเรียนรู้ที่จะปล่อยวาง จัดการกับความทุกข์ อย่ายึดติดกับเรื่องที่ทำให้เราเป็นทุกข์ และหาเวลาพักผ่อนบ้าง จะช่วยให้ผ่อนคลายและหลับได้อย่างเพียงพอและมีคุณภาพมากขึ้น</p>

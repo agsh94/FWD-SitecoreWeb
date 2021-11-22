@@ -1,0 +1,45 @@
+﻿---
+ID: "42bbdfb0-a29e-4a94-af4d-086432995897"
+Parent: "73cfbf4e-31ab-490d-96e4-a800f8136a2f"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Accident/local-folder/ContentBlock"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T072044Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "Every day brings new challenges. And at FWD we want our customers to celebrate living –allowing yourself to be as brave and bold as you want to be. Because if the unexpected happens, we’ll be there to catch you. Our accident plans have built-in cover for a range of budgets, and eventualities."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdtestauthor
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Let us be your trusted safety net 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T134653Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: เพราะชีวิตมีเรื่องท้าทายใหม่ๆ ตลอดเวลา เอฟดับบลิวดีจึงพร้อมให้คุณเฉลิมฉลองการใช้ชีวิต ด้วยความกล้าและแกร่งในแบบของคุณ เราพร้อมเคียงข้างหากเกิดเหตุไม่คาดฝัน ด้วยประกันอุบัติเหตุที่ออกแบบมาอย่างครอบคลุมทุกงบประมาณและเหตุการณ์ที่ไม่คาดฝันทุกรูปแบบ
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: กับความคุ้มครองที่คุณเชื่อใจได้มากที่สุด 

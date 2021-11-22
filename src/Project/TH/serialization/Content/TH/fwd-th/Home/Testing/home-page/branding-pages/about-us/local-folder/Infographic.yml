@@ -1,0 +1,74 @@
+﻿---
+ID: "6ec63079-f5da-4590-a04d-ef966dbdcb3e"
+Parent: "43ea64d6-c83f-4929-9e2d-35336d45d917"
+Template: "293fa631-49cc-4fce-baf8-de80b6230a68"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/about-us/local-folder/Infographic"
+DB: master
+SharedFields:
+- ID: "0f358955-3a03-40b2-b4ca-bd993cadc8b6"
+  Hint: buttonIcon
+  Value: "{2824BF82-5653-4D87-8986-BA0E65644389}"
+- ID: "bf45035b-b8e5-40ec-bc82-d0d7eeb23954"
+  Hint: imageAlignment
+  Value: "{2C69CF5E-4D54-4BA2-967A-EF22E91A63B1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ee49dd2-9834-4aec-a9e3-b9403125b8c9"
+      Hint: buttonText
+      Value: Expand Diagram
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200525T021037Z
+    - ID: "3c5186ed-dbd7-4430-b6d9-ca388602a018"
+      Hint: title
+      Value: Infographic
+    - ID: "7a85eb46-2733-406c-9942-0e415bdd6c5e"
+      Hint: infographicImage
+      Value: |
+        <image mediaid="{729D08C1-7A8E-4AE1-B367-F33D3D8D5F61}" />
+    - ID: "86ca21ca-d795-4158-aefc-30808ec4edae"
+      Hint: description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - ID: "98af5575-9485-44c6-9c6c-4cc4336a4367"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{729D08C1-7A8E-4AE1-B367-F33D3D8D5F61}" />
+    - ID: "ea95a986-f3a6-4ea1-b2ff-0b4410968aab"
+      Hint: image
+      Value: |
+        <image mediaid="{729D08C1-7A8E-4AE1-B367-F33D3D8D5F61}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ee49dd2-9834-4aec-a9e3-b9403125b8c9"
+      Hint: buttonText
+      Value: Expand Diagram
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200525T021205Z
+    - ID: "3c5186ed-dbd7-4430-b6d9-ca388602a018"
+      Hint: title
+      Value: "Infographic - TH"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7a85eb46-2733-406c-9942-0e415bdd6c5e"
+      Hint: infographicImage
+      Value: |
+        <image mediaid="{729D08C1-7A8E-4AE1-B367-F33D3D8D5F61}" />
+    - ID: "86ca21ca-d795-4158-aefc-30808ec4edae"
+      Hint: description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - ID: "98af5575-9485-44c6-9c6c-4cc4336a4367"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{729D08C1-7A8E-4AE1-B367-F33D3D8D5F61}" />
+    - ID: "ea95a986-f3a6-4ea1-b2ff-0b4410968aab"
+      Hint: image
+      Value: |
+        <image mediaid="{729D08C1-7A8E-4AE1-B367-F33D3D8D5F61}" />

@@ -1,0 +1,24 @@
+﻿---
+ID: "3d74a74c-da9f-47c0-9da1-216fa4387214"
+Parent: "a6f4b469-9ac2-4e79-b242-4d4a6c0eb8ac"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/section-timeline/local-folder/Our Vision"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200422T060546Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: เอฟดับบลิวดี เราคือบริษัทประกันชีวิตที่แตกต่าง เพราะเรายึดลูกค้าเป็นศูนย์กลางและขับเคลื่อนด้วยเทคโนโลยี พร้อมวิสัยทัศน์ที่ต้องการเปลี่ยนมุมมองของผู้คนที่มีต่อการประกันชีวิต เราจึงออกแบบผลิตภัณฑ์รูปแบบใหม่เพื่อให้คุณเข้าใจง่าย ซื้อง่าย และเคลมง่าย นี่อาจจะไม่ใช่วิถีของประกันทั่วไป แต่เพราะเราคือบริษัทประกันแนวใหม่ ที่พร้อมให้คุณออกไปใช้ชีวิต
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shiagnih
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: วิสัยทัศน์ของเรา

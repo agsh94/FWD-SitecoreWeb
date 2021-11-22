@@ -1,0 +1,131 @@
+﻿---
+ID: "7eb7d219-108d-42a9-ac2d-2e93f3752928"
+Parent: "af5ba7a2-85d2-42d5-aa34-91d9041fb3d4"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/premium-payment/local-folder/premium-payment/DropdownItem/FWD head office or branches/opening-hours"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Opening hours
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200107T090423Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Opening hours</strong></p>
+        <p>Our customer service payment counters are open Mon-Fri 8:30am&ndash;5:00pm.</p>
+        <br />
+        <p>On Saturday our opening hours vary:</p>
+        <ul>
+            <li>Head office in Bangkok: closed</li>
+            <li>Ratchada branch: 9:00am-3:30pm </li>
+            <li>All other branch offices: 8:30am-12.00pm</li>
+        </ul>
+        <p>&nbsp;</p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200918T040351Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Opening hours</strong></p>
+        <p>Our customer service payment counters are open Mon-Fri 8:30am&ndash;5:00pm.</p>
+        <br />
+        <p>On Saturday our opening hours vary:</p>
+        <ul>
+            <li>unfortunately, our Bangkok head office and All Seasons Place Bangkok branch are closed on a Saturdays</li>
+            <li>Ratchada branch: 9:00am-3:30pm </li>
+            <li>All other branch offices: 8:30am-12.00pm</li>
+        </ul>
+        <p>&nbsp;</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200918T040351Z
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Opening hours
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T084822Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>เวลาทำการ</strong></p>
+        <p>ศูนย์บริการลูกค้าเอฟดับบลิวดี เคาน์เตอร์ศูนย์บริการ เปิดบริการ วันจันทร์ - ศุกร์ เวลา 8.30 &ndash; 17.00 น.</p><br />
+        <p>เวลาทำการในวันเสาร์ตามสาขา ดังนี้</p>
+        <ul>
+            <li>สำนักงานใหญ่ กรุงเทพฯ ปิดทำการ</li>
+            <li>เคาน์เตอร์สาขารัชดา เปิดบริการ เวลา 9.00 - 15.30 น.</li>
+            <li>เคาน์เตอร์สาขาอื่น เปิดบริการ เวลา 8.30 &ndash; 12.00 น.</li>
+        </ul>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200918T040843Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>เวลาทำการ</strong></p>
+        <p>ศูนย์บริการลูกค้าเอฟดับบลิวดี เคาน์เตอร์ศูนย์บริการ เปิดบริการ วันจันทร์ - ศุกร์ เวลา 8.30 &ndash; 17.00 น.</p>
+        <br />
+        <p>เวลาทำการในวันเสาร์ตามสาขา ดังนี้</p>
+        <ul>
+            <li><span style="color: black;">สำนักงานใหญ่ กรุงเทพฯ และสาขาออล ซีซั่นส์ ปิดทำการทุกวันเสาร์&nbsp;</span></li>
+            <li>เคาน์เตอร์สาขารัชดา เปิดบริการ เวลา 9.00 - 15.30 น.</li>
+            <li>เคาน์เตอร์สาขาอื่น เปิดบริการ เวลา 8.30 &ndash; 12.00 น.</li>
+        </ul>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200918T040843Z

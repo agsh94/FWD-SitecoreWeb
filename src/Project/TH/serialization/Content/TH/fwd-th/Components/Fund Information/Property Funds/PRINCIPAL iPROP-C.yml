@@ -1,0 +1,58 @@
+﻿---
+ID: "a30ba29f-a149-466e-8ada-5354a8535eec"
+Parent: "c5590292-3f54-45bd-ba3b-365e7338c2e9"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/Fund Information/Property Funds/PRINCIPAL iPROP-C"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T042232Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "Principal Property Income Fund C (PRINCIPAL iPROP-C)"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.principal.th/principal/iPROP-C'>Fund page</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_PRINCIPAL_iPROP_FFS.pdf'>Fund information summary</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_PRINCIPAL_iPROP_Prospectus_Full.pdf'>Prospectus</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_PRINCIPAL_iPROP_Prospectus_Mini.pdf'>Fact sheet</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_Interim_Report_iPROP.pdf'>Bi-annual report</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_iPROP_Annual_Report.pdf'>Annual report</a></li>
+        </ul>
+        
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T042320Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "กองทุนเปิดพรินซิเพิล พร็อพเพอร์ตี้ อินคัม-ชนิดผู้ลงทุนกลุ่ม (PRINCIPAL iPROP-C)"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.principal.th/principal/iPROP-C'>หน้าหลักกองทุน</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_PRINCIPAL_iPROP_FFS.pdf'>สาระสำคัญ ของกองทุน</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_PRINCIPAL_iPROP_Prospectus_Full.pdf'>หนังสือชี้ชวน</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_PRINCIPAL_iPROP_Prospectus_Mini.pdf'>หนังสือชี้ชวนส่วนสรุป</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_Interim_Report_iPROP.pdf'>รายงาน 6 เดือน</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_iPROP_Annual_Report.pdf'>รายงานประจำปี</a></li>
+        </ul>

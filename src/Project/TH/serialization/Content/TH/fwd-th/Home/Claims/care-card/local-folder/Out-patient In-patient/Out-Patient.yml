@@ -1,0 +1,39 @@
+﻿---
+ID: "c4b9c100-be14-43ac-a97c-de408f20c93d"
+Parent: "25f9b384-e609-4590-88cc-0b6a3bbacdef"
+Template: "7cd51b29-32c8-44bd-9afc-a2d5587d611c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/care-card/local-folder/Out-patient In-patient/Out-Patient"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T075526Z
+    - ID: "2f5a22b8-fc21-4f5e-9046-64bc79c4ae0c"
+      Hint: title
+      Value: "Out-Patient"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T081029Z
+    - ID: "2f5a22b8-fc21-4f5e-9046-64bc79c4ae0c"
+      Hint: title
+      Value: กรณีผู้ป่วยนอก
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph

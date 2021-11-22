@@ -1,0 +1,72 @@
+﻿---
+ID: "31fc7cb5-2bab-40a9-b376-b4a678a43bd8"
+Parent: "1ec33c06-6146-4aac-9359-2860aa289542"
+Template: "68016eee-7ce8-453d-9b04-20bcd42da406"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Investments/Fund Information/local-folder/quick-links"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Quick Links
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191021T142948Z
+    - ID: "d7fa80f1-d6d1-4ddd-9366-fd4a9c39b13a"
+      Hint: title
+      Value: "Looking for an SCB unit linked policy?"
+    - ID: "e5d5024c-a73c-4218-a3ce-0ec1d13276bc"
+      Hint: listItems
+      Value: "{0165A4D6-D20C-4EE0-92CB-95F852C93F65}|{059BCD0F-C66F-49C7-A8CA-70C9C8B0B245}|{B3A7188D-10D1-481D-80E3-5E3F48FA1329}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200213T061254Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d7fa80f1-d6d1-4ddd-9366-fd4a9c39b13a"
+      Hint: title
+      Value: สิ่งที่คุณอาจมองหา
+    - ID: "e5d5024c-a73c-4218-a3ce-0ec1d13276bc"
+      Hint: listItems
+      Value: "{1BFEEF28-8629-4BA0-9E04-BBA72BEB81F2}|{D5968F21-419A-4109-B2DE-7BC876269720}|{A3450E19-A7BE-4B56-A984-D9680767AD8E}|{671573DF-9CDA-44DB-8E19-15877E57CCFA}|{49F10F3C-307C-49A7-A361-B52E0AC73EE1}|{69791424-02C9-42D5-A751-B1D1B00372F6}"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200903T051814Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200903T051814Z
+    - ID: "d7fa80f1-d6d1-4ddd-9366-fd4a9c39b13a"
+      Hint: title
+      Value: ข้อมูลกองทุนกรมธรรม์ยูนิตลิงค์ ที่ซื้อผ่านธนาคารไทยพาณิชย์
+    - ID: "e5d5024c-a73c-4218-a3ce-0ec1d13276bc"
+      Hint: listItems
+      Value: "{0165A4D6-D20C-4EE0-92CB-95F852C93F65}|{059BCD0F-C66F-49C7-A8CA-70C9C8B0B245}|{B3A7188D-10D1-481D-80E3-5E3F48FA1329}"

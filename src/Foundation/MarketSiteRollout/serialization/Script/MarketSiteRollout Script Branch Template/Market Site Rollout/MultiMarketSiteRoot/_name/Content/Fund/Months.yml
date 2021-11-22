@@ -1,0 +1,22 @@
+﻿---
+ID: "cb25345e-2d67-450b-b335-cc78f21e557c"
+Parent: "08f02a42-36a7-4f94-914e-0ce4f30a9200"
+Template: "d46d168b-e646-4d2c-9bc1-2e041f6f5add"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Fund/Months
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201006T143047Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

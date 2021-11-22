@@ -1,0 +1,148 @@
+﻿---
+ID: "68b8d22e-7f52-4e8a-9585-b87058f0df66"
+Parent: "d56fabd9-6ec2-4b39-88dd-10e5b34ef75d"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: "/sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Functions/Global-Functions"
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    function Get-Languages {
+    	
+    	begin {
+    		Write-Verbose "Cmdlet Get-Languages - Begin"
+    	}
+    
+    	process {
+    		Write-Verbose "Cmdlet Get-Languages - Process"
+    		$languages = @()
+    		$systemLanguages = Get-ChildItem -Path "master:\system\Languages" -Recurse 
+    		$systemLanguages | % {
+    			Write-Log $_.ID
+    			Write-Log $_.DisplayName
+    			Write-Host ($_ | Format-List | Out-String)
+    			$properties = @{
+    				key = $_.Name
+    				value = $_.DisplayName
+    			}
+    			$languages+= New-Object psobject -Property $properties;
+    			Write-Host ($languages | Format-Table | Out-String)
+    		}
+    		$languages
+    	}
+    
+    	end {
+    		Write-Verbose "Cmdlet Get-Languages - End"
+    	}
+    }
+    
+    function Get-ItemInsertOptions {
+    	[CmdletBinding()]
+        param(
+            [Parameter(Mandatory = $true, Position = 0 )]
+            [Item]$Item
+        )
+    	begin {
+    		Write-Verbose "Cmdlet Get-ItemInsertOptions - Begin"
+    	}
+    	process {
+    	
+    		$moduleOptions = New-Object System.Collections.Specialized.OrderedDictionary
+    		$insertOptions = $Item["__Masters"].Split("|")
+    		
+    		$insertOptions | % {
+    			$insertOptionItem = Get-Item -Path "master:" -ID $_
+    			$moduleOptions.Add($insertOptionItem.Name, $_)
+    		}	
+    		$moduleOptions
+    	}
+    	end {
+    		Write-Verbose "Cmdlet Get-ItemInsertOptions - End"
+    	}
+    }
+    
+    function Get-OrderedDictionaryByKey {
+    	[CmdletBinding()]
+        param(
+            [Parameter(Mandatory=$true, Position=0 )]
+            [System.Collections.Specialized.OrderedDictionary]$dictionary
+    	)
+    
+    	begin {
+    		Write-Verbose "Cmdlet Get-OrderedDictionaryByKey - Begin"
+    	}
+    
+    	process {
+    		Write-Verbose "Cmdlet Get-OrderedDictionaryByKey - Process"
+            $temp = New-Object System.Collections.Specialized.OrderedDictionary
+            $dictionary.GetEnumerator() | sort key | % { $temp.Add($_.key,$_.value) }
+            $temp        
+    	}
+    	end {
+    		Write-Verbose "Cmdlet Get-OrderedDictionaryByKey - End"
+    	}
+    }
+    
+    function Update-PresentationDetails {
+    	[CmdletBinding()]
+        param(
+            [Parameter(Mandatory=$true, Position=0 )]
+            [Item]$siteItem,
+    		
+    		[Parameter(Mandatory=$true, Position=1 )]
+            [string]$language
+    	)
+    
+    	begin {
+    		Write-Verbose "Cmdlet Update-PresentationDetails - Begin"
+    	}
+    	process {
+    		Write-Verbose "Cmdlet Update-PresentationDetails - Process"
+    		Get-ChildItem -Item $siteItem -Language $language -Recurse | ForEach-Object {
+    						$renderingInstance = Get-Rendering -Item $_ -Rendering $rendering
+    						if($renderingInstance){
+    						Write-Log "A"
+    							for($i=0; $i -lt $renderingInstance.Length; $i++){
+    								$currentID = $renderingInstance[$i].datasource
+    								Write-Log "B"
+    								[bool] $run = 0
+    								if( -not ([string]::IsNullOrEmpty($currentID)) -and $currentID.Contains("query:./ancestor::*[@@templateid='{544A6BB2-03FF-404F-889F-225D92310585}']")){
+    									Write-Log "C"
+    									$run = 1
+    									$newPath = $currentID.Replace("query:./ancestor::*[@@templateid='{544A6BB2-03FF-404F-889F-225D92310585}']", $siteItem.ItemPath)
+    								}elseif(-not ([string]::IsNullOrEmpty($currentID))){
+    								Write-Log "D"
+    									$currentItem= Get-Item  -Path "master:" -ID $currentID
+    									$currentItemPath = $currentItem.ItemPath
+    									if($currentItemPath.StartsWith("/sitecore/templates/Branches/FWD")){
+    										$run = 1
+    Write-Log $currentItemPath
+    										$localfolderIndex = $currentItemPath.IndexOf('local-folder')
+    										$localFolderPath = $currentItemPath.Substring($localfolderIndex)
+    										$currentItemPath = $_.ItemPath
+    										$newPath = $currentItemPath + "/" + $localFolderPath
+    									}
+    								}
+    								Write-Log $newPath
+    								if($run){
+    									$newItem = Get-Item -path $newPath
+    									$renderingInstance[$i].datasource = $newItem.ID
+    									Set-Rendering -Item $_ -Instance $renderingInstance[$i]
+    								}
+    							}
+    						}
+    					}
+    	}
+    	end {
+    		Write-Verbose "Cmdlet Update-PresentationDetails - End"
+    	}
+    }
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T134503Z

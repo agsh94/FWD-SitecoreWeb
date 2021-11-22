@@ -1,0 +1,35 @@
+﻿---
+ID: "ef123e24-6797-4661-aad2-95cf1dfefd38"
+Parent: "802d9514-9987-48ef-8939-949f6550a49b"
+Template: "165eb176-0965-4ac3-b298-44d3e61ab273"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Invest/exchange-rate-fund-valuations/local-folder/fund-prices/fund-value"
+DB: master
+SharedFields:
+- ID: "195aba5f-7781-4b70-b96c-efd5bf02772f"
+  Hint: columnWidth
+  Value: 12
+- ID: "524ba713-14be-4baf-a5dc-5753c337476e"
+  Hint: fundApiColumn
+  Type: Multilist
+  Value: "{8F6B3036-DBE7-4B88-A1C2-21DB8E4A273D}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Fund value
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201009T132955Z
+    - ID: "75ce01a6-d1a8-4734-b771-b5a1ffc9d255"
+      Hint: columnLabel
+      Value: Fund value
+- Language: id
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Fund Value
+  Versions:

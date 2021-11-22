@@ -1,0 +1,87 @@
+﻿---
+ID: "f8831485-5448-40b3-ba89-55c2bcf0d3c4"
+Parent: "3cd9cc7a-47da-4031-959a-59d4bf349c81"
+Template: "14cf212d-7cf4-41aa-b50b-24d748a87556"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/local-folder/FAQsAccordionNew"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "f973c399-5998-47a5-ae48-760ebed901b1"
+  Hint: faqItems
+  Value: "{7A35112C-41F2-4ED5-A780-EA9AF856C698}|{8B1D4927-F386-4601-8BE6-5302D0C425EC}|{7278B1B3-A76B-46BB-898E-6869FCBFA206}|{C362184B-70BB-486B-AD6E-F1ED2ECED7E5}|{9894E5F5-8BC0-493E-8EB2-1DF51360038D}|{1DA2E2AB-D3AF-4D25-92CF-B9947D5DC2BD}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200515T143753Z
+    - ID: "45e2df09-7d41-4b33-b7f1-f6d4bb8ba530"
+      Hint: description
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdtestauthor
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See more FAQs" anchor="" linktype="internal" class="" title=""  querystring="" id="{4D410CCC-DDD8-456C-B317-FD8D00637F32}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: Frequently Asked Questions
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T172808Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "45e2df09-7d41-4b33-b7f1-f6d4bb8ba530"
+      Hint: description
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ดูคำถามทั้งหมด" anchor="" linktype="internal" class="" title=""  querystring="" id="{4D410CCC-DDD8-456C-B317-FD8D00637F32}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: คำถามที่พบบ่อย
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200927T155801Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "45e2df09-7d41-4b33-b7f1-f6d4bb8ba530"
+      Hint: description
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Chaiyawat
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200927T155801Z
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ดูคำถามทั้งหมด" anchor="" linktype="internal" class="" title=""  querystring="" id="{4D410CCC-DDD8-456C-B317-FD8D00637F32}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: คำถามที่พบบ่อย

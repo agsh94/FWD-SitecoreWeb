@@ -1,0 +1,163 @@
+﻿---
+ID: "a446783f-4b78-42d0-a902-0e9c2bf27ed4"
+Parent: "b06fcbbe-d82f-45e6-8cf6-9907c875b081"
+Template: "963bf11a-111f-438f-985d-bf4b08c65f96"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health"
+DB: master
+SharedFields:
+- ID: "3f9cc6f8-f003-47f4-8b4f-4d0137163bea"
+  Hint: contentType
+  Value: "{4FE0A16D-285F-4C41-9BFA-A1343B036CDF}"
+- ID: "61cf7151-0cbd-4db4-9738-d753a55a6e65"
+  Hint: __Enforce version presence
+  Type: Checkbox
+  Value: 1
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: "{FB2C4A8A-0593-44B7-B7C4-AE07AF4F8BB2}"
+- ID: "be4e2ad7-6327-4c2f-9fe1-dbe9a2463c90"
+  Hint: subtype
+  Value: "{16E100BB-C6E3-4C43-9770-45802CE9161F}"
+- ID: "d37288ed-2037-4fe1-af04-e0a3b6fc4db8"
+  Hint: topics
+  Type: Multilist
+  Value: "{27B45F29-DD3F-42A5-A19F-5193A9205D68}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{8A322853-807B-46E3-8231-ECEB8A63D7BE}"
+          p:before="*"
+          s:ds="{6AC7C2DD-04FA-407A-9DD1-9FAAA67A3A37}"
+          s:id="{5410E093-9B56-4C2F-B411-9FB3702CBC63}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;HeroBannerVariant&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;PlayVideoInBackground&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{AF8B997F-F2B8-4E41-A5DC-D873835FA014}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{2398AB44-8378-4B2D-AAAB-C1064AE07EEF}">
+          <p:d />
+        </r>
+        <r
+          uid="{9F4385EF-F62E-4F5A-B738-3AFFCA9CA972}"
+          s:ds="{30A59320-0AA9-4506-AB14-0349BBCE64D8}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;contentBlockType=%7bE0AD9759-98A0-479F-9E1B-700ED3FC8B36%7d&amp;backgroundColor=%7bEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider" />
+        <r
+          uid="{BD99FDA4-6145-4E3A-B78B-44E3A21C4A14}"
+          s:ds="{937C5E69-B32A-4C77-A236-6C375614AC90}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7b3DF8265F-AA5C-46B6-AE37-0745E8A3FCAD%7d&amp;cardVariant=%7bC1CC176F-B79D-48B0-A97A-E5392D22FFB5%7d&amp;cardType=%7b312D4F92-0589-4B5E-AD35-FF1626CF8E7D%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider" />
+        <r
+          uid="{9C025B1C-9F8C-4DC8-82BA-98DC3EC3E8A0}"
+          s:ds="{229D4A2F-7C04-428C-8083-51C1C2CF7FE3}"
+          s:par="carouselMode=%7bC81D8D8F-E8D9-468F-ACFC-BBDCE30D66EC%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;showCategory=1&amp;anchorText&amp;backgroundColor=%7b3DF8265F-AA5C-46B6-AE37-0745E8A3FCAD%7d&amp;showImage&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider" />
+        <r
+          uid="{B4B45CCC-3944-4EE3-8591-12139C3F2DEB}"
+          s:ds="{33997CF0-C28C-494C-AA83-009A62F41768}"
+          s:par="carouselMode=%7B49143DC9-875C-4788-8EF4-1034DB85D126%7D&amp;anchorText&amp;backgroundColor=%7BB47928D6-98FC-4B29-8D0F-586AB477286E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{B91BA383-5E7C-4D89-BBF9-B1AB9D503C5B}">
+          <p:d />
+        </r>
+        <r
+          uid="{A296EACC-9A60-4DE2-A80B-DAC2086AEF5B}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7b3DF8265F-AA5C-46B6-AE37-0745E8A3FCAD%7d&amp;cardVariant=%7b0B15E9BB-FC7E-443C-8F22-80BB4AC9C0AC%7d&amp;cardType=%7b09621EEE-51BD-4672-8530-BBD75FE47185%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider" />
+        <r
+          uid="{E437D197-E7D4-4D3D-B17A-2942D7C26E1E}"
+          s:ds="{28C53EF5-7557-45E2-9B3B-8EAB760179B5}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;contentBlockType&amp;backgroundColor=%7bEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider" />
+        <r
+          uid="{91481A31-1A53-4215-B463-1F26B426D638}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A722D6FF-E723-41D4-B669-22D738186B80}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201007T100650Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gaurava
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{8A322853-807B-46E3-8231-ECEB8A63D7BE}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;HeroBannerVariant&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;PlayVideoInBackground&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d÷r" />
+            <r
+              uid="{AF8B997F-F2B8-4E41-A5DC-D873835FA014}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;enableMargin÷r" />
+            <r
+              uid="{9F4385EF-F62E-4F5A-B738-3AFFCA9CA972}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType=%7BE0AD9759-98A0-479F-9E1B-700ED3FC8B36%7D&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider" />
+            <r
+              uid="{BD99FDA4-6145-4E3A-B78B-44E3A21C4A14}"
+              s:par="cardVariant=%7BC1CC176F-B79D-48B0-A97A-E5392D22FFB5%7D&amp;cardType=%7B312D4F92-0589-4B5E-AD35-FF1626CF8E7D%7D&amp;anchorText&amp;backgroundColor=%7B3DF8265F-AA5C-46B6-AE37-0745E8A3FCAD%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{9C025B1C-9F8C-4DC8-82BA-98DC3EC3E8A0}"
+              s:par="carouselMode=%7BC81D8D8F-E8D9-468F-ACFC-BBDCE30D66EC%7D&amp;showCategory=1&amp;showImage&amp;anchorText&amp;backgroundColor=%7B3DF8265F-AA5C-46B6-AE37-0745E8A3FCAD%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{A296EACC-9A60-4DE2-A80B-DAC2086AEF5B}">
+              <p:d />
+            </r>
+            <r
+              uid="{D94B7956-431F-4AAB-A482-210BDCE32683}"
+              p:after="r[@uid='{B4B45CCC-3944-4EE3-8591-12139C3F2DEB}']"
+              s:ds="{C4F2105B-6794-4291-B801-C011B3714798}"
+              s:id="{251042B9-4BD2-47B4-A9A9-F097EB5C71B3}"
+              s:par="anchorText&amp;backgroundColor=%7B3DF8265F-AA5C-46B6-AE37-0745E8A3FCAD%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{2A6AAF01-BF7F-4A51-B41F-2DC3705D1AC0}"
+              p:after="r[@uid='{D94B7956-431F-4AAB-A482-210BDCE32683}']"
+              s:ds="{6B48D4D9-3F74-41C9-8911-15B1A58B1B54}"
+              s:id="{CE756AE6-C6B6-46DB-8317-30166F5488D0}"
+              s:par="cardVariant=%7B0B15E9BB-FC7E-443C-8F22-80BB4AC9C0AC%7D&amp;cardType=%7B09621EEE-51BD-4672-8530-BBD75FE47185%7D&amp;anchorText&amp;backgroundColor=%7B5FAA4B9B-7F56-4B83-BE82-328710EEF242%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider=1"
+              s:ph="jss-main" />
+            <r
+              uid="{E437D197-E7D4-4D3D-B17A-2942D7C26E1E}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7B5FAA4B9B-7F56-4B83-BE82-328710EEF242%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200219T091747Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: เรื่องสุขภาพน่ารู้ ให้คุณได้เตรียมพร้อมรับมือได้อย่างทันท่วงที ทั้งข้อมูลและวิธีดูแลสุขภาพจากผู้เชี่ยวชาญ
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: สุขภาพ
+    - ID: "8960d36d-84b0-4f47-aa98-a0e27a3903b8"
+      Hint: openGraphImage
+      Value: 
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: สุขภาพ, อาหารสุขภาพ, วิธีลดน้ำหนัก, ตรวจสุขภาพ, ประกันสุขภาพ

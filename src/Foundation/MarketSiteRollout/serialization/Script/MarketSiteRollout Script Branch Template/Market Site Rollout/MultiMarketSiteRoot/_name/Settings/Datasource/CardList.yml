@@ -1,0 +1,20 @@
+﻿---
+ID: "3a624cdf-8e2d-4054-907b-9008a5cc01ff"
+Parent: "d634df42-8a56-47ac-a813-76f1259c3ba6"
+Template: "7e64d9dc-f4a4-458c-bfa3-ee6aceed998f"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Settings/Datasource/CardList
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T091141Z
+    - ID: "498dd5b6-7dae-44a7-9213-1d32596ad14f"
+      Hint: DatasourceTemplate
+      Value: /sitecore/templates/FWD/Project/Global/Content Templates/Card List
+    - ID: "5fe1cc43-f86c-459c-a379-cd75950d85af"
+      Hint: DatasourceLocation
+      Value: 

@@ -1,0 +1,31 @@
+﻿---
+ID: "b4373b2c-2fd6-4cbb-9726-b27bb9a72371"
+Parent: "fd2e5413-de4e-4bcc-8254-83547e851108"
+Template: "b5702cd7-40f4-4617-9c29-8a1197de6c9a"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/about-us/News/coffee-bar/local-folder/related-articles"
+DB: master
+SharedFields:
+- ID: "2250f909-bae3-415f-a645-9d07826b6566"
+  Hint: apiPageSize
+  Value: 3
+- ID: "8f397566-a4d1-4f23-8594-dce13b3720fe"
+  Hint: apiSortBy
+  Value: "{C27171A2-8AC2-4005-8076-DC7489E3997B}"
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{20162863-AE86-4B42-9AEC-B7A81A345553}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Related Articles
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200102T101546Z
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Related Articles

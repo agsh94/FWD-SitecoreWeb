@@ -1,0 +1,53 @@
+﻿---
+ID: "21fe1657-505d-4cff-b415-a5b4c7cee1df"
+Parent: "9a276873-70aa-4ea5-a8d2-90e0e5704053"
+Template: "d188c909-be9c-4149-9106-b25be4b6fb55"
+Path: "/sitecore/content/fwd/fwd-th/Home/Press/Charity-run-for-17-hospitals/local-folder/ArticleHeroBanner"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4573EFE0-6D5D-4A69-BC87-F46AFA1CD32D}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Article Hero Banner
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ec1b066-046b-4099-8dde-7ef17d1818a5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{741F3B7C-C92C-41E2-B11E-5D15ED391D0F}" cropx="0.57" cropy="0.42" focusx="0.13567231830797688" focusy="0.16875076293945312" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200403T062133Z
+    - ID: "43c58d25-8056-4ce0-b071-440c9f96ecf3"
+      Hint: image
+      Value: |
+        <image mediaid="{741F3B7C-C92C-41E2-B11E-5D15ED391D0F}" cropx="0.55" cropy="0.29" focusx="0.10526315789473695" focusy="0.421875" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ec1b066-046b-4099-8dde-7ef17d1818a5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{741F3B7C-C92C-41E2-B11E-5D15ED391D0F}" cropx="0.57" cropy="0.31" focusx="0.1444442481325383" focusy="0.3781251907348633" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200403T061835Z
+    - ID: "43c58d25-8056-4ce0-b071-440c9f96ecf3"
+      Hint: image
+      Value: |
+        <image mediaid="{741F3B7C-C92C-41E2-B11E-5D15ED391D0F}" cropx="0.56" cropy="0.29" focusx="0.11403508771929816" focusy="0.421875" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit

@@ -1,0 +1,29 @@
+﻿---
+ID: "b12b424d-926c-4aff-8c62-4f6d89c8ce8d"
+Parent: "f70c1cd6-8b4d-400e-81e0-ac705e01632b"
+Template: "fff5f245-ffc0-4022-a998-9b07aa5e761f"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/contentblock/local-folder"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {51555475-5028-4B05-9B45-53BE53615704}
+    {83A147F2-89BA-4A48-8222-4B73FFE65216}
+    {128C8D06-48C1-46ED-B80E-904CC3DE68E0}
+    {F7152A9C-EDEA-49D6-A218-EC7009D9A7F1}
+    {EE2C800F-5808-4E93-B521-517495E4A1E6}
+    {6FC2AE35-3E92-49D3-8190-CE2A26F68B83}
+    {ACAFEFD1-0429-47C1-A27C-6DEE5DBFCBFE}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{57B66D93-86DA-4999-9B24-F3BE8F74D192}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200624T071259Z

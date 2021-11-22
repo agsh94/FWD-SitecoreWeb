@@ -1,0 +1,17 @@
+﻿---
+ID: "f5cb3418-0353-4f4d-b0df-eedda1b06e30"
+Parent: "d0608668-149e-41ce-bf61-3c8b5c3e8aa1"
+Template: "b35e143d-a4ef-497e-8326-f558715868e4"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/ValueProtector/PlanGrand/AttributeFolder/Key Benefits"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ce1ad82-1fa2-4aff-bca7-f02e23fa1099"
+      Hint: attributeSectionKey
+      Value: "{800167BE-A8E1-476E-B7A4-14EDB72061E1}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200614T190449Z

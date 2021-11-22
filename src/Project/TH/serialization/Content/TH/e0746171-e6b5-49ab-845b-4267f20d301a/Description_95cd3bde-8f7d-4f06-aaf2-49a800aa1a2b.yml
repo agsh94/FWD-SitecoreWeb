@@ -1,0 +1,87 @@
+﻿---
+ID: "95cd3bde-8f7d-4f06-aaf2-49a800aa1a2b"
+Parent: "e0746171-e6b5-49ab-845b-4267f20d301a"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Wealth/saving-tips/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200928T083307Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>สูตรคำนวนการออมเงิน สำหรับคนในแต่ละช่วงวัย</strong><br />
+        <br />
+        <strong>จำนวนเงินที่ควรออม = 2 x (อายุปัจจุบัน &ndash; อายุเริ่มทำงาน) x (เงินเดือนปัจจุบัน + เงินเดือนที่เริ่มงาน)</strong></p>
+        <p><strong><br />
+        ตัวอย่าง</strong><br />
+        นายต้นน้ำเริ่มทำงานเมื่ออายุ 20 ปี ได้รับเงินเดือนในเดือนแรก 20,000 บาท/เดือน ปัจจุบันนายต้นน้ำอายุ 30 ปี และทำงานแล้ว 10 ปี มีรายได้ในปัจจุบัน 50,000 บาท/เดือน</p>
+        <p>&nbsp;</p>
+        <p>
+        <strong>จากสูตรคำนวณในเบื้องต้น นายต้นน้ำควรมีเงินออม 1,400,000 บาท<br />
+        2 x (30 &ndash; 20) x (50,000 + 20,000) =1,400,000 บาท</strong></p>
+        <p><strong></strong><br />
+        สูตรการคำนวนจะช่วยในส่วนของการตั้งเป้าหมาย สำหรับผู้ที่ยังไม่รู้ว่าจะตั้งเป้าหมายอย่างไรในเบื้องต้น ทั้งนี้เงินออมทั้งหมดไม่จำเป็นต้องเก็บในรูปแบบเงินสด สามารถแบ่งเงินไปลงทุนในรูปแบบต่างๆ ตามเป้าหมายในการออมและความเสี่ยงที่เหมาะสมของแต่ละคน</p>
+        <p>&nbsp;</p>
+        <p>
+        <strong>ตัวอย่างของอายุ VS เงินออมที่เหมาะสม</strong></p>
+        <p>
+        หากเริ่มทำงานเมื่ออายุ 22 ปี ได้รับเงินเดือนในเดือนแรก 20,000 บาท</p>
+        <p>&nbsp;</p>
+        <table style="width: 100%; background-color: #000000;" cellspacing="1">
+            <tbody>
+                <tr>
+                    <td style="background-color: #ffffff; text-align: center;">อายุปัจจุบัน<br />
+                    (ปี)</td>
+                    <td style="background-color: #ffffff; text-align: center;">เงินเดือนปัจจุบัน<br />
+                    (บาท)</td>
+                    <td style="background-color: #ffffff; text-align: center;">เงินออมที่ควรมี<br />
+                    (บาท)</td>
+                </tr>
+                <tr>
+                    <td style="background-color: #ffffff; text-align: center;">25</td>
+                    <td style="background-color: #ffffff; text-align: center;">25,000</td>
+                    <td style="background-color: #ffffff; text-align: center;">270,000</td>
+                </tr>
+                <tr>
+                    <td style="background-color: #ffffff; text-align: center;">30</td>
+                    <td style="background-color: #ffffff; text-align: center;">30,000</td>
+                    <td style="background-color: #ffffff; text-align: center;">800,000</td>
+                </tr>
+                <tr>
+                    <td style="background-color: #ffffff; text-align: center;">35</td>
+                    <td style="background-color: #ffffff; text-align: center;">37,000</td>
+                    <td style="background-color: #ffffff; text-align: center;">1,482,000</td>
+                </tr>
+                <tr>
+                    <td style="background-color: #ffffff; text-align: center;">40</td>
+                    <td style="background-color: #ffffff; text-align: center;">48,000</td>
+                    <td style="background-color: #ffffff; text-align: center;">2,448,000</td>
+                </tr>
+                <tr>
+                    <td style="background-color: #ffffff; text-align: center;">45</td>
+                    <td style="background-color: #ffffff; text-align: center;">62,000</td>
+                    <td style="background-color: #ffffff; text-align: center;">3,772,000</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>
+        <br />
+        สูตรการคำนวณข้างต้นเป็นตัวเลขที่สมมติมาเพื่อประกอบการอธิบายเท่านั้น อาจไม่ตรงกับความเป็นจริงของทุกคน แต่อย่างไรก็อยากให้ลองหัดวางแผนทางงานเงินได้แบบง่ายด้วยสูตรนี้ไปด้วยกัน</p>
+        <div>&nbsp;</div>

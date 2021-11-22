@@ -1,0 +1,24 @@
+﻿---
+ID: "9b6dd427-5f59-40a3-b0d9-e7977af413e8"
+Parent: "ffaa0a82-fa41-4f50-a7c4-c2c668ded9b5"
+Template: "68016eee-7ce8-453d-9b04-20bcd42da406"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/About Us/local-folder/quick-links"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Quick Links
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191021T142948Z
+    - ID: "d7fa80f1-d6d1-4ddd-9366-fd4a9c39b13a"
+      Hint: title
+      Value: Useful Links
+    - ID: "e5d5024c-a73c-4218-a3ce-0ec1d13276bc"
+      Hint: listItems
+      Value: "{6C48E96A-C8C7-4572-A6A3-34AD6EE702FF}|{5AE55406-8448-4CB0-9C75-1C65A1038089}"

@@ -1,0 +1,35 @@
+﻿---
+ID: "e3336f41-29b8-416f-817a-0476e6125b65"
+Parent: "b9d0f58e-ebac-4f88-bd4b-d595b59cc99b"
+Template: "fa86f689-9071-4d22-83df-c3fc48edda47"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/Claims/cash-return 1/local-folder/claim-process"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Claim Process
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191213T080650Z
+    - ID: "6a635232-2b2c-43da-8cf4-c0b36981424e"
+      Hint: title
+      Value: Claim Process
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T085150Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "6a635232-2b2c-43da-8cf4-c0b36981424e"
+      Hint: title
+      Value: Claim Process

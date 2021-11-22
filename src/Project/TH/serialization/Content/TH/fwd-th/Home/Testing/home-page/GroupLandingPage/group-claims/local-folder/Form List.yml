@@ -1,0 +1,39 @@
+﻿---
+ID: "cd2fd43a-a5e8-4fff-812a-5a7e789460c0"
+Parent: "76bedfeb-4e1c-40c0-8c74-e50a0859e4a1"
+Template: "e9fe119c-894c-43bd-bfd0-857be1acbe38"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/GroupLandingPage/group-claims/local-folder/Form List"
+DB: master
+SharedFields:
+- ID: "6e7ee2d5-d16e-4038-89df-21145baec88b"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: |
+    {9F39A5D3-BB90-4389-863E-4596F54970EA}
+    {390404DC-4C70-4662-B09E-5FB89B7B5294}
+    {F971E905-DB76-40F0-9C36-1D49B7429331}
+    {99DE04D2-3E4F-4CBC-9D2F-F62F96EE5880}
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{AAE0FCBF-5276-4A3A-8CED-AEAF6994D21B}"
+- ID: "fa4911ec-ddc9-4d82-9059-c1fe07006bba"
+  Hint: supportTopic
+  Value: "{3F8847FA-88E1-4BC6-81E8-BD183B8D5917}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "082ccea0-107e-474b-99d1-c9f1b7bff0ef"
+      Hint: description
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200202T161813Z
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Find a form
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See all forms" anchor="" linktype="internal" class="" title="See all forms"  querystring="" id="{515D3ADB-439C-43E0-BA46-9F36E2212DCC}" />

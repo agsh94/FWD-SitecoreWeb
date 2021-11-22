@@ -1,0 +1,59 @@
+﻿---
+ID: "1a9172de-ee9e-4786-978f-2a861ffbaa97"
+Parent: "3cd9cc7a-47da-4031-959a-59d4bf349c81"
+Template: "14cf212d-7cf4-41aa-b50b-24d748a87556"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/local-folder/FAQsAccordion"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1000
+- ID: "f973c399-5998-47a5-ae48-760ebed901b1"
+  Hint: faqItems
+  Value: "{753590A5-B7B4-436D-97A5-7750D24AC1CF}|{16F0EBB2-2263-4D32-B509-9C0700988D5E}|{EAF2FE6C-6CB4-47D9-BF4E-6E95D2F512C8}|{03FF3197-48B3-47C5-AC3D-5E07067119AA}|{2267FAA9-7CE5-4DB4-8D92-F3365C2C2AE8}|{FB73AB78-B182-4C8F-8522-6DF4AE234753}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191014T062541Z
+    - ID: "45e2df09-7d41-4b33-b7f1-f6d4bb8ba530"
+      Hint: description
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See more FAQs" anchor="" linktype="internal" class="" title=""  querystring="" id="{4D410CCC-DDD8-456C-B317-FD8D00637F32}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: Frequently Asked Questions
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200213T061254Z
+    - ID: "45e2df09-7d41-4b33-b7f1-f6d4bb8ba530"
+      Hint: description
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See more FAQs" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: FAQ

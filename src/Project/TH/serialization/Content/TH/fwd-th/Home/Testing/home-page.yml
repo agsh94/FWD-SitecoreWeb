@@ -1,0 +1,85 @@
+﻿---
+ID: "d77061f0-4033-4e10-846d-b391b5a4d07d"
+Parent: "7719ad7b-82e5-4946-b5b8-38c7c5dc0227"
+Template: "b2dd556f-0f5c-4201-bd59-384db7d20d8c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page"
+DB: master
+SharedFields:
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: "{D491883C-6D58-4968-BC59-A22D088EA43D}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{3C3B07DC-511C-4B3D-9C28-D07E9340C76D}">
+          <p:d />
+        </r>
+        <r
+          uid="{EBC4075C-984A-4DE7-9952-BD5AE44CE910}"
+          p:after="r[@uid='{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}']"
+          s:ds="{C9BDEE14-DBCE-468B-BADA-FB3F6FB07742}"
+          s:id="{B8996FC4-005D-45CC-B7D5-0D1E2FEEE182}"
+          s:par=""
+          s:ph="jss-main" />
+        <r
+          uid="{AC5DDC9E-9648-4218-9263-9047D22F68F9}">
+          <p:d />
+        </r>
+        <r
+          uid="{834CCA27-4925-4542-9ADC-9201D3FFAD3E}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{543A6F33-A8C9-4306-9164-FFEC9F9B46BA}"
+- ID: "ff451472-1b55-4228-b14d-ab9b2a449792"
+  Hint: isPageSearchable
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Home Page
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200323T075016Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: FWD Insurance
+    - ID: "8960d36d-84b0-4f47-aa98-a0e27a3903b8"
+      Hint: openGraphImage
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200406T054807Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: FWD Insurance

@@ -1,0 +1,39 @@
+﻿---
+ID: "3b349d9e-cef1-4d04-98f6-172e488bbf03"
+Parent: "e489ee30-b603-4d80-96d0-9529abf1bd2a"
+Template: "b35e143d-a4ef-497e-8326-f558715868e4"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/savings/ValueProtector/PlanMultiple/AttributeFolder/Additional"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ce1ad82-1fa2-4aff-bca7-f02e23fa1099"
+      Hint: attributeSectionKey
+      Value: "{9513461F-A666-4F78-9F72-361C6DF0709B}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200701T134307Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\testuser
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ce1ad82-1fa2-4aff-bca7-f02e23fa1099"
+      Hint: attributeSectionKey
+      Value: "{9513461F-A666-4F78-9F72-361C6DF0709B}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200708T141651Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

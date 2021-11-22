@@ -1,0 +1,66 @@
+﻿---
+ID: "5bfb9725-6726-4611-a6ee-7e484cb72e5a"
+Parent: "c98baa6e-2e92-4f2f-8d78-d9215419d3ef"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/Fund Information/Equity Funds/ABG"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T040145Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: |
+        Aberdeen Standard Growth Fund (ABG)<br />
+        **Stop selling new business since 15th May 2020
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/th-th/thailand/fund-centre#literature'>Fund page</a></li>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/docs?editionId=5bedb968-f8dd-4605-ab97-277d94f97a49'>Fund information summary</a></li>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/docs?editionId=2768a7d5-3292-4191-b6f0-354db31f9070'>Prospectus</a></li>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/docs?editionId=35893d8f-dce6-4c99-888c-99a0f77e2654'>Fact sheet</a></li>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/docs?editionId=04178265-c006-4474-a82f-fad605cdae96'>Bi-annual report</a></li>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/docs?editionId=8910a290-b107-4048-9c19-61ef787b4118'>Annual report</a></li>
+        </ul>
+        
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T040115Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: |
+        กองทุนเปิด อเบอร์ดีน สแตนดาร์ด โกรท (ABG)<br />
+        ** ระงับการเปิดรับคำสั่งซื้อ สำหรับลูกค้าใหม่ ตั้งแต่วันที่ 15/5/2563
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/th-th/thailand/fund-centre#literature'>หน้าหลักกองทุน</a></li>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/docs?editionId=5bedb968-f8dd-4605-ab97-277d94f97a49'>สาระสำคัญ ของกองทุน</a></li>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/docs?editionId=2768a7d5-3292-4191-b6f0-354db31f9070'>หนังสือชี้ชวน</a></li>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/docs?editionId=35893d8f-dce6-4c99-888c-99a0f77e2654'>หนังสือชี้ชวนส่วนสรุป</a></li>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/docs?editionId=04178265-c006-4474-a82f-fad605cdae96'>รายงาน 6 เดือน</a></li>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/docs?editionId=8910a290-b107-4048-9c19-61ef787b4118'>รายงานประจำปี</a></li>
+        </ul>

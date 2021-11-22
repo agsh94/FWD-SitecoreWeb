@@ -1,0 +1,68 @@
+﻿---
+ID: "dee5d4df-347e-4dd4-b18b-b163423d4860"
+Parent: "555bc921-dde4-4063-a499-5ad2ed775783"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Legacy/local-folder/CardList/Tax-free"
+DB: master
+SharedFields:
+- ID: "61cf7151-0cbd-4db4-9738-d753a55a6e65"
+  Hint: __Enforce version presence
+  Type: Checkbox
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: "You don&rsquo;t have to pay any taxes because your insurance pay-outs and benefits are tax-free."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T182834Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: "Tax-free"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{4EA4AF2D-E344-463E-9732-D70FDC5B8DA2}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{4EA4AF2D-E344-463E-9732-D70FDC5B8DA2}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: สบายใจ ไร้กังวลเรื่องภาษี เพราะเงินและผลประโยชน์ต่างๆ ที่ได้จากประกัน ไม่ต้องเสียภาษี
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200410T081913Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: ไม่ต้องเสียภาษี
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{4EA4AF2D-E344-463E-9732-D70FDC5B8DA2}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{4EA4AF2D-E344-463E-9732-D70FDC5B8DA2}" />

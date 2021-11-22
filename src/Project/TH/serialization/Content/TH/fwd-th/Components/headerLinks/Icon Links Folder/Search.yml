@@ -1,0 +1,29 @@
+﻿---
+ID: "a02180ed-f2e6-4d90-bc03-5b4f353cc425"
+Parent: "6d5cf238-24c5-4f43-9bbf-0dab4450a26c"
+Template: "cef6e819-7951-4dad-b3ff-cb42f0dcf7d5"
+Path: "/sitecore/content/fwd/fwd-th/Components/headerLinks/Icon Links Folder/Search"
+DB: master
+SharedFields:
+- ID: "a6ee811d-8f6f-4560-80b5-a4faa92bb6db"
+  Hint: buttonIcon
+  Value: "{8E6F2179-2D7B-420D-9D47-D13C408BB3C5}"
+- ID: "ffff450b-9e1e-472d-955f-c39bb9c6218b"
+  Hint: listType
+  Value: "{B91E87F2-99CC-4A93-A0BA-3EE8C14F36A4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210106T065109Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{564D4C9C-BEEB-4497-9BB7-74A9EBAEF812}" />
+    - ID: "baa2afdd-f108-4ba2-a95d-cd1221e6da39"
+      Hint: enableDropdown
+      Type: Checkbox
+      Value: 0

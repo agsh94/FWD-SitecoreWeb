@@ -1,0 +1,63 @@
+﻿---
+ID: "75681252-f650-4a8c-a609-f1e7bf5337e5"
+Parent: "29f2a9c5-6090-4017-9faf-d1cd95b2bd21"
+Template: "2861c185-fc81-4fdc-8e91-93de381c752e"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/about-us/press-releases/article-4/local-folder/article-description-area/media-carousal/Media1"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b23ad3f-b76c-4a6a-830d-1434dd398ed6"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T140942Z
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: mKa_fi2KNo
+    - ID: "c93d0c7b-6b3a-4e3a-a9b6-dc89062a8a6c"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{11272320-CECC-4161-9015-6CBDDAAC0F2E}" cropx="0.92" cropy="0.20" focusx="0.8335389254385965" focusy="0.60736083984375" />
+    - ID: "ca02df68-c93a-4d5b-bfb9-65cde670e7cd"
+      Hint: caption
+      Value: "The One, FWD&rsquo;s high-end medical solution, and the associated all-round, one-stop health management service PREMIER THE ONEcierge, claimed an Excellence Award in the Medical Care Category. Mr Paul Tse (right), Chief Marketing Officer, FWD Hong Kong &amp; Macau, received the award at the Bloomberg Businessweek Financial Institution Awards 2019 ceremony."
+    - ID: "e5628949-939b-4454-b990-5b6c89e0be4d"
+      Hint: image
+      Value: |
+        <image mediaid="{11272320-CECC-4161-9015-6CBDDAAC0F2E}" cropx="0.11" cropy="0.84" focusx="-0.7892680921052632" focusy="-0.689453125" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b23ad3f-b76c-4a6a-830d-1434dd398ed6"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T034849Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: mKa_fi2KNo
+    - ID: "c93d0c7b-6b3a-4e3a-a9b6-dc89062a8a6c"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{11272320-CECC-4161-9015-6CBDDAAC0F2E}" cropx="0.92" cropy="0.20" focusx="0.8335389254385965" focusy="0.60736083984375" />
+    - ID: "ca02df68-c93a-4d5b-bfb9-65cde670e7cd"
+      Hint: caption
+      Value: "The One, FWD&rsquo;s high-end medical solution, and the associated all-round, one-stop health management service PREMIER THE ONEcierge, claimed an Excellence Award in the Medical Care Category. Mr Paul Tse (right), Chief Marketing Officer, FWD Hong Kong &amp; Macau, received the award at the Bloomberg Businessweek Financial Institution Awards 2019 ceremony."
+    - ID: "e5628949-939b-4454-b990-5b6c89e0be4d"
+      Hint: image
+      Value: |
+        <image mediaid="{11272320-CECC-4161-9015-6CBDDAAC0F2E}" cropx="0.11" cropy="0.84" focusx="-0.7892680921052632" focusy="-0.689453125" />

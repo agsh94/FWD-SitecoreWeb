@@ -1,0 +1,24 @@
+﻿---
+ID: "43f968f9-993c-4910-ab02-e56be52785b9"
+Parent: "33e41253-e115-4774-ac54-3ba2e39e511b"
+Template: "c24acda9-af2d-4f91-b736-509937cc444e"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/article-card/local-folder/Article card large without carousel"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200720T095210Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d7ce724c-2ece-4ca3-99ed-06b20e846322"
+      Hint: linkItems
+      Value: "{9C7BE8CA-3088-419F-B40F-16FC1E90AA3B}"
+    - ID: "f39b7a44-d8d3-467c-949d-5a6a33a9bb8a"
+      Hint: title
+      Value: Article card large without carousel

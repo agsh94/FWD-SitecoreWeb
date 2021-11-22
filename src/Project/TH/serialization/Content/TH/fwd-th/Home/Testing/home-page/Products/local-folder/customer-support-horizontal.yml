@@ -1,0 +1,45 @@
+﻿---
+ID: "8dfc565d-0a54-4ddd-8bbc-6fb96c29fcd3"
+Parent: "9c3adf6a-b10f-4be4-8601-8cbd96d15489"
+Template: "83a147f2-89ba-4a48-8222-4b73ffe65216"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/local-folder/customer-support-horizontal"
+DB: master
+SharedFields:
+- ID: "56b35c4a-f364-45f9-8d35-5a28cecdd7a8"
+  Hint: supportOptions
+  Value: "{9D0B5568-7A7E-422A-8EDB-F1EDF7F6B230}|{CC115D5A-4819-4224-8B56-F69AEC264865}|{38D5363F-C287-40E3-ABC4-84B7D2D669C5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Customer Support Horizontal
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191009T075308Z
+    - ID: "e43f6d15-838d-41cd-b745-616c1b373dff"
+      Hint: description
+      Value: "Can’t decide what’s best for you?"
+    - ID: "e59ccccf-b566-4b39-b862-7fc68fe13e39"
+      Hint: title
+      Value: Get personalised advice
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200115T054209Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "e43f6d15-838d-41cd-b745-616c1b373dff"
+      Hint: description
+      Value: ตัดสินใจไม่ได้ว่าอะไรดีที่สุดสำหรับคุณ
+    - ID: "e59ccccf-b566-4b39-b862-7fc68fe13e39"
+      Hint: title
+      Value: รับคำแนะนำส่วนบุคคล

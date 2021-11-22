@@ -1,0 +1,513 @@
+﻿---
+ID: "7969c308-06a3-4f2a-99be-85859bc2b80d"
+Parent: "fb90ef79-9b2f-4bea-b025-95b91996b85c"
+Template: "6c1afdff-2f1e-4b74-b89b-7e5d18054494"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/GroupLandingPage/tailor-made-life-and-medical/group-enquiry-form/group-enquiry-form-email-template"
+DB: master
+SharedFields:
+- ID: "360b1edb-d677-4d7c-9d56-badd3f16df84"
+  Hint: emailTo
+  Value: sagar.shankhala@publicissapient.com;sachin.dabas@publicissapient.com
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Group Enquiry Form Email Template
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200417T120521Z
+    - ID: "78baf468-7fa9-4fef-80cc-674ea8ef74c1"
+      Hint: emailBodyUser
+      Value: |
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+        <html xmlns="http://www.w3.org/1999/xhtml">
+        
+        <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;" />
+        <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+        <title>FWD-th</title>
+        <style type="text/css">
+            td span, td a {
+              overflow-wrap: break-word;
+              word-wrap: break-word;
+              -ms-word-break: break-all;
+              word-break: break-word;
+              -ms-hyphens: auto;
+              -moz-hyphens: auto;
+              -webkit-hyphens: auto;
+              hyphens: auto;
+            }
+            #outlook a { padding:0; }
+            body{ width:100% !important; -webkit-text; size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0; background-color:#DBDFE1 !important;}
+            .ReadMsgBody { width: 100%; }
+            .ExternalClass {width:100%;}
+            .backgroundTable {margin:0 auto; padding:0; width:100%;!important;}
+            table td {border-collapse: collapse;}
+            .ExternalClass * {line-height: 115%;}
+            html, body{margin: 0 auto !important; padding: 0 !important; height: 100% !important; width: 100% !important;} *{-ms-text-size-adjust: 100%;} table, td{mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !important;}img{-ms-interpolation-mode:bicubic;border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; } a{text-decoration: none;}
+            p{margin: 0;}
+            .borderImages p{display: block;height: 16px;}
+            @media (max-width: 768px) {
+            table.table {
+            width: 328px !important;
+            }
+            .bottomBorderWidth{
+            width:264px !important;
+            }
+            .splitMobile{
+            display: block;
+            width:100% !important;
+            }
+            .padding0{
+            padding-left: 0 !important;
+            padding-right: 0 !important;
+            }
+            .padding16{
+            padding-left: 16px !important;
+            padding-right: 16px !important;
+            }
+            .logoBox{
+            padding-top: 8px !important;
+            padding-bottom: 24px !important;
+            },
+            .logo-img {
+            height: 28px !important;
+            }
+            .phoneBox{padding-top: 24px!important;}
+            .copyright-text {
+            display: block !important;
+            }
+            .disclaimer-text {
+            padding-top: 24px !important;
+            }
+            .thanks-msg {
+            font-size: 25px !important;
+            line-height: 31px !important;
+            padding-top: 40px !important;
+            }
+            .you-like-to {
+            font-size: 16px !important;
+            line-height: 20px !important;
+            padding-top: 8px !important;
+            }
+            .how-like-to {
+            font-size: 16px !important;
+            line-height: 20px !important;
+            padding-top: 24px !important;
+            }
+            .topic {
+            font-size: 13px !important;
+            line-height: 16px !important;
+            padding-bottom: 4px;
+            }
+            .your-details {
+            font-size: 16px !important;
+            line-height: 20px !important;
+            }
+            .twitter,
+            .line,
+            .youtube {
+            padding-left: 4px !important;
+            }
+            }
+        </style>
+        </head>
+        
+        <body width="”100%”" style="margin: 0; padding: 0 !important; mso-line-height-rule: exactly;-webkit-text-size-adjust: 100%;">
+        <div style="padding-right: 0px;padding-left: 0px;">
+        <table align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; min-width: 320px; margin: 0 auto; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;" valign="top">
+            <tbody>
+                <tr>
+                    <td style="padding:0; margin: 0;" align="center">
+                    <table align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background: #E87722; table-layout: fixed; vertical-align: top; min-width: 320px; margin: 0 auto; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;" valign="top">
+                        <tbody>
+                            <tr>
+                                <td style="padding: 64px 0 0;" align="center">
+                                <table align="center" role="presentation" valign="top" border="0" cellpadding="0" class="table" cellspacing="0" width="600" height="16" style="margin: 0;padding: 0;">
+                                    <tbody>
+                                        <tr>
+                                            <td valign="top">
+                                            <table align="left" class="borderImages" role="presentation" valign="top" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin: 0; padding: 0; border:hidden;background: #FFFFFF;">
+                                                <tbody>
+                                                    <tr>
+                                                        <td width="16" style="text-align: left; background: #FFFFFF;border:hidden;width: 16px;height: 16px;" border="0" valign="top" align="left">
+                                                        <p style="margin: 0px;padding: 0px;height:16px; display: block;width: 16px;background: #FFFFFF; font-size: 12px;">
+                                                        <img alt="" src="-/media/5B7DA1342E694ACABBA3FBF090988542.ashx" width="16" height="16" style="display: block; text-decoration: none; -ms-interpolation-mode: bicubic;  border: hidden;" />
+                                                        </p>
+                                                        </td>
+                                                        <td width="100%">
+                                                        <p style="margin: 0px;padding: 0px;height:16px;display: block;width: 100%;background: #FFFFFF; font-size: 12px;"><a></a></p>
+                                                        </td>
+                                                        <td width="16" style="text-align: right; background: #ffffff; border: hidden; width: 16px;" border="0" valign="top" align="right">
+                                                        <p style="margin: 0px;padding: 0px;height:16px;display: block;width: 16px;background: #FFFFFF; font-size: 12px;">
+                                                        <img alt="" src="-/media/9DFC1B1BFF2F4D8BBFAF479B5FE6765E.ashx" width="16" height="16" style="display: block; text-decoration: none; -ms-interpolation-mode: bicubic;  border: hidden;" />
+                                                        </p>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="padding:32px 48px 48px;background: #FFFFFF;" class="padding16 logoBox borderImages" align="left">
+                                            <img class="logo-img" src="-/media/6FC571655F7743DA86480519FE960B1F.ashx" height="36" alt="FWD Logo" style="display: block;text-decoration: none; -ms-interpolation-mode: bicubic;  border: none;height: auto;" />
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="padding:0; margin: 0;" align="center">
+                    <table align="center" border="0" role="presentation" cellpadding="0" cellspacing="0" width="100%" style="background: #DBDFE1;">
+                        <tbody>
+                            <tr>
+                                <td style="padding: 0;" align="center">
+                                <table align="center" border="0" role="presentation" cellpadding="0" class="table" cellspacing="0" width="600" style="background: #FFFFFF;">
+                                    <tbody>
+                                        <tr>
+                                            <td class="thanks-msg padding16" style="font-family: 'Arial', sans-serif; font-size: 31px; line-height: 39px; font-weight: bold; color: #E87722; padding-left: 48px; padding-right: 48px; padding-top: 16px;">
+                                            Thanks for getting in touch!
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="padding16" style="font-family: 'Arial', sans-serif; font-size: 16px; line-height: 24px; font-weight: 300; color: #183028; padding-top: 24px; padding-bottom: 48px; padding-left: 48px; padding-right: 48px;">
+                                                <table>
+                                                    <tr>
+                                                        <td class="item-container" align="left" border="0" role="presentation" cellpadding="0" cellspacing="0" width="100%" style="font-family: 'Arial', sans-serif;">
+                                                            Hi <span style="font-weight: bold; color: #E87722;"><span id="firstName"> </span> <span id="lastName"> </span></span>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left" border="0" role="presentation" cellpadding="0" cellspacing="0" width="100%" style="margin: 0px;padding-top: 24px; padding-bottom: 24px; font-family: 'Arial', sans-serif;">
+                                                            Our team will get back to you shortly to go over your details and discuss what you need.
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left" border="0" role="presentation" cellpadding="0" cellspacing="0" width="100%" style="font-family: 'Arial', sans-serif;">
+                                                            In the meantime let&rsquo;s confirm what you told us:
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="padding-left: 48px; padding-right: 48px;" class="padding16">
+                                            <table align="left" class="borderImages" valign="top" role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #ffffff;">
+                                                <tbody>
+                                                    <tr>
+                                                        <td width="16px" style="text-align: left;" valign="top">
+                                                        <p style="margin: 0px;padding: 0px;height:16px;display: block;width: 16px;font-size: 12px;">
+                                                        <img alt="" src="-/media/C73CA619711E4E4BA260C8775025C503.ashx" width="16" height="16" style="display: block; text-decoration: none; -ms-interpolation-mode: bicubic;  border: none;height: auto;" />
+                                                        </p>
+                                                        </td>
+                                                        <td width="100%" style="text-align: left; width: 100%;border-top:1px solid #DBDFE1;" class="bottomBorderWidth" valign="top">
+                                                        <p style="margin: 0px;padding: 0px;height:16px;display: block;width: 100%;font-size: 12px;"><a></a></p>
+                                                        </td>
+                                                        <td width="16" style="text-align: right; width: 16px;" valign="top" align="right">
+                                                        <p style="margin: 0px;padding: 0px;height:16px;display: block;width: 16px;font-size: 12px;">
+                                                        <img alt="" src="-/media/1847ED26E7124A9BBD7DB5B29E607AC0.ashx" width="16" height="16" style="display: block; text-decoration: none; -ms-interpolation-mode: bicubic;  border: none;height: auto;" />
+                                                        </p>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="padding-left: 48px; padding-right: 48px;" class="padding16">
+                                            <table align="left" border="0" role="presentation" cellpadding="0" cellspacing="0" width="100%" style="border: 1px solid #DBDFE1; border-top:none;">
+                                                <tbody>
+                                                    <tr>
+                                                        <td align="left" class="you-like-to padding16" style="font-family: 'Arial' , sans-serif; font-size: 16px; line-height: 24px;
+                                                        font-weight: bold;  padding-top: 4px; color:#E87722;padding-left: 24px; padding-right: 21px;">
+                                                        You&rsquo;d like to know more about
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="padding-top: 8px; padding-bottom: 24px;">
+                                                        <table align="left" border="0" role="presentation" cellpadding="0" cellspacing="0" width="100%">
+                                                            <tbody>
+                                                                <tr class="item-container">
+                                                                    <td style="padding-top: 16px;">
+                                                                    <table align="left" border="0" role="presentation" cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="left" class="topic splitMobile padding16" valign="top" style="font-family: 'Arial' , sans-serif; font-size: 16px; width: 112px; line-height: 20px;font-weight: 300; color: #636566;  padding-left: 24px; padding-right: 0;">Product</td>
+                                                                                <td align="left" class="splitMobile padding16" valign="top" style="font-family: 'Arial' , sans-serif; font-size: 16px; line-height: 20px;font-weight: bold; color: #183028;  padding-left: 24px; padding-right: 24px;"><span id="expectedProductName"> </span></td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr class="item-container">
+                                                                    <td style="padding-top: 16px;">
+                                                                    <table align="left" border="0" role="presentation" cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="left" class="topic splitMobile padding16" valign="top" style="font-family: 'Arial' , sans-serif; font-size: 16px; width: 112px; line-height: 20px;font-weight: 300; color: #636566;  padding-left: 24px; padding-right: 0;">Interested in coverage for</td>
+                                                                                <td align="left" class="splitMobile padding16" valign="top" style="font-family: 'Arial' , sans-serif; font-size: 16px; line-height: 20px;font-weight: bold; color: #183028;  padding-left: 24px; padding-right: 24px;"><span id="interestedCoverage"> </span></td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="padding-left: 48px; padding-right: 48px;" class="padding16">
+                                            <table border="0" cellpadding="0" role="presentation" cellspacing="0" width="100%" style="background: #E87722;">
+                                                <tbody>
+                                                    <tr>
+                                                        <td align="left" class="how-like-to padding16" style="font-family: 'Arial' , sans-serif; font-size: 16px; line-height: 24px;
+                                                        font-weight: bold; color: #FFFFFF; padding-top: 24px; padding-left: 24px; padding-right: 21px;">
+                                                        How you&rsquo;d like to be contacted
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="padding: 16px 24px 8px;" class="padding16">
+                                                        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td class="splitMobile item-container" style="width: 50%;">
+                                                                    <table border="0" role="presentation" cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="left" style="width: 48px; padding-left: 0px; padding-right: 12px;">
+                                                                                <img class="icon-img" src="-/media/D302B07550F547AFACAA50A22909C8A0.ashx" width="48" height="48" alt="Call Icon" style="display: block; text-decoration: none; -ms-interpolation-mode: bicubic;  border: none;height: auto;" />
+                                                                                </td>
+                                                                                <td align="left" style="font-family: 'Arial' , sans-serif; font-size: 13px; line-height: 16px;font-weight: 300; color: #FFFFFF;  padding-left: 0px; padding-right: 24px;">
+                                                                                <p style="margin: 0px;margin-bottom: 4px;">Phone number</p>
+                                                                                <p style="margin: 0px;font-weight: bold;"><a id="cellPhone" style="color: #FFFFFF;"> </a></p>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                    </td>
+                                                                    <td class="splitMobile item-container phoneBox">
+                                                                    <table border="0" role="presentation" cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="left" style="width: 48px;padding-right: 12px;">
+                                                                                <img class="icon-img" src="-/media/AB242B5644FD4B859E9132F62D23715B.ashx" width="48" height="48" alt="Operating hours" style="display: block; text-decoration: none; -ms-interpolation-mode: bicubic;  border: none;height: auto;" />
+                                                                                </td>
+                                                                                <td align="left" class="TimePreference" style="font-family: 'Arial' , sans-serif; font-size: 13px; line-height: 16px;font-weight: 300; color: #FFFFFF;  padding-left: 0px; padding-right: 0px;">
+                                                                                <p style="margin: 0px;margin-bottom: 4px;">Time preference</p>
+                                                                                <p style="margin: 0px;font-weight: bold;">
+                                                                                <span id="preferredTime">  </span>
+                                                                                (<span id="preferredDay"> </span>)
+                                                                                </p>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="padding-left: 48px; padding-right: 48px;" class="padding16" valign="bottom">
+                                            <table align="left" class="borderImages" border="0" cellpadding="0" valign="bottom" role="presentation" cellspacing="0" width="100%" style="background-color: #e87722;">
+                                                <tbody>
+                                                    <tr>
+                                                        <td style="text-align: left;" valign="bottom">
+                                                        <p style="margin: 0px;padding: 0px;height:16px;">
+                                                        <img alt="" src="-/media/B0B06DCE61E94B5C941604B8B371166C.ashx" width="16" height="16" style="display: block; text-decoration: none; -ms-interpolation-mode: bicubic;  border: none;height: auto;" />
+                                                        </p>
+                                                        </td>
+                                                        <td style="text-align: right; width: 16px;" valign="bottom">
+                                                        <p style="margin: 0px;padding: 0px;height:16px;">
+                                                        <img alt="" src="-/media/FEFDC728B53748AA8188D34F5C8BBFE1.ashx" width="16" height="16" style="display: block; text-decoration: none; -ms-interpolation-mode: bicubic;  border: none;height: auto;" />
+                                                        </p>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="padding-left: 48px; padding-right: 48px;" class="padding16">
+                                            <table align="left" border="0" role="presentation" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody>
+                                                    <tr>
+                                                        <td align="left" class="you-details padding0" style="font-family: 'Arial' , sans-serif; font-size: 13px; line-height: 16px;
+                                                        font-weight: bold;  padding-top: 48px; color:#E87722;">
+                                                        Your details
+                                                        </td>
+                                                    </tr>
+                                                    <tr class="item-container">
+                                                        <td style="padding-top: 8px; padding-bottom: 24px;">
+                                                        <table border="0" role="presentation" cellpadding="0" cellspacing="0" width="100%">
+                                                            <tbody>
+                                                                <tr class="item-container">
+                                                                    <td style="padding-top: 16px;">
+                                                                    <table border="0" role="presentation" cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="left" class="topic splitMobile padding0" valign="top" style="font-family: 'Arial' , sans-serif; font-size: 16px; width: 136px; line-height: 20px;font-weight: 300; color: #636566;">Organisation</td>
+                                                                                <td align="left" class="splitMobile padding0" valign="top" style="font-family: 'Arial' , sans-serif; font-size: 16px; line-height: 20px;font-weight: bold; color: #183028;  padding-left: 24px; padding-right: 24px;"><span id="organisation"> </span></td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr class="item-container">
+                                                                    <td style="padding-top: 16px;">
+                                                                    <table border="0" role="presentation" cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="left" class="topic splitMobile padding0" valign="top" style="font-family: 'Arial' , sans-serif; font-size: 16px; width: 136px; line-height: 20px;font-weight: 300; color: #636566;">Industry type</td>
+                                                                                <td align="left" class="splitMobile padding0" valign="top" style="font-family: 'Arial' , sans-serif; font-size: 16px; line-height: 20px;font-weight: bold; color: #183028;  padding-left: 24px; padding-right: 24px;"><span id="typeOfBusiness"> </span></td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr class="item-container">
+                                                                    <td style="padding-top: 16px;">
+                                                                    <table border="0" role="presentation" cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="left" class="topic splitMobile padding0" valign="top" style="font-family: 'Arial' , sans-serif; font-size: 16px; width: 136px; line-height: 20px;font-weight: 300; color: #636566;">Number of members to be insured</td>
+                                                                                <td align="left" class="splitMobile padding0" valign="top" style="font-family: 'Arial' , sans-serif; font-size: 16px; line-height: 20px;font-weight: bold; color: #183028;  padding-left: 24px; padding-right: 24px;"><span id="noOfMembers"> </span></td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                      <td class="you-details padding16" width="100%" height="1" style="font-size: 1px; line-height: 1px;padding-left: 48px; padding-right: 48px; ">
+                        <table border="0" bgcolor="#B3B6B8" height="1" role="presentation" cellpadding="0" cellspacing="0" width="100%">
+                          <tr>
+                            <td bgcolor="#B3B6B8" width="100%" height="1" style="font-size: 1px; line-height: 1px;"><!--[if gte mso 15]>&nbsp;<![endif]--></td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                                        <tr>
+                                            <td align="left" class="padding16" style="font-family: 'Arial' , sans-serif; font-size: 16px; line-height: 24px;
+                                            font-weight: 300; color: #183028; padding-top: 48px; padding-bottom: 64px; padding-left: 48px; padding-right: 48px;">
+                                            We look forward to speaking to you soon.
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <table align="center" border="0" cellpadding="0" role="presentation" cellspacing="0" class="table" width="600">
+                                    <tbody>
+                                        <tr>
+                                            <td style="text-align: left; background: #e87722; width: 16px;" valign="bottom">
+                                            <p style="margin: 0px;padding: 0px;display:block;height: 16px;font-size: 12px;" valign="bottom">
+                                            <img alt="" src="-/media/35BDA102BFD74A4B9FD7A70009F0EF18.ashx" width="16" height="16" style="display: block; text-decoration: none; -ms-interpolation-mode: bicubic;  border: none;height: auto;" />
+                                            </p>
+                                            </td>
+                                            <td class="padding0" style="font-family: 'Arial' , sans-serif; font-size: 16px; line-height: 24px;
+                                            font-weight: 300; color: #FFFFFF; padding-left: 32px; background: #E87722; padding-right: 32px;">
+                                            <table align="left" border="0" cellpadding="0" role="presentation" cellspacing="0" width="100%">
+                                                <tbody>
+                                                    <tr>
+                                                        <td style="padding-top: 12px; padding-bottom: 12px;margin: 0;color:#FFFFFF;font-size: 16px;font-family: Arial;">
+                                                        Need help sooner? No problem. Visit our
+                                                        <a href="{imageDomain}/en/support" style="text-decoration:underline;color:#FFFFFF;font-weight: bold;">support</a>
+                                                        page or call <strong><a href="tel://+66 2-632-6400" style="text-decoration:underline;color:#FFFFFF;font-weight: bold;">+66 2-632-6400</a></strong>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            </td>
+                                            <td style="text-align: right; background: #e87722; width: 16px;" valign="bottom">
+                                            <p style="margin: 0px;padding: 0px;display: block;height: 16px;font-size: 12px;" valign="bottom">
+                                            <img alt="" src="-/media/C38187DE62B84242BACD9F5C8028AA09.ashx" width="16" height="16" style="display: block; text-decoration: none; -ms-interpolation-mode: bicubic;  border: none;height: auto;" />
+                                            </p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <table align="center" border="0" cellpadding="0" role="presentation" cellspacing="0" class="table" width="600">
+                                    <tbody>
+                                        <tr>
+                                            <td align="left" class="disclaimer-text" style="font-family: 'Arial' , sans-serif; font-size: 13px; line-height: 20px;
+                                            font-weight: 300; color: #183028; padding: 24px 0 48px;">
+                                            This is an automated message. Please do not reply to this email. You are receiving this email because you recently contacted FWD. Your privacy is important to us. Read our <a rel="noopener noreferrer" rel="noopener noreferrer" href="{imageDomain}/en/privacypolicy" target="_blank" style="color: #183028;text-decoration: underline;">privacy policy</a>.
+                                            </td>
+                                        </tr>
+                                        <tr>
+                      <td style="padding-bottom: 24px;">
+                        <table align="left" border="0" role="presentation" cellpadding="0" cellspacing="0">
+                            <tbody>
+                              <tr>
+                                <td class="facebook" width="40" height="40">
+                                  <a href="https://www.facebook.com/fwdthailand" target="_blank"><img src="-/media/62CBE9610CE749259AF413730FC76E7D.ashx" alt="Facebook" width="40" height="40" /></a>
+                                </td>
+                                <td class="twitter" width="40" height="40" style="padding-left: 8px;">
+                                  <a href="https://twitter.com/fwdthailand" target="_blank"><img src="-/media/10DEF292A7694C0396C61187FC30E8CD.ashx" alt="Twitter" width="40" height="40" /></a>
+                                </td>
+                                <td class="line" width="40" height="40" style="padding-left: 8px;">
+                                  <a href="https://line.me/ti/p/%40fwdthailand" target="_blank"><img src="-/media/C2044F02F5E24D51813C78A88FA9E1DD.ashx" alt="Line" width="40" height="40" /></a>
+                                </td>
+                                <td class="youtube" width="40" height="40" style="padding-left: 8px;">
+                                  <a href="https://www.youtube.com/channel/UCD3UsUfE10gjPjGEepO_r1A" target="_blank"><img src="-/media/FE958AB869CC49E2B142DA135449A5E1.ashx" alt="Youtube" width="40" height="40" /></a>
+                                </td>
+                                <td style="">
+                                  &nbsp;
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="100%" bgcolor="#B3B6B8" height="1" style="font-size: 1px; line-height: 1px;"><!--[if gte mso 15]>&nbsp;<![endif]--></td>
+                    </tr>
+                                        <tr>
+                                            <td class="copyright-text" style="font-family: 'Arial' , sans-serif; font-size: 13px; line-height: 20px;
+                                            font-weight: 300; color: #183028;  padding-top: 16px; padding-bottom: 64px;">
+                                            &copy; Copyright 2020 FWD Thailand. All rights reserved.
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        </div>
+        </body>
+        </html>
+    - ID: "9ad25506-e0fb-416d-8894-9845094b47bc"
+      Hint: emailSubject
+      Value: Group Enquiry

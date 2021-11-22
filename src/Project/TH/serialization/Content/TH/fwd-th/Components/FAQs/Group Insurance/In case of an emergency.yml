@@ -1,0 +1,45 @@
+﻿---
+ID: "96309cd2-78e0-4b8b-9740-1dfb1433b83d"
+Parent: "0af53403-9d7d-4218-b521-e475fb1e4f84"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Group Insurance/In case of an emergency"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200510T030023Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "In case of an emergency, can the insured receive medical treatment in your network of hospitals without the insurance card shown?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: Your ID card can be shown instead of the insurance card.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200510T030053Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "กรณีเกิดเหตุฉุกเฉิน และไม่ได้นำบัตรประกันสุขภาพไปยื่นที่โรงพยาบาลในเครือข่าย จะสามารถเข้ารับการรักษาพยาบาลได้หรือไม่?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: สามารถแสดงบัตรประชาชนแทนบัตรประกันสุขภาพได้

@@ -1,0 +1,30 @@
+﻿---
+ID: "20297284-b3b9-41c6-bd88-95f9272ea965"
+Parent: "dc44bb05-a756-47f9-b168-321b22729ce4"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/exciting-vietnam/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2800
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T020440Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        ก่อนเข้าน้ำตกเราต้องจ่ายค่าเข้า 30,000 VND เข้าไปยังไม่เจอน้ำตกหรอกครับ แม้แต่เสียงน้ำกระทบพื้นก็ยังไม่ได้ยิน เพราะเราต้องลงไปด้านล่างก่อน ไฮไลท์ของน้ำตกดาตันลาอยู่ที่เราต้องเล่น Roller Coaster ลงไปที่น้ำตก<br />
+        <br />
+        จริงๆ เราเดินลงไปได้ แต่จะเดินทำไมให้เหนื่อยใช่ไหมครับ ซื้อตั๋ว 60,000 VND คาดเข็มขัดให้มั่นแล้วไปไถลลงน้ำตกกันดีกว่าครับ ลองดูแล้วอยากลองเล่นอีกหลายๆ รอบเลย<br />
+        <br />
+        พอลงมาถึงด้านล่างเจอน้ำตกสูงตระหง่าน น้ำใสแจ๋ว แต่ไม่ใช่น้ำตกที่สามารถลงไปเล่นน้ำได้นะ เหมาะสำหรับไปชื่นชมความงามธรรมชาติและพักผ่อนหย่อนใจ นั่งจิบเครื่องดื่มเย็นๆ ครับ

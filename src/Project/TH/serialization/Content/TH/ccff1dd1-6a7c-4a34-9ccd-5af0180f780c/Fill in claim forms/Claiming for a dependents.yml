@@ -1,0 +1,53 @@
+﻿---
+ID: "0fac96cb-db38-4b4a-b78e-f2dd1300e021"
+Parent: "48e630d6-d29f-44b4-b2b6-d77790b66325"
+Template: "ad6870d4-2dd6-40ef-a8fa-941ab32cee43"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/tabs/local-folder/Tab Content/Fill in claim forms/Claiming for a dependents"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{96BC3A53-AB72-49EF-BA31-37D901B59263}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T130555Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value: Claiming for a dependents
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: 
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link linktype="media" target="" id="{321E5316-7A0F-4307-A189-718E529E4338}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200416T104254Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value: Claiming for a dependents
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Download" linktype="media" target="" id="{321E5316-7A0F-4307-A189-718E529E4338}" />

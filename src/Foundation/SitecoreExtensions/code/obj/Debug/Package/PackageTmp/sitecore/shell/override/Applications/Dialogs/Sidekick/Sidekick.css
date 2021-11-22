@@ -1,0 +1,10 @@
+﻿.scWindowCaption {
+    color: #fff;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+    line-height: 60px;
+    font-size: 18px;
+    padding-left: 15px;
+}

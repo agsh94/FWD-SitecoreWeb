@@ -1,0 +1,33 @@
+﻿---
+ID: "4c7b4db6-56ac-47e7-ab9a-78caeaaf0eb2"
+Parent: "efb39c78-b269-406c-9542-8cc91d513933"
+Template: "fe08a445-9cb9-491c-a047-1a3ca3ffd68a"
+Path: "/sitecore/content/fwd/fwd-th/Components/footerLinks/business-footer-navigation-links/column-3"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Column 3
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200226T072310Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200314T094100Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

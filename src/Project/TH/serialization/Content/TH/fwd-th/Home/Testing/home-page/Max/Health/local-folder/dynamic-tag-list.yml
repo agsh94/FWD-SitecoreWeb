@@ -1,0 +1,56 @@
+﻿---
+ID: "bd1da1c8-6e27-4fd7-aed2-92b3400530ac"
+Parent: "d2fd2843-0295-4ecc-a986-2529affd62c4"
+Template: "7c74cef1-823c-4bc7-a386-21feb21e7441"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Max/Health/local-folder/dynamic-tag-list"
+DB: master
+SharedFields:
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{20162863-AE86-4B42-9AEC-B7A81A345553}"
+- ID: "ec781cb4-1cfe-42b3-a826-9798c79f2bf5"
+  Hint: featuredTags
+  Type: Multilist
+  Value: |
+    {4C6B8CB9-D359-4498-A1CD-107CBB0843FE}
+    {1A0882D1-29E0-44F1-A452-1BFA66656B0E}
+    {4F3A2D61-BBA0-47E8-AFAC-1A0873AC1D34}
+    {65DFE505-B497-4ABD-A5EC-CFA2185F68FA}
+- ID: "ef2bcb82-b8a8-4be6-88a7-5269b777ad1d"
+  Hint: apiSubType
+  Value: "{08B2F110-35F4-4EA3-86E8-DAF511BB577D}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Dynamic Tag List
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20200206T123436:637165892762072354Z"
+    - ID: "998f4637-f83a-4df1-961d-20fbf17cd1af"
+      Hint: title
+      Value: Your daily inspiration
+    - ID: "f6930446-2b46-461f-8d1a-3a08b6ca66b5"
+      Hint: description
+      Value: "Looking for health advice, saving tips, or fitness goals? Explore a variety of FWD content that will energise you to celebrate living."
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200219T091747Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "998f4637-f83a-4df1-961d-20fbf17cd1af"
+      Hint: title
+      Value: Your daily inspiration
+    - ID: "f6930446-2b46-461f-8d1a-3a08b6ca66b5"
+      Hint: description
+      Value: "Looking for health advice, saving tips, or fitness goals? Explore a variety of FWD content that will energise you to celebrate living."

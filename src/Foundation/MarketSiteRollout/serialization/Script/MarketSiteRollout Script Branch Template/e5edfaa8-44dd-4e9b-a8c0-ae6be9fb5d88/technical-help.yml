@@ -1,0 +1,25 @@
+﻿---
+ID: "dc33741e-c31a-4ed6-9732-f200fec45b04"
+Parent: "e5edfaa8-44dd-4e9b-a8c0-ae6be9fb5d88"
+Template: "69b601a8-8555-4411-8c17-aa91671eec32"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Tags/supportTags/supporttopic/technical-help"
+DB: master
+SharedFields:
+- ID: "a903eb23-a8d6-4a9a-bd27-4bd363b1fcf0"
+  Hint: searchName
+  Value: Technical help
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Technical help
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: Technical help
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191101T174412Z

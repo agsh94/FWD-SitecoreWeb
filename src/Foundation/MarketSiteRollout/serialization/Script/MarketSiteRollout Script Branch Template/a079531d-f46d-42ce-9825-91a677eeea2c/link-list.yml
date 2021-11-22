@@ -1,0 +1,28 @@
+﻿---
+ID: "4a53132b-f9e6-4094-b73c-e261127b789a"
+Parent: "a079531d-f46d-42ce-9825-91a677eeea2c"
+Template: "68016eee-7ce8-453d-9b04-20bcd42da406"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/About Us/brand-story/local-folder/link-list"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-125"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Link List
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T113814Z
+    - ID: "d7fa80f1-d6d1-4ddd-9366-fd4a9c39b13a"
+      Hint: title
+      Value: 
+    - ID: "e5d5024c-a73c-4218-a3ce-0ec1d13276bc"
+      Hint: listItems
+      Value: "{3AC5B3E4-2EBC-4BAF-B1EF-DC8AE138BD02}|{9BE38576-120B-46F3-9C3F-5C70B9F6F18B}"

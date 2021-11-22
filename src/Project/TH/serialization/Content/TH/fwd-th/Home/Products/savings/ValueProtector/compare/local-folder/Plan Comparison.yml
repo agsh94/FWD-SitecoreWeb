@@ -1,0 +1,45 @@
+﻿---
+ID: "70c06e09-7365-42df-a003-d11abab9f133"
+Parent: "78398391-9d68-4e59-936f-eeed59abaaa3"
+Template: "cf197858-5a1a-4c98-8b93-209f8561ba99"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/savings/ValueProtector/compare/local-folder/Plan Comparison"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18d7712b-f750-433b-bf63-082173affa66"
+      Hint: title
+      Value: Compare Product
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200618T041707Z
+    - ID: "ae248fd0-0789-4510-9ac2-98073f2baa08"
+      Hint: comparisonTypeLabel
+      Value: Premium from
+    - ID: "ea815c94-4a9a-440a-a3ae-1172ebec5bfa"
+      Hint: enableCalculation
+      Type: Checkbox
+      Value: 1
+    - ID: "f871e770-f58d-41eb-9454-6c8f10167652"
+      Hint: comparePlansModalTitle
+      Value: Compare plans for Value protector
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18d7712b-f750-433b-bf63-082173affa66"
+      Hint: title
+      Value: Compare Plans
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200708T132945Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ea815c94-4a9a-440a-a3ae-1172ebec5bfa"
+      Hint: enableCalculation
+      Type: Checkbox
+      Value: 1

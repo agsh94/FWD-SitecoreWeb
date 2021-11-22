@@ -1,0 +1,351 @@
+{
+    "Datasource Item": {
+        "secondaryLink": {
+            "value": {
+                "href": "/about-us",
+                "text": "",
+                "anchor": "",
+                "linktype": "internal",
+                "class": "",
+                "title": "Go to Group claims",
+                "target": "",
+                "querystring": "",
+                "id": "{49F0D81D-2E91-44B2-9F6E-3267BABAFA41}"
+            }
+        },
+        "secondaryText": {
+            "value": "Are you covered under your company's insurance?"
+        },
+        "subTitle": {
+            "value": "We’ve selected a simple, quick and easy claim process. Select the type of claim to begin"
+        },
+        "title": {
+            "value": "Let's get started with your claim.."
+        },
+        "claimType": [
+            {
+                "id": "7376e338-37fd-427c-bb11-1006b44b746a",
+                "fields": {
+                    "searchName": {
+                        "value": "General Insurance"
+                    },
+                    "name": {
+                        "value": "General Insurance"
+                    }
+                }
+            },
+            {
+                "id": "99398c71-2613-431b-a2da-6993697abb2d",
+                "fields": {
+                    "searchName": {
+                        "value": "Cash Returns"
+                    },
+                    "name": {
+                        "value": "Cash Returns"
+                    }
+                }
+            }
+        ]
+    },
+
+    "Type Item1": {
+        "searchName": {
+            "value": "General Insurance"
+        },
+        "name": {
+            "value": "General Insurance"
+        }
+    },
+    "Type Item2": {
+        "searchName": {
+            "value": "General Insurance"
+        },
+        "name": {
+            "value": "General Insurance"
+        }
+    },
+
+
+    "Context List Item": {
+        "icon": {
+            "value": {}
+        },
+        "description": {
+            "value": "Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue en. "
+        },
+        "title": {
+            "value": "Accident and Health"
+        },
+        "primaryNeedTags": {
+            "id": "7c220a19-5233-46df-a48b-0995d05db933",
+            "url": "/Content/Category/Claim/cash-returns",
+            "fields": {
+                "link": {
+                    "value": {}
+                },
+                "name": {
+                    "value": "Cash Returns"
+                }
+            }
+        },
+        "contentType": {
+            "id": "58e30460-ac9f-45c2-8b0f-47e93979778b",
+            "url": "/Content/Tags/commonTags/contentType/Claim",
+            "fields": {
+                "searchName": {
+                    "value": "Claim"
+                },
+                "name": {
+                    "value": "Claim"
+                }
+            }
+        },
+        "subtype": {
+            "id": "5a19ee28-8a41-4de5-b8ec-f4b0418bbaa7",
+            "url": "/Content/Tags/commonTags/contentSubtype/Claims/Forms",
+            "fields": {
+                "searchName": {
+                    "value": "Forms"
+                },
+                "name": {
+                    "value": "Forms"
+                }
+            }
+        },
+        "metadataDescription": {
+            "value": ""
+        },
+        "metadataTitle": {
+            "value": ""
+        },
+        "isPageSearchable": {
+            "value": true
+        }
+    },
+
+    "Context ClaimItem": {
+        "icon": {
+            "value": {}
+        },
+        "description": {
+            "value": "Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue en. "
+        },
+        "title": {
+            "value": "Accident and Health"
+        },
+        "primaryNeedTags": {
+            "id": "7c220a19-5233-46df-a48b-0995d05db933",
+            "url": "/Content/Category/Claim/cash-returns",
+            "fields": {
+                "link": {
+                    "value": {}
+                },
+                "name": {
+                    "value": "Cash Returns"
+                }
+            }
+        },
+        "contentType": {
+            "id": "58e30460-ac9f-45c2-8b0f-47e93979778b",
+            "url": "/Content/Tags/commonTags/contentType/Claim",
+            "fields": {
+                "searchName": {
+                    "value": "Claim"
+                },
+                "name": {
+                    "value": "Claim"
+                }
+            }
+        },
+        "subtype": {
+            "id": "5a19ee28-8a41-4de5-b8ec-f4b0418bbaa7",
+            "url": "/Content/Tags/commonTags/contentSubtype/Claims/Forms",
+            "fields": {
+                "searchName": {
+                    "value": "Forms"
+                },
+                "name": {
+                    "value": "Forms"
+                }
+            }
+        },
+        "metadataDescription": {
+            "value": ""
+        },
+        "metadataTitle": {
+            "value": ""
+        },
+        "isPageSearchable": {
+            "value": true
+        }
+    },
+
+    "Child Item1": {
+        "icon": {
+            "value": {}
+        },
+        "description": {
+            "value": "Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue en. "
+        },
+        "title": {
+            "value": "Accident and Health"
+        },
+        "primaryNeedTags": {
+            "id": "7c220a19-5233-46df-a48b-0995d05db933",
+            "url": "/Content/Category/Claim/cash-returns",
+            "fields": {
+                "link": {
+                    "value": {}
+                },
+                "name": {
+                    "value": "Cash Returns"
+                }
+            }
+        },
+        "contentType": {
+            "id": "58e30460-ac9f-45c2-8b0f-47e93979778b",
+            "url": "/Content/Tags/commonTags/contentType/Claim",
+            "fields": {
+                "searchName": {
+                    "value": "Claim"
+                },
+                "name": {
+                    "value": "Claim"
+                }
+            }
+        },
+        "subtype": {
+            "id": "5a19ee28-8a41-4de5-b8ec-f4b0418bbaa7",
+            "url": "/Content/Tags/commonTags/contentSubtype/Claims/Forms",
+            "fields": {
+                "searchName": {
+                    "value": "Forms"
+                },
+                "name": {
+                    "value": "Forms"
+                }
+            }
+        },
+        "metadataDescription": {
+            "value": ""
+        },
+        "metadataTitle": {
+            "value": ""
+        },
+        "isPageSearchable": {
+            "value": true
+        }
+    },
+    "Child Item2": {
+        "icon": {
+            "value": {}
+        },
+        "description": {
+            "value": "Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue en. "
+        },
+        "title": {
+            "value": "Accident and Health"
+        },
+        "primaryNeedTags": {
+            "id": "7c220a19-5233-46df-a48b-0995d05db933",
+            "url": "/Content/Category/Claim/cash-returns",
+            "fields": {
+                "link": {
+                    "value": {}
+                },
+                "name": {
+                    "value": "Cash Returns"
+                }
+            }
+        },
+        "contentType": {
+            "id": "58e30460-ac9f-45c2-8b0f-47e93979778b",
+            "url": "/Content/Tags/commonTags/contentType/Claim",
+            "fields": {
+                "searchName": {
+                    "value": "Claim"
+                },
+                "name": {
+                    "value": "Claim"
+                }
+            }
+        },
+        "subtype": {
+            "id": "5a19ee28-8a41-4de5-b8ec-f4b0418bbaa7",
+            "url": "/Content/Tags/commonTags/contentSubtype/Claims/Forms",
+            "fields": {
+                "searchName": {
+                    "value": "Forms"
+                },
+                "name": {
+                    "value": "Forms"
+                }
+            }
+        },
+        "metadataDescription": {
+            "value": ""
+        },
+        "metadataTitle": {
+            "value": ""
+        },
+        "isPageSearchable": {
+            "value": true
+        }
+    },
+    "Child Item3": {
+        "icon": {
+            "value": {}
+        },
+        "description": {
+            "value": "Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue en. "
+        },
+        "title": {
+            "value": "Accident and Health"
+        },
+        "primaryNeedTags": {
+            "id": "7c220a19-5233-46df-a48b-0995d05db933",
+            "url": "/Content/Category/Claim/cash-returns",
+            "fields": {
+                "link": {
+                    "value": {}
+                },
+                "name": {
+                    "value": "Cash Returns"
+                }
+            }
+        },
+        "contentType": {
+            "id": "58e30460-ac9f-45c2-8b0f-47e93979778b",
+            "url": "/Content/Tags/commonTags/contentType/Claim",
+            "fields": {
+                "searchName": {
+                    "value": "Claim"
+                },
+                "name": {
+                    "value": "Claim"
+                }
+            }
+        },
+        "subtype": {
+            "id": "5a19ee28-8a41-4de5-b8ec-f4b0418bbaa7",
+            "url": "/Content/Tags/commonTags/contentSubtype/Claims/Forms",
+            "fields": {
+                "searchName": {
+                    "value": "Forms"
+                },
+                "name": {
+                    "value": "Forms"
+                }
+            }
+        },
+        "metadataDescription": {
+            "value": ""
+        },
+        "metadataTitle": {
+            "value": ""
+        },
+        "isPageSearchable": {
+            "value": true
+        }
+    }
+}

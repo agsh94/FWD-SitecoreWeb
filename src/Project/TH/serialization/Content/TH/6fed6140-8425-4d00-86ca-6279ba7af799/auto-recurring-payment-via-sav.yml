@@ -1,0 +1,43 @@
+﻿---
+ID: "0d77af56-1422-42ac-822f-9c01b79bacf5"
+Parent: "6fed6140-8425-4d00-86ca-6279ba7af799"
+Template: "515c66c7-5438-4aa1-94b5-2c1fe0c35a30"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/premium-payment/local-folder/premium-payment/DropdownItem/auto-recurring-payment-via-savings-account"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Auto recurring payment via savings account
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191226T092155Z
+    - ID: "d67d5342-eb75-41e4-959f-466e00455f25"
+      Hint: title
+      Value: Auto recurring payment via your savings account
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Auto recurring payment via savings account
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T084815Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d67d5342-eb75-41e4-959f-466e00455f25"
+      Hint: title
+      Value: หักบัญชีเงินฝากธนาคารอัตโนมัติ

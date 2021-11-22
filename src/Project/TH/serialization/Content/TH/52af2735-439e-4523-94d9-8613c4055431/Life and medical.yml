@@ -1,0 +1,57 @@
+﻿---
+ID: "22598e3a-9e9a-428a-85de-d6288de2f6bd"
+Parent: "52af2735-439e-4523-94d9-8613c4055431"
+Template: "ea22f56c-b79d-4ee8-96bf-61e4c32bd034"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/GroupLandingPage/local-folder/GroupProductList/Life and medical"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{CDC36767-D0EA-46E8-8448-B46173FA4DF1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200121T100537Z
+    - ID: "703b9cb2-cc5d-4ff6-b310-4a4136a5991a"
+      Hint: description
+      Value: Protect your employees and their health. Give them peace of mind to help them work effectively and ready to step into success.
+    - ID: "d6d3ce14-ebd2-43ee-bfab-d3800762e9b4"
+      Hint: title
+      Value: Life and medical
+    - ID: "f0eaa081-54d6-4839-9035-5e9625656318"
+      Hint: groupProducts
+      Type: Multilist
+      Value: |
+        {2ECCAA07-00C6-4619-ABFB-A86623601F03}
+        {9075DC88-5DC6-4374-BF31-56BBD4438E9F}
+        {A3C9E336-741F-495C-8C6F-E2264D95B5AD}
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200403T075314Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "703b9cb2-cc5d-4ff6-b310-4a4136a5991a"
+      Hint: description
+      Value: |
+        ปกป้องพนักงานและสุขภาพของพวกเขา ให้ความอุ่นใจแก่พวกเขาเพื่อช่วยให้พวกเขาทำงานได้อย่างมีประสิทธิภาพและพร้อมที่จะก้าวไปสู่ความสำเร็จ
+        
+    - ID: "d6d3ce14-ebd2-43ee-bfab-d3800762e9b4"
+      Hint: title
+      Value: ชีวิตและการแพทย์ ชีวิตและการแพทย์
+    - ID: "f0eaa081-54d6-4839-9035-5e9625656318"
+      Hint: groupProducts
+      Type: Multilist
+      Value: |
+        {39C34C44-85B7-4344-A624-EF603992B688}
+        {975986D1-4F67-4C1F-BFCF-DB8D4F4012A2}
+        {D6E16115-7D0C-4F41-BA04-1BD6821F4DFF}

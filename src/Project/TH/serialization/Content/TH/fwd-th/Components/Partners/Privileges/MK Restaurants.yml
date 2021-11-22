@@ -1,0 +1,55 @@
+﻿---
+ID: "ad0c7252-fb53-4d77-a8e7-bbe600a4fd03"
+Parent: "25f34b10-25cb-4df0-a0cc-6ec8d73726c5"
+Template: "a874f518-dbe3-409e-b0cf-a6040ae33471"
+Path: "/sitecore/content/fwd/fwd-th/Components/Partners/Privileges/MK Restaurants"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200412T043307Z
+    - ID: "4c631be5-5969-4825-a79d-ed44278401e0"
+      Hint: title
+      Value: MK Restaurants
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "7c1d455c-e8dc-4601-b4cc-0485c4a94bd6"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{E7655F8C-0B06-46FC-9A3E-BA346CAE7D68}" />
+    - ID: "85332073-47d2-4e12-952e-6ab2dbff23ba"
+      Hint: image
+      Value: |
+        <image mediaid="{E7655F8C-0B06-46FC-9A3E-BA346CAE7D68}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200412T043042Z
+    - ID: "4c631be5-5969-4825-a79d-ed44278401e0"
+      Hint: title
+      Value: เอ็มเค เรสโตรองต์
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "7c1d455c-e8dc-4601-b4cc-0485c4a94bd6"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{E7655F8C-0B06-46FC-9A3E-BA346CAE7D68}" />
+    - ID: "85332073-47d2-4e12-952e-6ab2dbff23ba"
+      Hint: image
+      Value: |
+        <image mediaid="{E7655F8C-0B06-46FC-9A3E-BA346CAE7D68}" />

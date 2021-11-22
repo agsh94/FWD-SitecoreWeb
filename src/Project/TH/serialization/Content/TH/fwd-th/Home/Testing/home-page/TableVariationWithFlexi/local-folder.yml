@@ -1,0 +1,36 @@
+﻿---
+ID: "9a4c0e3a-27b4-49bc-a1fd-e334dcc68158"
+Parent: "dc666fed-1758-4623-ab8e-d091a5177d30"
+Template: "fff5f245-ffc0-4022-a998-9b07aa5e761f"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/TableVariationWithFlexi/local-folder"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {7D6BB8C2-D538-441D-82BF-D6AEC40B5929}
+    {51555475-5028-4B05-9B45-53BE53615704}
+    {83A147F2-89BA-4A48-8222-4B73FFE65216}
+    {681B61A2-6F52-4119-B8F4-033587EAEACC}
+    {51759DD5-D4F6-4DCA-9471-FFA1943DBEB4}
+    {91C0F7FD-E185-4652-9CA5-FF0982A40801}
+    {EE2C800F-5808-4E93-B521-517495E4A1E6}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-1000"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{76270951-9968-466F-A0BF-B049B81F5A22}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200726T144352Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

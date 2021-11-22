@@ -1,0 +1,25 @@
+﻿---
+ID: "e49aefdf-cbb2-484b-8fd0-4ee9af28645d"
+Parent: "dc44bb05-a756-47f9-b168-321b22729ce4"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/exciting-vietnam/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2600
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T020440Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: ที่เที่ยวแบบน้ำๆ ดูเหมือนจะไม่ไปด้วยกันกับเมืองหนาว แต่น้ำตก Datanla Falls เป็นที่เที่ยวที่ได้รับความนิยมของเมืองดาลัต ชนิดที่เรียกว่าถ้าผมไม่ไป อาจจะมาเล่าให้เพื่อนๆ ฟังไม่ได้ เพราะมันไม่ครบรสครับที่น้ำตกดาตันลา ผมได้ลองเล่นเครื่องเล่นท่ามกลางธรรมชาติพาให้หัวใจเต้นแรง พร้อมไปกับการชมวิวอีกด้วยครับ

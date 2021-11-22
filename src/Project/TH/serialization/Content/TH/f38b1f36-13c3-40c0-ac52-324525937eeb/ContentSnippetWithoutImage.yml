@@ -1,0 +1,53 @@
+﻿---
+ID: "bc4f7944-9570-4d13-9729-7e5288974c93"
+Parent: "f38b1f36-13c3-40c0-ac52-324525937eeb"
+Template: "09db1bd9-ccf9-4a64-b2c9-ac249d6b96c1"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/ContentSnippet/local-folder/ContentSnippetWithoutImage"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{B096E18E-DAAE-43A8-87DD-1775AD1F16B6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200715T112931Z
+    - ID: "5655c435-8b04-4425-8b90-5a0a04e80d83"
+      Hint: description
+      Value: FWD MAX points come easy just by exploring. Spend it on what you love.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\testuser
+    - ID: "81f9fb34-885b-42e0-bdd7-b2c1cbd468fb"
+      Hint: title
+      Value: Earn as you explore
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="About US" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{49F0D81D-2E91-44B2-9F6E-3267BABAFA41}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200907T152243Z
+    - ID: "5655c435-8b04-4425-8b90-5a0a04e80d83"
+      Hint: description
+      Value: คะแนน FWD MAX เป็นเรื่องง่ายเพียงแค่สำรวจ ใช้จ่ายกับสิ่งที่คุณรัก
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "81f9fb34-885b-42e0-bdd7-b2c1cbd468fb"
+      Hint: title
+      Value:  มุ่งหน้ารับรายได้ในขณะที่คุณสำรวจ
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="About Us" anchor="" linktype="internal" class="" title=""  querystring="" id="{A8D5AA26-83C0-48A7-B595-271820DF93BA}" />

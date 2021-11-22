@@ -1,0 +1,30 @@
+﻿---
+ID: "63e30742-fef8-4e49-b0f9-aca96cee1ca9"
+Parent: "c3a912e4-b109-4ac6-8003-d6979129fa93"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/quick-trip/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T095110Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>2. เขยิบมาหาข้อมูลเพิ่มอีกสเต็ป&nbsp;</strong></p>
+        <p>เพื่อความรวดเร็ว search ด้วยชื่อ &ldquo;ชื่อสถานที่ / รีวิว&rdquo; งานทีนี้ทั้งรายละเอียดการเดินทาง ทั้งรูปมาเต็มครับ พอถึงตรงนี้ คุณก็จะสามารถเลือกหรือตัดสถานที่ที่จะไป พร้อมกับแผนเดินทางคร่าวๆของตัวเองได้แล้ว</p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>3. เข้า Facebook community ของประเทศนั้น</strong></p>
+        <p>พอมานั่งลงรายละเอียดจริงๆ คุณจะเจอสิ่งที่ขาดหายไป เช่น สภาพอากาศ, ร้านน่ากินน่าช้อป,&nbsp;การเลือกแบบตั๋วเดินทาง ฯลฯ สิ่งเหล่านี้ต้องการคนที่เคยไปจริงๆ มาช่วยกันตอบ ซึ่งเราสามารถหากลุ่มเหล่านี้ได้ โดยการพิมพ์ใน facebook ใส่ชื่อประเทศ เราจะเจอกลุ่มเฉพาะที่มีการคุยเฉพาะประเทศนั้นๆ ขอบอกว่าข้อมูลแน่นจริงๆ ครับ และที่สำคัญ คุณอาจจะได้เจอเพื่อนใหม่มาร่วมเดินทางด้วยครับ</p>

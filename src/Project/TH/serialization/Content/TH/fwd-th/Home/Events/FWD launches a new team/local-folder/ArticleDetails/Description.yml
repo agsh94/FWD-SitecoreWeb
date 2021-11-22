@@ -1,0 +1,39 @@
+﻿---
+ID: "0d000b90-fcd8-486d-b33f-e76a1cae7fd7"
+Parent: "cd17591c-cd9f-4e9e-a7cc-802b6bc47114"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Events/FWD launches a new team/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200414T050546Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>#DOCTORTALK offers useful information from medical specialist and family physicians &ndash; with topics ranging from chronic illness to regenerative medicine.</p>
+        <p>#HEALTHYCHALLENGE motivates people to eat healthily and exercise with guidance by a professional nutritionist. Participants with improved-health check results receive rewards!</p>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200414T050626Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        #DOCTORTALK นำเสนอข้อมูลที่มีประโยชน์ตั้งแต่กลุ่มโรคเรื้อรังไปจนถึงเวชศาสตร์ชะลอวัย โดยผู้เชี่ยวชาญด้านการแพทย์และเวชศาสตร์ครอบครัว
+        #HEALTHYCHALLENGE กิจกรรมส่งเสริมสุขภาพการกิน การออกกำลังกาย โดยนักโภชนาการมืออาชีพ ผู้เข้าร่วมกิจกรรมที่มีผลตรวจสุขภาพดีขึ้น จะได้รับของรางวัล

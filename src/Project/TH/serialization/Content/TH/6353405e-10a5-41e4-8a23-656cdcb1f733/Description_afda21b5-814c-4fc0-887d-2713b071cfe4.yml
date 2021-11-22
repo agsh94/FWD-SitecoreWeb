@@ -1,0 +1,24 @@
+﻿---
+ID: "afda21b5-814c-4fc0-887d-2713b071cfe4"
+Parent: "6353405e-10a5-41e4-8a23-656cdcb1f733"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Wealth/already-rich/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T064131Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>7. ให้อาหารสัตว์</strong>
+        </p>
+        <p>การแบ่งปันก็เช่นกัน หรือเรียกอีกอย่างว่าการทำทานก็ได้ ลองแบ่งอาหารและน้ำให้แก่สุนัข หรือ แมวจรจัด ที่ผ่านตาเราเข้ามา เลี้ยงน้องด้วยของกินเล็กๆ น้อยๆ ให้น้องได้พออิ่มท้อง ก็ถือเป็นการสะสมพลังบุญได้แล้ว</p>

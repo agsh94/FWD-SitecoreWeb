@@ -1,0 +1,53 @@
+﻿---
+ID: "86ee72dc-3be8-4c87-bf32-5a2225557d99"
+Parent: "d9681416-32c1-4b1e-a5e1-6886d7b9d710"
+Template: "83a147f2-89ba-4a48-8222-4b73ffe65216"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/support-improved/local-folder/customer-support-horizontal"
+DB: master
+SharedFields:
+- ID: "56b35c4a-f364-45f9-8d35-5a28cecdd7a8"
+  Hint: supportOptions
+  Value: "{CC115D5A-4819-4224-8B56-F69AEC264865}|{FC7A06F3-E7DE-454C-A8BF-514556E68054}|{A3468030-4673-431A-92BF-D27B816936CC}|{73A1FF0C-D2D0-40CE-9D01-09F3C8AF04EA}|{375E1B15-6133-42F6-B927-B0268DF4A233}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Customer Support Horizontal
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191009T075308Z
+    - ID: "e43f6d15-838d-41cd-b745-616c1b373dff"
+      Hint: description
+      Value: "Can't decide what's best for you?"
+    - ID: "e59ccccf-b566-4b39-b862-7fc68fe13e39"
+      Hint: title
+      Value: Get personalised advice
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Show me all support options" anchor="" linktype="internal" class="" title=""  querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T104947Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "e43f6d15-838d-41cd-b745-616c1b373dff"
+      Hint: description
+      Value: ไม่สามารถตัดสินใจได้ว่าอะไรดีที่สุดสำหรับคุณ
+    - ID: "e59ccccf-b566-4b39-b862-7fc68fe13e39"
+      Hint: title
+      Value: รับคำแนะนำส่วนบุคคลภาษาไทย
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Show me all support options" anchor="" linktype="internal" class="" title=""  querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />

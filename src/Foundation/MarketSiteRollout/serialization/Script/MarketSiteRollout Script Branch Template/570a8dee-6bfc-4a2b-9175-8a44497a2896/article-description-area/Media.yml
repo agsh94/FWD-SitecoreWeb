@@ -1,0 +1,29 @@
+﻿---
+ID: "8f984dc8-a504-4cb9-a3eb-af15e97e081a"
+Parent: "80f7eece-8b8a-4470-b242-3317c828e2f4"
+Template: "2861c185-fc81-4fdc-8e91-93de381c752e"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/About Us/News/fwd-cleans-up-in-category-with-11-awards/local-folder/article-description-area/Media"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T060744Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ca02df68-c93a-4d5b-bfb9-65cde670e7cd"
+      Hint: caption
+      Value: "The One, FWD's high-end medical solution, and the associated all-round, one-stop health management service PREMIER THE ONEcierge, claimed an Excellence Award in the Medical Care Category."
+    - ID: "e5628949-939b-4454-b990-5b6c89e0be4d"
+      Hint: image
+      Value: |
+        <image mediaid="{F9AC5180-8D9D-492F-9A80-39378F0241FB}" />

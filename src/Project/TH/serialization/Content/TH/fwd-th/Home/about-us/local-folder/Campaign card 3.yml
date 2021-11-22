@@ -1,0 +1,75 @@
+﻿---
+ID: "b3f2dc74-0297-4e49-8433-be85d065f5aa"
+Parent: "c2cbf05d-3eb4-49ff-b40f-f0308003ffac"
+Template: "f1076e50-7ea9-4ce1-a4da-09f5c71b91e3"
+Path: "/sitecore/content/fwd/fwd-th/Home/about-us/local-folder/Campaign card 3"
+DB: master
+SharedFields:
+- ID: "76eb0c81-c181-4fb8-b5a8-cbdcb0de9fb2"
+  Hint: link
+  Value: |
+    <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{38AA163F-C776-4A58-A5E9-7E825ED0F76C}" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 350
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: FWD donates THB2,000,000
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T094243Z
+    - ID: "5ca0b426-a772-4ca2-83f7-a402b5674c40"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{8B8C9863-882C-4C27-B770-A3460F70C302}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c25bc0d0-1892-4153-ae5d-54f266e1cdfe"
+      Hint: subTitle
+      Value: FWD raised funds for eight community hospitals in the North East of Thailand, led by Thai Singer, Toon
+    - ID: "cb563753-add3-4fff-8f03-9867310ef547"
+      Hint: label
+      Value: 
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: FWD donates THB2,000,000 to support the KaoKonLaKao Foundation
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{E2F82E02-AF1A-4A1C-ABF0-16ABF8F57A71}" cropx="0.51" cropy="0.70" focusx="0.026315789473684292" focusy="-0.40625" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T094333Z
+    - ID: "5ca0b426-a772-4ca2-83f7-a402b5674c40"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{8B8C9863-882C-4C27-B770-A3460F70C302}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c25bc0d0-1892-4153-ae5d-54f266e1cdfe"
+      Hint: subTitle
+      Value: เพื่อสมทบทุนให้กับ 8 โรงพยาบาลชุมชนภาคอีสาน โดยมี นายอาทิวราห์ คงมาลัย (ตูน) รับมอบ
+    - ID: "cb563753-add3-4fff-8f03-9867310ef547"
+      Hint: label
+      Value: 
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: เอฟดับบลิวดี ประกันชีวิต มอบเงิน 2,000,000 บาท สนับสนุนมูลนิธิก้าวคนละก้าว
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{E2F82E02-AF1A-4A1C-ABF0-16ABF8F57A71}" cropx="0.50" cropy="0.36" focusx="0.00877192982456143" focusy="0.28125" />

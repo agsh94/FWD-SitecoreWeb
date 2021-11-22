@@ -1,0 +1,31 @@
+﻿---
+ID: "4859768e-5b57-4cc8-b927-95c2beec9c30"
+Parent: "3b349d9e-cef1-4d04-98f6-172e488bbf03"
+Template: "3dfbb2d7-b19a-4df9-8a93-4ecb69088625"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/savings/ValueProtector/PlanMultiple/AttributeFolder/Additional/Kidney"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200702T165959Z
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{98FD68A2-B606-4C70-9260-D3B0182A7542}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200708T141742Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{98FD68A2-B606-4C70-9260-D3B0182A7542}"

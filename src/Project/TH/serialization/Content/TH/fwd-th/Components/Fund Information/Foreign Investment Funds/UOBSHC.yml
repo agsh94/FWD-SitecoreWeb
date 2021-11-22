@@ -1,0 +1,62 @@
+﻿---
+ID: "684251e1-2f78-4c15-9093-43ef660162aa"
+Parent: "4a67d2c5-3716-42f9-bdf4-4dc7f8ea08aa"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/Fund Information/Foreign Investment Funds/UOBSHC"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-150"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T040708Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: UOB Smart Global Healthcare Fund (UOBSHC)
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.uobam.co.th/th/mutual-fund/00367/UOBSHC'>Fund page</a></li>
+        <li><a target='_blank' href='https://www.uobam.co.th/srcm/fund_mapping/ml24oxhox/ox/ho/o0x0/UOBSHC_TH.pdf'>Fund information summary</a></li>
+        <li><a target='_blank' href='https://www.uobam.co.th/srcm/fund_mapping/mkz5f7ivf/f7/iv/o0x0/UOBSHC_PROJECT_20190831.pdf'>Prospectus</a></li>
+        <li><a target='_blank' href='https://www.uobam.co.th/srcm/fund_mapping/mkzuutmhg/ut/mh/o0x0/UOBSHC_Factsheet_20191031.pdf'>Fact sheet</a></li>
+        <li><a target='_blank' href='https://www.uobam.co.th/srcm/fund_mapping/ml6bu0e1x/u0/e1/o0x0/UOBSHC_Interim_TH_20200229.pdf'>Bi-annual report</a></li>
+        <li><a target='_blank' href='https://www.uobam.co.th/srcm/fund_mapping/ml09iiz66/ii/z6/o0x0/UOBSHC_Annual_Thai_20190831.pdf'>Annual report</a></li>
+        </ul>
+        
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T040631Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: กองทุนเปิด ยูโอบี สมาทร์ท โกลบอล เฮลท์แคร์ ฟันด์ (UOBSHC)
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.uobam.co.th/th/mutual-fund/00367/UOBSHC'>หน้าหลักกองทุน</a></li>
+        <li><a target='_blank' href='https://www.uobam.co.th/srcm/fund_mapping/ml24oxhox/ox/ho/o0x0/UOBSHC_TH.pdf'>สาระสำคัญ ของกองทุน</a></li>
+        <li><a target='_blank' href='https://www.uobam.co.th/srcm/fund_mapping/mkz5f7ivf/f7/iv/o0x0/UOBSHC_PROJECT_20190831.pdf'>หนังสือชี้ชวน</a></li>
+        <li><a target='_blank' href='https://www.uobam.co.th/srcm/fund_mapping/mkzuutmhg/ut/mh/o0x0/UOBSHC_Factsheet_20191031.pdf'>หนังสือชี้ชวนส่วนสรุป</a></li>
+        <li><a target='_blank' href='https://www.uobam.co.th/srcm/fund_mapping/ml6bu0e1x/u0/e1/o0x0/UOBSHC_Interim_TH_20200229.pdf'>รายงาน 6 เดือน</a></li>
+        <li><a target='_blank' href='https://www.uobam.co.th/srcm/fund_mapping/ml09iiz66/ii/z6/o0x0/UOBSHC_Annual_Thai_20190831.pdf'>รายงานประจำปี</a></li>
+        </ul>

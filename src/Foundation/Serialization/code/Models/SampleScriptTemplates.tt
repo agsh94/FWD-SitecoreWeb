@@ -1,0 +1,35 @@
+<#@ template language="C#" debug="True" #>
+<#@ output extension="gen.txt" #>
+<#@ include file="T4Toolbox.tt" #>
+<#@ include file="GlassGenerator.tt" #>
+<#
+		
+	//Initialize "serializedTemplatePath" to give custom serializedTemplatePath for folder with serialized template items.
+	//This will override default path defined in GlassGenerator.tt
+	
+	//var solutionPath = this.Host.ResolveAssemblyReference("$(SolutionDir)");
+	//var serializedTemplatePath = solutionPath+@"\serialization\test";
+	var serializedTemplatePath = string.Empty;
+
+	GlassGenerator generator = new GlassGenerator(
+			"master",
+			new [] { "/sitecore/templates/Feature" },
+			(fieldId, fieldOptions) =>
+				{
+					// Add custom options, like setting the return type of a field property explicitly
+
+					// Dog -> Food
+					if("{1033D7C1-9C1A-4C65-8316-81B6D5E46EB5}".Equals(fieldId))
+					{
+						fieldOptions.GlassFieldTypeName = "IEnumerable<IFood>";
+					}					
+				}, serializedTemplatePath); 
+				
+    generator.Run();
+
+	WriteLine("These files were generated:");
+	foreach(var file in generator.GeneratedFiles)
+	{
+		WriteLine(string.Concat("- ", file));
+	}
+#>

@@ -1,0 +1,64 @@
+﻿---
+ID: "22a5d68e-813b-47d7-b862-addd5806153f"
+Parent: "d7a38098-3f6a-4ff6-93d6-29a0daa271d5"
+Template: "681b61a2-6f52-4119-b8f4-033587eaeacc"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/local-folder/DynamicCardList"
+DB: master
+SharedFields:
+- ID: "2250f909-bae3-415f-a645-9d07826b6566"
+  Hint: apiPageSize
+  Value: 3
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{02A5A5C7-C318-4919-B773-86A65BA98969}"
+- ID: "8f397566-a4d1-4f23-8594-dce13b3720fe"
+  Hint: apiSortBy
+  Value: "{22E8CD03-D525-4DB4-A1AA-8002FCD5673A}"
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{20162863-AE86-4B42-9AEC-B7A81A345553}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1050
+- ID: "e82938f3-6c97-4755-9c0b-baf56b4a5e4f"
+  Hint: apiMobilePageSize
+  Value: 3
+- ID: "ef2bcb82-b8a8-4be6-88a7-5269b777ad1d"
+  Hint: apiSubType
+  Value: "{F9477F10-1A0C-48A1-9AB0-4CD0672C9AA9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200224T073958Z
+    - ID: "d88ea793-1587-4f65-ae5c-80926cd5438b"
+      Hint: subTitle
+      Value: 
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Latest press & media
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See all press &amp; media" anchor="" linktype="internal" class="" title=""  querystring="?contenttype=article" id="{564D4C9C-BEEB-4497-9BB7-74A9EBAEF812}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200311T092319Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Latest press & media
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See all press &amp; media" anchor="" linktype="internal" class="" title=""  querystring="?contenttype=article" id="{564D4C9C-BEEB-4497-9BB7-74A9EBAEF812}" />

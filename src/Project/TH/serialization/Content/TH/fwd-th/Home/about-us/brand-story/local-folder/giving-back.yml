@@ -1,0 +1,68 @@
+﻿---
+ID: "fa4447bf-fce0-4ed2-8fa0-ce08f5057842"
+Parent: "63f9eb92-fe60-4445-b073-174d94729f58"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/about-us/brand-story/local-folder/giving-back"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "998bce23-8608-4a00-b7e8-612a1dd3cb66"
+  Hint: linkGALabelName
+  Value: View our community care events
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 650
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Giving back
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: We’re committed to caring for one another. It’s in our code of conduct as well as our promise to every customer we insure. And it extends to the communities in which we operate, through our corporate social responsibility programme. 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191216T060248Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: <p><span>We’re committed to caring for one another</span><span>. </span><span>It’s in our code of conduct as well as our promise to every customer we insure</span><span>. </span><span>And it extends to the communities in which we operate, through our corporate social responsibility programme</span><span>. </span></p>
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Giving back to our community 
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="View our Community Care events" anchor="" linktype="internal" class="" title=""  querystring="contenttype=Article&amp;subtype=Community%20Care" id="{564D4C9C-BEEB-4497-9BB7-74A9EBAEF812}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: Giving back
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T085504Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: การใส่ใจกันและกัน เป็นทั้งคำมั่นและจริยธรรมธุรกิจที่เราให้สัญญาไว้กับลูกค้าทุกคน คำมั่นนี้ยังแผ่ขยายไปยังชุมชนที่บริษัทของเราดำเนินการอยู่ด้วยการจัดทำโครงการอันเป็นประโยชน์ที่มุ่งเน้นถึงความรับผิดชอบต่อสังคม
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ร่วมสร้างสังคมที่น่าอยู่ด้วยการ “ให้”
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ดูกิจกรรมเพื่อสังคมทั้งหมด" anchor="" linktype="internal" class="" title=""  querystring="contenttype=บทความ&amp;subtype=ใส่ใจในชุมชนของเรา" id="{564D4C9C-BEEB-4497-9BB7-74A9EBAEF812}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"

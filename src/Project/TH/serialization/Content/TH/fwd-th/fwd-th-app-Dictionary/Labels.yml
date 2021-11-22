@@ -1,0 +1,29 @@
+﻿---
+ID: "2b93e66c-a0bb-4e6c-bfae-a12d0e197e33"
+Parent: "bd865add-4592-4f97-bb53-842335e0accb"
+Template: "267d9ac7-5d85-4e9d-af89-99ab296cc218"
+Path: "/sitecore/content/fwd/fwd-th/fwd-th-app-Dictionary/Labels"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191111T112617Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T072125Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

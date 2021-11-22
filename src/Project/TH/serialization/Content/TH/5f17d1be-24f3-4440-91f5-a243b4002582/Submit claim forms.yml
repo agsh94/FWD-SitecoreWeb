@@ -1,0 +1,39 @@
+﻿---
+ID: "9d13f4c0-99e9-4001-a9a7-d85f3318fa73"
+Parent: "5f17d1be-24f3-4440-91f5-a243b4002582"
+Template: "7cd51b29-32c8-44bd-9afc-a2d5587d611c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Claims/accident-and-health 1/local-folder/Copy of GroupTab List/Baggage Delay/Submit claim forms"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T073542Z
+    - ID: "2f5a22b8-fc21-4f5e-9046-64bc79c4ae0c"
+      Hint: title
+      Value: Submit claim forms and your documents in 30 days
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200416T104254Z
+    - ID: "2f5a22b8-fc21-4f5e-9046-64bc79c4ae0c"
+      Hint: title
+      Value: ส่งแบบฟอร์มการเรียกร้องและเอกสารของคุณใน 30 วัน
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

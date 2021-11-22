@@ -1,0 +1,21 @@
+﻿---
+ID: "7843b602-fd41-4bda-9a43-27699787eaa3"
+Parent: "e8495357-264a-4aca-b8db-798d8bcf06e2"
+Template: "63bd1365-c4a9-4fe7-97db-6c56a3b85d39"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/Health/CancerFighterRider/local-folder/Related Products"
+DB: master
+SharedFields:
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{3B19D2B5-AAA3-4FB7-A107-4CEC5F9110F1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200826T075008Z
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Cancer fighter is compatible with

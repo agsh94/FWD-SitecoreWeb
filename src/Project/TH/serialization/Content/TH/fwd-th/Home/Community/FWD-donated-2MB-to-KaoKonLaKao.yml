@@ -1,0 +1,180 @@
+﻿---
+ID: "38aa163f-c776-4a58-a5e9-7e825ed0f76c"
+Parent: "3ee1204f-2a0b-4a9a-be6e-8576f02636c9"
+Template: "937f9755-269c-46cb-87cf-e05c0211ef32"
+Path: "/sitecore/content/fwd/fwd-th/Home/Community/FWD-donated-2MB-to-KaoKonLaKao"
+DB: master
+SharedFields:
+- ID: "05b2b484-bdd9-4a0c-9bc2-013e6a9989a9"
+  Hint: subtype
+  Value: "{0D2D80E1-1FB0-43E9-805C-D1CBF54ED303}"
+- ID: "21d15119-2d83-4d67-a277-65bcef10f64f"
+  Hint: contentType
+  Value: "{4FE0A16D-285F-4C41-9BFA-A1343B036CDF}"
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: "{FB2C4A8A-0593-44B7-B7C4-AE07AF4F8BB2}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "bf878228-1ae3-445d-be8a-9e5fc4dc7532"
+  Hint: canonicalUrl
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F4401E93-3C44-4861-AE73-AE8F72A5C86F}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{8B882DA0-246E-4ED0-AF73-96D257D48B65}"
+          s:ds="{59B9870B-621A-4EE0-8973-E670D3975EDB}" />
+        <r
+          uid="{B34524D6-F06A-46EF-BBB9-37BE63541C2B}"
+          s:ds="{03822442-A9E0-4E6F-AF8A-5B4C360E63B5}" />
+        <r
+          uid="{F131E204-4546-436A-9BAA-F8A7D613A0DE}"
+          s:ds="{5C7D0F2D-7EE4-4681-8514-E51FBACAD23B}"
+          s:par="carouselMode=%7BC81D8D8F-E8D9-468F-ACFC-BBDCE30D66EC%7D&amp;showCategory=1&amp;showImage=1&amp;anchorText&amp;backgroundColor=%7BCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider" />
+        <r
+          uid="{DCEFBE9A-CB6F-4EA1-B123-C1DB121B4108}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{77CE0DCC-1017-44D0-B26A-4BDF632B5237}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "02b87b9a-bb93-4772-82ae-ddd40f19283c"
+      Hint: rewardText
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T082041Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: "FWD Thailand joins forces with singer Toon to raises funds for eight hospitals in the flood-stricken north east"
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20190619T000000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: FWD donates THB 2,000,000 to support the KaoKonLaKao Foundation
+    - ID: "8903e668-0898-456c-b6ed-09d94259e5b1"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{01D88341-F720-4692-BF50-58D20A970443}" cropx="0.50" cropy="0.94" focusx="0" focusy="-0.875" />
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: FWD donates THB 2,000,000 to support the KaoKonLaKao Foundation
+    - ID: "d940cafe-2148-466e-9707-0748711f5fdc"
+      Hint: image
+      Value: |
+        <image mediaid="{01D88341-F720-4692-BF50-58D20A970443}" cropx="0.52" cropy="0.96" focusx="0.04385964912280693" focusy="-0.921875" />
+    - ID: "f109a737-77b7-48cf-969c-2f55df9d876a"
+      Hint: shortDescription
+      Value: 
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: FWD Thailand, FWD insurance, FWD life insurance, review insurance FWD, Community
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "02b87b9a-bb93-4772-82ae-ddd40f19283c"
+      Hint: rewardText
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T082143Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: เพื่อสมทบทุนให้กับ 8 โรงพยาบาลชุมชนภาคอีสาน โดยมี นายอาทิวราห์ คงมาลัย (ตูน) รับมอบ
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20190619T000000Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: เอฟดับบลิวดี ประกันชีวิต มอบเงิน 2,000,000 บาท สนับสนุนมูลนิธิก้าวคนละก้าว
+    - ID: "8903e668-0898-456c-b6ed-09d94259e5b1"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{01D88341-F720-4692-BF50-58D20A970443}" cropx="0.51" cropy="0.80" focusx="0.01754385964912286" focusy="-0.59375" />
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: เอฟดับบลิวดี ประกันชีวิต มอบเงิน 2,000,000 บาท สนับสนุนมูลนิธิก้าวคนละก้าว
+    - ID: "d940cafe-2148-466e-9707-0748711f5fdc"
+      Hint: image
+      Value: |
+        <image mediaid="{01D88341-F720-4692-BF50-58D20A970443}" cropx="0.50" cropy="0.91" focusx="0" focusy="-0.828125" />
+    - ID: "f109a737-77b7-48cf-969c-2f55df9d876a"
+      Hint: shortDescription
+      Value: เพื่อสมทบทุนให้กับ 8 โรงพยาบาลชุมชนภาคอีสาน โดยมี นายอาทิวราห์ คงมาลัย (ตูน) รับมอบ
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: เอฟดับบลิวดีประเทศไทย, ประกันเอฟดับบลิวดี, เอฟดับบลิวดีประกันชีวิต, รีวิวประกันเอฟดับลิวดี
+  - Version: 2
+    Fields:
+    - ID: "02b87b9a-bb93-4772-82ae-ddd40f19283c"
+      Hint: rewardText
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200805T061652Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: เพื่อสมทบทุนให้กับ 8 โรงพยาบาลชุมชนภาคอีสาน โดยมี นายอาทิวราห์ คงมาลัย (ตูน) รับมอบ
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20190619T000000Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hein
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: เอฟดับบลิวดี ประกันชีวิต มอบเงิน 2,000,000 บาท สนับสนุนมูลนิธิก้าวคนละก้าว
+    - ID: "8903e668-0898-456c-b6ed-09d94259e5b1"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{01D88341-F720-4692-BF50-58D20A970443}" cropx="0.51" cropy="0.80" focusx="0.01754385964912286" focusy="-0.59375" />
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: เอฟดับบลิวดี ประกันชีวิต มอบเงิน 2,000,000 บาท สนับสนุนมูลนิธิก้าวคนละก้าว
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200805T061652Z
+    - ID: "d940cafe-2148-466e-9707-0748711f5fdc"
+      Hint: image
+      Value: |
+        <image mediaid="{01D88341-F720-4692-BF50-58D20A970443}" cropx="0.50" cropy="0.91" focusx="0" focusy="-0.828125" />
+    - ID: "f109a737-77b7-48cf-969c-2f55df9d876a"
+      Hint: shortDescription
+      Value: เพื่อสมทบทุนให้กับ 8 โรงพยาบาลชุมชนภาคอีสาน โดยมี นายอาทิวราห์ คงมาลัย (ตูน) รับมอบ
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: เอฟดับบลิวดีประเทศไทย, ประกันเอฟดับบลิวดี, เอฟดับบลิวดีประกันชีวิต, รีวิวประกันเอฟดับลิวดี

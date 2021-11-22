@@ -1,0 +1,38 @@
+﻿---
+ID: "5db741ed-4258-46a0-a024-4a63c846744e"
+Parent: "a332dade-4d9d-40c4-b31d-f2ed1badde18"
+Template: "83a147f2-89ba-4a48-8222-4b73ffe65216"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Privileges/Privilege2/local-folder/customer-support"
+DB: master
+SharedFields:
+- ID: "56b35c4a-f364-45f9-8d35-5a28cecdd7a8"
+  Hint: supportOptions
+  Value: "{E731D01B-2782-4EFB-B734-793ACAD2E3AF}|{CC115D5A-4819-4224-8B56-F69AEC264865}|{9A1BE68C-CC07-49A0-9017-FD0E0A4A6873}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Customer Support
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T053013Z
+    - ID: "e43f6d15-838d-41cd-b745-616c1b373dff"
+      Hint: description
+      Value: Let us assist you the best way possible and answer any questions regarding your privileges.
+    - ID: "e59ccccf-b566-4b39-b862-7fc68fe13e39"
+      Hint: title
+      Value: "Need help?"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Show me all support options" linktype="external" url="/fwd/fwd-th/Home/Support" anchor="" title="support options" target="" />

@@ -1,0 +1,61 @@
+﻿---
+ID: "6c16482f-aa28-4a04-8249-8225e837a036"
+Parent: "49815e8c-6362-476e-a764-a217827ee730"
+Template: "f1076e50-7ea9-4ce1-a4da-09f5c71b91e3"
+Path: "/sitecore/content/fwd/fwd-th/Components/CampaignCards/FWD organised an activity"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T094437Z
+    - ID: "5ca0b426-a772-4ca2-83f7-a402b5674c40"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{3E3B1F3B-7D89-42CE-88E7-C62C217B710E}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c25bc0d0-1892-4153-ae5d-54f266e1cdfe"
+      Hint: subTitle
+      Value: Special children explore new experiences by learning outside the classroom.
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: FWD organised an activity for special children to explore the underwater world
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{3E3B1F3B-7D89-42CE-88E7-C62C217B710E}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T094513Z
+    - ID: "5ca0b426-a772-4ca2-83f7-a402b5674c40"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{3E3B1F3B-7D89-42CE-88E7-C62C217B710E}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c25bc0d0-1892-4153-ae5d-54f266e1cdfe"
+      Hint: subTitle
+      Value: เปิดประสบการณ์ใหม่ สร้างการเรียนรู้นอกห้องเรียนให้แก่น้องๆพิเศษและคณะครูจากโรงเรียนสงขลาพัฒนาปัญญา
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: เอฟดับบลิวดี จัดกิจกรรมพี่พาน้องตะลุยโลกใต้น้ำ 
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{3E3B1F3B-7D89-42CE-88E7-C62C217B710E}" />

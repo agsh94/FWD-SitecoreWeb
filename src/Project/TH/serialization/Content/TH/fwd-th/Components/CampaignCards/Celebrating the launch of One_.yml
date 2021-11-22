@@ -1,0 +1,71 @@
+﻿---
+ID: "54591773-965c-4f68-9740-1365658ca56e"
+Parent: "49815e8c-6362-476e-a764-a217827ee730"
+Template: "f1076e50-7ea9-4ce1-a4da-09f5c71b91e3"
+Path: "/sitecore/content/fwd/fwd-th/Components/CampaignCards/Celebrating the launch of One Agency"
+DB: master
+SharedFields:
+- ID: "76eb0c81-c181-4fb8-b5a8-cbdcb0de9fb2"
+  Hint: link
+  Value: |
+    <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{88AE5104-9B83-4FA0-B758-5477BB66B6A2}" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T090045Z
+    - ID: "5ca0b426-a772-4ca2-83f7-a402b5674c40"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{70A63A51-D7F0-4CDF-8A73-D8380657FDB6}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c25bc0d0-1892-4153-ae5d-54f266e1cdfe"
+      Hint: subTitle
+      Value: "Celebrations on the merging of two agencies: FWD Insurance and SCB Life Assurance. "
+    - ID: "cb563753-add3-4fff-8f03-9867310ef547"
+      Hint: label
+      Value: 15 November 2019
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: FWD Insurance and SCB Life Assurance jointly celebrate the launch of One Agency
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{70A63A51-D7F0-4CDF-8A73-D8380657FDB6}" cropx="0.50" cropy="0.73" focusx="-0.00877192982456143" focusy="-0.46875" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T091208Z
+    - ID: "5ca0b426-a772-4ca2-83f7-a402b5674c40"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{70A63A51-D7F0-4CDF-8A73-D8380657FDB6}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c25bc0d0-1892-4153-ae5d-54f266e1cdfe"
+      Hint: subTitle
+      Value: งานเฉลิมฉลองการรวมตัวแทนฝ่ายขาย เอฟดับบลิวดี ประกันชีวิต และ ไทยพาณิชย์ ประกันชีวิต เข้าเป็นหนึ่งเดียวกัน
+    - ID: "cb563753-add3-4fff-8f03-9867310ef547"
+      Hint: label
+      Value: 15 พฤศจิกายน 2019
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: เอฟดับบลิวดี ประกันชีวิต และ ไทยพาณิชย์ประกันชีวิตร่วมเฉลิมฉลอง One Agency
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{70A63A51-D7F0-4CDF-8A73-D8380657FDB6}" cropx="0.48" cropy="0.77" focusx="-0.04385964912280704" focusy="-0.53125" />

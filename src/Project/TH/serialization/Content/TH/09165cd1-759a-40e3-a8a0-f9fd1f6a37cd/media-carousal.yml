@@ -1,0 +1,37 @@
+﻿---
+ID: "d756ecd2-338f-412c-8438-92d5048efda8"
+Parent: "09165cd1-759a-40e3-a8a0-f9fd1f6a37cd"
+Template: "fc204a62-4a17-4f6d-bb3e-e2916811f89f"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/press-releases/fwd-cleans-up-in-category-with-11-awards/local-folder/article-description-area/media-carousal"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Media Carousal
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T061730Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200108T084134Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

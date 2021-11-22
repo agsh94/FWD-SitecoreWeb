@@ -1,0 +1,100 @@
+﻿---
+ID: "ac59cb3a-06d5-494e-bfca-62d79db5a28f"
+Parent: "79d13938-80b1-4bc2-a9c4-083ab8b0e57d"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Online Service/If I bought a policy from SCB or any former agency channel"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200916T042201Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "If I bought a policy from SCB or through a former agency channel, can I still manage my policy online, FWD Link?&nbsp;"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        Yes. We have an online service that covers policies bought from SCB or through a former agency channel. You can check your benefits, download receipts, change your personal details, along with a host of other self-service options. The online platform is available <a href="https://fwdlink.fwd.co.th/fwd/?utm_source=fwd-website&amp;utm_medium=referral&amp;utm_campaign=20200921-fwd-website-info">here</a>.
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T040259Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D80D2A5C-D5F8-4DA1-8828-B4F51D64461B}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "If I bought a policy from SCB or through a former agency channel, can I still manage my policy online, FWD Link?&nbsp;"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        Yes. We have an online service that covers policies bought from SCB or through a former agency channel. You can check your benefits, download receipts, change your personal details, along with a host of other self-service options. The online platform is available <a href="https://fwdlink.fwd.co.th/fwd/?utm_source=fwd-website&amp;utm_medium=referral&amp;utm_campaign=20200921-fwd-website-info">here</a>.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201001T040259Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200916T042341Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: กรมธรรม์ที่ซื้อผ่านธนาคารไทยพาณิชย์หรือตัวแทนเดิม สามารถใช้บริการ FWD Link ได้หรือไม่
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        ลูกค้าที่ซื้อกรมธรรม์ผ่านธนาคารไทยพาณิชย์หรือตัวแทนเดิม สามารถตรวจสอบผลประโยชน์ ความคุ้มครอง ดาวน์โหลดใบแจ้งชำระเบี้ยประกันใบเสร็จ หนังสือรับรองการชำระเบี้ยประกัน เปลี่ยนชื่อ-นามสกุลและที่อยู่จัดส่งเอกสาร เปลี่ยนชื่อผู้รับประโยชน์ ผ่านบริการกรมธรรม์ออนไลน์<a href="https://fwdlink.fwd.co.thhttps://fwdlink.fwd.co.th/fwd/?utm_source=fwd-website&amp;utm_medium=referral&amp;utm_campaign=20200921-fwd-website-info">ได้ที่นี่</a>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T040947Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: กรมธรรม์ที่ซื้อผ่านธนาคารไทยพาณิชย์หรือตัวแทนเดิม สามารถใช้บริการ FWD Link ได้หรือไม่
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        ลูกค้าที่ซื้อกรมธรรม์ผ่านธนาคารไทยพาณิชย์หรือตัวแทนเดิม สามารถตรวจสอบผลประโยชน์ ความคุ้มครอง ดาวน์โหลดใบแจ้งชำระเบี้ยประกันใบเสร็จ หนังสือรับรองการชำระเบี้ยประกัน เปลี่ยนชื่อ-นามสกุลและที่อยู่จัดส่งเอกสาร เปลี่ยนชื่อผู้รับประโยชน์ ผ่านบริการกรมธรรม์ออนไลน์<a href="https://fwdlink.fwd.co.th/fwd/?utm_source=fwd-website&amp;utm_medium=referral&amp;utm_campaign=20200921-fwd-website-info">ได้ที่นี่</a>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201001T040947Z

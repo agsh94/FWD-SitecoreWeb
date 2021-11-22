@@ -1,0 +1,14 @@
+﻿---
+ID: "0c68f15b-22f9-4f9a-a58b-fb2a3c67c971"
+Parent: "689389c0-91c8-4c57-aecb-8932f1c31fa2"
+Template: "fc204a62-4a17-4f6d-bb3e-e2916811f89f"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/About Us/News/article-detail-1/local-folder/ArticleDetails/Gallery"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T065739Z

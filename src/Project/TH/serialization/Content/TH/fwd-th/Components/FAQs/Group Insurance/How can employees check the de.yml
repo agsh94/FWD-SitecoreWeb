@@ -1,0 +1,47 @@
+﻿---
+ID: "acbb214a-00be-44b3-9b48-b6dfa45c45f3"
+Parent: "0af53403-9d7d-4218-b521-e475fb1e4f84"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Group Insurance/How can employees check the details of group insurance"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200510T030310Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "How can employees check the details of group insurance?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        Employees can use the FWD Mobile Application just download from <a rel="noopener noreferrer" rel="noopener noreferrer" href="https://apps.apple.com/th/app/fwd-healthcare/id1322806610" target="_blank">App Store</a> and <a rel="noopener noreferrer" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=com.fwdlifeth.fwdhealthcare" target="_blank">Google Play</a> or call the FWD Call Centre (available 24 hours) at <a href="tel: 026326400">02-632-6400</a>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200510T030340Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "พนักงานสามารถตรวจสอบสิทธิ์ประกันกลุ่มของตัวเองด้วยวิธีใดได้บ้าง?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        พนักงานของคุณสามาถใช้ FWD Mobile Application เพียงดาวน์โหลดบน <a rel="noopener noreferrer" rel="noopener noreferrer" href="https://apps.apple.com/th/app/fwd-healthcare/id1322806610" target="_blank">App Store</a> และ <a rel="noopener noreferrer" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=com.fwdlifeth.fwdhealthcare" target="_blank">Google Play</a> หรือ ติดต่อ FWD Call Centre (ตลอด 24 ชั่วโมง) โทร. <a href="tel: 026326400">02-632-6400</a>

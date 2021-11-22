@@ -1,0 +1,29 @@
+﻿---
+ID: "62f5c652-7382-4708-98ca-4dde750aaf3b"
+Parent: "67b23de7-dabe-497a-820a-ab51abc44805"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/ohkaju-organic-restaurant/local-folder/ArticleDetails/Description5"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 900
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T011035Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span>เปิดเมนูมาก็ร้องว้าวกันเกือบทุกเมนู</span><span dir="RTL"> </span><span>เอาใจทั้งสายผัก</span><span dir="RTL"> </span><span>สายสเต๊ก</span><span dir="RTL"> </span><span>และสายเจกับเมนูที่มีให้เลือกเยอะมากๆ</span><span dir="RTL"> </span><span>เราเลยสั่งแบบไม่ยั้ง</span><span dir="RTL"> </span><span>อ๊ะ</span><span dir="RTL"> </span><span>แต่ขอเตือนไว้ก่อนว่าแต่ละจานมันใหญ่มากจริงๆ</span><span dir="RTL"> </span><span>บางเมนูสามารถแชร์ให้เพื่อน</span><span dir="RTL"> </span><span>2-3 </span><span>คนได้เลย</span><span dir="RTL"> </span><span>ดังนั้นก่อนจะทานสอบถามปริมาณอาหารจากทางร้านก่อนเลย</span></p>
+        <p><span>&nbsp;</span></p>
+        <p><span></span>เริ่มต้นด้วยเมนูเบาๆ<span dir="RTL"> </span>ซึ่งเป็นเมนูซิกเนเจอร์ของสาขานี้ที่อัดแน่นไปด้วยสารอาหารที่มีประโยชน์ต่อร่างกายกับเมนู<span dir="RTL"> </span>คริสปี้<span dir="RTL"> </span>มัลติเกรน<span dir="RTL"> </span>สลัดรวมธัญพืชที่มีทั้งควินัว<span dir="RTL"> </span>ผักชีลาว<span dir="RTL"> </span>เฟต้าชีส<span dir="RTL"> </span><span dir="RTL"></span>ทับทิม<span dir="RTL"> </span>ท็อปด้านบนด้วยแซลมอนย่างหอมๆ<span dir="RTL"> </span>ตอนทานก็บีบมะนาวตัดเลี่ยนหน่อยๆ<span dir="RTL"> </span>ใครที่ควบคุมน้ำหนักอยู่ก็ทานได้<span dir="RTL"> </span>เป็นเมนูที่รับรองเลยว่ามีประโยชน์ทุกคำเลยจริงๆ</p>
+        <p><span></span></p>

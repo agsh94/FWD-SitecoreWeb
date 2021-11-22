@@ -1,0 +1,58 @@
+﻿---
+ID: "08d313f4-a2c7-4983-8e7c-e22f3e7d161a"
+Parent: "4e409f40-b65c-4ead-b47f-9451cecb9a14"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/savings/local-folder/HeroBanner"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: "FWD’s savings insurance plans. Creating a rainy-day fund for everyone"
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{D6A2DB69-0900-46A5-B633-08E1A09E4678}" cropx="0.47" cropy="0.47" focusx="-0.052631578947368474" focusy="0.0625" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T064031Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{D6A2DB69-0900-46A5-B633-08E1A09E4678}" cropx="0.46" cropy="0.41" focusx="-0.08771929824561409" focusy="0.1875" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdtestauthor
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: ประกันชีวิตเพื่อการสะสมทรัพย์ พร้อมช่วยสร้างเงินสำรองเพื่อเป็นกองทุนสำหรับอนาคต
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{D6A2DB69-0900-46A5-B633-08E1A09E4678}" cropx="0.46" cropy="0.45" focusx="-0.07894736842105265" focusy="0.09375" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T064403Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{D6A2DB69-0900-46A5-B633-08E1A09E4678}" cropx="0.46" cropy="0.41" focusx="-0.07894736842105265" focusy="0.1875" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdtestauthor

@@ -1,0 +1,26 @@
+﻿---
+ID: "dea46fec-98c6-43c6-b03e-6347d85e379d"
+Parent: "67b23de7-dabe-497a-820a-ab51abc44805"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/ohkaju-organic-restaurant/local-folder/ArticleDetails/Description7"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1300
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T011145Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <span style="background: white; color: black;">มาโอ้กับจู๋ทีไรผมต้องสั่งเมนูนี้ทุกทีกับเมนูสลัดผักผลไม้</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">แค่เห็นจาน</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ก็ร้อง</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ว้าวๆ</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">แล้วล่ะฮะ</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">มันใหญ่ยักษ์สะใจจริงๆ</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ในจานยักษ์จานนี้มีทั้ง</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ผักสดๆ</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ที่อิมพอร์ตมาจากสวนผักโอ้กะจู๋ที่เชียงใหม่</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ทั้ง</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ผักกาดแก้ว</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ต้นอ่อนทานตะวัน</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">มะเขือเทศ</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">บีทรูท</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">แรดิช</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">พร้อมกับผลไม้สดๆ</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">อย่าง</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">สตรอว์เบอร์รี</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">กีวี</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">แอปเปิลเขียว</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">แอปเปิลแดง</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">สับปะรด</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">กล้วย</span><span style="background: white; color: black;"> &nbsp;</span><span style="background: white; color: black;">โรยด้วยธัญพืช</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">และราดด้วยน้ำสลัดโยเกิร์ตฮันนี่สตรอว์เบอร์รี</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">จานนี้ถึงจะเยอะขนาดไหนก็หมดได้ในพริบตา</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">เพราะกินเพลินทานแล้วรู้สึกสดชื่นมากๆ</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">เหมือนกำลังยืนอยู่กลางฟาร์มผักและผลไม้เลยล่ะฮะ</span>

@@ -1,0 +1,41 @@
+﻿---
+ID: "804cdfce-0538-4b4a-8a2a-8ec157a56712"
+Parent: "e8c592ad-cf7f-465a-b669-94d1f2744ced"
+Template: "4a2afaf6-a68b-4f79-bf60-bcf10f7c5ac4"
+Path: "/sitecore/content/fwd/fwd-th/Content/Forms/PrivacyPolicy/General Consent 002/privacy-policy"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Privacy Policy
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191227T051033Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "771dba25-d54b-4240-969a-1a36be53ff9c"
+      Hint: value
+      Value: |
+        I acknowledge and consent for the company to collect and use my personal information in order to contact me and offer products and services. This includes contact for marketing and promotional activities and/or using my information for analytical and research purposes.   I confirm my understanding and acknowledge the company&rsquo;s <a href="~/link.aspx?_id=586403F5459840C996E50BB8ADC0D789&amp;_z=z" target="_blank">Privacy Policy</a>.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T064616Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "771dba25-d54b-4240-969a-1a36be53ff9c"
+      Hint: value
+      Value: |
+        ข้าพเจ้าตกลงและยินยอมให้บริษัท เก็บรวบรวม และใช้ข้อมูลส่วนบุคคลของข้าพเจ้า เพื่อติดต่อและนำเสนอผลิตภัณฑ์และบริการ รวมถึงกิจกรรมส่งเสริมการตลาด และ/หรือเพื่อวัตถุประสงค์ในการวิเคราะห์วิจัย ทั้งนี้ข้าพเจ้าได้อ่านและรับทราบเกียวกับ <a href="~/link.aspx?_id=586403F5459840C996E50BB8ADC0D789&amp;_z=z" target="_blank">นโยบายข้อมูลส่วนบุคคล</a>&nbsp;แล้ว

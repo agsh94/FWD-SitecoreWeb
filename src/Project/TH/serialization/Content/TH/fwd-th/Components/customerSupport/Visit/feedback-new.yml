@@ -1,0 +1,74 @@
+﻿---
+ID: "b6dd1df1-524d-46fb-93dc-c7891fe384ab"
+Parent: "c4118b5c-975e-4c13-a9e8-71283e66dbfe"
+Template: "655f3eab-2573-4aba-9eae-e93741fae0b9"
+Path: "/sitecore/content/fwd/fwd-th/Components/customerSupport/Visit/feedback-new"
+DB: master
+SharedFields:
+- ID: "14060f95-7b61-4164-8f82-1d87c980edb9"
+  Hint: supportIcon
+  Value: "{2943C345-9393-47A0-A390-0D1AA2D7AC9E}"
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "a09d41ca-93f6-409c-96a9-1341d3719e83"
+  Hint: listType
+  Value: "{F281AF72-FA4B-4F87-98F1-4B9D77180E60}"
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{7EA908FB-506F-45E9-AB04-2B33B5DCDE2A}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Feedback on our web experience
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191008T163907Z
+    - ID: "5895aae2-ca68-4b63-83d6-f835c2d94ec5"
+      Hint: subTitle
+      Value: Leave us feedback on your web experience with us. 
+    - ID: "68b9b7c2-e820-4b57-9e40-f73816d6dbec"
+      Hint: icon
+      Value: |
+        <image mediaid="{042B7BD4-2B82-4957-953B-0B4B295292C1}" ></image>
+    - ID: "b0ec22ca-d046-4211-90bd-d498a5bcfe92"
+      Hint: title
+      Value: Feedback on our web experience
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Give rating and feedback" linktype="form" querystring="bookAnAgent" target="" id="{FA29DD87-0838-4973-BB98-1CDE45079034}" />
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Feedback on our web experience
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T065154Z
+    - ID: "5895aae2-ca68-4b63-83d6-f835c2d94ec5"
+      Hint: subTitle
+      Value: บอกเล่าประสบการณ์ที่คุณได้รับจากการใช้เว็บไซต์ของเรา
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "68b9b7c2-e820-4b57-9e40-f73816d6dbec"
+      Hint: icon
+      Value: |
+        <image mediaid="{042B7BD4-2B82-4957-953B-0B4B295292C1}" ></image>
+    - ID: "b0ec22ca-d046-4211-90bd-d498a5bcfe92"
+      Hint: title
+      Value: บอกเล่าประสบการณ์จากการใช้เว็บไซต์ของเรา
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ให้คะแนนและคำติชม" linktype="form" title="ให้คะแนนและคำติชม" querystring="" target="" id="{FA29DD87-0838-4973-BB98-1CDE45079034}" />

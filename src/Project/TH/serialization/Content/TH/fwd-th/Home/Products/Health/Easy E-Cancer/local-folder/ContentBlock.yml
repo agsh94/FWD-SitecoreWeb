@@ -1,0 +1,128 @@
+﻿---
+ID: "cb9b6b15-b1cd-4347-8aa6-091205f352cf"
+Parent: "f5ce229d-a935-4361-be64-de232e9ac88c"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/Easy E-Cancer/local-folder/ContentBlock"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{1A2AC65A-8DAF-477A-8D24-2D1A95B435C0}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1189664e-c462-4227-9fea-efb77771ad71"
+      Hint: enableFeaturedTags
+      Type: Checkbox
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200717T011015Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "We know that any cancer diagnosis is difficult. So we try and make it that little bit easier with an affordable instant-coverage plan that covers any cancer at any stage. Should you be diagnosed with cancer, it provides a cash lump sum. This means you can quickly and easily take those first steps in getting the best possible treatment."
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hein
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Instant cash for your treatment
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200717T014924Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "เรารู้ว่าเป็นเรื่องยากแค่ไหนหากได้รับการวินิจฉัยว่าเป็นมะเร็ง เราจึงพยายามทำให้ทุกอย่างง่ายขึ้นสำหรับคุณ  แผนประกัน Easy E-Cancer มอบความคุ้มครองทุกมะเร็ง ทุกระยะ พร้อมดูแลคุณ ด้วยการมอบเงินก้อนเพื่อให้คุณเข้าถึงการรักษาได้อย่างดีที่สุด หากได้รับการวินิจฉัยว่าเป็นมะเร็ง"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hein
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: จ่ายเงินฉับไว เพื่อให้คุณรับการรักษาได้ทันที
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200720T071227Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "เรารู้ว่าเป็นเรื่องยากแค่ไหนหากได้รับการวินิจฉัยว่าเป็นมะเร็ง เราจึงพยายามทำให้ทุกอย่างง่ายขึ้นสำหรับคุณ  แผนประกัน อีซี่ อี-แคนเซอร์ มอบความคุ้มครองทุกมะเร็ง ทุกระยะ พร้อมดูแลคุณ ด้วยการมอบเงินก้อนเพื่อให้คุณเข้าถึงการรักษาได้อย่างดีที่สุด หากได้รับการวินิจฉัยว่าเป็นมะเร็ง"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200720T071227Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: รับเงินก้อนไว สามารถรับการรักษาได้ทันที
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200814T040413Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "เรารู้ว่าเป็นเรื่องยากแค่ไหนหากได้รับการวินิจฉัยว่าเป็นมะเร็ง เราจึงพยายามทำให้ทุกอย่างง่ายขึ้นสำหรับคุณ  แผนประกัน อีซี่ อี-แคนเซอร์ มอบความคุ้มครองทุกมะเร็ง ทุกระยะ พร้อมดูแลคุณ ด้วยการมอบเงินก้อนเพื่อให้คุณเข้าถึงการรักษาได้อย่างดีที่สุด หากได้รับการวินิจฉัยว่าเป็นมะเร็ง"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200814T040413Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: อุ่นใจ มีเงินก้อนไว้รักษาอย่างทันท่วงที
+  - Version: 4
+    Fields:
+    - ID: "1189664e-c462-4227-9fea-efb77771ad71"
+      Hint: enableFeaturedTags
+      Type: Checkbox
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200826T092354Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "เรารู้ว่าเป็นเรื่องยากแค่ไหนหากได้รับการวินิจฉัยว่าเป็นมะเร็ง เราจึงพยายามทำให้ทุกอย่างง่ายขึ้นสำหรับคุณ  แผนประกัน อีซี่ อี-แคนเซอร์ มอบความคุ้มครองทุกมะเร็ง ทุกระยะ พร้อมดูแลคุณ ด้วยการมอบเงินก้อนเพื่อให้คุณเข้าถึงการรักษาได้อย่างดีที่สุด หากได้รับการวินิจฉัยว่าเป็นมะเร็ง"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200826T092354Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: อุ่นใจ มีเงินก้อนไว้รักษาอย่างทันท่วงที

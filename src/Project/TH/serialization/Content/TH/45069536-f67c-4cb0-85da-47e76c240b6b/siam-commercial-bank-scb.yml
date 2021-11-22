@@ -1,0 +1,171 @@
+﻿---
+ID: "2dcdbfb9-f74c-446f-bd1e-67b8c122fd69"
+Parent: "45069536-f67c-4cb0-85da-47e76c240b6b"
+Template: "df35e621-f80b-4fa2-8b4d-85c9782a43b9"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/premium-payment/local-folder/premium-payment/DropdownItem/bank-branches/Lastes Bill Payment - scb/siam-commercial-bank-scb"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 281
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Siam Commercial Bank
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0efba758-7b3d-4cec-a6d7-9cb3bbc199fa"
+      Hint: description
+      Value: |
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: black;">Account Number</span><span style="color: black;"> </span><span style="color: black;">001-3-49917-5</span></p>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: black;">Com Code 3456</span></p>
+    - ID: "22b72a4c-26fe-45c6-a389-9208ed5f30a9"
+      Hint: title
+      Value: Siam Commercial Bank
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191226T074758Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "458a9aca-15af-4816-a2ce-a1359491db04"
+      Hint: image
+      Value: |
+        <image mediaid="{C03DE009-4C7A-435D-9697-1E2665A4C188}" cropx="0.50" cropy="0.50" focusx="0" focusy="0" />
+    - ID: "e10bd642-d1a2-4376-9089-a17d8b83ddd6"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{C03DE009-4C7A-435D-9697-1E2665A4C188}" cropx="0.48" cropy="0.49" focusx="-0.03125" focusy="0.015625" />
+  - Version: 2
+    Fields:
+    - ID: "0efba758-7b3d-4cec-a6d7-9cb3bbc199fa"
+      Hint: description
+      Value: |
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: black;">Account Number</span><span style="color: black;"> </span><span style="color: black;">001-3-49917-5</span></p>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: black;">Com Code 3456</span></p>
+    - ID: "22b72a4c-26fe-45c6-a389-9208ed5f30a9"
+      Hint: title
+      Value: Siam Commercial Bank
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200925T164413Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "458a9aca-15af-4816-a2ce-a1359491db04"
+      Hint: image
+      Value: |
+        <image mediaid="{C03DE009-4C7A-435D-9697-1E2665A4C188}" cropx="0.50" cropy="0.50" focusx="0" focusy="0" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200925T164413Z
+    - ID: "e10bd642-d1a2-4376-9089-a17d8b83ddd6"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{C03DE009-4C7A-435D-9697-1E2665A4C188}" cropx="0.48" cropy="0.49" focusx="-0.03125" focusy="0.015625" />
+  - Version: 3
+    Fields:
+    - ID: "0efba758-7b3d-4cec-a6d7-9cb3bbc199fa"
+      Hint: description
+      Value: |
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: black;">Account Number</span><span style="color: black;"> </span><span style="color: black;">001-3-49917-5</span></p>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: black;">Com Code 3456</span></p>
+    - ID: "22b72a4c-26fe-45c6-a389-9208ed5f30a9"
+      Hint: title
+      Value: Siam Commercial Bank
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T064514Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "458a9aca-15af-4816-a2ce-a1359491db04"
+      Hint: image
+      Value: |
+        <image mediaid="{C03DE009-4C7A-435D-9697-1E2665A4C188}" cropx="0.50" cropy="0.50" focusx="0" focusy="0" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201001T064514Z
+    - ID: "e10bd642-d1a2-4376-9089-a17d8b83ddd6"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{C03DE009-4C7A-435D-9697-1E2665A4C188}" cropx="0.48" cropy="0.49" focusx="-0.03125" focusy="0.015625" />
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Siam Commercial Bank
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0efba758-7b3d-4cec-a6d7-9cb3bbc199fa"
+      Hint: description
+      Value: |
+        <p>Com code 0216</p>
+        <p>(ถนนวิทยุ) (ธุรกิจ)</p>
+    - ID: "22b72a4c-26fe-45c6-a389-9208ed5f30a9"
+      Hint: title
+      Value: ธ.ไทยพาณิชย์
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T121726Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "458a9aca-15af-4816-a2ce-a1359491db04"
+      Hint: image
+      Value: |
+        <image mediaid="{C03DE009-4C7A-435D-9697-1E2665A4C188}" cropx="0.49" cropy="0.51" focusx="-0.015625" focusy="-0.015625" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "e10bd642-d1a2-4376-9089-a17d8b83ddd6"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{C03DE009-4C7A-435D-9697-1E2665A4C188}" cropx="0.52" cropy="0.49" focusx="0.03125" focusy="0.015625" />
+  - Version: 2
+    Fields:
+    - ID: "0efba758-7b3d-4cec-a6d7-9cb3bbc199fa"
+      Hint: description
+      Value: |
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: black;">เลขที่บัญชี 001-3-49917-5</span></p>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: black;">Com Code </span><span style="color: black;">3456</span></p>
+    - ID: "22b72a4c-26fe-45c6-a389-9208ed5f30a9"
+      Hint: title
+      Value: ธ.ไทยพาณิชย์
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200918T103946Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "458a9aca-15af-4816-a2ce-a1359491db04"
+      Hint: image
+      Value: |
+        <image mediaid="{C03DE009-4C7A-435D-9697-1E2665A4C188}" cropx="0.49" cropy="0.51" focusx="-0.015625" focusy="-0.015625" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200918T103946Z
+    - ID: "e10bd642-d1a2-4376-9089-a17d8b83ddd6"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{C03DE009-4C7A-435D-9697-1E2665A4C188}" cropx="0.52" cropy="0.49" focusx="0.03125" focusy="0.015625" />

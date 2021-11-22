@@ -1,0 +1,61 @@
+﻿---
+ID: "5141f8b8-def7-4858-8eb4-fda951794873"
+Parent: "4a67d2c5-3716-42f9-bdf4-4dc7f8ea08aa"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/Fund Information/Foreign Investment Funds/TMBGQG"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T041914Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: TMB Global Quality Growth Fund (TMBGQG)
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/funds/mutual-funds/funddetails?fundcode=I16'>Fund page</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/FI/Fund%20Insight%20-%20I16_th.pdf'>Fund information summary</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/PRO/I16_01.pdf'>Prospectus</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/FS/I16_03.pdf'>Fact sheet</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/SAR/I16_h_04.pdf'>Bi-annual report</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/AR/I16_y_04.pdf '>Annual report</a></li>
+        </ul>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T041844Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: กองทุนเปิดทหารไทย Global Quality Growth (TMBGQG)
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/funds/mutual-funds/funddetails?fundcode=I16'>หน้าหลักกองทุน</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/FI/Fund%20Insight%20-%20I16_th.pdf'>สาระสำคัญ ของกองทุน</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/PRO/I16_01.pdf'>หนังสือชี้ชวน</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/FS/I16_03.pdf'>หนังสือชี้ชวนส่วนสรุป</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/SAR/I16_h_04.pdf'>รายงาน 6 เดือน</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/AR/I16_y_04.pdf'>รายงานประจำปี</a></li>
+        </ul>

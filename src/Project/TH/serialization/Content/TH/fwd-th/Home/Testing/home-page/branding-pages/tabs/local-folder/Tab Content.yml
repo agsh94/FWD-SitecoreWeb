@@ -1,0 +1,39 @@
+﻿---
+ID: "ccff1dd1-6a7c-4a34-9ccd-5af0180f780c"
+Parent: "7b8759a0-6e7d-497b-b23a-f32710134a75"
+Template: "91c0f7fd-e185-4652-9ca5-ff0982a40801"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/tabs/local-folder/Tab Content"
+DB: master
+SharedFields:
+- ID: "2bb03f6c-a424-487e-b70e-8b96a004e219"
+  Hint: gaCategoryName
+  Value: Tab Content 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T070215Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "78233103-3316-4484-ada7-77b1e45e8351"
+      Hint: title
+      Value: How to file a claim
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200416T104253Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "78233103-3316-4484-ada7-77b1e45e8351"
+      Hint: title
+      Value: How to file a claim แบบฟอร์มสอบถาม

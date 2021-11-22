@@ -1,0 +1,69 @@
+﻿---
+ID: "bd7300d5-3cc2-44ae-b6b5-48e4f3444896"
+Parent: "b4a5833a-4934-4ac4-8dbf-ac53fbc6a2f3"
+Template: "d48ab251-45a3-498a-a8c1-629e33a6b9b4"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/New Product Page/flexi-eb/group-enquiry-form"
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <p
+          uid="{D14661AB-7F89-4E68-A125-FBBB88BFB7B6}">
+          <p:d />
+        </p>
+        <r
+          uid="{483F9CFA-4C9A-488B-979C-047627E73318}"
+          s:ds="{F0BD8CA1-8714-4E69-9262-CEC4362A0C44}"
+          s:id="{D12A5E12-4AB2-4330-8D72-77EA8D372515}"
+          s:par="formType=regular"
+          s:ph="jss-main" />
+        <r
+          uid="{9E687E41-FA14-4810-A780-5B42B5322AE8}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Enquiry
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200205T130542Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5753130C-C6EE-46FC-A5E2-484988468D73}"
+              p:after="*[1=2]"
+              s:id="{B6ADB920-BEF0-4306-AB58-327A223D141B}"
+              s:ph="jss-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T103624Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

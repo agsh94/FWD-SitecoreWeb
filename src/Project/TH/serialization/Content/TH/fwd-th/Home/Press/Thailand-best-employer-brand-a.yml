@@ -1,0 +1,158 @@
+﻿---
+ID: "8112027b-7b0a-40ba-b78f-6b72812518f2"
+Parent: "5429478a-b5ad-4fea-99a8-d568e60b7585"
+Template: "937f9755-269c-46cb-87cf-e05c0211ef32"
+Path: "/sitecore/content/fwd/fwd-th/Home/Press/Thailand-best-employer-brand-award-2019"
+DB: master
+SharedFields:
+- ID: "0542fe2e-3942-4d2a-9d28-fca5312b2ab4"
+  Hint: associatedProducts
+  Value: 
+- ID: "05b2b484-bdd9-4a0c-9bc2-013e6a9989a9"
+  Hint: subtype
+  Value: "{F9477F10-1A0C-48A1-9AB0-4CD0672C9AA9}"
+- ID: "10e652c4-46dd-4b96-94af-033d6997a41a"
+  Hint: userType
+  Type: Multilist
+  Value: 
+- ID: "21d15119-2d83-4d67-a277-65bcef10f64f"
+  Hint: contentType
+  Value: "{4FE0A16D-285F-4C41-9BFA-A1343B036CDF}"
+- ID: "644a759b-d9f0-46b0-b5a2-afc11a100bb1"
+  Hint: topics
+  Type: Multilist
+  Value: |
+    {4C6B8CB9-D359-4498-A1CD-107CBB0843FE}
+    {27B45F29-DD3F-42A5-A19F-5193A9205D68}
+    {1A0882D1-29E0-44F1-A452-1BFA66656B0E}
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: "{FB2C4A8A-0593-44B7-B7C4-AE07AF4F8BB2}"
+- ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
+  Hint: __Never publish
+  Type: checkbox
+  Value: 0
+- ID: "adb8c199-23ee-47b6-ac3a-e42511001cd9"
+  Hint: featuredTags
+  Type: TreelistEx
+  Value: |
+    {4C6B8CB9-D359-4498-A1CD-107CBB0843FE}
+    {27B45F29-DD3F-42A5-A19F-5193A9205D68}
+    {1A0882D1-29E0-44F1-A452-1BFA66656B0E}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F4401E93-3C44-4861-AE73-AE8F72A5C86F}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{8B882DA0-246E-4ED0-AF73-96D257D48B65}"
+          s:ds="{43772A6B-8B6A-4FFA-BDDC-E9D94DD197A7}" />
+        <r
+          uid="{B34524D6-F06A-46EF-BBB9-37BE63541C2B}"
+          s:ds="{8F4BD287-90A3-41E6-98C1-081950602B00}" />
+        <r
+          uid="{F131E204-4546-436A-9BAA-F8A7D613A0DE}"
+          s:ds="{7B29F9E0-A9B6-4B0F-B0AB-775E20653C03}"
+          s:par="carouselMode=%7BC81D8D8F-E8D9-468F-ACFC-BBDCE30D66EC%7D&amp;showCategory&amp;showImage&amp;anchorText&amp;backgroundColor=%7BB47928D6-98FC-4B29-8D0F-586AB477286E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider" />
+        <r
+          uid="{DCEFBE9A-CB6F-4EA1-B123-C1DB121B4108}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{77CE0DCC-1017-44D0-B26A-4BDF632B5237}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "02b87b9a-bb93-4772-82ae-ddd40f19283c"
+      Hint: rewardText
+      Value: 
+    - ID: "105d35bb-e423-4eea-ad61-f4408a757049"
+      Hint: city
+      Value: "{BDF09EFE-98AD-47DC-AB59-8505E13F8274}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T045954Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: FWD has been given the “Thailand Best Employer Brand Award 2019” by the World HRD Congress, CHRO Asia.
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20190118T000000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Thailand Best Employer Brand Award 2019 | FWD Thailand
+    - ID: "8903e668-0898-456c-b6ed-09d94259e5b1"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{52B84193-0EDE-4C1D-83A1-1A95AF645B33}" cropx="0.48" cropy="0.43" focusx="-0.04385964912280704" focusy="0.140625" />
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: Thailand Best Employer Brand Award 2019
+    - ID: "d940cafe-2148-466e-9707-0748711f5fdc"
+      Hint: image
+      Value: |
+        <image mediaid="{52B84193-0EDE-4C1D-83A1-1A95AF645B33}" cropx="0.47" cropy="0.41" focusx="-0.06140350877192979" focusy="0.171875" />
+    - ID: "f109a737-77b7-48cf-969c-2f55df9d876a"
+      Hint: shortDescription
+      Value: 
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: FWD Thailand, FWD insurance, FWD life insurance, review insurance FWD, Press
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "02b87b9a-bb93-4772-82ae-ddd40f19283c"
+      Hint: rewardText
+      Value: 
+    - ID: "105d35bb-e423-4eea-ad61-f4408a757049"
+      Hint: city
+      Value: "{BDF09EFE-98AD-47DC-AB59-8505E13F8274}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T035430Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) รับรางวัล Thailand Best Employer Brand Award 2019
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 25620118T000000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Thailand Best Employer Brand Award 2019 | เอฟดับบลิวดี ประเทศไทย
+    - ID: "8903e668-0898-456c-b6ed-09d94259e5b1"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{52B84193-0EDE-4C1D-83A1-1A95AF645B33}" cropx="0.48" cropy="0.36" focusx="-0.03508771929824561" focusy="0.28125" />
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: Thailand Best Employer Brand Award 2019
+    - ID: "d940cafe-2148-466e-9707-0748711f5fdc"
+      Hint: image
+      Value: |
+        <image mediaid="{52B84193-0EDE-4C1D-83A1-1A95AF645B33}" cropx="0.48" cropy="0.34" focusx="-0.03508771929824561" focusy="0.328125" />
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: เอฟดับบลิวดีประเทศไทย, ประกันเอฟดับบลิวดี, เอฟดับบลิวดีประกันชีวิต, รีวิวประกันเอฟดับลิวดี

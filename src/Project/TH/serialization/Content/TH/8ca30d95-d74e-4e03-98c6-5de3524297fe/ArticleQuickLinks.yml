@@ -1,0 +1,59 @@
+﻿---
+ID: "74ee788b-6402-4bc9-bf40-e97486ef6a49"
+Parent: "8ca30d95-d74e-4e03-98c6-5de3524297fe"
+Template: "c24acda9-af2d-4f91-b736-509937cc444e"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/announcements/local-folder/ArticleQuickLinks"
+DB: master
+SharedFields:
+- ID: "998bce23-8608-4a00-b7e8-612a1dd3cb66"
+  Hint: linkGALabelName
+  Value: test
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{20162863-AE86-4B42-9AEC-B7A81A345553}"
+- ID: "ef2bcb82-b8a8-4be6-88a7-5269b777ad1d"
+  Hint: apiSubType
+  Value: "{9B4F5DC4-00EC-4983-8861-75885C261E9E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200723T090734Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d7ce724c-2ece-4ca3-99ed-06b20e846322"
+      Hint: linkItems
+      Value: "{2BFE4F1A-F233-401D-8C0A-FFD203ADA201}|{C1682286-6AD1-4042-A514-328509EFE7C9}|{8112027B-7B0A-40BA-B78F-6B72812518F2}"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See all" anchor="" linktype="internal" class="" title=""  querystring="?contenttype=Article&amp;subtype=Announcements" id="{B859D7D8-99F8-4C55-8E00-AB569A6CC97F}" />
+    - ID: "f39b7a44-d8d3-467c-949d-5a6a33a9bb8a"
+      Hint: title
+      Value: Announcements
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200723T091822Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d7ce724c-2ece-4ca3-99ed-06b20e846322"
+      Hint: linkItems
+      Value: "{53EFFFBE-0534-4E53-A7F8-1590E4C21DAE}|{4EE60AD6-0E6D-48CE-B17E-A76C0726CAB3}|{060E725A-9E11-4B85-9F3E-7795A51A017B}"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ดูทั้งหมด" anchor="" linktype="internal" class="" title=""  querystring="" id="{49F0D81D-2E91-44B2-9F6E-3267BABAFA41}" />
+    - ID: "f39b7a44-d8d3-467c-949d-5a6a33a9bb8a"
+      Hint: title
+      Value: ส่วนประกาศส่วนประก

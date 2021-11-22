@@ -1,0 +1,22 @@
+﻿---
+ID: "6cb2799b-b388-4164-a4c0-c5044659839e"
+Parent: "d9204f0a-7f37-4324-aaf0-ea30890c93fd"
+Template: "8d254d4a-bd30-4b07-8fa0-7464260d4bbc"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Tags/articlesTags/Featured/subtopics
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/32x32/folder_into.png
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Sub Topics
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191101T165255Z

@@ -1,0 +1,35 @@
+﻿---
+ID: "5150b6fc-d343-4f21-8a14-888b7c842287"
+Parent: "f824f5e9-8df4-49e6-8ea9-eb2daf9ea333"
+Template: "589edc0c-4172-48e7-99f6-dfcd417fad84"
+Path: "/sitecore/content/fwd/fwd-th/Content/Forms/Promotions/EnquiryPromotions"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "13b0c11c-bd21-4304-a639-7a9b9fca58a5"
+      Hint: value
+      Value: Tell me about other insurance products for my organisation
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200213T100451Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "13b0c11c-bd21-4304-a639-7a9b9fca58a5"
+      Hint: value
+      Value: Tell me about other insurance products for my organisation
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200406T085448Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

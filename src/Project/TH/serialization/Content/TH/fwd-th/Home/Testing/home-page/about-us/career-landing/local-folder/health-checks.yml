@@ -1,0 +1,48 @@
+﻿---
+ID: "81d989c1-be37-4d93-a4fb-2ae924c9658e"
+Parent: "d0db136f-9797-4704-bfe8-0673fb4f7d4b"
+Template: "f1076e50-7ea9-4ce1-a4da-09f5c71b91e3"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/career-landing/local-folder/health-checks"
+DB: master
+SharedFields:
+- ID: "76eb0c81-c181-4fb8-b5a8-cbdcb0de9fb2"
+  Hint: link
+  Value: |
+    <link text="Free health checks, renovation and sports" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D77061F0-4033-4E10-846D-B391B5A4D07D}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Health checks
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T203326Z
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: Free health checks, renovation and sports
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{CE4C2FBF-F93A-4A7F-A7DC-64F809908B52}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200403T084431Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: Free health checks, renovation and sports
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{CE4C2FBF-F93A-4A7F-A7DC-64F809908B52}" />

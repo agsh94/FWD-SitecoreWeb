@@ -1,0 +1,55 @@
+﻿---
+ID: "e4648c52-de4d-4fb6-a484-522bbae2c449"
+Parent: "4604a084-1961-49d8-8736-db60a4c57ad9"
+Template: "6d53377b-7a53-4357-8363-82776c43dd2b"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Settings/Footer
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "fa2ff38e-5b36-47a3-af22-ce7131f3a472"
+  Hint: languageList
+  Type: Multilist
+  Value: "{8896FE2D-7884-419F-83FF-B8AEAA575715}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Footer
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191112T163450Z
+    - ID: "3ec501ad-afda-4c9a-a5e2-95ca834deb17"
+      Hint: footerQuickLinks
+      Value: 
+    - ID: "499bfbc0-6f5f-4b5b-9365-f0cd27b68682"
+      Hint: siteNavigationLinks
+      Value: 
+    - ID: "51016776-023b-47e7-bb80-1a107d39aef0"
+      Hint: socialMediaLinks
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "683f8a26-72eb-48f9-9dc7-b999e9ad43a4"
+      Hint: icon
+      Value: "{8705DAF9-BB19-459B-A14C-FA33465E6D83}"
+    - ID: "cfc24267-8eec-412d-a2a7-c7c8cd2d83c3"
+      Hint: copyrightLabel
+      Value: Copyright 2020 FWD Thailand. All rights reserved.
+    - ID: "f19d3a3f-1a4e-4e42-995d-042bd9eab2cc"
+      Hint: countrySelector
+      Value: 
+    - ID: "fec3a5ee-0764-44e3-bffd-3dd8b09f60ee"
+      Hint: call
+      Value: 1351

@@ -1,0 +1,48 @@
+﻿---
+ID: "609c2c29-4032-42f5-8bc1-e0167ce251ca"
+Parent: "4e459c3f-7958-4405-a66c-6bd9678367e4"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/things-to-do-first-40/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200402T045450Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        Being 40 is the beginning of a mid-life crisis. Hormonal imbalances at this age can occur and affect your mental and physical health leading to a variety of mood swings like a teenager. Reaching to the top of career, you may feel nothing is challenging. It&rsquo;s time to look for a new goal and get prepared for the next chapter of life. We love to share just small tips and these 8 things you need to do before 40.<br />
+        <br />
+        <strong>1. Healthy living</strong><br />
+        &ldquo;Healthy is wealth&rdquo; At 40 you will realize that being healthy is more important than being rich, when your body system does not work well as it used to when you were younger. Do not hesitate to add exercise to your daily routine to be in robust health and stay away from any health problems in the future.&nbsp;
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T233635Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>เพราะการเดินทางสู่ช่วงอายุ 40 ปี จะเป็นที่เข้าสู่วิกฤติวัยกลางคนอย่างเต็มตัว ในช่วงนั้นเราจะกลับมาเคว้งคว้างและสับสนกับชีวิตไม่ต่างกับเด็กวัยรุ่นอีกครั้ง เพราะนี้คือช่วงเวลาที่ฮอร์โมนเริ่มเปลี่ยนแปลง ช่วงที่หลายคนอาจมาถึงจุดสูงสุดของอาชีพที่ทำ ไม่เจอความท้าทายใหม่ๆ อีกแล้ว และอาจกำลังต้องหาเป้าหมายต่อไป แล้วเราจะเตรียมตัวอย่างไร? ให้เป็นวัยกลางคนที่ชีวิตยังแฮปปี้ และนี่คือ 8 สิ่งที่ขอแนะนำให้คุณทำก่อนอายุ 40 ปี
+        </p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>1. รักษาสุขภาพ</strong></p>
+        <p><strong></strong>&ldquo;การไม่มีโรคเป็นลาภอันประเสริฐ&rdquo; ในวัยนี้คุณจะพบว่าสุขภาพที่ดีมีมูลค่ามากกว่าสิ่งใด อายุตัวเองเพิ่มขึ้น อายุของระบบในร่างกายก็เช่นกัน อวัยวะบางอย่างเริ่มไม่ฟิตเหมือนแต่ก่อน ถ้าเราปล่อยไว้โดยไม่ทำอะไรสักอย่าง วันหนึ่งอาจจะกลายเป็นปัญหาสุขภาพได้  แต่เราช่วยชะลอการเสื่อมของร่างกายได้ด้วยการออกกำลังกาย</p>

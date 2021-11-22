@@ -1,0 +1,49 @@
+﻿---
+ID: "03c90ae8-90a4-47b3-be43-f19ed7bb3190"
+Parent: "4e459c3f-7958-4405-a66c-6bd9678367e4"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/things-to-do-first-40/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200402T050236Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>5. Enjoy things around you</strong><br />
+        Nothing is better than doing what you love. However, just take a closer look in details of your life if there&rsquo;s something missing. If so, never neglect what you can change in life to maximize your happiness<br />
+        <br />
+        <strong>6. Share your good story</strong><br />
+        Just strive for balance in health and mind. Engaging in religious activities, charity or non-profit community makes life more meaningful. How good it is when you feel the warmth in your heart when giving and sharing what you have to those in need. That&rsquo;s a good start when you know how to live, not just for yourself, but for the others.<br />
+        <div>&nbsp;</div>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T233832Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p style="background: white; margin: 0in 0in 0.0001pt;"><strong><span style="color: black;">5. </span></strong><strong><span style="color: black;">มองให้เห็นความสุขรอบตัว<br />
+        </span></strong><span style="color: black;">พอได้ใช้ชีวิตในแบบที่ต้องการแล้ว</span><span style="color: black;"> </span><span style="color: black;">แน่นอนว่า</span><span style="color: black;"> &ldquo;</span><span style="color: black;">ความสุข</span><span style="color: black;">&rdquo; </span><span style="color: black;">ย่อมตามมา</span><span style="color: black;">&nbsp; </span><span style="color: black;">ใช้ชีวิตกันมาจนจะอายุ</span><span style="color: black;"> </span><span style="color: black;">40 </span><span style="color: black;">แล้ว</span><span style="color: black;"> </span><span style="color: black;">ลองสำรวจตัวเองดูอีกครั้ง</span><span style="color: black;"> </span><span style="color: black;">ว่าชีวิตทุกวันนี้มีความสุขดีเท่าที่ควรจะเป็นหรือยัง</span><span style="color: black;"> </span><span style="color: black;">ถ้ายังเปลี่ยนแปลงวิถีชีวิตให้ดีขึ้นได้อีก</span><span style="color: black;"> </span><span style="color: black;">จะทำได้อย่างไรบ้าง</span><span style="color: black;"> </span><span style="color: black;">เพื่อเติมความสุขไม่ให้ขาดหายไป</span></p>
+        <p style="background: white; margin-top: 15pt;"><strong><span style="color: black;">6. </span></strong><strong><span style="color: black;">แบ่งปันเรื่องราวดีๆ<br />
+        </span></strong><span style="color: black;">มีความสุขทางกายไปแล้ว</span><span style="color: black;"> </span><span style="color: black;">อย่าลืมสร้างความสุขทางใจ</span><span style="color: black;"> </span><span style="color: black;">คนวัยนี้ต้องมีวัดหรือมูลนิธิหรือองค์กรการกุศล</span><span style="color: black;"> </span><span style="color: black;">ที่ไปเป็นประจำเพื่อช่วยเหลือ</span><span style="color: black;"> </span><span style="color: black;">แบ่งปัน</span><span style="color: black;"> </span><span style="color: black;">เสียสละเพื่อคนอื่น</span><span style="color: black;"> </span><span style="color: black;">พอให้แบ่งปัน</span><span style="color: black;"> </span><span style="color: black;">ได้ให้</span><span style="color: black;"> </span><span style="color: black;">ได้ทำบุญ</span><span style="color: black;"> </span><span style="color: black;">ก็จะรู้สึกอิ่มอกอิ่มใจ</span><span style="color: black;"> </span><span style="color: black;">และพร้อมที่จะใช้ชีวิตต่อไปแบบมีเป้าหมายเพื่อคนรอบตัว</span></p>

@@ -1,0 +1,437 @@
+﻿---
+ID: "799bbfab-f610-4bdc-b69b-3876b0163da9"
+Parent: "d56fabd9-6ec2-4b39-88dd-10e5b34ef75d"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Functions/Settings
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    Import-Function Global-Functions
+    		
+    function Create-Settings {
+    	[CmdletBinding()]
+        param(
+            [Parameter(Mandatory = $true, Position = 0 )]
+            [Item]$Item,
+    		[Parameter(Mandatory=$true, Position=1 )]
+            [string]$language
+        )
+    	begin {
+    		Write-Verbose "Cmdlet Create-Settings - Begin"
+    	}
+    	process {	
+    			    
+    		$newPath = $Item.ItemPath + '/Settings/Datasource/Article'
+    		$newItem = Get-Item -Path $newPath
+    		$name = $Item.Name.ToString()
+    		
+    		$newItem.Editing.BeginEdit()
+    		if ($name -match '\-' –OR $name -match '\ ') {
+    		$newItem["DatasourceLocation"] = "query:/sitecore/content/fwd/#" + $name + "#/#Home#//*[@@templatename='ArticleLandingPage' ]"
+    		}
+    		else
+    		{
+    		$newItem["DatasourceLocation"] = "query:/sitecore/content/fwd/" + $name + "/#Home#//*[@@templatename='ArticleLandingPage' ]"
+    		}
+    		$newItem["DatasourceTemplate"] = "/sitecore/templates/FWD/Project/Global/Page templates/ArticlePage"
+    		$newItem.Editing.EndEdit()
+    		
+    		
+    		$newPath = $Item.ItemPath + '/Settings/Datasource/ArticleCardList'
+    		$newItem = Get-Item -Path $newPath
+    		$newItem.Editing.BeginEdit()
+    		if ($name -match '\-' –OR $name -match '\ ') {
+    		$newItem["DatasourceLocation"] = "query:/sitecore/content/fwd/#" + $name + "#/#Home#//*[@@templateID='{C24ACDA9-AF2D-4F91-B736-509937CC444E}' ]"
+    		}
+    		else
+    		{
+    		$newItem["DatasourceLocation"] = "query:/sitecore/content/fwd/" + $name + "/#Home#//*[@@templateID='{C24ACDA9-AF2D-4F91-B736-509937CC444E}' ]"
+    		}
+    		$newItem["DatasourceTemplate"] = "/sitecore/templates/FWD/Project/Global/Content Templates/Article Card List"
+    		$newItem.Editing.EndEdit()
+    		
+    		
+    		$newPath = $Item.ItemPath + '/Settings/site-configuration'
+    		$newItem = Get-Item -Path $newPath
+    		$itemPath1 = $Item.ItemPath + '/Settings/socialShareOptions/facebook'
+    		$item1 = Get-Item -Path $itemPath1
+    		$itemPath2 = $Item.ItemPath + '/Settings/socialShareOptions/line'
+    		$item2 = Get-Item -Path $itemPath2
+    		$itemPath3 = $Item.ItemPath + '/Settings/socialShareOptions/twitter'
+    		$item3 = Get-Item -Path $itemPath3
+    		$newItem.Editing.BeginEdit()
+    		$newItem["shareOptions"] = $item1.ID.ToString() + '|' + $item3.ID.ToString()+ '|' + $item2.ID.ToString()
+    		[Sitecore.Data.Fields.LinkField]$field = $newItem.Fields["hospitalLocatorLink"]
+    		$itemPath1 = $Item.ItemPath + '/Home/Hospital Locator'
+    		$item1 = Get-Item -Path $itemPath1
+    		$field.LinkType = "internal"
+    		$field.TargetID = $item1.ID
+    		[Sitecore.Data.Fields.LinkField]$field = $newItem.Fields["branchLocatorLink"]
+    		$itemPath1 = $Item.ItemPath + '/Home/Branch Locator'
+    		$item1 = Get-Item -Path $itemPath1
+    		$field.LinkType = "internal"
+    		$field.TargetID = $item1.ID
+    		[Sitecore.Data.Fields.LinkField]$field = $newItem.Fields["ProductListPageLink"]
+    		$itemPath1 = $Item.ItemPath + '/Home/Products'
+    		$item1 = Get-Item -Path $itemPath1
+    		$field.LinkType = "internal"
+    		$field.TargetID = $item1.ID
+    		[Sitecore.Data.Fields.LinkField]$field = $newItem.Fields["SplashPageLink"]
+    		$itemPath1 = $Item.ItemPath + '/Home/Splash'
+    		$item1 = Get-Item -Path $itemPath1
+    		$field.LinkType = "internal"
+    		$field.TargetID = $item1.ID
+    		[Sitecore.Data.Fields.LinkField]$field = $newItem.Fields["notification"]
+    		$itemPath1 = $Item.ItemPath + '/Components/Notifications'
+    		
+    		if(Test-Path -Path $itemPath1){
+    		$item1 = Get-Item -Path $itemPath1
+    		$field.LinkType = "internal"
+    		$field.TargetID = $item1.ID
+    		}
+    		$newItem.Editing.EndEdit()
+    		
+    		$newPath = $Item.ItemPath + '/Settings/Footer'
+    		$newItem = Get-Item -Path $newPath
+    		$newItem.Editing.BeginEdit()
+    		$itemPath1 = $Item.ItemPath + '/Components/footerLinks/footer-navigation-links'
+    		$item1 = Get-Item -Path $itemPath1
+    		$newItem.Fields["siteNavigationLinks"].Value = $item1.ID
+    		[Sitecore.Data.Fields.LinkField]$field = $newItem.Fields["socialMediaLinks"]
+    		$itemPath1 = $Item.ItemPath + '/Components/footerLinks/social-media-links'
+    		$item1 = Get-Item -Path $itemPath1
+    		$newItem.Fields["socialMediaLinks"].Value = $item1.ID
+    		$itemPath1 = $Item.ItemPath + '/Components/country-selector'
+    		if(Test-Path -Path $itemPath1){
+    			$item1 = Get-Item -Path $itemPath1
+    			$newItem.Fields["countrySelector"].Value = $item1.ID
+    		}
+    		
+    		$itemPath1 = $Item.ItemPath + '/Components/footerLinks/footer-quick-links'
+    		$item1 = Get-Item -Path $itemPath1
+    		$newItem.Fields["footerQuickLinks"].Value = $item1.ID
+    		$newItem.Editing.EndEdit()
+    		
+    		
+    		
+    		$newPath = $Item.ItemPath + '/Settings/BusinessFooter'
+    		$newItem = Get-Item -Path $newPath
+    		$newItem.Editing.BeginEdit()
+    		$itemPath1 = $Item.ItemPath + '/Components/footerLinks/business-footer-navigation-links'
+    		$item1 = Get-Item -Path $itemPath1
+    		$newItem.Fields["siteNavigationLinks"].Value = $item1.ID
+    		[Sitecore.Data.Fields.LinkField]$field = $newItem.Fields["socialMediaLinks"]
+    		$itemPath1 = $Item.ItemPath + '/Components/footerLinks/social-media-links'
+    		$item1 = Get-Item -Path $itemPath1
+    		$newItem.Fields["socialMediaLinks"].Value = $item1.ID
+    		$itemPath1 = $Item.ItemPath + '/Components/country-selector'
+    		
+    		if(Test-Path -Path $item1){
+    			$item1 = Get-Item -Path $itemPath1
+    			$newItem.Fields["countrySelector"].Value = $item1.ID
+    		}
+    		$itemPath1 = $Item.ItemPath + '/Components/footerLinks/footer-quick-links'
+    		$item1 = Get-Item -Path $itemPath1
+    		$newItem.Fields["footerQuickLinks"].Value = $item1.ID
+    		$newItem.Editing.EndEdit()
+    		
+    		$newPath = $Item.ItemPath + '/Settings/Header'
+    		$newItem = Get-Item -Path $newPath
+    		$newItem.Editing.BeginEdit()
+    		$itemPath1 = $Item.ItemPath + '/Components/headerLinks/header-navigation-links'
+    		$item1 = Get-Item -Path $itemPath1
+    		$newItem.Fields["headerNavigationLinks"].Value = $item1.ID
+    		$itemPath1 = $Item.ItemPath + '/Components/headerLinks/icon-navigation-links'
+    		$item1 = Get-Item -Path $itemPath1
+    		$newItem.Fields["iconNavigationLinks"].Value = $item1.ID		
+    		
+    		[Sitecore.Data.Fields.LinkField]$field = $newItem.Fields["languageModalLink"]
+    		$itemPath1 = $Item.ItemPath + '/Home'
+    		$item1 = Get-Item -Path $itemPath1
+    		$field.LinkType = "internal"
+    		$field.Text = "Explore"
+    		$field.Title = "Okie"
+    		$field.TargetID = $item1.ID
+    		[Sitecore.Data.Fields.LinkField]$field = $newItem.Fields["logoLink"]		
+    		$field.LinkType = "internal"
+    		$field.TargetID = $item1.ID
+    		[Sitecore.Data.Fields.LinkField]$field = $newItem.Fields["searchPageLink"]
+    		$itemPath1 = $Item.ItemPath + '/Home/Search'
+    		$item1 = Get-Item -Path $itemPath1
+    		$field.LinkType = "internal"
+    		$field.TargetID = $item1.ID
+    		$newItem.Editing.EndEdit()
+    	
+    	}
+    	end {
+    		Write-Verbose "Cmdlet Create-Settings - End"
+    	}
+    	}
+    	
+    	
+    	function Create-Roles {
+    	[CmdletBinding()]
+        param(
+            [Parameter(Mandatory = $true, Position = 0 )]
+            [Item]$Item,
+    		[Parameter(Mandatory=$true, Position=1 )]
+            [string]$language
+        )
+    	begin {
+    		Write-Verbose "Cmdlet Create-Roles - Begin"
+    	}
+    	process {	
+    		$web = $Item.Name.ToString()
+        		
+        		if ($web -match '\-') {
+        		$web=$web -replace "\-", ' '
+        		}
+        		$web=$web.ToUpper()
+        		$name = $web + ' Administrator'
+        		New-Role -Identity $name
+        		Add-RoleMember -Identity 'sitecore\Sitecore Client Advanced Publishing' -Members $name
+        		Add-RoleMember -Identity 'sitecore\Analytics Testing' -Members $name
+        		Add-RoleMember -Identity 'sitecore\Sitecore Client Developing' -Members $name
+        		Add-RoleMember -Identity 'sitecore\Analytics Personalization' -Members $name
+        		Add-RoleMember -Identity 'sitecore\Sitecore Client Authoring' -Members $name
+        		Add-RoleMember -Identity 'sitecore\Analytics Management Reporting' -Members $name
+        		Add-RoleMember -Identity 'sitecore\Analytics Advanced Testing' -Members $name
+        		Add-RoleMember -Identity 'sitecore\Sitecore Client Publishing' -Members $name
+        		Add-RoleMember -Identity 'sitecore\Analytics Reporting' -Members $name
+        		Add-RoleMember -Identity 'sitecore\Forms Editor' -Members $name
+        		Add-RoleMember -Identity 'sitecore\Analytics Maintaining' -Members $name
+        		Add-RoleMember -Identity 'sitecore\Analytics Content Profiling' -Members $name
+        		
+        		$aclForEveryone = New-ItemAcl -Identity $name -AccessRight item:read  -PropagationType Any -SecurityPermission AllowAccess 
+        		Get-Item -Path "master:/sitecore/content/fwd/Global" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		$aclForEveryone = New-ItemAcl -Identity $name -PropagationType Any -SecurityPermission AllowInheritance -AccessRight *
+        		Get-Item -Path "master:/sitecore/content/fwd/Global" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		
+    			
+    			$rightsAdminContent = @("item:create","item:read", "item:write", "item:rename", "item:delete","item:admin")
+    			Get-Item -Path $Item.ItemPath | Add-ItemAcl -AccessRules ($rightsAdminContent | ForEach-Object { New-ItemAcl -AccessRight $_ -PropagationType Any -SecurityPermission AllowAccess -Identity $name }) -PassThru
+        		$aclForEveryone = New-ItemAcl -Identity $name -PropagationType Any -SecurityPermission AllowInheritance -AccessRight *
+        		Get-Item -Path $Item.ItemPath | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		
+    			
+    			$rightsAdminForm = @("item:create","item:read", "item:write", "item:rename", "item:delete","item:admin")
+    			Get-Item -Path "master:/sitecore/Forms" | Add-ItemAcl -AccessRules ($rightsAdminForm | ForEach-Object { New-ItemAcl -AccessRight $_ -PropagationType Any -SecurityPermission AllowAccess -Identity $name }) -PassThru
+        		$aclForEveryone = New-ItemAcl -Identity $name -PropagationType Any -SecurityPermission AllowInheritance -AccessRight *
+        		Get-Item -Path "master:/sitecore/Forms" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		
+        		$sites = Get-Item -Path "master:" -Query "/sitecore/content//*[@@templateID='{544A6BB2-03FF-404F-889F-225D92310585}']"
+        		Foreach ($site in $sites)
+        		{
+        			if ($site.ItemPath -ne $Item.ItemPath) {
+        				$aclForEveryone = New-ItemAcl -Identity $name -AccessRight item:read  -PropagationType Any -SecurityPermission DenyAccess 
+        				Get-Item -Path $site.ItemPath | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        				$aclForEveryone = New-ItemAcl -Identity $name -PropagationType Any -SecurityPermission DenyInheritance -AccessRight *
+        				Get-Item -Path $site.ItemPath | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        			}
+        		}
+        		$newItem = Get-Item -Path '/sitecore/content/fwd/Global/Settings/List/Administrators'
+        		$Foldermodules = Get-ItemInsertOptions $newItem
+        		$FoldermodulesSortedByKey = Get-OrderedDictionaryByKey $Foldermodules
+        		if ($FoldermodulesSortedByKey.Count -gt 0) {
+        		$role = New-Item -Parent $newItem -Name $name.ToString() -ItemType $FoldermodulesSortedByKey.'ListItem' -Language $language
+        		$role.Editing.BeginEdit()
+        		$role.Fields["key"].Value = $name.ToString()
+        		$role.Fields["value"].Value = 'sitecore\' + $name.ToString()
+        		$role.Editing.EndEdit()
+        		}
+        		
+        		$name1 = $web + ' Hide Publishing Role'
+        		New-Role -Identity $name1
+        		Add-RoleMember -Identity 'sitecore\Sitecore Client Publishing' -Members $name1
+        		
+        		
+        		$name = $web + ' Author'
+        		New-Role -Identity $name
+        		Add-RoleMember -Identity 'sitecore\Sitecore Client Developing' -Members $name
+        		Add-RoleMember -Identity 'sitecore\Designer' -Members $name
+        		Add-RoleMember -Identity 'sitecore\Forms Editor' -Members $name
+        		Add-RoleMember -Identity 'sitecore\Sitecore Client Authoring' -Members $name
+        		Add-RoleMember -Identity $name1 -Members $name
+        		
+        		$aclForEveryone = New-ItemAcl -Identity $name -AccessRight item:read  -PropagationType Any -SecurityPermission AllowAccess 
+        		Get-Item -Path "master:/sitecore/content/fwd/Global" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		$aclForEveryone = New-ItemAcl -Identity $name -PropagationType Any -SecurityPermission AllowInheritance -AccessRight *
+        		Get-Item -Path "master:/sitecore/content/fwd/Global" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		
+        		
+    			$rightsAuthorContent = @("item:create","item:read", "item:write", "item:rename", "item:delete")
+    			Get-Item -Path $Item.ItemPath | Add-ItemAcl -AccessRules ($rightsAuthorContent | ForEach-Object { New-ItemAcl -AccessRight $_ -PropagationType Any -SecurityPermission AllowAccess -Identity $name }) -PassThru
+        		$aclForEveryone = New-ItemAcl -Identity $name -PropagationType Any -SecurityPermission AllowInheritance -AccessRight *
+        		Get-Item -Path $Item.ItemPath | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		
+        		$rightsAuthorForm = @("item:create","item:read", "item:write", "item:rename", "item:delete")
+    			Get-Item -Path "master:/sitecore/Forms" | Add-ItemAcl -AccessRules ($rightsAuthorForm | ForEach-Object { New-ItemAcl -AccessRight $_ -PropagationType Any -SecurityPermission AllowAccess -Identity $name }) -PassThru
+        		$aclForEveryone = New-ItemAcl -Identity $name -PropagationType Any -SecurityPermission AllowInheritance -AccessRight *
+        		Get-Item -Path "master:/sitecore/Forms" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		
+        		
+        		$aclForEveryone = New-ItemAcl -Identity $name -AccessRight item:read  -PropagationType Any -SecurityPermission AllowAccess 
+        		Get-Item -Path "master:/sitecore/system/Workflows/FWD Workflow/Delete Draft" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		$aclForEveryone = New-ItemAcl -Identity $name -PropagationType Any -SecurityPermission AllowInheritance -AccessRight *
+        		Get-Item -Path "master:/sitecore/system/Workflows/FWD Workflow/Delete Draft" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		
+        		$aclForEveryone = New-ItemAcl -Identity $name -AccessRight item:read  -PropagationType Any -SecurityPermission AllowAccess 
+        		Get-Item -Path "master:/sitecore/system/Workflows/FWD Workflow/Draft" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		$aclForEveryone = New-ItemAcl -Identity $name -PropagationType Any -SecurityPermission AllowInheritance -AccessRight *
+        		Get-Item -Path "master:/sitecore/system/Workflows/FWD Workflow/Draft" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		
+        		$aclForEveryone = New-ItemAcl -Identity $name -AccessRight item:read  -PropagationType Any -SecurityPermission AllowAccess 
+        		Get-Item -Path "master:/sitecore/system/Workflows/FWD Workflow/Awaiting Approval" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		$aclForEveryone = New-ItemAcl -Identity $name -AccessRight item:read  -PropagationType Any -SecurityPermission DenyAccess 
+        		Get-Item -Path "master:/sitecore/system/Workflows/FWD Workflow/Awaiting Approval/Approve with Test" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		$aclForEveryone = New-ItemAcl -Identity $name -AccessRight item:read  -PropagationType Any -SecurityPermission DenyAccess 
+        		Get-Item -Path "master:/sitecore/system/Workflows/FWD Workflow/Awaiting Approval/Approve" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		$aclForEveryone = New-ItemAcl -Identity $name -AccessRight item:read  -PropagationType Any -SecurityPermission DenyAccess 
+        		Get-Item -Path "master:/sitecore/system/Workflows/FWD Workflow/Awaiting Approval/Reject" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		
+        		$aclForEveryone = New-ItemAcl -Identity $name -AccessRight item:read  -PropagationType Any -SecurityPermission AllowAccess 
+        		Get-Item -Path "master:/sitecore/system/Workflows/FWD Workflow/Deletion Approval" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		$aclForEveryone = New-ItemAcl -Identity $name -AccessRight item:read  -PropagationType Any -SecurityPermission DenyAccess 
+        		Get-Item -Path "master:/sitecore/system/Workflows/FWD Workflow/Deletion Approval/Approve with Test" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		$aclForEveryone = New-ItemAcl -Identity $name -AccessRight item:read  -PropagationType Any -SecurityPermission DenyAccess 
+        		Get-Item -Path "master:/sitecore/system/Workflows/FWD Workflow/Deletion Approval/Approve" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		$aclForEveryone = New-ItemAcl -Identity $name -AccessRight item:read  -PropagationType Any -SecurityPermission DenyAccess 
+        		Get-Item -Path "master:/sitecore/system/Workflows/FWD Workflow/Deletion Approval/Reject" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		
+        		$aclForEveryone = New-ItemAcl -Identity $name -AccessRight item:read  -PropagationType Any -SecurityPermission DenyAccess 
+        		Get-Item -Path "master:/sitecore/system/Workflows/FWD Workflow/Approved" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		$aclForEveryone = New-ItemAcl -Identity $name -AccessRight item:read  -PropagationType Any -SecurityPermission DenyAccess 
+        		Get-Item -Path "master:/sitecore/system/Workflows/FWD Workflow/Delete Approved" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		
+        		Foreach ($site in $sites)
+        		{
+        			if ($site.ItemPath -ne $Item.ItemPath) {
+        				$aclForEveryone = New-ItemAcl -Identity $name -AccessRight item:read  -PropagationType Any -SecurityPermission DenyAccess 
+        				Get-Item -Path $site.ItemPath | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        				$aclForEveryone = New-ItemAcl -Identity $name -PropagationType Any -SecurityPermission DenyInheritance -AccessRight *
+        				Get-Item -Path $site.ItemPath | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        			}
+        		}
+        		
+        		$newItem = Get-Item -Path '/sitecore/content/fwd/Global/Settings/List/Roles'
+        		$Foldermodules = Get-ItemInsertOptions $newItem
+        		$FoldermodulesSortedByKey = Get-OrderedDictionaryByKey $Foldermodules
+        		if ($FoldermodulesSortedByKey.Count -gt 0) {
+        		$role = New-Item -Parent $newItem -Name $name.ToString() -ItemType $FoldermodulesSortedByKey.'ListItem' -Language $language
+        		$role.Editing.BeginEdit()
+        		$role.Fields["key"].Value = $name.ToString()
+        		$role.Fields["value"].Value = 'sitecore\' + $name.ToString()
+        		$role.Editing.EndEdit()
+        		}
+        		
+        		$name = $web + ' Content Approver'
+        		New-Role -Identity $name
+        		Add-RoleMember -Identity 'sitecore\Sitecore Client Advanced Publishing' -Members $name
+        		Add-RoleMember -Identity 'sitecore\Sitecore Client Publishing' -Members $name
+        		Add-RoleMember -Identity 'sitecore\Designer' -Members $name
+        		Add-RoleMember -Identity 'sitecore\Sitecore Client Authoring' -Members $name
+        		
+        		$aclForEveryone = New-ItemAcl -Identity $name -AccessRight item:read  -PropagationType Any -SecurityPermission AllowAccess 
+        		Get-Item -Path "master:/sitecore/content/fwd/Global" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		$aclForEveryone = New-ItemAcl -Identity $name -PropagationType Any -SecurityPermission AllowInheritance -AccessRight *
+        		Get-Item -Path "master:/sitecore/content/fwd/Global" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		
+        		
+    			$rightsApproverContent = @("item:read", "item:write", "item:delete","item:admin")
+    			Get-Item -Path $Item.ItemPath | Add-ItemAcl -AccessRules ($rightsApproverContent | ForEach-Object { New-ItemAcl -AccessRight $_ -PropagationType Any -SecurityPermission AllowAccess -Identity $name }) -PassThru
+        		$aclForEveryone = New-ItemAcl -Identity $name -PropagationType Any -SecurityPermission AllowInheritance -AccessRight *
+        		Get-Item -Path $Item.ItemPath | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		
+        		
+    			$rightsAppoverForm = @("item:read", "item:write", "item:delete","item:admin")
+    			Get-Item -Path "master:/sitecore/Forms" | Add-ItemAcl -AccessRules ($rightsAppoverForm | ForEach-Object { New-ItemAcl -AccessRight $_ -PropagationType Any -SecurityPermission AllowAccess -Identity $name }) -PassThru
+        		$aclForEveryone = New-ItemAcl -Identity $name -PropagationType Any -SecurityPermission AllowInheritance -AccessRight *
+        		Get-Item -Path "master:/sitecore/Forms" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		
+        		$aclForEveryone = New-ItemAcl -Identity $name -AccessRight item:read  -PropagationType Any -SecurityPermission AllowAccess 
+        		Get-Item -Path "master:/sitecore/system/Workflows/FWD Workflow" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		$aclForEveryone = New-ItemAcl -Identity $name -PropagationType Any -SecurityPermission AllowInheritance -AccessRight *
+        		Get-Item -Path "master:/sitecore/system/Workflows/FWD Workflow" | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        		
+        		Foreach ($site in $sites)
+        		{
+        			if ($site.ItemPath -ne $Item.ItemPath) {
+        				$aclForEveryone = New-ItemAcl -Identity $name -AccessRight item:read  -PropagationType Any -SecurityPermission DenyAccess 
+        				Get-Item -Path $site.ItemPath | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        				$aclForEveryone = New-ItemAcl -Identity $name -PropagationType Any -SecurityPermission DenyInheritance -AccessRight *
+        				Get-Item -Path $site.ItemPath | Add-ItemAcl -AccessRules $aclForEveryone -PassThru
+        			}
+        		}
+        		
+        		
+        		#Header and footer links Added
+        		$item1Path = $Item.ItemPath + '/Home/Products'
+        		$item1 = Get-Item -Path $item1Path
+        		$newPath = $Item.ItemPath + '/Components/headerLinks/header-navigation-links/personal-insurance'
+        		$newItem = Get-Item -Path $newPath
+        		$newItem.Editing.BeginEdit()
+        		[Sitecore.Data.Fields.LinkField]$field = $newItem.Fields["link"]
+        		$field.LinkType = "internal"
+        		$field.TargetID = $item1.ID
+        		$newItem.Editing.EndEdit()
+        		
+        		$newPath = $Item.ItemPath + '/Components/headerLinks/header-navigation-links/personal-insurance/Products'
+        		$newItem = Get-Item -Path $newPath
+        		$newItem.Editing.BeginEdit()
+        		[Sitecore.Data.Fields.LinkField]$field = $newItem.Fields["link"]
+        		$field.LinkType = "internal"
+        		$field.TargetID = $item1.ID
+        		$newItem.Editing.EndEdit()
+        		
+        		$newPath = $Item.ItemPath + '/Components/footerLinks/footer-navigation-links/column-1/Product'
+        		$newItem = Get-Item -Path $newPath
+        		$newItem.Editing.BeginEdit()
+        		[Sitecore.Data.Fields.LinkField]$field = $newItem.Fields["link"]
+        		$field.LinkType = "internal"
+        		$field.TargetID = $item1.ID
+        		$newItem.Editing.EndEdit()
+        		
+        		$item1Path = $Item.ItemPath + '/Home/Claims'
+        		$item1 = Get-Item -Path $item1Path
+        		$newPath = $Item.ItemPath + '/Components/headerLinks/header-navigation-links/personal-insurance/Claims'
+        		$newItem = Get-Item -Path $newPath
+        		$newItem.Editing.BeginEdit()
+        		[Sitecore.Data.Fields.LinkField]$field = $newItem.Fields["link"]
+        		$field.LinkType = "internal"
+        		$field.TargetID = $item1.ID
+        		$newItem.Editing.EndEdit()
+        		
+        		$newPath = $Item.ItemPath + '/Components/footerLinks/footer-navigation-links/column-2/Claims'
+        		$newItem = Get-Item -Path $newPath
+        		$newItem.Editing.BeginEdit()
+        		[Sitecore.Data.Fields.LinkField]$field = $newItem.Fields["link"]
+        		$field.LinkType = "internal"
+        		$field.TargetID = $item1.ID
+        		$newItem.Editing.EndEdit()
+        		
+        		
+        		$item1Path = $Item.ItemPath + '/Home/About Us'
+        		$item1 = Get-Item -Path $item1Path
+        		$newPath = $Item.ItemPath + '/Components/headerLinks/header-navigation-links/about-us'
+        		$newItem = Get-Item -Path $newPath
+        		$newItem.Editing.BeginEdit()
+        		[Sitecore.Data.Fields.LinkField]$field = $newItem.Fields["link"]
+        		$field.LinkType = "internal"
+        		$field.TargetID = $item1.ID
+        		$newItem.Editing.EndEdit()
+    	}
+    	end {
+    		Write-Verbose "Cmdlet Create-Roles - End"
+    	}
+    	}
+    
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200529T105053Z

@@ -1,0 +1,97 @@
+﻿---
+ID: "c0762788-b0ed-4301-a907-7e9765d7d9f5"
+Parent: "38a8fcc4-140e-40b2-bb61-f830003c6c80"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Functions/Modules/ComplianceAccreditation
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    param(
+    $params
+    )
+    
+    Import-Function Global-Functions
+    		
+    	if($params.Item){
+    	Write-Log "Inside Compliance Accreditation"
+    		$newPath = $params.Item.ItemPath + '/Components'
+    		Write-Log $newPath
+    		$newItem = Get-Item -Path $newPath
+    		$complianceFolderItem = New-Item -Parent $newItem -Name "Compliance Accreditation" -ItemType $params.TemplateID -Language $params.language
+    		
+    		$modules = Get-ItemInsertOptions $complianceFolderItem
+    		$modulesSortedByKey = Get-OrderedDictionaryByKey $modules
+    		
+    		if ($modulesSortedByKey.Count -gt 0) {
+    		
+    		$complianceFolderItem2 = New-Item -Parent $complianceFolderItem -Name "Compliance Accreditation 2" -ItemType $modulesSortedByKey.'ComplianceAccreditationFolder' -Language $params.language
+    		
+    		$complianceFoldermodules = Get-ItemInsertOptions $complianceFolderItem2
+    		$complianceFoldermodulesSortedByKey = Get-OrderedDictionaryByKey $complianceFoldermodules
+    		if ($complianceFoldermodulesSortedByKey.Count -gt 0) {
+    		$compliance1 = New-Item -Parent $complianceFolderItem2 -Name "Accreditation1" -ItemType $complianceFoldermodulesSortedByKey.'compliance-accreditation' -Language $params.language
+    		$homePath = $params.Item.ItemPath + '/home'
+    		$homeItem = Get-Item -Path $homePath
+    		$compliance1.Editing.BeginEdit()
+    		[Sitecore.Data.Fields.LinkField]$field = $compliance1.Fields["link"]
+    		$field.LinkType = "internal"
+    		$field.TargetID = $homeItem.ID
+    		[Sitecore.Data.Fields.ImageField]$image = $compliance1.Fields["image"]
+    		$image.MediaID = "{F9AC5180-8D9D-492F-9A80-39378F0241FB}"
+    		[Sitecore.Data.Fields.ImageField]$mobileImage = $compliance1.Fields["mobileImage"]
+    		$mobileImage.MediaID = "{F9AC5180-8D9D-492F-9A80-39378F0241FB}"
+    		$compliance1.Editing.EndEdit()
+    		
+    		$compliance2 = New-Item -Parent $complianceFolderItem2 -Name "Accreditation2" -ItemType $complianceFoldermodulesSortedByKey.'compliance-accreditation' -Language $params.language
+    		$compliance2.Editing.BeginEdit()
+    		[Sitecore.Data.Fields.LinkField]$field = $compliance2.Fields["link"]
+    		$field.LinkType = "internal"
+    		$field.TargetID = $homeItem.ID
+    		[Sitecore.Data.Fields.ImageField]$image = $compliance2.Fields["image"]
+    		$image.MediaID = "{2D294744-3A37-42E2-BD26-D5495210CA3F}"
+    		[Sitecore.Data.Fields.ImageField]$mobileImage = $compliance2.Fields["mobileImage"]
+    		$mobileImage.MediaID = "{2D294744-3A37-42E2-BD26-D5495210CA3F}"
+    		$compliance2.Editing.EndEdit()
+    		}
+    		
+    		$complianceFolder = New-Item -Parent $complianceFolderItem -Name "Compliance Accreditation1" -ItemType $modulesSortedByKey.'ComplianceAccreditationFolder' -Language $params.language
+    		
+    		$complianceFoldermodules = Get-ItemInsertOptions $complianceFolder
+    		$complianceFoldermodulesSortedByKey = Get-OrderedDictionaryByKey $complianceFoldermodules
+    		if ($complianceFoldermodulesSortedByKey.Count -gt 0) {
+    		$compliance1 = New-Item -Parent $complianceFolder -Name "Accreditation1" -ItemType $complianceFoldermodulesSortedByKey.'compliance-accreditation' -Language $params.language
+    		$homePath = $params.Item.ItemPath + '/home'
+    		$homeItem = Get-Item -Path $homePath
+    		$compliance1.Editing.BeginEdit()
+    		[Sitecore.Data.Fields.LinkField]$field = $compliance1.Fields["link"]
+    		$field.LinkType = "internal"
+    		$field.TargetID = $homeItem.ID
+    		[Sitecore.Data.Fields.ImageField]$image = $compliance1.Fields["image"]
+    		$image.MediaID = "{F9AC5180-8D9D-492F-9A80-39378F0241FB}"
+    		[Sitecore.Data.Fields.ImageField]$mobileImage = $compliance1.Fields["mobileImage"]
+    		$mobileImage.MediaID = "{F9AC5180-8D9D-492F-9A80-39378F0241FB}"
+    		$compliance1.Editing.EndEdit()
+    		
+    		$compliance2 = New-Item -Parent $complianceFolder -Name "Accreditation2" -ItemType $complianceFoldermodulesSortedByKey.'compliance-accreditation' -Language $params.language
+    		$compliance2.Editing.BeginEdit()
+    		[Sitecore.Data.Fields.LinkField]$field = $compliance2.Fields["link"]
+    		$field.LinkType = "internal"
+    		$field.TargetID = $homeItem.ID
+    		[Sitecore.Data.Fields.ImageField]$image = $compliance2.Fields["image"]
+    		$image.MediaID = "{2D294744-3A37-42E2-BD26-D5495210CA3F}"
+    		[Sitecore.Data.Fields.ImageField]$mobileImage = $compliance2.Fields["mobileImage"]
+    		$mobileImage.MediaID = "{2D294744-3A37-42E2-BD26-D5495210CA3F}"
+    		$compliance2.Editing.EndEdit()
+    		}		
+    		}
+    	}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201211T105418Z

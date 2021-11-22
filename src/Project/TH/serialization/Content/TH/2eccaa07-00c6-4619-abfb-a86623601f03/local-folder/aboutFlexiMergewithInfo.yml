@@ -1,0 +1,48 @@
+﻿---
+ID: "f4e2fb0c-c0be-4684-adf7-f0859ba7eb9c"
+Parent: "b39360f7-370e-4c96-8717-d067c8f5b954"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/GroupLandingPage/Single-Premium-Group-Insurance/local-folder/aboutFlexiMergewithInfo"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "9cb76228-fc26-48b7-bd66-1c6e133b625d"
+  Hint: secondaryLinkButtonMode
+  Value: "{02A5A5C7-C318-4919-B773-86A65BA98969}"
+- ID: "dab4200c-a87f-4605-b2f7-2544616ece6e"
+  Hint: secondaryLinkButtonIcon
+  Value: "{53C9E278-E7B2-4152-BEC5-8779F6DB3EE4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{905B1A54-BA29-4CA9-BAEA-0C8338AC392D}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200226T132346Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{97B72C4C-77BB-4C50-B0A1-69812EBA21CB}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <div>
+        <p style="margin-bottom: 0.0001pt;"><span style="color: black;">Truly customer-led products and innovative technology-led distribution tools - we aim to help you gain maximum traction in your career. </span></p>
+        </div>
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: "Why Flexi EB?"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Enquiry" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D445FD9E-715B-4BF3-8451-F4B0CD5EE974}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"

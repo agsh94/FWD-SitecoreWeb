@@ -1,0 +1,46 @@
+﻿---
+ID: "802d9514-9987-48ef-8939-949f6550a49b"
+Parent: "f15378da-0508-4641-a280-5799fd504f76"
+Template: "77569059-e9bd-4444-a1e5-16041d5d345b"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Invest/exchange-rate-fund-valuations/local-folder/fund-prices"
+DB: master
+SharedFields:
+- ID: "07507434-997c-404c-a7cb-f9cee62c16ec"
+  Hint: fundTableHeaders
+  Type: Multilist
+  Value: |
+    {4BEE8F2B-1153-4099-A43B-995F25E5FF70}
+    {FC25836D-8C4E-4ACE-ACED-1D6100094704}
+    {7E049DA7-D3B0-4B44-913F-CF01170868DE}
+    {4DBADD98-2A57-4EFE-8439-C49FC7E4A88E}
+    {43806F27-8CA9-4534-BA66-9AEE826A3EC0}
+- ID: "873804ee-bc77-473f-8565-3de3dd44d7f0"
+  Hint: api
+  Value: "{783D93DB-1259-4B5F-82ED-89820B894B1B}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba96eace-dc84-41c5-8a97-38a7403f6873"
+  Hint: currencyDecimalMapping
+  Value: "{25B1FCB5-107A-4147-9A89-BD921AB26DE2}=2&{E02B5362-48F3-46F2-BDDA-D3F07F7EFD5C}=4"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Fund Prices
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201005T141523Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "b8cbded6-0e3d-442a-b282-1362c6b726f8"
+      Hint: dateFormat
+      Value: "{F436B25B-267C-4442-8EF7-25FEEBD6BBC3}"
+    - ID: "e000537e-dc42-4f75-8f18-5df5e6b5ef1f"
+      Hint: documentLinks
+      Value: "{A980225C-77E6-4F08-B204-B30211916420}=Fund%20Performance%20October%202020"

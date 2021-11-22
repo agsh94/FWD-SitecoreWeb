@@ -1,0 +1,102 @@
+﻿---
+ID: "38ac8ebb-d267-42f4-bedd-d37f198ba5ba"
+Parent: "648fb00d-66f4-49ce-b707-3ef5be529dbe"
+Template: "d48ab251-45a3-498a-a8c1-629e33a6b9b4"
+Path: "/sitecore/content/fwd/fwd-th/Home/FormsList/campaign-birthday"
+DB: master
+SharedFields:
+- ID: "97b969dc-df88-4451-baad-f8101a25d27c"
+  Hint: formEmailTemplate
+  Value: |
+    <link text="" linktype="form" querystring="" target="" id="{7C816A40-CE2F-4926-A7D6-83CBC2443F84}" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <p
+          uid="{D14661AB-7F89-4E68-A125-FBBB88BFB7B6}">
+          <p:d />
+        </p>
+        <r
+          uid="{DA48A850-EE29-44F2-81CB-334204BFB850}"
+          s:ds="{2D91F2E1-2DB9-409F-B8BE-2F31A2CC540C}"
+          s:id="{D12A5E12-4AB2-4330-8D72-77EA8D372515}"
+          s:par="formType=conversational"
+          s:ph="jss-main" />
+        <r
+          uid="{9E687E41-FA14-4810-A780-5B42B5322AE8}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "campaign-birthday"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191126T035915Z
+    - ID: "51d4b1ca-977d-48d7-a102-b29f5018079d"
+      Hint: apiList
+      Type: Multilist
+      Value: |
+        {2334A4BF-D431-461F-B313-1DD10100C27E}
+        {D58E3660-0AB7-4811-AD6F-D007E52AF349}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "campaign-birthday"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T063407Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200807T025247Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "51d4b1ca-977d-48d7-a102-b29f5018079d"
+      Hint: apiList
+      Type: Multilist
+      Value: |
+        {2334A4BF-D431-461F-B313-1DD10100C27E}
+        {D58E3660-0AB7-4811-AD6F-D007E52AF349}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200807T025247Z

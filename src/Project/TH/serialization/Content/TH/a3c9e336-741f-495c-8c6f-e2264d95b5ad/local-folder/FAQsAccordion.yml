@@ -1,0 +1,53 @@
+﻿---
+ID: "b22e1579-bfc6-428e-b541-e70424c62c5e"
+Parent: "29071005-487d-4708-bb3d-4aa939631977"
+Template: "14cf212d-7cf4-41aa-b50b-24d748a87556"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/GroupLandingPage/tailor-made-life-and-medical/local-folder/FAQsAccordion"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "f973c399-5998-47a5-ae48-760ebed901b1"
+  Hint: faqItems
+  Value: "{E79E677D-640D-430C-8692-9C2804FACF74}|{FE9499FC-981C-486C-BFD3-CE6101747A2A}|{4BAF4E39-C996-4E62-9926-E8BDFBCE1AC1}|{AAFB40D6-89FB-43FA-B74C-AF3DF6D47EDC}|{CA567E93-2ADB-4081-8B32-C4ADCB477160}"
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200830T145735Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nehagarg
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See more FAQs" anchor="" linktype="internal" class="" title=""  querystring="" id="{4D410CCC-DDD8-456C-B317-FD8D00637F32}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: Frequently asked questions
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200830T151853Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nehagarg
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See more FAQs thai" anchor="" linktype="internal" class="" title=""  querystring="" id="{4D410CCC-DDD8-456C-B317-FD8D00637F32}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: Frequently asked questions

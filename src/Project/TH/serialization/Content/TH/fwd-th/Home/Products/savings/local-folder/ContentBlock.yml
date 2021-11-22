@@ -1,0 +1,45 @@
+﻿---
+ID: "0605102d-83e5-4011-ae77-3fe791ba1a57"
+Parent: "4e409f40-b65c-4ead-b47f-9451cecb9a14"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/savings/local-folder/ContentBlock"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T072044Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "We all know that savings are important. And at FWD we believe that everyone should have a rainy-day fund. So we design savings plans with annual cash returns and a guaranteed lump sum for your family, should you die."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdtestauthor
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Whatever you need to save for, we’ve got it covered
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T134653Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: เราต่างรู้ว่าการออมเงินเป็นเรื่องสำคัญ และการมีเงินสำรองก็เป็นสิ่งจำเป็นสำหรับทุกคน ที่เอฟดับบลิวดีจึงออกแบบแบบประกันสะสมทรัพย์ที่หลากหลายเพื่อให้คุณเลือกแผนที่เหมาะสมกับความต้องการ และถึงเป้าหมายอย่างสบายใจที่สุด พร้อมมอบเงินคืนรายปี และยังมอบเงินก้อนพร้อมใช้ให้กับครอบครัวหากเกิดเหตุไม่คาดฝัน เพื่อให้คนที่คุณรักมีหลักประกันที่อุ่นใจในวันที่ไม่มีคุณอยู่เคียงข้าง
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ดูแลคุณให้บรรลุทุกเป้าหมายของการออม

@@ -1,0 +1,18 @@
+﻿---
+ID: "283fa449-7ef4-4b2b-a60c-714b4b485b42"
+Parent: "f438e41c-e3b7-45bb-89eb-398c74b8fd16"
+Template: "2c8293d2-9b5c-42d9-a207-f3ea0a725d08"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/News/article-detail-1/local-folder/ArticleDetails/Divider"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191122T110910Z

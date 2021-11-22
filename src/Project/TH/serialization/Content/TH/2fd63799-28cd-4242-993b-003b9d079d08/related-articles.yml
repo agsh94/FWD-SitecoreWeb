@@ -1,0 +1,48 @@
+﻿---
+ID: "878bb8bf-137d-4a87-9dd3-445001c037f1"
+Parent: "2fd63799-28cd-4242-993b-003b9d079d08"
+Template: "b5702cd7-40f4-4617-9c29-8a1197de6c9a"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/press-releases/article-2/local-folder/related-articles"
+DB: master
+SharedFields:
+- ID: "850a1782-6872-4f19-ae20-34e926bdc3aa"
+  Hint: linkItems
+  Value: "{426D53D2-DCAD-439A-876A-620AD6CB5510}|{6E698E2D-4251-4C7F-80F6-B83D90CD4E94}|{EFA560EC-8949-4EBC-BD00-ECCFB8F8AEB2}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Related Articles
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191120T115103Z
+    - ID: "d88ea793-1587-4f65-ae5c-80926cd5438b"
+      Hint: subTitle
+      Value: Related Articles
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Related Articles
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T034654Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d88ea793-1587-4f65-ae5c-80926cd5438b"
+      Hint: subTitle
+      Value: Related Articles
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Related Articles

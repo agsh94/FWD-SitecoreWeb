@@ -1,0 +1,27 @@
+﻿---
+ID: "650d82b2-f9eb-446d-8156-f50ab664d3f7"
+Parent: "9f6b43a1-7ee2-48ea-b9b6-958d2f637b43"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/5-best-milk-tea/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2500
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T004742Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        สิทธิพิเศษสำหรับลูกค้าที่ใช้แอปพลิเคชัน <strong>FWD MAX เมื่อสั่งชานมไซส์ M สองแก้ว แถมฟรี Classic CHA + Boba ไซส์ M (ราคา 59 บาท 1 แก้ว)&nbsp;</strong>สามารถดูรายละเอียดเพิ่มเติมได้ที่ <br />
+        &gt;&gt; <a href="https://www.chillpainai.com/fwdmaxprivilege/">www.chillpainai.com/fwdmaxprivilege/</a>

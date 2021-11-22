@@ -1,0 +1,45 @@
+﻿---
+ID: "9a08d055-1849-4b8a-b451-b988f875ca25"
+Parent: "d4398613-7c61-4e3d-906c-9e8cc6ba0064"
+Template: "b5702cd7-40f4-4617-9c29-8a1197de6c9a"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Max/Health/fwd-health/local-folder/related-articles"
+DB: master
+SharedFields:
+- ID: "2250f909-bae3-415f-a645-9d07826b6566"
+  Hint: apiPageSize
+  Value: 3
+- ID: "850a1782-6872-4f19-ae20-34e926bdc3aa"
+  Hint: linkItems
+  Value: "{B5BBB1E9-66C5-4F0F-87B2-7D76EE848E65}|{128A9A34-015D-493B-BDFE-8093893D510A}|{77A1D089-ADE7-46A6-ABB2-D23AF39C2923}"
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{20162863-AE86-4B42-9AEC-B7A81A345553}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Related Articles
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200127T060303Z
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Related articles
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200219T091748Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: "related-articles"

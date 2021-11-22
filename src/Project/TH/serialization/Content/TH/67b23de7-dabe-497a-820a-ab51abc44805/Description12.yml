@@ -1,0 +1,26 @@
+﻿---
+ID: "9e9dd13a-b122-4740-9827-81662b2d2da2"
+Parent: "67b23de7-dabe-497a-820a-ab51abc44805"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/ohkaju-organic-restaurant/local-folder/ArticleDetails/Description12"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2300
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T011450Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span>ไต่ระดับความฟินกันต่อกับเมนูสวีท</span><span dir="RTL"> </span><span>แอนด์</span><span dir="RTL"> </span><span>ซาว</span><span dir="RTL"> </span><span>สติ๊กริบส์</span><span dir="RTL"> </span><span>อีกเมนูซิกเนเจอร์ของสาขานี้</span><span dir="RTL"> </span><span>ที่ใช้ซี่โครงเนื้อร่อนกระดูกกับซอสส้มคั้นสดที่นำไปเคี่ยวจนได้รสอมเปรี้ยวอมหวาน</span><span dir="RTL"> </span><span dir="RTL"></span><span>พร้อมกับดิปซอสสูตรพิเศษ</span><span dir="RTL"> </span><span>Garlic &amp; Herb </span><span>ท็อปด้านบนด้วยทับทิม</span><span dir="RTL"> </span><span>เสิร์ฟมาพร้อมสลัดผักสดและส้ม</span><span dir="RTL"> </span><span>ส่วนไซด์ดิชที่เราเลือกเป็นเฟรนช์ฟรายส์</span><span dir="RTL"> </span><span>ที่ใช้มันฝรั่งมาหั่นเป็นชิ้นโตๆ</span><span dir="RTL"> </span><span>ทอดจนเหลืองน่าทาน</span><span dir="RTL"> </span><span>แล้วกินคู่กันฟินมากบอกเลย</span></p>

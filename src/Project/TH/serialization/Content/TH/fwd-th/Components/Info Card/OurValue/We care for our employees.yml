@@ -1,0 +1,70 @@
+﻿---
+ID: "d42dd62d-8b7e-4332-9451-381121e16907"
+Parent: "839bfbcd-d6a8-4c34-b020-8c6f60de84fb"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Components/Info Card/OurValue/We care for our employees"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{0420B218-E677-460E-98F5-B0421A93E1EA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: We care about our customers and their experience. We also care about our employees who are all part of the FWD family. And we care about the communities in which we do business.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T064439Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: We’re caring
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{9B1A5418-0A15-43E1-9FC3-FADE07A4D1A8}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{9B1A5418-0A15-43E1-9FC3-FADE07A4D1A8}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: เราใส่ใจต่อลูกค้าและให้ความสำคัญกับประสบการณ์ของลูกค้าที่มีต่อบริษัท เราใส่ใจต่อพนักงานทุกคนซึ่งเป็นส่วนหนึ่งของครอบครัวเอฟดับบลิวดี และเราใส่ใจต่อชุมชนในพื้นที่ที่เราทำธุรกิจอยู่ด้วย
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T064531Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: เราใส่ใจ
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{9B1A5418-0A15-43E1-9FC3-FADE07A4D1A8}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{9B1A5418-0A15-43E1-9FC3-FADE07A4D1A8}" />

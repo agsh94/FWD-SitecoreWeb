@@ -1,0 +1,56 @@
+﻿---
+ID: "0a047d40-6d1b-4f3e-9dc6-f7f529d2d56b"
+Parent: "b95e0817-3387-4161-aff8-9ed5bfc07504"
+Template: "14cf212d-7cf4-41aa-b50b-24d748a87556"
+Path: "/sitecore/content/fwd/fwd-th/Home/GroupLandingPage/flexi-eb/local-folder/FAQs"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "f973c399-5998-47a5-ae48-760ebed901b1"
+  Hint: faqItems
+  Value: "{E5E91ABE-E689-4FA6-97EB-493D2AB4DDA4}|{68C3A4CE-FB2A-4D12-900C-CDB9CD53FADC}|{6608654E-BA84-48E1-9BA7-F81A535918A0}|{135D0165-F476-4B1A-A659-F05DC859BACF}|{875E3757-2ED3-4D73-92AE-2059DBEB77C1}|{28BD5341-F22B-4414-90C3-C215040784E1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200120T083202Z
+    - ID: "45e2df09-7d41-4b33-b7f1-f6d4bb8ba530"
+      Hint: description
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See more FAQs" anchor="" linktype="internal" class="" title=""  querystring="" id="{4D410CCC-DDD8-456C-B317-FD8D00637F32}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: Frequently asked questions 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T115849Z
+    - ID: "45e2df09-7d41-4b33-b7f1-f6d4bb8ba530"
+      Hint: description
+      Value: "Can't decide what's best for you?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See More FAQs" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4D410CCC-DDD8-456C-B317-FD8D00637F32}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: FAQ

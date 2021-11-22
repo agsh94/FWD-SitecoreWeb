@@ -1,0 +1,24 @@
+﻿---
+ID: "3dca7376-4aba-4af4-b262-d8a27178e7f1"
+Parent: "a38a3992-925d-436a-b9d9-a765104f1fb3"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branch-locator/local-folder/ContentBlock"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200106T061959Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: Wherever you are in Thailand, there's an FWD branch or agent office near you.
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Our Wide Network
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{EE338D6E-F74B-4A3C-AD12-A3E1CE871156}" />

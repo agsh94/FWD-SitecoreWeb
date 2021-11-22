@@ -1,0 +1,120 @@
+﻿---
+ID: "58bd95ce-8e88-45c9-8ffc-1e6c8dfac205"
+Parent: "84ed3877-da81-4de9-a97d-ba2e353a175f"
+Template: "29d97c39-6dc9-4e94-8a9a-12154e2ad19b"
+Path: "/sitecore/content/fwd/fwd-th/Components/Service Locator/Hospitals and Clinics/bangkok-hospital-rayong-clinic-banchang"
+DB: master
+SharedFields:
+- ID: "1012cc35-3918-4ca9-8029-9002bc4071c7"
+  Hint: fax
+  Value: 
+- ID: "20969991-14d8-413f-a0b3-606dde852fb4"
+  Hint: district
+  Value: "{5469EBE2-6171-4FF5-AD40-66369217D494}"
+- ID: "3002e2b9-559e-4664-86a6-a9aeaec07cac"
+  Hint: buttonIcon
+  Value: "{FCD7D121-C241-4EEC-B2C2-9D47C66E4181}"
+- ID: "46db4d4c-69ed-42f5-a11d-d051d684ed33"
+  Hint: facilityFilterTagsGroup
+  Type: Multilist
+  Value: |
+    {5B14BA0E-237D-4118-A206-D6011C4DD87B}
+    {32F042A6-2613-489C-B8CD-FE6063D875CD}
+- ID: "7e4ef5f8-c53e-40af-b1b0-aa8e85495dc0"
+  Hint: latitude
+  Value: 12.7185483
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "a88837dd-01d0-456a-b678-ef12fffa2496"
+  Hint: province
+  Value: "{8F03BF4F-3FB5-403A-83C3-0028BA8B44C8}"
+- ID: "c20cce7b-5349-432e-a656-77394ce985e2"
+  Hint: facilityType
+  Type: Multilist
+  Value: |
+    {4EB7396C-509C-4C34-98EA-3F410A759FBF}
+    {1366371F-5CEB-487F-B126-B5334CD9EE8B}
+- ID: "cc819fc2-63b9-4f6b-8538-24759fbd25d9"
+  Hint: telephone
+  Value: 0 3892 1999 ext. 4931
+- ID: "d637d618-f6a0-48ae-bbb6-ef0544201c1b"
+  Hint: facilityFilterTagsIndividual
+  Type: Multilist
+  Value: |
+    {32F042A6-2613-489C-B8CD-FE6063D875CD}
+    {5B14BA0E-237D-4118-A206-D6011C4DD87B}
+- ID: "dc85978e-5c4c-404e-a4b0-1d0b35c01fe2"
+  Hint: postalCode
+  Value: 21130
+- ID: "dfac8c14-e646-463a-8464-507b86e06134"
+  Hint: contentType
+  Value: "{04E7400A-22DE-4392-A4AD-B78B7AA3B7A3}"
+- ID: "e7bd7bbc-38c3-42c8-bbeb-a84e612d75a5"
+  Hint: longitude
+  Value: 101.0422797
+- ID: "f493ee0f-a54a-4384-9f8e-f8ca6482b7aa"
+  Hint: area
+  Value: "{8BD4DF62-8F07-4B22-8E66-561AA8287682}"
+- ID: "fb6d3f20-15f7-448b-ba1b-ba2304d55dc6"
+  Hint: county
+  Value: "{8D4B9752-18FA-4106-9FA0-D8CA7EBDDBD4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Bangkok Hospital Rayong Clinic - Banchang"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200218T065535Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "bc88b2b5-f787-423f-966d-26720d738083"
+      Hint: name
+      Value: "Bangkok Hospital Rayong Clinic - Banchang"
+    - ID: "d0a7ad35-ad85-43ae-aaf6-1dbf443c91fb"
+      Hint: streetNumber
+      Value: "99-99/1 Moo. 1"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200730T101220Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "bc88b2b5-f787-423f-966d-26720d738083"
+      Hint: name
+      Value: "Bangkok Hospital Rayong Clinic - Banchang"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200730T101220Z
+    - ID: "d0a7ad35-ad85-43ae-aaf6-1dbf443c91fb"
+      Hint: streetNumber
+      Value: "99-99/1 Moo. 1"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200421T120050Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "bc88b2b5-f787-423f-966d-26720d738083"
+      Hint: name
+      Value: คลินิกเวชกรรมกรุงเทพระยอง สาขาบ้านฉาง 
+    - ID: "d0a7ad35-ad85-43ae-aaf6-1dbf443c91fb"
+      Hint: streetNumber
+      Value: "99-99/1 หมู่ 1 "

@@ -1,0 +1,101 @@
+﻿---
+ID: "db3a49cc-db4b-48a7-8d6a-78300bcd22c9"
+Parent: "1dbb9b41-1f0b-46fc-9d00-23566f2fbe56"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/local-folder/card-list/Over 400 hospitals"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 88
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: Show the FWD Care Card at our network of over 400 hospitals and clinics to get cashless treatment and services.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200130T110516Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: More than 400 network hospitals and clinics
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: Show the FWD Care Card at our network of over 400 hospitals and clinics across the country to get cashless treatment and services.
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{ADDECCBC-0F10-4DCF-8623-B71E9DAE56D5}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{ADDECCBC-0F10-4DCF-8623-B71E9DAE56D5}" cropx="0.50" cropy="0.48" focusx="-0.004405286343612369" focusy="0.046875" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: เพียงแสดงบัตร FWD Care Card เพื่อเข้ารับการรักษาและบริการโดยไม่ต้องชำระเงินล่วงหน้า ณ โรงพยาบาลและคลินิกในเครือข่ายกว่า 400 แห่ง
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200217T102355Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: โรงพยาบาลและคลีนิคในเครือข่ายมากกว่า 400 แห่ง
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: เพียงแสดงบัตร FWD Care Card เพื่อเข้ารับการรักษาและบริการโดยไม่ต้องชำระเงินล่วงหน้า ณ โรงพยาบาลและคลินิกในเครือข่ายกว่า 400 แห่ง
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{ADDECCBC-0F10-4DCF-8623-B71E9DAE56D5}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{ADDECCBC-0F10-4DCF-8623-B71E9DAE56D5}" cropx="0.50" cropy="0.48" focusx="-0.004405286343612369" focusy="0.046875" />
+  - Version: 2
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: เพียงแสดงบัตรเอฟดับบลิวดี แคร์การ์ด เพื่อเข้ารับการรักษาและบริการโดยไม่ต้องชำระเงินล่วงหน้า ณ โรงพยาบาลและคลินิกในเครือข่ายกว่า 400 แห่ง
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200714T032534Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: โรงพยาบาลและคลีนิคในเครือข่ายมากกว่า 400 แห่ง
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: เพียงแสดงบัตรเอฟดับบลิวดี แคร์การ์ด เพื่อเข้ารับการรักษาและบริการโดยไม่ต้องชำระเงินล่วงหน้า ณ โรงพยาบาลและคลินิกในเครือข่ายกว่า 400 แห่ง
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{ADDECCBC-0F10-4DCF-8623-B71E9DAE56D5}" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200714T032534Z
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{ADDECCBC-0F10-4DCF-8623-B71E9DAE56D5}" cropx="0.50" cropy="0.48" focusx="-0.004405286343612369" focusy="0.046875" />

@@ -1,0 +1,140 @@
+﻿---
+ID: "7178bb3a-50cc-4d3d-8c3a-f59b498034f2"
+Parent: "af5ba7a2-85d2-42d5-aa34-91d9041fb3d4"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/premium-payment/local-folder/premium-payment/DropdownItem/FWD head office or branches/Note"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T083146Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value: "Note:"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Note: <br />
+        </strong>It may help you to know a few details on paying your premium. For example, the &lsquo;bill payment&rsquo; is a statement we send out (by post) to give you notice as to when your premium is due. We&rsquo;ll send this out around 30 days prior to the actual due date. We know that life gets busy so around 10 days after this due date, if we have no record of payment, we&rsquo;ll also send you a reminder (again by post).&nbsp;</p>
+        <p>If you take a look at your Bill Payment you&rsquo;ll see it has all the information you need in order to pay your bill. If you have any questions or difficulties, please don&rsquo;t hesitate to get in touch.&nbsp;</p>
+        <div>&nbsp;</div>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T084634Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Note:</strong></p>
+        <p>It may help you to know a few details on paying your premium. For example, the &lsquo;bill payment&rsquo; is a statement we send out (by post) to give you notice as to when your premium is due. We&rsquo;ll send this out around 30 days prior to the actual due date. We know that life gets busy so around 10 days after this due date, if we have no record of payment, we&rsquo;ll also send you a reminder (again by post).&nbsp;</p>
+        <p>If you take a look at your Bill Payment you&rsquo;ll see it has all the information you need in order to pay your bill. If you have any questions or difficulties, please don&rsquo;t hesitate to get in touch.&nbsp;</p>
+        <div>&nbsp;</div>
+        <div>&nbsp;</div>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201008T084634Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T085452Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Note:</strong></p>
+        <p>It may help you to know a few details on paying your premium. For example, the &lsquo;bill payment&rsquo; is a statement we send out (by post) to give you notice as to when your premium is due. We&rsquo;ll send this out around 30 days prior to the actual due date. We know that life gets busy so around 10 days after this due date, if we have no record of payment, we&rsquo;ll also send you a reminder (again by post).&nbsp;</p>
+        <p>If you take a look at your Bill Payment you&rsquo;ll see it has all the information you need in order to pay your bill. <br />
+        If you have any questions or difficulties, please don&rsquo;t hesitate to get in touch.&nbsp;</p>
+        <div>&nbsp;</div>
+        <div>&nbsp;</div>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201008T085452Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T083327Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value: "หมายเหตุ:"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>หมายเหตุ:&nbsp;<br />
+        </strong>นี่คือรายละเอียดเล็กๆ น้อยๆ เกี่ยวกับการชำระเบี้ยประกันที่คุณควรทราบ &lsquo;ใบแจ้งถึงกำหนดชำระเบี้ยประกันภัย&rsquo; คือ ใบแจ้งชำระเบี้ยประกันที่เราจัดส่งให้กับคุณ (ทางไปรษณีย์) เพื่อเตือนให้คุณทราบถึงวันครบกำหนดชำระเบี้ยประกัน โดยเราจะทำการจัดส่งให้คุณล่วงหน้า 30 วันก่อนถึงวันครบกำหนดชำระเบี้ย ทั้งนี้เรารู้ว่าคุณอาจยุ่งจนไม่มีเวลาชำระเบี้ย เราจึงจะส่งเอกสารแจ้งเตือนคุณอีกครั้ง (ทางไปรษณีย์) ประมาณ 10 วัน ก่อนถึงวันครบกำหนดชำระเบี้ยหากระบบยังไม่ได้รับข้อมูลยืนยันการชำระเบี้ยจากคุณ&nbsp;</p>
+        <p>ในใบแจ้งถึงกำหนดชำระเบี้ยประกันภัยจะแสดงข้อมูลทั้งหมดเกี่ยวกับการชำระเบี้ยให้คุณทราบ ทั้งนี้คุณสามารถติดต่อเราได้ทันที หากประสบปัญหาหรือมีข้อสงสัย&nbsp;</p>
+        <div>&nbsp;</div>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T085605Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>หมายเหตุ:&nbsp;</strong></p>
+        <p><strong></strong>นี่คือรายละเอียดเล็กๆ น้อยๆ เกี่ยวกับการชำระเบี้ยประกันที่คุณควรทราบ &lsquo;ใบแจ้งถึงกำหนดชำระเบี้ยประกันภัย&rsquo; คือ ใบแจ้งชำระเบี้ยประกันที่เราจัดส่งให้กับคุณ (ทางไปรษณีย์) เพื่อเตือนให้คุณทราบถึงวันครบกำหนดชำระเบี้ยประกัน โดยเราจะทำการจัดส่งให้คุณล่วงหน้า 30 วันก่อนถึงวันครบกำหนดชำระเบี้ย ทั้งนี้เรารู้ว่าคุณอาจยุ่งจนไม่มีเวลาชำระเบี้ย เราจึงจะส่งเอกสารแจ้งเตือนคุณอีกครั้ง (ทางไปรษณีย์) ประมาณ 10 วัน ก่อนถึงวันครบกำหนดชำระเบี้ยหากระบบยังไม่ได้รับข้อมูลยืนยันการชำระเบี้ยจากคุณ&nbsp;</p>
+        <p>ในใบแจ้งถึงกำหนดชำระเบี้ยประกันภัยจะแสดงข้อมูลทั้งหมดเกี่ยวกับการชำระเบี้ยให้คุณทราบ ทั้งนี้คุณสามารถติดต่อเราได้ทันที หากประสบปัญหาหรือมีข้อสงสัย&nbsp;</p>
+        <div>&nbsp;</div>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201008T085605Z

@@ -1,0 +1,63 @@
+﻿---
+ID: "1271b4b2-afe5-4f30-a574-390a7f0717bd"
+Parent: "a0a2a1ca-58b1-423e-83bf-b921121de558"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/super-care/local-folder/Card List/A lump sum for each surgery"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: We don&rsquo;t impose item limits for surgery. Instead, you&rsquo;ll get a lump sum of up to THB 180,000 per surgery.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200130T110516Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: A lump sum for each surgery
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{427B38A9-4DC3-454D-84F8-FD403AAC4859}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{427B38A9-4DC3-454D-84F8-FD403AAC4859}" cropx="0.50" cropy="0.48" focusx="-0.004405286343612369" focusy="0.046875" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: ผ่าตัดเล็กหรือใหญ่ ก็เหมาจ่ายตามจริง สูงสุด 180,000 บาทต่อครั้ง
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200217T102330Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: เหมาจ่ายค่าผ่าตัดตามจริง
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{427B38A9-4DC3-454D-84F8-FD403AAC4859}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{427B38A9-4DC3-454D-84F8-FD403AAC4859}" cropx="0.50" cropy="0.48" focusx="-0.004405286343612369" focusy="0.046875" />

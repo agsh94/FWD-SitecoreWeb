@@ -1,0 +1,45 @@
+﻿---
+ID: "8399219d-b0b2-4997-9baa-2e534359c916"
+Parent: "29071005-487d-4708-bb3d-4aa939631977"
+Template: "b5702cd7-40f4-4617-9c29-8a1197de6c9a"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/GroupLandingPage/tailor-made-life-and-medical/local-folder/Your Daily Insipiration"
+DB: master
+SharedFields:
+- ID: "850a1782-6872-4f19-ae20-34e926bdc3aa"
+  Hint: linkItems
+  Value: "{B5BBB1E9-66C5-4F0F-87B2-7D76EE848E65}|{6067FCA9-F400-405C-8A5B-F5A07EC41A86}|{F77D5258-52BB-47F2-9B30-6679175097D4}"
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{20162863-AE86-4B42-9AEC-B7A81A345553}"
+- ID: "ef2bcb82-b8a8-4be6-88a7-5269b777ad1d"
+  Hint: apiSubType
+  Value: "{F9477F10-1A0C-48A1-9AB0-4CD0672C9AA9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200830T145121Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nehagarg
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Your daily inspiration
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200830T152255Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nehagarg
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Your daily inspiration

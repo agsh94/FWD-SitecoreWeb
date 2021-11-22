@@ -1,0 +1,116 @@
+﻿---
+ID: "c706b74a-c850-4587-ae5f-811aeb6bda3b"
+Parent: "61e3b3db-fd60-4b0d-b013-e4a63c754de2"
+Template: "68bbe3b2-090e-4063-98c3-e462cd0c74e8"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/stepper-component/accident-and-health"
+DB: master
+SharedFields:
+- ID: "4139ab92-c984-456c-99f7-b2276a2008ec"
+  Hint: contentType
+  Value: "{58E30460-AC9F-45C2-8B0F-47E93979778B}"
+- ID: "5d298d24-a14d-478b-b892-8586861b9dab"
+  Hint: primaryNeedTags
+  Value: "{B69D6574-F28A-4C35-8B76-CC0DB8099D75}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;enableMargin&amp;divider" />
+        <r
+          uid="{0CEB192A-1817-41DF-BE1B-3BE2525E3624}"
+          s:ds="{9286EA46-3DC2-41E7-AB53-7B1A350FFB32}"
+          s:par="HeroBannerVariant=%7B0BDF58FF-C695-448B-BC29-6E1C8DC08D4E%7D&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor=%7BEBDF491B-A72E-47CA-A391-E44A39C9C329%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+        <r
+          uid="{2FBA319D-B6D3-4518-BB64-03ADFEE7F8E8}">
+          <p:d />
+        </r>
+        <r
+          uid="{222EA023-8BA6-4F16-91A5-95C16CA2894C}"
+          p:after="r[@uid='{0CEB192A-1817-41DF-BE1B-3BE2525E3624}']"
+          s:ds="{B9554559-93EE-4202-B52C-7EC22D2F4B80}"
+          s:id="{8D4D1B73-CAD2-403E-95CD-442E88BA0545}"
+          s:par="claimVariant&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{026F06F0-08BA-490C-BD74-D25944908D45}">
+          <p:d />
+        </r>
+        <r
+          uid="{787D0CD4-4114-431A-8890-2456201C0E24}">
+          <p:d />
+        </r>
+        <r
+          uid="{557EE382-E902-401A-A8FF-3554910CE2A0}">
+          <p:d />
+        </r>
+        <r
+          uid="{438C1DED-1542-4936-8AE1-C81989FCBFC0}">
+          <p:d />
+        </r>
+        <r
+          uid="{6760081B-D89B-4A90-8F27-755B88DE6783}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Accident and Health
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T125101Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed.
+    - ID: "383c06a4-a394-43b5-919f-12e140258af9"
+      Hint: iconType
+      Value: "{5F5B90CF-BBC5-4A98-BBE9-6012BF536F53}"
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Accident and Health
+    - ID: "afb319ef-ce14-4bc5-be51-29dc4681fb28"
+      Hint: description
+      Value: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue en. 
+    - ID: "d8d7b322-1e79-4b78-8409-29dfe3e0cbdb"
+      Hint: title
+      Value: Accident and Health
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Accident and Health
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T085051Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: กระบวนการเรียกร้อง
+    - ID: "afb319ef-ce14-4bc5-be51-29dc4681fb28"
+      Hint: description
+      Value: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue en. 
+    - ID: "d8d7b322-1e79-4b78-8409-29dfe3e0cbdb"
+      Hint: title
+      Value: Accident and Health

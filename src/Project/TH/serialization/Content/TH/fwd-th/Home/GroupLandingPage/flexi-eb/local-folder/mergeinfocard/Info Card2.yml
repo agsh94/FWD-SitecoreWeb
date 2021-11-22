@@ -1,0 +1,60 @@
+﻿---
+ID: "f2df2cf6-e738-4d54-919a-75d3b0165f0a"
+Parent: "32cb3e42-2a70-414c-b672-e593a983b0c7"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Home/GroupLandingPage/flexi-eb/local-folder/mergeinfocard/Info Card2"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit consectetur adipiscing
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200117T112556Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: Flexible premium rate 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{3F04B594-97C9-4C3C-B4D6-5710B95B72DA}" cropx="0.49" cropy="0.51" focusx="-0.012022850271888763" focusy="-0.017197608947753906" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{3F04B594-97C9-4C3C-B4D6-5710B95B72DA}" cropx="0.48" cropy="0.54" focusx="-0.038454568333562755" focusy="-0.08127164840698242" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: Contrary to popular belief, Lorem Ipsum is not simply random text
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T115849Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: Where does it come from
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{EBD07A91-A275-4B10-A6C3-057A551A4FC8}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{EBD07A91-A275-4B10-A6C3-057A551A4FC8}" />

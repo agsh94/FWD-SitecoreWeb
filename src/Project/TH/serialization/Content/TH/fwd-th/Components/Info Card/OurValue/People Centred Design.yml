@@ -1,0 +1,67 @@
+﻿---
+ID: "92bd3963-ebdf-4aed-897b-7faedf527003"
+Parent: "839bfbcd-d6a8-4c34-b020-8c6f60de84fb"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Components/Info Card/OurValue/People Centred Design"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: We’re always striving to find new ways of working – such as People Centred Design, our pioneering framework that puts the customer viewpoint first.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T064422Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: "We’re customer-focused"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{68D0711B-CFF0-4590-8F14-E2A2AE3EAF3C}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{68D0711B-CFF0-4590-8F14-E2A2AE3EAF3C}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: เราพยายามค้นหา และพัฒนาวิธีการทำงานแบบใหม่ๆ ตลอดเวลา เราใช้ People Centred Design ซึ่งช่วยทำให้เราคิดและปฏิบัติโดยมีลูกค้าเป็นจุดศุนย์กลาง เพื่อตอบโจทย์ความต้องการของลูกค้าในทุกๆ แง่มุม
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T064524Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: เราคำนึงถึง 'ลูกค้า' เสมอ
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{68D0711B-CFF0-4590-8F14-E2A2AE3EAF3C}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{68D0711B-CFF0-4590-8F14-E2A2AE3EAF3C}" />

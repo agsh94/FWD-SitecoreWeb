@@ -1,0 +1,65 @@
+﻿---
+ID: "be4c542a-062c-497e-a196-e6fb4f0a50ed"
+Parent: "182ef640-ec66-4c64-96fc-f4ad95d23e9d"
+Template: "ad6870d4-2dd6-40ef-a8fa-941ab32cee43"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/Cash Return Options/local-folder/Out-patient In-patient/Interim Cash Payment/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T075539Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>We will pay an Interim Cash Payment (ICP) as specified in your policy after deducting any debts.</p><br />
+        <p>There are two ways to receive your ICP:</p>
+        <ul>
+            <li>Cash transferred to a bank account</li>
+            <li>Transfer to PromptPay account that bind with ID card number</li>
+        </ul>
+        <p>If you don&rsquo;t want to cash in your ICP, you can also take one of these two options:</p>
+        <ul>
+            <li>Deposit it with us at the interest rate announced</li>
+            <li>Use the amount to pay off any premiums due</li>
+        </ul>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T081004Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>เราจะจ่ายเงินคืนตามกรมธรรม์ หลังหักหนี้สิน (ถ้ามี) ตามที่ระบุรายละเอียดไว้ในกรมธรรม์</p>
+        <br />
+        <p>คุณสามารถรับเงินคืนได้ 2 ช่องทาง:</p>
+        <ul>
+            <li>โอนเงินเข้าบัญชีธนาคาร</li>
+            <li>โอนเงินเข้าบัญชีพร้อมเพย์ ที่ผูกไว้กับเลขที่บัตรประชาชน</li>
+        </ul>
+        <p>หากคุณไม่ต้องการรับเงินคืนตามกรมธรรม์ คุณสามารถเลือกหนึ่งในสองตัวเลือกต่อไปนี้</p>
+        <ul>
+            <li>ฝากเงินไว้กับเรา รับดอกเบี้ยตามที่บริษัทฯ ประกาศ</li>
+            <li>นำเงินคืนตามกรมธรรม์ไปหักชำระเบี้ยประกันภัย ที่กำลังจะถึงกำหนดชำระ</li>
+        </ul>

@@ -1,0 +1,47 @@
+﻿---
+ID: "97bd374a-6158-4637-a4d0-8618b20da15c"
+Parent: "015826a8-cada-4cba-9dd5-924253de51d5"
+Template: "a874f518-dbe3-409e-b0cf-a6040ae33471"
+Path: "/sitecore/content/fwd/fwd-th/Components/Partners/AboutUs/SCB Bank"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T093359Z
+    - ID: "4c631be5-5969-4825-a79d-ed44278401e0"
+      Hint: title
+      Value: SCB Bank
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "85332073-47d2-4e12-952e-6ab2dbff23ba"
+      Hint: image
+      Value: |
+        <image mediaid="{0AE96CA0-6615-4B66-8851-09D75475BA8A}" cropx="0.47" cropy="0.49" focusx="-0.0625" focusy="0.015625" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T093544Z
+    - ID: "4c631be5-5969-4825-a79d-ed44278401e0"
+      Hint: title
+      Value: SCB Bank
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "85332073-47d2-4e12-952e-6ab2dbff23ba"
+      Hint: image
+      Value: |
+        <image mediaid="{0AE96CA0-6615-4B66-8851-09D75475BA8A}" cropx="0.49" cropy="0.49" focusx="-0.015625" focusy="0.015625" />

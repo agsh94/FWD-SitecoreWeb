@@ -1,0 +1,39 @@
+﻿---
+ID: "18b61184-6c15-4f70-8d07-d6a42a8e8e38"
+Parent: "cb3774b0-8e6a-433b-bdb6-1ee82ce6e20d"
+Template: "fedd8681-2797-4d1b-9d18-3da34a28a769"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Life Protection/value-protector/local-folder/TestBrochure"
+DB: master
+SharedFields:
+- ID: "ff451472-1b55-4228-b14d-ab9b2a449792"
+  Hint: isPageSearchable
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055158Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "5e25f334-0f17-41db-af95-cd2e833b6c6e"
+      Hint: title
+      Value: โบรชัวร์ คุ้มครอง คุ้มค่า คุ้มภัย
+    - ID: "8fda14e5-7e95-4665-b7b2-5a84db75fc47"
+      Hint: description
+      Value: รับโบร์ชัวร์ผลิตภัณฑ์ สำหรับใช้ในการพิจารณาส่วนตัว หรือแบ่งปันให้กับเพื่อนและครอบครัว
+    - ID: "99325f39-b398-4475-a26e-0861843826fe"
+      Hint: link
+      Value: |
+        <link linktype="media" target="" id="{F2A2CF3C-E3F8-4AE4-BA47-C72A48DC0B38}" />
+    - ID: "aa995fb3-0d42-4ce6-bcc0-63e0feb67caf"
+      Hint: buttonIcon
+      Value: "{A03E086C-A7FD-4FD0-8D38-AA313D696179}"
+    - ID: "f39b09d8-f74e-420a-a6bb-94783a6fac25"
+      Hint: contentType
+      Value: "{A57B5556-98B3-4112-AC9F-1926D90455B8}"

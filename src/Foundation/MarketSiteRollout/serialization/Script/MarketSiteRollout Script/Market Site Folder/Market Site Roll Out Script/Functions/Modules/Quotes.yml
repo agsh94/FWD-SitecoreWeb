@@ -1,0 +1,56 @@
+﻿---
+ID: "e585ee19-9579-426c-97f7-27e7fd5c6300"
+Parent: "38a8fcc4-140e-40b2-bb61-f830003c6c80"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Functions/Modules/Quotes
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    param(
+    $params
+    )
+    
+    Import-Function Global-Functions
+    		if($params.Item){
+    
+    		$newPath = $params.Item.ItemPath + '/Components'
+    		$newItem = Get-Item -Path $newPath
+    		$quotesItem = New-Item -Parent $newItem -Name "quotes" -ItemType $params.TemplateID -Language $params.language
+    		$quotesItem.Editing.BeginEdit()
+    		$quotesItem["__Display name"] = "Quotes"
+    		$quotesItem.Editing.EndEdit()
+    		
+    		$modules = Get-ItemInsertOptions $quotesItem
+    		$modulesSortedByKey = Get-OrderedDictionaryByKey $modules
+    		
+    		if ($modulesSortedByKey.Count -gt 0) {
+    		$Quote = New-Item -Parent $quotesItem -Name "Quote" -ItemType $modulesSortedByKey.'Quote' -Language $params.language
+    		$Quote.Editing.BeginEdit()
+    		$Quote["quote"] = "business"
+    		$Quote["authorName"] = "Business"
+    		$Quote["authorDesignation"] = "Business"
+    		[Sitecore.Data.Fields.ImageField]$image = $Quote.Fields["image"]
+    		$image.MediaID = "{F9AC5180-8D9D-492F-9A80-39378F0241FB}"
+    		[Sitecore.Data.Fields.ImageField]$mobileImage = $Quote.Fields["mobileImage"]
+    		$mobileImage.MediaID = "{F9AC5180-8D9D-492F-9A80-39378F0241FB}"
+    		[Sitecore.Data.Fields.LinkField]$field = $Quote.Fields["link"]
+    		$field.Text = "Download our philosophy"
+    		$field.LinkType = "media"
+    		$field.Title = "Fwd-Fact"
+    		$field.TargetID = "{A1B90B77-AB69-4DD3-807F-B988767E90B6}"
+    		$Quote.Editing.EndEdit()
+    		}
+    		}
+    		
+    
+    	
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200528T054932Z

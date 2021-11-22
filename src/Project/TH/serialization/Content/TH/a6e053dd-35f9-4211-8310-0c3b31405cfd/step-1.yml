@@ -1,0 +1,41 @@
+﻿---
+ID: "489bd3ea-3611-4067-b06b-cfa4bd331662"
+Parent: "a6e053dd-35f9-4211-8310-0c3b31405cfd"
+Template: "eabac21b-6db4-440b-a870-54f781d7793d"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Claims/General Insurance 1/local-folder/claim-process/step-1"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Step 1
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191213T080719Z
+    - ID: "778e9348-71cc-4fbf-a90d-f23d7f4d44d6"
+      Hint: subtitle
+      Value: Prepare
+    - ID: "e4960630-7385-4643-b050-6938d17aad55"
+      Hint: title
+      Value: 1
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T085428Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "778e9348-71cc-4fbf-a90d-f23d7f4d44d6"
+      Hint: subtitle
+      Value: Prepare
+    - ID: "e4960630-7385-4643-b050-6938d17aad55"
+      Hint: title
+      Value: 1

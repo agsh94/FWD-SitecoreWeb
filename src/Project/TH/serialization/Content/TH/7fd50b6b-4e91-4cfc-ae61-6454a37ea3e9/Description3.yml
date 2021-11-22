@@ -1,0 +1,30 @@
+﻿---
+ID: "b80c8b44-2320-4ccc-a8b9-a7a892e5fb53"
+Parent: "7fd50b6b-4e91-4cfc-ae61-6454a37ea3e9"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/turning-covid-in-to-opportunity/local-folder/ArticleDetails/Description3"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200722T051322Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>จากที่ปกติในโอกาสดีๆ อย่างวันเกิด ปาร์ตี้ที่ต้องมีอย่างขาดไม่ได้ กลับกลายเป็นต้องฉลองกันแบบผ่านเครื่องมือสื่อสารเอา ซึ่งก็คงจะดูเหงาๆอยู่บ้าง มาเปลี่ยนความเบื่อนี้เป็นช่วงเวลาที่เราจะได้ค้นพบกับความสามารถด้านอาหารที่มากขึ้นกันดีกว่า เชฟมือดีทั้งหลายจะต้องตกใจในความสามารถนี้ของเรา ด้วยแผนการทดลองสร้างสรรค์เมนูอาหารแสนอร่อย เตรียมไว้ให้เพื่อนๆ ได้มาชิม แถมตอนนี้มีคนทำอาหารเก่งๆ หลายคนมาสอนเทคนิคการทำอาหารให้เราได้รู้ไม่ว่าจะเป็นเชฟป้อม , แม่ขวัญศรี และอีกหลายท่าน ให้เราได้เรียนรู้แบบฟรีๆ &nbsp;ที่ผ่านมารสชาติอาจจะยังไม่ใช่ แต่จากนี้ไปให้เตรียมเรียกเราว่าเชฟขั้นเทพได้เลย อร่อยทุกจานแน่นอน</p>
+        <p>วางแผนฟิตหุ่นสวย เตรียมเผยโฉมฉันคนใหม่</p>

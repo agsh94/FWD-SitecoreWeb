@@ -1,0 +1,56 @@
+﻿---
+ID: "de80b59e-354c-4589-8d78-f7a5787f5884"
+Parent: "8652fab9-74c2-4aa4-8dc8-f5affa107943"
+Template: "14cf212d-7cf4-41aa-b50b-24d748a87556"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Support1/local-folder/FAQsAccordion"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "f973c399-5998-47a5-ae48-760ebed901b1"
+  Hint: faqItems
+  Value: "{816501B6-9829-4FF4-B100-BC50CE0A3B49}|{7A35112C-41F2-4ED5-A780-EA9AF856C698}|{8B1D4927-F386-4601-8BE6-5302D0C425EC}|{7278B1B3-A76B-46BB-898E-6869FCBFA206}|{C362184B-70BB-486B-AD6E-F1ED2ECED7E5}|{9894E5F5-8BC0-493E-8EB2-1DF51360038D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191014T062541Z
+    - ID: "45e2df09-7d41-4b33-b7f1-f6d4bb8ba530"
+      Hint: description
+      Value: We have selected some FAQs most relevant to our customers.&nbsp;
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See more FAQs" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: FAQ
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200413T045313Z
+    - ID: "45e2df09-7d41-4b33-b7f1-f6d4bb8ba530"
+      Hint: description
+      Value: เราได้เลือกคำถามที่พบบ่อยที่เกี่ยวข้องกับลูกค้าของเรามากที่สุด.&nbsp;
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See more FAQs" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: คำถามที่พบบ่อย

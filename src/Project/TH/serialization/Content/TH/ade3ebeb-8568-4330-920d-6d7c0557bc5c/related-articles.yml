@@ -1,0 +1,48 @@
+﻿---
+ID: "524c29b9-af75-4e88-88a4-2c85b9eaefbd"
+Parent: "ade3ebeb-8568-4330-920d-6d7c0557bc5c"
+Template: "b5702cd7-40f4-4617-9c29-8a1197de6c9a"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/Max/Health/local-folder/related-articles"
+DB: master
+SharedFields:
+- ID: "2bb03f6c-a424-487e-b70e-8b96a004e219"
+  Hint: gaCategoryName
+  Value: relatedGA
+- ID: "850a1782-6872-4f19-ae20-34e926bdc3aa"
+  Hint: linkItems
+  Value: "{B5BBB1E9-66C5-4F0F-87B2-7D76EE848E65}|{128A9A34-015D-493B-BDFE-8093893D510A}|{77A1D089-ADE7-46A6-ABB2-D23AF39C2923}"
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{20162863-AE86-4B42-9AEC-B7A81A345553}"
+- ID: "ef2bcb82-b8a8-4be6-88a7-5269b777ad1d"
+  Hint: apiSubType
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Related Articles
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20200206T122625:637165887857745585Z"
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Read more about health
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200219T091748Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Read more about health

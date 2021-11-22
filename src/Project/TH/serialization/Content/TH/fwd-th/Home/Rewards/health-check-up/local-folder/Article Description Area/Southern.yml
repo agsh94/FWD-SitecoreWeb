@@ -1,0 +1,157 @@
+﻿---
+ID: "e27836c5-439e-424a-8365-6747498d5858"
+Parent: "62f4d9b7-e439-45a7-8ddf-857d29b64e3a"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/health-check-up/local-folder/Article Description Area/Southern"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200805T043625Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sarat
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span><strong>ภาคใต้ </strong></span></p>
+        <table style="font-size: 0.8em; vertical-align: top;">
+            <tbody>
+                <tr style="height: 14.25pt;">
+                    <td class="xl65" style="height: 14.25pt; width: 54pt; text-align: left;"><strong>จังหวัด</strong></td>
+                    <td class="xl65" style="width: 170pt; text-align: left;"><strong>โรงพยาบาล</strong></td>
+                    <td class="xl65" style="width: 476pt; text-align: left;"><strong>แผนก/เบอร์ติดต่อ</strong></td>
+                    <td class="xl65" style="width: 101pt; text-align: left;"><strong>รายละเอียดโปรโมชั่น</strong></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กระบี่</td>
+                    <td class="xl65" style="text-align: left;">รพ. กระบี่นครินทร์ อินเตอร์เนชั่นแนล</td>
+                    <td class="xl65" style="text-align: left;">แผนกส่งเสริมสุขภาพ ชั้น G /&nbsp;0 7562 6555&nbsp;ต่อ 1121-1134</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/5c87b337a69a48c9a902d9ce3642157f.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ตรัง</td>
+                    <td class="xl65" style="text-align: left;">รพ. ตรังรวมแพทย์</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ตึก 3 ชั้น 2 /&nbsp;0 7521 8988</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/d4641656b396459ba751a941fa150362.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ตรัง</td>
+                    <td class="xl65" style="text-align: left;">รพ. วัฒนแพทย์ ตรัง</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ตึก 3 /&nbsp;0 7520 5433&nbsp;/&nbsp;08 4058 6456</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/0d77dcbd7e254465ada006148d445e78.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สุราษฎร์ธานี</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ สุราษฎร์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ /&nbsp;0 7795 6789</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/3b3cfe65d61546b99beecb005e9671d0.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สงขลา</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ หาดใหญ่</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 2 /&nbsp;0 7427 2800&nbsp;ต่อ 1227</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/2e92928b3ebd4377822fed6363cd0898.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นครศรีธรรมราช</td>
+                    <td class="xl65" style="text-align: left;">รพ. นครินทร์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ /&nbsp;0 7531 2800</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/3b179fd38bc148e88947b91def4a2aa7.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ภูเก็ต</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ ภูเก็ต</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ /&nbsp;0 7625 4421-29&nbsp;ต่อ 8415</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/772abf7b28af4ecfbc6c290f0dd22531.ashx">คลิก</a></td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200813T041910Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span><strong>ภาคใต้ </strong></span></p>
+        <table style="font-size: 0.8em; vertical-align: top;">
+            <tbody>
+                <tr style="height: 14.25pt;">
+                    <td class="xl65" style="height: 14.25pt; width: 54pt; text-align: left;"><strong>จังหวัด</strong></td>
+                    <td class="xl65" style="width: 170pt; text-align: left;"><strong>โรงพยาบาล</strong></td>
+                    <td class="xl65" style="width: 476pt; text-align: left;"><strong>แผนก/เบอร์ติดต่อ</strong></td>
+                    <td class="xl65" style="width: 101pt; text-align: left;"><strong>รายละเอียดโปรโมชั่น</strong></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">กระบี่</td>
+                    <td class="xl65" style="text-align: left;">รพ. กระบี่นครินทร์ อินเตอร์เนชั่นแนล</td>
+                    <td class="xl65" style="text-align: left;">แผนกส่งเสริมสุขภาพ ชั้น G /&nbsp;0 7562 6555&nbsp;ต่อ 1121-1134</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/5c87b337a69a48c9a902d9ce3642157f.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ตรัง</td>
+                    <td class="xl65" style="text-align: left;">รพ. ตรังรวมแพทย์</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ตึก 3 ชั้น 2 /&nbsp;0 7521 8988</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/d4641656b396459ba751a941fa150362.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ตรัง</td>
+                    <td class="xl65" style="text-align: left;">รพ. วัฒนแพทย์ ตรัง</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ตึก 3 /&nbsp;0 7520 5433&nbsp;/&nbsp;08 4058 6456</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/0d77dcbd7e254465ada006148d445e78.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สุราษฎร์ธานี</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ สุราษฎร์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ /&nbsp;0 7795 6789</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/3b3cfe65d61546b99beecb005e9671d0.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">สงขลา</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ หาดใหญ่</td>
+                    <td class="xl65" style="text-align: left;">แผนกตรวจสุขภาพ ชั้น 2 /&nbsp;0 7427 2800&nbsp;ต่อ 1227</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/2e92928b3ebd4377822fed6363cd0898.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นครศรีธรรมราช</td>
+                    <td class="xl65" style="text-align: left;">รพ. นครินทร์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ /&nbsp;0 7531 2800</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/3b179fd38bc148e88947b91def4a2aa7.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">ภูเก็ต</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ ภูเก็ต</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ /&nbsp;0 7625 4421-29&nbsp;ต่อ 8415</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/772abf7b28af4ecfbc6c290f0dd22531.ashx">คลิก</a></td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200813T041910Z

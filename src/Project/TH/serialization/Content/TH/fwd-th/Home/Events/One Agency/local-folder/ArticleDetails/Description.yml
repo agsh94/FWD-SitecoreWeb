@@ -1,0 +1,35 @@
+﻿---
+ID: "7d6d8c73-3e74-4270-bd15-bef8383b273b"
+Parent: "e9c2dfa5-cda8-4229-a1af-9751620b8021"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Events/One Agency/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T145407Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: Mr Huynh Thanh Phong (first from left), Group Chief Executive Officer of FWD Group, Mr Binayak Dutta (second from left), Emerging Market &amp; Group Chief Distribution Officer Managing Director, Ms Poramasiri Manolamai (third from left), Chief Executive Officer of FWD Life Insurance PCL, and Mr David John Korunić (fourth from left), Chief Executive Officer of SCB Life Assurance PCL&nbsp; jointly presides the One Agency celebrations on the merging of sales agent section between FWD Life Insurance PCL and SCB Life Assurance PCL, with attendance of executives and several guests from both companies at Crystal Hall Ballroom, The Athenee Hotel Bangkok, Witthayu Road, Bangkok.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T144711Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: มร. ฮวิน ทัน ฟง (คนที่ 1 จากซ้าย) ประธานเจ้าหน้าที่บริหาร เอฟดับบลิวดีกรุ๊ป มร.บินายัค&nbsp; ดุตตา (คนที่ 2 จากซ้าย)&nbsp; กรรมการผู้จัดการธุรกิจตลาดเกิดใหม่และประธานเจ้าหน้าที่กลุ่มช่องทางการจัดหน่าย เอฟดับบลิวดีกรุ๊ป คุณปรมาศิริ มโนลม้าย (คนที่ 3 จากซ้าย) ประธานเจ้าหน้าที่บริหาร บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) และ มร.เดวิด โครูนิซ (คนที่ 4 จากซ้าย) ประธานเจ้าหน้าที่บริหาร บริษัท ไทยพาณิชย์ ประกันชีวิต จำกัด (มหาชน)&nbsp; ร่วมเป็นประธานการจัดงาน One Agency ซึ่งเป็นงานเฉลิมฉลองการรวมตัวแทนฝ่ายขายของ บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) และบริษัท ไทยพาณิชย์ ประกันชีวิต จำกัด (มหาชน) เข้าเป็นหนึ่งเดียวกัน ซึ่งภายในงานมีผู้บริหารและตัวแทนของทั้ง สององค์กรเข้าร่วมงานเป็นจำนวนมาก ณ ห้องคริสตัล ฮอล์ล&nbsp; โรงแรม ดิ แอทธินี&nbsp; โฮเต็ล แบงค็อค&nbsp; ถ.วิทยุ&nbsp; กรุงเทพฯ<br />

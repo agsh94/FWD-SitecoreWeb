@@ -1,0 +1,29 @@
+﻿---
+ID: "10852a6d-9218-42a3-a03d-6c9b6d687044"
+Parent: "e9778499-fd2f-4e6d-84eb-3bef55fe6c26"
+Template: "cef6e819-7951-4dad-b3ff-cb42f0dcf7d5"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Components/headerLinks/icon-navigation-links/Search"
+DB: master
+SharedFields:
+- ID: "a6ee811d-8f6f-4560-80b5-a4faa92bb6db"
+  Hint: buttonIcon
+  Value: "{8E6F2179-2D7B-420D-9D47-D13C408BB3C5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T074610Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{64CA0FDF-E713-42FB-90D1-531034D1ED70}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: 

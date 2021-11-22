@@ -1,0 +1,102 @@
+﻿---
+ID: "df6c2629-7106-4ff5-ad5d-d2a54826bb84"
+Parent: "114c9fc1-d5c8-4cc7-b2d9-429de3a5519f"
+Template: "8ad5bb9c-b124-437e-a0c3-34149b049fac"
+Path: "/sitecore/content/fwd/fwd-th/Components/section-content/Pacific--century-group"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: 
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{6816B289-E488-4764-913D-41EC0310B5ED}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Pacific century group
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09325934-6951-45ec-bd07-c7fc996855b3"
+      Hint: description
+      Value: |
+        <p>FWD is the insurance business of Pacific Century Group. Pacific Century Group (PCG) is an Asia-based private investment group established in 1993. PCG has a strong track record of holding and developing assets over the long term, and has a network of well established connections in Asia. PCG has interests in three core business pillars.</p>
+        <p style="margin-bottom:0">
+        <span><strong>Financial services</strong></span>
+        <ul style="margin-top:0">
+        <li>PineBridge Investments</li>
+        <li>FWD Group</li>
+        </ul>
+        </p>
+        
+        <p style="margin-bottom:0">
+        <span><strong>Technology, media &amp; telecommunications</strong></span>
+        <ul style="margin-top:0">
+        <li>PCCW</li>
+        <li>HKT</li>
+        </ul>
+        </p>
+        
+        <p style="margin-bottom:0">
+        <span><strong>Property</strong></span>
+        <ul style="margin-top:0">
+        <li>Pacific Century Premium Developments</li>
+        </ul>
+        </p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191018T070234Z
+    - ID: "8a19dcac-8d5b-4e87-b1c9-14ba9ece9248"
+      Hint: subTitle
+      Value: 
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: Pacific Century Group
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09325934-6951-45ec-bd07-c7fc996855b3"
+      Hint: description
+      Value: |
+        <p>กลุ่มธุรกิจแปซิฟิก เซ็นจูรี
+        เอฟดับบลิวดี ประกันชีวิต เป็นธุรกิจประกันชีวิตของกลุ่มแปซิฟิก เซ็นจูรี กรุ๊ป โดย แปซิฟิก เซ็นจูรี กรุ๊ป หรือ PCG เป็นกลุ่มการลงทุนภาคเอกชนในภูมิภาคเอเชีย ซึ่งก่อตั้งในปี พ.ศ. 2536 มีประวัติการดำเนินธุรกิจที่เข้มแข็งโดยถือหุ้นและพัฒนาสินทรัพย์ในระยะยาว ประกอบกับเครือข่ายสายสัมพันธ์ทางธุรกิจในภูมิภาคเอเชียที่มั่นคง กลุ่ม PCG ดำเนินกิจการในกลุ่มธุรกิจหลัก 3 ประเภท ได้แก่</p>
+        <p style="margin-bottom:0;">
+        <span><strong>กลุ่มธุรกิจการเงิน</strong></span>
+        </p>
+        <ul style="margin-top:0;">
+            <li>PineBridge Investments</li>
+            <li>FWD Group</li>
+        </ul>
+        <p style="margin-bottom:0;">
+        <span><strong>เทคโนโลยี, สื่อ และ โทรคมนาคม</strong></span>
+        </p>
+        <ul style="margin-top:0;">
+            <li>PCCW</li>
+            <li>HKT</li>
+        </ul>
+        <p style="margin-bottom:0;">
+        <span><strong>กลุ่มธุรกิจอสังหาริมทรัพย์</strong></span>
+        </p>
+        <ul style="margin-top:0;">
+            <li>Pacific Century Premium Developments</li>
+        </ul>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T071616Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: แปซิฟิก เซ็นจูรี กรุ๊ป
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 

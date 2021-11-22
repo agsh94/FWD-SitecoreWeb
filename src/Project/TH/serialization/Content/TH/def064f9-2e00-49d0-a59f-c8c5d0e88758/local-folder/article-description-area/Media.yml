@@ -1,0 +1,34 @@
+﻿---
+ID: "38ec970c-cba6-4040-b47e-19eccde08d38"
+Parent: "36699ee4-0810-4c33-986e-211ff117926e"
+Template: "2861c185-fc81-4fdc-8e91-93de381c752e"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/article-page/article-details/local-folder/article-description-area/Media"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 450
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200810T082338Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c93d0c7b-6b3a-4e3a-a9b6-dc89062a8a6c"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{D9D2F1EA-7E3B-4A23-8944-3471814BAF28}" />
+    - ID: "ca02df68-c93a-4d5b-bfb9-65cde670e7cd"
+      Hint: caption
+      Value: |
+        <span class="caption">The One, FWD's high-end medical solution, and the associated all-round, one-stop health management service PREMIER THE ONEierge, claimed an Excellence Award in the Medical Care Category.</span>
+    - ID: "e5628949-939b-4454-b990-5b6c89e0be4d"
+      Hint: image
+      Value: |
+        <image mediaid="{D9D2F1EA-7E3B-4A23-8944-3471814BAF28}" />

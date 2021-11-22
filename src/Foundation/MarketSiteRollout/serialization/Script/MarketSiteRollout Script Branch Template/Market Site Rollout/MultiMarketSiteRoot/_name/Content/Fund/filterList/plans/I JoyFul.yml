@@ -1,0 +1,31 @@
+﻿---
+ID: "e8d40075-2093-4c9a-b7c8-6bc8d1cb9b0f"
+Parent: "641b6847-8a18-4ab8-820d-16a8d8071dad"
+Template: "7df0f862-c185-4bb5-acc0-8c4f99a5caa6"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Fund/filterList/plans/I JoyFul
+DB: master
+SharedFields:
+- ID: "4b2b81c8-20b1-4ffa-80de-1011ba3faec4"
+  Hint: code
+  Value: IJ
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: **I.JOYFUL
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201010T110556Z
+    - ID: "45f7ae51-f539-40f8-9df8-beacc0b2bba7"
+      Hint: description
+      Value: **I.JOYFUL
+    - ID: "bcea51c6-4188-421d-8053-f8440a80e16f"
+      Hint: disclaimer
+      Value: ** i.JoyFul has been shelved with effect from 1 July 2009. This plan is not available for new subscription and cannot continue to be marketed to the public in Hong Kong.

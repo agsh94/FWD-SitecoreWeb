@@ -1,0 +1,35 @@
+﻿---
+ID: "a7a9304c-646f-4167-a70e-90ac77f823a5"
+Parent: "802d9514-9987-48ef-8939-949f6550a49b"
+Template: "165eb176-0965-4ac3-b298-44d3e61ab273"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Invest/exchange-rate-fund-valuations/local-folder/fund-prices/valuation-date"
+DB: master
+SharedFields:
+- ID: "195aba5f-7781-4b70-b96c-efd5bf02772f"
+  Hint: columnWidth
+  Value: 12
+- ID: "524ba713-14be-4baf-a5dc-5753c337476e"
+  Hint: fundApiColumn
+  Type: Multilist
+  Value: "{39BCD58F-2BBE-4AB4-B7B6-A92E6781B1E2}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Valuation date
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201009T133132Z
+    - ID: "75ce01a6-d1a8-4734-b771-b5a1ffc9d255"
+      Hint: columnLabel
+      Value: Valuation date
+- Language: id
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Valuation Date
+  Versions:

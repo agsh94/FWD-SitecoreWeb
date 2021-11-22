@@ -1,0 +1,35 @@
+﻿---
+ID: "4f6a2369-03b0-4599-ba66-8fa807c9a6a6"
+Parent: "84384045-5973-489f-9f6d-d0c6fde73fc4"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Privileges/Privilege3/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 650
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T045426Z
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: "Cras quis nulla commodo, aliquam lectus sed, blandit augue: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat.Cras quis nulla commodo, aliquam lectus sed, blandit augue: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat.Cras quis nulla commodo, aliquam lectus sed, blandit augue: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat.Cras quis nulla commodo, aliquam lectus sed, blandit augue: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200311T094335Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: "Cras quis nulla commodo, aliquam lectus sed, blandit augue: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat.Cras quis nulla commodo, aliquam lectus sed, blandit augue: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat.Cras quis nulla commodo, aliquam lectus sed, blandit augue: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat.Cras quis nulla commodo, aliquam lectus sed, blandit augue: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat"

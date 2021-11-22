@@ -1,0 +1,58 @@
+﻿---
+ID: "9d71df04-2629-4e00-ae2e-d4c5edcd5ae9"
+Parent: "6d6fc8b5-e36f-4420-87b9-fe79749221fd"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/local-folder/HeroBanner"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: Let’s protect the most important thing of all
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{CDA48474-830F-41F0-9667-0B484B4541C6}" cropx="0.47" cropy="0.50" focusx="-0.052631578947368474" focusy="0" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T064031Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{CDA48474-830F-41F0-9667-0B484B4541C6}" cropx="0.50" cropy="0.37" focusx="-0.00877192982456143" focusy="0.265625" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdtestauthor
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: พร้อมดูแลสิ่งสำคัญที่สุดในชีวิต
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{CDA48474-830F-41F0-9667-0B484B4541C6}" cropx="0.47" cropy="0.52" focusx="-0.06140350877192979" focusy="-0.03125" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T064403Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{CDA48474-830F-41F0-9667-0B484B4541C6}" cropx="0.49" cropy="0.38" focusx="-0.01754385964912286" focusy="0.234375" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdtestauthor

@@ -1,0 +1,29 @@
+﻿---
+ID: "546ff863-dfa6-42d6-b413-830f85c35699"
+Parent: "dd5e6d5c-45c8-4518-8614-c5b7daaada52"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/buffer-total-scoop/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1900
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T010150Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <span style="background: white; color: black;">ที่ตั้ง : 3/2 ถ.ปัญญา-รามอินทรา แขวงคันนายาว เขตคันนายาว กรุงเทพ<br />
+        เวลาเปิด : ทุกวัน 17.00 - 23.00 น.<br />
+        ราคา : 399 - 439 บาทรวมเครื่องดื่ม (ยกเว้นแอลกอฮอล์)<br />
+        เบอร์ติดต่อ : 064-429-4292</span>

@@ -1,0 +1,131 @@
+﻿---
+ID: "3e8a0349-4623-49e9-a185-34571fe820d9"
+Parent: "2e14c608-31d3-4365-9a5d-2483de408270"
+Template: "8e353b27-e5f9-4361-b332-9b3557fb7cd8"
+Path: "/sitecore/content/fwd/fwd-th/Components/Leaders/thailand-leaders/Suwimon-Thangnisaitrong"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 25
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Suwimon Thangnisaitrong
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{F018F2DE-FF8F-41A0-90B0-0E0789A53161}" cropx="0.51" cropy="0.41" focusx="0.01754385964912286" focusy="0.171875" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T095008Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: Suwimon Thangnisaitrong
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: "Suwimon manages our bancassurance products for customers, with a remit for continued innovation and improvement. She has over 18 years experience in financial and business consulting - including eight years at FWD Thailand with a strong background in accounting, finance, and audit."
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: Chief Bancassurance Officer
+    - ID: "bbbccdd6-3d72-4ace-b3de-ccbdb07bd39b"
+      Hint: description
+      Value: 
+    - ID: "c5348882-207d-46e7-b0fb-fc8ccef4d5a1"
+      Hint: isFeatured
+      Type: Checkbox
+      Value: 0
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{F018F2DE-FF8F-41A0-90B0-0E0789A53161}" cropx="0.52" cropy="0.45" focusx="0.03508771929824572" focusy="0.109375" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T084343Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: สุวิมล ตั้งนิสัยตรง
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: คุณสุวิมลมีหน้าที่รับผิดชอบในการกำหนดแนวทาง บริหารจัดการ และพัฒนาผลิตภัณฑ์ธุรกิจประกันชีวิตผ่านธนาคารสำหรับลูกค้ารายย่อย ด้วยประสบการณ์กว่า 18 ปีในอุตสาหกรรมการเงินและที่ปรึกษาทางธุรกิจ&nbsp;ทำให้คุณสุวิมลมีความรู้และเชี่ยวชาญทั้งในด้านการบัญชี การเงิน ตลอดจนการตรวจสอบบัญชี
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: ประธานเจ้าหน้าที่สายงานประกันชีวิตผ่านธนาคาร
+    - ID: "bbbccdd6-3d72-4ace-b3de-ccbdb07bd39b"
+      Hint: description
+      Value: 
+    - ID: "c5348882-207d-46e7-b0fb-fc8ccef4d5a1"
+      Hint: isFeatured
+      Type: Checkbox
+      Value: 0
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{F018F2DE-FF8F-41A0-90B0-0E0789A53161}" cropx="0.52" cropy="0.54" focusx="0.04385964912280693" focusy="-0.078125" />
+  - Version: 2
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{F018F2DE-FF8F-41A0-90B0-0E0789A53161}" cropx="0.52" cropy="0.45" focusx="0.03508771929824572" focusy="0.109375" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200713T093055Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: สุวิมล ตั้งนิสัยตรง
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        คุณสุวิมลมีหน้าที่รับผิดชอบในการกำหนดแนวทาง บริหารจัดการ และพัฒนาผลิตภัณฑ์ธุรกิจประกันชีวิตผ่านธนาคารสำหรับลูกค้ารายย่อย ด้วยประสบการณ์กว่า 18 ปี ในอุตสาหกรรมการเงินและที่ปรึกษาทางธุรกิจ&nbsp;ทำให้คุณสุวิมลมีความรู้และเชี่ยวชาญทั้งในด้านการบัญชี การเงิน ตลอดจนการตรวจสอบบัญชี
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: ประธานเจ้าหน้าที่สายงานประกันชีวิตผ่านธนาคาร
+    - ID: "bbbccdd6-3d72-4ace-b3de-ccbdb07bd39b"
+      Hint: description
+      Value: 
+    - ID: "c5348882-207d-46e7-b0fb-fc8ccef4d5a1"
+      Hint: isFeatured
+      Type: Checkbox
+      Value: 0
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200713T093055Z
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{F018F2DE-FF8F-41A0-90B0-0E0789A53161}" cropx="0.52" cropy="0.54" focusx="0.04385964912280693" focusy="-0.078125" />
+    - ID: "ffce884f-680c-485e-9bef-f4dbf574d377"
+      Hint: featuredPictogramImage
+      Value: |
+        <image mediaid="{F7D82769-AF23-4E37-B4F1-C32E0C641585}" />

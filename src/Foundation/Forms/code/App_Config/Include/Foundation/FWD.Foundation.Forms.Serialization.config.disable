@@ -1,0 +1,21 @@
+<configuration xmlns:patch="http://www.sitecore.net/xmlconfig/">
+  <sitecore>
+    <unicorn>
+      <configurations>
+        <configuration name="Foundation.Forms" description="Foundation Forms" dependencies="Foundation.Serialization.*" patch:after="configuration[@name='Foundation.Serialization.TreeRoots']">
+          <targetDataStore physicalRootPath="$(sourceFolder)\foundation\forms\serialization" type="Rainbow.Storage.SerializationFileSystemDataStore, Rainbow" useDataCache="false" singleInstance="true" />
+
+          <predicate type="Unicorn.Predicates.SerializationPresetPredicate, Unicorn" singleInstance="true">
+            <include name="Foundation.Forms.PropertyGrid" database="core" path="/sitecore/client/Applications/FormsBuilder/Common/Settings/PropertyGrid" />
+            <include name="Foundation.Forms.Settings" database="core" path="/sitecore/client/Applications/FormsBuilder/Components/Layouts/PropertyGridForm/PageSettings/Settings" />
+            <include name="Foundation.Forms.FieldTypes" database="master" path="/sitecore/system/Settings/Forms/Field Types" />
+            <include name="Foundation.Forms.SubmitActions" database="master" path="/sitecore/system/Settings/Forms/Submit Actions" />
+            <include name="Foundation.Forms.Validations" database="master" path="/sitecore/system/Settings/Forms/Validations" />
+            <include name="Foundation.Forms.Fields" database="master" path="/sitecore/templates/System/Forms/Fields" />
+          </predicate>
+            
+        </configuration>
+      </configurations>
+    </unicorn>
+  </sitecore>
+</configuration>

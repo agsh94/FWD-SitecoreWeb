@@ -1,0 +1,39 @@
+﻿---
+ID: "82fc6241-809a-4cdf-a520-9d8e6fecb64e"
+Parent: "00ac7c45-a8a2-492c-97c7-f3e2d9fca77a"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Claims/accident-and-health 1/local-folder/no-cash-advance"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: No cash advance
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200323T125526Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{188E83E2-D291-4152-9D88-FE3834EBBF75}" cropx="0.60" cropy="0.42" focusx="0.20610687022900764" focusy="0.15625" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: Just show your FWD CARE card at the network of over 380 hospitals and clinics across the country, and get cashless hospitialisation services.
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: See a doctor with no cash advance
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See how it works" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />

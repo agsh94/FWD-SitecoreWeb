@@ -1,0 +1,94 @@
+﻿---
+ID: "c3a56568-bc46-4c43-9495-2e8691cf0789"
+Parent: "3e6071fb-fb5d-456a-ba7c-926aec136d94"
+Template: "17f05b4d-4e1a-4598-afd0-eb05d76d5f68"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Health/cancer-knockout/package-i"
+DB: master
+SharedFields:
+- ID: "1d7292b5-07c1-4268-b196-263841c6000a"
+  Hint: key
+  Value: "tool-tip"
+- ID: "2c8cb92b-c54a-48a9-b853-b075c86cf3f5"
+  Hint: isFeatured
+  Type: Checkbox
+  Value: 1
+- ID: "3b1d1a2d-0fe8-4b7f-b2b1-eed79c64bb97"
+  Hint: channel
+  Value: TMB
+- ID: "8c99813d-8686-4f37-a5fb-02ddb0a93ecc"
+  Hint: protectionValue
+  Value: 10000
+- ID: "9cb51dc0-7252-4372-8a9e-42fa7de2b4fd"
+  Hint: minAge
+  Value: "20-0-0"
+- ID: "b78d7fa0-a532-4f1a-90c1-98b0770294d4"
+  Hint: maxAge
+  Value: "65-0-0"
+- ID: "ce362806-169f-431a-bd65-0f18284df62c"
+  Hint: packageList
+  Value: "{0271B49E-DB94-44D0-9610-9CF3BA021C69}=10000&{E76A416A-A745-4C5D-8CF5-EA5F45FCAB9D}=100000"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Package I
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1366eb03-0483-400f-bff6-9db88c60806a"
+      Hint: frequency
+      Value: "{30D4F456-6094-443C-B87F-90D7EF7C2F6E}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200127T161123Z
+    - ID: "3b5d22a4-b01c-4849-b726-6ec411222179"
+      Hint: premiumIndicativePrice
+      Value: 1000
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: Package I
+    - ID: "d0bc351a-eed6-4d43-8bd4-55ef531ce953"
+      Hint: isComparable
+      Type: Checkbox
+      Value: 1
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="Enquire" linktype="form" querystring="enquiry" target="" id="{136AA02C-41C6-4E79-88E1-7893B161A37F}" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: Package
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: |
+        <p>This Package is makeup of&nbsp;</p>
+        <p>-&nbsp;<strong>Value Protector</strong></p>
+        <p><strong>- Cancer Fighter</strong></p>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200311T095058Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: Package I
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="Enquire" linktype="form" querystring="enquiry" target="" id="{136AA02C-41C6-4E79-88E1-7893B161A37F}" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: Package
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: |
+        <p>This Package is makeup of&nbsp;</p>
+        <p>-&nbsp;<strong>Value Protector</strong></p>
+        <p><strong>- Cancer Fighter</strong></p>

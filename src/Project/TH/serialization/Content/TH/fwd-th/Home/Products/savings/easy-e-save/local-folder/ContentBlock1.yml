@@ -1,0 +1,174 @@
+﻿---
+ID: "3473e387-bc15-448d-9fa1-548026cbc743"
+Parent: "d6052087-01cc-4204-a6a5-786a16a1516a"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/savings/easy-e-save/local-folder/ContentBlock1"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Content Block 1
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "1189664e-c462-4227-9fea-efb77771ad71"
+      Hint: enableFeaturedTags
+      Type: Checkbox
+      Value: 1
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T094444Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: 
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "Saving for the future is important. But it shouldn&rsquo;t come at the price of limiting the way you live today. Which is why we designed the low-commitment Easy E-SAVE plan. It&rsquo;s a short-term savings plan with annual returns, making it easier for you to build wealth without giving up on life&rsquo;s little luxuries."
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Saving shouldn’t be about sacrifice
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055157Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: 
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "แม้การออมเงินเพื่ออนาคตจะเป็นเรื่องสำคัญ แต่ก็ไม่ควรทำให้การมีไลฟ์สไตล์ที่ใช่ในปัจจุบันกลายเป็นเรื่องทำได้ยาก เราจึงออกแบบอีซี่ อี-เซฟ ประกันสะสมทรัพย์ที่แทบไม่มีข้อผูกมัด ด้วยการจ่ายเบี้ยเพียงสั้นๆ พร้อมเงินคืนทุกปี เพื่อให้คุณสร้างความมั่งคั่งได้ง่ายขึ้นโดยไม่ต้องสละความฟุ่มเฟือยเล็กๆ น้อยๆ ที่ให้ความรื่นรมย์ในทุกๆ วันของชีวิต"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ให้การออมเงินไม่ใช่เรื่องยากอีกต่อไป
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200814T040100Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: 
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "แม้การออมเงินเพื่ออนาคตจะเป็นเรื่องสำคัญ แต่ก็ไม่ควรทำให้การมีไลฟ์สไตล์ที่ใช่ในปัจจุบันกลายเป็นเรื่องทำได้ยาก เราจึงออกแบบอีซี่ อี-เซฟ  ประกันสะสมทรัพย์ที่แทบไม่มีข้อผูกมัด ด้วยการจ่ายเบี้ยเพียงสั้นๆ พร้อมเงินคืนทุกปี เพื่อให้คุณสร้างความมั่งคั่งได้ง่ายขึ้นโดยไม่ต้องสละความสุขเล็กๆน้อยในชีวิต"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200814T040100Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ให้การออมเงินไม่ใช่เรื่องยากอีกต่อไป
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+  - Version: 3
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200819T092045Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: 
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        แม้การออมเงินเพื่ออนาคตจะเป็นเรื่องสำคัญ แต่ก็ไม่ควรทำให้การมีไลฟ์สไตล์ที่ใช่ในปัจจุบันกลายเป็นเรื่องทำได้ยาก เราจึงออกแบบอีซี่ อี-เซฟ  ประกันสะสมทรัพย์ที่แทบไม่มีข้อผูกมัด ด้วยการจ่ายเบี้ยเพียงสั้นๆ พร้อมเงินคืนทุกปี เพื่อให้คุณสร้างความมั่งคั่งได้ง่ายขึ้นโดยไม่ต้องสละความสุขเล็กๆ น้อยๆ ในชีวิต
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200819T092045Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ให้การออมเงินไม่ใช่เรื่องยากอีกต่อไป
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+  - Version: 4
+    Fields:
+    - ID: "1189664e-c462-4227-9fea-efb77771ad71"
+      Hint: enableFeaturedTags
+      Type: Checkbox
+      Value: 1
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200825T034204Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: 
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        แม้การออมเงินเพื่ออนาคตจะเป็นเรื่องสำคัญ แต่ก็ไม่ควรทำให้การมีไลฟ์สไตล์ที่ใช่ในปัจจุบันกลายเป็นเรื่องทำได้ยาก เราจึงออกแบบอีซี่ อี-เซฟ  ประกันสะสมทรัพย์ ที่ให้คุณจ่ายเบี้ยเพียงสั้นๆ พร้อมเงินคืนทุกปี เพื่อสร้างความมั่งคั่งได้ง่ายขึ้นโดยไม่ต้องสละความสุขเล็กๆ น้อยๆ ในชีวิต
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200825T034204Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ให้การออมเงินไม่ใช่เรื่องยากอีกต่อไป
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 

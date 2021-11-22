@@ -1,0 +1,185 @@
+﻿---
+ID: "1208e8b0-6c27-462d-b77a-5c2bf22186cd"
+Parent: "70a1ca3d-7ffc-40b8-8624-846e1c32a84d"
+Template: "0ba5819e-97b4-4ed8-8f4c-2363603b4faf"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/dynamic-card-list"
+DB: master
+SharedFields:
+- ID: "1294d890-c666-4ba0-b34a-68aaacfb432c"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: "{8DBD5BD3-0CFB-425F-ADD3-B718ABAF6530}"
+- ID: "53e81091-36e9-4fae-82ef-cc970323fb4a"
+  Hint: promotionLabel
+  Value: "{6A6992CD-F876-425E-B04F-CDFB9F1F0576}"
+- ID: "71c19061-4acb-437b-aa10-bce14430a683"
+  Hint: premiumSelectionType
+  Value: "{5AAFB9B3-C726-43C7-B42B-3D7CB583EF7A}"
+- ID: "b3910e5d-a842-4cc7-ac42-7a16a325a534"
+  Hint: promotionLabelIcon
+  Value: "{50D0B9C3-8A9C-4752-A572-5B2DC3D8B7DA}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <p
+          uid="{C9CCACF9-6AB1-485F-BCF6-93294AEDB5AE}"
+          p:before="*"
+          s:key="jss-main"
+          s:md="{C644BF98-D4A6-4217-94C0-4ACEB8F09AC5}" />
+        <r
+          uid="{555FE8BF-E30B-41CE-B653-412FCBDAF40A}">
+          <p:d />
+        </r>
+        <r
+          uid="{6081A532-6D1D-4E97-A987-D39F00710EE2}">
+          <p:d />
+        </r>
+        <r
+          uid="{606FF16E-4FAC-4C55-98B3-C6EE79AA7475}">
+          <p:d />
+        </r>
+        <r
+          uid="{808C51CE-8541-4E4D-9C04-39A4011DF61A}">
+          <p:d />
+        </r>
+        <r
+          uid="{C2CB6CA5-6DEF-455C-B0A4-3D28C01F9542}">
+          <p:d />
+        </r>
+        <r
+          uid="{D68161E0-C6D7-4051-BC74-8E33D314726F}"
+          p:after="p[@uid='{FEF920EC-26A0-4273-A671-D2D80186567C}']"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}"
+          s:id="{3E7FEC38-10C9-4D00-BA82-D058F17478D0}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bB47928D6-98FC-4B29-8D0F-586AB477286E%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;enableMargin&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{494B86BE-1A9E-4FDD-8E81-BB252CC81B6D}"
+          p:after="r[@uid='{D68161E0-C6D7-4051-BC74-8E33D314726F}']"
+          s:ds="{1FA08944-E80B-4785-B421-C10A5C0E9ABD}"
+          s:id="{5410E093-9B56-4C2F-B411-9FB3702CBC63}"
+          s:par="HeroBannerVariant=%7B0BDF58FF-C695-448B-BC29-6E1C8DC08D4E%7D&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor=%7BEBDF491B-A72E-47CA-A391-E44A39C9C329%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{0FFF5FFE-CA65-4BA1-8416-A1795178989E}"
+          p:after="r[@uid='{494B86BE-1A9E-4FDD-8E81-BB252CC81B6D}']"
+          s:ds="{B6D2A067-50A8-4AF6-9D60-B6C2EDD2ECDD}"
+          s:id="{1AB826DB-23E9-4CC1-A413-13AC7CB1A6C0}"
+          s:par="carouselMode=%7BC81D8D8F-E8D9-468F-ACFC-BBDCE30D66EC%7D&amp;showCategory=1&amp;showImage&amp;ShowProductCTA&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{BD1A95DE-8330-41D8-AB12-0F1D9A0639E9}"
+          p:after="r[@uid='{0FFF5FFE-CA65-4BA1-8416-A1795178989E}']"
+          s:ds="{64585AE7-48EC-4C63-8258-7D364F1E798F}"
+          s:id="{1AB826DB-23E9-4CC1-A413-13AC7CB1A6C0}"
+          s:par="carouselMode=%7BC81D8D8F-E8D9-468F-ACFC-BBDCE30D66EC%7D&amp;showCategory=1&amp;showImage&amp;ShowProductCTA&amp;anchorText&amp;backgroundColor=%7BB47928D6-98FC-4B29-8D0F-586AB477286E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{FE54B363-448F-4466-97C8-CE6C4119CCEB}"
+          p:after="r[@uid='{BD1A95DE-8330-41D8-AB12-0F1D9A0639E9}']"
+          s:ds="{3C43E927-6B4D-4FA1-A3B3-C4227F835BFD}"
+          s:id="{4A816582-39CE-4F69-BCDE-010F91E0C947}"
+          s:par="hideCardImage&amp;showProductCTA&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{7012E87D-C313-4376-B649-0C07FC12BA20}">
+          <p:d />
+        </r>
+        <r
+          uid="{1184198A-77E0-4F06-BFA0-54CA9531BA41}">
+          <p:d />
+        </r>
+        <r
+          uid="{E1EC597E-F63A-4980-A499-546FED1EB9F4}">
+          <p:d />
+        </r>
+        <r
+          uid="{47437E79-5354-4606-B676-72A0A8945078}">
+          <p:d />
+        </r>
+        <r
+          uid="{E6AC0ECB-1A98-414B-B6AA-D632D99A1DA8}">
+          <p:d />
+        </r>
+        <r
+          uid="{C3F351D8-21BB-4AF1-BDE2-D39F3DB180AE}">
+          <p:d />
+        </r>
+        <r
+          uid="{0EEE59D8-F86D-421A-B694-0CC8914D70C3}">
+          <p:d />
+        </r>
+        <r
+          uid="{9EEDE03B-3F95-4F1B-9B83-7C679C83EB6A}">
+          <p:d />
+        </r>
+        <r
+          uid="{8B3007D1-AC88-4653-9572-847E96DB5E5E}">
+          <p:d />
+        </r>
+        <r
+          uid="{7A8A7442-12D7-4FF8-9AE0-BC258A93722A}">
+          <p:d />
+        </r>
+        <r
+          uid="{72915C72-E238-42CD-B55C-292749D539FD}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d" />
+        <r
+          uid="{D8B79D6B-42A8-4A0E-8708-DB9C188854D0}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B57300F0-84E0-4F95-B273-B157B70DF870}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Dynamic cardList
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200903T125739Z
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: "dynamic-card-list"
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: "dynamic-card-list"
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{C147DFDA-6EEF-46FA-B59B-8A286D6DD6CD}" />
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{C147DFDA-6EEF-46FA-B59B-8A286D6DD6CD}" />
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: Dynamic cardList
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Dynamic cardList
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200828T123224Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

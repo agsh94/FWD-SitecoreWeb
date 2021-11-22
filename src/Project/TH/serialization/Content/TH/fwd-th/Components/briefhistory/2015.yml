@@ -1,0 +1,36 @@
+﻿---
+ID: "346f40db-9bf9-4db3-9366-2353a61fd50c"
+Parent: "35add0ad-27b0-493b-b5e8-5825b45bfa74"
+Template: "991caea8-39ae-40d4-9a37-30d2477ee4f7"
+Path: "/sitecore/content/fwd/fwd-th/Components/briefhistory/2015"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{51555475-5028-4B05-9B45-53BE53615704}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191120T061647Z
+    - ID: "fb502544-91cc-4a77-8c1b-3336417b7806"
+      Hint: sectionTitle
+      Value: 2015
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T065148Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "fb502544-91cc-4a77-8c1b-3336417b7806"
+      Hint: sectionTitle
+      Value: 2558

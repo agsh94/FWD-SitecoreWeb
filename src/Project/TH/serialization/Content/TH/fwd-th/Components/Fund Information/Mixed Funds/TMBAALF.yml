@@ -1,0 +1,57 @@
+﻿---
+ID: "33aee212-e9ef-4ccc-be4c-59f6f4c90fee"
+Parent: "3f65cad4-350e-402e-a018-9a168141b69a"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/Fund Information/Mixed Funds/TMBAALF"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200703T045200Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: TMB ASSET ALLOCATION LONG TERM FUND
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/funds/mutual-funds/funddetails?fundcode=T03'>Fund page</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/FI/Fund%20Insight%20-%20T03_th.pdf'>Fund information summary</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/PRO/T03_01.pdf'>Prospectus</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/FS/T03_03.pdf'>Fact sheet</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/SAR/T03_h_04.pdf'>Bi-annual report</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/AR/T03_y_04.pdf'>Annual report</a></li>
+        </ul>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200703T045116Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: กองทุนเปิดทหารไทยจัดทัพลงทุน ระยะยาว (L) (TMBAALF)
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/funds/mutual-funds/funddetails?fundcode=T03'>หน้าหลักกองทุน</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/FI/Fund%20Insight%20-%20T03_th.pdf'>สาระสำคัญ ของกองทุน</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/PRO/T03_01.pdf'>หนังสือชี้ชวน</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/FS/T03_03.pdf'>หนังสือชี้ชวนส่วนสรุป</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/SAR/T03_h_04.pdf'>รายงาน 6 เดือน</a></li>
+        <li><a target='_blank' href='https://www.tmbameastspring.com/THDocs/AR/T03_y_04.pdf'>รายงานประจำปี</a></li>
+        </ul>

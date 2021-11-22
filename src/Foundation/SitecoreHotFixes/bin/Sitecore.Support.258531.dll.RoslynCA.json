@@ -1,0 +1,1605 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "2.10.0.0",
+        "fileVersion": "2.10.0.0 (b9fb1610)",
+        "semanticVersion": "2.10.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 750,
+                  "startColumn": 10,
+                  "endLine": 750,
+                  "endColumn": 17
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 29,
+                  "endLine": 49,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 29,
+                  "endLine": 56,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 29,
+                  "endLine": 67,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 57,
+                  "endLine": 67,
+                  "endColumn": 64
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 84,
+                  "startColumn": 10,
+                  "endLine": 84,
+                  "endColumn": 17
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'CanBeNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 54,
+                  "endLine": 102,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 119,
+                  "startColumn": 10,
+                  "endLine": 119,
+                  "endColumn": 17
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 120,
+                  "startColumn": 43,
+                  "endLine": 120,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 139,
+                  "startColumn": 10,
+                  "endLine": 139,
+                  "endColumn": 17
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 141,
+                  "startColumn": 12,
+                  "endLine": 141,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 141,
+                  "startColumn": 42,
+                  "endLine": 141,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 141,
+                  "startColumn": 71,
+                  "endLine": 141,
+                  "endColumn": 78
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 163,
+                  "startColumn": 10,
+                  "endLine": 163,
+                  "endColumn": 17
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 164,
+                  "startColumn": 45,
+                  "endLine": 164,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 218,
+                  "startColumn": 43,
+                  "endLine": 218,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 218,
+                  "startColumn": 66,
+                  "endLine": 218,
+                  "endColumn": 73
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 276,
+                  "startColumn": 43,
+                  "endLine": 276,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 276,
+                  "startColumn": 66,
+                  "endLine": 276,
+                  "endColumn": 73
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 276,
+                  "startColumn": 90,
+                  "endLine": 276,
+                  "endColumn": 97
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'CanBeNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 312,
+                  "startColumn": 10,
+                  "endLine": 312,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'CanBeNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 313,
+                  "startColumn": 39,
+                  "endLine": 313,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 329,
+                  "startColumn": 10,
+                  "endLine": 329,
+                  "endColumn": 17
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 330,
+                  "startColumn": 32,
+                  "endLine": 330,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'CanBeNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 350,
+                  "startColumn": 10,
+                  "endLine": 350,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 351,
+                  "startColumn": 52,
+                  "endLine": 351,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 368,
+                  "startColumn": 38,
+                  "endLine": 368,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 368,
+                  "startColumn": 63,
+                  "endLine": 368,
+                  "endColumn": 70
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 503,
+                  "startColumn": 42,
+                  "endLine": 503,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 511,
+                  "startColumn": 45,
+                  "endLine": 511,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 660,
+                  "startColumn": 10,
+                  "endLine": 660,
+                  "endColumn": 17
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 662,
+                  "startColumn": 54,
+                  "endLine": 662,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 730,
+                  "startColumn": 38,
+                  "endLine": 730,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 765,
+                  "startColumn": 43,
+                  "endLine": 765,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 781,
+                  "startColumn": 12,
+                  "endLine": 781,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 781,
+                  "startColumn": 52,
+                  "endLine": 781,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 809,
+                  "startColumn": 10,
+                  "endLine": 809,
+                  "endColumn": 17
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'NotNullAttribute' is obsolete: 'Use external annotations'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.LinkRemover.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 31,
+                  "endLine": 35,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0618",
+          "level": "warning",
+          "message": "'LayoutField.DoGetFieldValue(Field)' is obsolete: 'Use GetLayoutSourceFieldsPipeline.Run(GetLayoutSourceFieldsArgs args) method instead.'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 183,
+                  "startColumn": 31,
+                  "endLine": 183,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/shiagnih/AppData/Local/Temp/.NETFramework,Version=v4.7.1.AssemblyAttributes.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 1,
+                  "endLine": 3,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1168",
+          "level": "warning",
+          "message": "Return an empty collection instead of null.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 362,
+                  "startColumn": 13,
+                  "endLine": 362,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3776",
+          "level": "warning",
+          "message": "Refactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 368,
+                  "startColumn": 30,
+                  "endLine": 368,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 374,
+                  "startColumn": 13,
+                  "endLine": 374,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 382,
+                  "startColumn": 13,
+                  "endLine": 382,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 390,
+                  "startColumn": 13,
+                  "endLine": 390,
+                  "endColumn": 16
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 393,
+                  "startColumn": 17,
+                  "endLine": 393,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 398,
+                  "startColumn": 17,
+                  "endLine": 398,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 404,
+                  "startColumn": 17,
+                  "endLine": 404,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 410,
+                  "startColumn": 17,
+                  "endLine": 410,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 414,
+                  "startColumn": 21,
+                  "endLine": 414,
+                  "endColumn": 24
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 417,
+                  "startColumn": 25,
+                  "endLine": 417,
+                  "endColumn": 27
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 422,
+                  "startColumn": 25,
+                  "endLine": 422,
+                  "endColumn": 27
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 424,
+                  "startColumn": 124,
+                  "endLine": 424,
+                  "endColumn": 126
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 433,
+                  "startColumn": 21,
+                  "endLine": 433,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 439,
+                  "startColumn": 17,
+                  "endLine": 439,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 444,
+                  "startColumn": 17,
+                  "endLine": 444,
+                  "endColumn": 20
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 447,
+                  "startColumn": 21,
+                  "endLine": 447,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 452,
+                  "startColumn": 21,
+                  "endLine": 452,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 457,
+                  "startColumn": 21,
+                  "endLine": 457,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 462,
+                  "startColumn": 21,
+                  "endLine": 462,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 467,
+                  "startColumn": 21,
+                  "endLine": 467,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 471,
+                  "startColumn": 25,
+                  "endLine": 471,
+                  "endColumn": 27
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 478,
+                  "startColumn": 25,
+                  "endLine": 478,
+                  "endColumn": 32
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 480,
+                  "startColumn": 29,
+                  "endLine": 480,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 489,
+                  "startColumn": 21,
+                  "endLine": 489,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "+1",
+              "1": "+1",
+              "10": "+1",
+              "11": "+3 (incl 2 for nesting)",
+              "12": "+2 (incl 1 for nesting)",
+              "13": "+2 (incl 1 for nesting)",
+              "14": "+3 (incl 2 for nesting)",
+              "15": "+3 (incl 2 for nesting)",
+              "16": "+3 (incl 2 for nesting)",
+              "17": "+3 (incl 2 for nesting)",
+              "18": "+3 (incl 2 for nesting)",
+              "19": "+4 (incl 3 for nesting)",
+              "2": "+1",
+              "20": "+4 (incl 3 for nesting)",
+              "21": "+5 (incl 4 for nesting)",
+              "22": "+3 (incl 2 for nesting)",
+              "3": "+2 (incl 1 for nesting)",
+              "4": "+2 (incl 1 for nesting)",
+              "5": "+2 (incl 1 for nesting)",
+              "6": "+2 (incl 1 for nesting)",
+              "7": "+3 (incl 2 for nesting)",
+              "8": "+4 (incl 3 for nesting)",
+              "9": "+4 (incl 3 for nesting)"
+            }
+          }
+        },
+        {
+          "ruleId": "S3776",
+          "level": "warning",
+          "message": "Refactor this method to reduce its Cognitive Complexity from 66 to the 15 allowed.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 511,
+                  "startColumn": 30,
+                  "endLine": 511,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 516,
+                  "startColumn": 13,
+                  "endLine": 516,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 524,
+                  "startColumn": 13,
+                  "endLine": 524,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 529,
+                  "startColumn": 13,
+                  "endLine": 529,
+                  "endColumn": 20
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 531,
+                  "startColumn": 17,
+                  "endLine": 531,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 535,
+                  "startColumn": 21,
+                  "endLine": 535,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 539,
+                  "startColumn": 21,
+                  "endLine": 539,
+                  "endColumn": 25
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 545,
+                  "startColumn": 17,
+                  "endLine": 545,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 549,
+                  "startColumn": 21,
+                  "endLine": 549,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 553,
+                  "startColumn": 21,
+                  "endLine": 553,
+                  "endColumn": 25
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 561,
+                  "startColumn": 17,
+                  "endLine": 561,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 566,
+                  "startColumn": 17,
+                  "endLine": 566,
+                  "endColumn": 24
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 568,
+                  "startColumn": 21,
+                  "endLine": 568,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 575,
+                  "startColumn": 21,
+                  "endLine": 575,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 579,
+                  "startColumn": 21,
+                  "endLine": 579,
+                  "endColumn": 25
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 585,
+                  "startColumn": 21,
+                  "endLine": 585,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 595,
+                  "startColumn": 25,
+                  "endLine": 595,
+                  "endColumn": 27
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 599,
+                  "startColumn": 25,
+                  "endLine": 599,
+                  "endColumn": 29
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 601,
+                  "startColumn": 29,
+                  "endLine": 601,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 609,
+                  "startColumn": 21,
+                  "endLine": 609,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 612,
+                  "startColumn": 25,
+                  "endLine": 612,
+                  "endColumn": 27
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 616,
+                  "startColumn": 25,
+                  "endLine": 616,
+                  "endColumn": 29
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 623,
+                  "startColumn": 21,
+                  "endLine": 623,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 626,
+                  "startColumn": 25,
+                  "endLine": 626,
+                  "endColumn": 27
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 630,
+                  "startColumn": 25,
+                  "endLine": 630,
+                  "endColumn": 29
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 636,
+                  "startColumn": 21,
+                  "endLine": 636,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 636,
+                  "startColumn": 47,
+                  "endLine": 636,
+                  "endColumn": 49
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 640,
+                  "startColumn": 25,
+                  "endLine": 640,
+                  "endColumn": 32
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreHotFixes/Data/Fields/LayoutField.cs",
+                "region": {
+                  "startLine": 646,
+                  "startColumn": 21,
+                  "endLine": 646,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "+1",
+              "1": "+1",
+              "10": "+2 (incl 1 for nesting)",
+              "11": "+3 (incl 2 for nesting)",
+              "12": "+3 (incl 2 for nesting)",
+              "13": "+1",
+              "14": "+3 (incl 2 for nesting)",
+              "15": "+4 (incl 3 for nesting)",
+              "16": "+1",
+              "17": "+5 (incl 4 for nesting)",
+              "18": "+3 (incl 2 for nesting)",
+              "19": "+4 (incl 3 for nesting)",
+              "2": "+1",
+              "20": "+1",
+              "21": "+3 (incl 2 for nesting)",
+              "22": "+4 (incl 3 for nesting)",
+              "23": "+1",
+              "24": "+3 (incl 2 for nesting)",
+              "25": "+1",
+              "26": "+4 (incl 3 for nesting)",
+              "27": "+3 (incl 2 for nesting)",
+              "3": "+2 (incl 1 for nesting)",
+              "4": "+3 (incl 2 for nesting)",
+              "5": "+1",
+              "6": "+2 (incl 1 for nesting)",
+              "7": "+3 (incl 2 for nesting)",
+              "8": "+1",
+              "9": "+2 (incl 1 for nesting)"
+            }
+          }
+        }
+      ],
+      "rules": {
+        "CS0618": {
+          "id": "CS0618",
+          "shortDescription": "Type or member is obsolete",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S1128": {
+          "id": "S1128",
+          "shortDescription": "Unused \"using\" should be removed",
+          "fullDescription": "Although unnecessary using won't change anything to the produced application, removing them:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1128",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1168": {
+          "id": "S1168",
+          "shortDescription": "Empty arrays and collections should be returned instead of null",
+          "fullDescription": "Returning null instead of an actual array or collection forces callers of the method to explicitly test for nullity, making them more complex and less readable.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1168",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S3776": {
+          "id": "S3776",
+          "shortDescription": "Cognitive Complexity of methods should not be too high",
+          "fullDescription": "Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3776",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

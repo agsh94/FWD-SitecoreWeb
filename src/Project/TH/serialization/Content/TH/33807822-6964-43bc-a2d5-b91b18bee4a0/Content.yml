@@ -1,0 +1,23 @@
+﻿---
+ID: "fd8dd3eb-e9e0-45b8-9dc3-7ef6b4a4a370"
+Parent: "33807822-6964-43bc-a2d5-b91b18bee4a0"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Max/Health/fwd-health/local-folder/ArticleDetails/Content"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T172437Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Huynh Thanh Phong</strong>, </p>
+        <p>MetLife Hong Kong is highly complementary to our existing business and the acquisition is another step towards fulfilling our ambition to build a leading pan-Asian life insurance platform. The acquisition signifies our confidence in the long-term growth potential of Hong Kong and we will continue to commit substantial resources to grow our business in this compelling market. We look forward to welcoming the agents and employees from MetLife Hong Kong.</p>

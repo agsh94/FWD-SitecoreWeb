@@ -1,0 +1,128 @@
+﻿---
+ID: "cea57153-6987-4e68-8671-a34eb9918838"
+Parent: "69fcacd9-3ac6-456f-aa9f-b45a16660b4b"
+Template: "937f9755-269c-46cb-87cf-e05c0211ef32"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/About Us/News/article-detail-1"
+DB: master
+SharedFields:
+- ID: "05b2b484-bdd9-4a0c-9bc2-013e6a9989a9"
+  Hint: subtype
+  Value: "{F5AD5E9E-0716-49DC-9658-C27261751BFF}"
+- ID: "10e652c4-46dd-4b96-94af-033d6997a41a"
+  Hint: userType
+  Type: Multilist
+  Value: |
+    {B7FF8584-0E21-4AD4-8379-E1FB408549E6}
+    {C6E820F8-23C0-4ADD-9035-05E37897CA73}
+- ID: "51605d25-f8a6-4776-990d-342cf6bc523b"
+  Hint: subtopics
+  Type: Multilist
+  Value: |
+    {73FC94EB-BF78-4487-ACF5-48A4EAB1D779}
+    {153D2FCD-E662-40D4-8071-EF9234B59047}
+    {53B5C779-B20C-4B94-897D-3698507BE331}
+    {2EE089F4-3659-4D6C-9D07-F4DB2F2FBFA5}
+- ID: "644a759b-d9f0-46b0-b5a2-afc11a100bb1"
+  Hint: topics
+  Type: Multilist
+  Value: |
+    {A3A37188-F290-4B4A-86B1-DE407F1F1FE6}
+    {E3D5DA14-6C81-4D72-8070-E2FC348FAF11}
+    {74802C8F-3859-4524-9049-769333242F28}
+    {D5A7C969-1362-4EC1-B61B-03A6BE7C95D3}
+- ID: "adb8c199-23ee-47b6-ac3a-e42511001cd9"
+  Hint: featuredTags
+  Type: TreelistEx
+  Value: |
+    {230D97AB-F6EF-44AB-A276-51A332F36E49}
+    {8CEB0BF6-4A86-49FD-8B4B-B79B704C3603}
+    {AE0D7639-B422-4416-88F5-B99A196A249C}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{8B882DA0-246E-4ED0-AF73-96D257D48B65}"
+          s:ds="{61BF5803-F461-4376-95B3-8BA3CB126654}"
+          s:par="HeroBannerVariant=%7B0B1166D9-2C27-4392-B0FB-C3E5F2C18380%7D&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{B34524D6-F06A-46EF-BBB9-37BE63541C2B}"
+          s:ds="{689389C0-91C8-4C57-AECB-8932F1C31FA2}" />
+        <r
+          uid="{41DB1F41-DF41-4E0B-BB6E-C77DA83CE126}"
+          s:par="numberOfColumns=%7BBF5801D4-6803-4301-A9D1-D4D722E38E7B%7D&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D%7C%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{F131E204-4546-436A-9BAA-F8A7D613A0DE}">
+          <p:d />
+        </r>
+        <r
+          uid="{DCEFBE9A-CB6F-4EA1-B123-C1DB121B4108}"
+          p:after="*[1=2]"
+          s:par="anchorText&amp;backgroundColor=%7BF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+        <r
+          uid="{7B6A80A0-CC82-4AD7-BA0A-A12CC337F643}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Vietcombank
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "02b87b9a-bb93-4772-82ae-ddd40f19283c"
+      Hint: rewardText
+      Value: Tier 1
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{41DB1F41-DF41-4E0B-BB6E-C77DA83CE126}"
+              s:par="numberOfColumns=%7BBF5801D4-6803-4301-A9D1-D4D722E38E7B%7D&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D%7C%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+          </d>
+        </r>
+    - ID: "105d35bb-e423-4eea-ad61-f4408a757049"
+      Hint: city
+      Value: "{EA5598BA-5177-4A9B-BD4F-70FE29ECA949}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191122T071136Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: testing
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20200106T183000Z
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: fact
+    - ID: "8903e668-0898-456c-b6ed-09d94259e5b1"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{F9AC5180-8D9D-492F-9A80-39378F0241FB}" />
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value: "Vietcombank and FWD agree exclusive 15-year bancassurance partnership in Vietnam"
+    - ID: "a769f55d-9709-4908-bd48-5da0ddff6491"
+      Hint: author
+      Value: Jhon
+    - ID: "d940cafe-2148-466e-9707-0748711f5fdc"
+      Hint: image
+      Value: |
+        <image mediaid="{F9AC5180-8D9D-492F-9A80-39378F0241FB}" />
+    - ID: "f109a737-77b7-48cf-969c-2f55df9d876a"
+      Hint: shortDescription
+      Value: "Vietcombank and FWD agree exclusive 15-year bancassurance partnership in Vietnam"

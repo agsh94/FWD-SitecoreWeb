@@ -1,0 +1,46 @@
+﻿---
+ID: "8dc405e4-1100-49b0-8efa-02b73becbbf0"
+Parent: "992f73a5-4b15-488f-8c4a-4d8a6ba32fac"
+Template: "7d6bb8c2-d538-441d-82bf-d6aec40b5929"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/Total permanent disability/local-folder/How to deal"
+DB: master
+SharedFields:
+- ID: "2118cacd-a41a-41eb-8636-bd9a1d6db8e3"
+  Hint: enableLocalContent
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200621T150038Z
+    - ID: "2ed70c09-d8b1-4780-8037-dfe4ca6dd644"
+      Hint: title
+      Value: How we deal with claims at FWD, and what you need to know
+    - ID: "3e163c0e-2b06-4372-a28c-96b7c3892905"
+      Hint: description
+      Value: We know that if you’re making a claim, you’re probably already going through a difficult time. So we think it’s part of our job to make insurance claims as quick and as easy as possible.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200621T150202Z
+    - ID: "2ed70c09-d8b1-4780-8037-dfe4ca6dd644"
+      Hint: title
+      Value: การดูแลเรื่องการเรียกร้องสินไหมของเรา และเรื่องน่ารู้สำหรับคุณ
+    - ID: "3e163c0e-2b06-4372-a28c-96b7c3892905"
+      Hint: description
+      Value: เรารู้ว่าหากคุณกำลังจะทำการเรียกร้องสินไหม คุณอาจกำลังเผชิญกับสถานการณ์ที่ยากลำบาก ดังนั้นเราจึงคิดว่านี่คือส่วนหนึ่งของหน้าที่ของเราที่จะทำให้การเรียกร้องสินไหมสะดวก รวดเร็ว และง่ายทึ่สุดเท่าที่จะเป็นไปได้
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph

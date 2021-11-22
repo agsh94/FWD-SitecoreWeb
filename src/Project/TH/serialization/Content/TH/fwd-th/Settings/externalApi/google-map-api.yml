@@ -1,0 +1,51 @@
+﻿---
+ID: "e433f6dc-1f01-4a70-9f4d-cc35257603ed"
+Parent: "a604b7c1-f477-4c57-be21-64fda5f60d30"
+Template: "27c952e7-0b94-4971-9158-76b4709e0f50"
+Path: "/sitecore/content/fwd/fwd-th/Settings/externalApi/google-map-api"
+DB: master
+SharedFields:
+- ID: "0bb8c93b-a99d-46b3-8e18-fa27970a244c"
+  Hint: key
+  Value: "google-map-api"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Google Map API
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191213T131301Z
+    - ID: "a7e7124f-44b5-4b21-bbda-ecc7344b6091"
+      Hint: apiName
+      Value: GoogleMapAPI
+    - ID: "b95c8194-e837-46c4-ab8a-a5c6874359cf"
+      Hint: value
+      Value: "AIzaSyBPRi6bMNJtSnC7-xABypCR1rjUe1duxXY"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200314T105426Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "a7e7124f-44b5-4b21-bbda-ecc7344b6091"
+      Hint: apiName
+      Value: GoogleMapAPI
+    - ID: "b95c8194-e837-46c4-ab8a-a5c6874359cf"
+      Hint: value
+      Value: "AIzaSyBPRi6bMNJtSnC7-xABypCR1rjUe1duxXY"
+- Language: "zh-HK"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Google Map API
+  Versions:

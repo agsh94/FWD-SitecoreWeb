@@ -1,0 +1,93 @@
+﻿---
+ID: "7c79e12d-e299-4c08-9d29-fbc9dd2969ff"
+Parent: "15947dd6-0a3a-4071-ad13-fcaf2a2d19b8"
+Template: "8ad5bb9c-b124-437e-a0c3-34149b049fac"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/local-folder/stepper/Calculate points/How your points are calculated"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Calculate points
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09325934-6951-45ec-bd07-c7fc996855b3"
+      Hint: description
+      Value: |
+        <p>Earn points just by doing the activities you love</p>
+        <ul>
+            <li>Walking - every 1,000 steps - receive 2 points</li>
+            <li>Running - every 1 km - receive 10 points</li>
+            <li>Biking - every 1 km - receive 2 points</li>
+            <li>Swimming - every 100m - receive 5 points</li>
+            <li>Dining - receive 5 points per check-in. Maximum 3 times/day</li>
+            <li>Traveling - receive 5 points per check-in. Maximum 2 times/days</li>
+        </ul>
+        <p>Earn an additional 5 points for each activity you share on Facebook.<br />
+        You can earn a maximum 100 points a day from all activities included.</p>
+        <p>Earn points from your insurance policy</p>
+        <ul>
+            <li>Every THB 100 you pay converts into 1 point. You can earn a maximum 10,000 points a year through your premiums.</li>
+        </ul>
+    - ID: "095b37a4-2a84-4177-8231-7a222abc9623"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{A3BC9947-8CD4-4365-8ACD-DD8A37D846EC}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200130T125038Z
+    - ID: "8a19dcac-8d5b-4e87-b1c9-14ba9ece9248"
+      Hint: subTitle
+      Value: 
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: How your points are calculated
+    - ID: "f6728892-c596-4196-9d50-106592ed0f9f"
+      Hint: image
+      Value: |
+        <image mediaid="{A3BC9947-8CD4-4365-8ACD-DD8A37D846EC}" />
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: How your points are calculated
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09325934-6951-45ec-bd07-c7fc996855b3"
+      Hint: description
+      Value: |
+        <p>ได้แต้มง่ายๆ กับทุกกิจกรรมที่คุณชอบ</p>
+        <ul>
+            <li>เดิน 1,000 ก้าว รับ 2  แต้ม</li>
+            <li>วิ่งทุก 1 กิโลเมตร รับ 10 แต้ม</li>
+            <li>ปั่นจักรยานทุก 1 กิโลเมตร รับ 2 แต้ม</li>
+            <li>ว่ายน้ำทุก 100 เมตร&nbsp;รับ 5 แต้ม</li>
+            <li>กิจกรรม มื้ออาหาร รับ 5 แต้ม สูงสุด 3 ครั้ง/วัน</li>
+            <li>กิจกรรม ท่องเที่ยว รับ 5 แต้ม สูงสุด 2 ครั้ง/วัน</li>
+            <li>รับเพิ่ม 5 แต้ม เมื่อแชร์กิจกรรมลง Facebook </li>
+            <p>(สามารถรับแต้มได้สูงสุด 100 แต้ม/วัน ทุกกิจกรรมรวมกัน)</p>
+        </ul>
+    - ID: "095b37a4-2a84-4177-8231-7a222abc9623"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{A3BC9947-8CD4-4365-8ACD-DD8A37D846EC}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T060936Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8a19dcac-8d5b-4e87-b1c9-14ba9ece9248"
+      Hint: subTitle
+      Value: 
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: วิธีการสะสมแต้ม
+    - ID: "f6728892-c596-4196-9d50-106592ed0f9f"
+      Hint: image
+      Value: |
+        <image mediaid="{A3BC9947-8CD4-4365-8ACD-DD8A37D846EC}" />

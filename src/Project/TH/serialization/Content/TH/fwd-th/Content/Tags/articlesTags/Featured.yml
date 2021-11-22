@@ -1,0 +1,25 @@
+﻿---
+ID: "29f14e5a-110e-43b6-871a-f9927ce46c17"
+Parent: "fe35a9d9-7312-4c8c-ab86-97b641201638"
+Template: "8d254d4a-bd30-4b07-8fa0-7464260d4bbc"
+Path: "/sitecore/content/fwd/fwd-th/Content/Tags/articlesTags/Featured"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200113T113054Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T064941Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

@@ -1,0 +1,17 @@
+﻿---
+ID: "fea9bb0f-66d7-4b62-ab76-bede40b7850d"
+Parent: "74137dc9-f82c-4849-9e86-a98803de32fc"
+Template: "dc2042d7-1cc2-4a69-8519-de9dc01a3a00"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/about-us/News/article-detail-1/local-folder/ArticleDetails/Excerpt"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f32a040-00d4-4a28-96b6-5dca215d1917"
+      Hint: excerpt
+      Value: Holidays for others may be staying home and relaxing. But a holiday for people who like coffee, like me, is searching for a café to chill out with good coffee, a pleasant atmosphere, and today is another day that I spent the holidays traveling to One Two Two Coffee Bar.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191122T125413Z

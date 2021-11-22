@@ -1,0 +1,23 @@
+﻿---
+ID: "05708a94-e22c-4c14-8c03-42840399e7b0"
+Parent: "89d5b135-511d-4b26-849c-e9576d6f7725"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/cancer-knockout/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200402T165758Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>เลี่ยงการกินตามใจ</strong><strong></strong><strong>ไม่อยากป่วยไวต้องกินของมีประโยชน์</strong></p>
+        You are what you eat&nbsp;เลือกกินอย่างมีประโยชน์&nbsp;ตามคำที่ว่ากินอย่างไรก็ได้อย่างนั้น&nbsp;ประโยคนี้เป็นจริงเสมอ&nbsp;อยากสุขภาพดีก็กินของมีประโยชน์&nbsp;อาจจะไม่ต้องฝืนใจขนาดกินผักทุกมื้อ&nbsp;แต่อย่างน้อยในทุกๆ&nbsp;การตักอาหารเข้าปาก&nbsp;ให้เรานึกถึงผลจากการกินที่อาจเกิดขึ้นในอนาคตอย่าตามใจปากเกินไป&nbsp;เพราะหากเราใจดีกินทุกอย่างตามใจ&nbsp;คุณเองจะลำบากในบั้นปลาย&nbsp;หลายๆโรคร้ายเกิดขึ้นได้จากพฤติกรรมการกินของเรา&nbsp;อย่างเช่นอาหารประเภทของหมัก&nbsp;ดอง&nbsp;อาหารปิ้งย่าง&nbsp;ที่อาจจะมีสารก่อมะเร็งซ่อนอยู่&nbsp;เลือกทานเอาแต่พอดี

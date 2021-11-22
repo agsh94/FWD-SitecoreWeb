@@ -1,0 +1,56 @@
+﻿---
+ID: "07c1bd35-12f0-46bc-b262-dd80d6f2a521"
+Parent: "d8ae49d3-adad-4384-8fe8-2836465dd88f"
+Template: "b4c08e6e-4910-4cf1-8357-5135729afafb"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/local-folder/product-link-2"
+DB: master
+SharedFields:
+- ID: "9916acb2-f8e6-4480-b9a1-15ac7b642abe"
+  Hint: gaLabelName
+  Value: Unlimited flexibility and support for groups and businesses
+- ID: "998bce23-8608-4a00-b7e8-612a1dd3cb66"
+  Hint: linkGALabelName
+  Value: Unlimited flexibility and support for groups and businesses
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Product Link 2
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191018T093744Z
+    - ID: "9466c25e-e97e-4373-91c3-e648a98ea63e"
+      Hint: title
+      Value: Unlimited flexibility and support for groups and businesses
+    - ID: "9aef0a70-2235-4e84-9854-1e4597e6c385"
+      Hint: subTitle
+      Value: "Our group insurance are designed to adapt in unique setting and requirement,complete with 24-hour support.Our group insurance are designed to adapt in unique setting and requirement,complete with 24-hour supportOur group insurance are designed to adapt in unique setting and requirement,complete with 24-hour support.Our group insurance are designed to adapt in unique setting and requirement,complete with 24-hour support"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="FWD for business" anchor="" linktype="internal" class="" title=""  querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200108T171627Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "9466c25e-e97e-4373-91c3-e648a98ea63e"
+      Hint: title
+      Value: Unlimited flexibility and support for groups and businesses
+    - ID: "9aef0a70-2235-4e84-9854-1e4597e6c385"
+      Hint: subTitle
+      Value: "Our group insurance are designed to adapt in unique setting and requirement,complete with 24-hour support"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="FWD for business" anchor="" linktype="internal" class="" title=""  querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />

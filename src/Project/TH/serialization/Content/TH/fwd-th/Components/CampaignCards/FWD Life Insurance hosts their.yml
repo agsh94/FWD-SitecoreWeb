@@ -1,0 +1,71 @@
+﻿---
+ID: "cff50db7-ef96-43db-9e25-fabc9f296fbf"
+Parent: "49815e8c-6362-476e-a764-a217827ee730"
+Template: "f1076e50-7ea9-4ce1-a4da-09f5c71b91e3"
+Path: "/sitecore/content/fwd/fwd-th/Components/CampaignCards/FWD Life Insurance hosts their 2020 Agency plan"
+DB: master
+SharedFields:
+- ID: "76eb0c81-c181-4fb8-b5a8-cbdcb0de9fb2"
+  Hint: link
+  Value: |
+    <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{74DEB733-1598-4617-955A-AC6C3AA27A65}" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T091500Z
+    - ID: "5ca0b426-a772-4ca2-83f7-a402b5674c40"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{31602E40-0584-40E9-9E2A-2453D25805F5}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c25bc0d0-1892-4153-ae5d-54f266e1cdfe"
+      Hint: subTitle
+      Value: Taking the next step in growing the biggest insurance business in Thailand. More than 900 people, including company executives and agents, join FWD’s 2020 Agency event.
+    - ID: "cb563753-add3-4fff-8f03-9867310ef547"
+      Hint: label
+      Value: 3 January 2020
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: FWD Life Insurance hosts their 2020 Agency plan
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{31602E40-0584-40E9-9E2A-2453D25805F5}" cropx="0.49" cropy="0.63" focusx="-0.01754385964912286" focusy="-0.265625" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T091321Z
+    - ID: "5ca0b426-a772-4ca2-83f7-a402b5674c40"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{31602E40-0584-40E9-9E2A-2453D25805F5}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c25bc0d0-1892-4153-ae5d-54f266e1cdfe"
+      Hint: subTitle
+      Value: ก้าวสู่การเป็นบริษัทประกันชีวิตที่เติบโตเร็วที่สุดในประเทศไทย โดยมีผู้เข้าร่วมงาน FWD’s 2020 Agency รวมทั้งผู้บริหารและตัวแทน มากกว่า 900 คน  
+    - ID: "cb563753-add3-4fff-8f03-9867310ef547"
+      Hint: label
+      Value: 3 มกราคม 2020
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value:  เอฟดับบลิวดี ประกันชีวิต จัดงาน 2020 Agency Year Plan
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{31602E40-0584-40E9-9E2A-2453D25805F5}" cropx="0.48" cropy="0.65" focusx="-0.03508771929824561" focusy="-0.296875" />

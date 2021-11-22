@@ -1,0 +1,35 @@
+﻿---
+ID: "bee8cbb2-62a9-4d78-9d1c-b35028ba2cf7"
+Parent: "f1d6f6db-b3c8-44c8-8533-149e389e0e78"
+Template: "7cd51b29-32c8-44bd-9afc-a2d5587d611c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/Accident and Health/local-folder/How to claim/Step 2"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T024100Z
+    - ID: "2f5a22b8-fc21-4f5e-9046-64bc79c4ae0c"
+      Hint: title
+      Value: 2. Fill out a claim form
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T024055Z
+    - ID: "2f5a22b8-fc21-4f5e-9046-64bc79c4ae0c"
+      Hint: title
+      Value: 2. กรอกรายละเอียดในแบบฟอร์มการเรียกร้องสินไหม
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph

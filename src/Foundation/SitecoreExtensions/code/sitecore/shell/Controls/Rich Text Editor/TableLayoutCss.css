@@ -1,0 +1,70 @@
+﻿.FWD-custom-table {
+    box-sizing: border-box;
+    border-spacing: 0;
+    border-radius: 16px;
+    border: 1px solid #E5E5E5;
+    position: relative;
+    overflow: auto;
+    display: table;
+}
+
+    .FWD-custom-table tr.FWDtableTableHeaderRow {
+        color: #FFFFFF;
+        font-weight: 900;
+        background-color: orange;
+    }
+
+        .FWD-custom-table tr.FWDtableTableHeaderRow > td:first-child {
+            border-radius: 16px 0 0 0;
+        }
+
+        .FWD-custom-table tr.FWDtableTableHeaderRow > td:last-child {
+            border-radius: 0 16px 0 0;
+        }
+
+    .FWD-custom-table tr.FWDtableTableOddRow > td {
+        border-bottom: 1px solid #E5E5E5;
+    }
+
+    .FWD-custom-table tr.FWDtableTableEvenRow > td {
+        word-wrap: break-word;
+        border-bottom: 1px solid #E5E5E5;
+    }
+
+.FWD-custom-table-with-icons {
+    box-sizing: border-box;
+    border-spacing: 0;
+    border-radius: 16px;
+    border: 1px solid #E5E5E5;
+    position: relative;
+    overflow: auto;
+    display: table;
+}
+
+    .FWD-custom-table-with-icons tr.FWDtableTableHeaderRow {
+        color: #FFFFFF;
+        font-weight: 900;
+        background-color: orange;
+    }
+
+        .FWD-custom-table-with-icons tr.FWDtableTableHeaderRow > td:first-child {
+            border-radius: 16px 0 0 0;
+        }
+
+        .FWD-custom-table-with-icons tr.FWDtableTableHeaderRow > td:last-child {
+            border-radius: 0 16px 0 0;
+        }
+
+    .FWD-custom-table-with-icons tr.FWDtableTableOddRow > td {
+        border-bottom: 1px solid #E5E5E5;
+    }
+
+    .FWD-custom-table-with-icons tr.FWDtableTableEvenRow > td {
+        word-wrap: break-word;
+        border-bottom: 1px solid #E5E5E5;
+    }
+
+    .FWD-custom-table-with-icons img {
+        width: 32px;
+        height: 32px;
+    }

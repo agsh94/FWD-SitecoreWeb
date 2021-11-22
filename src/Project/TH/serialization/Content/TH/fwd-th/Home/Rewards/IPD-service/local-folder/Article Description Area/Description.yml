@@ -1,0 +1,315 @@
+﻿---
+ID: "7a8474e2-5606-4ade-9896-fe547a039144"
+Parent: "55dd63e2-9e2a-47d8-a36a-84c79d13ea5e"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/IPD-service/local-folder/Article Description Area/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200729T042806Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <p>
+        หากคุณต้องนอนโรงพยาบาล และกำลังจะได้กลับบ้าน เรามีบริการใหม่ ช่วยเร่งติดตามเอกสารค่าใช้จ่ายจากโรงพยาบาลในเครือข่ายกว่า 380 แห่งทั่วประเทศ เพื่อคุณไม่ต้องรอนาน พร้อมรู้ผลการเคลมได้ภายใน 30 นาทีหลังได้รับเอกสารครบถ้วนจากทางโรงพยาบาล ให้คุณสะดวกและสบายยิ่งขึ้น เพราะเรารู้ว่าคุณคิดถึงบ้าน แค่โทร หรือแช็ตมาหาเรา</p>
+        <p>&nbsp;</p>
+        <p><span style="text-decoration: underline;">ขั้นตอนขอใช้บริการ</span></p>
+        <p><span style="text-decoration: underline;"><br />
+        </span><span style="text-decoration: underline;"> </span></p>
+        <p><strong><span>ขั้นตอนขอใช้บริการผ่านทาง </span><span>1351</span></strong></p>
+        <p>1. <span>โทร </span>1351 <span>ในเวลาทำการ</span></p>
+        <p>2. <span>เริ่มพูดคุยกับเจ้าหน้าที่ผ่านทางโทรศัพท์โดยลูกค้าแจ้ง</span></p>
+        <ul>
+            <li><span>ชื่อและนามสกุล</span></li>
+            <li><span>บัตรประชาชนหรือเลขที่กรมธรรม์</span></li>
+            <li><span>วันที่ออกจากโรงพยาบาล</span></li>
+            <li><span>ชื่อโรงพยาบาลที่เข้าพักรักษา</span></li>
+        </ul>
+        <p><strong><span>ขั้นตอนขอใช้บริการผ่านทาง </span>LINE</strong></p>
+        <p>1. <span>ค้นหา </span>LINE <span>ด้วยคำว่า </span>@FWDThailand <span>ที่ช่องค้นหาและกดปุ่มเพิ่มเพื่อน</span></p>
+        <p>2. <span>พิมพ์คำว่า &ldquo;ขอคุยกับเจ้าหน้าที่&rdquo; ในช่องข้อความแล้วกดส่งข้อความ</span></p>
+        <p> <span>3. </span><span>เริ่มพูดคุยกับเจ้าหน้าที่ผ่านทาง </span><span>LINE </span><span>โดยลูกค้าแจ้ง</span></p>
+        <ul>
+            <li><span>ชื่อและนามสกุล</span></li>
+            <li><span>บัตรประชาชนหรือเลขที่กรมธรรม์</span></li>
+            <li><span>วันที่ออกจากโรงพยาบาล</span></li>
+            <li><span>ชื่อโรงพยาบาลที่เข้าพักรักษา</span></li>
+        </ul>
+        <p><span>&nbsp;</span></p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200812T033936Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Sirisak
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <p>
+        หากคุณต้องนอนโรงพยาบาล และกำลังจะได้กลับบ้าน เรามีบริการใหม่ ช่วยเร่งติดตามเอกสารค่าใช้จ่ายจากโรงพยาบาลในเครือข่ายกว่า 380 แห่งทั่วประเทศ เพื่อคุณไม่ต้องรอนาน พร้อมรู้ผลการเคลมได้ภายใน 30 นาทีหลังได้รับเอกสารครบถ้วนจากทางโรงพยาบาล ให้คุณสะดวกและสบายยิ่งขึ้น เพราะเรารู้ว่าคุณคิดถึงบ้าน แค่โทร หรือแช็ตมาหาเรา</p>
+        <p>&nbsp;</p>
+        <p><span style="text-decoration: underline;"><strong>ขั้นตอนขอใช้บริการ</strong></span></p>
+        <p>&nbsp;</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200812T033936Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T101557Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sirisak
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <p>
+        หากคุณต้องนอนโรงพยาบาล และกำลังจะได้กลับบ้าน เรามีบริการใหม่ ช่วยเร่งติดตามเอกสารค่าใช้จ่ายจากโรงพยาบาลในเครือข่ายกว่า 380 แห่งทั่วประเทศ เพื่อคุณไม่ต้องรอนาน พร้อมรู้ผลการเคลมได้ภายใน 30 นาทีหลังได้รับเอกสารครบถ้วนจากทางโรงพยาบาล ให้คุณสะดวกและสบายยิ่งขึ้น เพราะเรารู้ว่าคุณคิดถึงบ้าน แค่โทร หรือแช็ตมาหาเรา</p>
+        <p>&nbsp;</p>
+        <p><span style="text-decoration: underline;"><strong>ขั้นตอนขอใช้บริการ</strong></span></p>
+        <p><span style="text-decoration: underline;"><strong><img alt="img" src="-/media/56cf21482c6749a5b8c20d74954553af.ashx" /></strong></span></p>
+        <p><span style="text-decoration: underline;"><strong>&nbsp;</strong></span></p>
+        <p><span style="text-decoration: underline;"><strong><img alt="img" src="-/media/09b2ee689c384ff8aa667345db99e41e.ashx" /></strong></span></p>
+        <p>&nbsp;</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200820T101557Z
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200827T061619Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <p>
+        หากคุณต้องนอนโรงพยาบาล และกำลังจะได้กลับบ้าน เรามีบริการใหม่ ช่วยเร่งติดตามเอกสารค่าใช้จ่ายจากโรงพยาบาลในเครือข่ายกว่า 380 แห่งทั่วประเทศ เพื่อคุณไม่ต้องรอนาน พร้อมรู้ผลการเคลมได้ภายใน 30 นาทีหลังได้รับเอกสารครบถ้วนจากทางโรงพยาบาล ให้คุณสะดวกและสบายยิ่งขึ้น เพราะเรารู้ว่าคุณคิดถึงบ้าน แค่โทร หรือแช็ตมาหาเรา</p>
+        <p>&nbsp;</p>
+        <p><span style="text-decoration: underline;"><strong>ขั้นตอนขอใช้บริการ</strong></span></p>
+        <p><span style="text-decoration: underline;"><strong><img alt="img" src="-/media/56cf21482c6749a5b8c20d74954553af.ashx" style="width: 100%;" /></strong></span></p>
+        <p><span style="text-decoration: underline;"><strong>&nbsp;</strong></span></p>
+        <p><span style="text-decoration: underline;"><strong><img alt="img" src="-/media/09b2ee689c384ff8aa667345db99e41e.ashx" style="width: 100%;" /></strong></span></p>
+        <p>&nbsp;</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200827T061619Z
+  - Version: 5
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200902T084549Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <p>
+        หากคุณต้องนอนโรงพยาบาล และกำลังจะได้กลับบ้าน เรามีบริการใหม่ ช่วยเร่งติดตามเอกสารค่าใช้จ่ายจากโรงพยาบาลในเครือข่ายกว่า 380 แห่งทั่วประเทศ เพื่อคุณไม่ต้องรอนาน พร้อมรู้ผลการเคลมได้ภายใน 30 นาทีหลังได้รับเอกสารครบถ้วนจากทางโรงพยาบาล ให้คุณสะดวกและสบายยิ่งขึ้น เพราะเรารู้ว่าคุณคิดถึงบ้าน แค่โทร หรือแช็ตมาหาเรา</p>
+        <p>&nbsp;</p>
+        <p><span style="text-decoration: underline;"><strong>ขั้นตอนขอใช้บริการ</strong></span></p>
+        <p><span style="text-decoration: underline;"><strong><img alt="img" src="-/media/56cf21482c6749a5b8c20d74954553af.ashx" style="width: 100%;" /></strong></span></p>
+        <p><span style="text-decoration: underline;"><strong>&nbsp;</strong></span></p>
+        <p><span style="text-decoration: underline;"><strong><img alt="img" src="-/media/09b2ee689c384ff8aa667345db99e41e.ashx" style="width: 100%;" /></strong></span></p>
+        <p>&nbsp;</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200902T084549Z
+  - Version: 6
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200903T070303Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Chaiyawat
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <p>
+        หากคุณต้องนอนโรงพยาบาล และกำลังจะได้กลับบ้าน เรามีบริการใหม่ ช่วยเร่งติดตามเอกสารค่าใช้จ่ายจากโรงพยาบาลในเครือข่ายกว่า 380 แห่งทั่วประเทศ เพื่อคุณไม่ต้องรอนาน พร้อมรู้ผลการเคลมได้ภายใน 30 นาทีหลังได้รับเอกสารครบถ้วนจากทางโรงพยาบาล ให้คุณสะดวกและสบายยิ่งขึ้น เพราะเรารู้ว่าคุณคิดถึงบ้าน แค่โทร หรือแช็ตมาหาเรา</p>
+        <p>&nbsp;</p>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #e87722;"><strong>ขั้นตอนการขอ</strong></span><strong><span style="color: #e87722;">ใช้</span><span style="color: #e87722;">บริการ</span></strong></p>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><strong><span style="color: #e87722;">&nbsp;</span></strong></p>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><strong><span style="color: #e87722;"><img alt="img" src="-/media/019a03a17c9f46dda805afe7e4966f15.ashx" style="width:100%;" /></span></strong></p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200903T070303Z
+  - Version: 7
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200911T041100Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sirisak
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <p>
+        หากคุณต้องนอนโรงพยาบาล และกำลังจะได้กลับบ้าน เรามีบริการใหม่ ช่วยเร่งติดตามเอกสารค่าใช้จ่ายจากโรงพยาบาลในเครือข่ายกว่า 380 แห่งทั่วประเทศ เพื่อคุณไม่ต้องรอนาน พร้อมรู้ผลการเคลมได้ภายใน 30 นาทีหลังได้รับเอกสารครบถ้วนจากทางโรงพยาบาล ให้คุณสะดวกและสบายยิ่งขึ้น เพราะเรารู้ว่าคุณคิดถึงบ้าน แค่โทร หรือแช็ตมาหาเรา</p>
+        <p>&nbsp;</p>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #e87722;"><strong>ขั้นตอนการขอ</strong></span><strong><span style="color: #e87722;">ใช้</span><span style="color: #e87722;">บริการ</span></strong></p>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><strong><span style="color: #e87722;">&nbsp;</span></strong></p>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><strong><span style="color: #e87722;">&nbsp;</span></strong></p>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><strong><span style="color: #e87722;"><img alt="img" src="-/media/9be54c2b822d4f47a42b41167ab2acaa.ashx" style="width: 100%;" /></span></strong></p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200911T041100Z
+  - Version: 8
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201002T022012Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <p>
+        หากคุณต้องนอนโรงพยาบาล และกำลังจะได้กลับบ้าน เรามีบริการใหม่ ช่วยเร่งติดตามเอกสารค่าใช้จ่ายจากโรงพยาบาลในเครือข่ายกว่า 380 แห่งทั่วประเทศ เพื่อคุณไม่ต้องรอนาน พร้อมรู้ผลการเคลมได้ภายใน 30 นาทีหลังได้รับเอกสารครบถ้วนจากทางโรงพยาบาล ให้คุณสะดวกและสบายยิ่งขึ้น เพราะเรารู้ว่าคุณคิดถึงบ้าน แค่โทร หรือแช็ตมาหาเรา</p>
+        <p>&nbsp;</p>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: #e87722;"><strong>ขั้นตอนการขอ</strong></span><strong><span style="color: #e87722;">ใช้</span><span style="color: #e87722;">บริการ</span></strong></p>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><strong><span style="color: #e87722;">&nbsp;</span></strong></p>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><strong><span style="color: #e87722;">&nbsp;</span></strong></p>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><strong><span style="color: #e87722;"><img alt="img" src="-/media/9be54c2b822d4f47a42b41167ab2acaa.ashx" style="width: 100%;" /></span></strong></p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201002T022012Z

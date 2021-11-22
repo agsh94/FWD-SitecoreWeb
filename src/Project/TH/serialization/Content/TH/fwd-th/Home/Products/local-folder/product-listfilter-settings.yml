@@ -1,0 +1,51 @@
+﻿---
+ID: "64613f7e-a58f-493c-8634-84d7b66d5553"
+Parent: "cabd73a2-49db-4fc4-acb9-6564d0a794e4"
+Template: "b0c8d09d-d6f5-4496-a61a-50ce588fd374"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/local-folder/product-listfilter-settings"
+DB: master
+SharedFields:
+- ID: "2250f909-bae3-415f-a645-9d07826b6566"
+  Hint: apiPageSize
+  Value: 9
+- ID: "4806c25f-038d-4db7-acba-40c477fe263d"
+  Hint: noResultFoundSource
+  Value: "{8F68F109-31B0-4B02-B903-5036BBBDDC96}"
+- ID: "8f397566-a4d1-4f23-8594-dce13b3720fe"
+  Hint: apiSortBy
+  Value: "{28C97C30-319A-403C-8D47-85EB8BAA708F}"
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{3B19D2B5-AAA3-4FB7-A107-4CEC5F9110F1}"
+- ID: "e82938f3-6c97-4755-9c0b-baf56b4a5e4f"
+  Hint: apiMobilePageSize
+  Value: 6
+- ID: "f3a8e282-a667-4cc5-96fd-c3223294cdf7"
+  Hint: filtersList
+  Type: Multilist
+  Value: |
+    {3D0213D6-2DBE-4871-809F-400C7F94FF21}
+    {0F0DE57E-1571-40BE-A20F-FFEE468D56D7}
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Product ListFilter Settings
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191112T101118Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200115T054209Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,80 @@
+﻿---
+ID: "62c006ed-c5aa-4d5e-975b-5c14d2646494"
+Parent: "cabd73a2-49db-4fc4-acb9-6564d0a794e4"
+Template: "d591d930-4c7f-4600-9e37-f4877c8a8857"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/local-folder/product-list-filter"
+DB: master
+SharedFields:
+- ID: "23bf35d7-6119-4af8-820a-e70e0d7f1b04"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: |
+    {67F745F2-3A37-4569-B598-0B98CDC6B144}
+    {FE8587F2-045F-44A2-83AC-6058AF7CC0AF}
+    {EDA8AA85-90E4-409C-99E9-ADC0ECA09767}
+    {79CC6ED6-35E7-48E5-B2F9-54D5C71CCE20}
+    {78547D81-08B8-4BA5-96A9-99C53E609994}
+    {F21B83EF-A6E2-445C-8E35-4A7016F37B24}
+    {390404DC-4C70-4662-B09E-5FB89B7B5294}
+- ID: "4604673d-b260-446f-b9a9-7e0e5a5894f1"
+  Hint: linkIcon
+  Value: "{8E6F2179-2D7B-420D-9D47-D13C408BB3C5}"
+- ID: "bc3921f9-0892-4ecd-8ffd-41d13948077b"
+  Hint: resetLinkIcon
+  Value: "{333FE4F4-B36C-409B-90AD-503A6561B8D8}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Product List Filter
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191107T101225Z
+    - ID: "45723513-6c8d-4414-8f26-ecc5b4ba51bb"
+      Hint: image
+      Value: |
+        <image mediaid="{3981DF5B-AF80-450E-8B23-86DC67C47EEC}" cropx="0.33" cropy="0.51" focusx="-0.3421052631578947" focusy="-0.015625" />
+    - ID: "4da6f172-46f9-4e1d-adb3-49a18443493d"
+      Hint: title
+      Value: I’d like to find out about 
+    - ID: "513cd2ed-846b-4dc2-8773-720384b96e42"
+      Hint: linkItem
+      Value: 
+    - ID: "eb2208ec-ec9c-489b-8c2c-6d45bf0c5807"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{3981DF5B-AF80-450E-8B23-86DC67C47EEC}" cropx="0.34" cropy="0.61" focusx="-0.3157894736842105" focusy="-0.21875" />
+    - ID: "fe290172-73de-42bd-8db7-3b4963912240"
+      Hint: resetLinkItem
+      Value: |
+        <link text="Reset" linktype="external" url="Reset" anchor="" title="Reset" target="" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200115T054209Z
+    - ID: "45723513-6c8d-4414-8f26-ecc5b4ba51bb"
+      Hint: image
+      Value: |
+        <image mediaid="{3981DF5B-AF80-450E-8B23-86DC67C47EEC}" cropx="0.33" cropy="0.52" focusx="-0.33333333333333337" focusy="-0.046875" />
+    - ID: "4da6f172-46f9-4e1d-adb3-49a18443493d"
+      Hint: title
+      Value: ค้นหาแผนประกันที่ต้องการ
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "eb2208ec-ec9c-489b-8c2c-6d45bf0c5807"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{3981DF5B-AF80-450E-8B23-86DC67C47EEC}" cropx="0.34" cropy="0.61" focusx="-0.3157894736842105" focusy="-0.21875" />
+    - ID: "fe290172-73de-42bd-8db7-3b4963912240"
+      Hint: resetLinkItem
+      Value: |
+        <link text="ตั้งค่าเริ่มต้น" linktype="external" url="ตั้งค่าเริ่มต้น" anchor="" title="Reset" target="" />

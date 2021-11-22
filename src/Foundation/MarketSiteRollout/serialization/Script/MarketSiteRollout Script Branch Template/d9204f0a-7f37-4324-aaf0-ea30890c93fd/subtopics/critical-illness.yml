@@ -1,0 +1,25 @@
+﻿---
+ID: "53b5c779-b20c-4b94-897d-3698507be331"
+Parent: "6cb2799b-b388-4164-a4c0-c5044659839e"
+Template: "69b601a8-8555-4411-8c17-aa91671eec32"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Tags/articlesTags/Featured/subtopics/critical-illness"
+DB: master
+SharedFields:
+- ID: "a903eb23-a8d6-4a9a-bd27-4bd363b1fcf0"
+  Hint: searchName
+  Value: "critical-illness"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Critical Illness
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: Critical Illness
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T110402Z

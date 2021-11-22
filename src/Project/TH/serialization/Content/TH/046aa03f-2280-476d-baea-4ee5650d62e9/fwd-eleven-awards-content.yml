@@ -1,0 +1,58 @@
+﻿---
+ID: "18083284-f2d3-41af-b7e8-db71fd06f7cb"
+Parent: "046aa03f-2280-476d-baea-4ee5650d62e9"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/about-us/press-releases/fwd-cleans-up-in-category-with-11-awards/local-folder/article-description-area/fwd-eleven-awards-content"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: FWD eleven awards
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T061742Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>FWD's eleven awards include:</strong><br />
+        <br />
+        The One, FWD's high-end medical solution, and the associated all-round, one-stop health management service PREMIER THE ONEcierge, which offers priority access to over 100 top-tier hospitals across pan-Asian regions, claimed three Excellence Awards in the Medical Care, Health &amp; Protection, and High Net Worth Insurance Service categories;<br />
+        Mind+, a critical illness protection plan that notably also covers mental health, won one Excellence Award and two Outstanding Awards for its unique value proposition, the ingenuity and effectiveness of the related product launch campaign, and the usability of the associated mobile Genie App, which fills the gap in traditional insurance products and promotes a healthy lifestyle from inside out;<br />
+        Digital commerce platform iFWD shone again with InsurTech Company of the Year and Online Platform Excellence Award s this year. The outcome well justifies its success in making customer experience of insurance products and services enjoyable and convenient ;<br />
+        Insurance plan MaxFocus Signature was praised with one Outstanding Award for its flexibility, simple application process, and focus on wealth growth, retirement and succession planning;<br />
+        FWD also bagged two Outstanding Awards in the Service Innovation and Claims Management categories for the breadth of its seamless customer service and engagement initiatives. Winning projects include chatbot, eServices customer portal, and industry-first, speedy claims pay-out facility at convenient stores in MTR stations.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200108T084135Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <span style="height: 210px; width: 704px; color: #333333;"></span>
+        <p>Cras quis nulla commodo, aliquam lectus sed, blandit augue: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue enim, pulvinar lobortis nibh lacinia at. Vestibulum nec erat ut mi sollicitudin porttitor id sit amet risus. Nam tempus vel odio vitae aliquam. In imperdiet eros id lacus vestibulum vestibulum. Suspendisse fermentum sem sagittis ante venenatis egestas quis vel justo. Maecenas semper suscipit nunc, sed aliquam sapien convallis eu. Nulla ut turpis in diam dapibus consequat.
+        </p>
+        <span style="height: 190px; width: 704px; color: #3a3a3a;"></span>
+        <p> 	1. 	Mauris non tempor quam, et lacinia sapien. Mauris accumsan eros eget libero posuere vulputate. Etiam elit elit, elementum sed varius at, adipiscing vitae est.
+        </p>
+        <p>2. 	Sed nec felis pellentesque, lacinia dui sed, ultricies sapien. Pellentesque orci lectus, consectetur vel posuere posuere, rutrum eu ipsum. Aliquam eget odio sed ligula iaculis consequat at eget orci.
+        .</p>

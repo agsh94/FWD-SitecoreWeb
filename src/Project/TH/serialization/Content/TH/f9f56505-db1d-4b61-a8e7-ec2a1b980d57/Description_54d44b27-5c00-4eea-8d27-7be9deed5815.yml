@@ -1,0 +1,33 @@
+﻿---
+ID: "54d44b27-5c00-4eea-8d27-7be9deed5815"
+Parent: "f9f56505-db1d-4b61-a8e7-ec2a1b980d57"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Wealth/business-trends/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 900
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200928T054332Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p class="Default"><strong><span>4. ธุรกิจสตาร์ตอัป</span></strong></p>
+        <p class="Default"><strong><span></span></strong>ไอเดียดีมีนักลงทุน ถ้าไอเดียนั้นเป็นการนำเทคโนโลยีมาช่วยแก้ไขปัญหาที่เกิดขึ้นในชีวิตประจำวัน โมเดลธุรกิจแบบที่เรียกว่าสตาร์ตอัปเติบโตอย่างรวดเร็ว โดยได้รับความนิยมทั้งในไทยและต่างประเทศ สามารถสร้างรายได้จากการซื้อซ้ำและขยายตัวจากผู้ใช้ เช่น แอปพลิเคชันให้บริการรับ-ส่งสินค้า แอปพลิเคชันจองร้านอาหาร จองคิวล่วงหน้า นายหน้าการันตีราคาบ้านก่อนทำการซื้อขาย สตาร์ตอัปบางรายมีรายได้ไม่ต่ำกว่าหลักสิบ-หลักร้อยล้านต่อปี</p>

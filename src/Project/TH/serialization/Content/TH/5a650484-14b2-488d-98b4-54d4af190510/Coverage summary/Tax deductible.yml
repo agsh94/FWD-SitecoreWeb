@@ -1,0 +1,56 @@
+﻿---
+ID: "611ca77d-e7fa-4232-bf73-bdcfe5bd5363"
+Parent: "6051b28b-b5ee-4f9f-9474-e481fcd98c0e"
+Template: "3dfbb2d7-b19a-4df9-8a93-4ecb69088625"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/fwd-healthy-max/Package5/AttributeFolder/Coverage summary/Tax deductible"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 175
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T101904Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{77CB67AC-B727-4CCD-938C-384B790DF51F}"
+    - ID: "f74f0637-1a3b-4152-b0c2-db88576ed70f"
+      Hint: value
+      Type: Checkbox
+      Value: 1
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T102402Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{77CB67AC-B727-4CCD-938C-384B790DF51F}"
+    - ID: "f74f0637-1a3b-4152-b0c2-db88576ed70f"
+      Hint: value
+      Type: Checkbox
+      Value: 1

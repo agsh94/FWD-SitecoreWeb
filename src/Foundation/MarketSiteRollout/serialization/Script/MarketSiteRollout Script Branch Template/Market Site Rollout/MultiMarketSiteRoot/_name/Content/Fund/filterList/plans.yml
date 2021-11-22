@@ -1,0 +1,32 @@
+﻿---
+ID: "641b6847-8a18-4ab8-820d-16a8d8071dad"
+Parent: "e5a0551f-41d8-4c09-9033-57d823cbbb76"
+Template: "e15efade-4c8c-4e61-b972-a481e9b8b5a3"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Fund/filterList/plans
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{7DF0F862-C185-4BB5-ACC0-8C4F99A5CAA6}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Plans
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T120046Z
+- Language: "zh-HK"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Plans
+  Versions:

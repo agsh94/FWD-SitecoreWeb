@@ -1,0 +1,18 @@
+﻿---
+ID: "d113f6de-3abe-46b4-bb31-11cc301c293e"
+Parent: "d2b414ad-f35c-4474-a74c-9b8258a059d7"
+Template: "8d254d4a-bd30-4b07-8fa0-7464260d4bbc"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Tags/productsTags/planComponent
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Plan component
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191101T165255Z

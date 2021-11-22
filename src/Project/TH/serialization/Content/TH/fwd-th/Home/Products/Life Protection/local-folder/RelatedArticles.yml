@@ -1,0 +1,52 @@
+﻿---
+ID: "bdeefb4d-1ccb-4bea-b9c7-2f00234fd05b"
+Parent: "ec1da0a3-7499-4fc9-92af-c583ad3dabb8"
+Template: "681b61a2-6f52-4119-b8f4-033587eaeacc"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Life Protection/local-folder/RelatedArticles"
+DB: master
+SharedFields:
+- ID: "8f397566-a4d1-4f23-8594-dce13b3720fe"
+  Hint: apiSortBy
+  Value: 
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{20162863-AE86-4B42-9AEC-B7A81A345553}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+- ID: "bd1fe0cc-270d-4276-a07d-da02b962d325"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: "{FE8587F2-045F-44A2-83AC-6058AF7CC0AF}"
+- ID: "fdd5a7f8-e97a-4737-b3ac-e428d033fd0c"
+  Hint: secondaryNeedTags
+  Type: Multilist
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T113558Z
+    - ID: "d88ea793-1587-4f65-ae5c-80926cd5438b"
+      Hint: subTitle
+      Value: 
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Your daily inspiration
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200113T134103Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: บทความแนะนำ

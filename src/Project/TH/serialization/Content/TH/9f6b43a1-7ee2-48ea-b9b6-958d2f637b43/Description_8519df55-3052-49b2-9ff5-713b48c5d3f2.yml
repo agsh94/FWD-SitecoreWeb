@@ -1,0 +1,27 @@
+﻿---
+ID: "8519df55-3052-49b2-9ff5-713b48c5d3f2"
+Parent: "9f6b43a1-7ee2-48ea-b9b6-958d2f637b43"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/5-best-milk-tea/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T234456Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>1. The Alley ชานมไข่มุกต้นตำรับไต้หวัน ที่ใครๆ ก็เลิฟ</strong></p>
+        <p>เริ่มต้นร้านแรกกับร้าน The Alley แบรนด์ชานมสุดพรีเมียมจากประเทศไต้หวัน และดังไกลไปจนถึงอีกหลายประเทศ ไม่ว่าจะเป็นเกาหลี ญี่ปุ่น แคนาดา เวียดนาม ฝรั่งเศส หรือแม้แต่ประเทศไทย ซึ่งร้าน The Alley นั้นมีด้วยกันทั้งหมด 2 สาขา โดยสาขาแรกตั้งอยู่ที่ห้าง Siam Square 1 และอีกสาขาที่เปิดใหม่ด้านบนชั้น 6 ของห้างสรรพสินค้า Central World กับสไตล์การตกแต่งที่เน้นบรรยากาศสบายๆ เข้ากับไลฟ์สไตล์คนรุ่นใหม่ตั้งแต่ก้าวแรกที่เดินเข้ามา ตลอดจนการเลือกใช้วัตถุดิบคุณภาพดี ทั้งใบชาสดใหม่เก็บด้วยมือ น้ำตาลทรายแดงสูตรของ The Alley ที่หอมหวานไม่เหมือนใคร และไฮไลท์อย่างเจ้าเม็ดไข่มุก Deerioca ไข่มุกเม็ดเล็กนวดด้วยมือ จนได้เม็ดไข่มุกเคี้ยวนุ่มหนึบหนับ หอมหวานลงตัว ซึ่งทางร้านอิมพอร์ตส่งตรงจากประเทศไต้หวันมาโดยเฉพาะ</p>

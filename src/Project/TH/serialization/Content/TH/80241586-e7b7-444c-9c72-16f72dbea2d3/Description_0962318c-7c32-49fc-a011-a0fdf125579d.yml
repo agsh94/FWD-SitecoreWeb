@@ -1,0 +1,28 @@
+﻿---
+ID: "0962318c-7c32-49fc-a011-a0fdf125579d"
+Parent: "80241586-e7b7-444c-9c72-16f72dbea2d3"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/travel-leh-ladakh/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 4200
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T073847Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ส่วนเช้าอีกวัน เราพุ่งตัวไปที่ <strong>Silver Sand Dune</strong> ซึ่งอยู่ถัดไปอีกนิดหน่อย ในหมู่บ้านเล็กๆ ชื่อฮุนเดอร์ เพื่อลองขี่อูฐ ทำตัวเป็นฟ้าจรดทราย ตามหาเจ้าชายและเจ้าหญิงอะไรยังงั้นอะแกร นั่นคือภาพที่จินตนาการไว้ ว่าจะได้เจออูฐที่สูงสง่า ขายาว เหมือนที่เจอที่โอมานแน่ๆ</p>
+        <p>&nbsp;</p>
+        <p>แต่อ่าวเฮ้ย! ทำไมน้องอูฐถึงอ้วน และขนพองขนาดนี้ 555 แถมเอะอะ ก็จะล้มตัวลงนอนกลิ้งไปกลิ้งมาบนพื้นอีก ตลกไปอีกแบบดี ส่วนค่าใช้จ่ายในการขี่ ก็อยู่ที่ 15 นาที 150 รูปีเด้อ ไม่แพงเลย</p>

@@ -1,0 +1,33 @@
+﻿---
+ID: "2111f39b-31d6-43b6-8b75-c44c23a66f25"
+Parent: "dd5e6d5c-45c8-4518-8614-c5b7daaada52"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/buffer-total-scoop/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2400
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T010410Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ที่ตั้ง : 905/47 ซอย ประเสริฐมนูกิจ 33 แขวงนวลจันทร์ เขตบึงกุ่ม กรุงเทพ<br />
+        เวลาเปิด - ปิดบริการ : ทุกวัน 17.00 น. - 23.30 น.<br />
+        ราคา : 459 บาท เด็กเล็ก และผู้สูงอายุตั้งแต่ 70 ปีขึ้นไปทานฟรี<br />
+        โทรศัพท์ : 090-490-9408<br />
+        <br />
+        <strong>สมัครรับสิทธิพิเศษ FWD MAX ได้ง่ายๆ</strong><br />
+        <strong>iOS:</strong> <a href="https://goo.gl/c1PwMq">https://goo.gl/c1PwMq</a><br />
+        <strong>Android:</strong> <a href="https://goo.gl/RVJ6Kl">https://goo.gl/RVJ6Kl</a></p>

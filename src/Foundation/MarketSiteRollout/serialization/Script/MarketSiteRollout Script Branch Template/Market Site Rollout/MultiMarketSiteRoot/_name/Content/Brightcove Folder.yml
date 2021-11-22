@@ -1,0 +1,14 @@
+﻿---
+ID: "8490468e-dc5f-428d-b510-80282a1e6852"
+Parent: "ce80a31f-7111-43f0-a1a5-24c415b6274b"
+Template: "f80b61a0-31e0-480f-9464-4dab951b3e2a"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Brightcove Folder
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200826T072107Z

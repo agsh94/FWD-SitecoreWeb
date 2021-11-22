@@ -1,0 +1,21 @@
+﻿---
+ID: "1b9f8025-0b00-4c68-bc61-d0140f3b9fc3"
+Parent: "3284cb57-ab17-4b89-87cb-b95db4a20da7"
+Template: "ec74479e-eb93-417d-b1fe-1b1912ea159e"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Fund/filterList/fundHouses/BNP Paribas
+DB: master
+SharedFields:
+- ID: "4b2b81c8-20b1-4ffa-80de-1011ba3faec4"
+  Hint: code
+  Value: BP
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T111256Z
+    - ID: "45f7ae51-f539-40f8-9df8-beacc0b2bba7"
+      Hint: description
+      Value: BNP Paribas

@@ -1,0 +1,25 @@
+﻿---
+ID: "c1d4974a-027e-424a-a9d8-734be9c843cf"
+Parent: "002f0921-b445-4c40-b03e-9ef8ed748784"
+Template: "69b601a8-8555-4411-8c17-aa91671eec32"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Tags/commonTags/Featured/primaryNeed/cash-return"
+DB: master
+SharedFields:
+- ID: "a903eb23-a8d6-4a9a-bd27-4bd363b1fcf0"
+  Hint: searchName
+  Value: Cash Return
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Cash Return
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: Cash Returns
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200128T073055Z

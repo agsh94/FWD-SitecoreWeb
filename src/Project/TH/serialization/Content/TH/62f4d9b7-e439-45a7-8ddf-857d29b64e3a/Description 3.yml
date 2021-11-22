@@ -1,0 +1,75 @@
+﻿---
+ID: "b03e1186-6422-406e-b05c-af19ecf8f0b6"
+Parent: "62f4d9b7-e439-45a7-8ddf-857d29b64e3a"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/health-check-up/local-folder/Article Description Area/Description 3"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 225
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200812T185126Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Chaiyawat
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong><span style="text-decoration: underline;">วิธีการรับสิทธิ์</span></strong></p>
+        <p style="margin-left: 40px;">ลูกค้าเอฟดับบลิวดีรับสิทธิพิเศษแพ็คเกจตรวจสุขภาพในราคาพิเศษ โดยสามารถรับสิทธิ์ได้ที่โรงพยาบาลที่กำหนด ตั้งแต่วันนี้ ถึงวันที่ 31 ธันวาคม 2563</p>
+        <p><strong><span style="text-decoration: underline;">&nbsp;</span></strong></p>
+        <p><strong><span style="text-decoration: underline;">เงื่อนไขการใช้สิทธิ์</span></strong></p>
+        <ul>
+            <li>สิทธิพิเศษนี้สำหรับลูกค้าเอฟดับบลิวดีที่เป็นผู้เอาประกันเท่านั้น และไม่สามารถโอนสิทธิ์ให้บุคคลอื่นได้ทุกกรณี</li>
+            <li>สิทธิพิเศษนี้สำหรับลูกค้าเอฟดับบลิวดี Prompt, Plus และ Pride ที่ชำระค่าเบี้ยตามเงื่อนไข</li>
+            <li>ลูกค้าของเอฟดับบลิวดีต้องสำรองการใช้บริการจากโรงพยาบาลล่วงหน้า</li>
+            <li>กรุณาตรวจเงื่อนไขการใช้สิทธิพิเศษแพ็คเกจตรวจสุขภาพราคาพิเศษที่โรงพยาบาลก่อนเสมอ</li>
+            <li>บริษัทฯ ขอสงวนสิทธิ์ในการเปลี่ยนแปลงรูปแบบแพ็คเกจตรวจสุขภาพ หรือรายการตรวจสุขภาพ หรือเงื่อนไขโดยไม่ต้องแจ้งให้ทราบล่วงหน้า</li>
+            <li>เงื่อนไขเป็นไปตามที่โรงพยาบาลกำหนด</li>
+            <li>คำตัดสินใดๆ ของบริษัทฯ หรือโรงพยาบาลถือเป็นที่สิ้นสุด</li>
+        </ul>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T084613Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sirisak
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong><span style="text-decoration: underline;">วิธีการรับสิทธิ์</span></strong></p>
+        <p style="margin-left: 40px;">ลูกค้าเอฟดับบลิวดีรับสิทธิพิเศษแพ็คเกจตรวจสุขภาพในราคาพิเศษ โดยสามารถรับสิทธิ์ได้ที่โรงพยาบาลที่กำหนด ตั้งแต่วันนี้ ถึงวันที่ 31 ธันวาคม 2563</p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong><span style="text-decoration: underline;">เงื่อนไขการใช้สิทธิ์</span></strong></p>
+        <ul>
+            <li>สิทธิพิเศษนี้สำหรับลูกค้าเอฟดับบลิวดีที่เป็นผู้เอาประกันเท่านั้น และไม่สามารถโอนสิทธิ์ให้บุคคลอื่นได้ทุกกรณี</li>
+            <li>สิทธิพิเศษนี้สำหรับลูกค้าเอฟดับบลิวดี Prompt, Plus และ Pride ที่ชำระค่าเบี้ยตามเงื่อนไข</li>
+            <li>ลูกค้าของเอฟดับบลิวดีต้องสำรองการใช้บริการจากโรงพยาบาลล่วงหน้า</li>
+            <li>กรุณาตรวจเงื่อนไขการใช้สิทธิพิเศษแพ็คเกจตรวจสุขภาพราคาพิเศษที่โรงพยาบาลก่อนเสมอ</li>
+            <li>บริษัทฯ ขอสงวนสิทธิ์ในการเปลี่ยนแปลงรูปแบบแพ็คเกจตรวจสุขภาพ หรือรายการตรวจสุขภาพ หรือเงื่อนไขโดยไม่ต้องแจ้งให้ทราบล่วงหน้า</li>
+            <li>เงื่อนไขเป็นไปตามที่โรงพยาบาลกำหนด</li>
+            <li>คำตัดสินใดๆ ของบริษัทฯ หรือโรงพยาบาลถือเป็นที่สิ้นสุด</li>
+        </ul>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200820T084613Z

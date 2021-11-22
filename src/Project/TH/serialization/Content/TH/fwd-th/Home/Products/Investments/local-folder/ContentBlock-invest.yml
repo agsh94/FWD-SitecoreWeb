@@ -1,0 +1,166 @@
+﻿---
+ID: "57778068-84c7-45e8-95c1-09df739563a3"
+Parent: "8e8b132c-0b84-4955-b883-e6cc82e3d2ab"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Investments/local-folder/ContentBlock-invest"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "9cb76228-fc26-48b7-bd66-1c6e133b625d"
+  Hint: secondaryLinkButtonMode
+  Value: "{B096E18E-DAAE-43A8-87DD-1775AD1F16B6}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{B17AAE79-70F2-42D7-98A6-1B0A3E896557}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200611T103511Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{B17AAE79-70F2-42D7-98A6-1B0A3E896557}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: Our carefully chosen domestic and foreign investment funds offer the potential of financial returns and future wealth.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Investment information
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See more information" anchor="" linktype="internal" class="" title=""  querystring="" id="{5504F779-9CCF-4A7D-9EF3-DAF930E507C8}" />
+  - Version: 2
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{B17AAE79-70F2-42D7-98A6-1B0A3E896557}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200903T041544Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{B17AAE79-70F2-42D7-98A6-1B0A3E896557}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p>Our carefully chosen domestic and foreign investment funds offer the potential of financial returns to help you build the financial future you want.</p>
+        <p>Select an option to see fund information from FWD or SCB</p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200903T041544Z
+    - ID: "d0be2ac7-85f9-4ba4-91da-613370dbd6d6"
+      Hint: secondaryLink
+      Value: |
+        <link text="SCB Funds" linktype="external" url="https://banca.fwd.co.th/unit-link-fund-list-and-performance?utm_source=nexgen&amp;utm_medium=investments_page&amp;utm_campaign=click_to_fund_list_en" anchor="" target="_blank" />
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Investment information
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="FWD Funds" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{5504F779-9CCF-4A7D-9EF3-DAF930E507C8}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{B17AAE79-70F2-42D7-98A6-1B0A3E896557}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200611T103917Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{B17AAE79-70F2-42D7-98A6-1B0A3E896557}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: กองทุนภายในประเทศ และกองทุนต่างประเทศชั้นนำที่เราคัดสรรมาให้คุณ เพื่อการลงทุนพร้อมผลตอบแทนที่ดี ช่วยเสริมสร้างความมั่นคงสำหรับอนาคต
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ข้อมูลการลงทุน
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ข้อมูลการลงทุน" anchor="" linktype="internal" class="" title=""  querystring="" id="{5504F779-9CCF-4A7D-9EF3-DAF930E507C8}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+  - Version: 2
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{B17AAE79-70F2-42D7-98A6-1B0A3E896557}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200903T042921Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{B17AAE79-70F2-42D7-98A6-1B0A3E896557}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p>กองทุนภายในประเทศ และกองทุนต่างประเทศชั้นนำที่เราคัดสรรมาให้คุณ เพื่อการลงทุนพร้อมผลตอบแทนที่ดี&nbsp;ช่วยเสริมสร้างอิสรภาพทางการเงินเพื่อให้คุณใช้ชีวิตในแบบที่คุณต้องการ</p>
+        <p>&nbsp;</p>
+        <p>เลือกช่องทางการหาข้อมูลกองทุนยูนิตลิงค์ของ FWD หรือ SCB</p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200903T042921Z
+    - ID: "d0be2ac7-85f9-4ba4-91da-613370dbd6d6"
+      Hint: secondaryLink
+      Value: |
+        <link text="กองทุนยูนิตลิงค์ SCB" linktype="external" url="https://banca.fwd.co.th/unit-link-fund-list-and-performance?utm_source=nexgen&amp;utm_medium=investments_page&amp;utm_campaign=click_to_fund_list" anchor="" target="_blank" />
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ข้อมูลการลงทุน
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="กองทุนยูนิตลิงค์ FWD " linktype="external" url="https://www.fwd.co.th/th/products/investments/fund-information/" anchor="" target="" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"

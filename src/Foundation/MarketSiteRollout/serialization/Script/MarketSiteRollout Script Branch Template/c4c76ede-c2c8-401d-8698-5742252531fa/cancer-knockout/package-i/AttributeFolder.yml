@@ -1,0 +1,14 @@
+﻿---
+ID: "02c9c936-a650-446e-95af-038a99e9dc4e"
+Parent: "c3a56568-bc46-4c43-9495-2e8691cf0789"
+Template: "8bee9bc5-6dab-4239-9e81-4377e5e0c5b2"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Health/cancer-knockout/package-i/AttributeFolder"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200614T190430Z

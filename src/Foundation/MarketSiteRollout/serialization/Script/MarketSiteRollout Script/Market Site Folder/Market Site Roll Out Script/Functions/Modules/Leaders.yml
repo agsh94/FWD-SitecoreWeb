@@ -1,0 +1,114 @@
+﻿---
+ID: "2e79f60c-eec3-4dc3-82a5-3a585a2c8ac5"
+Parent: "38a8fcc4-140e-40b2-bb61-f830003c6c80"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Functions/Modules/Leaders
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    param(
+    $params
+    )
+    
+    Import-Function Global-Functions
+    		if($params.Item){
+    Write-Log "11"
+    Write-Log $params.Item.ID
+    Write-Log $params.TemplateID
+    Write-Log $params.language
+    
+    	
+    		$newPath = $params.Item.ItemPath + '/Components'
+    		Write-Log $newPath 
+    		$newItem = Get-Item -Path $newPath
+    		$leadersItem = New-Item -Parent $newItem -Name "Leaders" -ItemType $params.TemplateID -Language $params.language
+    		
+    		$modules = Get-ItemInsertOptions $leadersItem
+    		$modulesSortedByKey = Get-OrderedDictionaryByKey $modules
+    		
+    		if ($modulesSortedByKey.Count -gt 0) {
+    		
+    		$LeadersFolder = New-Item -Parent $leadersItem -Name "global-leaders" -ItemType $modulesSortedByKey.'Leaders Folder' -Language $params.language
+    		$LeadersFolder.Editing.BeginEdit()
+    		$LeadersFolder["__Display name"] = "Global Leaders"
+    		$LeadersFolder["title"] = "Global Leaders"
+    		$LeadersFolder["cardVariant"] = "{21D6E3B0-DAD4-4DE5-A1CE-843A3DCCD6A8}"
+    		$LeadersFolder.Editing.EndEdit()
+    		
+    		$LeadersFoldermodules = Get-ItemInsertOptions $LeadersFolder
+    		$LeadersFoldermodulesSortedByKey = Get-OrderedDictionaryByKey $LeadersFoldermodules
+    		if ($LeadersFoldermodulesSortedByKey.Count -gt 0) {
+    		$Leaders1 = New-Item -Parent $LeadersFolder -Name "huynh-thanh-phong" -ItemType $LeadersFoldermodulesSortedByKey.'Profile' -Language $params.language
+    		Write-Log "Break5"
+    		$Leaders1.Editing.BeginEdit()
+    		Write-Log "Break8"
+    		$Leaders1["__Display name"] = "Huynh Thanh Phong"
+    		$Leaders1.Fields["name"].Value = "Huynh Thanh Phong"
+    		$Leaders1.Fields["designation"].Value = "Chairman, Board of FWD Group"
+    		$Leaders1.Fields["isFeatured"].Value = 1
+    		$Leaders1.Fields["quote"].Value = "<p><em>As FWD Group CEO, I share a strong passion with my team about changing the way people feel about insurance. I work closely with our leadership team to build FWD into a strong, cohesive business across Asia achieving our unified vision to bring change to the insurance landscape.</em></p>
+    <p><em>When FWD was born, we dared to be different and set out to challenge the traditional mind set of our industry. We wanted to create a new kind of insurer with customers where they deserve to be; at the very heart of our business. We believe in making it easy for people to understand and enjoy the benefits of insurance with straightforward products that are relevant to today&rsquo;s lifestyles. In Thailand, the FWD brand has already made great strides towards offering customers a differentiated, fresh experience of insurance, with the ethos of taking care of our customers&rsquo; worries so that they can live their life today with confidence.</em></p>"
+    		$Leaders1.Editing.EndEdit()
+    		Write-Log "Break1"
+    		$Leaders2 = New-Item -Parent $LeadersFolder -Name "the-hon-ronald-arculli" -ItemType $LeadersFoldermodulesSortedByKey.'Profile' -Language $params.language
+    		$Leaders2.Editing.BeginEdit()
+    		Write-Log "Break2"
+    		$Leaders2["__Display name"] = "The Hon, Ronald Arculli"
+    		$Leaders2.Fields["name"].Value = "The Hon, Ronald Arculli"
+    		$Leaders2.Fields["designation"].Value = "Chairman, Board of FWD Group"
+    		$Leaders2.Fields["isFeatured"].Value = 1
+    		$Leaders2.Fields["quote"].Value = "<p><em>As FWD Group CEO, I share a strong passion with my team about changing the way people feel about insurance. I work closely with our leadership team to build FWD into a strong, cohesive business across Asia achieving our unified vision to bring change to the insurance landscape.</em></p>
+    										   <p><em>
+    										   When FWD was born, we dared to be different and set out to challenge the traditional mind set of our industry. We wanted to create a new kind of insurer with customers where they deserve to be; at the very heart of our business. We believe in making it easy for people to understand and enjoy the benefits of insurance with straightforward products that are relevant to today&rsquo;s lifestyles. In Thailand, the FWD brand has already made great strides towards offering customers a differentiated, fresh experience of insurance, with the ethos of taking care of our customers&rsquo; worries so that they can live their life today with confidence.
+    										   </em></p>"
+    										  
+    		$Leaders2.Editing.EndEdit()
+    		}
+    		
+    		$LeadersFolder = New-Item -Parent $leadersItem -Name "local-leaders" -ItemType $modulesSortedByKey.'Leaders Folder' -Language $params.language
+    		$LeadersFolder.Editing.BeginEdit()
+    		$LeadersFolder["__Display name"] = "Local Leaders"
+    		$LeadersFolder["title"] = "Local Leaders"
+    		$LeadersFolder["cardVariant"] = "{C0DF1746-485D-4546-AEB1-6F1313FE52D9}"
+    		$LeadersFolder.Editing.EndEdit()
+    		
+    		$LeadersFoldermodules = Get-ItemInsertOptions $LeadersFolder
+    		$LeadersFoldermodulesSortedByKey = Get-OrderedDictionaryByKey $LeadersFoldermodules
+    		if ($LeadersFoldermodulesSortedByKey.Count -gt 0) {
+    		$Leaders1 = New-Item -Parent $LeadersFolder -Name "apirak-chitranondh" -ItemType $LeadersFoldermodulesSortedByKey.'Profile' -Language $params.language
+    		$Leaders1.Editing.BeginEdit()
+    		$Leaders1["__Display name"] = "Apirak Chitranondh"
+    		$Leaders1.Fields["name"].Value = "Apirak Chitranondh"
+    		$Leaders1.Fields["designation"].Value = "Chief Technology and Operations Officer"
+    		$Leaders1.Fields["isFeatured"].Value = 1
+    		$Leaders1.Fields["quote"].Value = "<p><em>As FWD Group CEO, I share a strong passion with my team about changing the way people feel about insurance. I work closely with our leadership team to build FWD into a strong, cohesive business across Asia achieving our unified vision to bring change to the insurance landscape.</em></p>
+    										   <p><em>
+    										   When FWD was born, we dared to be different and set out to challenge the traditional mind set of our industry. We wanted to create a new kind of insurer with customers where they deserve to be; at the very heart of our business. We believe in making it easy for people to understand and enjoy the benefits of insurance with straightforward products that are relevant to today&rsquo;s lifestyles. In Thailand, the FWD brand has already made great strides towards offering customers a differentiated, fresh experience of insurance, with the ethos of taking care of our customers&rsquo; worries so that they can live their life today with confidence.
+    										   </em></p>"
+    		$Leaders1.Editing.EndEdit()
+    		
+    		$Leaders2 = New-Item -Parent $LeadersFolder -Name "david-broom" -ItemType $LeadersFoldermodulesSortedByKey.'Profile' -Language $params.language
+    		$Leaders2.Editing.BeginEdit()
+    		$Leaders2["__Display name"] = "Mahima Tankha Marwah"
+    		$Leaders2.Fields["name"].Value = "Mahima Tankha Marwah"
+    		$Leaders2.Fields["designation"].Value = "Head of Sales & Marketing, Direct to Customer"
+    		$Leaders2.Fields["isFeatured"].Value = 0
+    		$Leaders2.Fields["quote"].Value = "<p><em>As FWD Group CEO, I share a strong passion with my team about changing the way people feel about insurance. I work closely with our leadership team to build FWD into a strong, cohesive business across Asia achieving our unified vision to bring change to the insurance landscape.</em></p>
+    										   <p><em>
+    										   When FWD was born, we dared to be different and set out to challenge the traditional mind set of our industry. We wanted to create a new kind of insurer with customers where they deserve to be; at the very heart of our business. We believe in making it easy for people to understand and enjoy the benefits of insurance with straightforward products that are relevant to today&rsquo;s lifestyles. In Thailand, the FWD brand has already made great strides towards offering customers a differentiated, fresh experience of insurance, with the ethos of taking care of our customers&rsquo; worries so that they can live their life today with confidence.
+    										   </em></p>"
+    		$Leaders2.Editing.EndEdit()
+    		}
+    		
+    		}
+    		}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200522T074645Z

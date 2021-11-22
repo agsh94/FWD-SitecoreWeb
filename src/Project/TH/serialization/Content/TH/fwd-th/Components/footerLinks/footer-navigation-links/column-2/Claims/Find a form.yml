@@ -1,0 +1,43 @@
+﻿---
+ID: "1f66df00-095b-4c41-9e70-3188c99920f0"
+Parent: "6c17bfb7-d526-45b3-a8b6-ec8b32c9d45c"
+Template: "8bac8cc4-dec2-4c0c-9d84-6dfb7d398819"
+Path: "/sitecore/content/fwd/fwd-th/Components/footerLinks/footer-navigation-links/column-2/Claims/Find a form"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200225T081909Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="ค้นหาแบบฟอร์ม" anchor="" linktype="internal" class="" title=""  querystring="" id="{6EDDED5F-86D9-4C1B-82ED-846BB127475D}" />
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: Find a form
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200314T094101Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="ค้นหาแบบฟอร์ม" anchor="" linktype="internal" class="" title=""  querystring="" id="{6EDDED5F-86D9-4C1B-82ED-846BB127475D}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: ค้นหาแบบฟอร์ม

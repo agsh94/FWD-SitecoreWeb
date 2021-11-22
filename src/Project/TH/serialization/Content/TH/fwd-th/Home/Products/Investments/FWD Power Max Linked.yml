@@ -1,0 +1,898 @@
+﻿---
+ID: "f62bdd9f-a6e4-4c9b-9e33-8c2a707db5d0"
+Parent: "d0fda387-c773-4046-9dcd-bfa0e0a4363a"
+Template: "0ba5819e-97b4-4ed8-8f4c-2363603b4faf"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Investments/FWD Power Max Linked"
+DB: master
+SharedFields:
+- ID: "0335b2bf-73a5-4556-845c-3d293900a051"
+  Hint: calculationOptions
+  Type: Multilist
+  Value: "{4427E37A-FF0A-4C22-956A-B6775EE2D406}"
+- ID: "1294d890-c666-4ba0-b34a-68aaacfb432c"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: |
+    {390404DC-4C70-4662-B09E-5FB89B7B5294}
+    {FE8587F2-045F-44A2-83AC-6058AF7CC0AF}
+    {78547D81-08B8-4BA5-96A9-99C53E609994}
+- ID: "1d3856ad-c8db-42d3-b82a-e7d555d1c57b"
+  Hint: contentType
+  Value: "{A57B5556-98B3-4112-AC9F-1926D90455B8}"
+- ID: "1e782c94-c96a-4b39-b307-11d29bd39b83"
+  Hint: parameters
+  Value: "{A92C4649-6913-4A36-BC07-4E6095C518E2}=Corporate-FWDPowerMaxLink&{D8401411-ACDC-4221-A0B9-BF30463B2E5C}=%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%20%E0%B8%9E%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%20%E0%B9%81%E0%B8%A1%E0%B8%81%E0%B8%8B%E0%B9%8C%20%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%84%E0%B9%8C&{2DB614A6-AFE0-48C9-BADF-9E86E1D8081A}=Y"
+- ID: "27dcf3b3-6b64-45be-9830-7b18e7b5a30d"
+  Hint: purchaseMethod
+  Type: Multilist
+  Value: "{9C0ACDAD-FDB8-4D81-98AD-4A6D09F5A0F8}"
+- ID: "3d992b17-a5b9-46ad-ad74-057f59dde04e"
+  Hint: userType
+  Type: Multilist
+  Value: "{4C697943-FF95-4B21-9636-95C25F2A1A56}"
+- ID: "4058782f-999d-4033-ab82-5118826726a0"
+  Hint: associatedRiders
+  Type: Multilist
+  Value: 
+- ID: "40e7cd76-1c3f-4c59-9add-5d87fd722c95"
+  Hint: minimumSumAssured
+  Value: 60000
+- ID: "53e81091-36e9-4fae-82ef-cc970323fb4a"
+  Hint: promotionLabel
+  Value: "{434831C0-612F-4135-8264-BCFDCC6EF27D}"
+- ID: "5da84e26-edc9-46f4-a612-9d0a06f10f78"
+  Hint: maxAge
+  Value: 70
+- ID: "64abb349-60f0-4cdd-ba49-85d3e30a064c"
+  Hint: maximumSumAssured
+  Value: 150000000
+- ID: "71c19061-4acb-437b-aa10-bce14430a683"
+  Hint: premiumSelectionType
+  Value: 
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: "{FB2C4A8A-0593-44B7-B7C4-AE07AF4F8BB2}"
+- ID: "7d20a10f-7240-498c-8d45-8942c18fbf10"
+  Hint: enableEnquiryForRiders
+  Type: Checkbox
+  Value: 0
+- ID: "7d65632c-3707-4aa1-8fde-154708f5309b"
+  Hint: secondaryNeedTags
+  Type: Multilist
+  Value: |
+    {07176E71-7DA2-4DCD-B6F8-2B1DF480446C}
+    {87BCE3A9-7726-407E-9B01-A1D226C9EE35}
+- ID: "93d1b217-b8f4-462e-babf-68298c9ce667"
+  Hint: __Boost
+  Value: 
+- ID: "94def7f2-cb5c-478d-b5a3-58b9337cec2f"
+  Hint: minAge
+  Value: 0
+- ID: "95f6d4a5-8a21-4df1-bc3f-854aec6266e0"
+  Hint: premiumRange
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "af94fe71-3c3b-4b14-ae3a-dca68b492f9f"
+  Hint: expectedInsuranceType
+  Value: "{962342C9-BADC-498C-8955-F4E25871918F}"
+- ID: "b3910e5d-a842-4cc7-ac42-7a16a325a534"
+  Hint: promotionLabelIcon
+  Value: "{5068E94F-A8F8-4A5A-BD88-A77A00E7EA31}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "bdc75d02-2884-4dbb-a5a1-f54b2d539328"
+  Hint: featuredTags
+  Type: Treelist
+  Value: |
+    {390404DC-4C70-4662-B09E-5FB89B7B5294}
+    {07176E71-7DA2-4DCD-B6F8-2B1DF480446C}
+    {87BCE3A9-7726-407E-9B01-A1D226C9EE35}
+- ID: "d04d0a5a-daaf-4457-8f38-dea817dd2bc4"
+  Hint: scoreValue
+  Value: 1
+- ID: "d6808233-3de8-4fab-96ca-e3fb61c8f9b9"
+  Hint: exploreRiders
+  Type: Checkbox
+  Value: 0
+- ID: "d9c07f77-f259-40d6-a5ba-9d6d81f78602"
+  Hint: sumAssuredRange
+  Value: 
+- ID: "e09501cb-adda-4125-a787-ba70b6b7e436"
+  Hint: planComponent
+  Value: "{9D9F10E7-DC62-4691-94AB-0EF6994615D8}"
+- ID: "e3e8c0b9-206d-4244-979b-966180ad502e"
+  Hint: sumAssuredPaymentMode
+  Type: Multilist
+  Value: |
+    {A90AED14-A023-4680-B2BE-A1999121D860}
+    {30D4F456-6094-443C-B87F-90D7EF7C2F6E}
+    {733A0160-DEBE-4F25-B188-819B3CF815A2}
+    {F6488E62-B165-449F-A3EE-43234D6D7C72}
+- ID: "ed85308c-d1e0-4bc4-95d2-6f72dd0a983e"
+  Hint: minimumPremiumYearly
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{606FF16E-4FAC-4C55-98B3-C6EE79AA7475}">
+          <p:d />
+        </r>
+        <r
+          uid="{808C51CE-8541-4E4D-9C04-39A4011DF61A}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{C2CB6CA5-6DEF-455C-B0A4-3D28C01F9542}">
+          <p:d />
+        </r>
+        <r
+          uid="{7012E87D-C313-4376-B649-0C07FC12BA20}">
+          <p:d />
+        </r>
+        <r
+          uid="{1184198A-77E0-4F06-BFA0-54CA9531BA41}">
+          <p:d />
+        </r>
+        <r
+          uid="{E1EC597E-F63A-4980-A499-546FED1EB9F4}">
+          <p:d />
+        </r>
+        <r
+          uid="{47437E79-5354-4606-B676-72A0A8945078}">
+          <p:d />
+        </r>
+        <r
+          uid="{E6AC0ECB-1A98-414B-B6AA-D632D99A1DA8}">
+          <p:d />
+        </r>
+        <r
+          uid="{C3F351D8-21BB-4AF1-BDE2-D39F3DB180AE}">
+          <p:d />
+        </r>
+        <r
+          uid="{0EEE59D8-F86D-421A-B694-0CC8914D70C3}">
+          <p:d />
+        </r>
+        <r
+          uid="{9EEDE03B-3F95-4F1B-9B83-7C679C83EB6A}">
+          <p:d />
+        </r>
+        <r
+          uid="{8B3007D1-AC88-4653-9572-847E96DB5E5E}">
+          <p:d />
+        </r>
+        <r
+          uid="{F1EB48CC-BD8F-4B84-8AEE-B6447184624C}"
+          p:after="r[@uid='{808C51CE-8541-4E4D-9C04-39A4011DF61A}']"
+          s:ds="{E4E4820F-EAC3-44FE-8119-4870D9F0FEC8}"
+          s:id="{5410E093-9B56-4C2F-B411-9FB3702CBC63}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;HeroBannerVariant&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;PlayVideoInBackground&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{6B3EC02B-7B8C-4519-B02D-3AA2C198271B}"
+          p:after="r[@uid='{F1EB48CC-BD8F-4B84-8AEE-B6447184624C}']"
+          s:ds="{A00DFFFA-DB0A-4D25-9271-BFBAB879D0DA}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType=%7BE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7D&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{6A77D29F-E1A6-4247-A82B-E383D491452E}"
+          p:after="r[@uid='{6B3EC02B-7B8C-4519-B02D-3AA2C198271B}']"
+          s:ds="{D8A84ACC-FB2B-4C1E-B6EA-E0D0BAC0C81A}"
+          s:id="{1B2D4D22-4BFA-48E9-ACD5-0120D07747F3}"
+          s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;cardStyle=%7bD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7d&amp;cardType&amp;divider&amp;backgroundColor=%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d&amp;cardVariant=%7bC0DF1746-485D-4546-AEB1-6F1313FE52D9%7d"
+          s:ph="jss-main" />
+        <r
+          uid="{44B5060A-A107-4564-830D-50B4035717AD}"
+          p:after="r[@uid='{6A77D29F-E1A6-4247-A82B-E383D491452E}']"
+          s:ds="{AA56F53D-D483-4FC0-93DE-1838C8849DA4}"
+          s:id="{3EE18C0F-61A1-458B-B8CB-084414663766}"
+          s:par="paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;anchorText&amp;divider&amp;backgroundColor=%7b7FE90E5C-F76F-4338-94E9-1BF81D5785A2%7d&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d"
+          s:ph="jss-main" />
+        <r
+          uid="{57275485-1464-40DE-863F-6A4CE709F08E}"
+          p:after="r[@uid='{44B5060A-A107-4564-830D-50B4035717AD}']"
+          s:ds="{FF6FDF13-55E8-436C-8EF1-C7689DB58745}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{C46712B1-1BF5-4421-937D-0C0FD2FC8E95}"
+          p:after="r[@uid='{57275485-1464-40DE-863F-6A4CE709F08E}']"
+          s:ds="{DD95E8F8-9F5D-42AE-A638-FCFB91E6F89A}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="jss-main1" />
+        <r
+          uid="{0E87FC45-ABAA-426E-A211-68FA21169969}"
+          p:after="r[@uid='{C46712B1-1BF5-4421-937D-0C0FD2FC8E95}']"
+          s:ds="{E690B7FA-BD24-462D-8174-92ED76106070}"
+          s:id="{4A816582-39CE-4F69-BCDE-010F91E0C947}"
+          s:par="hideCardImage=1&amp;paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;anchorText&amp;backgroundColor=%7bB47928D6-98FC-4B29-8D0F-586AB477286E%7d&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{2D63EC00-81FF-45BE-BEF6-E9902682D0FE}"
+          p:after="r[@uid='{0E87FC45-ABAA-426E-A211-68FA21169969}']"
+          s:ds="{F0A028B8-2ED8-4AE5-8427-545CE12BE589}"
+          s:id="{251042B9-4BD2-47B4-A9A9-F097EB5C71B3}"
+          s:par="anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{52BF7FB6-1CA2-405C-B13E-88F6B1CB9FEC}"
+          p:after="r[@uid='{2D63EC00-81FF-45BE-BEF6-E9902682D0FE}']"
+          s:ds="{3C5E1B06-49CE-45D3-AB22-2F6112A15256}"
+          s:id="{FC55218D-3368-4037-B642-7FD35BD96EA1}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{F4EF39FF-68E2-450B-98DB-873EC320196B}"
+          p:after="r[@uid='{52BF7FB6-1CA2-405C-B13E-88F6B1CB9FEC}']"
+          s:ds="{90AD13F6-12C4-4759-80F3-766DCFD6E07A}"
+          s:id="{E9189BB0-4352-4FC7-B5F6-7C992E35E897}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;variant&amp;anchorText&amp;backgroundColor=%7bB47928D6-98FC-4B29-8D0F-586AB477286E%7d&amp;buttonAlignment=%7b8570C16E-5CA9-4A85-8A62-C661A5B4350B%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{7A8A7442-12D7-4FF8-9AE0-BC258A93722A}">
+          <p:d />
+        </r>
+        <r
+          uid="{72915C72-E238-42CD-B55C-292749D539FD}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+      </d>
+    </r>
+- ID: "fac6da5e-91c2-4a88-869d-c13ee530df7c"
+  Hint: maximumPremiumYearly
+  Value: 
+- ID: "feb2e6da-b570-4b5e-9d80-80ccad7d0d47"
+  Hint: sumAssuredSelectionType
+  Value: "{5AAFB9B3-C726-43C7-B42B-3D7CB583EF7A}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: FWD Power Max Linked
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{555FE8BF-E30B-41CE-B653-412FCBDAF40A}">
+              <p:d />
+            </r>
+            <r
+              uid="{6081A532-6D1D-4E97-A987-D39F00710EE2}">
+              <p:d />
+            </r>
+            <r
+              uid="{F4EF39FF-68E2-450B-98DB-873EC320196B}"
+              p:after="p[@uid='{FEF920EC-26A0-4273-A671-D2D80186567C}']"
+              s:ph="/jss-main/jss-col-2-{ED8A1E4C-A159-4DF8-AFC6-55049DF1E431}-0" />
+            <r
+              uid="{9508033F-C597-475C-AC36-914DE1B2715C}"
+              p:after="r[@uid='{F4EF39FF-68E2-450B-98DB-873EC320196B}']"
+              s:ds="{3C5E1B06-49CE-45D3-AB22-2F6112A15256}"
+              s:id="{FC55218D-3368-4037-B642-7FD35BD96EA1}"
+              s:par="anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+              s:ph="/jss-main/jss-col-1-{ED8A1E4C-A159-4DF8-AFC6-55049DF1E431}-0" />
+            <r
+              uid="{808C51CE-8541-4E4D-9C04-39A4011DF61A}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bF9F5FC4E-89D7-4701-A560-C0A7179384CB%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d÷r" />
+            <r
+              uid="{57275485-1464-40DE-863F-6A4CE709F08E}"
+              s:ph="jss-main1" />
+            <r
+              uid="{0E87FC45-ABAA-426E-A211-68FA21169969}"
+              s:par="hideCardImage=1&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{2D63EC00-81FF-45BE-BEF6-E9902682D0FE}"
+              s:ph="jss-main-1" />
+            <r
+              uid="{52BF7FB6-1CA2-405C-B13E-88F6B1CB9FEC}">
+              <p:d />
+            </r>
+            <r
+              uid="{ED8A1E4C-A159-4DF8-AFC6-55049DF1E431}"
+              p:after="r[@uid='{2D63EC00-81FF-45BE-BEF6-E9902682D0FE}']"
+              s:ds=""
+              s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+              s:par="numberOfColumns=%7B41CCF7E7-59F7-494A-80D1-0EB88C898A10%7D&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D%7C%7BCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7D&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{D8B79D6B-42A8-4A0E-8708-DB9C188854D0}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;variant&amp;buttonVariant=%7b4DCB1D75-378A-454A-AB35-7C739D877279%7d&amp;buttonMode=%7b2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9%7d&amp;buttonColor&amp;anchorText&amp;backgroundColor=%7bF9F5FC4E-89D7-4701-A560-C0A7179384CB%7d&amp;buttonAlignment=%7bCF02F396-DAFD-448E-BC19-15E66C7CBA54%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d÷r" />
+          </d>
+        </r>
+    - ID: "15f18762-01e2-437e-b510-403b009e0846"
+      Hint: openGraphType
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T102834Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: "Our investment-linked life plan gives the benefits of high protection, the freedom to press pause on premium payments, and potential investment returns. "
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: FWD Power Max Linked
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: FWD Power Max Linked
+    - ID: "8960d36d-84b0-4f47-aa98-a0e27a3903b8"
+      Hint: openGraphImage
+      Value: 
+    - ID: "975e0bc5-6e06-4308-bbbb-0fe142392035"
+      Hint: openGraphDescription
+      Value: 
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{88FC1ABE-CCEA-4C07-82DF-C808E706C0D4}" cropx="0.49" cropy="0.43" focusx="-0.01754385964912286" focusy="0.140625" />
+    - ID: "b4393f91-607a-4d89-95a0-789367db8822"
+      Hint: isFeatured
+      Type: Checkbox
+      Value: 0
+    - ID: "bbfa9df5-92c5-4dc7-8367-b969613fd8d4"
+      Hint: openGraphURL
+      Value: 
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{88FC1ABE-CCEA-4C07-82DF-C808E706C0D4}" cropx="0.50" cropy="0.20" focusx="0" focusy="0.59375" />
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: Protection, investment, unit link, tax deductible
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: "Our investment-linked life plan gives the benefits of high protection, the freedom to press pause on premium payments, and potential investment returns. "
+    - ID: "fdf6a80f-16e1-4a1d-9b7b-f3f181276725"
+      Hint: openGraphTitle
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{555FE8BF-E30B-41CE-B653-412FCBDAF40A}">
+              <p:d />
+            </r>
+            <r
+              uid="{6081A532-6D1D-4E97-A987-D39F00710EE2}">
+              <p:d />
+            </r>
+            <r
+              uid="{F4EF39FF-68E2-450B-98DB-873EC320196B}"
+              p:after="p[@uid='{FEF920EC-26A0-4273-A671-D2D80186567C}']"
+              s:ph="/jss-main/jss-col-2-{ED8A1E4C-A159-4DF8-AFC6-55049DF1E431}-0" />
+            <r
+              uid="{9508033F-C597-475C-AC36-914DE1B2715C}"
+              p:after="r[@uid='{F4EF39FF-68E2-450B-98DB-873EC320196B}']"
+              s:ds="{3C5E1B06-49CE-45D3-AB22-2F6112A15256}"
+              s:id="{FC55218D-3368-4037-B642-7FD35BD96EA1}"
+              s:par="anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+              s:ph="/jss-main/jss-col-1-{ED8A1E4C-A159-4DF8-AFC6-55049DF1E431}-0" />
+            <r
+              uid="{808C51CE-8541-4E4D-9C04-39A4011DF61A}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bF9F5FC4E-89D7-4701-A560-C0A7179384CB%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d÷r" />
+            <r
+              uid="{57275485-1464-40DE-863F-6A4CE709F08E}"
+              s:ph="jss-main1" />
+            <r
+              uid="{0E87FC45-ABAA-426E-A211-68FA21169969}"
+              s:par="hideCardImage=1&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{2D63EC00-81FF-45BE-BEF6-E9902682D0FE}"
+              s:ph="jss-main-1" />
+            <r
+              uid="{52BF7FB6-1CA2-405C-B13E-88F6B1CB9FEC}">
+              <p:d />
+            </r>
+            <r
+              uid="{ED8A1E4C-A159-4DF8-AFC6-55049DF1E431}"
+              p:after="r[@uid='{2D63EC00-81FF-45BE-BEF6-E9902682D0FE}']"
+              s:ds=""
+              s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+              s:par="numberOfColumns=%7B41CCF7E7-59F7-494A-80D1-0EB88C898A10%7D&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D%7C%7BCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7D&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{D8B79D6B-42A8-4A0E-8708-DB9C188854D0}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;variant&amp;buttonVariant=%7b4DCB1D75-378A-454A-AB35-7C739D877279%7d&amp;buttonMode=%7b2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9%7d&amp;buttonColor&amp;anchorText&amp;backgroundColor=%7bF9F5FC4E-89D7-4701-A560-C0A7179384CB%7d&amp;buttonAlignment=%7bCF02F396-DAFD-448E-BC19-15E66C7CBA54%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d÷r" />
+          </d>
+        </r>
+    - ID: "15f18762-01e2-437e-b510-403b009e0846"
+      Hint: openGraphType
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201009T081740Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: "Our investment-linked life plan gives the benefits of high protection, the freedom to press pause on premium payments, and potential investment returns. "
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: Power Max Linked
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: FWD Power Max Linked
+    - ID: "8960d36d-84b0-4f47-aa98-a0e27a3903b8"
+      Hint: openGraphImage
+      Value: 
+    - ID: "975e0bc5-6e06-4308-bbbb-0fe142392035"
+      Hint: openGraphDescription
+      Value: 
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{88FC1ABE-CCEA-4C07-82DF-C808E706C0D4}" cropx="0.49" cropy="0.43" focusx="-0.01754385964912286" focusy="0.140625" />
+    - ID: "b4393f91-607a-4d89-95a0-789367db8822"
+      Hint: isFeatured
+      Type: Checkbox
+      Value: 0
+    - ID: "bbfa9df5-92c5-4dc7-8367-b969613fd8d4"
+      Hint: openGraphURL
+      Value: 
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201009T081740Z
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{88FC1ABE-CCEA-4C07-82DF-C808E706C0D4}" cropx="0.50" cropy="0.20" focusx="0" focusy="0.59375" />
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: Protection, investment, unit link, tax deductible
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: |
+        If you’re looking to invest but also want to be in control of your investments, this plan offers max protection without max sacrifice.
+        
+        
+    - ID: "fdf6a80f-16e1-4a1d-9b7b-f3f181276725"
+      Hint: openGraphTitle
+      Value: 
+  - Version: 3
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{555FE8BF-E30B-41CE-B653-412FCBDAF40A}">
+              <p:d />
+            </r>
+            <r
+              uid="{6081A532-6D1D-4E97-A987-D39F00710EE2}">
+              <p:d />
+            </r>
+            <r
+              uid="{F4EF39FF-68E2-450B-98DB-873EC320196B}"
+              p:after="p[@uid='{FEF920EC-26A0-4273-A671-D2D80186567C}']"
+              s:ph="/jss-main/jss-col-2-{ED8A1E4C-A159-4DF8-AFC6-55049DF1E431}-0" />
+            <r
+              uid="{9508033F-C597-475C-AC36-914DE1B2715C}"
+              p:after="r[@uid='{F4EF39FF-68E2-450B-98DB-873EC320196B}']"
+              s:ds="{3C5E1B06-49CE-45D3-AB22-2F6112A15256}"
+              s:id="{FC55218D-3368-4037-B642-7FD35BD96EA1}"
+              s:par="anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+              s:ph="/jss-main/jss-col-1-{ED8A1E4C-A159-4DF8-AFC6-55049DF1E431}-0" />
+            <r
+              uid="{808C51CE-8541-4E4D-9C04-39A4011DF61A}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bF9F5FC4E-89D7-4701-A560-C0A7179384CB%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d÷r" />
+            <r
+              uid="{57275485-1464-40DE-863F-6A4CE709F08E}"
+              s:ph="jss-main1" />
+            <r
+              uid="{0E87FC45-ABAA-426E-A211-68FA21169969}"
+              s:par="hideCardImage=1&amp;showProductCTA&amp;anchorText&amp;backgroundColor=%7B74965DCF-F22E-47B3-BE45-1D05679CE13E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{2D63EC00-81FF-45BE-BEF6-E9902682D0FE}"
+              s:ph="jss-main-1" />
+            <r
+              uid="{52BF7FB6-1CA2-405C-B13E-88F6B1CB9FEC}">
+              <p:d />
+            </r>
+            <r
+              uid="{ED8A1E4C-A159-4DF8-AFC6-55049DF1E431}"
+              p:after="r[@uid='{2D63EC00-81FF-45BE-BEF6-E9902682D0FE}']"
+              s:ds=""
+              s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+              s:par="numberOfColumns=%7B41CCF7E7-59F7-494A-80D1-0EB88C898A10%7D&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D%7C%7BCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7D&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{D8B79D6B-42A8-4A0E-8708-DB9C188854D0}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;variant&amp;buttonVariant=%7b4DCB1D75-378A-454A-AB35-7C739D877279%7d&amp;buttonMode=%7b2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9%7d&amp;buttonColor&amp;anchorText&amp;backgroundColor=%7bF9F5FC4E-89D7-4701-A560-C0A7179384CB%7d&amp;buttonAlignment=%7bCF02F396-DAFD-448E-BC19-15E66C7CBA54%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d÷r" />
+          </d>
+        </r>
+    - ID: "15f18762-01e2-437e-b510-403b009e0846"
+      Hint: openGraphType
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201012T063534Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: "Our investment-linked life plan gives the benefits of high protection, the freedom to press pause on premium payments, and potential investment returns. "
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: Power Max Linked
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: FWD Power Max Linked
+    - ID: "8960d36d-84b0-4f47-aa98-a0e27a3903b8"
+      Hint: openGraphImage
+      Value: 
+    - ID: "975e0bc5-6e06-4308-bbbb-0fe142392035"
+      Hint: openGraphDescription
+      Value: 
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{88FC1ABE-CCEA-4C07-82DF-C808E706C0D4}" cropx="0.49" cropy="0.43" focusx="-0.01754385964912286" focusy="0.140625" />
+    - ID: "b4393f91-607a-4d89-95a0-789367db8822"
+      Hint: isFeatured
+      Type: Checkbox
+      Value: 0
+    - ID: "bbfa9df5-92c5-4dc7-8367-b969613fd8d4"
+      Hint: openGraphURL
+      Value: 
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201012T063534Z
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{88FC1ABE-CCEA-4C07-82DF-C808E706C0D4}" cropx="0.50" cropy="0.20" focusx="0" focusy="0.59375" />
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: Protection, investment, unit link, tax deductible
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: |
+        If you’re looking to invest but also want to be in control of your investments, this plan offers max protection without max sacrifice.
+        
+        
+    - ID: "fdf6a80f-16e1-4a1d-9b7b-f3f181276725"
+      Hint: openGraphTitle
+      Value: 
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: FWD Power Max Linked
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F4EF39FF-68E2-450B-98DB-873EC320196B}"
+              p:after="p[@uid='{FEF920EC-26A0-4273-A671-D2D80186567C}']"
+              s:ph="/jss-main/jss-col-2-{C909A8E2-FB62-4B31-9F5A-665A911D942A}-0" />
+            <r
+              uid="{6081A532-6D1D-4E97-A987-D39F00710EE2}"
+              p:after="r[@uid='{F4EF39FF-68E2-450B-98DB-873EC320196B}']"
+              s:ds="{3C5E1B06-49CE-45D3-AB22-2F6112A15256}"
+              s:id="{FC55218D-3368-4037-B642-7FD35BD96EA1}"
+              s:par="anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+              s:ph="/jss-main/jss-col-1-{C909A8E2-FB62-4B31-9F5A-665A911D942A}-0" />
+            <r
+              uid="{808C51CE-8541-4E4D-9C04-39A4011DF61A}"
+              s:par="anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D÷r" />
+            <r
+              uid="{2D63EC00-81FF-45BE-BEF6-E9902682D0FE}"
+              s:par="anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{52BF7FB6-1CA2-405C-B13E-88F6B1CB9FEC}">
+              <p:d />
+            </r>
+            <r
+              uid="{C909A8E2-FB62-4B31-9F5A-665A911D942A}"
+              p:after="r[@uid='{2D63EC00-81FF-45BE-BEF6-E9902682D0FE}']"
+              s:ds=""
+              s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+              s:par="numberOfColumns=%7B41CCF7E7-59F7-494A-80D1-0EB88C898A10%7D&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D%7C%7BCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7D&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+          </d>
+        </r>
+    - ID: "15f18762-01e2-437e-b510-403b009e0846"
+      Hint: openGraphType
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055157Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: แผนประกันชีวิตควบการลงทุนของเรา ให้คุ้มครองสูง พร้อมโอกาสในการได้รับผลตอบแทนจากการลงทุน ทั้งยังให้อิสระคุณในการหยุดพักชำระเบี้ยฯ เมื่อจำเป็น
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: เอฟดับบลิวดี พาวเวอร์แมกซ์ลิงค์ (ยูนิตลิงค์)
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: เอฟดับบลิวดี พาวเวอร์แมกซ์ลิงค์ (ยูนิตลิงค์) 
+    - ID: "8960d36d-84b0-4f47-aa98-a0e27a3903b8"
+      Hint: openGraphImage
+      Value: 
+    - ID: "975e0bc5-6e06-4308-bbbb-0fe142392035"
+      Hint: openGraphDescription
+      Value: 
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{88FC1ABE-CCEA-4C07-82DF-C808E706C0D4}" cropx="0.48" cropy="0.45" focusx="-0.04385964912280704" focusy="0.09375" />
+    - ID: "b4393f91-607a-4d89-95a0-789367db8822"
+      Hint: isFeatured
+      Type: Checkbox
+      Value: 0
+    - ID: "bbfa9df5-92c5-4dc7-8367-b969613fd8d4"
+      Hint: openGraphURL
+      Value: 
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{88FC1ABE-CCEA-4C07-82DF-C808E706C0D4}" />
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value:  ความคุ้มครอง, การลงทุน, ยูนิตลิงก์, ลดหย่อนภาษี
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: แผนประกันชีวิตควบการลงทุนของเรา ให้คุ้มครองสูง พร้อมโอกาสในการได้รับผลตอบแทนจากการลงทุน ทั้งยังให้อิสระคุณในการหยุดพักชำระเบี้ยฯ เมื่อจำเป็น
+    - ID: "fdf6a80f-16e1-4a1d-9b7b-f3f181276725"
+      Hint: openGraphTitle
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F4EF39FF-68E2-450B-98DB-873EC320196B}"
+              p:after="p[@uid='{FEF920EC-26A0-4273-A671-D2D80186567C}']"
+              s:ph="/jss-main/jss-col-2-{C909A8E2-FB62-4B31-9F5A-665A911D942A}-0" />
+            <r
+              uid="{6081A532-6D1D-4E97-A987-D39F00710EE2}"
+              p:after="r[@uid='{F4EF39FF-68E2-450B-98DB-873EC320196B}']"
+              s:ds="{3C5E1B06-49CE-45D3-AB22-2F6112A15256}"
+              s:id="{FC55218D-3368-4037-B642-7FD35BD96EA1}"
+              s:par="anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+              s:ph="/jss-main/jss-col-1-{C909A8E2-FB62-4B31-9F5A-665A911D942A}-0" />
+            <r
+              uid="{808C51CE-8541-4E4D-9C04-39A4011DF61A}"
+              s:par="anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D÷r" />
+            <r
+              uid="{2D63EC00-81FF-45BE-BEF6-E9902682D0FE}"
+              s:par="anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{52BF7FB6-1CA2-405C-B13E-88F6B1CB9FEC}">
+              <p:d />
+            </r>
+            <r
+              uid="{C909A8E2-FB62-4B31-9F5A-665A911D942A}"
+              p:after="r[@uid='{2D63EC00-81FF-45BE-BEF6-E9902682D0FE}']"
+              s:ds=""
+              s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+              s:par="numberOfColumns=%7B41CCF7E7-59F7-494A-80D1-0EB88C898A10%7D&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D%7C%7BCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7D&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+          </d>
+        </r>
+    - ID: "15f18762-01e2-437e-b510-403b009e0846"
+      Hint: openGraphType
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201009T081625Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: แผนประกันชีวิตควบการลงทุนของเรา ให้คุ้มครองสูง พร้อมโอกาสในการได้รับผลตอบแทนจากการลงทุน ทั้งยังให้อิสระคุณในการหยุดพักชำระเบี้ยฯ เมื่อจำเป็น
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: พาวเวอร์แมกซ์ลิงค์
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: เอฟดับบลิวดี พาวเวอร์แมกซ์ลิงค์ (ยูนิตลิงค์) 
+    - ID: "8960d36d-84b0-4f47-aa98-a0e27a3903b8"
+      Hint: openGraphImage
+      Value: 
+    - ID: "975e0bc5-6e06-4308-bbbb-0fe142392035"
+      Hint: openGraphDescription
+      Value: 
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{88FC1ABE-CCEA-4C07-82DF-C808E706C0D4}" cropx="0.48" cropy="0.45" focusx="-0.04385964912280704" focusy="0.09375" />
+    - ID: "b4393f91-607a-4d89-95a0-789367db8822"
+      Hint: isFeatured
+      Type: Checkbox
+      Value: 0
+    - ID: "bbfa9df5-92c5-4dc7-8367-b969613fd8d4"
+      Hint: openGraphURL
+      Value: 
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201009T081625Z
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{88FC1ABE-CCEA-4C07-82DF-C808E706C0D4}" />
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value:  ความคุ้มครอง, การลงทุน, ยูนิตลิงก์, ลดหย่อนภาษี
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: |
+        ใช้ชีวิตให้เต็มแมกซ์กับแผนประกันที่มอบทั้งความคุ้มครอง และโอกาสในการสร้างความมั่งคั่ง ที่ให้คุณควบคุมการลงทุนได้ด้วยตัวเอง 
+        
+    - ID: "fdf6a80f-16e1-4a1d-9b7b-f3f181276725"
+      Hint: openGraphTitle
+      Value: 
+  - Version: 3
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F4EF39FF-68E2-450B-98DB-873EC320196B}"
+              p:after="p[@uid='{FEF920EC-26A0-4273-A671-D2D80186567C}']"
+              s:ph="/jss-main/jss-col-2-{C909A8E2-FB62-4B31-9F5A-665A911D942A}-0" />
+            <r
+              uid="{6081A532-6D1D-4E97-A987-D39F00710EE2}"
+              p:after="r[@uid='{F4EF39FF-68E2-450B-98DB-873EC320196B}']"
+              s:ds="{3C5E1B06-49CE-45D3-AB22-2F6112A15256}"
+              s:id="{FC55218D-3368-4037-B642-7FD35BD96EA1}"
+              s:par="anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+              s:ph="/jss-main/jss-col-1-{C909A8E2-FB62-4B31-9F5A-665A911D942A}-0" />
+            <r
+              uid="{808C51CE-8541-4E4D-9C04-39A4011DF61A}"
+              s:par="anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D÷r" />
+            <r
+              uid="{57275485-1464-40DE-863F-6A4CE709F08E}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;contentBlockVariant&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider" />
+            <r
+              uid="{2D63EC00-81FF-45BE-BEF6-E9902682D0FE}"
+              s:par="anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{52BF7FB6-1CA2-405C-B13E-88F6B1CB9FEC}">
+              <p:d />
+            </r>
+            <r
+              uid="{C909A8E2-FB62-4B31-9F5A-665A911D942A}"
+              p:after="r[@uid='{2D63EC00-81FF-45BE-BEF6-E9902682D0FE}']"
+              s:ds=""
+              s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+              s:par="numberOfColumns=%7B41CCF7E7-59F7-494A-80D1-0EB88C898A10%7D&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D%7C%7BCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7D&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+          </d>
+        </r>
+    - ID: "15f18762-01e2-437e-b510-403b009e0846"
+      Hint: openGraphType
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201012T070712Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: แผนประกันชีวิตควบการลงทุนของเรา ให้คุ้มครองสูง พร้อมโอกาสในการได้รับผลตอบแทนจากการลงทุน ทั้งยังให้อิสระคุณในการหยุดพักชำระเบี้ยฯ เมื่อจำเป็น
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: พาวเวอร์แมกซ์ลิงค์
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Panchitma
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: เอฟดับบลิวดี พาวเวอร์แมกซ์ลิงค์ (ยูนิตลิงค์) 
+    - ID: "8960d36d-84b0-4f47-aa98-a0e27a3903b8"
+      Hint: openGraphImage
+      Value: 
+    - ID: "975e0bc5-6e06-4308-bbbb-0fe142392035"
+      Hint: openGraphDescription
+      Value: 
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{88FC1ABE-CCEA-4C07-82DF-C808E706C0D4}" cropx="0.48" cropy="0.45" focusx="-0.04385964912280704" focusy="0.09375" />
+    - ID: "b4393f91-607a-4d89-95a0-789367db8822"
+      Hint: isFeatured
+      Type: Checkbox
+      Value: 0
+    - ID: "bbfa9df5-92c5-4dc7-8367-b969613fd8d4"
+      Hint: openGraphURL
+      Value: 
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201012T070712Z
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{88FC1ABE-CCEA-4C07-82DF-C808E706C0D4}" />
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value:  ความคุ้มครอง, การลงทุน, ยูนิตลิงก์, ลดหย่อนภาษี
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: |
+        ใช้ชีวิตให้เต็มแมกซ์กับแผนประกันที่มอบทั้งความคุ้มครอง และโอกาสในการสร้างความมั่งคั่ง ที่ให้คุณควบคุมการลงทุนได้ด้วยตัวเอง 
+        
+    - ID: "fdf6a80f-16e1-4a1d-9b7b-f3f181276725"
+      Hint: openGraphTitle
+      Value: 

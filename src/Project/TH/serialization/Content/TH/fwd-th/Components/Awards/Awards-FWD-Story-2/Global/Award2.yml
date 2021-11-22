@@ -1,0 +1,73 @@
+﻿---
+ID: "aab68ce2-1438-45eb-b720-ab0e94a98e53"
+Parent: "898c52d0-7dc0-46f6-a136-ddd56c1b242d"
+Template: "b8e624fb-4a85-4ab2-8299-19f7f892f88d"
+Path: "/sitecore/content/fwd/fwd-th/Components/Awards/Awards-FWD-Story-2/Global/Award2"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18e4c61e-ddc9-4f47-8128-95c28fb8f94c"
+      Hint: awardIssuer
+      Value: John
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191106T060924Z
+    - ID: "6b07856b-04a3-41c2-a0b1-16ee9ee2fa96"
+      Hint: link
+      Value: |
+        <link text="Awards" linktype="external" url="https://www.fwd.com.hk/en/about/awards/" anchor="" title="Awards" target="_blank" />
+    - ID: "8cae381e-be17-4417-9493-4c725bc280e8"
+      Hint: awardName
+      Value: "Health & protection - excellence award"
+    - ID: "b79c264d-04c8-48e6-b86a-9bf6791c965c"
+      Hint: awardYears
+      Value: 2019
+    - ID: "d9e78b47-cb3e-430a-a9c7-8cdd5faf0afe"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{E5DDA73E-11F4-4670-B424-44535BD9CDA6}" />
+    - ID: "f1388e2b-43cd-45e1-be9e-121de811b942"
+      Hint: image
+      Value: |
+        <image mediaid="{E5DDA73E-11F4-4670-B424-44535BD9CDA6}" />
+    - ID: "fca2a643-23a6-4dc0-a6a1-3db59ca4e554"
+      Hint: awardCategory
+      Value: Health & protection
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18e4c61e-ddc9-4f47-8128-95c28fb8f94c"
+      Hint: awardIssuer
+      Value: สุขภาพ
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T084757Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "6b07856b-04a3-41c2-a0b1-16ee9ee2fa96"
+      Hint: link
+      Value: |
+        <link text="Awards" linktype="external" url="https://www.fwd.com.hk/en/about/awards/" anchor="" title="Awards" target="_blank" />
+    - ID: "8cae381e-be17-4417-9493-4c725bc280e8"
+      Hint: awardName
+      Value: รางวัลผู้ประกอบการดีเด่น
+    - ID: "b79c264d-04c8-48e6-b86a-9bf6791c965c"
+      Hint: awardYears
+      Value: 2019
+    - ID: "d9e78b47-cb3e-430a-a9c7-8cdd5faf0afe"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{E5DDA73E-11F4-4670-B424-44535BD9CDA6}" />
+    - ID: "f1388e2b-43cd-45e1-be9e-121de811b942"
+      Hint: image
+      Value: |
+        <image mediaid="{E5DDA73E-11F4-4670-B424-44535BD9CDA6}" />
+    - ID: "fca2a643-23a6-4dc0-a6a1-3db59ca4e554"
+      Hint: awardCategory
+      Value: สุขภาพและการป้องกัน

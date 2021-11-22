@@ -1,0 +1,33 @@
+﻿---
+ID: "08fe3be2-1568-4693-a05a-73dbbdc424b7"
+Parent: "0144084f-0d07-43e0-818f-9126dcc17e79"
+Template: "128c8d06-48c1-46ed-b80e-904cc3de68e0"
+Path: "/sitecore/content/fwd/fwd-th/Home/Events/local-folder/Info Card"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200520T113734Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T014952Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph

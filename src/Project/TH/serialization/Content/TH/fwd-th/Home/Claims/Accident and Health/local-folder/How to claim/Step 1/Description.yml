@@ -1,0 +1,147 @@
+﻿---
+ID: "cf5916e2-93c3-4f7f-85e0-1848933607d7"
+Parent: "a6342556-7fda-464d-a76c-eef63e5a6b6d"
+Template: "ad6870d4-2dd6-40ef-a8fa-941ab32cee43"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/Accident and Health/local-folder/How to claim/Step 1/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T023752Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Original</strong></p>
+        <ul>
+            <li>Your medical certificate<br />
+            This can be a written or printed statement from your doctor stating the results of any medical examination.</li>
+        <li>Original receipts showing expenses and summary of treatment, certified by a hospital officer</li>
+        </ul>
+        <br />
+        <p><strong>Certified true copy</strong></p>
+        <ul>
+            <li>Report from Royal Thai Police, certified by a police officer (in case of accident only).</li>
+            <li>In case of bone fracture, please provide documentation and results from the radiologist.</li>
+        </ul>
+        <br />
+        <p><strong>Copy</strong></p>
+        <ul>
+            <li>To receive payment to your bank account, please provide a copy of your bank book showing your bank name and bank account number.</li>
+        </ul>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200914T120227Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D80D2A5C-D5F8-4DA1-8828-B4F51D64461B}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Original</strong></p>
+        <ul>
+            <li>Your medical certificate<br />
+            This can be a written or printed statement from your doctor stating the results of any medical examination.</li>
+        <li>Original receipts showing expenses and summary of treatment, certified by a hospital officer</li>
+        </ul>
+        <br />
+        <p><strong>Certified true copy</strong></p>
+        <ul>
+            <li>Report from Royal Thai Police, certified by a police officer (in case of accident only).</li>
+            <li>In case of bone fracture, please provide documentation and results from the radiologist.</li>
+        </ul>
+        <br />
+        <p><strong>Copy</strong></p>
+        <ul>
+            <li>To receive payment to your bank account, please provide a copy of your bank book showing your bank name and bank account number.</li>
+        </ul>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200914T120227Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T023748Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>เอกสารต้นฉบับ</strong></p>
+        <ul>
+            <li>ใบรับรองแพทย์ที่มีข้อมูลเกี่ยวกับผลการตรวจร่างกาย จากแพทย์ผู้ตรวจ ซึ่งอาจเขียนด้วยมือหรือพิมพ์ก็ได้</li>
+            <li>ใบเสร็จรับเงินค่ารักษาพยาบาลต้นฉบับ ที่แสดงข้อมูลสรุปรายการรักษาและค่าใช้จ่าย ซึ่งลงนามรับรองโดยเจ้าหน้าที่โรงพยาบาล</li>
+        </ul>
+        <br />
+        <p><strong>เอกสารรับรองสำเนาถูกต้อง</strong></p>
+        <ul>
+            <li>สำเนาบันทึกประจำวันเกี่ยวกับคดี ที่ได้รับรองสำเนาถูกต้องโดยเจ้าหน้าที่ตำรวจ (เฉพาะกรณีอุบัติเหตุ)</li>
+            <li>ฟิล์มและผลอ่านฟิล์ม กรณีกระดูกแตกหัก หรือใบรับรองผลการตรวจจากแพทย์</li>
+        </ul>
+        <br />
+        <p><strong>เอกสารสำเนา</strong></p>
+        <ul>
+            <li>สำเนาหน้าสมุดบัญชีธนาคาร ที่แสดงชื่อเจ้าของบัญชีและหมายเลขบัญชี กรณีต้องการให้โอนเงินเข้าบัญชีธนาคาร</li>
+        </ul>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200914T120347Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>เอกสารต้นฉบับ</strong></p>
+        <ul>
+            <li>ใบรายงานแพทย์ที่มีข้อมูลเกี่ยวกับผลการตรวจร่างกาย จากแพทย์ผู้ตรวจ ซึ่งอาจเขียนด้วยมือหรือพิมพ์ก็ได้</li>
+            <li>ใบเสร็จรับเงินค่ารักษาพยาบาลต้นฉบับ ที่แสดงข้อมูลสรุปรายการรักษาและค่าใช้จ่าย ซึ่งลงนามรับรองโดยเจ้าหน้าที่โรงพยาบาล</li>
+        </ul>
+        <br />
+        <p><strong>เอกสารรับรองสำเนาถูกต้อง</strong></p>
+        <ul>
+            <li>สำเนาบันทึกประจำวันเกี่ยวกับคดี ที่ได้รับรองสำเนาถูกต้องโดยเจ้าหน้าที่ตำรวจ (เฉพาะกรณีอุบัติเหตุ)</li>
+            <li>ฟิล์มและผลอ่านฟิล์ม กรณีกระดูกแตกหัก หรือใบรับรองผลการตรวจจากแพทย์</li>
+        </ul>
+        <br />
+        <p><strong>เอกสารสำเนา</strong></p>
+        <ul>
+            <li>สำเนาหน้าสมุดบัญชีธนาคาร ที่แสดงชื่อเจ้าของบัญชีและหมายเลขบัญชี กรณีต้องการให้โอนเงินเข้าบัญชีธนาคาร</li>
+        </ul>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200914T120347Z

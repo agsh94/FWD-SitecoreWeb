@@ -1,0 +1,53 @@
+﻿---
+ID: "1946aa80-cdb2-477e-9f76-198d7c70c2d6"
+Parent: "3e8f3c74-63f4-46f0-8f7c-87138893f029"
+Template: "7d6bb8c2-d538-441d-82bf-d6aec40b5929"
+Path: "/sitecore/content/fwd/fwd-th/Home/GroupLandingPage/local-folder/card-list"
+DB: master
+SharedFields:
+- ID: "2118cacd-a41a-41eb-8636-bd9a1d6db8e3"
+  Hint: enableLocalContent
+  Type: Checkbox
+  Value: 1
+- ID: "e393d27b-259f-4774-91b7-a2965d57238d"
+  Hint: linkItems
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Card List
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191017T072052Z
+    - ID: "2ed70c09-d8b1-4780-8037-dfe4ca6dd644"
+      Hint: title
+      Value: 
+    - ID: "3e163c0e-2b06-4372-a28c-96b7c3892905"
+      Hint: description
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200108T105316Z
+    - ID: "2ed70c09-d8b1-4780-8037-dfe4ca6dd644"
+      Hint: title
+      Value: Partners
+    - ID: "3e163c0e-2b06-4372-a28c-96b7c3892905"
+      Hint: description
+      Value: "Long term bancassurance partnerships with TMB, one of the largest banks in Thailand. Other partners include CIMB, 7-Eleven and Tesco Lotus"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

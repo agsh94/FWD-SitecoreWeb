@@ -1,0 +1,60 @@
+﻿---
+ID: "f385e817-0a84-4ece-a07c-2750e6cd2d4c"
+Parent: "3a8c30ea-71d2-46f8-b4d8-2f7d9927f23d"
+Template: "8ad5bb9c-b124-437e-a0c3-34149b049fac"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/savings/ValueProtector/local-folder/claim-process/step-4/section1"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Section 1
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09325934-6951-45ec-bd07-c7fc996855b3"
+      Hint: description
+      Value: At 75, K. Mai dies. Her kids receive the death benefit, which they use to clear the debts incurred from her business.
+    - ID: "095b37a4-2a84-4177-8231-7a222abc9623"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{188E83E2-D291-4152-9D88-FE3834EBBF75}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191215T124449Z
+    - ID: "8a19dcac-8d5b-4e87-b1c9-14ba9ece9248"
+      Hint: subTitle
+      Value: 
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: Impact of IVP 20 after K. Mai passes
+    - ID: "f6728892-c596-4196-9d50-106592ed0f9f"
+      Hint: image
+      Value: |
+        <image mediaid="{188E83E2-D291-4152-9D88-FE3834EBBF75}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09325934-6951-45ec-bd07-c7fc996855b3"
+      Hint: description
+      Value: At 75, K. Mai dies. Her kids receive the death benefit, which they use to clear the debts incurred from her business.
+    - ID: "095b37a4-2a84-4177-8231-7a222abc9623"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{188E83E2-D291-4152-9D88-FE3834EBBF75}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T101137Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: Impact of IVP 20 after K. Mai passes
+    - ID: "f6728892-c596-4196-9d50-106592ed0f9f"
+      Hint: image
+      Value: |
+        <image mediaid="{188E83E2-D291-4152-9D88-FE3834EBBF75}" />

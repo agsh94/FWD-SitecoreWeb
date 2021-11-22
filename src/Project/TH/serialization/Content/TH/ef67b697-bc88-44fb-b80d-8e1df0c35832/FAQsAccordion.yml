@@ -1,0 +1,28 @@
+﻿---
+ID: "a502f0bd-65eb-4939-86ed-f7ac8ea25dba"
+Parent: "ef67b697-bc88-44fb-b80d-8e1df0c35832"
+Template: "14cf212d-7cf4-41aa-b50b-24d748a87556"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/Claims/claim-card/local-folder/FAQsAccordion"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "f973c399-5998-47a5-ae48-760ebed901b1"
+  Hint: faqItems
+  Value: "{E79E677D-640D-430C-8692-9C2804FACF74}|{F4E47D0B-4D02-4D6B-96C4-F1542C987C20}|{C9C6B74D-FBE9-4781-96B5-4FC7FE999A7F}|{E3CA3E9D-134B-4FE0-8666-E9096DF365C2}|{A72DA626-0E61-42CF-AC21-32A83193B21E}|{E5E91ABE-E689-4FA6-97EB-493D2AB4DDA4}|{A7F93300-5419-41F1-B085-0678466F9232}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200323T131005Z
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See more FAQs" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2FB8A667-9926-4939-8E62-0CFAF99D862F}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: FAQ

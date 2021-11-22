@@ -1,0 +1,18 @@
+﻿---
+ID: "c8706edf-1af6-4f33-9a4a-ad49693ab67e"
+Parent: "9ba97876-9f4a-44d0-a6f2-c1744767676a"
+Template: "267d9ac7-5d85-4e9d-af89-99ab296cc218"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/$name-app-Dictionary/Labels"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191111T112617Z

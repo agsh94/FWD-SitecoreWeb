@@ -1,0 +1,47 @@
+﻿---
+ID: "6c2f2319-ac22-477e-9469-c3e3bc44b4d9"
+Parent: "015826a8-cada-4cba-9dd5-924253de51d5"
+Template: "a874f518-dbe3-409e-b0cf-a6040ae33471"
+Path: "/sitecore/content/fwd/fwd-th/Components/Partners/AboutUs/CIMB THAI Digital Banking"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T191927Z
+    - ID: "4c631be5-5969-4825-a79d-ed44278401e0"
+      Hint: title
+      Value: CIMB THAI Digital Banking
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "85332073-47d2-4e12-952e-6ab2dbff23ba"
+      Hint: image
+      Value: |
+        <image mediaid="{E6D29201-36D4-46A0-B469-D2B137E8E2DE}" cropx="0.51" cropy="0.47" focusx="0.015625" focusy="0.0625" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T191935Z
+    - ID: "4c631be5-5969-4825-a79d-ed44278401e0"
+      Hint: title
+      Value: ธนาคารซีไอเอ็มบีไทย
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "85332073-47d2-4e12-952e-6ab2dbff23ba"
+      Hint: image
+      Value: |
+        <image mediaid="{E6D29201-36D4-46A0-B469-D2B137E8E2DE}" />

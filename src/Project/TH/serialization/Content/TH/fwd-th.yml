@@ -1,0 +1,67 @@
+﻿---
+ID: "c3bdd602-4fed-4688-b5bd-3d021994351a"
+Parent: "564f00b2-7ee4-4444-803f-421009c6a6f9"
+Template: "544a6bb2-03ff-404f-889f-225d92310585"
+Path: "/sitecore/content/fwd/fwd-th"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Network/16x16/environment.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+    {406C3965-EA5B-4018-AA2F-C07E04557550}
+    {B2DD556F-0F5C-4201-BD59-384DB7D20D8C}
+- ID: "485a5352-ff25-458a-8b3d-fd637ddb8adc"
+  Hint: SiteConfigurationLink
+  Value: |
+    <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F3AAA80F-6639-43D1-9826-3250A8E57287}" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\FWD GO Content Approver|pe|-item:read|pd|-item:read|ar|sitecore\FWD GO Administrator|pe|-item:read|pd|-item:read|ar|sitecore\FWDTH Author|pe|+item:rename|+item:create|+item:write|+item:read|^*|pd|+item:rename|+item:create|+item:write|+item:read|^*|ar|sitecore\FWD VN Author|p*|-item:read|!*|ar|sitecore\FWD TH Administrator|pe|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|+item:admin|pd|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|+item:admin|ar|sitecore\FWD Content Approver|pe|+item:admin|+item:write|+item:read|^*|pd|+item:admin|+item:write|+item:read|^*|ar|sitecore\FWD PH Content Approver|p*|-item:read|!*|ar|sitecore\FWD HK Author|pe|-item:read|!*|pd|-item:read|!*|ar|sitecore\FWD GO Author|pe|-item:read|pd|-item:read|ar|sitecore\FWD VN Content Approver|p*|-item:read|!*|ar|sitecore\FWD HK Administrator|pe|-item:read|!*|pd|-item:read|!*|ar|sitecore\FWD PH Administrator|p*|-item:read|!*|ar|sitecore\FWD HK Content Approver|pe|-item:admin|!*|-item:read|pd|-item:admin|!*|-item:read|au|sitecore\JssImport|p*|+item:write|+item:delete|ar|sitecore\FWD TH Content Approver|pe|+item:admin|+item:write|+item:read|+item:delete|^*|pd|+item:admin|+item:write|+item:read|+item:delete|^*|ar|sitecore\FWD PH Author|p*|-item:read|!*|ar|sitecore\FWD VN Administrator|p*|-item:read|!*|ar|sitecore\FWD TH Author|pe|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|pd|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "FWD-TH"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180831T074459Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "b924a948-3ba1-429d-9969-6f0f9d427f93"
+      Hint: footerLink
+      Value: |
+        <link text="footer" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}" />
+    - ID: "d50ddfae-613e-4a4a-89c2-19aef512f803"
+      Hint: headerLink
+      Value: |
+        <link text="header" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+- Language: "th-TH"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191017T080926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

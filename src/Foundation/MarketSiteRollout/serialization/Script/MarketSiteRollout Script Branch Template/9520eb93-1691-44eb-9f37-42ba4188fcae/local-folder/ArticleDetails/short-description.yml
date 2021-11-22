@@ -1,0 +1,21 @@
+﻿---
+ID: "56b4a2ef-14f4-4bc3-80f9-1ff74e96bd28"
+Parent: "8260a212-cb84-4e94-b0fb-47f18f266833"
+Template: "dc2042d7-1cc2-4a69-8519-de9dc01a3a00"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/About Us/News/coffee-bar/local-folder/ArticleDetails/short-description"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Shot description
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f32a040-00d4-4a28-96b6-5dca215d1917"
+      Hint: excerpt
+      Value: Holidays for others may be staying home and relaxing. But a holiday for people who like coffee, like me, is searching for a café to chill out with good coffee, a pleasant atmosphere, and today is another day that I spent the holidays traveling to One Two Two Coffee Bar. Srinakarin District The newest cafe is opened, with people suggesting that this coffee shop is very delicious.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191122T111507Z

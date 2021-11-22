@@ -1,0 +1,40 @@
+﻿---
+ID: "00319c7e-9e65-4481-a1ff-440f2ecf58c0"
+Parent: "8022b23b-5f1f-4554-a72e-edcc19f314b7"
+Template: "875690b9-1800-48f4-afdf-5c2a2c186860"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Settings/searchresult/SearchPage
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191011T073244Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "92ca54a5-be19-4b55-98b3-417f61b8d54e"
+      Hint: Searchable Page Templates
+      Type: Treelist
+      Value: |
+        {937F9755-269C-46CB-87CF-E05C0211EF32}
+        {0BA5819E-97B4-4ED8-8F4C-2363603B4FAF}
+        {68BBE3B2-090E-4063-98C3-E462CD0C74E8}
+        {FEDD8681-2797-4D1B-9D18-3DA34A28A769}
+        {29D97C39-6DC9-4E94-8A9A-12154E2AD19B}
+        {979FDF53-37CB-434C-BBFF-F7AAF6ABAAC0}
+        {E6A17EC7-E0D3-47B3-BD3E-28BBEB607420}
+        {979FDF53-37CB-434C-BBFF-F7AAF6ABAAC0}
+        {567773DC-D11B-44DB-9F09-5E3481BF508D}
+        {69B601A8-8555-4411-8C17-AA91671EEC32}
+        {40DA990F-39DD-4D66-A9BE-849F4ECFFD22}
+        {8C431675-A9B1-4774-B7E9-8A30E7522FE3}
+        {AB750B30-EB3C-4F78-ACD7-7124675E31B9}
+        {B2D6D3CC-54AF-43E5-83B9-B500EFA0AA92}
+        {8D5EB13F-F98F-45E4-AB26-AF0E735CC6AA}
+        {E257FFFD-48D7-477A-B8C1-9DC11FCE0837}
+        {B4BF3A5E-7B17-4F3B-9612-63353A0B8501}
+        {9D5311A6-DD16-4D01-808D-7CA80DA33223}

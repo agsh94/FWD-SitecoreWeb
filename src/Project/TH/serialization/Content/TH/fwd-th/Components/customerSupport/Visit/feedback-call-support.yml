@@ -1,0 +1,70 @@
+﻿---
+ID: "d060dda0-e848-47a0-8806-c8c1a64f1d57"
+Parent: "c4118b5c-975e-4c13-a9e8-71283e66dbfe"
+Template: "655f3eab-2573-4aba-9eae-e93741fae0b9"
+Path: "/sitecore/content/fwd/fwd-th/Components/customerSupport/Visit/feedback-call-support"
+DB: master
+SharedFields:
+- ID: "14060f95-7b61-4164-8f82-1d87c980edb9"
+  Hint: supportIcon
+  Value: "{F35ED9FD-AD24-494A-8FB6-33BE8955A85D}"
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{02A5A5C7-C318-4919-B773-86A65BA98969}"
+- ID: "a09d41ca-93f6-409c-96a9-1341d3719e83"
+  Hint: listType
+  Value: "{F281AF72-FA4B-4F87-98F1-4B9D77180E60}"
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{7EA908FB-506F-45E9-AB04-2B33B5DCDE2A}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Feedback Call Support
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191008T163848Z
+    - ID: "5895aae2-ca68-4b63-83d6-f835c2d94ec5"
+      Hint: subTitle
+      Value: Fill up contact details, and we will get back to you shortly.
+    - ID: "68b9b7c2-e820-4b57-9e40-f73816d6dbec"
+      Hint: icon
+      Value: |
+        <image mediaid="{FC7AF7FD-1BE5-4F14-A049-05D6D3248838}" ></image>
+    - ID: "b0ec22ca-d046-4211-90bd-d498a5bcfe92"
+      Hint: title
+      Value: Let us call you back
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Open contact form" linktype="form" title="Open contact form" querystring="enquiry" target="" id="{136AA02C-41C6-4E79-88E1-7893B161A37F}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T065154Z
+    - ID: "5895aae2-ca68-4b63-83d6-f835c2d94ec5"
+      Hint: subTitle
+      Value: Fill up contact details, and we will get back to you shortly.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "68b9b7c2-e820-4b57-9e40-f73816d6dbec"
+      Hint: icon
+      Value: |
+        <image mediaid="{FC7AF7FD-1BE5-4F14-A049-05D6D3248838}" ></image>
+    - ID: "b0ec22ca-d046-4211-90bd-d498a5bcfe92"
+      Hint: title
+      Value: Let us call you back
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Open contact form" linktype="form" title="Open contact form" querystring="" target="" id="{30BE2112-0C62-49AD-B8CA-00DFF70A1075}" />

@@ -1,0 +1,45 @@
+﻿---
+ID: "b48b74e3-3395-4cee-8e71-478cbcbae578"
+Parent: "0f59fbf3-588d-4366-8cdc-1fb77f5630b7"
+Template: "68016eee-7ce8-453d-9b04-20bcd42da406"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/local-folder/Claims List"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200625T101108Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "d7fa80f1-d6d1-4ddd-9366-fd4a9c39b13a"
+      Hint: title
+      Value: 
+    - ID: "e5d5024c-a73c-4218-a3ce-0ec1d13276bc"
+      Hint: listItems
+      Value: "{95F3D1EB-BAF3-4D39-BE1F-5E0CC4560B79}|{4AB96DAD-8D49-40BD-914C-8BB5C4E9EE55}|{9893AD74-B573-4E15-B863-C7EE883F5553}|{AF62FEDF-1958-4096-83D9-ACC213D91DB0}|{9131261E-C34C-4D36-B18A-3AA9F60DB0FB}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200625T104922Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "d7fa80f1-d6d1-4ddd-9366-fd4a9c39b13a"
+      Hint: title
+      Value: 
+    - ID: "e5d5024c-a73c-4218-a3ce-0ec1d13276bc"
+      Hint: listItems
+      Value: "{95F3D1EB-BAF3-4D39-BE1F-5E0CC4560B79}|{4AB96DAD-8D49-40BD-914C-8BB5C4E9EE55}|{9893AD74-B573-4E15-B863-C7EE883F5553}|{AF62FEDF-1958-4096-83D9-ACC213D91DB0}|{9131261E-C34C-4D36-B18A-3AA9F60DB0FB}"

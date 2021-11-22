@@ -1,0 +1,41 @@
+﻿---
+ID: "c9bdee14-dbce-468b-bada-fb3f6fb07742"
+Parent: "07280b2d-a114-4fed-9c40-3fd22313b0db"
+Template: "5ea255c0-2816-4472-a068-26cd0186b9ac"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/local-folder/campaign-carousel"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Campaign Carousel
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200323T083723Z
+    - ID: "f23d21a4-5e80-4efb-be1d-751e0465f998"
+      Hint: carouselItems
+      Type: Multilist
+      Value: |
+        {86C30BF9-8C81-4F58-9392-18988D712C80}
+        {EC53AB62-825F-4681-AD97-FAB3FD8C1718}
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200406T054837Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "f23d21a4-5e80-4efb-be1d-751e0465f998"
+      Hint: carouselItems
+      Type: Multilist
+      Value: |
+        {86C30BF9-8C81-4F58-9392-18988D712C80}
+        {EC53AB62-825F-4681-AD97-FAB3FD8C1718}

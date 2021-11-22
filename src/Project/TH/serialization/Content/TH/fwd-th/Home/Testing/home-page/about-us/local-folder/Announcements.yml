@@ -1,0 +1,59 @@
+﻿---
+ID: "a6e807db-f5ca-42e1-8c35-7afc149fbb44"
+Parent: "d8ae49d3-adad-4384-8fe8-2836465dd88f"
+Template: "c24acda9-af2d-4f91-b736-509937cc444e"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/local-folder/Announcements"
+DB: master
+SharedFields:
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{20162863-AE86-4B42-9AEC-B7A81A345553}"
+- ID: "ef2bcb82-b8a8-4be6-88a7-5269b777ad1d"
+  Hint: apiSubType
+  Value: "{9B4F5DC4-00EC-4983-8861-75885C261E9E}"
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{7EA908FB-506F-45E9-AB04-2B33B5DCDE2A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191219T080044Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d7ce724c-2ece-4ca3-99ed-06b20e846322"
+      Hint: linkItems
+      Value: "{060E725A-9E11-4B85-9F3E-7795A51A017B}|{4EE60AD6-0E6D-48CE-B17E-A76C0726CAB3}|{53EFFFBE-0534-4E53-A7F8-1590E4C21DAE}|{E32329DD-2FC7-45BB-808C-1E5B105336D2}|{B7B22D3E-2599-42D6-B3BB-421DBCF570F7}"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See all" anchor="" linktype="internal" class="" title="See all" target="" querystring="?contenttype=Article&amp;subtype=Announcements" id="{564D4C9C-BEEB-4497-9BB7-74A9EBAEF812}" />
+    - ID: "f39b7a44-d8d3-467c-949d-5a6a33a9bb8a"
+      Hint: title
+      Value: Announcements
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200108T105311Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d7ce724c-2ece-4ca3-99ed-06b20e846322"
+      Hint: linkItems
+      Value: "{060E725A-9E11-4B85-9F3E-7795A51A017B}|{4EE60AD6-0E6D-48CE-B17E-A76C0726CAB3}|{53EFFFBE-0534-4E53-A7F8-1590E4C21DAE}"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See all" anchor="" linktype="internal" class="" title="See all" target="" querystring="?contenttype=บทความ&amp;subtype=ประกาศ" id="{564D4C9C-BEEB-4497-9BB7-74A9EBAEF812}" />
+    - ID: "f39b7a44-d8d3-467c-949d-5a6a33a9bb8a"
+      Hint: title
+      Value: Announcement

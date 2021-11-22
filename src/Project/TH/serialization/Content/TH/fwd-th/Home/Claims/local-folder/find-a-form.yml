@@ -1,0 +1,63 @@
+﻿---
+ID: "cfebcf49-872b-48f7-8b0c-86aa90a4499f"
+Parent: "0f59fbf3-588d-4366-8cdc-1fb77f5630b7"
+Template: "e9fe119c-894c-43bd-bfd0-857be1acbe38"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/local-folder/find-a-form"
+DB: master
+SharedFields:
+- ID: "6e7ee2d5-d16e-4038-89df-21145baec88b"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: 
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{AAE0FCBF-5276-4A3A-8CED-AEAF6994D21B}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 450
+- ID: "fa4911ec-ddc9-4d82-9059-c1fe07006bba"
+  Hint: supportTopic
+  Value: "{3F8847FA-88E1-4BC6-81E8-BD183B8D5917}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Find a form
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200323T103314Z
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Find a form
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See all forms" anchor="" linktype="internal" class="" title=""  querystring="" id="{6EDDED5F-86D9-4C1B-82ED-846BB127475D}" />
+    - ID: "f4163e07-1e81-42cd-9b93-cb8fb3aaf4f2"
+      Hint: relatedForms
+      Value: "{7F951846-315C-4C18-B921-4D605932FEF9}|{55EDBFF7-D49A-4F38-A866-DCAEA7C5C83C}|{F4534CA8-703C-4282-BF32-DE2BD146EAEE}|{4D785707-DD0A-4355-ADAD-F2624A0D77AD}|{842BF137-9701-473C-A54A-34344F099239}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200510T055310Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: ค้นหาแบบฟอร์ม
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ดูแบบฟอร์มทั้งหมด" anchor="" linktype="internal" class="" title="ดูแบบฟอร์มทั้งหมด"  querystring="" id="{6EDDED5F-86D9-4C1B-82ED-846BB127475D}" />
+    - ID: "f4163e07-1e81-42cd-9b93-cb8fb3aaf4f2"
+      Hint: relatedForms
+      Value: "{7F951846-315C-4C18-B921-4D605932FEF9}|{55EDBFF7-D49A-4F38-A866-DCAEA7C5C83C}|{F4534CA8-703C-4282-BF32-DE2BD146EAEE}|{4D785707-DD0A-4355-ADAD-F2624A0D77AD}|{842BF137-9701-473C-A54A-34344F099239}"

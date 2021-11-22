@@ -1,0 +1,386 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "1.3.1.0",
+        "fileVersion": "1.3.1.60621",
+        "semanticVersion": "1.3.1",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreExtensions/code/Pipelines/RteConfiguration.cs",
+                "region": {
+                  "startLine": 4,
+                  "startColumn": 1,
+                  "endLine": 4,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/shiagnih/AppData/Local/Temp/.NETFramework,Version=v4.7.1.AssemblyAttributes.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 1,
+                  "endLine": 3,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CustomJSSMediaRequestHandler' to match pascal case naming rules, consider using 'CustomJssMediaRequestHandler'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreExtensions/code/Pipelines/CustomJSSMediaRequestHandler.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 18,
+                  "endLine": 7,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3459",
+          "level": "warning",
+          "message": "Remove unassigned auto-property 'ErrorMessage', or set its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreExtensions/code/CustomNodeInstance/CustomHttpNodeInstance.cs",
+                "region": {
+                  "startLine": 86,
+                  "startColumn": 27,
+                  "endLine": 86,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3459",
+          "level": "warning",
+          "message": "Remove unassigned auto-property 'ErrorDetails', or set its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreExtensions/code/CustomNodeInstance/CustomHttpNodeInstance.cs",
+                "region": {
+                  "startLine": 88,
+                  "startColumn": 27,
+                  "endLine": 88,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4784",
+          "level": "warning",
+          "message": "Make sure that using a regular expression is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreExtensions/code/CustomNodeInstance/CustomHttpNodeInstance.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 62,
+                  "endLine": 16,
+                  "endColumn": 180
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1313",
+          "level": "warning",
+          "message": "Make sure using this hardcoded IP address '::1' is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreExtensions/code/CustomNodeInstance/CustomHttpNodeInstance.cs",
+                "region": {
+                  "startLine": 68,
+                  "startColumn": 73,
+                  "endLine": 68,
+                  "endColumn": 78
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3626",
+          "level": "warning",
+          "message": "Remove this redundant jump.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreExtensions/code/Extensions/CustomDropLink.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 17,
+                  "endLine": 75,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3626",
+          "level": "warning",
+          "message": "Remove this redundant jump.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreExtensions/code/Extensions/CustomDropLink.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 17,
+                  "endLine": 80,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3358",
+          "level": "warning",
+          "message": "Extract this nested ternary operation into an independent statement.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreExtensions/code/Pipelines/CustomMediaProvider.cs",
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 108,
+                  "endLine": 97,
+                  "endColumn": 210
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1155",
+          "level": "warning",
+          "message": "Use '.Any()' to test whether this 'IEnumerable<string>' is empty or not.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/FWD/FWD-Web/framework/src/Foundation/SitecoreExtensions/code/Pipelines/CustomLanguageResolver.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 60,
+                  "endLine": 75,
+                  "endColumn": 65
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S101": {
+          "id": "S101",
+          "shortDescription": "Types should be named in PascalCase",
+          "fullDescription": "Shared naming conventions allow teams to collaborate efficiently. This rule checks whether or not type names are using PascalCase. To reduce noise, two consecutive upper case characters are allowed unless they form the whole type name. So, MyXClass is compliant, but XC on its own is not.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-101",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1128": {
+          "id": "S1128",
+          "shortDescription": "Unused \"using\" should be removed",
+          "fullDescription": "Although unnecessary using won't change anything to the produced application, removing them:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1128",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1155": {
+          "id": "S1155",
+          "shortDescription": "\"Any()\" should be used to test for emptiness",
+          "fullDescription": "Using .Count() to test for emptiness works, but using .Any() makes the intent clearer, and the code more readable. However, there are some cases where special attention should be paid:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1155",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1313": {
+          "id": "S1313",
+          "shortDescription": "Using hardcoded IP addresses is security-sensitive",
+          "fullDescription": "Hardcoding IP addresses is security-sensitive. It has led in the past to the following vulnerabilities:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1313",
+          "properties": {
+            "category": "Major Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "NotConfigurable"
+            ]
+          }
+        },
+        "S3358": {
+          "id": "S3358",
+          "shortDescription": "Ternary operators should not be nested",
+          "fullDescription": "Just because you can do something, doesn't mean you should, and that's the case with nested ternary operations. Nesting ternary operators results in the kind of code that may seem clear as day when you write it, but six months later will leave maintainers (or worse - future you) scratching their heads and cursing.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3358",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S3459": {
+          "id": "S3459",
+          "shortDescription": "Unassigned members should be removed",
+          "fullDescription": "Fields and auto-properties that are never assigned to hold the default values for their types. They are either pointless code or, more likely, mistakes. ",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3459",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S3626": {
+          "id": "S3626",
+          "shortDescription": "Jump statements should not be redundant",
+          "fullDescription": "Jump statements, such as return, yield break, goto, and continue let you change the default flow of program execution, but jump statements that direct the control flow to the original direction are just a waste of keystrokes.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3626",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S4784": {
+          "id": "S4784",
+          "shortDescription": "Using regular expressions is security-sensitive",
+          "fullDescription": "Using regular expressions is security-sensitive. It has led in the past to the following vulnerabilities:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-4784",
+          "properties": {
+            "category": "Critical Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "NotConfigurable"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

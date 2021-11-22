@@ -1,0 +1,21 @@
+﻿---
+ID: "0d3fa63d-fdca-463a-8f4d-1a0357832d55"
+Parent: "f071274e-6247-4f54-bcd2-07f9bb642f2d"
+Template: "bd32cea7-ca24-4412-9263-f32b833a01cc"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Fund/disclaimerList/CommonDisclaimers/com_sym2
+DB: master
+SharedFields:
+- ID: "89b100a5-7ac7-4a63-805e-62da69898fc1"
+  Hint: code
+  Value: com_sym2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201007T090405Z
+    - ID: "e59f19b7-37da-4692-90c5-c51a7a326263"
+      Hint: description
+      Value: Investment choice performance numbers are obtained and compiled by FWD and are believed to be from sources that considered reliable and accurate. FWD accepts responsibility for accurately reproducing such data and information but make no warranty or representation as to the correctness, completeness and accuracy of data and information sourced from third parties.

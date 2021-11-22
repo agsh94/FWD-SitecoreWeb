@@ -1,0 +1,31 @@
+﻿---
+ID: "336f5b20-29ee-4be4-87aa-6ee0954637d1"
+Parent: "ca331a6c-28c7-4d62-87c1-531aa1d8ab81"
+Template: "b5702cd7-40f4-4617-9c29-8a1197de6c9a"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/sassy-sodium/local-folder/RelatedArticles"
+DB: master
+SharedFields:
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{20162863-AE86-4B42-9AEC-B7A81A345553}"
+- ID: "ef2bcb82-b8a8-4be6-88a7-5269b777ad1d"
+  Hint: apiSubType
+  Value: "{16E100BB-C6E3-4C43-9770-45802CE9161F}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{33597DEB-878F-44DE-A597-D5AA79FF356C}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T230828Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: บทความที่เกี่ยวข้อง

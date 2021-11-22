@@ -1,0 +1,45 @@
+﻿---
+ID: "33920b2b-95ce-4891-b5da-c60a98b2e158"
+Parent: "e2478895-21a1-44b8-9ff9-eaa361c241f8"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Claims/If the insured or premium payer has been totally and permanently disabled"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T014514Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "If the insured or premium payer has been totally and permanently disabled or has passed away and the company has received the claim documents but not completed the claim process, does the insured or the guardian of the beneficiary have to continue paying life insurance premiums when they are due?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: Yes, the insured or guardian of the beneficiary has to pay the due premiums in order to keep the policy active. When the claim process is completed and any premiums waived, we will refund any premiums as applicable.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T014619Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "กรณีผู้เอาประกันทุพพลภาพสิ้นเชิงถาวร หรือผู้ชำระเบี้ยทุพพลภาพสิ้นเชิงถาวรหรือผู้ชำระเบี้ยเสียชีวิต ซึ่งบริษัทได้รับเรื่องเรียกร้องสินไหมแล้ว แต่ยังพิจารณาไม่เสร็จสิ้น ทางผู้เอาประกันหรือผู้ปกครองผู้รับผลประโยชน์ต้องชำระเบี้ยประกันชีวิตที่ครบกำหนดชำระเบี้ยประกันชีวิตหรือไม่?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: <p>ทางผู้เอาประกันหรือผู้ปกครองของผู้รับผลประโยชน์ต้องชำระเบี้ยประกันชีวิตในงวดที่ถึงกำหนดชำระเบี้ยประกันเข้ามาก่อนเพื่อรักษาสถานะกรมธรรม์ให้มีผลบังคับตามปกติ กรณีที่บริษัทพิจารณาเสร็จสิ้นและได้รับการยกเว้นเบี้ยประกันในกรมธรรม์ฉบับนั้น บริษัทจะทำการคืนเบี้ยประกันดังกล่าวให้แก่ผู้เอาประกันหรือผู้ปกครองของผู้รับผลประโยชน์</p>

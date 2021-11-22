@@ -1,0 +1,18 @@
+﻿---
+ID: "dec9eb36-2293-4fca-afa1-91f99bfc48cb"
+Parent: "a8d74774-b980-4528-9b54-bbbca1414171"
+Template: "fe08a445-9cb9-491c-a047-1a3ca3ffd68a"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Components/sitemapLinks/category-section/personal-insurance-section/column-1"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Column 1
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200308T170147Z

@@ -1,0 +1,50 @@
+﻿---
+ID: "2b3c2b47-1eea-4d82-8eba-43e8d4813b35"
+Parent: "71384372-6d88-4f8a-a559-ed83da6a8e7d"
+Template: "681b61a2-6f52-4119-b8f4-033587eaeacc"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Health/cancer-fighter/local-folder/Product Related Articles"
+DB: master
+SharedFields:
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: 
+- ID: "bd1fe0cc-270d-4276-a07d-da02b962d325"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: 
+- ID: "fdd5a7f8-e97a-4737-b3ac-e428d033fd0c"
+  Hint: secondaryNeedTags
+  Type: Multilist
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200407T073843Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d88ea793-1587-4f65-ae5c-80926cd5438b"
+      Hint: subTitle
+      Value: 
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Your daily inspiration
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200407T074238Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: บทความแนะนำ

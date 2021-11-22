@@ -1,0 +1,51 @@
+﻿---
+ID: "2ee710f7-a962-4475-bd6b-38323ae4a9f5"
+Parent: "cd7bbdf6-26d7-4ac9-ab55-aaaefd1d5954"
+Template: "299af6fd-7435-47fd-b7e4-32eaca8c3f9a"
+Path: "/sitecore/content/fwd/fwd-th/Components/Reports/Disclosure report/Disclosure-2560"
+DB: master
+SharedFields:
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{96BC3A53-AB72-49EF-BA31-37D901B59263}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200403T134728Z
+    - ID: "59361d7d-0099-40a4-9b9c-5346500afc3d"
+      Hint: year
+      Value: 2017
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Download" anchor="" linktype="internal" class="" title=""  querystring="" id="{35854121-285F-407F-83D8-586B314C1F99}" />
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Disclosure 2017
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200330T051546Z
+    - ID: "59361d7d-0099-40a4-9b9c-5346500afc3d"
+      Hint: year
+      Value: 2560
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link linktype="media" target="" id="{35854121-285F-407F-83D8-586B314C1F99}" />

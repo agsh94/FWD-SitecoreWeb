@@ -1,0 +1,39 @@
+﻿---
+ID: "56194fc1-1856-4ff0-aaf0-6c72b3ffd3d5"
+Parent: "73814e73-27c9-4a8b-b645-c1e75d921b9a"
+Template: "68016eee-7ce8-453d-9b04-20bcd42da406"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/QuickLinksPage/local-folder/Link List"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T064439Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d7fa80f1-d6d1-4ddd-9366-fd4a9c39b13a"
+      Hint: title
+      Value: 
+    - ID: "e5d5024c-a73c-4218-a3ce-0ec1d13276bc"
+      Hint: listItems
+      Value: "{1181A87E-65D1-4635-AB5F-B686110FF3AD}|{7B838460-B795-402B-9C0E-3F9893D8AE74}"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T064439Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d7fa80f1-d6d1-4ddd-9366-fd4a9c39b13a"
+      Hint: title
+      Value: 
+    - ID: "e5d5024c-a73c-4218-a3ce-0ec1d13276bc"
+      Hint: listItems
+      Value: "{1181A87E-65D1-4635-AB5F-B686110FF3AD}|{7B838460-B795-402B-9C0E-3F9893D8AE74}"

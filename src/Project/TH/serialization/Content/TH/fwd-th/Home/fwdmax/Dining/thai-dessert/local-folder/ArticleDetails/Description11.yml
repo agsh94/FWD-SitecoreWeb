@@ -1,0 +1,30 @@
+﻿---
+ID: "0dc42e2f-889e-48f8-84e9-cbe7271c6841"
+Parent: "900588e1-7e6b-433f-835f-5011ba2acb1a"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/thai-dessert/local-folder/ArticleDetails/Description11"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1900
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T012803Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        ใครอยากมาดื่มด่ำกับรสชาติขนมไทยที่สวยเก๋ทั้งหน้าตาและรสชาติที่ไม่ธรรมดาแบบนี้ แวะมาพิสูจน์ความอร่อยกันได้ที่ร้านทองย้อย คาเฟ่ <strong>พิเศษสำหรับลูกค้าที่ใช้แอปพลิเคชัน FWD MAX รับฟรีทันที ขนมงาขี้ม่อน 1 กล่อง</strong> เมื่อสั่งชุด Golden Set รับประทานที่ร้าน เฉพาะร้านทองย้อย คาเฟ่ สาขาอารีย์ เท่านั้น ดูรายละเอียดได้ที่ &gt;&gt; <a href="https://www.chillpainai.com/fwdmaxprivilege/">https://www.chillpainai.com/fwdmaxprivilege/</a><br />
+        <br />
+        <strong>สมัครรับสิทธิพิเศษ FWD MAX ได้ง่ายๆ<br />
+        iOS: <a href="https://goo.gl/c1PwMq">https://goo.gl/c1PwMq</a><br />
+        Android: <a href="https://goo.gl/RVJ6Kl">https://goo.gl/RVJ6Kl</a></strong>

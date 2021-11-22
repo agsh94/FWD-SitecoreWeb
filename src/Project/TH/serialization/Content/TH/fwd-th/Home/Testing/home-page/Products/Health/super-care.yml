@@ -1,0 +1,229 @@
+﻿---
+ID: "378608d0-27f5-4097-bdaf-732119471590"
+Parent: "fcb916a2-b634-41bb-84b7-811d5db53212"
+Template: "ab750b30-eb3c-4f78-acd7-7124675e31b9"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/Health/super-care"
+DB: master
+SharedFields:
+- ID: "0335b2bf-73a5-4556-845c-3d293900a051"
+  Hint: calculationOptions
+  Type: Multilist
+  Value: |
+    {4427E37A-FF0A-4C22-956A-B6775EE2D406}
+    {997537B8-BA25-403A-822A-FA55F7C6DCDC}
+- ID: "1294d890-c666-4ba0-b34a-68aaacfb432c"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: "{6FB0F5C7-56B1-455F-B58A-CFF07DB084A9}"
+- ID: "1d3856ad-c8db-42d3-b82a-e7d555d1c57b"
+  Hint: contentType
+  Value: "{A57B5556-98B3-4112-AC9F-1926D90455B8}"
+- ID: "27dcf3b3-6b64-45be-9830-7b18e7b5a30d"
+  Hint: purchaseMethod
+  Type: Multilist
+  Value: "{8B04E458-88A3-4076-9B16-A11CEBBA7343}"
+- ID: "3d992b17-a5b9-46ad-ad74-057f59dde04e"
+  Hint: userType
+  Type: Multilist
+  Value: "{BEC470BE-EBEE-4A68-BE1D-4D071BFCE207}"
+- ID: "40e7cd76-1c3f-4c59-9add-5d87fd722c95"
+  Hint: minimumSumAssured
+  Value: 5000
+- ID: "53e81091-36e9-4fae-82ef-cc970323fb4a"
+  Hint: promotionLabel
+  Value: "{6A6992CD-F876-425E-B04F-CDFB9F1F0576}"
+- ID: "5da84e26-edc9-46f4-a612-9d0a06f10f78"
+  Hint: maxAge
+  Value: 65
+- ID: "64abb349-60f0-4cdd-ba49-85d3e30a064c"
+  Hint: maximumSumAssured
+  Value: 40000
+- ID: "71c19061-4acb-437b-aa10-bce14430a683"
+  Hint: premiumSelectionType
+  Value: "{5AAFB9B3-C726-43C7-B42B-3D7CB583EF7A}"
+- ID: "7d65632c-3707-4aa1-8fde-154708f5309b"
+  Hint: secondaryNeedTags
+  Type: Multilist
+  Value: |
+    {76B23121-1A2D-4A4A-B0BB-03055681F0A1}
+    {8CB93ED3-756F-4E8A-B9D6-7174B935C9BF}
+- ID: "94def7f2-cb5c-478d-b5a3-58b9337cec2f"
+  Hint: minAge
+  Value: 16
+- ID: "95f6d4a5-8a21-4df1-bc3f-854aec6266e0"
+  Hint: premiumRange
+  Value: "{4C546579-22E0-4C86-A6A5-D71618469B2E}=100000&{EF4232ED-610F-4E59-8ED0-CFC12041532A}=200000"
+- ID: "b3910e5d-a842-4cc7-ac42-7a16a325a534"
+  Hint: promotionLabelIcon
+  Value: "{50D0B9C3-8A9C-4752-A572-5B2DC3D8B7DA}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 294
+- ID: "bdc75d02-2884-4dbb-a5a1-f54b2d539328"
+  Hint: featuredTags
+  Type: Treelist
+  Value: |
+    {6FB0F5C7-56B1-455F-B58A-CFF07DB084A9}
+    {76B23121-1A2D-4A4A-B0BB-03055681F0A1}
+    {8CB93ED3-756F-4E8A-B9D6-7174B935C9BF}
+- ID: "d9c07f77-f259-40d6-a5ba-9d6d81f78602"
+  Hint: sumAssuredRange
+  Value: "{4C546579-22E0-4C86-A6A5-D71618469B2E}=5000&{EF4232ED-610F-4E59-8ED0-CFC12041532A}=10000&{DE4F3437-A8A5-446D-987D-3B7FA5AA20B5}=20000&{0BC1EFA9-560B-4673-BBD8-E2CB6FC5669A}=30000&{72E4F527-CDCE-4B2A-A42F-7D9C9694FFB3}=40000"
+- ID: "e09501cb-adda-4125-a787-ba70b6b7e436"
+  Hint: planComponent
+  Value: "{685EAA7C-AB5F-4274-B3BC-01A34E45A474}"
+- ID: "e3e8c0b9-206d-4244-979b-966180ad502e"
+  Hint: sumAssuredPaymentMode
+  Type: Multilist
+  Value: |
+    {841ADCC5-0E34-49FD-8AF7-CB31DF656692}
+    {A90AED14-A023-4680-B2BE-A1999121D860}
+    {30D4F456-6094-443C-B87F-90D7EF7C2F6E}
+    {733A0160-DEBE-4F25-B188-819B3CF815A2}
+    {F6488E62-B165-449F-A3EE-43234D6D7C72}
+- ID: "ed85308c-d1e0-4bc4-95d2-6f72dd0a983e"
+  Hint: minimumPremiumYearly
+  Value: 100000
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;enableMargin&amp;divider" />
+        <r
+          uid="{E29659DC-AFAE-41F4-888B-95E901B67F55}"
+          s:ds="{9468395C-F194-4BE2-B6D0-4BF6384D46C5}"
+          s:par="paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;anchorText&amp;backgroundColor=%7bCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7d&amp;PlayVideoInBackground&amp;HeroBannerVariant=%7bFEC9E5EE-D112-4115-9D89-65EEB0CCE821%7d&amp;divider" />
+        <r
+          uid="{9E368FE2-5DFB-465C-9E94-837AD3BB0696}"
+          s:ds="{DB956AD0-366D-44CB-89D1-0EC103A74132}" />
+        <r
+          uid="{C04DA881-B7C4-4924-B8A7-BB4FA0B72B1E}">
+          <p:d />
+        </r>
+        <r
+          uid="{ADF6295D-2030-4C36-A77D-30BAFA91656E}">
+          <p:d />
+        </r>
+        <r
+          uid="{C0E77E9F-DF53-477F-8E55-00D7FBAA2304}">
+          <p:d />
+        </r>
+        <r
+          uid="{38AD9579-71F2-4684-9D94-B97D743F0F42}">
+          <p:d />
+        </r>
+        <r
+          uid="{6CE5E330-1851-42B6-B084-E1A12CBF1020}">
+          <p:d />
+        </r>
+        <r
+          uid="{4C7B980C-F70F-4E66-8244-6D525E8893B6}"
+          s:ds="{1E157949-71A7-4977-941A-B7127E87F02C}" />
+        <r
+          uid="{DED5BBA4-06A4-4A75-9C4D-82213BC122FB}">
+          <p:d />
+        </r>
+        <r
+          uid="{2B390507-47BA-4B3D-905C-6F34CE7E2210}">
+          <p:d />
+        </r>
+        <r
+          uid="{D27BEE87-DE3E-4D55-8DA3-CD4B71AA88A8}"
+          s:ds="{859112FF-87D0-416B-ACE5-88B4F5436BDD}" />
+        <r
+          uid="{3F81063B-49DF-486C-B93E-65EDAEE69DD0}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d" />
+        <r
+          uid="{F6BDD699-7646-4E1E-B375-5D6E5122D442}"
+          p:after="*[1=2]"
+          s:ds="{4B52C3EA-376D-4715-93BA-9D7FDB1019DD}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;contentBlockType&amp;backgroundColor=%7bCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;divider"
+          s:ph="jss-main" />
+      </d>
+    </r>
+- ID: "fac6da5e-91c2-4a88-869d-c13ee530df7c"
+  Hint: maximumPremiumYearly
+  Value: 600000
+- ID: "feb2e6da-b570-4b5e-9d80-80ccad7d0d47"
+  Hint: sumAssuredSelectionType
+  Value: "{9D0029B7-CEFE-4B3A-BE29-73243AC8EE43}"
+- ID: "ff451472-1b55-4228-b14d-ab9b2a449792"
+  Hint: isPageSearchable
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Super Care - Rider"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T102834Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: FWD has designed the variety of savings insurance plans to cover all your needs,
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: Super Care
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Super Care
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{11272320-CECC-4161-9015-6CBDDAAC0F2E}" />
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{1977106B-8714-4A53-AE67-3A25DE36F790}" />
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: FWD has designed the variety of savings insurance plans to cover all your needs, for you getting start by simply putting your money aside while living your life joyfully the way you want to. With our Savings Insurance Plans, you can paving a smooth financial path over time and no need to keep worry about the future.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055201Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: FWD has designed the variety of savings insurance plans to cover all your needs, for you getting start by simply putting your money aside while living your life joyfully the way you want to. With our Savings Insurance Plans, you can paving a smooth financial path over time and no need to keep worry about the future.
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: Super Care
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Super Care
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{11272320-CECC-4161-9015-6CBDDAAC0F2E}" />
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{10398967-2637-4D9F-B874-80CB56DFE008}" />
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: FWD has designed the variety of savings insurance plans to cover all your needs, for you getting start by simply putting your money aside while living your life joyfully the way you want to. With our Savings Insurance Plans, you can paving a smooth financial path over time and no need to keep worry about the future.

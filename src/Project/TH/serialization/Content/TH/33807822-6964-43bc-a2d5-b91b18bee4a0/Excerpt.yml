@@ -1,0 +1,21 @@
+﻿---
+ID: "c7dbcd60-1dfd-44c9-bc59-7b34d190863f"
+Parent: "33807822-6964-43bc-a2d5-b91b18bee4a0"
+Template: "dc2042d7-1cc2-4a69-8519-de9dc01a3a00"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Max/Health/fwd-health/local-folder/ArticleDetails/Excerpt"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f32a040-00d4-4a28-96b6-5dca215d1917"
+      Hint: excerpt
+      Value: "FWD is focused on creating fresh customer experiences, with easy-to-understand products, supported by digital technology. Through this customer-led approach, FWD aims to become a leading pan-Asian insurer that changes the way people feel about insurance."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T173144Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

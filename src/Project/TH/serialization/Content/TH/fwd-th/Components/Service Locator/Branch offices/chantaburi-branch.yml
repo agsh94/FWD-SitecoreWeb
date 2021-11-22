@@ -1,0 +1,217 @@
+﻿---
+ID: "c82da1f7-e693-4f6c-862d-09e83939b118"
+Parent: "ce8a6d1d-2f94-4fbd-852f-d551ed956d2a"
+Template: "e6a17ec7-e0d3-47b3-bd3e-28bbeb607420"
+Path: "/sitecore/content/fwd/fwd-th/Components/Service Locator/Branch offices/chantaburi-branch"
+DB: master
+SharedFields:
+- ID: "0580280c-57d4-4966-a08a-0f7e874814a4"
+  Hint: mobile
+  Value: 
+- ID: "1012cc35-3918-4ca9-8029-9002bc4071c7"
+  Hint: fax
+  Value: 0 3931 3551
+- ID: "20969991-14d8-413f-a0b3-606dde852fb4"
+  Hint: district
+  Value: "{96137865-97FB-44EF-924C-69B95F49BC1D}"
+- ID: "3002e2b9-559e-4664-86a6-a9aeaec07cac"
+  Hint: buttonIcon
+  Value: "{FCD7D121-C241-4EEC-B2C2-9D47C66E4181}"
+- ID: "7e4ef5f8-c53e-40af-b1b0-aa8e85495dc0"
+  Hint: latitude
+  Value: 12.6164087
+- ID: "896a3e55-9550-4e0c-a21d-efb9b0c61431"
+  Hint: officeType
+  Value: "{5D846C04-6040-4888-9C09-46916345973E}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "a88837dd-01d0-456a-b678-ef12fffa2496"
+  Hint: province
+  Value: "{D9C8F63D-AAC8-4D98-8CF9-4204023C8994}"
+- ID: "c20cce7b-5349-432e-a656-77394ce985e2"
+  Hint: facilityType
+  Type: Multilist
+  Value: "{73A61618-A163-442D-9107-237943CADC66}"
+- ID: "cc819fc2-63b9-4f6b-8538-24759fbd25d9"
+  Hint: telephone
+  Value: 0 3931 3549, 0 3931 3550
+- ID: "d3b0e30b-d1e6-45b9-ae31-ba0e14b75b99"
+  Hint: code
+  Value: B301
+- ID: "dc85978e-5c4c-404e-a4b0-1d0b35c01fe2"
+  Hint: postalCode
+  Value: 22000
+- ID: "dfac8c14-e646-463a-8464-507b86e06134"
+  Hint: contentType
+  Value: "{04E7400A-22DE-4392-A4AD-B78B7AA3B7A3}"
+- ID: "e7bd7bbc-38c3-42c8-bbeb-a84e612d75a5"
+  Hint: longitude
+  Value: 102.1048463
+- ID: "f493ee0f-a54a-4384-9f8e-f8ca6482b7aa"
+  Hint: area
+  Value: "{8BD4DF62-8F07-4B22-8E66-561AA8287682}"
+- ID: "fb6d3f20-15f7-448b-ba1b-ba2304d55dc6"
+  Hint: county
+  Value: "{5FC3D7DF-C0AD-47C2-A708-179FDE0E53BB}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Chantaburi Branch
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191230T052813Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "a8df4643-7000-41ca-8038-46afe2cb5494"
+      Hint: road
+      Value: Tah Luang Road
+    - ID: "bc88b2b5-f787-423f-966d-26720d738083"
+      Hint: name
+      Value: Chantaburi branch
+    - ID: "d0a7ad35-ad85-43ae-aaf6-1dbf443c91fb"
+      Hint: streetNumber
+      Value: 108/1
+    - ID: "e8eae067-bf99-4e68-863b-07bef46127ef"
+      Hint: openHours
+      Value: "Mon - Fri: 8:30am - 5pm Sat: 9am - 3:30pm"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200724T024523Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "a8df4643-7000-41ca-8038-46afe2cb5494"
+      Hint: road
+      Value: Tah Luang Road
+    - ID: "bc88b2b5-f787-423f-966d-26720d738083"
+      Hint: name
+      Value: Chantaburi branch
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200724T024523Z
+    - ID: "d0a7ad35-ad85-43ae-aaf6-1dbf443c91fb"
+      Hint: streetNumber
+      Value: 108/1
+    - ID: "e8eae067-bf99-4e68-863b-07bef46127ef"
+      Hint: openHours
+      Value: "Mon - Fri: 8:30am - 5pm Sat: 8:30am - 12pm"
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200731T073559Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "a8df4643-7000-41ca-8038-46afe2cb5494"
+      Hint: road
+      Value: Tah Luang Road
+    - ID: "bc88b2b5-f787-423f-966d-26720d738083"
+      Hint: name
+      Value: Chantaburi branch
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200731T073559Z
+    - ID: "d0a7ad35-ad85-43ae-aaf6-1dbf443c91fb"
+      Hint: streetNumber
+      Value: 108/1
+    - ID: "e8eae067-bf99-4e68-863b-07bef46127ef"
+      Hint: openHours
+      Value: "Mon - Fri: 8:30am - 5pm Sat: 8:30am - 12pm"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200420T122650Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a8df4643-7000-41ca-8038-46afe2cb5494"
+      Hint: road
+      Value:  ถ.ท่าหลวง
+    - ID: "bc88b2b5-f787-423f-966d-26720d738083"
+      Hint: name
+      Value: สาขาชลบุรี
+    - ID: "d0a7ad35-ad85-43ae-aaf6-1dbf443c91fb"
+      Hint: streetNumber
+      Value: 108/1
+    - ID: "e8eae067-bf99-4e68-863b-07bef46127ef"
+      Hint: openHours
+      Value: "วันจันทร์ - ศุกร์ 8:30 - 5 น. วันเสาร์ 9 - 3:30 น"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200722T074233Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "a8df4643-7000-41ca-8038-46afe2cb5494"
+      Hint: road
+      Value:  ถ.ท่าหลวง
+    - ID: "bc88b2b5-f787-423f-966d-26720d738083"
+      Hint: name
+      Value: สาขาจันทบุรี
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200722T074233Z
+    - ID: "d0a7ad35-ad85-43ae-aaf6-1dbf443c91fb"
+      Hint: streetNumber
+      Value: 108/1
+    - ID: "e8eae067-bf99-4e68-863b-07bef46127ef"
+      Hint: openHours
+      Value: "วันจันทร์ - ศุกร์ 8:30 - 17:00 น. วันเสาร์ 8:30 - 12:00 น. "
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200724T093837Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "a8df4643-7000-41ca-8038-46afe2cb5494"
+      Hint: road
+      Value:  ถ.ท่าหลวง
+    - ID: "bc88b2b5-f787-423f-966d-26720d738083"
+      Hint: name
+      Value: สาขาจันทบุรี
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200724T093837Z
+    - ID: "d0a7ad35-ad85-43ae-aaf6-1dbf443c91fb"
+      Hint: streetNumber
+      Value: 108/1
+    - ID: "e8eae067-bf99-4e68-863b-07bef46127ef"
+      Hint: openHours
+      Value: "วันจันทร์ - ศุกร์ 8:30 - 17:00 น. วันเสาร์ 8:30 - 12:00 น. "

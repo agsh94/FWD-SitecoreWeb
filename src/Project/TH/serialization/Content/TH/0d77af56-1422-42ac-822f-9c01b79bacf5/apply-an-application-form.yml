@@ -1,0 +1,302 @@
+﻿---
+ID: "da0d574d-f656-4264-8c7e-f0841764f394"
+Parent: "0d77af56-1422-42ac-822f-9c01b79bacf5"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/premium-payment/local-folder/premium-payment/DropdownItem/auto-recurring-payment-via-savings-account/apply-an-application-form"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Apply An Application Form
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191224T132318Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>Click here to download our <a href="-/media/c80b05b1259e4310b60ebd4a89c3d550.ashx">"signature verification guidelines"</a></p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><strong>Apply by submitting an application form</strong></p>
+        <p>Fill in the <a href="-/media/0ab29bc03cd34063987caf34b239e8b0.ashx">application form</a>&nbsp;and submit it to FWD. You will get a response from the bank within one month. Forms are also available at FWD branches, or you can call FWD customer services on 1351. </p>
+        <br />
+        <p>How to submit your application:</p>
+        <ul>
+            <li>Through your agent </li>
+            <li>Mail to
+            <ul>
+                <li>Policy Owner Service Department, FWD Life Insurance Public Company Limited, 14th floor, Sindhorn Building Tower 3, 130-132 Wireless Road, Lumpini, Pathumwan, Bangkok 10330</li>
+            </ul>
+            </li>
+            <li>In person via <a href="~/link.aspx?_id=AAD279292ECF455F9D177FBE1554B510&amp;_z=z/?lat=13.736053&long=100.544843&province=Bangkok&facilityType=FWD%20branches">FWD head office or any branch offices</a></li>
+        </ul>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200806T040727Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <p>Click here to download our <a href="-/media/c80b05b1259e4310b60ebd4a89c3d550.ashx">"signature verification guidelines"</a></p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><strong>Apply by submitting an application form</strong></p>
+        <p>Fill in the <a href="-/media/0ab29bc03cd34063987caf34b239e8b0.ashx">application form</a>&nbsp;and submit it to FWD. You will get a response from the bank within one month. Forms are also available at FWD branches, or you can call FWD customer services on 1351. </p>
+        <br />
+        <p>Remark **form must be signed as a wet signature with blue color only**</p>
+        <br />
+        <p>How to submit your application:</p>
+        <ul>
+            <li>Through your agent </li>
+            <li>Mail to
+            <ul>
+                <li>Policy Owner Service Department, FWD Life Insurance Public Company Limited, 14th floor, Sindhorn Building Tower 3, 130-132 Wireless Road, Lumpini, Pathumwan, Bangkok 10330</li>
+            </ul>
+            </li>
+            <li>In person via <a href="~/link.aspx?_id=AAD279292ECF455F9D177FBE1554B510&amp;_z=z/?lat=13.736053&amp;long=100.544843&amp;province=Bangkok&amp;facilityType=FWD%20branches">FWD head office or any branch offices</a></li>
+        </ul>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200806T040727Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200806T072001Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <p>Click here to download our <a href="-/media/c80b05b1259e4310b60ebd4a89c3d550.ashx">"signature verification guidelines"</a></p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><strong>Apply by submitting an application form</strong></p>
+        <p>Fill in the <a href="-/media/00f13307360241dfa5bf250ebca83813.ashx">application form</a>&nbsp;and submit it to FWD. You will get a response from the bank within one month. Forms are also available at FWD branches, or you can call FWD customer services on 1351. </p>
+        <br />
+        <p>Remark **form must be signed as a wet signature with blue color only**</p>
+        <br />
+        <p>How to submit your application:</p>
+        <ul>
+            <li>Through your agent </li>
+            <li>Mail to
+            <ul>
+                <li>Policy Owner Service Department, FWD Life Insurance Public Company Limited, 14th floor, Sindhorn Building Tower 3, 130-132 Wireless Road, Lumpini, Pathumwan, Bangkok 10330</li>
+            </ul>
+            </li>
+            <li>In person via <a href="~/link.aspx?_id=AAD279292ECF455F9D177FBE1554B510&amp;_z=z/?lat=13.736053&amp;long=100.544843&amp;province=Bangkok&amp;facilityType=FWD%20branches">FWD head office or any branch offices</a></li>
+        </ul>
+        <div id="gtx-trans" style="position: absolute; left: 137px; top: 97.6945px;">
+        <div class="gtx-trans-icon">&nbsp;</div>
+        </div>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200806T072001Z
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200921T023036Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <p>Click here to download our <a href="-/media/c80b05b1259e4310b60ebd4a89c3d550.ashx">"signature verification guidelines"</a></p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><strong>Apply by submitting an application form</strong></p>
+        <p>Fill in the premium payment by savings account application form. This is both for <a href="-/media/2dd0a5d63c464735852196e84141820c.ashx">policies bought from SCB&nbsp;or <span>through&nbsp;</span>a former agency channel</a> as well <a href="-/media/documents/new-form/auto-debit.pdf?rev=f8e4c2fffd6140509f682e0c8c62a5c0">as policies bought <span>through&nbsp;</span>an FWD sales agent or any other FWD channel</a>. </p>
+        <br />
+        <p>Remark **form must be signed as a wet signature with blue color only**</p>
+        <br />
+        <p>Three ways to apply:</p>
+        <ul>
+            <li>Through your agent </li>
+            <li>Mail to
+            <ul>
+                <li>Policy Owner Service Department, FWD Life Insurance Public Company Limited, 14th floor, Sindhorn Building Tower 3, 130-132 Wireless Road, Lumpini, Pathumwan, Bangkok 10330</li>
+            </ul>
+            </li>
+            <li>In person via <a href="~/link.aspx?_id=AAD279292ECF455F9D177FBE1554B510&amp;_z=z/?lat=13.736053&amp;long=100.544843&amp;province=Bangkok&amp;facilityType=FWD%20branches">FWD head office or any branch offices</a></li>
+        </ul>
+        <div id="gtx-trans" style="position: absolute; left: 137px; top: 97.6945px;">
+        <div class="gtx-trans-icon">&nbsp;</div>
+        </div>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200921T023036Z
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Apply An Application Form
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T084936Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>สมัครผ่านการกรอกแบบฟอร์มของ FWD</strong></p>
+        <p>สามารถคลิกที่นี่เพื่อ ดาวน์โหลดแบบฟอร์ม <a href="-/media/0ab29bc03cd34063987caf34b239e8b0.ashx">หนังสือยินยอมหักค่าเบี้ยประกันภัยผ่านบัญชีเงินฝากธนาคารอัตโนมัติ </a>(1ชุด มี 3 หน้า) ทั้งนี้คุณยังสามารถขอแบบฟอร์มได้ที่สาขาของบริษัท หรือที่ศูนย์บริการลูกค้าเอฟดับบลิวดี โทร. 1351</p>
+        <br />
+        <p>ขั้นตอนการยื่นเอกสาร:</p>
+        <ul>
+            <li>นำส่งผ่านตัวแทน</li>
+            <li>ส่งผ่านไปรษณีย์มายัง ฝ่ายบริการผู้ถือกรมธรรม์ บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) 130-132 อาคารสินธร ทาวเวอร์ 3 ชั้น 14 ถนนวิทยุ แขวงลุมพินี เขตปทุมวัน กรุงเทพฯ 10330</li>
+            <li>หรือนำส่งด้วยตนเองได้ที่ <a href="~/link.aspx?_id=AAD279292ECF455F9D177FBE1554B510&amp;_z=z/?lat=13.736053&amp;long=100.544843&amp;province=Bangkok&amp;facilityType= สาขา เอฟดับบลิวดี">FWD สำนักงานใหญ่และสำนักงานสาขาทุกแห่ง</a>&nbsp;โดยธนาคารจะแจ้งผลการสมัครให้ท่านทราบภายใน 1 เดือน </li>
+        </ul>
+        <div id="gtx-trans" style="position: absolute; left: -32px; top: -24px;">
+        <div class="gtx-trans-icon">&nbsp;</div>
+        </div>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200806T040226Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <p><strong>สมัครผ่านการกรอกแบบฟอร์มของ FWD</strong></p>
+        <p>สามารถคลิกที่นี่เพื่อ ดาวน์โหลดแบบฟอร์ม <a href="-/media/0ab29bc03cd34063987caf34b239e8b0.ashx">หนังสือยินยอมหักค่าเบี้ยประกันภัยผ่านบัญชีเงินฝากธนาคารอัตโนมัติ </a>(1ชุด มี 3 หน้า) ทั้งนี้คุณยังสามารถขอแบบฟอร์มได้ที่สาขาของบริษัท หรือที่ศูนย์บริการลูกค้าเอฟดับบลิวดี โทร. 1351</p>
+        <br />
+        <p>หมายเหตุ ** เอกสารต้องลงนามด้วยลายเซ็นต์สดและปากกาสีน้ำเงินเท่านั้น **</p>
+        <br />
+        <p>ขั้นตอนการยื่นเอกสาร:</p>
+        <ul>
+            <li>นำส่งผ่านตัวแทน</li>
+            <li>ส่งผ่านไปรษณีย์มายัง ฝ่ายบริการผู้ถือกรมธรรม์ บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) 130-132 อาคารสินธร ทาวเวอร์ 3 ชั้น 14 ถนนวิทยุ แขวงลุมพินี เขตปทุมวัน กรุงเทพฯ 10330</li>
+            <li>หรือนำส่งด้วยตนเองได้ที่ <a href="~/link.aspx?_id=AAD279292ECF455F9D177FBE1554B510&amp;_z=z/?lat=13.736053&amp;long=100.544843&amp;province=Bangkok&amp;facilityType= สาขา เอฟดับบลิวดี">FWD สำนักงานใหญ่และสำนักงานสาขาทุกแห่ง</a>&nbsp;โดยธนาคารจะแจ้งผลการสมัครให้ท่านทราบภายใน 1 เดือน </li>
+        </ul>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200806T040226Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200806T071738Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <p><strong>สมัครผ่านการกรอกแบบฟอร์มของ FWD</strong></p>
+        <p>สามารถคลิกที่นี่เพื่อ ดาวน์โหลดแบบฟอร์ม <a href="-/media/00f13307360241dfa5bf250ebca83813.ashx">หนังสือยินยอมหักค่าเบี้ยประกันภัยผ่านบัญชีเงินฝากธนาคารอัตโนมัติ </a>(1ชุด มี 3 หน้า) ทั้งนี้คุณยังสามารถขอแบบฟอร์มได้ที่สาขาของบริษัท หรือที่ศูนย์บริการลูกค้าเอฟดับบลิวดี โทร. 1351</p>
+        <br />
+        <p>หมายเหตุ ** เอกสารต้องลงนามด้วยลายเซ็นต์สดและปากกาสีน้ำเงินเท่านั้น **</p>
+        <br />
+        <p>ขั้นตอนการยื่นเอกสาร:</p>
+        <ul>
+            <li>นำส่งผ่านตัวแทน</li>
+            <li>ส่งผ่านไปรษณีย์มายัง ฝ่ายบริการผู้ถือกรมธรรม์ บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) 130-132 อาคารสินธร ทาวเวอร์ 3 ชั้น 14 ถนนวิทยุ แขวงลุมพินี เขตปทุมวัน กรุงเทพฯ 10330</li>
+            <li>หรือนำส่งด้วยตนเองได้ที่ <a href="~/link.aspx?_id=AAD279292ECF455F9D177FBE1554B510&amp;_z=z/?lat=13.736053&amp;long=100.544843&amp;province=Bangkok&amp;facilityType= สาขา เอฟดับบลิวดี">FWD สำนักงานใหญ่และสำนักงานสาขาทุกแห่ง</a>&nbsp;โดยธนาคารจะแจ้งผลการสมัครให้ท่านทราบภายใน 1 เดือน </li>
+        </ul>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200806T071738Z
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200921T022650Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <p><strong>สมัครผ่านการกรอกแบบฟอร์มของ FWD</strong></p>
+        <p>ดาวน์โหลดแบบฟอร์มยินยอมหักค่าเบี้ยประกันผ่านบัญชีเงินฝากของธนาคาร</p>
+        <ul>
+            <li><a href="-/media/2dd0a5d63c464735852196e84141820c.ashx">หนังสือยินยอมให้หักบัญชีเงินฝาก (กรมธรรม์ที่ซื้อผ่านธนาคารไทยพาณิชย์หรือตัวแทนเดิม)</a></li>
+            <li><a href="-/media/documents/new-form/auto-debit.pdf?rev=f8e4c2fffd6140509f682e0c8c62a5c0">หนังสือยินยอมให้หักบัญชีเงินฝาก (กรมธรรม์ที่ซื้อผ่านตัวแทนของ FWD หรือช่องทางอื่นๆ)&nbsp;</a></li>
+        </ul>
+        หรือคุณสามารถขอแบบฟอร์มได้ที่สาขาของบริษัท หรือศูนย์บริการลูกค้าเอฟดับบลิวดี โทร. 1351<br />
+        <p>หมายเหตุ ** เอกสารต้องลงนามด้วยลายเซ็นต์สดและปากกาสีน้ำเงินเท่านั้น **</p>
+        <br />
+        <p>ขั้นตอนการยื่นเอกสาร:</p>
+        <ul>
+            <li>นำส่งผ่านตัวแทน</li>
+            <li>ส่งผ่านไปรษณีย์มายัง ฝ่ายบริการผู้ถือกรมธรรม์ บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) 130-132 อาคารสินธร ทาวเวอร์ 3 ชั้น 14 ถนนวิทยุ แขวงลุมพินี เขตปทุมวัน กรุงเทพฯ 10330</li>
+            <li>หรือนำส่งด้วยตนเองได้ที่ <a href="~/link.aspx?_id=AAD279292ECF455F9D177FBE1554B510&amp;_z=z/?lat=13.736053&amp;long=100.544843&amp;province=Bangkok&amp;facilityType= สาขา เอฟดับบลิวดี">FWD สำนักงานใหญ่และสำนักงานสาขาทุกแห่ง</a>&nbsp;โดยธนาคารจะแจ้งผลการสมัครให้ท่านทราบภายใน 1 เดือน </li>
+        </ul>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200921T022650Z

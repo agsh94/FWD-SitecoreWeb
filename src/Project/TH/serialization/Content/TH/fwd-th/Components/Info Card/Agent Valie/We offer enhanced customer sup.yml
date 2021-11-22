@@ -1,0 +1,60 @@
+﻿---
+ID: "a9f4f430-ce23-4166-a0f1-7285b46d3c7a"
+Parent: "80cb1f4b-6759-460a-80aa-e30b1ef6d03d"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Components/Info Card/Agent Valie/We offer enhanced customer support"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: "Our award-winning care team means you can offer your customers a range of additional support, services and privileges."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T100106Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: We offer enhanced customer support
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{B85FED73-5B6D-447B-A248-BD272A76DD0A}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{B85FED73-5B6D-447B-A248-BD272A76DD0A}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: ทีมบริการลูกค้าที่ยอดเยี่ยมของเราพร้อมอยู่เคียงข้าง เพื่อส่งมอบความช่วยเหลือ บริการ รวมถึงสิทธิพิเศษต่างๆ ให้แก่ลูกค้าอย่างดีที่สุด
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T100236Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: เราพร้อมให้บริการช่วยเหลือลูกค้าอย่างเต็มที่
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{B85FED73-5B6D-447B-A248-BD272A76DD0A}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{B85FED73-5B6D-447B-A248-BD272A76DD0A}" />

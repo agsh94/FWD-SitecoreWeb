@@ -1,0 +1,77 @@
+﻿---
+ID: "21cf7dc7-2a3b-45cd-b3df-6dfc4f0516bb"
+Parent: "830273fe-e07b-4bd2-84ee-fb1a7fb82931"
+Template: "ba8c333b-add6-430d-b14e-7a8009689339"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/TestingLifeCare/compare"
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{099ADFCF-7952-45FD-9498-FD6538110D83}"
+          s:ds="{70C06E09-7365-42DF-A003-D11ABAB9F133}" />
+        <r
+          uid="{F703E97D-B432-4C44-ACCD-2F56BBFA8E1F}"
+          s:ds="{F1A6084F-619F-4514-BF16-99AB546BE6B7}" />
+        <r
+          uid="{8C18F6AE-E6DF-48E4-8667-A69ED7D676AA}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F703E97D-B432-4C44-ACCD-2F56BBFA8E1F}"
+              s:par="anchorText&amp;backgroundColor=%7B5FAA4B9B-7F56-4B83-BE82-328710EEF242%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+          </d>
+        </r>
+    - ID: "15f18762-01e2-437e-b510-403b009e0846"
+      Hint: openGraphType
+      Value: OG Type
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200610T130426Z
+    - ID: "8960d36d-84b0-4f47-aa98-a0e27a3903b8"
+      Hint: openGraphImage
+      Value: |
+        <image mediaid="{52C93435-2E19-463C-BAA8-E7CD874039EC}" />
+    - ID: "975e0bc5-6e06-4308-bbbb-0fe142392035"
+      Hint: openGraphDescription
+      Value: Product Open graph description
+    - ID: "fdf6a80f-16e1-4a1d-9b7b-f3f181276725"
+      Hint: openGraphTitle
+      Value: Products|Value Protector
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200708T132916Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Compare

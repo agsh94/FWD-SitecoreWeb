@@ -1,0 +1,31 @@
+﻿---
+ID: "06a3f192-3e6c-4000-9bcc-ab2aef5740bf"
+Parent: "ff69e685-0666-4144-b68d-8a47b70858be"
+Template: "683bbabe-aadd-4e41-95eb-fd590132565d"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/savings/ValueProtector/PlanMultiple/AttributeFolder/CoverageLimit/Death"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200702T170215Z
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{9833AEF8-DEF9-440D-AE65-EA46F5DA9414}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200708T141950Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{9833AEF8-DEF9-440D-AE65-EA46F5DA9414}"

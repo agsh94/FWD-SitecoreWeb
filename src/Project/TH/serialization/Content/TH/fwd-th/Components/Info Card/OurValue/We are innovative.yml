@@ -1,0 +1,64 @@
+﻿---
+ID: "34680d61-a0c4-430c-b334-d11306d1d7c9"
+Parent: "839bfbcd-d6a8-4c34-b020-8c6f60de84fb"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Components/Info Card/OurValue/We are innovative"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: "We embrace new ideas and promote a  spirit of innovation - from our next-gen work space, designed by our employees, to our future-ready products, inspired by our customers."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T030745Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: We’re innovative
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{03BC401B-D150-4092-B985-28E6A5370EF9}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{03BC401B-D150-4092-B985-28E6A5370EF9}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: เรานำไอเดียใหม่ๆมาใช้ และส่งเสริมการทำงานด้วยนวัตกรรม ตั้งแต่สถานที่ทำงานที่ล้ำสมัยซึ่งถูกออกแบบโดยพนักงานของเรา ไปจนถึงผลิตภัณฑ์ที่พร้อมสำหรับอนาคตที่ได้รับแรงบันดาลใจจากลูกค้า
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T075154Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: เราสร้างสรรค์ไอเดียใหม่ๆ
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{03BC401B-D150-4092-B985-28E6A5370EF9}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{03BC401B-D150-4092-B985-28E6A5370EF9}" />

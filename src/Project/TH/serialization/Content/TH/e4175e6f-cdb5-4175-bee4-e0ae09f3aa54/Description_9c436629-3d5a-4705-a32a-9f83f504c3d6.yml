@@ -1,0 +1,25 @@
+﻿---
+ID: "9c436629-3d5a-4705-a32a-9f83f504c3d6"
+Parent: "e4175e6f-cdb5-4175-bee4-e0ae09f3aa54"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Sport/running-man/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T132942Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        สุดท้ายผมเชื่อว่าเพื่อนๆ หลายๆ คนเมื่อได้อ่านบทความนี้ ก็จะกลับไปตั้งขอสังเกตถึงคนรู้จักหรือเพื่อนที่เป็นนักวิ่งที่เก่งๆ ว่าคนเหล่านี้ที่เรารู้จักเค้าก็ไม่เห็นฝึกกล้ามเนื้อหรือฝึกดริลเร็วเลยนี่หว่า เค้าก็ยังเก่งได้ จนเกิดความคิดแนวๆ เข้าข้างตัวเองว่า &ldquo;<strong>เราก็ไม่เห็นจะต้องฝึกมันเลยนิ?</strong>&rdquo; แต่ผมอยากให้ลองเปลี่ยนมุมมองแล้วคิดดูว่า ขนาดเค้าไม่เคยฝึกเค้ายังเก่งขนาดนี้ ถ้าเค้าได้ฝึกกล้ามหรือฝึกดริลอาจจะเก่งขึ้นกว่านี้ได้อีกก็ได้นะ เพราะฉะนั้นทำซะเถอะ<br />
+        <br />
+        เครดิตภาพ : Myzz Kanyapass, Renu Tanasanti<br />
+        บทความโดย : แอดอี้ เพจสองคนสี่ขา

@@ -1,0 +1,28 @@
+﻿---
+ID: "1111f9f5-b216-4edd-8c0b-92e587c24a93"
+Parent: "9a4c0e3a-27b4-49bc-a1fd-e334dcc68158"
+Template: "51759dd5-d4f6-4dca-9471-ffa1943dbeb4"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/TableVariationWithFlexi/local-folder/GroupProductList"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{9EFEDD02-FE7B-417D-8AE9-7A5D040A93EB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200726T144353Z
+    - ID: "3cb9bc8f-5e3f-4dd6-85f8-b83871ce7a80"
+      Hint: title
+      Value: GroupProductList
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

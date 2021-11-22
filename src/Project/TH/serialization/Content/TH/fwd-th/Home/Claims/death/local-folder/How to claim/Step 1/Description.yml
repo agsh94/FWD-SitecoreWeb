@@ -1,0 +1,100 @@
+﻿---
+ID: "e255a3b4-aefb-4ba4-927d-77e3a1dd0124"
+Parent: "22effd8f-6e8b-4bfc-8cb8-738f686e33ea"
+Template: "ad6870d4-2dd6-40ef-a8fa-941ab32cee43"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/death/local-folder/How to claim/Step 1/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T023752Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Original</strong></p>
+        <ul>
+            <li>Policy document</li>
+        </ul>
+        <br />
+        <p><strong>Certified true copy</strong></p>
+        <ul>
+            <li>Death certificate &ndash; must be certified by the beneficiary</li>
+            <li>The insured&rsquo;s ID card &ndash; must be certified by the beneficiary</li>
+            <li>The insured&rsquo;s census with a &ldquo;death&rdquo; stamp from a local registrar - certified by the beneficiary</li>
+            <li>The beneficiary&rsquo;s census certified by the beneficiary</li>
+            <li>In case of death from non-natural causes (e.g. accidental death, homicide, suicide, death by animal, undetermined): Report from Royal Thai Police, certified by a police officer</li>
+        </ul>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T023748Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>เอกสารต้นฉบับ</strong></p>
+        <ul>
+            <li>เอกสารกรมธรรม์ประกันชีวิต</li>
+        </ul>
+        <br />
+        <p><strong>เอกสารรับรองสำเนาถูกต้อง</strong></p>
+        <ul>
+            <li>สำเนาใบมรณบัตร รับรองสำเนาถูกต้องโดยผู้รับผลประโยชน์</li>
+            <li>สำเนาบัตรประชาชนของผู้เอาประกัน รับรองสำเนาถูกต้องโดยผู้รับผลประโยชน์</li>
+            <li>สำเนาทะเบียนบ้านของผู้เอาประกันที่มีการจำหน่าย "ตาย" เรียบร้อยแล้ว รับรองสำเนาถูกต้องโดยผู้รับผลประโยชน์</li>
+            <li>สำเนาทะเบียนบ้านของผู้รับผลประโยชน์</li>
+            <li>สำเนาบันทึกประจำวันที่มีการรับรองสำเนาถูกต้องโดยเจ้าหน้าที่ตำรวจ กรณี เสียชีวิตโดยเหตุผิดธรรมชาติ เช่น อุบัติเหตุ ถูกฆาตกรรม ฆ่าตัวตาย ถูกสัตว์ทำให้ตาย ตายโดยไม่ทราบสาเหตุ</li>
+        </ul>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200713T153043Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <p><strong>เอกสารต้นฉบับ</strong></p>
+        <ul>
+            <li>กรมธรรม์ประกันชีวิต</li>
+        </ul>
+        <br />
+        <p><strong>เอกสารรับรองสำเนาถูกต้อง</strong></p>
+        <ul>
+            <li>สำเนาใบมรณบัตร รับรองสำเนาถูกต้องโดยผู้รับผลประโยชน์</li>
+            <li>สำเนาบัตรประชาชนของผู้เอาประกัน รับรองสำเนาถูกต้องโดยผู้รับผลประโยชน์</li>
+            <li>สำเนาทะเบียนบ้านของผู้เอาประกันที่มีการจำหน่าย "ตาย" เรียบร้อยแล้ว รับรองสำเนาถูกต้องโดยผู้รับผลประโยชน์</li>
+            <li>สำเนาทะเบียนบ้านของผู้รับผลประโยชน์</li>
+            <li>สำเนาบันทึกประจำวันที่มีการรับรองสำเนาถูกต้องโดยเจ้าหน้าที่ตำรวจ กรณี เสียชีวิตโดยเหตุผิดธรรมชาติ เช่น อุบัติเหตุ ถูกฆาตกรรม ฆ่าตัวตาย ถูกสัตว์ทำให้ตาย ตายโดยไม่ทราบสาเหตุ</li>
+        </ul>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200713T153043Z

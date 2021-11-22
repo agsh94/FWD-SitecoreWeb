@@ -1,0 +1,45 @@
+﻿---
+ID: "3f26ea1f-4536-4d80-8881-f3e2838003a3"
+Parent: "88e88b53-d713-4557-a523-e22b330d0c7f"
+Template: "c24acda9-af2d-4f91-b736-509937cc444e"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Max/local-folder/featured-articles"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Featured Articles
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T095237Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d7ce724c-2ece-4ca3-99ed-06b20e846322"
+      Hint: linkItems
+      Value: "{2BFE4F1A-F233-401D-8C0A-FFD203ADA201}|{C1682286-6AD1-4042-A514-328509EFE7C9}|{8112027B-7B0A-40BA-B78F-6B72812518F2}"
+    - ID: "f39b7a44-d8d3-467c-949d-5a6a33a9bb8a"
+      Hint: title
+      Value: Featured
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T060935Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d7ce724c-2ece-4ca3-99ed-06b20e846322"
+      Hint: linkItems
+      Value: "{785B227F-BB7E-4FA0-B7B2-1E8184F1E5D3}|{E32329DD-2FC7-45BB-808C-1E5B105336D2}|{E8B6E0EC-54ED-4A7E-8A83-9592FE8DF25C}"
+    - ID: "f39b7a44-d8d3-467c-949d-5a6a33a9bb8a"
+      Hint: title
+      Value: Featured

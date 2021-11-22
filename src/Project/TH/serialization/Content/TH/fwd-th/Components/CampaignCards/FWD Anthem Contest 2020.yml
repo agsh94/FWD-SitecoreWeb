@@ -1,0 +1,69 @@
+﻿---
+ID: "99661c3b-31e6-41a1-aeb1-bd40dd5c93c3"
+Parent: "49815e8c-6362-476e-a764-a217827ee730"
+Template: "f1076e50-7ea9-4ce1-a4da-09f5c71b91e3"
+Path: "/sitecore/content/fwd/fwd-th/Components/CampaignCards/FWD Anthem Contest 2020"
+DB: master
+SharedFields:
+- ID: "76eb0c81-c181-4fb8-b5a8-cbdcb0de9fb2"
+  Hint: link
+  Value: |
+    <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{1AD2C6A5-3203-445E-A5CE-E0B682705E6E}" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-50"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200413T142044Z
+    - ID: "5ca0b426-a772-4ca2-83f7-a402b5674c40"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{40E46907-4A2C-45DA-9203-BC4578BA9198}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c25bc0d0-1892-4153-ae5d-54f266e1cdfe"
+      Hint: subTitle
+      Value: |
+        Join our song writer contest – to win the first prize of THB20,000, Our challenge is for you to write creatively about FWD! 
+        
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: FWD Anthem Contest 2020
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{40E46907-4A2C-45DA-9203-BC4578BA9198}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200413T141946Z
+    - ID: "5ca0b426-a772-4ca2-83f7-a402b5674c40"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{40E46907-4A2C-45DA-9203-BC4578BA9198}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c25bc0d0-1892-4153-ae5d-54f266e1cdfe"
+      Hint: subTitle
+      Value: |
+        เข้าร่วมการประกวดเขียนเนื้อเพลง ผู้ชนะจะได้รับเงินรางวัล 20,000 บาท เราขอท้าให้คุณเขียนเนื้อเพลงที่เกี่ยวกับ เอฟดับบลิวดี ประกันชีวิต อย่างสร้างสรรค์
+        
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: การประกวดแต่งเนื้อเพลงเอฟดับบลิวดี
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{40E46907-4A2C-45DA-9203-BC4578BA9198}" />

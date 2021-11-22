@@ -1,0 +1,22 @@
+﻿---
+ID: "d3439948-fab6-4e2f-82be-d79b8a414f1b"
+Parent: "e9690d91-e157-4ab0-8bbd-0af2098a6ce5"
+Template: "3a1a3b48-3434-4e5a-8f05-ad6e1687d888"
+Path: /sitecore/content/Applications/Content Editor/Ribbons/Contextual Ribbons/Purge Media Folder
+DB: core
+SharedFields:
+- ID: "77280bfa-35a9-4f0a-9642-d5c8b21c9eae"
+  Hint: Sticky Chunk
+  Value: /sitecore/content/Applications/Content Editor/Ribbons/Chunks/Write
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201209T101210Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

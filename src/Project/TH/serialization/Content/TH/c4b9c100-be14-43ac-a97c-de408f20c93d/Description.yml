@@ -1,0 +1,84 @@
+﻿---
+ID: "c2f6bdc1-fe62-4731-85f0-9cc44e48ec48"
+Parent: "c4b9c100-be14-43ac-a97c-de408f20c93d"
+Template: "ad6870d4-2dd6-40ef-a8fa-941ab32cee43"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/care-card/local-folder/Out-patient In-patient/Out-Patient/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T080220Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value: "Note:"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ol>
+            <li>The FWD Care Card must be presented each time you (or the insured) visit a hospital. If not, you&rsquo;ll need to pay in advance and then submit a claim. Need to know how to do this? Head <a href="~/link.aspx?_id=645F96770A724985BA13AFC14647AE5F&amp;_z=z">here</a>&nbsp;to our Health and Accident claims page.</li>
+            <li>We assess accident claims after we receive billing from the hospital where the insured has received treatment using the FWD Care Card.</li>
+            <li>Hospitals normally bill us within two months. Therefore if you / the insured person need us to pay any accidental claim (AI) earlier than the normal cycle, you / the insured person has to submit a claim (together with your medical certificate) directly to us.</li>
+        </ol>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T081055Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value: "หมายเหตุ:"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ol>
+            <li>กรุณาแสดงบัตร เอฟดับบลิวดี แคร์การ์ด ทุกครั้งที่คุณ (หรือผู้ประกันตน) เข้ารับการรักษาที่โรงพยาบาล หากไม่เช่นนั้นแล้ว คุณจะต้องสำรองจ่ายล่วงหน้า และยื่นเรียกร้องค่าสินไหมในภายหลัง ต้องการดูรายละเอียด <a href="~/link.aspx?_id=645F96770A724985BA13AFC14647AE5F&amp;_z=z">ไปที่</a>หน้าเรียกร้องสินไหมประกันสุขภาพและอุบัติเหตุ</li>
+            <li>เราพิจารณาการเรียกร้องสินไหมกรณีอุบัติเหตุ หลังจากที่เราได้รับเอกสารค่าใช้จ่ายจากโรงพยาบาลที่ผู้เอาประกันภัยเข้ารับการรักษา โดยใช้บัตรเอฟดับบลิวดี แคร์การ์ด</li>
+            <li>โดยปกติ โรงพยาบาลจะเรียกเก็บค่ารักษาจากบริษัทภายในสองเดือน ในกรณีที่คุณหรือผู้ถือกรมธรรม์ประสงค์ให้บริษัทชำระค่าใช้จ่ายตามคำขอเคลมอุบัติเหตุ (ประเภท AI) ก่อนรอบการชำระตามปกติ  คุณหรือผู้ถือกรมธรรม์ต้องส่งคำขอเคลมพร้อมใบรับรองแพทย์มาที่บริษัทโดยตรง</li>
+        </ol>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200914T123420Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value: "หมายเหตุ:"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D80D2A5C-D5F8-4DA1-8828-B4F51D64461B}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ol>
+            <li>กรุณาแสดงบัตร เอฟดับบลิวดี แคร์การ์ด ทุกครั้งที่คุณ (หรือผู้ประกันตน) เข้ารับการรักษาที่โรงพยาบาล หากไม่เช่นนั้นแล้ว คุณจะต้องสำรองจ่ายล่วงหน้า และยื่นเรียกร้องค่าสินไหมในภายหลัง ต้องการดูรายละเอียด <a href="~/link.aspx?_id=645F96770A724985BA13AFC14647AE5F&amp;_z=z">ไปที่</a>หน้าเรียกร้องสินไหมประกันสุขภาพและอุบัติเหตุ</li>
+            <li>เราพิจารณาการเรียกร้องสินไหมกรณีอุบัติเหตุ หลังจากที่เราได้รับเอกสารค่าใช้จ่ายจากโรงพยาบาลที่ผู้เอาประกันภัยเข้ารับการรักษา โดยใช้บัตรเอฟดับบลิวดี แคร์การ์ด</li>
+            <li>โดยปกติ โรงพยาบาลจะเรียกเก็บค่ารักษาจากบริษัทภายในสองเดือน ในกรณีที่คุณหรือผู้ถือกรมธรรม์ประสงค์ให้บริษัทชำระค่าใช้จ่ายตามคำขอเคลมอุบัติเหตุ (ประเภท AI) ก่อนรอบการชำระตามปกติ  คุณหรือผู้ถือกรมธรรม์ต้องส่งคำขอเคลมพร้อมใบรับรองแพทย์มาที่บริษัทโดยตรง</li>
+        </ol>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200914T123420Z

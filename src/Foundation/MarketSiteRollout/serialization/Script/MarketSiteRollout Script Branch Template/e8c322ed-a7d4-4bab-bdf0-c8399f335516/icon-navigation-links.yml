@@ -1,0 +1,33 @@
+﻿---
+ID: "e9778499-fd2f-4e6d-84eb-3bef55fe6c26"
+Parent: "e8c322ed-a7d4-4bab-bdf0-c8399f335516"
+Template: "a45bb4e7-2e69-488a-b7d2-a8cd1aaf5848"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Components/headerLinks/icon-navigation-links"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {A45BB4E7-2E69-488A-B7D2-A8CD1AAF5848}
+    {4FAA2CD7-63DF-4C30-ABB2-9D55380D2106}
+    {CEF6E819-7951-4DAD-B3FF-CB42F0DCF7D5}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Icon Navigation Links
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200603T112230Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

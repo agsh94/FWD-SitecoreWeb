@@ -1,0 +1,21 @@
+﻿---
+ID: "df0308ea-2fe9-425b-b424-bcb4f805f811"
+Parent: "a3529101-f759-43c9-9bf9-111e2c055433"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/Support/local-folder/FAQsAccordion/ContentBlock 1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T040555Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: FAQ

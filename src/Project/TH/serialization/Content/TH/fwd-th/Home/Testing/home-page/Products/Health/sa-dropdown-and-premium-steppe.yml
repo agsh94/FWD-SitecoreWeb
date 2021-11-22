@@ -1,0 +1,366 @@
+﻿---
+ID: "1e5d6088-37cf-4fc6-a966-4d05d7e844fb"
+Parent: "fcb916a2-b634-41bb-84b7-811d5db53212"
+Template: "0ba5819e-97b4-4ed8-8f4c-2363603b4faf"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/Health/sa-dropdown-and-premium-stepper-valueprotector"
+DB: master
+SharedFields:
+- ID: "0335b2bf-73a5-4556-845c-3d293900a051"
+  Hint: calculationOptions
+  Type: Multilist
+  Value: |
+    {4427E37A-FF0A-4C22-956A-B6775EE2D406}
+    {997537B8-BA25-403A-822A-FA55F7C6DCDC}
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{CC866566-6B97-4BDC-814E-353B4D5DC8C0}"
+- ID: "1294d890-c666-4ba0-b34a-68aaacfb432c"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: "{EDA8AA85-90E4-409C-99E9-ADC0ECA09767}"
+- ID: "1d3856ad-c8db-42d3-b82a-e7d555d1c57b"
+  Hint: contentType
+  Value: "{A57B5556-98B3-4112-AC9F-1926D90455B8}"
+- ID: "27dcf3b3-6b64-45be-9830-7b18e7b5a30d"
+  Hint: purchaseMethod
+  Type: Multilist
+  Value: "{8B04E458-88A3-4076-9B16-A11CEBBA7343}"
+- ID: "3d992b17-a5b9-46ad-ad74-057f59dde04e"
+  Hint: userType
+  Type: Multilist
+  Value: "{BEC470BE-EBEE-4A68-BE1D-4D071BFCE207}"
+- ID: "4058782f-999d-4033-ab82-5118826726a0"
+  Hint: associatedRiders
+  Type: Multilist
+  Value: |
+    {93D228D4-E0AE-49B4-BD14-01FB0B5C8C89}
+    {633DB4DF-05B0-4360-81A6-141011A2E0CA}
+    {C7CEF633-1BCE-449C-BB15-A6C04BAE3564}
+    {7084A1E8-2D00-4CA8-954F-C532D46A2C0E}
+    {18CE008E-1E08-4AD7-89B2-C78FC59A00B0}
+    {3FDCF21B-5923-4672-81FD-A1F168559A76}
+    {28A92046-078C-45A3-AB5D-C24F11EA651D}
+    {A14FD136-724D-4EB5-AADD-BC6C9D800743}
+    {F2516FD3-F72F-4C85-972E-663B240992AD}
+    {31F54CFB-4EB4-4763-BAB7-23C63B3AE254}
+    {75AEE845-FE8F-4A9A-9D98-ED03951D1342}
+    {C85CB4FB-A369-4736-AF78-BDB014FC46E7}
+    {0DFF98BA-FD52-4C4B-99B4-060AA0944228}
+    {5D694021-2E88-42B5-AFEB-474678941548}
+- ID: "40e7cd76-1c3f-4c59-9add-5d87fd722c95"
+  Hint: minimumSumAssured
+  Value: 10000
+- ID: "53e81091-36e9-4fae-82ef-cc970323fb4a"
+  Hint: promotionLabel
+  Value: "{6A6992CD-F876-425E-B04F-CDFB9F1F0576}"
+- ID: "5da84e26-edc9-46f4-a612-9d0a06f10f78"
+  Hint: maxAge
+  Value: 75
+- ID: "64abb349-60f0-4cdd-ba49-85d3e30a064c"
+  Hint: maximumSumAssured
+  Value: 90000
+- ID: "71c19061-4acb-437b-aa10-bce14430a683"
+  Hint: premiumSelectionType
+  Value: "{5AAFB9B3-C726-43C7-B42B-3D7CB583EF7A}"
+- ID: "7d65632c-3707-4aa1-8fde-154708f5309b"
+  Hint: secondaryNeedTags
+  Type: Multilist
+  Value: |
+    {76B23121-1A2D-4A4A-B0BB-03055681F0A1}
+    {8CB93ED3-756F-4E8A-B9D6-7174B935C9BF}
+- ID: "93d1b217-b8f4-462e-babf-68298c9ce667"
+  Hint: __Boost
+  Value: 
+- ID: "94def7f2-cb5c-478d-b5a3-58b9337cec2f"
+  Hint: minAge
+  Value: 25
+- ID: "95f6d4a5-8a21-4df1-bc3f-854aec6266e0"
+  Hint: premiumRange
+  Value: "{4C546579-22E0-4C86-A6A5-D71618469B2E}=10000&{EF4232ED-610F-4E59-8ED0-CFC12041532A}=30000&{DE4F3437-A8A5-446D-987D-3B7FA5AA20B5}=50000"
+- ID: "b3910e5d-a842-4cc7-ac42-7a16a325a534"
+  Hint: promotionLabelIcon
+  Value: "{50D0B9C3-8A9C-4752-A572-5B2DC3D8B7DA}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 288
+- ID: "bdc75d02-2884-4dbb-a5a1-f54b2d539328"
+  Hint: featuredTags
+  Type: Treelist
+  Value: |
+    {EDA8AA85-90E4-409C-99E9-ADC0ECA09767}
+    {76B23121-1A2D-4A4A-B0BB-03055681F0A1}
+    {8CB93ED3-756F-4E8A-B9D6-7174B935C9BF}
+- ID: "d04d0a5a-daaf-4457-8f38-dea817dd2bc4"
+  Hint: scoreValue
+  Value: 100
+- ID: "d6808233-3de8-4fab-96ca-e3fb61c8f9b9"
+  Hint: exploreRiders
+  Type: Checkbox
+  Value: 1
+- ID: "d9c07f77-f259-40d6-a5ba-9d6d81f78602"
+  Hint: sumAssuredRange
+  Value: "{4C546579-22E0-4C86-A6A5-D71618469B2E}=10000&{EF4232ED-610F-4E59-8ED0-CFC12041532A}=30000&{DE4F3437-A8A5-446D-987D-3B7FA5AA20B5}=50000&{0BC1EFA9-560B-4673-BBD8-E2CB6FC5669A}=70000&{72E4F527-CDCE-4B2A-A42F-7D9C9694FFB3}=90000"
+- ID: "e09501cb-adda-4125-a787-ba70b6b7e436"
+  Hint: planComponent
+  Value: "{9D9F10E7-DC62-4691-94AB-0EF6994615D8}"
+- ID: "e3e8c0b9-206d-4244-979b-966180ad502e"
+  Hint: sumAssuredPaymentMode
+  Type: Multilist
+  Value: |
+    {841ADCC5-0E34-49FD-8AF7-CB31DF656692}
+    {30D4F456-6094-443C-B87F-90D7EF7C2F6E}
+    {A90AED14-A023-4680-B2BE-A1999121D860}
+    {F6488E62-B165-449F-A3EE-43234D6D7C72}
+    {733A0160-DEBE-4F25-B188-819B3CF815A2}
+- ID: "ed85308c-d1e0-4bc4-95d2-6f72dd0a983e"
+  Hint: minimumPremiumYearly
+  Value: 10000
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F1EB48CC-BD8F-4B84-8AEE-B6447184624C}"
+          p:after="p[@uid='{FEF920EC-26A0-4273-A671-D2D80186567C}']"
+          s:ds="{33409932-4B32-4165-BDE7-070F02C59C3F}"
+          s:id="{5410E093-9B56-4C2F-B411-9FB3702CBC63}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;buttonVariant=%7b4DCB1D75-378A-454A-AB35-7C739D877279%7d&amp;buttonMode=%7b2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9%7d&amp;buttonColor&amp;buttonAlignment&amp;anchorText&amp;backgroundColor=%7bEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7d&amp;PlayVideoInBackground&amp;HeroBannerVariant=%7bFEC9E5EE-D112-4115-9D89-65EEB0CCE821%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{6B3EC02B-7B8C-4519-B02D-3AA2C198271B}"
+          p:after="r[@uid='{F1EB48CC-BD8F-4B84-8AEE-B6447184624C}']"
+          s:ds="{F10CEC71-BC9F-445B-87CF-EE13D6EFB6B6}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;contentBlockType&amp;backgroundColor=%7bEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{57275485-1464-40DE-863F-6A4CE709F08E}"
+          p:after="r[@uid='{6B3EC02B-7B8C-4519-B02D-3AA2C198271B}']"
+          s:ds="{00C4BCBD-F16C-46CA-94E9-DADDED19CD63}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;contentBlockType&amp;backgroundColor=%7bEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{0E87FC45-ABAA-426E-A211-68FA21169969}"
+          p:after="r[@uid='{57275485-1464-40DE-863F-6A4CE709F08E}']"
+          s:ds="{6C74EE26-9060-40CC-A4AC-43BF51D29C4D}"
+          s:id="{4A816582-39CE-4F69-BCDE-010F91E0C947}"
+          s:par=""
+          s:ph="jss-main" />
+        <r
+          uid="{7BA9A24E-2BA9-4BD4-8A0D-0B5151926653}"
+          p:after="r[@uid='{0E87FC45-ABAA-426E-A211-68FA21169969}']"
+          s:ds="{0EFFE9B5-E375-43D5-8C2C-4D6061448E21}"
+          s:id="{468FEC1C-5DD6-4E4B-89D7-943375803E26}"
+          s:par=""
+          s:ph="jss-main" />
+        <r
+          uid="{44B5060A-A107-4564-830D-50B4035717AD}"
+          p:after="r[@uid='{7BA9A24E-2BA9-4BD4-8A0D-0B5151926653}']"
+          s:ds="{640D9073-5BDE-4EE4-B8F9-D7BE3FE0E3A9}"
+          s:id="{3EE18C0F-61A1-458B-B8CB-084414663766}"
+          s:par=""
+          s:ph="jss-main" />
+        <r
+          uid="{2D63EC00-81FF-45BE-BEF6-E9902682D0FE}"
+          p:after="r[@uid='{44B5060A-A107-4564-830D-50B4035717AD}']"
+          s:ds="{9C1B4E30-41E8-438A-A7EE-166B15684A34}"
+          s:id="{251042B9-4BD2-47B4-A9A9-F097EB5C71B3}"
+          s:par=""
+          s:ph="jss-main" />
+        <r
+          uid="{C46712B1-1BF5-4421-937D-0C0FD2FC8E95}"
+          p:after="r[@uid='{2D63EC00-81FF-45BE-BEF6-E9902682D0FE}']"
+          s:ds="{F8BA4459-1631-4407-B994-E72F170D34CC}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;contentBlockType&amp;backgroundColor=%7bCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{40DC8A19-713B-4007-B6DD-0EDE5225CB68}"
+          p:after="r[@uid='{C46712B1-1BF5-4421-937D-0C0FD2FC8E95}']"
+          s:ds="{653B2F4D-A260-47A3-B262-D60F608614D5}"
+          s:id="{E9189BB0-4352-4FC7-B5F6-7C992E35E897}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;buttonVariant=%7b4DCB1D75-378A-454A-AB35-7C739D877279%7d&amp;buttonMode=%7b2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9%7d&amp;buttonColor&amp;Support Button Alignment&amp;anchorText&amp;backgroundColor=%7bCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7d&amp;buttonAlignment=%7bCF02F396-DAFD-448E-BC19-15E66C7CBA54%7d&amp;variant&amp;divider"
+          s:ph="/jss-main/jss-col-2-{3FB930A7-B089-4192-A917-C6B530AED151}-0" />
+        <r
+          uid="{606FF16E-4FAC-4C55-98B3-C6EE79AA7475}">
+          <p:d />
+        </r>
+        <r
+          uid="{808C51CE-8541-4E4D-9C04-39A4011DF61A}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{C2CB6CA5-6DEF-455C-B0A4-3D28C01F9542}"
+          s:ph="jss-main-1" />
+        <r
+          uid="{7012E87D-C313-4376-B649-0C07FC12BA20}"
+          s:ph="jss-main-1" />
+        <r
+          uid="{1184198A-77E0-4F06-BFA0-54CA9531BA41}"
+          s:ph="jss-main-1" />
+        <r
+          uid="{E1EC597E-F63A-4980-A499-546FED1EB9F4}"
+          s:ds=""
+          s:par="carouselMode=%7bC81D8D8F-E8D9-468F-ACFC-BBDCE30D66EC%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;showCategory&amp;anchorText&amp;backgroundColor=%7bCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7d&amp;showImage&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+          s:ph="jss-main-1" />
+        <r
+          uid="{47437E79-5354-4606-B676-72A0A8945078}"
+          s:ph="jss-main-1" />
+        <r
+          uid="{E6AC0ECB-1A98-414B-B6AA-D632D99A1DA8}"
+          s:ph="jss-main-1" />
+        <r
+          uid="{C3F351D8-21BB-4AF1-BDE2-D39F3DB180AE}"
+          s:ds=""
+          s:par=""
+          s:ph="jss-main-1" />
+        <r
+          uid="{0EEE59D8-F86D-421A-B694-0CC8914D70C3}"
+          s:ds=""
+          s:par=""
+          s:ph="jss-main-1" />
+        <r
+          uid="{9EEDE03B-3F95-4F1B-9B83-7C679C83EB6A}"
+          s:ds=""
+          s:par=""
+          s:ph="jss-main-1" />
+        <r
+          uid="{8B3007D1-AC88-4653-9572-847E96DB5E5E}"
+          s:ds=""
+          s:par="carouselMode=%7bC81D8D8F-E8D9-468F-ACFC-BBDCE30D66EC%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;showCategory&amp;anchorText&amp;backgroundColor=%7bCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7d&amp;showImage&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+          s:ph="jss-main-1" />
+        <r
+          uid="{7A8A7442-12D7-4FF8-9AE0-BC258A93722A}"
+          s:ds=""
+          s:par=""
+          s:ph="jss-main-1" />
+        <r
+          uid="{52BF7FB6-1CA2-405C-B13E-88F6B1CB9FEC}"
+          p:after="r[@uid='{7A8A7442-12D7-4FF8-9AE0-BC258A93722A}']"
+          s:ds="{12822CA6-A915-483E-9960-597B50633309}"
+          s:id="{FC55218D-3368-4037-B642-7FD35BD96EA1}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;buttonVariant=%7b4DCB1D75-378A-454A-AB35-7C739D877279%7d&amp;buttonMode=%7b2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9%7d&amp;buttonColor=%7b4F9E2A20-DD87-4819-8611-D220D4FED784%7d&amp;buttonAlignment=%7bCF02F396-DAFD-448E-BC19-15E66C7CBA54%7d&amp;anchorText&amp;backgroundColor=%7bEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{72915C72-E238-42CD-B55C-292749D539FD}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+        <r
+          uid="{3FB930A7-B089-4192-A917-C6B530AED151}"
+          p:after="*[1=2]"
+          s:ds=""
+          s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+          s:par="numberOfColumns=%7b41CCF7E7-59F7-494A-80D1-0EB88C898A10%7d&amp;divider&amp;anchorText&amp;backgroundColor=%7bEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7d%7c%7bCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7d&amp;carouselMode=%7b65BDD6C4-9B17-42DA-A050-72CEF86F370E%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d"
+          s:ph="jss-main" />
+      </d>
+    </r>
+- ID: "fac6da5e-91c2-4a88-869d-c13ee530df7c"
+  Hint: maximumPremiumYearly
+  Value: 50000
+- ID: "feb2e6da-b570-4b5e-9d80-80ccad7d0d47"
+  Hint: sumAssuredSelectionType
+  Value: "{9D0029B7-CEFE-4B3A-BE29-73243AC8EE43}"
+- ID: "ff451472-1b55-4228-b14d-ab9b2a449792"
+  Hint: isPageSearchable
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: SA Dropdown and Premium Stepper ValueProtector
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6081A532-6D1D-4E97-A987-D39F00710EE2}"
+              p:after="p[@uid='{FEF920EC-26A0-4273-A671-D2D80186567C}']"
+              s:ph="/jss-main/jss-col-1-{3FB930A7-B089-4192-A917-C6B530AED151}-0" />
+            <r
+              uid="{0E87FC45-ABAA-426E-A211-68FA21169969}"
+              s:ph="jss-main1" />
+            <r
+              uid="{52BF7FB6-1CA2-405C-B13E-88F6B1CB9FEC}"
+              s:ph="jss-main1" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T102834Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: Nobody knows what’s gonna happen tomorrow.
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: Be Sure
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Be Sure
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{1977106B-8714-4A53-AE67-3A25DE36F790}" />
+    - ID: "b4393f91-607a-4d89-95a0-789367db8822"
+      Hint: isFeatured
+      Type: Checkbox
+      Value: 1
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{1977106B-8714-4A53-AE67-3A25DE36F790}" />
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: So we’ve designed protection plans that cover the unexpected to provide necessary security to enable you and your family to stay afloat, make you feel at ease and embrace the life you deserve.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055159Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: "Nobody knows what’s gonna happen tomorrow. So we’ve designed protection plans that cover the unexpected to provide necessary security to enable you and your family to stay afloat, make you feel at ease and embrace the life you deserve. With our protection plans, not only you can live your life but also can max it!"
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: SA Dropdown and Premium Stepper ValueProtector
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: SA Dropdown and Premium Stepper ValueProtector
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{11272320-CECC-4161-9015-6CBDDAAC0F2E}" />
+    - ID: "b4393f91-607a-4d89-95a0-789367db8822"
+      Hint: isFeatured
+      Type: Checkbox
+      Value: 1
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{10398967-2637-4D9F-B874-80CB56DFE008}" />
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: "Nobody knows what’s gonna happen tomorrow. So we’ve designed protection plans that cover the unexpected to provide necessary security to enable you and your family to stay afloat, make you feel at ease and embrace the life you deserve. With our protection plans, not only you can live your life but also can max it! App."

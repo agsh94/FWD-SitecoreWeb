@@ -1,0 +1,53 @@
+﻿---
+ID: "af0ad8c8-d1cc-4c99-9ee3-a26d94667c5b"
+Parent: "61856979-a445-4c97-8e48-bc9b80a658c0"
+Template: "3dfbb2d7-b19a-4df9-8a93-4ecb69088625"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/super-care/Super CARE Plan XXL/AttributeFolder/Additional benefits/Emergency service_domestic"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T070952Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{F017FC67-B679-4778-958F-7BE09C6BBB28}"
+    - ID: "f74f0637-1a3b-4152-b0c2-db88576ed70f"
+      Hint: value
+      Type: Checkbox
+      Value: 1
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T070842Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{F017FC67-B679-4778-958F-7BE09C6BBB28}"
+    - ID: "f74f0637-1a3b-4152-b0c2-db88576ed70f"
+      Hint: value
+      Type: Checkbox
+      Value: 1

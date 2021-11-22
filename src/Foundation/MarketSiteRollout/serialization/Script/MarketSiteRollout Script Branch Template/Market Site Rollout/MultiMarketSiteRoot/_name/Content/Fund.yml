@@ -1,0 +1,24 @@
+﻿---
+ID: "08f02a42-36a7-4f94-914e-0ce4f30a9200"
+Parent: "ce80a31f-7111-43f0-a1a5-24c415b6274b"
+Template: "ea71d47a-6a3c-4878-b0ed-2ba541371b8a"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Fund
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {60D48A58-D8BA-46AC-AF94-8AB3DBB343FC}
+    {5DF9CACD-12D8-4864-891A-2F037E20C9F5}
+    {680274AD-DF8A-4705-B44B-205AE1B8097A}
+    {2F68EAAB-FCA5-45CC-8476-9D9699AD1412}
+    {D46D168B-E646-4D2C-9BC1-2E041F6F5ADD}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T075740Z

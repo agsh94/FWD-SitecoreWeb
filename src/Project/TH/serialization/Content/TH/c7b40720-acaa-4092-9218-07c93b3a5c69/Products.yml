@@ -1,0 +1,58 @@
+﻿---
+ID: "f764f43e-a918-4f1e-a477-0713bb8e1ad0"
+Parent: "c7b40720-acaa-4092-9218-07c93b3a5c69"
+Template: "9a45a24d-9287-4086-8dbe-fcec888173f4"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/Search/local-folder/global-search/Products"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a4b54e5-0f59-44da-97aa-2b361fa60f49"
+      Hint: filterBy
+      Type: Treelist
+      Value: |
+        {5B110B5C-2BC3-4CC1-9A87-CFF210292817}
+        {FE5B5E5E-15E5-4DA2-8C33-4460C67ADDB2}
+    - ID: "1f54785d-94ed-4e46-8e65-72c9b926765b"
+      Hint: contentType
+      Type: Multilist
+      Value: "{A57B5556-98B3-4112-AC9F-1926D90455B8}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191126T060731Z
+    - ID: "7dd2d009-6b23-42f4-a170-a638ef349d9d"
+      Hint: filterTitle
+      Value: Filters
+    - ID: "b0a7cc92-6f8d-4bc0-94de-9960abc666be"
+      Hint: title
+      Value: Products
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a4b54e5-0f59-44da-97aa-2b361fa60f49"
+      Hint: filterBy
+      Type: Treelist
+      Value: "{FE5B5E5E-15E5-4DA2-8C33-4460C67ADDB2}"
+    - ID: "1f54785d-94ed-4e46-8e65-72c9b926765b"
+      Hint: contentType
+      Type: Multilist
+      Value: "{A57B5556-98B3-4112-AC9F-1926D90455B8}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191126T060731Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: 
+    - ID: "7dd2d009-6b23-42f4-a170-a638ef349d9d"
+      Hint: filterTitle
+      Value: Filters
+    - ID: "b0a7cc92-6f8d-4bc0-94de-9960abc666be"
+      Hint: title
+      Value: ผลิตภัณฑ์

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="SonarQube - Global-FWD FWD C Sharp Rules" ToolsVersion="15.0">
+  <Include Path="..\..\..\..\.sonarlint\gfwdcsharp.ruleset" Action="Default" />
+  <Include Path="fwd.foundation.configuration.ruleset" Action="Default" />
+</RuleSet>

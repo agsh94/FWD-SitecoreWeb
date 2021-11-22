@@ -1,0 +1,55 @@
+﻿---
+ID: "72de6826-2a81-4ed9-856b-7f5f2f8e13e2"
+Parent: "b12b424d-926c-4aff-8c62-4f6d89c8ce8d"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/contentblock/local-folder/FeaturedContentBlockWhiteOrange"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "dab4200c-a87f-4605-b2f7-2544616ece6e"
+  Hint: secondaryLinkButtonIcon
+  Value: "{8E6F2179-2D7B-420D-9D47-D13C408BB3C5}"
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{23AB2590-9EE0-4E57-94A8-550C50FD3C34}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: FeaturedContentBlockWhiteOrange
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{574EBAE7-73D3-43EF-A433-2BA15E987DFD}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200811T092645Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{323B5CFE-740C-4AF4-A9E4-4FBAFF1DB62C}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <strong><em>FWD</em></strong> is a fresh insurance company for <a rel="noopener noreferrer" href="http://www.google.com" target="_blank">aspirational</a> people who are looking forward to their lives ahead. We believe that life is all about living your passion and pursuing happiness.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d0be2ac7-85f9-4ba4-91da-613370dbd6d6"
+      Hint: secondaryLink
+      Value: |
+        <link text="Search" anchor="" linktype="internal" class="" title=""  querystring="" id="{B859D7D8-99F8-4C55-8E00-AB569A6CC97F}" />
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Featured Content Block Image Left
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Link" anchor="" linktype="internal" class="" title=""  querystring="" id="{0D08A74E-81B5-4DFD-9B53-B8AD7413F555}" />

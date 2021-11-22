@@ -1,0 +1,25 @@
+﻿---
+ID: "d396304c-c540-46f6-a37d-3830c4e6798c"
+Parent: "900588e1-7e6b-433f-835f-5011ba2acb1a"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/thai-dessert/local-folder/ArticleDetails/Description4"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T012225Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: "ไม่พูดพร่ำทำเพลง มาเปิดเมนูสั่งอาหารกันเลยดีกว่า! ประเดิมด้วยเมนู Signature ประจำร้านอย่าง &ldquo;Golden Set&rdquo; สุดยอดเซ็ทเมนูที่จะทำให้คนรักขนมหวานได้ดื่มด่ำกับเมนูของหวานสุดอลังการ ที่จัดเต็มทั้งเซ็ทขนมไทย 1 ชุด, เซ็ทโซดา 1 ชุด, เซ็ทน้ำชา 1 ชุด และเค้กอีก 2 ชิ้น เหมาะสำหรับทานได้ตั้งแต่ 4-6 คนเลยทีเดียว"

@@ -1,0 +1,35 @@
+﻿---
+ID: "80d33480-c8db-47f8-a5c3-133291424568"
+Parent: "21a958f0-b88b-4691-acfa-26fde42e204e"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Events/FWD Anthem Contest 2020/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200414T053329Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: Join our song writer contest &ndash; to win the first prize of THB20,000. Our challenge is for you to write creatively about FWD.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200414T053545Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: เข้าร่วมการประกวดเขียนเนื้อเพลง ผู้ชนะจะได้รับเงินรางวัล 20,000 บาท เราขอท้าให้คุณเขียนเนื้อเพลงที่เกี่ยวกับ เอฟดับบลิวดี ประกันชีวิต อย่างสร้างสรรค์

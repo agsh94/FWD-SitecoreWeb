@@ -1,0 +1,64 @@
+﻿---
+ID: "7a35112c-41f2-4ed5-a780-ea9af856c698"
+Parent: "125908cd-3bdd-4343-80ec-53a3cd0c7ca0"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Support/How to redeem your FWD MAX points"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T141144Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "How to redeem your FWD MAX points?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <p>Open the FWD MAX mobile app and follow these steps:</p>
+        <ol>
+            <li>Press “Privilege” at the bottom right corner of the main screen. You’ll see all our rewards with the points and any requirements. Select the reward you want to redeem.</li>
+            <li>Choose ‘privilege options’ and decide how you want to redeem the reward. This could be via a digital code or we could post a voucher to your address. Please see notes below.</li>
+            <li>Read the terms and conditions before pressing “accept”. Once you press “accept”, your points will be deducted immediately.</li>
+        </ol>
+        <div>How do you want to receive your reward?</div><br />
+        <div><strong>Digital Codes:</strong> Please select this option if you’re physically at a reward partner location. But be fast! Once you press “accept”, your privilege code will be displayed on the app. This code will be valid for 5-30 minutes, depending on the participating partner – so make sure you’re ready to use it! Once the code expires, you’ll see a time out message and will no longer able to redeem the reward. Please note that your points will be deducted as soon as the code is displayed.</div>
+        <p><strong>Privilege Voucher:</strong> Once you press “accept”, please fill in your name and address in the pop-up window. Voucher delivery may take up to eight weeks from the date of your submission. After eight weeks, we’ll assume that you’ve received the voucher, unless we hear from you otherwise. Enjoy your reward!</p>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T141118Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "ต้องการแลกแต้ม FWD MAX ทำอย่างไร?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <p>สามารถดำเนินการผ่านแอปพลิเคชัน FWD MAX วิธีการดังนี้</p>
+        <ol>
+            <li>กดปุ่ม “สิทธิพิเศษ” ที่มุมล่างขวาที่หน้าเมนูหลัก ซึ่งจะแสดงสิทธิพิเศษต่างๆและวิธีการแลกแต้ม</li>
+            <li>เลือก “ตัวเลือกสิทธิพิเศษ” แล้วตัดสินใจว่าจะใช้แต้มสะสมแลกอะไรเป็นของรางวัล อาจเป็นในรูปของรหัสดิจิตอลหรือบัตรกำนัลที่จะจัดส่งให้ถึงที่อยู่ กรุณาศึกษาข้อมูลด้านล่าง</li>
+            <li>อ่านรายละเอียด เงื่อนไขสิทธิพิเศษ แล้วกดรับสิทธิ์ได้ทันที เมื่อกดแล้วแต้มสะสมจะถูกตัดโดยอัตโนมัติ</li>
+        </ol>
+        <p>คุณจะรับสิทธิพิเศษนี้ได้อย่างไร</p>
+        <p><strong>รหัสดิจิตอล </strong>สามารถเลือกรับสิทธิได้ขณะอยู่ในพื้นที่ของร้านค้าที่ร่วมรายการ เมื่อกดปุ่มรับสิทธิ์แล้ว รหัสจะแสดงขึ้นเพื่อใช้แลกสิทธิพิเศษ (รหัสมีอายุ 5-30 นาทีเท่านั้น) ขึ้นอยู่กับร้านค้าที่ร่วมรายการ และโปรดใช้รหัสภายในระยะเวลาที่กำหนดเท่านั้น ทั้งนี้จะมีข้อความขึ้นแจ้งหากรหัสหมดอายุแล้ว คะแนนสะสมของคุณจะถูกหักออกทันทีที่ได้รับรหัสบนหน้าจอโทรศัพท์</p>
+        <p><strong>บัตรกำนัล </strong>เมื่อกดปุ่มรับสิทธิ์จะมีหน้าต่างแสดงขึ้นเพื่อให้คุณกรอกข้อมูลชื่อ ที่อยู่ การดำเนินการจัดส่งบัตรกำนัลใช้ระยะเวลาไม่เกิน 8 สัปดาห์ นับจากวันที่คุณกดรับสิทธิ์แลกบัตรกำนัล หลังจากกดรับสิทธิ์ไปแล้วไม่น้อยกว่า 8 สัปดาห์  บริษัทฯจะถือว่าผู้ถือบัตรได้รับบัตรกำนัลอย่างถูกต้องครบถ้วน หากท่านมิได้แจ้งให้บริษัทฯทราบถึงกรณีขัดข้องหรือไม่ได้รับ</p>
+        

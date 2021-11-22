@@ -1,0 +1,56 @@
+﻿---
+ID: "322b7edd-2ec2-49b6-96d0-4069426ac4b4"
+Parent: "dd7bac06-267c-4d89-a5ec-e7d081a7c3de"
+Template: "ea22f56c-b79d-4ee8-96bf-61e4c32bd034"
+Path: "/sitecore/content/fwd/fwd-th/Home/GroupLandingPage/local-folder/GroupProductList/Accident"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{CDC36767-D0EA-46E8-8448-B46173FA4DF1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200121T100537Z
+    - ID: "703b9cb2-cc5d-4ff6-b310-4a4136a5991a"
+      Hint: description
+      Value: Give them peace of mind to help them work effectively and ready to step into success.
+    - ID: "d6d3ce14-ebd2-43ee-bfab-d3800762e9b4"
+      Hint: title
+      Value: Accident
+    - ID: "f0eaa081-54d6-4839-9035-5e9625656318"
+      Hint: groupProducts
+      Type: Multilist
+      Value: |
+        {DE0464B1-9059-40B2-9E20-380BE992DD53}
+        {B2C393B7-6DAC-435B-BF9C-4E4FB7281D5B}
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T115847Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "703b9cb2-cc5d-4ff6-b310-4a4136a5991a"
+      Hint: description
+      Value: Give them peace of mind to help them work effectively and ready to step into success.
+    - ID: "d6d3ce14-ebd2-43ee-bfab-d3800762e9b4"
+      Hint: title
+      Value: Accident
+    - ID: "f0eaa081-54d6-4839-9035-5e9625656318"
+      Hint: groupProducts
+      Type: Multilist
+      Value: |
+        {975986D1-4F67-4C1F-BFCF-DB8D4F4012A2}
+        {39C34C44-85B7-4344-A624-EF603992B688}

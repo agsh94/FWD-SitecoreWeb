@@ -1,0 +1,39 @@
+﻿---
+ID: "70038244-6a56-4d54-a02b-338d4bd38026"
+Parent: "89edcabe-52aa-4fec-83e5-1581d1156cbb"
+Template: "7cd51b29-32c8-44bd-9afc-a2d5587d611c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/Cash Return Options/local-folder/Out-patient In-patient/In-Patient"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Dividend payout
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T075752Z
+    - ID: "2f5a22b8-fc21-4f5e-9046-64bc79c4ae0c"
+      Hint: title
+      Value: Dividend payout
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T081214Z
+    - ID: "2f5a22b8-fc21-4f5e-9046-64bc79c4ae0c"
+      Hint: title
+      Value: การขอรับเงินปันผลตามกรมธรรม์ประกันภัย
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph

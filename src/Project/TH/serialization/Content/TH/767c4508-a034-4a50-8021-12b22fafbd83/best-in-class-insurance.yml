@@ -1,0 +1,41 @@
+﻿---
+ID: "743d9a26-b479-4fe4-b89c-e97f862495de"
+Parent: "767c4508-a034-4a50-8021-12b22fafbd83"
+Template: "fe025dfd-10ae-4559-8cf9-1e9215f275bc"
+Path: "/sitecore/content/fwd/fwd-th/Components/Awards/Awards-FWD-Story-2/Thailand/Award7/Categories/best-in-class-insurance"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Best-in-class- insurance"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05787c2f-a969-4cd8-92e3-8e2c1a5e5a7b"
+      Hint: subCategory
+      Value: "Online Usability - Insurance"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191106T061716Z
+    - ID: "bf0b94ee-540b-4a6e-b8ac-95adb6bab665"
+      Hint: Name
+      Value: "Best-in-class"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05787c2f-a969-4cd8-92e3-8e2c1a5e5a7b"
+      Hint: subCategory
+      Value: "Online Usability - Insurance"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T084756Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "bf0b94ee-540b-4a6e-b8ac-95adb6bab665"
+      Hint: Name
+      Value: "Best-in-class"

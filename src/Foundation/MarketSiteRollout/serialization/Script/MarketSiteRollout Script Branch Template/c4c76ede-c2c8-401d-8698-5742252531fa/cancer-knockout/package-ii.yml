@@ -1,0 +1,80 @@
+﻿---
+ID: "b0bcd7f3-7a60-4c1f-bf4e-c1317210ad33"
+Parent: "3e6071fb-fb5d-456a-ba7c-926aec136d94"
+Template: "17f05b4d-4e1a-4598-afd0-eb05d76d5f68"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Health/cancer-knockout/package-ii"
+DB: master
+SharedFields:
+- ID: "1d7292b5-07c1-4268-b196-263841c6000a"
+  Hint: key
+  Value: "tool-tip"
+- ID: "3b1d1a2d-0fe8-4b7f-b2b1-eed79c64bb97"
+  Hint: channel
+  Value: "{72555A8E-D6F4-4168-B68C-0BE83C54BE83}"
+- ID: "8c99813d-8686-4f37-a5fb-02ddb0a93ecc"
+  Hint: protectionValue
+  Value: 20000
+- ID: "9cb51dc0-7252-4372-8a9e-42fa7de2b4fd"
+  Hint: minAge
+  Value: "20-0-0"
+- ID: "b78d7fa0-a532-4f1a-90c1-98b0770294d4"
+  Hint: maxAge
+  Value: "65-0-0"
+- ID: "ce362806-169f-431a-bd65-0f18284df62c"
+  Hint: packageList
+  Value: "{78BDF85A-D410-4BFE-94A9-141E74991B2D}=10000&{59305859-0E4A-42E8-A821-F4F48442FBF9}=20000"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Package II
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1366eb03-0483-400f-bff6-9db88c60806a"
+      Hint: frequency
+      Value: "{30D4F456-6094-443C-B87F-90D7EF7C2F6E}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200127T161123Z
+    - ID: "3b5d22a4-b01c-4849-b726-6ec411222179"
+      Hint: premiumIndicativePrice
+      Value: 1050
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: Package II
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="Enquire" linktype="form" querystring="enquiry" target="" id="{136AA02C-41C6-4E79-88E1-7893B161A37F}" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: Package
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: Package II
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055201Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: Package II
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="Calculate" linktype="form" querystring="calculate" target="" id="{1B3EEC51-98F0-4820-953C-AE3DC6BB8FB3}" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: Package
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: Package II

@@ -1,0 +1,281 @@
+﻿---
+ID: "24caf058-4ca4-402f-8f30-481dfb61928d"
+Parent: "62f4d9b7-e439-45a7-8ddf-857d29b64e3a"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/health-check-up/local-folder/Article Description Area/Northern"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 288
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200805T043625Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sarat
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span><strong>ภาคเหนือ </strong></span></p>
+        <table style="font-size: 0.8em; vertical-align: top;">
+            <tbody>
+                <tr style="height: 14.25pt;">
+                    <td class="xl65" style="height: 14.25pt; width: 54pt; text-align: left;"><strong>จังหวัด</strong></td>
+                    <td class="xl65" style="width: 170pt; text-align: left;"><strong>โรงพยาบาล</strong></td>
+                    <td class="xl65" style="width: 476pt; text-align: left;"><strong>แผนก/เบอร์ติดต่อ</strong></td>
+                    <td class="xl65" style="width: 101pt; text-align: left;"><strong>รายละเอียดโปรโมชั่น</strong></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">เชียงราย</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์ <br />แม่สาย</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 1 /&nbsp;0 5373 1391</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/eae1c6ecb820481ab06e49c4fcacea45.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">เชียงราย</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์ <br />ศรีบุรินทร์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์สุขภาพชั้น 2 อาคารศูนย์แพทย์เฉพาะทางศรีบุรินทร์ /&nbsp;0 5391 0999&nbsp;ต่อ 167, 168</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/bff54bdda36b4663979614914d7568be.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">เชียงใหม่</td>
+                    <td class="xl65" style="text-align: left;">รพ. เชียงใหม่ราม</td>
+                    <td class="xl65" style="text-align: left;">แผนกคลินิกพิเศษ /&nbsp;0 5392 0300&nbsp;ต่อ 4000</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/c527c89b45f44c62abac6fa86c3cb0dc.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นครสวรรค์</td>
+                    <td class="xl65" style="text-align: left;">รพ. ศรีสวรรค์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ อยู่ที่ชั้น 1 อาคาร A /&nbsp;0 5600 8805</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/d1aff9f471a8413bbf85580bf0e3f000.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นครสวรรค์</td>
+                    <td class="xl65" style="text-align: left;">รพ. ปากน้ำโพ</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 1 /&nbsp;0 5600 0111&nbsp;ต่อ 12119, 12120</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/2f132305cf37456d8add37ecbe16ad7e.ashx">คลิก</a></td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200806T031056Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hein
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span><strong>ภาคเหนือ </strong></span></p>
+        <table style="font-size: 0.8em; vertical-align: top;">
+            <tbody>
+                <tr style="height: 14.25pt;">
+                    <td class="xl65" style="height: 14.25pt; width: 54pt; text-align: left;"><strong>จังหวัด</strong></td>
+                    <td class="xl65" style="width: 170pt; text-align: left;"><strong>โรงพยาบาล</strong></td>
+                    <td class="xl65" style="width: 476pt; text-align: left;"><strong>แผนก/เบอร์ติดต่อ</strong></td>
+                    <td class="xl65" style="width: 101pt; text-align: left;"><strong>รายละเอียดโปรโมชั่น</strong></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">เชียงราย</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์ <br />แม่สาย</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 1 /&nbsp;0 5373 1391</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/eae1c6ecb820481ab06e49c4fcacea45.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">เชียงราย</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์ <br />ศรีบุรินทร์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์สุขภาพชั้น 2 อาคารศูนย์แพทย์เฉพาะทางศรีบุรินทร์ /&nbsp;0 5391 0999&nbsp;ต่อ 167, 168</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/bff54bdda36b4663979614914d7568be.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">เชียงใหม่</td>
+                    <td class="xl65" style="text-align: left;">รพ. เชียงใหม่ราม</td>
+                    <td class="xl65" style="text-align: left;">แผนกคลินิกพิเศษ /&nbsp;0 5392 0300&nbsp;ต่อ 4000</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/c527c89b45f44c62abac6fa86c3cb0dc.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นครสวรรค์</td>
+                    <td class="xl65" style="text-align: left;">รพ. ศรีสวรรค์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ อยู่ที่ชั้น 1 อาคาร A /&nbsp;0 5600 8805</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/d1aff9f471a8413bbf85580bf0e3f000.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นครสวรรค์</td>
+                    <td class="xl65" style="text-align: left;">รพ. ปากน้ำโพ</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 1 /&nbsp;0 5600 0111&nbsp;ต่อ 12119, 12120</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/2f132305cf37456d8add37ecbe16ad7e.ashx">คลิก</a></td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200806T031056Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T084836Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sirisak
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span><strong>ภาคเหนือ </strong></span></p>
+        <table style="font-size: 0.8em; vertical-align: top;">
+            <tbody>
+                <tr style="height: 14.25pt;">
+                    <td class="xl65" style="height: 14.25pt; width: 54pt; text-align: left;"><strong>จังหวัด</strong></td>
+                    <td class="xl65" style="width: 170pt; text-align: left;"><strong>โรงพยาบาล</strong></td>
+                    <td class="xl65" style="width: 476pt; text-align: left;"><strong>แผนก/เบอร์ติดต่อ</strong></td>
+                    <td class="xl65" style="width: 101pt; text-align: left;"><strong>รายละเอียดโปรโมชั่น</strong></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">เชียงราย</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์ <br />
+                    แม่สาย</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 1 /&nbsp;0 5373 1391</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/eae1c6ecb820481ab06e49c4fcacea45.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">เชียงราย</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์ <br />
+                    ศรีบุรินทร์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์สุขภาพชั้น 2 อาคารศูนย์แพทย์เฉพาะทางศรีบุรินทร์ /&nbsp;0 5391 0999&nbsp;ต่อ 167, 168</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/bff54bdda36b4663979614914d7568be.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">เชียงใหม่</td>
+                    <td class="xl65" style="text-align: left;">รพ. เชียงใหม่ราม</td>
+                    <td class="xl65" style="text-align: left;">แผนกคลินิกพิเศษ /&nbsp;0 5392 0300&nbsp;ต่อ 4000</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/c527c89b45f44c62abac6fa86c3cb0dc.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นครสวรรค์</td>
+                    <td class="xl65" style="text-align: left;">รพ. ศรีสวรรค์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ อยู่ที่ชั้น 1 อาคาร A /&nbsp;0 5600 8805</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/d1aff9f471a8413bbf85580bf0e3f000.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นครสวรรค์</td>
+                    <td class="xl65" style="text-align: left;">รพ. ปากน้ำโพ</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 1 /&nbsp;0 5600 0111&nbsp;ต่อ 12119, 12120</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/2f132305cf37456d8add37ecbe16ad7e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">เพชรบูรณ์</td>
+                    <td class="xl65" style="text-align: left;">รพ. เพชรรัตน์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ /&nbsp;0 5672 0680</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/56c45cee224b45b5a2e6909def3f0a47.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">พิษณุโลก&nbsp;&nbsp;</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ พิษณุโลก</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 14 /&nbsp;0 5521 2222&nbsp;ต่อ 2409-2410</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/71c04c821f6b4f629e7180862deaf1d7.ashx">คลิก</a></td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200820T084836Z
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200902T051943Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sirisak
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span><strong>ภาคเหนือ </strong></span></p>
+        <table style="font-size: 0.8em; vertical-align: top;">
+            <tbody>
+                <tr style="height: 14.25pt;">
+                    <td class="xl65" style="height: 14.25pt; width: 54pt; text-align: left;"><strong>จังหวัด</strong></td>
+                    <td class="xl65" style="width: 170pt; text-align: left;"><strong>โรงพยาบาล</strong></td>
+                    <td class="xl65" style="width: 476pt; text-align: left;"><strong>แผนก/เบอร์ติดต่อ</strong></td>
+                    <td class="xl65" style="width: 101pt; text-align: left;"><strong>รายละเอียดโปรโมชั่น</strong></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">เชียงราย</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์ <br />
+                    แม่สาย</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 1 /&nbsp;0 5373 1391</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/eae1c6ecb820481ab06e49c4fcacea45.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">เชียงราย</td>
+                    <td class="xl65" style="text-align: left;">รพ. เกษมราษฎร์ <br />
+                    ศรีบุรินทร์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์สุขภาพชั้น 2 อาคารศูนย์แพทย์เฉพาะทางศรีบุรินทร์ /&nbsp;0 5391 0999&nbsp;ต่อ 167, 168</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/bff54bdda36b4663979614914d7568be.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">เชียงใหม่</td>
+                    <td class="xl65" style="text-align: left;">รพ. เชียงใหม่ราม</td>
+                    <td class="xl65" style="text-align: left;">แผนกคลินิกพิเศษ /&nbsp;0 5392 0300&nbsp;ต่อ 4000</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/c527c89b45f44c62abac6fa86c3cb0dc.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นครสวรรค์</td>
+                    <td class="xl65" style="text-align: left;">รพ. ศรีสวรรค์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ อยู่ที่ชั้น 1 อาคาร A /&nbsp;0 5600 8805</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/d1aff9f471a8413bbf85580bf0e3f000.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">นครสวรรค์</td>
+                    <td class="xl65" style="text-align: left;">รพ. พริ้นซ์ ปากน้ำโพ</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 1 /&nbsp;0 5600 0111&nbsp;ต่อ 12119, 12120</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/2f132305cf37456d8add37ecbe16ad7e.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">เพชรบูรณ์</td>
+                    <td class="xl65" style="text-align: left;">รพ. เพชรรัตน์</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ /&nbsp;0 5672 0680</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/56c45cee224b45b5a2e6909def3f0a47.ashx">คลิก</a></td>
+                </tr>
+                <tr style="height: 14.25pt; vertical-align: top;">
+                    <td class="xl65" style="height: 14.25pt; text-align: left;">พิษณุโลก&nbsp;&nbsp;</td>
+                    <td class="xl65" style="text-align: left;">รพ. กรุงเทพ พิษณุโลก</td>
+                    <td class="xl65" style="text-align: left;">ศูนย์ตรวจสุขภาพ ชั้น 14 /&nbsp;0 5521 2222&nbsp;ต่อ 2409-2410</td>
+                    <td class="xl65" style="text-align: left;"><a href="-/media/71c04c821f6b4f629e7180862deaf1d7.ashx">คลิก</a></td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200902T051943Z

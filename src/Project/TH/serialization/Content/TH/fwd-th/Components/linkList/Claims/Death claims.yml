@@ -1,0 +1,44 @@
+﻿---
+ID: "9131261e-c34c-4d36-b18a-3aa9f60db0fb"
+Parent: "a1e93ab8-e766-4c8e-9285-e1a6c8b901b4"
+Template: "1d74b3b3-2234-4eac-bd93-d00a35863a01"
+Path: "/sitecore/content/fwd/fwd-th/Components/linkList/Claims/Death claims"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 113
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{AEB3BB6C-7EDC-4BDB-BAF5-3EE6480FB2D9}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Death claims
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191018T070234Z
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Death claims" anchor="" linktype="internal" class="" title=""  querystring="" id="{472E1AF9-7793-4CB8-AF80-8F68B7BE9CE9}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T071323Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="เรียกร้องสินไหมมรณกรรม" anchor="" linktype="internal" class="" title=""  querystring="" id="{472E1AF9-7793-4CB8-AF80-8F68B7BE9CE9}" />

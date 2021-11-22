@@ -1,0 +1,36 @@
+﻿---
+ID: "d5a7c969-1362-4ec1-b61b-03a6be7c95d3"
+Parent: "c8da3807-9594-42be-a97e-50a24bfa39f3"
+Template: "69b601a8-8555-4411-8c17-aa91671eec32"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Tags/articlesTags/Featured/Topics/dental
+DB: master
+SharedFields:
+- ID: "76618df2-6cc1-4295-99c9-c6e2613074e8"
+  Hint: articlePillarPage
+  Value: "{A446783F-4B78-42D0-A902-0E9C2BF27ED4}"
+- ID: "a903eb23-a8d6-4a9a-bd27-4bd363b1fcf0"
+  Hint: searchName
+  Value: dental
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Dental
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: Dental
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T110336Z
+    - ID: "9d9e3d43-8450-414c-8ace-831acaf13893"
+      Hint: image
+      Value: |
+        <image mediaid="{018D35C1-921E-4BF3-A8A4-10306CF3804E}" />
+    - ID: "f3e7eced-0a93-4cf0-9d5e-a3de5e8917f3"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{018D35C1-921E-4BF3-A8A4-10306CF3804E}" />

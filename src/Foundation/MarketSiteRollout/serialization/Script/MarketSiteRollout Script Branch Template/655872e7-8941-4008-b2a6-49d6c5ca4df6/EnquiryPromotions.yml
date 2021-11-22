@@ -1,0 +1,21 @@
+﻿---
+ID: "764daa22-c01d-44be-9f9f-771c892d34d9"
+Parent: "655872e7-8941-4008-b2a6-49d6c5ca4df6"
+Template: "589edc0c-4172-48e7-99f6-dfcd417fad84"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Forms/Promotions/EnquiryPromotions
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "13b0c11c-bd21-4304-a639-7a9b9fca58a5"
+      Hint: value
+      Value: Tell me about other insurance products for my organisation
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200213T100451Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

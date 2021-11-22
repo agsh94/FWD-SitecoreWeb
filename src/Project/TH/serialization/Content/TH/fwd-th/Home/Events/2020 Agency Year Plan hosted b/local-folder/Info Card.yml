@@ -1,0 +1,22 @@
+﻿---
+ID: "36fc5ec5-adb8-4c7e-8b6a-626222c09077"
+Parent: "1cbc5500-58b2-4a8f-b0fa-430840e805e6"
+Template: "128c8d06-48c1-46ed-b80e-904cc3de68e0"
+Path: "/sitecore/content/fwd/fwd-th/Home/Events/2020 Agency Year Plan hosted by FWD Insurance/local-folder/Info Card"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T135522Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit

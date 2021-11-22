@@ -1,0 +1,46 @@
+﻿---
+ID: "d95b7a7e-6550-4fa7-83e5-cd339f8eb010"
+Parent: "f8e8a3d1-0dd2-4ea6-b333-fd80e6c840d1"
+Template: "681b61a2-6f52-4119-b8f4-033587eaeacc"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Sample Test En/local-folder/DynamicCardList"
+DB: master
+SharedFields:
+- ID: "161ff25c-5221-4b9d-a2d8-993bd5371a76"
+  Hint: apiAllowPagination
+  Type: Checkbox
+  Value: 1
+- ID: "2250f909-bae3-415f-a645-9d07826b6566"
+  Hint: apiPageSize
+  Value: 2
+- ID: "8f397566-a4d1-4f23-8594-dce13b3720fe"
+  Hint: apiSortBy
+  Value: "{C27171A2-8AC2-4005-8076-DC7489E3997B}"
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{AAE0FCBF-5276-4A3A-8CED-AEAF6994D21B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "082ccea0-107e-474b-99d1-c9f1b7bff0ef"
+      Hint: description
+      Value: |
+        <strong style="color: #000000; background-color: #ffffff; margin: 0px; padding: 0px; text-align: justify;">Lorem Ipsum</strong><span style="background-color: #ffffff; text-align: justify; color: #000000;">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</span>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200102T131143Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d88ea793-1587-4f65-ae5c-80926cd5438b"
+      Hint: subTitle
+      Value: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Find a form
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See all forms" anchor="" linktype="internal" class="" title=""  querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />

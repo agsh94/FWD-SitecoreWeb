@@ -1,0 +1,30 @@
+﻿---
+ID: "42b25b65-ed36-42eb-9ba6-115b29403d66"
+Parent: "c626493f-1cc3-4986-a701-f28b83d649f7"
+Template: "814c1dbb-b118-4511-ba2b-7288ed3d490b"
+Path: /sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/DatasourceItemWithChildrenResolver
+DB: master
+SharedFields:
+- ID: "de218ede-a9ad-4b04-86c5-9ff593ccf39d"
+  Hint: Type
+  Value: FWD.Features.Global.DatasourceItemWithChildrenResolver, FWD.Features.Global
+- ID: "fb43a64d-060f-4fa9-b1c3-1511442175e1"
+  Hint: IncludeServerUrlInMediaUrls
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Datasource Item With Children Resolver
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T064638Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

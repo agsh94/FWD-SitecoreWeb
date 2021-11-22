@@ -1,0 +1,42 @@
+﻿---
+ID: "273d5d12-69e4-4f9b-9d95-9d4ec99f0d35"
+Parent: "1a8a3fd0-cb9b-46f9-805c-224973d12a56"
+Template: "fe025dfd-10ae-4559-8cf9-1e9215f275bc"
+Path: "/sitecore/content/fwd/fwd-th/Components/Awards/Awards-FWD-Story/Technology and service awards/tccta-contact-center-awards-2019/Categories/Bronze award Best Social Media Contact Center"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 175
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200403T130606Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "bf0b94ee-540b-4a6e-b8ac-95adb6bab665"
+      Hint: Name
+      Value: Bronze award Best Social Media Contact Center
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05787c2f-a969-4cd8-92e3-8e2c1a5e5a7b"
+      Hint: subCategory
+      Value: Best Social Media Contact Center
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200403T062553Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "bf0b94ee-540b-4a6e-b8ac-95adb6bab665"
+      Hint: Name
+      Value: Bronze award

@@ -1,0 +1,204 @@
+﻿---
+ID: "0271b49e-db94-44d0-9610-9cf3ba021c69"
+Parent: "a594172e-3b50-4604-b41d-29f8b18b80f3"
+Template: "cc866566-6b97-4bdc-814e-353b4d5dc8c0"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Life Protection/value-protector/PlanSuper"
+DB: master
+SharedFields:
+- ID: "139fac8d-ba0a-462c-a2e2-97b880ecb109"
+  Hint: minimumPremiumYearly
+  Value: 
+- ID: "1d7292b5-07c1-4268-b196-263841c6000a"
+  Hint: key
+  Value: "tool-tip"
+- ID: "2c8cb92b-c54a-48a9-b853-b075c86cf3f5"
+  Hint: isFeatured
+  Type: Checkbox
+  Value: 1
+- ID: "3b1d1a2d-0fe8-4b7f-b2b1-eed79c64bb97"
+  Hint: channel
+  Value: TA
+- ID: "53341179-76ac-497a-a4c4-28eb7c6c422e"
+  Hint: enableEnquiry
+  Type: Checkbox
+  Value: 1
+- ID: "54426e36-0a60-4ada-93f3-916e31cf73af"
+  Hint: minimumSumAssured
+  Value: 200000
+- ID: "653be724-02c5-4bb7-8813-833c6443e1e4"
+  Hint: planCode
+  Value: WN20N
+- ID: "6f7f082e-9af5-4b9c-8b4b-36aec3ffe71a"
+  Hint: minimumSumAssuredRule
+  Type: Multilist
+  Value: |
+    {A719410E-9B4F-41BE-9083-E13879F430EB}
+    {12558C28-0C43-4FA1-9F19-ED6641570823}
+- ID: "902204f2-df95-45fa-b348-496743f27a4a"
+  Hint: maximumPremiumYearly
+  Value: 
+- ID: "9cb51dc0-7252-4372-8a9e-42fa7de2b4fd"
+  Hint: minAge
+  Value: "0-1-1"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "b78d7fa0-a532-4f1a-90c1-98b0770294d4"
+  Hint: maxAge
+  Value: "65-0-0"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "d6a9142f-50e6-40b8-8cec-67efeca030c0"
+  Hint: productPlanOptionCd
+  Value: OPDL700
+- ID: "f41f9cfb-6e45-414e-aa8c-84b1c4148545"
+  Hint: maximumSumAssured
+  Value: 999999999
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: IVP 20
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191111T061821Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: Value Protector (IVP 20)
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=20%20years&{59310316-8B9D-4849-AD89-E788BD74B265}=Children%20aged%20over%201%20month%20-%205%20years%3A%20THB%20300%2C000%20Age%206%20years%20above%3A%20THB%20200%2C000&{EB470656-78FE-45D7-AA4A-D7D3051565A0}=1%20month%201%20day%20-%2065%20years&{5003D93E-AD2B-4A75-98A3-720DB202C221}=Age%20of%2090&{85EF5EEB-4A59-46D8-9E48-66B9481A92EF}=100%25%20of%20Sum%20assured%20or%20total%20premium%20paid.%20Whichever%20is%20higher&{2DAA12AA-95B0-479F-942E-3EF3189D9A3B}=100%20%25%20of%20sum%20assured&{F77203AC-4793-49AE-8550-78AF196A139F}=Yes"
+    - ID: "b92c2dde-7a5d-47d6-a1a5-beb79513d9e8"
+      Hint: share
+      Type: Checkbox
+      Value: 1
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: Value Protector (IVP 20)
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="Enquire" linktype="form" querystring="enquiry" target="" id="{136AA02C-41C6-4E79-88E1-7893B161A37F}" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: Plan
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200828T095947Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: Value Protector (IVP 20)
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=20%20years&{59310316-8B9D-4849-AD89-E788BD74B265}=Children%20aged%20over%201%20month%20-%205%20years%3A%20THB%20300%2C000%20Age%206%20years%20above%3A%20THB%20200%2C000&{EB470656-78FE-45D7-AA4A-D7D3051565A0}=1%20month%201%20day%20-%2065%20years&{5003D93E-AD2B-4A75-98A3-720DB202C221}=Age%20of%2090&{85EF5EEB-4A59-46D8-9E48-66B9481A92EF}=100%25%20of%20Sum%20assured%20or%20total%20premium%20paid.%20Whichever%20is%20higher&{2DAA12AA-95B0-479F-942E-3EF3189D9A3B}=100%20%25%20of%20sum%20assured&{F77203AC-4793-49AE-8550-78AF196A139F}=Yes%2C%20up%20to%20THB%20100%2C000"
+    - ID: "b92c2dde-7a5d-47d6-a1a5-beb79513d9e8"
+      Hint: share
+      Type: Checkbox
+      Value: 1
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200828T095947Z
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: Value Protector (IVP 20)
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="Enquire" linktype="form" querystring="enquiry" target="" id="{136AA02C-41C6-4E79-88E1-7893B161A37F}" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: Plan
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: 
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: IVP 20
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055158Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: คุ้มครอง คุ้มค่า คุ้มภัย (IVP 20)
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=20%20%E0%B8%9B%E0%B8%B5&{59310316-8B9D-4849-AD89-E788BD74B265}=%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%205%20%E0%B8%9B%E0%B8%B5%20%3A%20300%2C000%20%E0%B8%9A%E0%B8%B2%E0%B8%97%20%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%206%20%E0%B8%9B%E0%B8%B5%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%9B%20%3A%20200%2C000%20%E0%B8%9A%E0%B8%B2%E0%B8%97&{EB470656-78FE-45D7-AA4A-D7D3051565A0}=1%20%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99%201%20%E0%B8%A7%E0%B8%B1%E0%B8%99%20%E2%80%93%2065%20%E0%B8%9B%E0%B8%B5&{5003D93E-AD2B-4A75-98A3-720DB202C221}=%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%2090%20%E0%B8%9B%E0%B8%B5&{85EF5EEB-4A59-46D8-9E48-66B9481A92EF}=100%25%20%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8A%E0%B8%B3%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%20%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B9%83%E0%B8%94%E0%B8%88%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2&{2DAA12AA-95B0-479F-942E-3EF3189D9A3B}=100%25%20%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2%20%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%84%E0%B8%A3%E0%B8%9A%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2&{F77203AC-4793-49AE-8550-78AF196A139F}=%E0%B8%A5%E0%B8%94%E0%B8%AB%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89"
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: คุ้มครอง คุ้มค่า คุ้มภัย (IVP 20)
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="สอบถาม" linktype="form" querystring="enquiry" target="" id="{136AA02C-41C6-4E79-88E1-7893B161A37F}" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: แผนประกัน
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200828T095658Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: คุ้มครอง คุ้มค่า คุ้มภัย (IVP 20)
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=20%20%E0%B8%9B%E0%B8%B5&{59310316-8B9D-4849-AD89-E788BD74B265}=%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%205%20%E0%B8%9B%E0%B8%B5%20%3A%20300%2C000%20%E0%B8%9A%E0%B8%B2%E0%B8%97%20%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%206%20%E0%B8%9B%E0%B8%B5%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%9B%20%3A%20200%2C000%20%E0%B8%9A%E0%B8%B2%E0%B8%97&{EB470656-78FE-45D7-AA4A-D7D3051565A0}=1%20%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99%201%20%E0%B8%A7%E0%B8%B1%E0%B8%99%20%E2%80%93%2065%20%E0%B8%9B%E0%B8%B5&{5003D93E-AD2B-4A75-98A3-720DB202C221}=%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%2090%20%E0%B8%9B%E0%B8%B5&{85EF5EEB-4A59-46D8-9E48-66B9481A92EF}=100%25%20%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8A%E0%B8%B3%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%20%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B9%83%E0%B8%94%E0%B8%88%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2&{2DAA12AA-95B0-479F-942E-3EF3189D9A3B}=100%25%20%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2%20%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%84%E0%B8%A3%E0%B8%9A%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2&{F77203AC-4793-49AE-8550-78AF196A139F}=%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%20100%2C000%20%E0%B8%9A%E0%B8%B2%E0%B8%97"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200828T095658Z
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: คุ้มครอง คุ้มค่า คุ้มภัย (IVP 20)
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="สอบถาม" linktype="form" querystring="enquiry" target="" id="{136AA02C-41C6-4E79-88E1-7893B161A37F}" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: แผนประกัน
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: 

@@ -1,0 +1,68 @@
+﻿---
+ID: "8527ac6c-f6c6-4481-b3d5-df01de953b66"
+Parent: "ee5042d9-c4ea-4d47-b257-31ae8fce7a27"
+Template: "df35e621-f80b-4fa2-8b4d-85c9782a43b9"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/premium-payment/local-folder/premium-payment/DropdownItem/bank-branches/latest-bill-payment/krung-thai-bank"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 450
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Krung Thai Bank
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0efba758-7b3d-4cec-a6d7-9cb3bbc199fa"
+      Hint: description
+      Value: <p>Company Code 6061</p>
+    - ID: "22b72a4c-26fe-45c6-a389-9208ed5f30a9"
+      Hint: title
+      Value: Krung Thai Bank
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191226T075318Z
+    - ID: "458a9aca-15af-4816-a2ce-a1359491db04"
+      Hint: image
+      Value: |
+        <image mediaid="{63146A00-F025-4223-BB8F-635215A5285D}" cropx="0.48" cropy="0.50" focusx="-0.046875" focusy="0" />
+    - ID: "e10bd642-d1a2-4376-9089-a17d8b83ddd6"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{63146A00-F025-4223-BB8F-635215A5285D}" cropx="0.48" cropy="0.51" focusx="-0.046875" focusy="-0.015625" />
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Krung Thai Bank
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0efba758-7b3d-4cec-a6d7-9cb3bbc199fa"
+      Hint: description
+      Value: <p>Company Code 6061</p>
+    - ID: "22b72a4c-26fe-45c6-a389-9208ed5f30a9"
+      Hint: title
+      Value: ธ.กรุงไทย
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T122346Z
+    - ID: "458a9aca-15af-4816-a2ce-a1359491db04"
+      Hint: image
+      Value: |
+        <image mediaid="{63146A00-F025-4223-BB8F-635215A5285D}" cropx="0.50" cropy="0.48" focusx="0" focusy="0.046875" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "e10bd642-d1a2-4376-9089-a17d8b83ddd6"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{63146A00-F025-4223-BB8F-635215A5285D}" cropx="0.48" cropy="0.49" focusx="-0.046875" focusy="0.015625" />
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 

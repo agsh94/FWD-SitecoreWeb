@@ -1,0 +1,116 @@
+﻿---
+ID: "db9a5beb-c2db-486e-8d85-affc50a677c1"
+Parent: "9066db40-628b-4cf6-851c-5c03a184ce22"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/premium-payment/local-folder/premium-payment/DropdownItem/auto-recurring-payment-via-debit credit-card/fill-auto-recurring-credit-card"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Fill Auto Recurring Credit Card
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191226T073830Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>Fill in the <a href="-/media/028c73e9b2394da286e344e80059ea43.ashx">auto recurring credit card application form</a>. You only need to do this once. After that, your bill will be automatically paid on the due date you select. The conditions are as follows:</p>
+        <ul>
+            <li>Apply at least one month before the payment due date</li>
+            <li>We accept</li>
+        </ul>
+        <img alt="" src="-/media/35c216d8be6e45c1a1cb59ae167e395d.ashx?h=64&w=64" style="height:64px; width:64px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="" src="-/media/4187e5ab44544df096112e1e60f69216.ashx?h=64&w=64" style="height:64px; width:64px;" />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200921T025025Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>Fill in the credit card payment application. This is both for policies <a href="-/media/12ea9f49c0134493800749a5f0a43fee.ashx">bought from SCB&nbsp;or&nbsp;<span>through</span> a former agency </a>channel as well as policies bought&nbsp;<span>through</span>&nbsp;<a href="-/media/documents/support/auto-debit-via-credit-card-application-form.pdf?rev=6aafa31bbfbc416a9af0c2ca7463aff5">an FWD sales agent or any other FWD channel</a>. You only need to do this once. After that, your bill will be automatically paid on the due date you select. </p>
+        <ul>
+            <li>Apply at least one month before the payment due date</li>
+            <li>We accept</li>
+        </ul>
+        <img alt="" src="-/media/35c216d8be6e45c1a1cb59ae167e395d.ashx?h=64&amp;w=64" style="height:64px; width:64px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="" src="-/media/4187e5ab44544df096112e1e60f69216.ashx?h=64&amp;w=64" style="height:64px; width:64px;" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200921T025025Z
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Fill Auto Recurring Credit Card
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T084911Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span>สามารถกรอกเอกสาร</span><span> </span><span><a href="-/media/028c73e9b2394da286e344e80059ea43.ashx">หนังสือขอให้เรียกเก็บเงินจากบัตรเครดิตอัตโนมัติ</a></span><span> </span><span>เพื่อหักค่าเบี้ยประกันผ่านบัตรเครดิต</span><span> </span><span>โดยใช้แบบฟอร์มของ</span><span> </span><span>FWD </span><span>มีเงื่อนไข</span><span> </span><span>ดังนี้</span></p>
+        <ul>
+            <li>สมัครก่อนถึงวันครบกำหนดชำระเบี้ยประกันภัย อย่างน้อย 1 เดือน</li>
+            <li>รับชำระด้วยบัตรเครดิตวีซ่าและมาสเตอร์การ์ด ของทุกสถาบันการเงิน</li>
+        </ul>
+        <img alt="" src="-/media/35c216d8be6e45c1a1cb59ae167e395d.ashx?h=64&w=64" style="height:64px; width:64px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="" src="-/media/4187e5ab44544df096112e1e60f69216.ashx?h=64&w=64" style="height:64px; width:64px;" />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200921T030121Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span>สามารถกรอกแบบฟอร์มชำระเบี้ยประกันโดยการหักบัญชีบัตรเครดิต สำหรับ<a href="-/media/12ea9f49c0134493800749a5f0a43fee.ashx">กรมธรรม์ที่ซื้อผ่านธนาคารไทยพาณิชย์หรือตัวแทนเดิม</a> หรือ <a href="-/media/documents/support/auto-debit-via-credit-card-application-form.pdf?rev=6aafa31bbfbc416a9af0c2ca7463aff5">กรมธรรม์ที่ซื้อผ่านตัวแทนของ FWD หรือช่องทางอื่นๆ</a> เพื่อหักค่าเบี้ยประกันผ่านบัตรเครดิต โดยมีรายละเอียดคือ</span></p>
+        <ul>
+            <li>สมัครก่อนถึงวันครบกำหนดชำระเบี้ยประกันภัย อย่างน้อย 1 เดือน</li>
+            <li>รับชำระด้วยบัตรเครดิตวีซ่าและมาสเตอร์การ์ด ของทุกสถาบันการเงิน</li>
+        </ul>
+        <img alt="" src="-/media/35c216d8be6e45c1a1cb59ae167e395d.ashx?h=64&amp;w=64" style="height:64px; width:64px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="" src="-/media/4187e5ab44544df096112e1e60f69216.ashx?h=64&amp;w=64" style="height:64px; width:64px;" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200921T030121Z

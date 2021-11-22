@@ -1,0 +1,35 @@
+﻿---
+ID: "6b2fb147-30dc-4df9-8b95-c1b9ff4c6177"
+Parent: "4fc2ab4a-e375-4a6b-8316-183e15fe72ca"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Community/FWD-donated-to-Special-Olympic/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T081018Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: Ms. Poramasiri Manolmaay, FWD&rsquo;s Chief Executive Officer (third from left), and Mr. Preecha Ruthiraphong, FWD&rsquo;s Chief Marketing Officer (fourth from left) are pictured with Mr. Itthipol Samutthong (right), who won FWD&rsquo;s 78&deg; North Pole Marathon. The event raised THB 500,000 for FWD&rsquo;s Visual Run at the Special Olympics. Pictured second from left is&nbsp; Mrs. Ratchaneewan Bulakul, Director of Thailand&rsquo;s Special Olympic Sports Association and (on the far left) Mr. Supakorn Ketmengkit, representing the Thai Special Olympics.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T081043Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: นางสาวปรมาศิริ มโนลม้าย (คนที่ 3 จากซ้าย) ประธานเจ้าหน้าที่บริหาร พร้อมด้วย นายปรีชา รุธิรพงษ์ (คนที่ 4 จากซ้าย) ประธานเจ้าหน้าที่สายงานการตลาด และ&nbsp; นายอิทธิพล สมุทรทอง (คนที่ 1 จากขวา) นักวิ่งผู้พิชิตมาราธอน FWD &lsquo;78&deg; North&rsquo; Marathon ร่วมมอบเงินสนับสนุนจำนวน 500,000 บาท จากโครงการ &ldquo;วิ่งส่งใจไปนอร์ทโพล ทุกโลเพื่อน้อง&rdquo; (FWD Visual Run) ให้กับสมาคมกีฬาสเปเชียลโอลิมปิคแห่งประเทศไทย โดยมี นางรัชนีวรรณ บูลกุล (คนที่ 2 จากซ้าย) ผู้อำนวยการสมาคมกีฬาสเปเชียลโอลิมปิคแห่งประเทศไทย และนายศุภกร&nbsp; เกษแม่นกิจ (คนที่ 1 จากซ้าย) ผู้นำนักกีฬาสเปเชียลโอลิมปิคไทย เป็นผู้รับมอบ เพื่อใช้ในการพัฒนาทักษะและส่งเสริมความเท่าเทียมของนักกีฬาผู้พิการทางสติปัญญา

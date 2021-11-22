@@ -1,0 +1,23 @@
+﻿.tabs-custom .scTabstrip {
+    height: auto;
+}
+
+.tabs-custom .scTabs {
+    position: relative;
+    top: auto;
+    bottom: auto;
+    left: auto;
+    right: auto;
+}
+
+.tabs-custom .scTabPage {
+    position: relative;
+}
+
+.tabs-custom .scScrollbox {
+    height: auto !important;
+}
+
+.tabs-custom .scTab {
+    border: 1px solid #ccc;
+}

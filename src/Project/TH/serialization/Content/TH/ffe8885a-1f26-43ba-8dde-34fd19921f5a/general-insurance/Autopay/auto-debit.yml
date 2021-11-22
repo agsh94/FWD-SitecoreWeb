@@ -1,0 +1,39 @@
+﻿---
+ID: "58d72c3d-fb64-4136-9cda-302a219ae98a"
+Parent: "c289da76-6d55-451d-827f-98935cfbc984"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Support/premium-payment/local-folder/premium-payment/general-insurance/Autopay/auto-debit"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Auto debit
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191224T132318Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: <p>Auto debit means you need to do the paperwork only once, and your bill will be paid automatically on the due date. You can apply for auto pay via credit card, or via your savings account.</p>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T104951Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: <p>Auto debit means you need to do the paperwork only once, and your bill will be paid automatically on the due date. You can apply for auto pay via credit card, or via your savings account.</p>

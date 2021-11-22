@@ -1,0 +1,71 @@
+﻿---
+ID: "53189c01-7d4c-426a-868d-632588b08cec"
+Parent: "49815e8c-6362-476e-a764-a217827ee730"
+Template: "f1076e50-7ea9-4ce1-a4da-09f5c71b91e3"
+Path: "/sitecore/content/fwd/fwd-th/Components/CampaignCards/FWD encourages Special Olympics athletes"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: FWD encourages Special Olympics athletes.
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T094217Z
+    - ID: "5ca0b426-a772-4ca2-83f7-a402b5674c40"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{F42C1FCC-2460-4DA9-B273-F3B4D723F756}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c25bc0d0-1892-4153-ae5d-54f266e1cdfe"
+      Hint: subTitle
+      Value: FWD organiszed an event, to encourage Special Olympics aAthletes to and help combat inequality and offer mental health support as a mental support.
+    - ID: "cb563753-add3-4fff-8f03-9867310ef547"
+      Hint: label
+      Value: 2019
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: FWD encourages Special Olympics athletes.
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{F42C1FCC-2460-4DA9-B273-F3B4D723F756}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T094125Z
+    - ID: "5ca0b426-a772-4ca2-83f7-a402b5674c40"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{F42C1FCC-2460-4DA9-B273-F3B4D723F756}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c25bc0d0-1892-4153-ae5d-54f266e1cdfe"
+      Hint: subTitle
+      Value: เอฟดับบลิวดี มอบความสุข สร้างกำลังใจให้แก่นักกีฬาพิเศษ Special Olympics เพื่อลดความไม่เท่าเทียมและสร้างสรรค์แรงใจ  
+    - ID: "cb563753-add3-4fff-8f03-9867310ef547"
+      Hint: label
+      Value: 2019
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: มอบความสุข ให้กำลังใจนักกีฬา
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{F42C1FCC-2460-4DA9-B273-F3B4D723F756}" />

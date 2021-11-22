@@ -1,0 +1,60 @@
+﻿---
+ID: "6d92b34d-27d7-4ab7-a5aa-e09e5304ad27"
+Parent: "15058a13-8b20-4686-95cb-4a6cb3d7a928"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/tailor-made/local-folder/Flexible insurance plans/We cover 41 critical illnesses"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: Our extended coverage includes 41 critical illnesses
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200117T112632Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: We cover 41 critical illnesses
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{4D699640-0651-4E49-849D-7AC4033982C7}" cropx="0.50" cropy="0.52" focusx="0.005598295102560602" focusy="-0.048447608947753906" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{4D699640-0651-4E49-849D-7AC4033982C7}" cropx="0.50" cropy="0.55" focusx="-0.003212277584664136" focusy="-0.09689664840698242" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: ขยายความคุ้มครอง ครอบคลุม 41 โรคร้ายแรง
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T115849Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: คุ้มครอง 41 โรคร้าย
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{4D699640-0651-4E49-849D-7AC4033982C7}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{4D699640-0651-4E49-849D-7AC4033982C7}" />

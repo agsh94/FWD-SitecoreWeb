@@ -1,0 +1,47 @@
+﻿---
+ID: "696e7720-7007-4515-baa2-f923545c5f67"
+Parent: "a2af7fdf-c0d7-49a3-a429-a1b9ddd5619a"
+Template: "4faa2cd7-63df-4c30-abb2-9d55380d2106"
+Path: "/sitecore/content/fwd/fwd-th/Components/headerLinks/header-navigation-links/personal-insurance"
+DB: master
+SharedFields:
+- ID: "0506ee6d-80ab-42a9-aa0d-06cb556b05b0"
+  Hint: pageType
+  Value: "{FB2C4A8A-0593-44B7-B7C4-AE07AF4F8BB2}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Personal Insurance
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200312T121933Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{528D2C44-05E6-4E13-8C4C-0A7FFF35B120}" />
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: Personal insurance
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200316T190610Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{528D2C44-05E6-4E13-8C4C-0A7FFF35B120}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: ประกันภัยรายบุคคล

@@ -1,0 +1,49 @@
+﻿---
+ID: "e4cedf49-6648-433f-be12-35cb438eae44"
+Parent: "2780d877-e4a6-4b18-b184-fa28fb025a56"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/Merger FAQ/3Can SCB Life use the service channel of FWD Life"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200703T064047Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "Can SCB Life use the service channel of FWD Life? Can FWD Life use the service channel of SCB Life?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul style="list-style-type: disc;">
+            <li><span>After the amalgamation is completed, the current customers of SCB Life and of FWD Life will be able to use service channels of SCB Life and FWD Life under the newly amalgamated entity. </span></li>
+            <li><span>However, SCB Life and FWD Life are in the process of preparing details of services to be provided to customers after the amalgamation, and will inform the customers of such details, including service channels, to all customers. </span></li>
+        </ul>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200703T064943Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: ลูกค้าของ SCB Life สามารถใช้บริการผ่านช่องทางต่างๆ ของ FWD Life ได้หรือไม่ / ลูกค้า FWD Life สามารถใช้บริการผ่านช่องทางต่างๆ ของ SCB Life ได้หรือไม่
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul style="list-style-type: disc;">
+            <li><span>เมื่อการควบกันของบริษัททั้งสองเสร็จสิ้น ลูกค้าปัจจุบันของ </span><span>SCB Life และของ FWD Life จะสามารถใช้ช่องทางการจัดจำหน่ายและการให้บริการของทั้งสองบริษัทได้ภายใต้บริษัทที่ควบกันฯ</span></li>
+            <li><span>อย่างไรก็ดี </span><span>SCB Life และ FWD Life อยู่ระหว่างการจัดเตรียมรายละเอียดเกี่ยวกับการให้บริการลูกค้าภายหลังจากการควบกันของบริษัทและจะแจ้งรายละเอียดดังกล่าว รวมถึงช่องทางการให้บริการแก่ลูกค้า ให้ลูกค้าทุกท่านทราบต่อไป</span></li>
+        </ul>

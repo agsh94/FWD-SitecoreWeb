@@ -1,0 +1,18 @@
+﻿---
+ID: "b1653c51-2972-4744-be2a-0ae1713775cc"
+Parent: "ce80a31f-7111-43f0-a1a5-24c415b6274b"
+Template: "0bf835ba-61b4-4ff6-94f2-444cb2d53dce"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/DateFormats
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Date Formats
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201004T181648Z

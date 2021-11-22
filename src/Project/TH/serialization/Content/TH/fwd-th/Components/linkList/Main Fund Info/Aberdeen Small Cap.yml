@@ -1,0 +1,41 @@
+﻿---
+ID: "819bebba-ae48-4a3e-b5e1-f044c6752934"
+Parent: "fa7b2746-f59d-42c0-a7c6-c5e63caf097c"
+Template: "1d74b3b3-2234-4eac-bd93-d00a35863a01"
+Path: "/sitecore/content/fwd/fwd-th/Components/linkList/Main Fund Info/Aberdeen Small Cap"
+DB: master
+SharedFields:
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{A03E086C-A7FD-4FD0-8D38-AA313D696179}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200519T013737Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Aberdeen Small Cap (ABSM) Suspended" linktype="media" title="Aberdeen Small Cap (ABSM) Suspended" target="_blank" id="{A15D5A63-F30E-4C0E-9F56-58423583C178}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200519T014459Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ประกาศระงับคำสั่งซื้อและการสับเปลี่ยนเข้าหน่วยลงทุน กองทุนเปิด อเบอร์ดีนสมอลแค็พ (ABSM)" linktype="media" title="ประกาศระงับคำสั่งซื้อและการสับเปลี่ยนเข้าหน่วยลงทุน กองทุนเปิด อเบอร์ดีนสมอลแค็พ (ABSM)" target="_blank" id="{A15D5A63-F30E-4C0E-9F56-58423583C178}" />

@@ -1,0 +1,25 @@
+﻿---
+ID: "abe84b7f-a2bc-4f75-b2f0-09978d6bdada"
+Parent: "dc44bb05-a756-47f9-b168-321b22729ce4"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/exciting-vietnam/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 3800
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T020440Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: ร้านนี้ตกแต่งได้น่านั่งมากครับ ทำให้เมืองดาลัตดูชิลท่ามกลางความวุ่นวาย เหมือนเป็นจุดที่เรานั่งเงียบๆ ได้ ทั้งๆ ที่บรรยากาศของเมืองมีแต่เสียงแตร อาจจะเป็นเพราะการตกแต่งที่มีต้นไม้สีเขียว มีการเอาผักสลัดมาปลูกไว้ทั่วร้าน ตัวร้านเป็นไม้และกระจก ตั้งอยู่มุมสูงมองลงไปจากระเบียงที่นั่ง เห็นรถมอเตอร์ไซค์ขับไปมา

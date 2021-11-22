@@ -1,0 +1,160 @@
+﻿---
+ID: "b1cb0306-25c0-4a8f-bbd7-925271d1e3a2"
+Parent: "0cb40f34-2656-4c74-a71b-5b7e421cf3bb"
+Template: "8e353b27-e5f9-4361-b332-9b3557fb7cd8"
+Path: "/sitecore/content/fwd/fwd-th/Components/Teams/Agent/Chanya Wonglappanich"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{9F488902-6B29-495A-A862-7AFFE5724132}" cropx="0.50" cropy="0.48" focusx="0" focusy="0.03125" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T093341Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: Khun Chanya Wonglappanich (Khun Gam)
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: |
+        <span id="docs-internal-guid-3bf52c42-7fff-3406-0403-81d15192c008"></span>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 8pt;"><span style="background-color: #ffffff; color: #000000;">"Being a life insurance agent has its challenges but so many rewards too. It all depends on your dedication and effort. I&rsquo;ve now been a life insurance agent for three years. Both my parents are life insurance agents, so that had a significant impact on me. You could say I grew up in the business! This was quite a career shift after many years, travelling and competing in beauty pageants. I wondered if I could do it but realised the key is to work hard and be ready to learn. This job gives me the freedom to live my life. I can now manage my own time. I also can make a move to full-time work if I want to. One of the things I love is that I can work and travel at the same time. That&rsquo;s why being a life insurance agent is the right choice for me."</span></p>
+        <div><span style="background-color: #ffffff; color: #000000;"><br />
+        </span></div>
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: Full time FWD agent
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{9F488902-6B29-495A-A862-7AFFE5724132}" cropx="0.50" cropy="0.48" focusx="0" focusy="0.03125" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201009T051153Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: Khun Chanya Wonglappanich (Khun Gam)
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: |
+        <span id="docs-internal-guid-3bf52c42-7fff-3406-0403-81d15192c008"></span>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 8pt;"><span style="background-color: #ffffff; color: #000000;">Being a life insurance agent has its challenges but so many rewards too. It all depends on your dedication and effort. I&rsquo;ve now been a life insurance agent for three years. Both my parents are life insurance agents, so that had a significant impact on me. You could say I grew up in the business! This was quite a career shift after many years, travelling and competing in beauty pageants. I wondered if I could do it but realised the key is to work hard and be ready to learn. This job gives me the freedom to live my life. I can now manage my own time. I also can make a move to full-time work if I want to. One of the things I love is that I can work and travel at the same time. That&rsquo;s why being a life insurance agent is the right choice for me.</span></p>
+        <div><span style="background-color: #ffffff; color: #000000;"><br />
+        </span></div>
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: Full time FWD agent
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201009T051153Z
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{9F488902-6B29-495A-A862-7AFFE5724132}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{9F488902-6B29-495A-A862-7AFFE5724132}" cropx="0.49" cropy="0.48" focusx="-0.02083333333333337" focusy="0.03125" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T094236Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: คุณเพ็ญชิชา สร้างการนอก (นิว)
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: |
+        <p>ดิฉัน เป็นตัวแทนมา 7 ปี และคิดว่าธุรกิจประกันทำให้เรามีเวลาอยู่กับครอบครัวมากขึ้นและยกระดับชีวิตเราและครอบครัวให้ดีมากขึ้น ตลอดการเป็นตัวแทนของเอฟดับบลิวดี เรากล้าที่จะบอกได้เลยว่าเรามั่นใจและภูมิใจเพราะเอฟดับบลิวดีให้ความสำคัญกับลูกค้าและตัวแทนเป็นอย่างมาก</p>
+        <p>Protection Specialist ยกระดับการทำงานให้สูงขึ้น การมีโควต้าเป้าหมายในแต่ละ Segment ทำให้เราโฟกัสอยู่กับงาน สร้างมาตรฐานที่ดีในฐานะนักขาย โดย Protection Specialist สนับสนุนทั้งความรู้ ภาพลักษณ์ และ รายได้</p>
+        <p>*Protection Specialist คือ โครงการที่ FWD จัดตั้งขึ้นเพื่อพัฒนาและยกระดับตัวแทนให้เหนือไปอีกขั้น ด้วยการเป็นผู้เชี่ยวชาญทางด้านความคุ้มครอง และพร้อมส่งมอบความคุ้มครองให้แก่ลูกค้าอย่างยั่งยืน</p>
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: ผู้เข้าร่วมโครงการ Protection Specialist
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: 
+    - ID: "ffce884f-680c-485e-9bef-f4dbf574d377"
+      Hint: featuredPictogramImage
+      Value: |
+        <image mediaid="{F7D82769-AF23-4E37-B4F1-C32E0C641585}" />
+  - Version: 2
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{9F488902-6B29-495A-A862-7AFFE5724132}" cropx="0.49" cropy="0.48" focusx="-0.02083333333333337" focusy="0.03125" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201009T051040Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: คุณชัญญา วงศ์ลาภพานิช (คุณแก้ม) 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: |
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 8pt;"><span style="background-color: #ffffff; color: #000000;">อาชีพตัวแทนประกันชีวิต แม้จะมีความท้าทายหลายอย่างให้ได้พบเจอ แต่ผลตอบแทนที่ได้ ก็ทำให้เราได้รับสิ่งดี ๆ กลับมามากมายไม่แพ้กัน&nbsp;</span><span style="background-color: #ffffff; color: #000000;">ทุกอย่างอยู่ที่ความตั้งใจของเรามากที่สุด ตอนนี้ดิฉันเป็น</span><span style="color: #000000;">ตัวแทน</span><span style="background-color: #ffffff; color: #000000;">มาได้ 3 ปี&nbsp;</span><span style="color: #000000;">โดยเริ่มต้นจากพื้นฐานครอบครัวที่มีคุณพ่อ คุณแม่ เป็นตัวแทนประกันชีวิต จึงคลุกคลีกับอาชีพตัวแทนประกันมาตั้งแต่เด็ก&nbsp;</span><span style="background-color: #ffffff; color: #000000;">เรียกได้ว่าเติบโตมากับสายอาชีพนี้เลยก็ว่าได้ การเป็นตัวแทนประกันชีวิตถือเป็นการเปลี่ยนแปลงครั้งใหญ่ หลังจากผ่านการเดินสายประกวดนางงามมาในหลากหลายเวที </span><span style="color: #000000;">ทั้งในประเทศและต่างประเทศ ตอนแรกเป็นกังวลเหมือนกันว่าเราจะทำได้ไหม แต่สุดท้ายก็ได้เรียนรู้ว่าหัวใจสำคัญคือต้องขยันและพร้อมที่จะเรียนรู้อยู่ตลอดเวลา งานนี้ทำให้ดิฉันมีอิสระในการใช้ชีวิต สามารถจัดการเวลาได้ด้วยตัวเราเอง และยังสามารถที่จะเลือกทำได้เองทุกเมื่อหากเราพร้อม อีกสิ่งหนึ่งที่ดิฉันชอบมากที่สุดคือการ</span><span style="color: #000000;">ทำเรื่องงาน และเรื่องเที่ยวให้เป็นเรื่องเดียวกัน และทั้งหมดนี้คือเหตุผลที่ว่าทำไมอาชีพตัวแทนประกันชีวิตเป็นคำตอบสำหรับดิฉันค่ะ</span></p>
+        <div><span style="color: #000000;"><br />
+        </span></div>
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: ตัวแทนประกันชีวิตเอฟดับบลิวดี
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201009T051040Z
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{9F488902-6B29-495A-A862-7AFFE5724132}" />
+    - ID: "ffce884f-680c-485e-9bef-f4dbf574d377"
+      Hint: featuredPictogramImage
+      Value: |
+        <image mediaid="{F7D82769-AF23-4E37-B4F1-C32E0C641585}" />

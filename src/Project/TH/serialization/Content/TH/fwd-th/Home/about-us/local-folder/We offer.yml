@@ -1,0 +1,39 @@
+﻿---
+ID: "2903288e-6ba2-4cbb-a445-e12ce02c66dc"
+Parent: "c2cbf05d-3eb4-49ff-b40f-f0308003ffac"
+Template: "967a8dad-4a23-491b-95e2-295dec0b64b3"
+Path: "/sitecore/content/fwd/fwd-th/Home/about-us/local-folder/We offer"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 182
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: We offer
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191018T095324Z
+    - ID: "ef4ceecf-b302-475f-be16-370851260a17"
+      Hint: title
+      Value: We offer
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200115T030733Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "ef4ceecf-b302-475f-be16-370851260a17"
+      Hint: title
+      Value: เรานำเสนอ

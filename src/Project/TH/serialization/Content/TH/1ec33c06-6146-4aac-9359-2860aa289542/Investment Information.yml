@@ -1,0 +1,59 @@
+﻿---
+ID: "72bda7a8-4870-4f32-b0b9-2a8c67252518"
+Parent: "1ec33c06-6146-4aac-9359-2860aa289542"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Investments/Fund Information/local-folder/Investment Information"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{7EA908FB-506F-45E9-AB04-2B33B5DCDE2A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200523T041150Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: Our carefully chosen domestic and foreign investment funds offer the potential of financial returns and future wealth.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: "Why choose an investment fund?"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See our funds" linktype="external" url="https://iservice.fwd.co.th/pages/funddetail.aspx?_ga=2.61119596.1996298506.1589787387-1165537490.1589767259" anchor="" title="Investment information" target="_blank" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200523T041714Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: กองทุนภายในประเทศ และกองทุนต่างประเทศชั้นนำที่เราคัดสรรมาให้คุณ เพื่อการลงทุนพร้อมผลตอบแทนที่ดี ช่วยเสริมสร้างความมั่นคงสำหรับอนาคต
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ข้อมูลการลงทุน
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ข้อมูลการลงทุน" linktype="external" url="https://iservice.fwd.co.th/pages/funddetail.aspx?_ga=2.61119596.1996298506.1589787387-1165537490.1589767259" anchor="" title="ข้อมูลการลงทุน" target="_blank" />

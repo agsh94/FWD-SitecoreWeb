@@ -1,0 +1,40 @@
+﻿---
+ID: "b860d20c-4a78-4ce5-82c2-4145c4a0a7bc"
+Parent: "4e459c3f-7958-4405-a66c-6bd9678367e4"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/things-to-do-first-40/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200402T045337Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: "<span>Welcome to the 40 station! Being 40 means you have come such long way and almost halfway to the end of the road. It&rsquo;s</span><span> </span><span>no surprise </span><span>if you question </span><span>m</span><span>ore often about yourself and what life can do next.</span>"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T233600Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p style="background: white; margin-top: 9pt;"><span style="color: black;">ใช้เวลาไปนาน</span><span style="color: black;"> </span><span style="color: black;">จนตอนนี้ใกล้ถึงหลักสี่แล้ว</span><span style="color: black;">....</span><span style="color: black;">หลักสี่ที่ไม่ใช่สถานที่แต่มันคืออายุที่กำลังจะล่วงเลยเข้าสู่ครึ่งหนึ่งของชีวิต</span><span style="color: black;"> </span><span style="color: black;">ช่วงที่หลายคนน่าจะกำลังเกิดคำถามกับตัวเองอยู่บ่อยครั้งว่าจะเอายังไงต่อกับชีวิตนี้ดี</span></p>

@@ -1,0 +1,67 @@
+﻿---
+ID: "b6d777b5-d1b4-4756-91b8-db518691e3cb"
+Parent: "34397bb8-d796-4a3e-bd7f-5830e5166397"
+Template: "2861c185-fc81-4fdc-8e91-93de381c752e"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Privileges/Privilege3/local-folder/ArticleDetails/media-carousal/Media"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b23ad3f-b76c-4a6a-830d-1434dd398ed6"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T060744Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: mKa_fi2KNo
+    - ID: "c93d0c7b-6b3a-4e3a-a9b6-dc89062a8a6c"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{D76E5B14-FF11-48A0-B7B4-B1262B23C1BD}" cropx="0.43" cropy="0.48" focusx="-0.13725490196078427" focusy="0.046875" />
+    - ID: "ca02df68-c93a-4d5b-bfb9-65cde670e7cd"
+      Hint: caption
+      Value: "The One, FWD's high-end medical solution, and the associated all-round, one-stop health management service PREMIER THE ONEcierge, claimed an Excellence Award in the Medical Care Category."
+    - ID: "e5628949-939b-4454-b990-5b6c89e0be4d"
+      Hint: image
+      Value: |
+        <image mediaid="{D9D2F1EA-7E3B-4A23-8944-3471814BAF28}" cropx="0.42" cropy="0.46" focusx="-0.15625" focusy="0.078125" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b23ad3f-b76c-4a6a-830d-1434dd398ed6"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200311T094335Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: mKa_fi2KNo
+    - ID: "c93d0c7b-6b3a-4e3a-a9b6-dc89062a8a6c"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{6232039E-DEF3-4624-90E7-ECB6459126F2}" cropx="0.06" cropy="0.18" focusx="-0.8769873903508771" focusy="0.63861083984375" />
+    - ID: "ca02df68-c93a-4d5b-bfb9-65cde670e7cd"
+      Hint: caption
+      Value: "The One, FWD's high-end medical solution, and the associated all-round, one-stop health management service PREMIER THE ONEcierge, claimed an Excellence Award in the Medical Care Category."
+    - ID: "e5628949-939b-4454-b990-5b6c89e0be4d"
+      Hint: image
+      Value: |
+        <image mediaid="{D9D2F1EA-7E3B-4A23-8944-3471814BAF28}" cropx="0.90" cropy="0.17" focusx="0.7984512061403508" focusy="0.669921875" />

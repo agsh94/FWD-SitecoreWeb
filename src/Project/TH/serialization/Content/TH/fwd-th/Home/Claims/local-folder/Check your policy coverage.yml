@@ -1,0 +1,75 @@
+﻿---
+ID: "81376d85-5f73-4c51-83cc-01f02aec90c9"
+Parent: "0f59fbf3-588d-4366-8cdc-1fb77f5630b7"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/local-folder/Check your policy coverage"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{EDE48680-3100-4BDD-816B-84160EEE460D}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200510T044919Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{EDE48680-3100-4BDD-816B-84160EEE460D}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: Step one is to check that your policy covers your claim. You can do this by logging in to your account and checking your policy details.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Check your policy coverage
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Login" linktype="external" url="https://iservice.fwd.co.th/login.aspx" anchor="" title="Login" target="_blank" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{EDE48680-3100-4BDD-816B-84160EEE460D}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200510T054117Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{EDE48680-3100-4BDD-816B-84160EEE460D}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: ขั้นแรก ให้ตรวจสอบว่าความคุ้มครองที่คุณมีสามารถเรียกร้องสินไหมได้หรือไม่ โดยคุณสามารถล็อกอินเข้าไปในบัญชีผู้ใช้งานเพื่อตรวจสอบรายละเอียดกรมธรรม์ของคุณ
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ตรวจสอบความคุ้มครองตามกรมธรรม์ของคุณ
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="เข้าสู่ระบบ" linktype="external" url="https://iservice.fwd.co.th/login.aspx" anchor="" title="เข้าสู่ระบบ" target="_blank" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"

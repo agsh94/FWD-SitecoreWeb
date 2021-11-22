@@ -1,0 +1,64 @@
+﻿---
+ID: "bf14614c-e3e1-4566-9a7d-05512f3d8e85"
+Parent: "f725fe99-890a-49d3-a678-76eac210d667"
+Template: "ad6870d4-2dd6-40ef-a8fa-941ab32cee43"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/Cash Return Options/local-folder/Out-patient In-patient/Copy of In-Patient/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T075803Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value:  
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>Send in all the required documents and a note of your request via</p>
+        <ul>
+            <li>Mail</li>
+        	<ul>
+        	<li>
+            Policy owner service department, FWD Life Insurance Public Company Limited,
+            14th floor, Sindhorn Building Tower 3, 130-132 Witthayu Road, Lumpini, Pathumwan, Bangkok 10330</li></ul>
+            
+            <li>Email <a href="mailto:iservice@fwd.co.th">iservice@fwd.co.th</a></li>
+            <li>Fax 02-632-2414</li>
+        </ul>
+        <p>Typical processing time: 3 days</p>
+        <p>You will be notified by mail when we have processed the payment. Please allow a few days for the mail to reach you.</p>
+        
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T081259Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value:  
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ท่านสามารถส่งเอกสารได้โดยช่องทางต่อไปนี้</p>
+        <ul>
+            <li>ช่องทางไปรษณีย์ ที่อยู่จัดส่ง ฝ่ายบริการกรมธรรม์ บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) เลขที่ 130-132 ชั้นที่ 14 อาคารสินธร ทาวเวอร์ 3 ถนนวิทยุ แขวงลุมพินี เขตปทุมวัน กรุงเทพฯ 10330</li>
+            <li>อีเมล์  <a href="mailto:iservice@fwd.co.th">iservice@fwd.co.th</a></li>
+            <li>ทางแฟกซ์ 02-632-2414</li>
+        </ul>
+        <p>ระยะเวลาดำเนินการ ภายใน 3 วันทำการ</p>
+        <p>บริษัทฯ จะแจ้งผลให้ทราบทางไปรษณีย์ โดยไปรษณีย์อาจใช้เวลาในการนำส่งเอกสาร 2-3 วัน</p>
+        

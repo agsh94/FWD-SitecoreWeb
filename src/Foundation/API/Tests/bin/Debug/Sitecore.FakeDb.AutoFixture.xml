@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Sitecore.FakeDb.AutoFixture</name>
+    </assembly>
+    <members>
+        <member name="T:Sitecore.FakeDb.AutoFixture.AutoDbCustomization">
+            <summary>
+            A customization that enables creation of Sitecore types such as <see cref="T:Sitecore.Data.Database"/> 
+            or <see cref="T:Sitecore.Data.Items.Item"/>.
+            </summary>
+        </member>
+        <member name="M:Sitecore.FakeDb.AutoFixture.AutoDbCustomization.Customize(Ploeh.AutoFixture.IFixture)">
+            <summary>
+            Customizes the specified fixture by adding the Sitecore specific specimen builders.
+            </summary>
+            <param name="fixture">The fixture to customize.</param>
+        </member>
+        <member name="T:Sitecore.FakeDb.AutoFixture.ContentAttribute">
+            <summary>
+            An attribute that can be applied to parameters in an <see cref="!:AutoDataAttribute"/>-driven
+            Theory to indicate that the parameter value should be added to the current <see cref="T:Sitecore.FakeDb.Db"/>
+            instance every time the <see cref="T:Ploeh.AutoFixture.IFixture"/> creates an instance of that type.
+            
+            Should be applied to the <see cref="T:Sitecore.Data.Items.Item"/>, <see cref="T:Sitecore.FakeDb.DbItem"/> and <see cref="T:Sitecore.FakeDb.DbTemplate"/>
+            types and their inheritors.
+            </summary>
+        </member>
+        <member name="T:Sitecore.FakeDb.AutoFixture.AutoContentCustomization">
+            <summary>
+            A customization that adds items to the current <see cref="T:Sitecore.Data.Database"/>.
+            The default <see cref="T:Sitecore.Data.Database"/> is "master".
+            </summary>
+        </member>
+        <member name="M:Sitecore.FakeDb.AutoFixture.AutoContentCustomization.Customize(Ploeh.AutoFixture.IFixture)">
+            <summary>
+            Customizes the specified fixture by adding items to the current <see cref="T:Sitecore.Data.Database"/>.
+            </summary>
+            <param name="fixture">The fixture to customize.</param>
+        </member>
+        <member name="T:Sitecore.FakeDb.AutoFixture.AddContentItemCommand">
+            <summary>
+            A command that adds items to the current <see cref="T:Sitecore.Data.Database"/>.
+            The default <see cref="T:Sitecore.Data.Database"/> is "master".
+            </summary>
+        </member>
+        <member name="T:Sitecore.FakeDb.AutoFixture.ItemSpecimenBuilder">
+            <summary>
+            Creates new <see cref="T:Sitecore.Data.Items.Item"/> instances.
+            </summary>
+        </member>
+        <member name="M:Sitecore.FakeDb.AutoFixture.ItemSpecimenBuilder.Create(System.Object,Ploeh.AutoFixture.Kernel.ISpecimenContext)">
+            <summary>
+            Creates a new <see cref="T:Sitecore.Data.Items.Item"/> instance.
+            </summary>
+            <param name="request">The request that describes what to create.</param>
+            <param name="context">The specimen context. Used to resolve the <see cref="T:Sitecore.Data.Items.Item"/> dependencies.</param>
+            <returns>
+            A new <see cref="T:Sitecore.Data.Items.Item"/> instance, if <paramref name="request"/> is a request for a
+            <see cref="T:Sitecore.Data.Items.Item"/>; otherwise, a <see cref="T:Ploeh.AutoFixture.Kernel.NoSpecimen"/> instance.
+            </returns>
+        </member>
+    </members>
+</doc>

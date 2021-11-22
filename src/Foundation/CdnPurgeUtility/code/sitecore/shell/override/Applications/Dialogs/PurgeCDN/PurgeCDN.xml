@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<control xmlns:def="Definition" xmlns="http://schemas.sitecore.net/Visual-Studio-Intellisense" xmlns:content="http://www.sitecore.net/content">
+    <PurgeCDN>
+        <style>
+            #CDNProgressPage .scWizardProgressPage .scSpinner{
+                margin-top:90px;
+            }
+            .bold-heading{
+                font-weight: 700;
+                font-size: 13x;
+                margin-top: 10px;
+            }
+        </style>
+        <WizardForm CodeBeside="FWD.Foundation.CDNPurgeUtility.Dialogs.CdnPurgeForm,FWD.Foundation.CDNPurgeUtility">
+
+            <WizardFormPage ID="CDNSettingsPage" Header='${( CdnUtilityText.CDNPurgeHeading )}'
+                            Text='${ WebUtil.GetQueryString("subitems")=="1" ? CdnUtilityText.PurgeWithSubitemDesc : CdnUtilityText.PurgeWithoutSubitemDesc }'>
+                <WizardFormPadding>
+                    <DataContext ID="CountryDropdownDataContext" DataViewName="Master" Root="/sitecore/content/fwd"/>
+                    <Scrollbox ID="SettingsPane" Border="none" Background="transparent">
+                        <Groupbox ID="CountryDropdownPanel" Class="bold-publishing-heading" Header="Please choose the country site" Margin="15px 30px 25px 0px">
+                            <content:CustomTreePicker ID="CdnCountryDropdownTreePicker" DataContext="CountryDropdownDataContext" SelectOnly="true" Width="100%"/>
+                        </Groupbox>
+                    </Scrollbox>
+                </WizardFormPadding>
+            </WizardFormPage>
+
+            <WizardFormProgressPage ID="CDNProgressPage" Header='${ CdnUtilityText.CDNPurgeHeading }'
+                                    Text='${ WebUtil.GetQueryString("subitems")=="1" ? CdnUtilityText.PurgeWithSubitemDesc : CdnUtilityText.PurgeWithoutSubitemDesc }'
+                                    ActionText="Purging CDN...">
+                <Border ID="CDNPurgeLoaderMessage">
+                    &#160;
+                </Border>
+            </WizardFormProgressPage>
+            
+            <WizardFormPage ID="Retry" Header='${ CdnUtilityText.CDNPurgeHeading }'
+                      Text='${ WebUtil.GetQueryString("subitems")=="1" ? CdnUtilityText.PurgeWithSubitemDesc : CdnUtilityText.PurgeWithoutSubitemDesc }'>
+                <WizardFormPadding>
+                    <Memo ID="ErrorText" ReadOnly="true" Width="100%" Height="100%"/>
+                </WizardFormPadding>
+            </WizardFormPage>
+            
+            <WizardFormPage ID="LastPage" Header='${ CdnUtilityText.CDNPurgeHeading }'
+                                    Text='${ WebUtil.GetQueryString("subitems")=="1" ? CdnUtilityText.PurgeWithSubitemDesc : CdnUtilityText.PurgeWithoutSubitemDesc }'>
+                <WizardFormPadding>
+                    <Literal class="scFieldLabel bold-heading" ID="Status"/>
+                    <Literal class="scFieldLabel" ID="Result"/>
+                </WizardFormPadding>
+            </WizardFormPage>
+            
+        </WizardForm>
+    </PurgeCDN>
+</control>

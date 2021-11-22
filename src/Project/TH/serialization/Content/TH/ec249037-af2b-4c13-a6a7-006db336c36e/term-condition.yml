@@ -1,0 +1,53 @@
+﻿---
+ID: "0255ec1f-db4d-435b-b81e-b6781552725c"
+Parent: "ec249037-af2b-4c13-a6a7-006db336c36e"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/about-us/press-releases/article-12/local-folder/article-description-area/term-condition"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 900
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Terms & Conditions
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T062112Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>
+        <span style="font-size: 16px;line-height:20px;color: #333333;"><strong>Terms &amp; Conditions</strong></span>
+        </p>
+        <p><span style="font-size: 13px;line-height:20px;color: #333333;">Unless otherwise indicated, copyright of all materials and contents found on this website is owned by FWD Life Insurance Company (Bermuda) Limited, FWD General Insurance Company Limited, FWD Life Insurance Company (Macau) Limited, FWD Financial Planning Limited and FWD Financial Limited (hereinafter referred to as "the Company") unless otherwise indicated.</span></p>
+        
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T034641Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>
+        <span style="font-size: 16px;line-height:20px;color: #333333;"><strong>Terms &amp; Conditions</strong></span>
+        </p>
+        <p><span style="font-size: 13px;line-height:20px;color: #333333;">Unless otherwise indicated, copyright of all materials and contents found on this website is owned by FWD Life Insurance Company (Bermuda) Limited, FWD General Insurance Company Limited, FWD Life Insurance Company (Macau) Limited, FWD Financial Planning Limited and FWD Financial Limited (hereinafter referred to as "the Company") unless otherwise indicated.</span></p>
+        

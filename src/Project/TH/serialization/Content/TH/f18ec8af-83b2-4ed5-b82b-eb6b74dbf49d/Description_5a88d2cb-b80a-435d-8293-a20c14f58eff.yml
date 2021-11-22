@@ -1,0 +1,32 @@
+﻿---
+ID: "5a88d2cb-b80a-435d-8293-a20c14f58eff"
+Parent: "f18ec8af-83b2-4ed5-b82b-eb6b74dbf49d"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Sport/runnerjourney/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200923T040912Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>เปรียบการวิ่งกับชีวิต</strong><br />
+        สิ่งที่ค้นพบจนกลายเป็นความชอบที่ลงตัวกับชีวิตของคุณหนุ่มคือการวิ่ง เขายังคงวิ่งสะสมความสำเร็จต่อไป ทั้งแบบเล็กๆ ในทุกเช้าที่สวนสาธารณะ และแบบใหญ่ๆ ในรายการแข่งขันระดับโลก<br />
+        <br />
+        <strong>&ldquo;เราทุกคนไม่จำเป็นต้องวิ่งเหมือนกัน เพียงค้นหาและทำในสิ่งที่ชอบและให้ประโยชน์กับตัวเองในระยะยาว จากนั้นความสำเร็จที่เป็นที่สุดของชีวิตที่ลงตัวจะเกิดขึ้นเอง&rdquo;</strong>

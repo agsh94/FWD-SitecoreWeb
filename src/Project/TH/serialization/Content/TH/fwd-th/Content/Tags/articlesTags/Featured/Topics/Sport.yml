@@ -1,0 +1,46 @@
+﻿---
+ID: "1a0882d1-29e0-44f1-a452-1bfa66656b0e"
+Parent: "b54750f1-5022-4e48-96f3-bf5662c4c19f"
+Template: "69b601a8-8555-4411-8c17-aa91671eec32"
+Path: "/sitecore/content/fwd/fwd-th/Content/Tags/articlesTags/Featured/Topics/Sport"
+DB: master
+SharedFields:
+- ID: "76618df2-6cc1-4295-99c9-c6e2613074e8"
+  Hint: articlePillarPage
+  Value: "{61286F2A-D58F-4E32-B7C5-61D7EF703C9D}"
+- ID: "a903eb23-a8d6-4a9a-bd27-4bd363b1fcf0"
+  Hint: searchName
+  Value: Sport
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: Sport
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191101T165844Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: สปอร์ต
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200110T060156Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "9d9e3d43-8450-414c-8ace-831acaf13893"
+      Hint: image
+      Value: |
+        <image mediaid="{67770BD7-4030-48D3-B7DD-A9CF515947A6}" />
+    - ID: "f3e7eced-0a93-4cf0-9d5e-a3de5e8917f3"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{67770BD7-4030-48D3-B7DD-A9CF515947A6}" />

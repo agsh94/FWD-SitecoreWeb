@@ -1,0 +1,20 @@
+﻿---
+ID: "73bf9f17-f059-4914-9399-4e830ff57e29"
+Parent: "8490468e-dc5f-428d-b510-80282a1e6852"
+Template: "3d49b1c9-2ee5-4a39-9f66-3754e71d1b15"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Brightcove Folder/Brightcove Video 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200826T072140Z
+    - ID: "79253ae7-4428-4454-8bfe-c165257f9fef"
+      Hint: playerID
+      Value: rJQ17bWxgf
+    - ID: "933c038c-fb71-4827-9a63-698d98c19d34"
+      Hint: videoID
+      Value: 6137527261001

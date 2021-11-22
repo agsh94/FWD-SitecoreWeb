@@ -1,0 +1,146 @@
+﻿---
+ID: "760f76c9-3b51-4155-bf1e-a8780449f3bf"
+Parent: "47ea1f09-a30e-4a41-bc97-e73f574dc735"
+Template: "68bbe3b2-090e-4063-98c3-e462cd0c74e8"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Claims/accident-and-health 1"
+DB: master
+SharedFields:
+- ID: "4139ab92-c984-456c-99f7-b2276a2008ec"
+  Hint: contentType
+  Value: "{58E30460-AC9F-45C2-8B0F-47E93979778B}"
+- ID: "5d298d24-a14d-478b-b892-8586861b9dab"
+  Hint: primaryNeedTags
+  Value: "{390404DC-4C70-4662-B09E-5FB89B7B5294}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;enableMargin&amp;divider" />
+        <r
+          uid="{0CEB192A-1817-41DF-BE1B-3BE2525E3624}"
+          s:ds="{7B0D7870-557B-4504-ACBB-2C581069B492}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider&amp;anchorText&amp;backgroundColor=%7bEBDF491B-A72E-47CA-A391-E44A39C9C329%7d&amp;PlayVideoInBackground&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;HeroBannerVariant=%7b0BDF58FF-C695-448B-BC29-6E1C8DC08D4E%7d" />
+        <r
+          uid="{026F06F0-08BA-490C-BD74-D25944908D45}"
+          s:ds="{E6C7C53B-EBE5-4201-8C45-EFC5D00DBED7}"
+          s:par="contentBlockVariant=%7bB8818C35-0526-4FB3-8E2B-7F5CFD14E141%7d&amp;contentBlockType=%7bE0AD9759-98A0-479F-9E1B-700ED3FC8B36%7d&amp;backgroundColor=%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;divider=1&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d" />
+        <r
+          uid="{787D0CD4-4114-431A-8890-2456201C0E24}">
+          <p:d />
+        </r>
+        <r
+          uid="{2A4CDBDB-E158-4D4C-BEDF-5608A6712CC7}"
+          p:after="r[@uid='{026F06F0-08BA-490C-BD74-D25944908D45}']"
+          s:ds="{5F46E0A0-6B4E-44DA-9FA8-A7284C18BB9C}"
+          s:id="{F0B75A00-90E8-4447-B01D-69F6564D9F5F}"
+          s:par="paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;anchorText&amp;size&amp;tabVariant=%7b461D5949-895D-456B-BD3A-3D6829726E84%7d&amp;backgroundColor=%7b32B048EC-B6F2-4AC1-B58E-D3A9E24F6F12%7d&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{A54A6F05-AF56-4B86-AB32-A1D9E89F4BC1}"
+          p:after="r[@uid='{2A4CDBDB-E158-4D4C-BEDF-5608A6712CC7}']"
+          s:ds="{82FC6241-809A-4CDF-A520-9D8E6FECB64E}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="contentBlockVariant=%7bB8818C35-0526-4FB3-8E2B-7F5CFD14E141%7d&amp;contentBlockType=%7bE0AD9759-98A0-479F-9E1B-700ED3FC8B36%7d&amp;backgroundColor=%7bEBDF491B-A72E-47CA-A391-E44A39C9C329%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b13658B9F-B1C0-4C0F-9ABF-A2763594D04A%7d&amp;divider&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d"
+          s:ph="jss-main" />
+        <r
+          uid="{C8515BFD-9FA5-4054-98F1-1FC645DA7E24}"
+          p:after="r[@uid='{A54A6F05-AF56-4B86-AB32-A1D9E89F4BC1}']"
+          s:ds="{02957C6D-86C5-4794-B139-C001748E3A39}"
+          s:id="{230E4871-81C5-469D-9192-4F3E0E7BE90D}"
+          s:par="tabVariant=%7B58786B8C-EA70-4C2E-B456-B9A890633B26%7D&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{2FBA319D-B6D3-4518-BB64-03ADFEE7F8E8}"
+          p:after="r[@uid='{C8515BFD-9FA5-4054-98F1-1FC645DA7E24}']"
+          s:ds="{990DB31F-37E9-4ED0-9074-8430CB786AD1}"
+          s:par="paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;anchorText&amp;backgroundColor=%7bCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7d&amp;cardStyle&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;divider" />
+        <r
+          uid="{438C1DED-1542-4936-8AE1-C81989FCBFC0}"
+          s:ds="{F5AB73B8-7256-48C8-896E-C6676D401A1D}"
+          s:par="paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;anchorText&amp;backgroundColor=%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;divider" />
+        <r
+          uid="{557EE382-E902-401A-A8FF-3554910CE2A0}"
+          p:after="r[@uid='{438C1DED-1542-4936-8AE1-C81989FCBFC0}']"
+          s:ds="{443B81E9-0363-4D73-998B-1AF0BCD380D4}"
+          s:par="paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;variant=%7b474B84BC-4B00-4BDC-AE3A-D0449DC7C543%7d&amp;divider&amp;anchorText&amp;backgroundColor=%7bB47928D6-98FC-4B29-8D0F-586AB477286E%7d&amp;buttonAlignment=%7b8570C16E-5CA9-4A85-8A62-C661A5B4350B%7d&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;numberOfColumns=%7b463993C4-D100-40EB-9898-6A8E60F3BB34%7d" />
+        <r
+          uid="{6760081B-D89B-4A90-8F27-755B88DE6783}"
+          p:after="*[1=2]"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Accident and Health 1
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T125101Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed.
+    - ID: "383c06a4-a394-43b5-919f-12e140258af9"
+      Hint: iconType
+      Value: "{5F5B90CF-BBC5-4A98-BBE9-6012BF536F53}"
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Accident and Health
+    - ID: "afb319ef-ce14-4bc5-be51-29dc4681fb28"
+      Hint: description
+      Value: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue en. 
+    - ID: "d8d7b322-1e79-4b78-8409-29dfe3e0cbdb"
+      Hint: title
+      Value: Accident and Health
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{222EA023-8BA6-4F16-91A5-95C16CA2894C}"
+              s:ds="{FBABFDB7-47B9-40E4-86E2-87427F977248}"
+              s:par="claimVariant&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T085051Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    - ID: "383c06a4-a394-43b5-919f-12e140258af9"
+      Hint: iconType
+      Value: "{C9260111-A6AC-40FD-AEF6-E3AFA0FA215C}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Test Accident and Health Thai
+    - ID: "afb319ef-ce14-4bc5-be51-29dc4681fb28"
+      Hint: description
+      Value: Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue en. 
+    - ID: "d8d7b322-1e79-4b78-8409-29dfe3e0cbdb"
+      Hint: title
+      Value: Accident and Health

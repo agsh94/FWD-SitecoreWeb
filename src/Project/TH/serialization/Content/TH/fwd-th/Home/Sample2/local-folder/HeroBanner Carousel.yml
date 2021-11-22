@@ -1,0 +1,22 @@
+﻿---
+ID: "6a1b525d-10e9-4982-9f1b-e2c963fd6a74"
+Parent: "59ebc1f0-0ac4-4e6a-ab11-e35693ff5d9a"
+Template: "d9df7a98-c006-400d-8855-d0ef021e7fcd"
+Path: "/sitecore/content/fwd/fwd-th/Home/Sample2/local-folder/HeroBanner Carousel"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T092521Z
+    - ID: "2beacf17-ddb8-450a-b836-723b67bdec18"
+      Hint: items
+      Type: Multilist
+      Value: |
+        {B2869D38-63AB-4E0C-876A-98C30623D9B1}
+        {46D19498-100F-435A-B0B3-7665058DD06A}
+        {D709EF5A-9B13-497D-ABA5-8564029048D5}
+        {010278E7-AFE9-4B9A-A59D-6E41E2EC62A3}

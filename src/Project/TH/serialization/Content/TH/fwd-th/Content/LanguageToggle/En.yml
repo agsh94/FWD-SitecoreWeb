@@ -1,0 +1,32 @@
+﻿---
+ID: "65e62323-9da1-4172-b472-7443ebbbfbee"
+Parent: "feb72bda-a345-4809-ad2f-fe403795dd15"
+Template: "49a49f48-a18c-4804-ac48-3a89c8d191d9"
+Path: "/sitecore/content/fwd/fwd-th/Content/LanguageToggle/En"
+DB: master
+SharedFields:
+- ID: "27eab9f1-7900-4e94-a97b-b36318a3aec4"
+  Hint: languageCode
+  Value: en
+- ID: "9c21958c-9ba0-40ae-976f-2aa52cf2a5c8"
+  Hint: defaultLanguage
+  Value: Th
+- ID: "eaffe1ac-0875-4ceb-90f3-122cf5257409"
+  Hint: languageName
+  Value: EN
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200902T144546Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

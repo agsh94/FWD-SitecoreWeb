@@ -1,0 +1,65 @@
+﻿---
+ID: "e9b1c545-e4a0-4351-a43a-7d98b928ae9b"
+Parent: "0829d9c8-a2e7-4202-86ba-1a9eb0e7f69e"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Accident/Easy E-PA/local-folder/ContentBlock"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 650
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{1A2AC65A-8DAF-477A-8D24-2D1A95B435C0}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1189664e-c462-4227-9fea-efb77771ad71"
+      Hint: enableFeaturedTags
+      Type: Checkbox
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200720T022033Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "Whether you enjoy travelling, playing sports, or just loving and enjoying the simple pleasures, whichever your lifestyle is, we’ve got you covered. Just be ready to make the most of your day with Easy E-PA – Accident Protection that you can apply online in only 5 minutes, with 3 different packages that designed to suit your needs, offers worldwide coverage, cashless medical treatment, SOS support."
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hein
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Make the most of your day with instant & full coverage
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1189664e-c462-4227-9fea-efb77771ad71"
+      Hint: enableFeaturedTags
+      Type: Checkbox
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200720T031523Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "ไม่ว่าคุณจะเป็นสายท่องเที่ยว สายกีฬา หรือสายชิล ก็สบายใจและเต็มที่ได้กับทุกความท้าทายในชีวิต เพราะประกันอุบัติเหตุออนไลน์ อีซี่ อี-พีเอ พร้อมดูแลคุณในทุกย่างก้าว กับ 3 แพ็คเกจ ที่ออกแบบมาให้เหมาะกับความต้องการของคุณ คุ้มครองครอบคลุมกิจกรรมและกีฬา ทุกที่ทั่วโลก พร้อมบริการช่วยเหลือฉุกเฉิน ซื้อเองง่ายภายใน 5 นาที"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hein
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: คุ้มครองครอบคลุมทุกไลฟ์สไตล์ ให้คุณเต็มที่กับชีวิตได้ทุกวัน 

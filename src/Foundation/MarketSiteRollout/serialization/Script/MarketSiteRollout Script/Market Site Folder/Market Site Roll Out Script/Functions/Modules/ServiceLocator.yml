@@ -1,0 +1,283 @@
+﻿---
+ID: "a18c9bcb-0339-4b75-a9ca-63cf1cab4149"
+Parent: "38a8fcc4-140e-40b2-bb61-f830003c6c80"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Functions/Modules/ServiceLocator
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    param(
+        $params
+        )
+        
+        Import-Function Global-Functions
+        		if($params.Item){
+        		$newPath = $params.Item.ItemPath + '/Components'
+        		$newItem = Get-Item -Path $newPath
+        		$serviceLocatorItem = New-Item -Parent $newItem -Name "Service Locator" -ItemType $params.TemplateID -Language $params.language
+        		
+        		$modules = Get-ItemInsertOptions $serviceLocatorItem
+        		$modulesSortedByKey = Get-OrderedDictionaryByKey $modules
+        		
+        		if ($modulesSortedByKey.Count -gt 0) {
+        		
+        		$ServiceLocatorFolder = New-Item -Parent $serviceLocatorItem -Name "Agent offices" -ItemType $modulesSortedByKey.'Agents Folder' -Language $params.language
+        		
+        		$ServiceLocatorFoldermodules = Get-ItemInsertOptions $ServiceLocatorFolder
+        		$ServiceLocatorFoldermodulesSortedByKey = Get-OrderedDictionaryByKey $ServiceLocatorFoldermodules
+        		if ($ServiceLocatorFoldermodulesSortedByKey.Count -gt 0) {
+        		$ServiceLocator1 = New-Item -Parent $ServiceLocatorFolder -Name "AO PRAEPIRAI SAMARNGSRI" -ItemType $ServiceLocatorFoldermodulesSortedByKey.'BranchDetails' -Language $params.language
+        		$ServiceLocator1.Editing.BeginEdit()
+        		$itemPath = $params.Item.ItemPath + '/Content/FacilityTypes/agent-offices'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["facilityType"].Value = $item1.ID
+        		$ServiceLocator1.Fields["name"].Value = "Ao Praepirai Samarngsri"
+        		$itemPath = $params.Item.ItemPath + '/Content/Province/prachuap-khiri-khan'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["province"].Value = $item1.ID
+        		$ServiceLocator1.Fields["longitude"].Value = "99.949127"
+        		$ServiceLocator1.Fields["latitude"].Value = "12.585070"
+        		$ServiceLocator1.Fields["streetNumber"].Value = "6/61"
+        		$ServiceLocator1.Fields["road"].Value = "Liap klong Chonbpra taan Rd."
+        		$itemPath = $params.Item.ItemPath + '/Content/District/H/hua-hin'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["district"].Value = $item1.ID
+        		$itemPath = $params.Item.ItemPath + '/Content/County/H/hua-hin'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["county"].Value = $item1.ID
+        		$ServiceLocator1.Fields["postalCode"].Value = "77110"
+        		$itemPath = $params.Item.ItemPath + '/Content/Tags/commonTags/contentType/Support'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["contentType"].Value = $item1.ID
+        		$ServiceLocator1.Fields["buttonIcon"].Value = "{FCD7D121-C241-4EEC-B2C2-9D47C66E4181}"
+        		$ServiceLocator1.Fields["code"].Value = "A065"
+        		$itemPath = $params.Item.ItemPath + '/Content/Office Type/agent-office'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["officeType"].Value = $item1.ID
+        		$ServiceLocator1.Fields["fax"].Value = "032-904-059"
+        		$ServiceLocator1.Fields["mobile"].Value = "081-434-8407"
+        		$ServiceLocator1.Fields["telephone"].Value = "032-904-059"
+        		$ServiceLocator1.Fields["openHours"].Value = "Mon-Fri 10.00 AM - 10.00 PM, Sat 08:30 - 02:30, Closed on Sunday and Public Holidays"
+        		$ServiceLocator1.Fields["isPageSearchable"].Value = 1
+        		$ServiceLocator1.Editing.EndEdit()
+        		
+        		$ServiceLocator2 = New-Item -Parent $ServiceLocatorFolder -Name "ao-chetchai-aroonsukrujee" -ItemType $ServiceLocatorFoldermodulesSortedByKey.'BranchDetails' -Language $params.language
+        		$ServiceLocator2.Editing.BeginEdit()
+        		$ServiceLocator2["__Display name"] = "AO CHETCHAI AROONSUKRUJEE"
+        		$itemPath = $params.Item.ItemPath + '/Content/FacilityTypes/agent-offices'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator2.Fields["facilityType"].Value = $item1.ID
+        		$ServiceLocator2.Fields["name"].Value = "Ao Chetchai Aroonsukrujee"
+        		$itemPath = $params.Item.ItemPath + '/Content/Province/Bangkok'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator2.Fields["province"].Value = $item1.ID
+        		$ServiceLocator2.Fields["longitude"].Value = "100.409834"
+        		$ServiceLocator2.Fields["latitude"].Value = "13.682453"
+        		$ServiceLocator2.Fields["streetNumber"].Value = "41/110"
+        		$ServiceLocator2.Fields["road"].Value = "Kanlapaphruek Rd. Khwaeng Bang Khae"
+        		$itemPath = $params.Item.ItemPath + '/Content/District/B/bang-khae'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator2.Fields["district"].Value = $item1.ID
+        		$itemPath = $params.Item.ItemPath + '/Content/County/B/bang-khae'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator2.Fields["county"].Value = $item1.ID
+        		$ServiceLocator2.Fields["postalCode"].Value = "10160"
+        		$itemPath = $params.Item.ItemPath + '/Content/Tags/commonTags/contentType/Support'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator2.Fields["contentType"].Value = $item1.ID
+        		$ServiceLocator2.Fields["buttonIcon"].Value = "{FCD7D121-C241-4EEC-B2C2-9D47C66E4181}"
+        		$ServiceLocator2.Fields["code"].Value = "A018"
+        		$itemPath = $params.Item.ItemPath + '/Content/Office Type/agent-office'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator2.Fields["officeType"].Value = $item1.ID
+        		$ServiceLocator2.Fields["fax"].Value = "02-4582347"
+        		$ServiceLocator2.Fields["mobile"].Value = "081-842-4251"
+        		$ServiceLocator2.Fields["telephone"].Value = "02-458-2347"
+        		$ServiceLocator2.Fields["openHours"].Value = "Mon-Fri 10.00 AM - 10.00 PM, Sat 08:30 - 02:30, Closed on Sunday and Public Holidays"
+        		$ServiceLocator2.Fields["isPageSearchable"].Value = 1
+        		$ServiceLocator2.Editing.EndEdit()
+        		}
+        		
+        		
+        		$ServiceLocatorFolder = New-Item -Parent $serviceLocatorItem -Name "Branch offices" -ItemType $modulesSortedByKey.'Branch Folder' -Language $params.language
+        		
+        		$ServiceLocatorFoldermodules = Get-ItemInsertOptions $ServiceLocatorFolder
+        		$ServiceLocatorFoldermodulesSortedByKey = Get-OrderedDictionaryByKey $ServiceLocatorFoldermodules
+        		if ($ServiceLocatorFoldermodulesSortedByKey.Count -gt 0) {
+        		$ServiceLocator1 = New-Item -Parent $ServiceLocatorFolder -Name "bangkok-branch" -ItemType $ServiceLocatorFoldermodulesSortedByKey.'BranchDetails' -Language $params.language
+        		$ServiceLocator1.Editing.BeginEdit()
+        		$ServiceLocator1["__Display name"] = "Bangkok Branch"
+        		$itemPath = $params.Item.ItemPath + '/Content/FacilityTypes/branch-offices'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["facilityType"].Value = $item1.ID
+        		$ServiceLocator1.Fields["name"].Value = "Bangkok Branch"
+        		$itemPath = $params.Item.ItemPath + '/Content/Province/Bangkok'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["province"].Value = $item1.ID
+        		$ServiceLocator1.Fields["longitude"].Value = "103.335627"
+        		$ServiceLocator1.Fields["latitude"].Value = "16.458204"
+        		$ServiceLocator1.Fields["streetNumber"].Value = "441"
+        		$ServiceLocator1.Fields["road"].Value = "Teinanon Road Moo 1 Yangtaratd"
+        		$itemPath = $params.Item.ItemPath + '/Content/District/K/Kalasin'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["district"].Value = $item1.ID
+        		$itemPath = $params.Item.ItemPath + '/Content/County/K/Kalasin'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["county"].Value = $item1.ID
+        		$ServiceLocator1.Fields["postalCode"].Value = " 46120"
+        		$itemPath = $params.Item.ItemPath + '/Content/Tags/commonTags/contentType/Support'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["contentType"].Value = $item1.ID
+        		$ServiceLocator1.Fields["buttonIcon"].Value = "{FCD7D121-C241-4EEC-B2C2-9D47C66E4181}"
+        		$ServiceLocator1.Fields["code"].Value = "B112"
+        		$itemPath = $params.Item.ItemPath + '/Content/Office Type/branch-office'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["officeType"].Value = $item1.ID
+        		$ServiceLocator1.Fields["fax"].Value = "043-891-135"
+        		$ServiceLocator1.Fields["mobile"].Value = "9999911112"
+        		$ServiceLocator1.Fields["telephone"].Value = "043-891-133, 043-891-134"
+        		$ServiceLocator1.Fields["openHours"].Value = "Mon - Fri: 08:30 - 17:00 Sat: 09:00 - 15:30"
+        		$ServiceLocator1.Fields["isPageSearchable"].Value = 1
+        		$ServiceLocator1.Editing.EndEdit()
+        		
+        		$ServiceLocator1 = New-Item -Parent $ServiceLocatorFolder -Name "bangkok-branch-2" -ItemType $ServiceLocatorFoldermodulesSortedByKey.'BranchDetails' -Language $params.language
+        		$ServiceLocator1.Editing.BeginEdit()
+        		$ServiceLocator1["__Display name"] = "Bangkok Branch 2"
+        		$itemPath = $params.Item.ItemPath + '/Content/FacilityTypes/branch-offices'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["facilityType"].Value = $item1.ID
+        		$ServiceLocator1.Fields["name"].Value = "Bangkok Branch 2"
+        		$itemPath = $params.Item.ItemPath + '/Content/Province/Bangkok'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["province"].Value = $item1.ID
+        		$ServiceLocator1.Fields["longitude"].Value = "103.335627"
+        		$ServiceLocator1.Fields["latitude"].Value = "16.458204"
+        		$ServiceLocator1.Fields["streetNumber"].Value = "441"
+        		$ServiceLocator1.Fields["road"].Value = "Teinanon Road Moo 1 Yangtaratd"
+        		$itemPath = $params.Item.ItemPath + '/Content/District/K/Kalasin'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["district"].Value = $item1.ID
+        		$itemPath = $params.Item.ItemPath + '/Content/County/K/Kalasin'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["county"].Value = $item1.ID
+        		$ServiceLocator1.Fields["postalCode"].Value = " 46120"
+        		$itemPath = $params.Item.ItemPath + '/Content/Tags/commonTags/contentType/Support'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["contentType"].Value = $item1.ID
+        		$ServiceLocator1.Fields["buttonIcon"].Value = "{FCD7D121-C241-4EEC-B2C2-9D47C66E4181}"
+        		$ServiceLocator1.Fields["code"].Value = "B112"
+        		$itemPath = $params.Item.ItemPath + '/Content/Office Type/branch-office'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["officeType"].Value = $item1.ID
+        		$ServiceLocator1.Fields["fax"].Value = "043-891-135"
+        		$ServiceLocator1.Fields["mobile"].Value = "9999911112"
+        		$ServiceLocator1.Fields["telephone"].Value = "043-891-133, 043-891-134"
+        		$ServiceLocator1.Fields["openHours"].Value = "Mon - Fri: 08:30 - 17:00 Sat: 09:00 - 15:30"
+        		$ServiceLocator1.Fields["isPageSearchable"].Value = 1
+        		$ServiceLocator1.Editing.EndEdit()
+        		}
+        		
+        		
+        		$ServiceLocatorFolder = New-Item -Parent $serviceLocatorItem -Name "Hospitals and Clinics" -ItemType $modulesSortedByKey.'Hospitals Folder' -Language $params.language
+        		
+        		$ServiceLocatorFoldermodules = Get-ItemInsertOptions $ServiceLocatorFolder
+        		$ServiceLocatorFoldermodulesSortedByKey = Get-OrderedDictionaryByKey $ServiceLocatorFoldermodules
+        		if ($ServiceLocatorFoldermodulesSortedByKey.Count -gt 0) {
+        		$ServiceLocator1 = New-Item -Parent $ServiceLocatorFolder -Name "bangkok-general-hospital" -ItemType $ServiceLocatorFoldermodulesSortedByKey.'Hospital' -Language $params.language
+        		$ServiceLocator1.Editing.BeginEdit()
+        		$ServiceLocator1["__Display name"] = "Bangkok General Hospital"
+        		$itemPath = $params.Item.ItemPath + '/Content/FacilityTypes/group-hospitals-and-clinics'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["facilityType"].Value = $item1.ID
+        		$ServiceLocator1.Fields["name"].Value = "Bangkok General Hospital"
+        		$itemPath = $params.Item.ItemPath + '/Content/Province/Bangkok'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["province"].Value = $item1.ID
+        		$ServiceLocator1.Fields["longitude"].Value = "100.5832189"
+        		$ServiceLocator1.Fields["latitude"].Value = "13.7485851"
+        		$ServiceLocator1.Fields["streetNumber"].Value = "2 Soi Soonvijai 7"
+        		$ServiceLocator1.Fields["road"].Value = "New Petchburi Rd."
+        		$itemPath = $params.Item.ItemPath + '/Content/District/B/Bangkapi'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["district"].Value = $item1.ID
+        		$ServiceLocator1.Fields["county"].Value = ""
+        		$ServiceLocator1.Fields["postalCode"].Value = " 10310"
+        		$itemPath = $params.Item.ItemPath + '/Content/City/Bangkok'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["area"].Value = $item1.ID
+        		$itemPath = $params.Item.ItemPath + '/Content/Tags/commonTags/contentType/Support'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator1.Fields["contentType"].Value = $item1.ID
+        		$ServiceLocator1.Fields["buttonIcon"].Value = "{FCD7D121-C241-4EEC-B2C2-9D47C66E4181}"
+        		$ServiceLocator1.Fields["fax"].Value = "0-2310-3000"
+        		$ServiceLocator1.Fields["mobile"].Value = "9999900001"
+        		$ServiceLocator1.Fields["telephone"].Value = "0-2310-3000"
+        		$ServiceLocator1.Fields["openHours"].Value = "Mon-Fri 10.00 AM - 10.00 PM, Sat 08:30 - 02:30, Closed on Sunday and Public Holidays"
+        		$ServiceLocator1.Fields["isPageSearchable"].Value = 1
+        		$ServiceLocator1.Fields["facilityFilterTagsIndividual"].Value = ""
+        		$itemPath1 = $params.Item.ItemPath + '/Content/HospitalFilterTags/OPD'
+        		$item1 = Get-Item -Path $itemPath1
+        		$itemPath2 = $params.Item.ItemPath + '/Content/HospitalFilterTags/IPD'
+        		$item2 = Get-Item -Path $itemPath2
+        		$itemPath3 = $params.Item.ItemPath + '/Content/HospitalFilterTags/check-up'
+        		$item3 = Get-Item -Path $itemPath3
+        		$itemPath4 = $params.Item.ItemPath + '/Content/HospitalFilterTags/Hospital'
+        		$item4 = Get-Item -Path $itemPath4
+        		$ServiceLocator1.Fields["facilityFilterTagsGroup"].Value = $item1.ID.ToString() + '|' + $item2.ID.ToString() + '|' + $item3.ID.ToString() + '|' + $item4.ID.ToString()
+        		$ServiceLocator1.Fields["stateBoiFoundation"].Value = "Government"
+        		$ServiceLocator1.Editing.EndEdit()
+        		
+        		$ServiceLocator2 = New-Item -Parent $ServiceLocatorFolder -Name "kluaynamthai-medical-clinic" -ItemType $ServiceLocatorFoldermodulesSortedByKey.'Hospital' -Language $params.language
+        		$ServiceLocator2.Editing.BeginEdit()
+        		$ServiceLocator2["__Display name"] = "Kluaynamthai Medical Clinic 70 Rai"
+        		$itemPath = $params.Item.ItemPath + '/Content/FacilityTypes/group-hospitals-and-clinics'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator2.Fields["facilityType"].Value = $item1.ID
+        		$ServiceLocator2.Fields["name"].Value = "Kluaynamthai Medical Clinic 70 Rai"
+        		$itemPath = $params.Item.ItemPath + '/Content/Province/Bangkok'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator2.Fields["province"].Value = $item1.ID
+        		$ServiceLocator2.Fields["longitude"].Value = "100.5703906"
+        		$ServiceLocator2.Fields["latitude"].Value = "13.7112182"
+        		$ServiceLocator2.Fields["streetNumber"].Value = "215-217 Soi 1 (70 Rai) "
+        		$ServiceLocator2.Fields["road"].Value = "Ramkhamhaeng Rd."
+        		$itemPath = $params.Item.ItemPath + '/Content/District/K/Khlong-Toei'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator2.Fields["district"].Value = $item1.ID
+        		$itemPath = $params.Item.ItemPath + '/Content/County/K/Khlong-Toei'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator2.Fields["county"].Value = $item1.ID
+        		$ServiceLocator2.Fields["postalCode"].Value = " 10115"
+        		$itemPath = $params.Item.ItemPath + '/Content/City/Bangkok'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator2.Fields["area"].Value = $item1.ID
+        		$itemPath = $params.Item.ItemPath + '/Content/Tags/commonTags/contentType/Support'
+        		$item1 = Get-Item -Path $itemPath
+        		$ServiceLocator2.Fields["contentType"].Value = $item1.ID
+        		$ServiceLocator2.Fields["buttonIcon"].Value = "{FCD7D121-C241-4EEC-B2C2-9D47C66E4181}"
+        		$ServiceLocator2.Fields["fax"].Value = "0-2310-3000"
+        		$ServiceLocator2.Fields["mobile"].Value = "9999900001"
+        		$ServiceLocator2.Fields["telephone"].Value = "0-2310-3000"
+        		$ServiceLocator2.Fields["openHours"].Value = "Mon-Fri 10.00 AM - 10.00 PM, Sat 08:30 - 02:30, Closed on Sunday and Public Holidays"
+        		$ServiceLocator2.Fields["isPageSearchable"].Value = 1
+        		$ServiceLocator2.Fields["facilityFilterTagsIndividual"].Value = ""
+        		$itemPath1 = $params.Item.ItemPath + '/Content/HospitalFilterTags/OPD'
+        		$item1 = Get-Item -Path $itemPath1
+        		$itemPath2 = $params.Item.ItemPath + '/Content/HospitalFilterTags/Clinic'
+        		$item2 = Get-Item -Path $itemPath2
+        		$ServiceLocator2.Fields["facilityFilterTagsGroup"].Value = $item1.ID.ToString() + '|' + $item2.ID.ToString()
+        		$ServiceLocator2.Fields["stateBoiFoundation"].Value = "Government"
+        		$ServiceLocator2.Editing.EndEdit()
+        		}
+        		}
+        		}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200528T075805Z

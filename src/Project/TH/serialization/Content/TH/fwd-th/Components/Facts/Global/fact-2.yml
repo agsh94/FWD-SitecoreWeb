@@ -1,0 +1,55 @@
+﻿---
+ID: "0cf8378b-72a9-48d0-a11e-41add84cd9c2"
+Parent: "60757e5f-d490-415e-b6f0-486372ca29bb"
+Template: "18bbdcee-26b1-4a6b-a98d-29a8338e8a30"
+Path: "/sitecore/content/fwd/fwd-th/Components/Facts/Global/fact-2"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: registered capital
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0630e171-ee6f-460c-87dd-9c455471dbed"
+      Hint: subTitle
+      Value: across Asia
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T103800Z
+    - ID: "3825667b-8845-40e5-81a9-769dab90e6cd"
+      Hint: toolTip
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "fee74513-a347-4e70-b9aa-f96d24908f4a"
+      Hint: title
+      Value: 9 markets
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0630e171-ee6f-460c-87dd-9c455471dbed"
+      Hint: subTitle
+      Value: ทั่วเอเชีย
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200108T165749Z
+    - ID: "3825667b-8845-40e5-81a9-769dab90e6cd"
+      Hint: toolTip
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "fee74513-a347-4e70-b9aa-f96d24908f4a"
+      Hint: title
+      Value: 9 ประเทศ

@@ -1,0 +1,132 @@
+﻿---
+ID: "de91078f-784a-47dd-8042-128a1e9be3b5"
+Parent: "a17ee985-09a7-44a8-9f48-1d142034bee4"
+Template: "91c91756-644c-4460-812b-9d3a33b076b2"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/Birthdayx-droplead/local-folder/Article Description Area/Enquire"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 125
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{F637D977-EFA3-43F2-966A-B6AA2DB4E70B}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200413T102423Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "ba0719f6-3c44-44c3-88f7-36c6f9f9612a"
+      Hint: content
+      Value: Leave your information. We will contact back.
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Enquire" linktype="form" title="Enquire" querystring="bookAnAgent" target="" id="{90D7A8DC-2EBC-4E16-8D0F-E162C7D01EC5}" />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200723T045851Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "ba0719f6-3c44-44c3-88f7-36c6f9f9612a"
+      Hint: content
+      Value: Leave your information. We will contact back.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200723T045851Z
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Enquire" linktype="form" title="Enquire" querystring="bookAnAgent" target="" id="{6D8F8896-70E0-4C0A-95D3-5E401027DD81}" />
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200723T065453Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "ba0719f6-3c44-44c3-88f7-36c6f9f9612a"
+      Hint: content
+      Value: Leave your information. We will contact back.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200723T065453Z
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Enquire" linktype="form" title="Enquire" querystring="bookAnAgent" target="" id="{38AC8EBB-D267-42F4-BEDD-D37F198BA5BA}" />
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200723T095210Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "ba0719f6-3c44-44c3-88f7-36c6f9f9612a"
+      Hint: content
+      Value: Leave your information. We will contact back.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200723T095210Z
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Enquire" linktype="form" title="Enquire" querystring="bookAnAgent" target="" id="{B282C5C6-4C88-4757-85B7-935B2C0DB18F}" />
+  - Version: 5
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200831T082921Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "514cdf2e-f38f-4508-9f5a-5773aaf3a679"
+      Hint: theme
+      Value: "{921097F6-7BCB-4385-897E-B4ADBF4A99DE}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "ba0719f6-3c44-44c3-88f7-36c6f9f9612a"
+      Hint: content
+      Value: Leave your information. We will contact back.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200831T082921Z
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Enquire" linktype="form" title="Enquire" querystring="bookAnAgent" target="" id="{7CC306EF-C344-4770-9E65-D54F8FD5F8B1}" />

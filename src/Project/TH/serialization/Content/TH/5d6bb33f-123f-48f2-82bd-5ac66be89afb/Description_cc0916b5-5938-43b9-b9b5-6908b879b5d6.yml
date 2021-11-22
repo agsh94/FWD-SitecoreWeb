@@ -1,0 +1,33 @@
+﻿---
+ID: "cc0916b5-5938-43b9-b9b5-6908b879b5d6"
+Parent: "5d6bb33f-123f-48f2-82bd-5ac66be89afb"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Wealth/5-think-to-single/local-folder/Article Description Aria/Description"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T060235Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ไม่มีDrama ไม่ต้องนั่งกังวลเรื่องรักๆ เลิกๆ หวาดระแวงเรื่องคนอื่น สุขภาพจิตก็ดีชีวิตแฮปปี้ไปอีก</p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>To do list ที่คนโสดน่าลงมือทำ</strong></p>
+        <ul>
+            <li>
+            แชร์ประสบการณ์ตัวเองกับคนอื่นๆ อาจจะเป็นการเขียน Blog หรือลองเป็นที่ปรึกษา
+            เรื่องการใช้ชีวิตอย่างมีความสุขให้คนอื่นๆ ดูบ้าง
+            </li>
+            <li>เป็นจิตอาสาให้มูลนิธิหรือเครือข่ายต่างๆ ก็ยิ่งเสริมสุขภาพใจให้แข็งแรง
+            </li>
+        </ul>
+        <p>เลี้ยงสัตว์ตัวน้อย เช่นน้องหมา น้องแมว ฝึกความรับผิดชอบ รู้จักแบ่งปันสิ่งดีๆ แถมยังมีเพื่อนรู้ใจ</p>

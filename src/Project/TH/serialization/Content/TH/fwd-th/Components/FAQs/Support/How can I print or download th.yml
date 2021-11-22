@@ -1,0 +1,102 @@
+﻿---
+ID: "8b1d4927-f386-4601-8be6-5302d0c425ec"
+Parent: "125908cd-3bdd-4343-80ec-53a3cd0c7ca0"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Support/How can I print or download the receipt"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T141656Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "How can I print or download the receipt or certificate of my insurance premium payments for tax deduction purposes?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        You can do this via <a href="https://iservice.fwd.co.th">https://iservice.fwd.co.th</a> or your FWD Thailand LINE account
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200929T080757Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "How can I print or download the receipt or certificate of my insurance premium payments for tax deduction purposes?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        You can do this via <a href="https://iservice.fwd.co.th"></a><a href="https://fwdlink.fwd.co.th/fwd/?utm_source=fwd-website&amp;utm_medium=referral&amp;utm_campaign=20200921-fwd-website-info">FWD Link</a> or your FWD Thailand LINE account
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200929T080757Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T141502Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "ต้องการพิมพ์หรือดาวน์โหลดหนังสือรับรองการชำระเบี้ยประกันภัยเพื่อประกอบการลดหย่อนภาษีด้วยตนเองทำอย่างไร?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        ท่านสามารถพิมพ์หรือดาวน์โหลดหนังสือรับรองการชำระเบี้ยประกันเพื่อประกอบการลดหย่อนภาษีได้ด้วยตนเองที่ <a href="http://iservice.fwd.co.th">http://iservice.fwd.co.th</a>&nbsp;หรือ LINE FWD Thailand
+        
+        
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200929T080712Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "ต้องการพิมพ์หรือดาวน์โหลดหนังสือรับรองการชำระเบี้ยประกันภัยเพื่อประกอบการลดหย่อนภาษีด้วยตนเองทำอย่างไร?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        ท่านสามารถพิมพ์หรือดาวน์โหลดหนังสือรับรองการชำระเบี้ยประกันเพื่อประกอบการลดหย่อนภาษีได้ด้วยตนเองที่ <a href="http://iservice.fwd.co.th"></a><a href="https://fwdlink.fwd.co.th/fwd/?utm_source=fwd-website&amp;utm_medium=referral&amp;utm_campaign=20200921-fwd-website-info">FWD Link</a>&nbsp;หรือ LINE FWD Thailand
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200929T080712Z

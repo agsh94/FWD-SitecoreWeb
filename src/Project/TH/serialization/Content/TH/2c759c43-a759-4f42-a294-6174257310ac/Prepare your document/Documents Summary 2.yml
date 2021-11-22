@@ -1,0 +1,59 @@
+﻿---
+ID: "c1562755-f24f-41ef-87f8-3c18a42ed87d"
+Parent: "68350169-1758-44dc-95a8-dd3820f7a4f8"
+Template: "ad6870d4-2dd6-40ef-a8fa-941ab32cee43"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/VertcleTabContentFilter/local-folder/GroupTabListWithoutHeadingWSH/Baggage Delay/Prepare your document/Documents Summary 2"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T070335Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Heading</strong></p>
+        Heading Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200416T104253Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Original</strong></p>
+        <p>&nbsp;</p>
+        <p>&nbsp; &bull; 	Medical certificate with company form
+        </p>
+        <p>&nbsp; &bull; 	Hospital or medical expenses (certified by hospital officer)
+        </p>
+        <p>&nbsp;</p>
+        <p><strong>Copy</strong></p>
+        <p>&nbsp;</p>
+        <p>&nbsp; &bull; 	Book bank copy
+        </p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><strong>Certified true copy*</strong></p>
+        <p>&nbsp;</p>
+        <p>&nbsp; &bull; 	Daily report from Royal Thai Police, certified by police officer (in case of accident only)
+        </p>
+        <p>&nbsp; &bull; 	In case of bone fracture, please provide film and result or certified result from the Radiologists
+        </p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><span class="contentDescription">*A certified true copy is a duplicated version of your document, with an official imprint from the issuer of the document.</span></p>

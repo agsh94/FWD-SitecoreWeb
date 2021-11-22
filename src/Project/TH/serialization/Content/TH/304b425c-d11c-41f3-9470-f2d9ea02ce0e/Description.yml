@@ -1,0 +1,49 @@
+﻿---
+ID: "ce0bd452-41cc-48ba-8950-4c3b0915fab1"
+Parent: "304b425c-d11c-41f3-9470-f2d9ea02ce0e"
+Template: "ad6870d4-2dd6-40ef-a8fa-941ab32cee43"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/care-card/local-folder/Out-patient In-patient/In-Patient/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T080643Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value: "Note:"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ol>
+            <li>If we later find that the cause of illness or injury is an excluded condition of your policy, we reserve the right to reject this claim - even after we&rsquo;ve approved it.</li>
+            <li>If you&rsquo;ve paid any medical expenses at one of our network hospitals and didn&rsquo;t use your FWD Care Card, you can still submit a claim (with your documents) by following the normal <a href="~/link.aspx?_id=645F96770A724985BA13AFC14647AE5F&amp;_z=z">claims process</a>.</li>
+        </ol>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T081357Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value: "หมายเหตุ:"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ol>
+            <li>หากภายหลัง เราตรวจพบว่าสาเหตุของการเจ็บป่วยหรือบาดเจ็บนั้นอยู่นอกเหนือเงื่อนไขตามกรมธรรม์ เราขอสงวนสิทธิ์ในการปฏิเสธการชดใช้ค่าสินไหมทดแทนนั้น แม้ว่าเราจะได้ทำการอนุมัติไปแล้วก็ตาม</li>
+            <li>หากคุณจ่ายค่ารักษาพยาบาลในกรณีผู้ป่วยในที่โรงพยาบาลในเครือข่าย โดยไม่ใช้บัตรเอฟดับบลิวดี แคร์การ์ด คุณสามารถส่งเอกสารมาที่ฝ่ายสินไหม เพื่อขอเบิกค่ารักษาที่ชำระไปแล้วคืนได้ <a href="~/link.aspx?_id=645F96770A724985BA13AFC14647AE5F&amp;_z=z">ตามขั้นตอนการเคลม</a> โดยปกติ</li>
+        </ol>

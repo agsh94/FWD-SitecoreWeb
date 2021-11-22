@@ -1,0 +1,119 @@
+﻿---
+ID: "c3337d94-c0b8-4c2e-8fb0-21686debb8df"
+Parent: "081f588e-dc5d-41ae-a5e2-fd418b9c7fee"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/loan-application/local-folder/helping-you-in-claim-process"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Helping you in claim process
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200323T123501Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: 
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p>We know that life can be challenging and occasionally you need help. So we offer a range of products including loans.</p>
+        <p>By being an FWD customer, you can borrow your policy's cash value and enjoy special interest rates.</p>
+        <p>If your insurance policy is still in-force with a cash value (and no changes to your original agreement), you&rsquo;re entitled to apply for an FWD loan.</p>
+        <p>We offer:</p>
+        <ul>
+            <li>Easy application</li>
+            <li>Fast approval</li>
+            <li>Special rates</li>
+        </ul>
+        And you can use the loan for any purpose you want.
+        <div id="gtx-trans" style="position: absolute; left: 385px; top: 47px;">
+        <div class="gtx-trans-icon">&nbsp;</div>
+        </div>
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: "Need a helping hand?"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200510T061824Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p>เรารู้ว่าชีวิตอาจมีความท้าทายในบางเวลา และหากคุณต้องการความช่วย เราพร้อมดูแลคุณด้วยแผนประกันที่หลากหลาย รวมไปถึงการกู้เงินตามกรมธรรม์</p>
+        <p>ในฐานะลูกค้าเอฟดับบลิวดี คุณสามารถกู้ยืมเงินจากมูลค่ากรมธรรม์ประกันชีวิตของคุณได้ โดยยังได้รับความคุ้มครองจากกรมธรรม์ของคุณ</p> 
+        <p>หากกรมธรม์ประกันชีวิตของคุณมีผลบังคับและมีมูลค่าเงินสดตามกรมธรรม์ คุณมีสิทธิขอกู้เงินตามกรมธรรม์จากบริษัทได้</p>
+        <p>เรานำเสนอการกู้เงินตามกรมธรรม์ที่</p>
+        <ul>
+        <li>สมัครง่ายดาย</li>
+        <li>อนุมัติรวดเร็ว</li>
+        <li>อัตราดอกเบี้ยตามเงื่อนไขกรมธรรม์</li></ul>
+        และคุณสามารถนำไปใช้เพื่อวัตถุประสงค์ใดก็ได้ตามที่คุณต้องการ
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: "ต้องการความช่วยเหลือ?"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200811T090246Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p>เรารู้ว่าชีวิตอาจมีความท้าทายในบางเวลา และหากคุณต้องการความช่วย เราพร้อมดูแลคุณด้วยแผนประกันที่หลากหลาย รวมไปถึงการกู้เงินตามกรมธรรม์</p>
+        <p>ในฐานะลูกค้าเอฟดับบลิวดี คุณสามารถกู้ยืมเงินจากมูลค่ากรมธรรม์ประกันชีวิตของคุณได้ โดยยังได้รับความคุ้มครองจากกรมธรรม์ของคุณ</p>
+        <p>หากกรมธรรม์ประกันชีวิตของคุณมีผลบังคับและมีมูลค่าเงินสดตามกรมธรรม์ คุณมีสิทธิขอกู้เงินตามกรมธรรม์จากบริษัทได้</p>
+        <p>เรานำเสนอการกู้เงินตามกรมธรรม์ที่</p>
+        <ul>
+            <li>สมัครง่ายดาย</li>
+            <li>อนุมัติรวดเร็ว</li>
+            <li>อัตราดอกเบี้ยตามเงื่อนไขกรมธรรม์</li>
+        </ul>
+        และคุณสามารถนำไปใช้เพื่อวัตถุประสงค์ใดก็ได้ตามที่คุณต้องการ
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200811T090246Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: "ต้องการความช่วยเหลือ?"

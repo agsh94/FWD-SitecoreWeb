@@ -1,0 +1,28 @@
+﻿---
+ID: "741be6e3-219c-453e-ae81-ce5abb0b50d4"
+Parent: "dc44bb05-a756-47f9-b168-321b22729ce4"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/exciting-vietnam/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2000
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T020440Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        ใครที่ชอบถ่ายภาพต้องถูกใจที่นี่แน่นอนเลยครับ รูปร่างบ้าน บันได แต่ละส่วนมันดูแปลกตาดี แต่พอเอามาอยู่รวมกันแล้ว เดินไปก็ อ้าววว...มีตรงนี้ด้วยเหรอ? เหมือนค้นพบมุมใหม่ๆ ไปเรื่อยๆ ทำให้ผมอยากลองเดินซอกแซกให้หมดทุกส่วนของที่นี่เลยครับ<br />
+        <br />
+        ยังอยู่ที่สูงไม่จุใจ ดาลัตมีกระเช้า Cable Car ลอยฟ้า ลอยป่าให้เราได้ชมธรรมชาติกันด้วย ค่าขึ้นกระเช้าคนละ 60,000 VND นั่งไปเรื่อยๆ มองซ้ายก็เห็นป่าสีเขียว มองขวาก็เห็นเมือง พอมองจากที่สูงแล้ว เพิ่งรู้ว่าเมืองดาลัตก็ไม่เล็กนะครับ ค่อนข้างกว้าง มีบ้านเรือนทรงยุโรป ลดหลั่นตามเขาหลายโซนเลย

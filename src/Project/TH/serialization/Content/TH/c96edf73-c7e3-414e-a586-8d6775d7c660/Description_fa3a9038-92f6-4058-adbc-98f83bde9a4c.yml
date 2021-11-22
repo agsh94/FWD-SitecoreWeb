@@ -1,0 +1,24 @@
+﻿---
+ID: "fa3a9038-92f6-4058-adbc-98f83bde9a4c"
+Parent: "c96edf73-c7e3-414e-a586-8d6775d7c660"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/deadly-disease-that-is-inside/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T230528Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>7. ปัสสาวะผิดปกติ
+        </strong><br />
+        การปัสสาวะคือการขับถ่ายของเสียออกจากร่างกาย เมื่อไหร่ก็ตามที่ระบบขับถ่ายของเสียเริ่มมีปัญหา ทั้งอาการปัสสาวะขัด ปัสสาวะเหลือง ปัสสาวะมีมดขึ้น ปัสสาวะเป็นเลือด นี่อาจเป็นสัญญาณอาการเริ่มต้นของโรคไตเบาหวาน ดีซ่าน

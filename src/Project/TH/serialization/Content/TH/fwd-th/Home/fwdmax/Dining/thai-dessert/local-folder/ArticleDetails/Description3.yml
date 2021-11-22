@@ -1,0 +1,25 @@
+﻿---
+ID: "83cc8ccb-e276-49c6-896b-bcb9a48cf742"
+Parent: "900588e1-7e6b-433f-835f-5011ba2acb1a"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/thai-dessert/local-folder/ArticleDetails/Description3"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T012138Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: พอเห็นดีไซน์การตกแต่งร้านด้านในก็ไม่แปลกใจเลย เพราะเค้าเข้าใจดึงจุดเด่นอย่างซุ้มอุโมงค์ดอกไม้ไว้ให้ลูกค้าได้ถ่ายรูปเช็คอินแบบนี้นี่เอง มิน่าถึงได้ใจคุณสาวๆ กันนัก โดยเจ้าของร้านได้แรงบันดาลใจมาจากประเทศในทวีปอเมริกาอย่างเม็กซิโกและเกาะมาดากัสการ์ ที่สำคัญ ร้านนี้เค้าเน้นคอนเซ็ปต์เป็นคาเฟ่ขนมไทยฟิวชั่น ที่ผสมเข้ากับสไตล์ของแบรนด์เสื้อผ้าแฟชั่นชื่อเดียวกันกับร้านได้อย่างลงตัว ทำให้บรรยากาศและคนที่มาเช็คอินที่ร้านแห่งนี้ ดูชิคคูล มีความแฟชั่นนิสต้าแตกต่างจากคาเฟ่ขนมไทยทั่วไปนั่นเอง

@@ -1,0 +1,57 @@
+﻿---
+ID: "09ce7dc2-35d0-47a8-9a53-80426f4f816a"
+Parent: "f15378da-0508-4641-a280-5799fd504f76"
+Template: "f6f7b9a9-7d66-4da3-a69b-fe8c7677111e"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Invest/exchange-rate-fund-valuations/local-folder/CurrencyExchangeRate"
+DB: master
+SharedFields:
+- ID: "873804ee-bc77-473f-8565-3de3dd44d7f0"
+  Hint: api
+  Value: "{F0551614-2147-4FD0-9BFC-0467793C0062}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201005T135017Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "4c4d4bd2-4ff7-4f67-bc4c-07cc81382085"
+      Hint: exchangeRateColumnLabel
+      Value: Exchange Rate
+    - ID: "53c47648-9d44-4907-88c0-c18ffa3d2a50"
+      Hint: description
+      Value: "Lorem ipsum is a pseudo-Latin text used in web design, typography, layout, and printing in place of English to emphasise design elements over content. It's also called placeholder (or filler) text. It's a convenient tool for mock-ups."
+    - ID: "59053c11-cd42-40a8-8619-fd58787ed07c"
+      Hint: currencyExchangeDisclaimerText
+      Value: *These exchange rates are for references only and are subject change by FWD without prior notice.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6885582f-de68-43ea-bc4f-91dec9fc95b3"
+      Hint: lastUpdatedDate
+      Value: "Updated by {lastUpdatedDate}"
+    - ID: "7c82cc60-f9b4-4ec5-bf6c-df2d7e12c18e"
+      Hint: linkItems
+      Type: Multilist
+      Value: "{E02B5362-48F3-46F2-BDDA-D3F07F7EFD5C}"
+    - ID: "911022a6-8bd5-4922-b770-1580a3511628"
+      Hint: roundingOff
+      Type: Checkbox
+      Value: 1
+    - ID: "a2b42a08-2791-433b-967d-78104fdd3254"
+      Hint: title
+      Value: Exchange Rate
+    - ID: "ae2db238-564f-4b63-be81-6f8398b18356"
+      Hint: decimalDigit
+      Value: 2
+    - ID: "f94e0160-0bd7-4947-9a0e-650789fd33bf"
+      Hint: currencyColumnLabel
+      Value: Currency ID

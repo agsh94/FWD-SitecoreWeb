@@ -1,0 +1,35 @@
+﻿---
+ID: "1448128f-09ab-4d25-8b0f-b19244da6fc4"
+Parent: "c650ef90-2dfe-42aa-b1a9-fd91a6bb5a30"
+Template: "c0386c47-3ce2-4827-ba4c-f6df0fa16d1b"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Claims/accident-and-health/local-folder/claim-process/step-1/prepare-supporting-documents"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Prepare supporting documents
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191213T082733Z
+    - ID: "5bd917c5-c576-444d-8efb-e5c40cfef957"
+      Hint: title
+      Value: Prepare supporting documents
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T085051Z
+    - ID: "5bd917c5-c576-444d-8efb-e5c40cfef957"
+      Hint: title
+      Value: Prepare supporting documents
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

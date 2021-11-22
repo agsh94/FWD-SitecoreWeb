@@ -1,0 +1,28 @@
+﻿---
+ID: "aead3b8f-2cce-439c-91db-39887c9c243e"
+Parent: "a079531d-f46d-42ce-9825-91a677eeea2c"
+Template: "fb4b274e-49cd-43cd-9368-eb43d032e74b"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/About Us/brand-story/local-folder/brief-history"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-50"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Brief History
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fac526b-719e-4feb-a4f6-a37b56eaf2ec"
+      Hint: title
+      Value: A brief history of FWD 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191120T044159Z
+    - ID: "5322b29b-8722-413e-b3dc-9afba2ff2a4b"
+      Hint: linkItems
+      Value: "{B843B957-0919-4001-BB48-20B58151B4A6}"

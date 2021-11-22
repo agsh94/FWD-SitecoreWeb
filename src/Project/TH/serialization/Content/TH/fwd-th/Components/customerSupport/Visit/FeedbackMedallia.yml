@@ -1,0 +1,65 @@
+﻿---
+ID: "375e1b15-6133-42f6-b927-b0268df4a233"
+Parent: "c4118b5c-975e-4c13-a9e8-71283e66dbfe"
+Template: "655f3eab-2573-4aba-9eae-e93741fae0b9"
+Path: "/sitecore/content/fwd/fwd-th/Components/customerSupport/Visit/FeedbackMedallia"
+DB: master
+SharedFields:
+- ID: "14060f95-7b61-4164-8f82-1d87c980edb9"
+  Hint: supportIcon
+  Value: "{2943C345-9393-47A0-A390-0D1AA2D7AC9E}"
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "a09d41ca-93f6-409c-96a9-1341d3719e83"
+  Hint: listType
+  Value: "{F281AF72-FA4B-4F87-98F1-4B9D77180E60}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Feedback Medallia
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200110T074145Z
+    - ID: "25f6bf79-dbf7-4af0-af8f-4ad390d7bed8"
+      Hint: medalliaForm
+      Value: 3716
+    - ID: "5895aae2-ca68-4b63-83d6-f835c2d94ec5"
+      Hint: subTitle
+      Value: Leave us feedback, complaint or complement and we will handle the rest.
+    - ID: "68b9b7c2-e820-4b57-9e40-f73816d6dbec"
+      Hint: icon
+      Value: |
+        <image mediaid="{042B7BD4-2B82-4957-953B-0B4B295292C1}" />
+    - ID: "b0ec22ca-d046-4211-90bd-d498a5bcfe92"
+      Hint: title
+      Value: Submit feedback
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T065154Z
+    - ID: "25f6bf79-dbf7-4af0-af8f-4ad390d7bed8"
+      Hint: medalliaForm
+      Value: 3716
+    - ID: "5895aae2-ca68-4b63-83d6-f835c2d94ec5"
+      Hint: subTitle
+      Value: Leave us feedback, complaint or complement and we will handle the rest.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "68b9b7c2-e820-4b57-9e40-f73816d6dbec"
+      Hint: icon
+      Value: |
+        <image mediaid="{042B7BD4-2B82-4957-953B-0B4B295292C1}" />
+    - ID: "b0ec22ca-d046-4211-90bd-d498a5bcfe92"
+      Hint: title
+      Value: Submit feedback

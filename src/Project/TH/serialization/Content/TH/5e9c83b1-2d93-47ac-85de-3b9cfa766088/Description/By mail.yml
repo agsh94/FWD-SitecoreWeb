@@ -1,0 +1,63 @@
+﻿---
+ID: "23fb868a-4e53-4a03-8dc6-5b24a25371ae"
+Parent: "6aff798c-0f14-4c28-a293-8c94c7e5373f"
+Template: "1c33ba69-85fa-4844-af04-f370b7f829ab"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/Total permanent disability/local-folder/How to claim/Step 3/Description/By mail"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0efba758-7b3d-4cec-a6d7-9cb3bbc199fa"
+      Hint: description
+      Value: |
+        <p>Send to:</p>
+        <p>Claims Department, FWD Life Insurance Public Company Limited,&nbsp;<br />
+        14th floor, Sindhorn Building Tower 3, 130-132 Wireless Road, Lumpini, Pathumwan, Bangkok 10330</p>
+    - ID: "22b72a4c-26fe-45c6-a389-9208ed5f30a9"
+      Hint: title
+      Value: By mail
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T025039Z
+    - ID: "458a9aca-15af-4816-a2ce-a1359491db04"
+      Hint: image
+      Value: |
+        <image mediaid="{8ACA2DC4-E85B-4822-AA56-1BA74DE56FF4}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "e10bd642-d1a2-4376-9089-a17d8b83ddd6"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{8ACA2DC4-E85B-4822-AA56-1BA74DE56FF4}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0efba758-7b3d-4cec-a6d7-9cb3bbc199fa"
+      Hint: description
+      Value: |
+        <p>ที่อยู่จัดส่ง</p>
+        <p>ฝ่ายสินไหม บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน)<br />
+        130-132 อาคารสินธรทาวเวอร์ 3 ชั้น 14 ถนนวิทยุ <br />แขวงลุมพินี เขตปทุมวัน กรุงเทพฯ 10330</p>
+    - ID: "22b72a4c-26fe-45c6-a389-9208ed5f30a9"
+      Hint: title
+      Value: ช่องทางไปรษณีย์
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T025145Z
+    - ID: "458a9aca-15af-4816-a2ce-a1359491db04"
+      Hint: image
+      Value: |
+        <image mediaid="{8ACA2DC4-E85B-4822-AA56-1BA74DE56FF4}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "e10bd642-d1a2-4376-9089-a17d8b83ddd6"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{8ACA2DC4-E85B-4822-AA56-1BA74DE56FF4}" />

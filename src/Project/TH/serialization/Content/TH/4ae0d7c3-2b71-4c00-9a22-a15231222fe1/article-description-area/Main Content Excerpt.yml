@@ -1,0 +1,21 @@
+﻿---
+ID: "5107f876-6fdd-43ef-9fc9-2cc06685e594"
+Parent: "046aa03f-2280-476d-baea-4ee5650d62e9"
+Template: "dc2042d7-1cc2-4a69-8519-de9dc01a3a00"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/about-us/press-releases/fwd-cleans-up-in-category-with-11-awards/local-folder/article-description-area/Main Content Excerpt"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-100"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f32a040-00d4-4a28-96b6-5dca215d1917"
+      Hint: excerpt
+      Value: Life insurance product recruitment announcement announcement Distribution channels through retail businesses (With a regular salary)
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T060213Z

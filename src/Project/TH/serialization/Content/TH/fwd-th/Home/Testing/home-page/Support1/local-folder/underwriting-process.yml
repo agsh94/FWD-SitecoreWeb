@@ -1,0 +1,62 @@
+﻿---
+ID: "941504e6-30ce-4926-a392-c0ead6bcf89c"
+Parent: "8652fab9-74c2-4aa4-8dc8-f5affa107943"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Support1/local-folder/underwriting-process"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "9cb76228-fc26-48b7-bd66-1c6e133b625d"
+  Hint: secondaryLinkButtonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{0853A008-9B3C-4A10-98B9-1E96A3CDC253}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Underwriting Process
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191231T091334Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "Apply for our insurance products through FWD Insurance Advisors, Banks or Direct Insurance. We Provide information to help you select a suitable plan for your need. Plans take effect 3-7 days after approval. After issuing your insurance policy, the official receipt and policy booklet will be delivered to you.&nbsp;"
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Underwriting Process
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="1351" linktype="external" url="tel://1351" anchor="" title="Call" target="" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200413T045313Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "สมัครผลิตภัณฑ์ประกันภัยของเราผ่าน FWD Insurance Advisors ธนาคารหรือ Direct Insurance เราให้ข้อมูลเพื่อช่วยคุณเลือกแผนที่เหมาะสมกับความต้องการของคุณ แผนจะมีผล 3-7 วันหลังจากได้รับอนุมัติ หลังจากออกกรมธรรม์ประกันภัยของคุณแล้วใบเสร็จและนโยบายจะจัดส่งให้คุณ&nbsp;"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: กระบวนการจัดจำหน่ายหลักทรัพย์
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="1351 th" linktype="external" url="tel://1351" anchor="" title="Call" target="" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"

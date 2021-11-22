@@ -1,0 +1,31 @@
+﻿---
+ID: "b3423417-388d-4d5d-b6fb-cdd8aac8cb54"
+Parent: "437c02b5-e618-45d4-b2e2-0fef91dc4403"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Wealth/insurance-tax-tips/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200928T091904Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>3.เบี้ยประกันสุขภาพพ่อแม่ลดหย่อนภาษีไม่ได้เหรอ?</strong></p>
+        <p><strong></strong><br />
+        ประกันสุขภาพหรือสัญญาเพิ่มเติมสุขภาพ ของพ่อแม่สามารถนำมาลดหย่อนภาษีได้ตามที่จ่ายจริงหรือสูงสุดไม่เกิน 15,000 บาท ภายใต้เงื่อนไขว่า พ่อหรือแม่ต้องมีเงินได้ไม่เกิน 30,000 บาทในปีภาษีนั้นๆ&nbsp;</p>

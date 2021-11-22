@@ -1,0 +1,47 @@
+﻿---
+ID: "2bd39b9b-0cd9-445e-a178-d0138a511b51"
+Parent: "08d474dc-5f2e-42f0-9a30-d1349b8b058e"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/about-us/press-releases/article-11/local-folder/article-description-area/metlife-content"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: MetLife Content
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T060606Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>Huynh Thanh Phong, </p>
+        <p>MetLife Hong Kong is highly complementary to our existing business and the acquisition is another step towards fulfilling our ambition to build a leading pan-Asian life insurance platform. The acquisition signifies our confidence in the long-term growth potential of Hong Kong and we will continue to commit substantial resources to grow our business in this compelling market. We look forward to welcoming the agents and employees from MetLife Hong Kong.</p>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T034628Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>Huynh Thanh Phong, </p>
+        <p>MetLife Hong Kong is highly complementary to our existing business and the acquisition is another step towards fulfilling our ambition to build a leading pan-Asian life insurance platform. The acquisition signifies our confidence in the long-term growth potential of Hong Kong and we will continue to commit substantial resources to grow our business in this compelling market. We look forward to welcoming the agents and employees from MetLife Hong Kong.</p>

@@ -1,0 +1,77 @@
+﻿---
+ID: "4840ac41-0000-4efb-8879-37fa5970c37b"
+Parent: "74a2958d-f7c8-4bd1-b1a8-fa0cc20700ee"
+Template: "b8e624fb-4a85-4ab2-8299-19f7f892f88d"
+Path: "/sitecore/content/fwd/fwd-th/Components/Awards/Awards-FWD-Story/Technology and service awards/Best Technology Application 2019"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18e4c61e-ddc9-4f47-8128-95c28fb8f94c"
+      Hint: awardIssuer
+      Value: Prime Minister’s Insurance Awards
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191106T060924Z
+    - ID: "6b07856b-04a3-41c2-a0b1-16ee9ee2fa96"
+      Hint: link
+      Value: |
+        <linktype text="" linktype="modelpopup" querystring="" target="" id="{9C1EB0CD-E22A-4030-BE44-E90C024F97DE}" />
+    - ID: "8cae381e-be17-4417-9493-4c725bc280e8"
+      Hint: awardName
+      Value: Best Technology Application 2019
+    - ID: "b79c264d-04c8-48e6-b86a-9bf6791c965c"
+      Hint: awardYears
+      Value: 2019
+    - ID: "d9e78b47-cb3e-430a-a9c7-8cdd5faf0afe"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{893E37A4-9DB5-4B23-972D-59CC054FC3C4}" />
+    - ID: "f1388e2b-43cd-45e1-be9e-121de811b942"
+      Hint: image
+      Value: |
+        <image mediaid="{893E37A4-9DB5-4B23-972D-59CC054FC3C4}" />
+    - ID: "fca2a643-23a6-4dc0-a6a1-3db59ca4e554"
+      Hint: awardCategory
+      Value: Best Technology Application 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18e4c61e-ddc9-4f47-8128-95c28fb8f94c"
+      Hint: awardIssuer
+      Value:  รางวัลประกันภัยดีเด่นครบวงจร ประจำปี 2562
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T084754Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "6b07856b-04a3-41c2-a0b1-16ee9ee2fa96"
+      Hint: link
+      Value: |
+        <linktype text="" linktype="modelpopup" querystring="" target="" id="{9C1EB0CD-E22A-4030-BE44-E90C024F97DE}" />
+    - ID: "8cae381e-be17-4417-9493-4c725bc280e8"
+      Hint: awardName
+      Value: บริษัทประกันชีวิตที่นำเทคโนโลยีมาใช้กับระบบประกันภัยดีเด่น
+    - ID: "b79c264d-04c8-48e6-b86a-9bf6791c965c"
+      Hint: awardYears
+      Value: 2562
+    - ID: "d9e78b47-cb3e-430a-a9c7-8cdd5faf0afe"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{893E37A4-9DB5-4B23-972D-59CC054FC3C4}" />
+    - ID: "f1388e2b-43cd-45e1-be9e-121de811b942"
+      Hint: image
+      Value: |
+        <image mediaid="{893E37A4-9DB5-4B23-972D-59CC054FC3C4}" />
+    - ID: "fca2a643-23a6-4dc0-a6a1-3db59ca4e554"
+      Hint: awardCategory
+      Value: บริษัทประกันชีวิตที่นำเทคโนโลยีมาใช้กับระบบประกันภัยดีเด่น

@@ -1,0 +1,120 @@
+﻿---
+ID: "72e1310e-20bb-4cb6-aa32-9fa32b16f8a8"
+Parent: "528d2c44-05e6-4e13-8c4c-0a7fff35b120"
+Template: "e257fffd-48d7-477a-b8c1-9dc11fce0837"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/family-unpublished"
+DB: master
+SharedFields:
+- ID: "61cf7151-0cbd-4db4-9738-d753a55a6e65"
+  Hint: __Enforce version presence
+  Type: Checkbox
+  Value: 0
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: 
+- ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
+  Hint: __Never publish
+  Type: checkbox
+  Value: 0
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{1F500062-D9F9-4B76-B7A3-64069A912CA9}"
+          p:after="r[@uid='{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}']"
+          s:ds="{88B59A5C-10F4-42D5-994B-8E9D5ECCF42C}"
+          s:id="{5410E093-9B56-4C2F-B411-9FB3702CBC63}"
+          s:par="HeroBannerVariant=%7B0B1166D9-2C27-4392-B0FB-C3E5F2C18380%7D&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{9B4AA8CC-7563-48C7-8110-DCF2293CA324}"
+          p:after="r[@uid='{1F500062-D9F9-4B76-B7A3-64069A912CA9}']"
+          s:ds="{5FCA5C0C-F2AF-42DF-A57E-A415CA3CF2FD}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType=%7BE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7D&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{C41C96DF-F1EC-48FD-89F5-89DE2970A17E}"
+          p:after="r[@uid='{9B4AA8CC-7563-48C7-8110-DCF2293CA324}']"
+          s:ds="{0525CF59-F337-4C55-8CB6-49870C1261E8}"
+          s:id="{1B2D4D22-4BFA-48E9-ACD5-0120D07747F3}"
+          s:par="cardVariant=%7BC0DF1746-485D-4546-AEB1-6F1313FE52D9%7D&amp;cardType&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{1A762E3F-E610-4972-8FCF-25BA7AFADD51}"
+          p:after="r[@uid='{C41C96DF-F1EC-48FD-89F5-89DE2970A17E}']"
+          s:ds="{4D42129A-EA0A-48CD-B430-D2B8E706A8B1}"
+          s:id="{4A816582-39CE-4F69-BCDE-010F91E0C947}"
+          s:par="hideCardImage&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{8B0AECF6-9F57-44B0-9997-93328EDA5658}"
+          p:after="r[@uid='{1A762E3F-E610-4972-8FCF-25BA7AFADD51}']"
+          s:ds=""
+          s:id="{251042B9-4BD2-47B4-A9A9-F097EB5C71B3}"
+          s:par="anchorText&amp;backgroundColor=%7BB47928D6-98FC-4B29-8D0F-586AB477286E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{99CB15D7-83BE-43FB-9D6E-0DA6E5514C73}"
+          p:after="r[@uid='{8B0AECF6-9F57-44B0-9997-93328EDA5658}']"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+        <r
+          uid="{A2C230DE-3FAF-4DDE-B8C0-BB2A8E35373B}"
+          p:after="*[1=2]"
+          s:ds="{3749D44B-D668-42A3-8E4E-575CA76983E4}"
+          s:id="{E9189BB0-4352-4FC7-B5F6-7C992E35E897}"
+          s:par="buttonAlignment=%7B8570C16E-5CA9-4A85-8A62-C661A5B4350B%7D&amp;variant&amp;anchorText&amp;backgroundColor=%7BEBDF491B-A72E-47CA-A391-E44A39C9C329%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="jss-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{1BF31985-0ACB-4314-ADC9-0569D49837D4}"
+- ID: "ff451472-1b55-4228-b14d-ab9b2a449792"
+  Hint: isPageSearchable
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200506T075547Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: "FWD’s plans help you build financial security for the most important thing of all: your family "
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Protect your family today, and tomorrow – with FWD
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200506T075557Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: "แบบประกันของเอฟดับบลิวดีที่ช่วยสร้างหลักประกันทางการเงินให้กับสิ่งที่สำคัญที่สุดในชีวิตของคุณ - ครอบครัวของคุณ"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: คุ้มครองครอบครัวของคุณในทุกๆ วันกับเอฟดับบลิวดี 

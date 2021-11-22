@@ -1,0 +1,26 @@
+﻿---
+ID: "98b0de27-67e2-4e0f-9a3f-ee5b73a518ce"
+Parent: "32ca18d9-61ed-4b43-8940-bfebf7bdbae0"
+Template: "bd32cea7-ca24-4412-9263-f32b833a01cc"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Fund/disclaimerList/sharedDisclaimers/Asterisk
+DB: master
+SharedFields:
+- ID: "89b100a5-7ac7-4a63-805e-62da69898fc1"
+  Hint: code
+  Value: *
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T100010Z
+    - ID: "e59f19b7-37da-4692-90c5-c51a7a326263"
+      Hint: description
+      Value: |
+        The underlying fund of above investment choice(s) marked with “*” is/ are derivative fund with net derivative exposure exceeding 50% of its net asset value. It may only be suitable for investors who understand the complicated structure of derivative product and associated risk. You may incur significant loss if investing in such investment choice. You are strongly advised to exercise caution in relation to such investment choice(s).
+        

@@ -1,0 +1,75 @@
+﻿---
+ID: "ba69fd49-10de-4719-8832-3eca9087c6f8"
+Parent: "334d56d5-9720-4f61-afc4-d5db2020317f"
+Template: "b01bfe01-3e4a-4331-a9aa-276a36e2db50"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/care-card/local-folder/ClaimCardList"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{5896BB7C-1670-4031-88B7-0BBA0DD3E583}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04e07962-dfad-4698-bf0f-6755b33d3a58"
+      Hint: subTitle
+      Value: If you’re looking to make a claim on any of your insurance plans/coverages, we’re committed to giving you the best possible service.
+    - ID: "1900c9c4-2f50-46fb-82c5-91af568003af"
+      Hint: title
+      Value: "Looking for other claim options?"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200518T110812Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04e07962-dfad-4698-bf0f-6755b33d3a58"
+      Hint: subTitle
+      Value: ไม่ว่าคุณจะเคลมค่าสินไหมตามแผนประกันชีวิตหรือความคุ้มครองประเภทใดก็ตาม ขอให้มั่นใจว่าคุณจะได้รับบริการและทางเลือกที่ดีที่สุดจากเราเสมอ
+    - ID: "1900c9c4-2f50-46fb-82c5-91af568003af"
+      Hint: title
+      Value: การเรียกร้องสินไหมประเภทอื่นๆ
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200518T120225Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+  - Version: 2
+    Fields:
+    - ID: "04e07962-dfad-4698-bf0f-6755b33d3a58"
+      Hint: subTitle
+      Value: ไม่ว่าคุณจะเรียกร้องสินไหมตามแผนประกันชีวิตหรือความคุ้มครองประเภทใดก็ตาม ขอให้มั่นใจว่าคุณจะได้รับบริการและทางเลือกที่ดีที่สุดจากเราเสมอ
+    - ID: "1900c9c4-2f50-46fb-82c5-91af568003af"
+      Hint: title
+      Value: การเรียกร้องสินไหมประเภทอื่นๆ
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200713T155452Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200713T155452Z

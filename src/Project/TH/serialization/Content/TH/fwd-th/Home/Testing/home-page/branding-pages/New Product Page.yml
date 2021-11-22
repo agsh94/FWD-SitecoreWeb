@@ -1,0 +1,165 @@
+﻿---
+ID: "4ea5b648-071a-4d5c-980d-45cbaaa8d22c"
+Parent: "70a1ca3d-7ffc-40b8-8624-846e1c32a84d"
+Template: "0ba5819e-97b4-4ed8-8f4c-2363603b4faf"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/New Product Page"
+DB: master
+SharedFields:
+- ID: "1294d890-c666-4ba0-b34a-68aaacfb432c"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: "{9F39A5D3-BB90-4389-863E-4596F54970EA}"
+- ID: "53e81091-36e9-4fae-82ef-cc970323fb4a"
+  Hint: promotionLabel
+  Value: "{6A6992CD-F876-425E-B04F-CDFB9F1F0576}"
+- ID: "b3910e5d-a842-4cc7-ac42-7a16a325a534"
+  Hint: promotionLabelIcon
+  Value: "{50D0B9C3-8A9C-4752-A572-5B2DC3D8B7DA}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <p
+          uid="{C9CCACF9-6AB1-485F-BCF6-93294AEDB5AE}"
+          p:before="*"
+          s:key="jss-main"
+          s:md="{C644BF98-D4A6-4217-94C0-4ACEB8F09AC5}" />
+        <r
+          uid="{555FE8BF-E30B-41CE-B653-412FCBDAF40A}">
+          <p:d />
+        </r>
+        <r
+          uid="{D68161E0-C6D7-4051-BC74-8E33D314726F}"
+          p:after="p[@uid='{FEF920EC-26A0-4273-A671-D2D80186567C}']"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}"
+          s:id="{3E7FEC38-10C9-4D00-BA82-D058F17478D0}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bB47928D6-98FC-4B29-8D0F-586AB477286E%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;enableMargin&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{6081A532-6D1D-4E97-A987-D39F00710EE2}">
+          <p:d />
+        </r>
+        <r
+          uid="{606FF16E-4FAC-4C55-98B3-C6EE79AA7475}">
+          <p:d />
+        </r>
+        <r
+          uid="{808C51CE-8541-4E4D-9C04-39A4011DF61A}">
+          <p:d />
+        </r>
+        <r
+          uid="{C2CB6CA5-6DEF-455C-B0A4-3D28C01F9542}">
+          <p:d />
+        </r>
+        <r
+          uid="{7012E87D-C313-4376-B649-0C07FC12BA20}">
+          <p:d />
+        </r>
+        <r
+          uid="{1184198A-77E0-4F06-BFA0-54CA9531BA41}">
+          <p:d />
+        </r>
+        <r
+          uid="{E1EC597E-F63A-4980-A499-546FED1EB9F4}"
+          s:ds=""
+          s:par="carouselMode=%7b2C61B2E1-E1C4-4622-B814-1E458CF094B6%7d&amp;paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;showCategory=1&amp;anchorText&amp;backgroundColor=%7bCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7d&amp;showImage=1&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;divider" />
+        <r
+          uid="{47437E79-5354-4606-B676-72A0A8945078}">
+          <p:d />
+        </r>
+        <r
+          uid="{C3F351D8-21BB-4AF1-BDE2-D39F3DB180AE}"
+          p:after="r[@uid='{E1EC597E-F63A-4980-A499-546FED1EB9F4}']"
+          s:ds=""
+          s:par="" />
+        <r
+          uid="{E6AC0ECB-1A98-414B-B6AA-D632D99A1DA8}">
+          <p:d />
+        </r>
+        <r
+          uid="{0EEE59D8-F86D-421A-B694-0CC8914D70C3}">
+          <p:d />
+        </r>
+        <r
+          uid="{9EEDE03B-3F95-4F1B-9B83-7C679C83EB6A}">
+          <p:d />
+        </r>
+        <r
+          uid="{8B3007D1-AC88-4653-9572-847E96DB5E5E}"
+          s:ds=""
+          s:par="carouselMode=%7bC81D8D8F-E8D9-468F-ACFC-BBDCE30D66EC%7d&amp;paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;showCategory&amp;anchorText&amp;backgroundColor=%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d&amp;showImage&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;divider" />
+        <r
+          uid="{7A8A7442-12D7-4FF8-9AE0-BC258A93722A}"
+          s:ds="{125943AA-D336-4EC8-B88B-F3CF3C8B9B9F}"
+          s:par="hideCardImage&amp;paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;anchorText&amp;backgroundColor=%7bCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7d&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;divider"
+          s:ph="jss-main1" />
+        <r
+          uid="{72915C72-E238-42CD-B55C-292749D539FD}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d" />
+        <r
+          uid="{D8B79D6B-42A8-4A0E-8708-DB9C188854D0}"
+          s:par="paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;variant&amp;buttonVariant=%7b4DCB1D75-378A-454A-AB35-7C739D877279%7d&amp;buttonMode=%7b2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9%7d&amp;buttonColor&amp;divider&amp;anchorText&amp;backgroundColor=%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d&amp;buttonAlignment=%7bCF02F396-DAFD-448E-BC19-15E66C7CBA54%7d&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;numberOfColumns=%7b463993C4-D100-40EB-9898-6A8E60F3BB34%7d" />
+        <r
+          uid="{FE54B363-448F-4466-97C8-CE6C4119CCEB}"
+          p:after="*[1=2]"
+          s:ds="{C1A6993F-D5B0-42E8-9A85-553BF1512556}"
+          s:id="{4A816582-39CE-4F69-BCDE-010F91E0C947}"
+          s:par="hideCardImage=1&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider"
+          s:ph="jss-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B57300F0-84E0-4F95-B273-B157B70DF870}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E1EC597E-F63A-4980-A499-546FED1EB9F4}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3F351D8-21BB-4AF1-BDE2-D39F3DB180AE}">
+              <p:d />
+            </r>
+            <r
+              uid="{8B3007D1-AC88-4653-9572-847E96DB5E5E}">
+              <p:d />
+            </r>
+            <r
+              uid="{7A8A7442-12D7-4FF8-9AE0-BC258A93722A}">
+              <p:d />
+            </r>
+            <r
+              uid="{D8B79D6B-42A8-4A0E-8708-DB9C188854D0}">
+              <p:d />
+            </r>
+            <r
+              uid="{72915C72-E238-42CD-B55C-292749D539FD}"
+              p:after="*[1=2]" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200709T041135Z
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: New Product Page
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: New Product Page

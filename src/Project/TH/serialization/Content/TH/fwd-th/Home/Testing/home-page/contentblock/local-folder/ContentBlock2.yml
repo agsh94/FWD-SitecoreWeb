@@ -1,0 +1,37 @@
+﻿---
+ID: "a7e0918a-61db-48da-a43a-6f80cd3d6f2d"
+Parent: "099d4e37-dcde-4f85-a11a-b455f590dbda"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/contentblock/local-folder/ContentBlock2"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{68BE4375-2C18-4CAD-808A-6AC77720B96B}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ContentBlock
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200430T124810Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\testuser
+    - ID: "d0be2ac7-85f9-4ba4-91da-613370dbd6d6"
+      Hint: secondaryLink
+      Value: |
+        <link text="Download brochure" linktype="media" target="" id="{9E26CC95-FB69-4FDE-809A-4F701B90916B}" />
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ContentBlock2
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Business" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{0D08A74E-81B5-4DFD-9B53-B8AD7413F555}" />

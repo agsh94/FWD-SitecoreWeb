@@ -1,0 +1,63 @@
+﻿---
+ID: "7519d405-a927-4ec5-b6d7-83186dfdb828"
+Parent: "1dbb9b41-1f0b-46fc-9d00-23566f2fbe56"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/local-folder/card-list/Claims analyst report"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: We make it easy for you to check employee claims history meaning you can stay up to date and in control.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200130T110516Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: Stay up to date on claims
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: We make it easy for you to check your employee claims history so you can stay up to date and in control.
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{3A60A99D-7D98-4179-A482-AC4CC6799AE5}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{3A60A99D-7D98-4179-A482-AC4CC6799AE5}" cropx="0.50" cropy="0.48" focusx="-0.004405286343612369" focusy="0.046875" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: เราทำให้ง่ายขึ้นสำหรับคุณ ในการตรวจสอบประวัติการเคลมประกันของพนักงานได้ทันทุกเหตุการณ์และบริหารได้ตามความต้องการ&nbsp;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200217T102348Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: รายงานสรุปข้อมูลการเคลม
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: เราทำให้ง่ายขึ้นสำหรับคุณ ในการตรวจสอบประวัติการเคลมประกันของพนักงานได้ทันทุกเหตุการณ์และบริหารได้ตามความต้องการ 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{3A60A99D-7D98-4179-A482-AC4CC6799AE5}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{3A60A99D-7D98-4179-A482-AC4CC6799AE5}" cropx="0.50" cropy="0.48" focusx="-0.004405286343612369" focusy="0.046875" />

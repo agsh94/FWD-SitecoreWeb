@@ -1,0 +1,309 @@
+﻿---
+ID: "41bf0293-20cd-44a6-b1b4-7c82910742ef"
+Parent: "fcb916a2-b634-41bb-84b7-811d5db53212"
+Template: "8c431675-a9b1-4774-b7e9-8a30e7522fe3"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/Health/cancer-knockout"
+DB: master
+SharedFields:
+- ID: "0335b2bf-73a5-4556-845c-3d293900a051"
+  Hint: calculationOptions
+  Type: Multilist
+  Value: "{4427E37A-FF0A-4C22-956A-B6775EE2D406}"
+- ID: "1294d890-c666-4ba0-b34a-68aaacfb432c"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: "{6FB0F5C7-56B1-455F-B58A-CFF07DB084A9}"
+- ID: "1d3856ad-c8db-42d3-b82a-e7d555d1c57b"
+  Hint: contentType
+  Value: "{A57B5556-98B3-4112-AC9F-1926D90455B8}"
+- ID: "27dcf3b3-6b64-45be-9830-7b18e7b5a30d"
+  Hint: purchaseMethod
+  Type: Multilist
+  Value: "{8B04E458-88A3-4076-9B16-A11CEBBA7343}"
+- ID: "3d992b17-a5b9-46ad-ad74-057f59dde04e"
+  Hint: userType
+  Type: Multilist
+  Value: "{BEC470BE-EBEE-4A68-BE1D-4D071BFCE207}"
+- ID: "53e81091-36e9-4fae-82ef-cc970323fb4a"
+  Hint: promotionLabel
+  Value: "{6A6992CD-F876-425E-B04F-CDFB9F1F0576}"
+- ID: "5da84e26-edc9-46f4-a612-9d0a06f10f78"
+  Hint: maxAge
+  Value: 65
+- ID: "7d65632c-3707-4aa1-8fde-154708f5309b"
+  Hint: secondaryNeedTags
+  Type: Multilist
+  Value: |
+    {76B23121-1A2D-4A4A-B0BB-03055681F0A1}
+    {8CB93ED3-756F-4E8A-B9D6-7174B935C9BF}
+- ID: "94def7f2-cb5c-478d-b5a3-58b9337cec2f"
+  Hint: minAge
+  Value: 16
+- ID: "b3910e5d-a842-4cc7-ac42-7a16a325a534"
+  Hint: promotionLabelIcon
+  Value: "{50D0B9C3-8A9C-4752-A572-5B2DC3D8B7DA}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 275
+- ID: "bdc75d02-2884-4dbb-a5a1-f54b2d539328"
+  Hint: featuredTags
+  Type: Treelist
+  Value: |
+    {6FB0F5C7-56B1-455F-B58A-CFF07DB084A9}
+    {76B23121-1A2D-4A4A-B0BB-03055681F0A1}
+    {8CB93ED3-756F-4E8A-B9D6-7174B935C9BF}
+- ID: "e09501cb-adda-4125-a787-ba70b6b7e436"
+  Hint: planComponent
+  Value: "{849215D2-4259-4248-BECC-98E164FDCDED}"
+- ID: "e3e8c0b9-206d-4244-979b-966180ad502e"
+  Hint: sumAssuredPaymentMode
+  Type: Multilist
+  Value: |
+    {841ADCC5-0E34-49FD-8AF7-CB31DF656692}
+    {A90AED14-A023-4680-B2BE-A1999121D860}
+    {30D4F456-6094-443C-B87F-90D7EF7C2F6E}
+    {733A0160-DEBE-4F25-B188-819B3CF815A2}
+    {F6488E62-B165-449F-A3EE-43234D6D7C72}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <p
+          uid="{5E98F08C-DC66-4EE8-B321-D996A6FF3F56}">
+          <p:d />
+        </p>
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}">
+          <p:d />
+        </r>
+        <r
+          uid="{D94532E6-BD50-41FE-A3BA-DED9D8BB2517}">
+          <p:d />
+        </r>
+        <r
+          uid="{5B47067E-A34B-4DB2-93F9-095A4DC20BFD}">
+          <p:d />
+        </r>
+        <r
+          uid="{4118451A-26BC-4916-9F7C-DB9FDE5529D6}">
+          <p:d />
+        </r>
+        <r
+          uid="{237F2770-0A31-442F-A676-9E651984A6B6}">
+          <p:d />
+        </r>
+        <r
+          uid="{0BF780A5-980F-4EE5-80BD-A7B970035C0F}">
+          <p:d />
+        </r>
+        <r
+          uid="{48A4C6B3-B216-4A30-88EF-714272120566}">
+          <p:d />
+        </r>
+        <r
+          uid="{939257CD-A79B-41D1-9A9C-A7F3FD3657FE}">
+          <p:d />
+        </r>
+        <r
+          uid="{3F9BAE3E-0719-47B4-8376-2A0C73936026}">
+          <p:d />
+        </r>
+        <r
+          uid="{D3D28D76-A65B-4483-BA82-CAC78DDCE56E}">
+          <p:d />
+        </r>
+        <r
+          uid="{548030DF-E06A-4FE6-95A1-E5D937B199D2}">
+          <p:d />
+        </r>
+        <r
+          uid="{AE7EE2B3-6174-43D4-8DA6-239AAF1187A6}">
+          <p:d />
+        </r>
+        <r
+          uid="{53E7C1E8-8942-4929-8241-5A29D3B7713D}">
+          <p:d />
+        </r>
+        <p
+          uid="{FEF920EC-26A0-4273-A671-D2D80186567C}"
+          p:before="*"
+          s:key="jss-main"
+          s:md="{C644BF98-D4A6-4217-94C0-4ACEB8F09AC5}" />
+        <r
+          uid="{808C51CE-8541-4E4D-9C04-39A4011DF61A}"
+          p:after="p[@uid='{FEF920EC-26A0-4273-A671-D2D80186567C}']"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}"
+          s:id="{3E7FEC38-10C9-4D00-BA82-D058F17478D0}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bF9F5FC4E-89D7-4701-A560-C0A7179384CB%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;enableMargin&amp;divider"
+          s:ph="jss-header" />
+        <r
+          uid="{7B856052-3ECB-4B5B-9DFA-7A5D85EA03F7}"
+          p:after="r[@uid='{808C51CE-8541-4E4D-9C04-39A4011DF61A}']"
+          s:ds="{888D536D-B7D5-49D7-8F70-2042B2FBDE5A}"
+          s:id="{5410E093-9B56-4C2F-B411-9FB3702CBC63}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider&amp;anchorText&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;PlayVideoInBackground&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;HeroBannerVariant=%7b0B1166D9-2C27-4392-B0FB-C3E5F2C18380%7d"
+          s:ph="jss-main" />
+        <r
+          uid="{C50F0FFA-7485-4912-A606-8A588E1D50A0}"
+          p:after="r[@uid='{7B856052-3ECB-4B5B-9DFA-7A5D85EA03F7}']"
+          s:ds="{AA920EDC-D744-4188-967A-662BC15672C8}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="contentBlockVariant=%7bB8818C35-0526-4FB3-8E2B-7F5CFD14E141%7d&amp;contentBlockType&amp;backgroundColor=%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;divider&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d"
+          s:ph="jss-main" />
+        <r
+          uid="{D61BB6B9-3F63-4151-B8C1-C9350DCDEECA}"
+          p:after="r[@uid='{C50F0FFA-7485-4912-A606-8A588E1D50A0}']"
+          s:ds="{0219B084-FC06-4CE8-9A80-A5517BCAB68A}"
+          s:id="{468FEC1C-5DD6-4E4B-89D7-943375803E26}"
+          s:par="paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;anchorText&amp;backgroundColor=%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{897B6ABB-C55A-4996-A169-F1E062D119BE}"
+          p:after="r[@uid='{D61BB6B9-3F63-4151-B8C1-C9350DCDEECA}']"
+          s:ds="{34CB1574-0432-4A66-A1C4-BA87C3F80B16}"
+          s:id="{3EE18C0F-61A1-458B-B8CB-084414663766}"
+          s:par="paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;anchorText&amp;backgroundColor=%7b7FE90E5C-F76F-4338-94E9-1BF81D5785A2%7d&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{7FB60C04-3FEF-4A3F-B19A-8E3505B1A266}"
+          p:after="r[@uid='{897B6ABB-C55A-4996-A169-F1E062D119BE}']"
+          s:ds="{153EEF97-B670-47F4-9CF5-A19EB06B5392}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="contentBlockVariant=%7bB8818C35-0526-4FB3-8E2B-7F5CFD14E141%7d&amp;contentBlockType=%7bE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7d&amp;backgroundColor=%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b13658B9F-B1C0-4C0F-9ABF-A2763594D04A%7d&amp;divider&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d"
+          s:ph="jss-main" />
+        <r
+          uid="{05DC1416-F7FC-4FD8-AE4B-073253DCEAC4}"
+          p:after="r[@uid='{7FB60C04-3FEF-4A3F-B19A-8E3505B1A266}']"
+          s:ds="{95BD4FD0-B7B9-4510-885D-DC240DA7000E}"
+          s:id="{265EC2D1-7C65-4B84-B13B-6C575E7BD04F}"
+          s:par="buttonText=See%20more&amp;anchorText&amp;backgroundColor=%7B5FAA4B9B-7F56-4B83-BE82-328710EEF242%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{29F3502C-5F2C-4552-87A1-4A84BCD0F06F}"
+          p:after="r[@uid='{05DC1416-F7FC-4FD8-AE4B-073253DCEAC4}']"
+          s:ds="{77631081-15C5-407F-AB09-5D4169040561}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;contentBlockVariant=%7BB8818C35-0526-4FB3-8E2B-7F5CFD14E141%7D&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{1A2A85D4-3E09-45B7-979A-7FC430B37B8E}"
+          p:after="r[@uid='{29F3502C-5F2C-4552-87A1-4A84BCD0F06F}']"
+          s:ds="{4C473FD2-3D43-48F0-A413-DB64FA211B28}"
+          s:id="{4A816582-39CE-4F69-BCDE-010F91E0C947}"
+          s:par="hideCardImage=1&amp;showProductCTA&amp;anchorText&amp;backgroundColor=%7BB47928D6-98FC-4B29-8D0F-586AB477286E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{555FE8BF-E30B-41CE-B653-412FCBDAF40A}"
+          p:after="r[@uid='{1A2A85D4-3E09-45B7-979A-7FC430B37B8E}']"
+          s:ds="{211B50D9-3781-4563-82D9-7285EE841DC0}"
+          s:id="{1AB826DB-23E9-4CC1-A413-13AC7CB1A6C0}"
+          s:par="carouselMode=%7b2C61B2E1-E1C4-4622-B814-1E458CF094B6%7d&amp;paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;showCategory=1&amp;anchorText&amp;backgroundColor=%7bCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7d&amp;showImage=1&amp;ShowProductCTA=1&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{5F57A2E1-9B5C-4848-B791-74EC8CFEC400}"
+          p:after="r[@uid='{555FE8BF-E30B-41CE-B653-412FCBDAF40A}']"
+          s:ds=""
+          s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+          s:par="numberOfColumns=%7b41CCF7E7-59F7-494A-80D1-0EB88C898A10%7d&amp;backgroundColor=%7bEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7d%7c%7bE36D5F2A-3DA5-4920-8A57-D681EEF00922%7d&amp;anchorText&amp;paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;carouselMode=%7b65BDD6C4-9B17-42DA-A050-72CEF86F370E%7d&amp;divider&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d"
+          s:ph="jss-main" />
+        <r
+          uid="{6081A532-6D1D-4E97-A987-D39F00710EE2}"
+          p:after="r[@uid='{5F57A2E1-9B5C-4848-B791-74EC8CFEC400}']"
+          s:ds="{A9988441-4154-4B91-80C7-E8076CD0E032}"
+          s:id="{FC55218D-3368-4037-B642-7FD35BD96EA1}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+          s:ph="/jss-main/jss-col-1-{5F57A2E1-9B5C-4848-B791-74EC8CFEC400}-0" />
+        <r
+          uid="{D8B79D6B-42A8-4A0E-8708-DB9C188854D0}"
+          p:after="r[@uid='{6081A532-6D1D-4E97-A987-D39F00710EE2}']"
+          s:ds="{3ADD5B0E-5014-4514-A433-4289158AF072}"
+          s:id="{E9189BB0-4352-4FC7-B5F6-7C992E35E897}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;variant&amp;buttonVariant=%7b4DCB1D75-378A-454A-AB35-7C739D877279%7d&amp;buttonMode=%7b2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9%7d&amp;buttonColor&amp;divider&amp;anchorText&amp;backgroundColor=%7bEBDF491B-A72E-47CA-A391-E44A39C9C329%7d&amp;buttonAlignment=%7bCF02F396-DAFD-448E-BC19-15E66C7CBA54%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;numberOfColumns=%7b463993C4-D100-40EB-9898-6A8E60F3BB34%7d"
+          s:ph="/jss-main/jss-col-2-{5F57A2E1-9B5C-4848-B791-74EC8CFEC400}-0" />
+        <r
+          uid="{72915C72-E238-42CD-B55C-292749D539FD}"
+          p:after="*[1=2]"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:id="{94C814D6-4C8D-45A3-8899-394CCE33495F}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider"
+          s:ph="jss-footer" />
+      </d>
+    </r>
+- ID: "feb2e6da-b570-4b5e-9d80-80ccad7d0d47"
+  Hint: sumAssuredSelectionType
+  Value: "{9D0029B7-CEFE-4B3A-BE29-73243AC8EE43}"
+- ID: "ff451472-1b55-4228-b14d-ab9b2a449792"
+  Hint: isPageSearchable
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Cancer Knockout
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T102834Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: FWD has designed the variety of savings 
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: Cancer Knockout
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Cancer Knockout
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{1977106B-8714-4A53-AE67-3A25DE36F790}" />
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{1977106B-8714-4A53-AE67-3A25DE36F790}" />
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: FWD has designed the variety of savings insurance plans to cover all your needs, for you getting start by simply putting your money aside while living your life joyfully the way you want to. With our Savings Insurance Plans, you can paving a smooth financial path over time and no need to keep worry about the future.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200130T150830Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: FWD has designed the variety of savings insurance plans to cover all your needs, for you getting start by simply putting your money aside while living your life joyfully the way you want to. With our Savings Insurance Plans, you can paving a smooth financial path over time and no need to keep worry about the future.
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: Cancer Knockout
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Cancer Knockout
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{11272320-CECC-4161-9015-6CBDDAAC0F2E}" />
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{10398967-2637-4D9F-B874-80CB56DFE008}" />
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: FWD has designed the variety of savings insurance plans to cover all your needs, for you getting start by simply putting your money aside while living your life joyfully the way you want to. With our Savings Insurance Plans, you can paving a smooth financial path over time and no need to keep worry about the future.

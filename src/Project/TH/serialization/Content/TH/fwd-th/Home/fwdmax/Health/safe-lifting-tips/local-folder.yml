@@ -1,0 +1,37 @@
+﻿---
+ID: "40178ee4-07f1-4ffa-b5b2-e16b76190033"
+Parent: "1b0bdd3c-8784-453d-ae93-13d8c92b85f8"
+Template: "fff5f245-ffc0-4022-a998-9b07aa5e761f"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/safe-lifting-tips/local-folder"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {C24ACDA9-AF2D-4F91-B736-509937CC444E}
+    {90753B30-92E3-4D17-A179-39166B735FEF}
+    {D188C909-BE9C-4149-9106-B25BE4B6FB55}
+    {B5702CD7-40F4-4617-9C29-8A1197DE6C9A}
+    {128C8D06-48C1-46ED-B80E-904CC3DE68E0}
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EF9EBCD1-55C3-48C2-8294-F3C95154D74D}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200928T065454Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee

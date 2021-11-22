@@ -1,0 +1,63 @@
+﻿---
+ID: "188ed086-9f11-46b0-9748-b0b6abf83c19"
+Parent: "d756ecd2-338f-412c-8438-92d5048efda8"
+Template: "2861c185-fc81-4fdc-8e91-93de381c752e"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/press-releases/fwd-cleans-up-in-category-with-11-awards/local-folder/article-description-area/media-carousal/Media5"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b23ad3f-b76c-4a6a-830d-1434dd398ed6"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T140942Z
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: JOc2zdCQhrc
+    - ID: "c93d0c7b-6b3a-4e3a-a9b6-dc89062a8a6c"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{11272320-CECC-4161-9015-6CBDDAAC0F2E}" cropx="0.87" cropy="0.70" focusx="0.7458196271929824" focusy="-0.40826416015625" />
+    - ID: "ca02df68-c93a-4d5b-bfb9-65cde670e7cd"
+      Hint: caption
+      Value: "The One, FWD&rsquo;s high-end medical solution, and the associated all-round, one-stop health management service PREMIER THE ONEcierge, claimed an Excellence Award in the Medical Care Category. Mr Paul Tse (right), Chief Marketing Officer, FWD Hong Kong &amp; Macau, received the award at the Bloomberg Businessweek Financial Institution Awards 2019 ceremony."
+    - ID: "e5628949-939b-4454-b990-5b6c89e0be4d"
+      Hint: image
+      Value: |
+        <image mediaid="{11272320-CECC-4161-9015-6CBDDAAC0F2E}" cropx="0.10" cropy="0.14" focusx="-0.8068119517543859" focusy="0.716796875" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b23ad3f-b76c-4a6a-830d-1434dd398ed6"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200108T084135Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: JOc2zdCQhrc
+    - ID: "c93d0c7b-6b3a-4e3a-a9b6-dc89062a8a6c"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{11272320-CECC-4161-9015-6CBDDAAC0F2E}" cropx="0.87" cropy="0.70" focusx="0.7458196271929824" focusy="-0.40826416015625" />
+    - ID: "ca02df68-c93a-4d5b-bfb9-65cde670e7cd"
+      Hint: caption
+      Value: Vestibulum rutrum quam vitae fringilla tincidunt. Suspendisse nec tortor urna. Ut laoreet sodales nisi, quis iaculis nulla iaculis vitae. Donec sagittis faucibus lacus eget.
+    - ID: "e5628949-939b-4454-b990-5b6c89e0be4d"
+      Hint: image
+      Value: |
+        <image mediaid="{11272320-CECC-4161-9015-6CBDDAAC0F2E}" cropx="0.10" cropy="0.14" focusx="-0.8068119517543859" focusy="0.716796875" />

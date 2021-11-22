@@ -1,0 +1,27 @@
+﻿---
+ID: "40ecc49d-fb1f-4846-a368-3a09befe5445"
+Parent: "5d6bb33f-123f-48f2-82bd-5ac66be89afb"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Wealth/5-think-to-single/local-folder/Article Description Aria/RICH TEXT3"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T050705Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>To do list ที่คนโสดน่าลงมือทำ</strong><br />
+        <ul>
+            <li>วางเป้าหมายในชีวิตระยะสั้นหรือระยะยาว</li>
+            <li>เริ่มต้นเรียนรู้สิ่งใหม่ เช่น เรียนภาษา เรียนทำอาหาร หรือเรียนวาดรูป</li>
+        </ul>
+        ลองออกเดินทางคนเดียวดูสักครั้ง อาจจะไม่ไกลมาก เช่นสิงค์โปร์ หรือญี่ปุ่น

@@ -1,0 +1,39 @@
+﻿---
+ID: "4a67d2c5-3716-42f9-bdf4-4dc7f8ea08aa"
+Parent: "0662d2cd-3c7e-49c1-bb68-4899304cf058"
+Template: "d1e3c64a-4438-46f0-92db-03991fbdef5b"
+Path: "/sitecore/content/fwd/fwd-th/Components/Fund Information/Foreign Investment Funds"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 850
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T041704Z
+    - ID: "534fa86d-c26a-4aac-872f-ef582ef2735c"
+      Hint: title
+      Value: Foreign Investment Funds
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T041644Z
+    - ID: "534fa86d-c26a-4aac-872f-ef582ef2735c"
+      Hint: title
+      Value: กองทุนรวมที่ลงทุนในต่างประเทศ
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid

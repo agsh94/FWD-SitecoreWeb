@@ -1,0 +1,28 @@
+﻿---
+ID: "b24e39e2-e053-4c1b-aa2b-dd70bc99d473"
+Parent: "ac930c08-d8c1-40ca-9c7f-35c6dd2f908a"
+Template: "8bac8cc4-dec2-4c0c-9d84-6dfb7d398819"
+Path: "/sitecore/content/fwd/fwd-th/Components/headerLinks/Icon Links Folder/Call/Chat"
+DB: master
+SharedFields:
+- ID: "a6ee811d-8f6f-4560-80b5-a4faa92bb6db"
+  Hint: buttonIcon
+  Value: "{631BC306-C30E-4D10-AFE5-670237118479}"
+- ID: "ffff450b-9e1e-472d-955f-c39bb9c6218b"
+  Hint: listType
+  Value: "{5E19AACF-53FC-4F68-A278-B0C8AB1C5B67}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210106T070847Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: Chat

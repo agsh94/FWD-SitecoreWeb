@@ -1,0 +1,110 @@
+﻿---
+ID: "f10cec71-bc9f-445b-87cf-ee13d6efb6b6"
+Parent: "cb3774b0-8e6a-433b-bdb6-1ee82ce6e20d"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Life Protection/value-protector/local-folder/ContentBlock1"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Content Block 1
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "1189664e-c462-4227-9fea-efb77771ad71"
+      Hint: enableFeaturedTags
+      Type: Checkbox
+      Value: 1
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T094444Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: 
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "You’ve worked hard your whole life to give your family opportunities. With FWD’s Value Protector plan, we can ensure that when you’re not around, you only leave good memories - not financial burden. With low premiums and flexible payment options, it gives your family the funds they need for anything you may not have resolved before your passing."
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Leave your loved ones free from worry
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055157Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: 
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: คุณทุ่มเททำงานหนักเพื่อให้คนที่คุณรักได้รับโอกาสดีๆ ในชีวิต แผนประกันชีวิตคุ้มครอง คุ้มค่า คุ้มภัย ของเอฟดับบลิวดี จึงออกแบบมาให้คุณได้อุ่นใจ ด้วยเบี้ยประกันเบาๆ ที่ให้คุณเลือกระยะเวลาชำระเบี้ยได้ ช่วยเสริมความมั่นใจว่าครอบครัวและคนที่คุณรักจะสามารถอยู่ได้อย่างมีความสุข และเปี่ยมไปด้วยความทรงจำดีๆ ในวันที่ไม่มีคุณอยู่แล้ว
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: อุ่นใจ ไม่ทิ้งภาระไว้ให้คนที่คุณรัก
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "1189664e-c462-4227-9fea-efb77771ad71"
+      Hint: enableFeaturedTags
+      Type: Checkbox
+      Value: 1
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200814T030953Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: 
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: คุณทุ่มเททำงานหนักเพื่อให้คนที่คุณรักได้รับโอกาสดีๆ ในชีวิต แผนประกันชีวิตคุ้มครอง คุ้มค่า คุ้มภัย ของเอฟดับบลิวดี จึงออกแบบมาให้คุณได้อุ่นใจ ด้วยเบี้ยประกันเบาๆ ที่ให้คุณเลือกระยะเวลาชำระเบี้ยได้ ช่วยเพิ่มความมั่นใจว่าครอบครัวและคนที่คุณรักจะสามารถอยู่ได้อย่างมีความสุข
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200814T030953Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: อุ่นใจ ไม่ทิ้งภาระไว้ให้คนที่คุณรัก
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 

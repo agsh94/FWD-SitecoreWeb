@@ -1,0 +1,73 @@
+﻿---
+ID: "752ce73b-828b-4baf-a608-28251aaf5fe1"
+Parent: "e4d1c1b8-55f6-4535-8f6e-4042bfe7f60c"
+Template: "b8e624fb-4a85-4ab2-8299-19f7f892f88d"
+Path: "/sitecore/content/fwd/fwd-th/Components/Awards/Awards-FWD-Story-2/Thailand/Award4"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18e4c61e-ddc9-4f47-8128-95c28fb8f94c"
+      Hint: awardIssuer
+      Value: John
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191106T060924Z
+    - ID: "6b07856b-04a3-41c2-a0b1-16ee9ee2fa96"
+      Hint: link
+      Value: |
+        <linktype text="" linktype="modelpopup" querystring="" target="" id="{4840AC41-0000-4EFB-8879-37FA5970C37B}" />
+    - ID: "8cae381e-be17-4417-9493-4c725bc280e8"
+      Hint: awardName
+      Value: Caring company award
+    - ID: "b79c264d-04c8-48e6-b86a-9bf6791c965c"
+      Hint: awardYears
+      Value: 2016
+    - ID: "d9e78b47-cb3e-430a-a9c7-8cdd5faf0afe"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{E5DDA73E-11F4-4670-B424-44535BD9CDA6}" />
+    - ID: "f1388e2b-43cd-45e1-be9e-121de811b942"
+      Hint: image
+      Value: |
+        <image mediaid="{E5DDA73E-11F4-4670-B424-44535BD9CDA6}" />
+    - ID: "fca2a643-23a6-4dc0-a6a1-3db59ca4e554"
+      Hint: awardCategory
+      Value: Caring
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18e4c61e-ddc9-4f47-8128-95c28fb8f94c"
+      Hint: awardIssuer
+      Value: รางวัล
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T084754Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "6b07856b-04a3-41c2-a0b1-16ee9ee2fa96"
+      Hint: link
+      Value: |
+        <linktype text="" linktype="modelpopup" querystring="" target="" id="{4840AC41-0000-4EFB-8879-37FA5970C37B}" />
+    - ID: "8cae381e-be17-4417-9493-4c725bc280e8"
+      Hint: awardName
+      Value: รางวัล บริษัท ที่ห่วงใย
+    - ID: "b79c264d-04c8-48e6-b86a-9bf6791c965c"
+      Hint: awardYears
+      Value: 2016
+    - ID: "d9e78b47-cb3e-430a-a9c7-8cdd5faf0afe"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{E5DDA73E-11F4-4670-B424-44535BD9CDA6}" />
+    - ID: "f1388e2b-43cd-45e1-be9e-121de811b942"
+      Hint: image
+      Value: |
+        <image mediaid="{E5DDA73E-11F4-4670-B424-44535BD9CDA6}" />
+    - ID: "fca2a643-23a6-4dc0-a6a1-3db59ca4e554"
+      Hint: awardCategory
+      Value: รางวัล บริษัท

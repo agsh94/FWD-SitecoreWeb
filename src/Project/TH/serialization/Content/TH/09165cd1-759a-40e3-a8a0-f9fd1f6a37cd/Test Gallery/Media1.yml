@@ -1,0 +1,21 @@
+﻿---
+ID: "dc715aa1-0482-4ccd-b3de-5fbb94fe3e0b"
+Parent: "a5e51084-feaf-44fb-a426-c1c7f7af2589"
+Template: "2861c185-fc81-4fdc-8e91-93de381c752e"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/press-releases/fwd-cleans-up-in-category-with-11-awards/local-folder/article-description-area/Test Gallery/Media1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200506T153617Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\testuser
+    - ID: "ca02df68-c93a-4d5b-bfb9-65cde670e7cd"
+      Hint: caption
+      Value: Test Gallery

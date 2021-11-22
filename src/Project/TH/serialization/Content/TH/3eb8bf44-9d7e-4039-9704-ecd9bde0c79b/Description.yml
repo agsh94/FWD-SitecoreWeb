@@ -1,0 +1,31 @@
+﻿---
+ID: "41965bc8-d764-4b46-abf0-f8641ec68be3"
+Parent: "3eb8bf44-9d7e-4039-9704-ecd9bde0c79b"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/eating-late-cause-problems/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200929T042512Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>“พฤติกรรมการกินดึก” หรือการกินอาหารตั้งแต่ช่วง 22.00 น. เป็นต้นไป อาจจะเกิดจากความจำเป็นที่คาดเดาได้ยากในแต่ละวัน ทั้งเรื่องงานที่เลิกไม่เป็นเวลา รถติดกว่าจะถึงบ้าน บางครั้งก็มีงานเลี้ยงสังสรรค์ หรือแม้กระทั่งเกิดจาก "ความหิว" ที่ชอบแวะมาทักทายยามค่ำคืน หลายคนเลือกจบปัญหานี้ด้วยการตามใจปาก หรือคิดว่าถ้ากินอะไรเบาๆ คงไม่เป็นอะไรมั้ง</p><p><br /></p>
+        <p>
+        การกินอาหารตอนดึก ไม่ว่าจะมากหรือน้อยแค่ไหน ไม่ได้มีแค่เรื่องของน้ำหนักตัวที่เพิ่มขึ้นเท่านั้น แต่ยังผลเสียโดยตรงต่อร่างกาย และเปรียบเสมือนการจุดชนวนทำให้เกิดโรคต่างๆ เช่น โรคอ้วน โรคกรดไหลย้อน โรคกระเพาะอาหาร และยังส่งผลเสียต่อสุขภาพด้านอื่นๆ ได้โดยที่คุณไม่รู้ตัว</p>

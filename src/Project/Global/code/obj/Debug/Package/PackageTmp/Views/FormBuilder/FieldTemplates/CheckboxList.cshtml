@@ -1,0 +1,12 @@
+@using Sitecore.ExperienceForms.Mvc.Html
+@model FWD.Foundation.Forms.CustomCheckBoxListViewModel
+
+<label class="@Model.LabelCssClass" api-name="@Model.APIName">@Html.DisplayTextFor(t => Model.Title)</label>
+<input type="hidden" name="@Html.NameFor(m => Model.Value)" />
+@foreach (var item in Model.Items)
+{
+    <label>
+        <input type="checkbox" class="@Model.CssClass" name="@Html.NameFor(m => Model.Value)" @if (item.Selected) { <text> checked</text>} value="@item.Value" data-sc-tracking="@Model.IsTrackingEnabled" data-sc-field-name="@Model.Name" data-sc-field-key="@Model.ConditionSettings.FieldKey" @Html.GenerateUnobtrusiveValidationAttributes(m => Model.Value) />@item.Text
+    </label>
+}
+@Html.ValidationMessageFor(m => Model.Value)

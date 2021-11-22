@@ -1,0 +1,69 @@
+﻿---
+ID: "df54a706-630c-4d10-8b51-feb87214087b"
+Parent: "61b40cfe-0fe2-4fa7-8123-cd24a01c9007"
+Template: "b7896f65-9c57-4ff4-95ac-edb35665badf"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/ValueProtector/local-folder/product-benefits/relation-therapy2"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Relation Therapy2
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17265e40-8337-4955-a178-099b0454e4f4"
+      Hint: benefitTitle
+      Value: Protection
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191107T112508Z
+    - ID: "624e4459-604e-46b7-83b2-904dd19e712f"
+      Hint: benefitDescription
+      Value: Add more protection to your plan against accidents or illness with our riders.
+    - ID: "a2ad8cea-3a6d-4352-a382-0ec248102786"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{B85FED73-5B6D-447B-A248-BD272A76DD0A}" />
+    - ID: "ced9fafd-1ec7-4eaa-a83a-02a58bb405f1"
+      Hint: benefitImage
+      Value: |
+        <image mediaid="{B85FED73-5B6D-447B-A248-BD272A76DD0A}" />
+    - ID: "f031ebc2-c599-483c-a66a-b7d705ef46d7"
+      Hint: image
+      Value: |
+        <image mediaid="{1977106B-8714-4A53-AE67-3A25DE36F790}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17265e40-8337-4955-a178-099b0454e4f4"
+      Hint: benefitTitle
+      Value: Protection
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T101137Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "624e4459-604e-46b7-83b2-904dd19e712f"
+      Hint: benefitDescription
+      Value: Add more protection to your plan against accidents or illness with our riders.
+    - ID: "a2ad8cea-3a6d-4352-a382-0ec248102786"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{B85FED73-5B6D-447B-A248-BD272A76DD0A}" />
+    - ID: "ced9fafd-1ec7-4eaa-a83a-02a58bb405f1"
+      Hint: benefitImage
+      Value: |
+        <image mediaid="{B85FED73-5B6D-447B-A248-BD272A76DD0A}" />
+    - ID: "f031ebc2-c599-483c-a66a-b7d705ef46d7"
+      Hint: image
+      Value: |
+        <image mediaid="{1977106B-8714-4A53-AE67-3A25DE36F790}" />

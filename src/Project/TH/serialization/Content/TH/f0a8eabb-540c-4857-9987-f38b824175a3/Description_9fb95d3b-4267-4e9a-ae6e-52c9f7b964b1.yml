@@ -1,0 +1,23 @@
+﻿---
+ID: "9fb95d3b-4267-4e9a-ae6e-52c9f7b964b1"
+Parent: "f0a8eabb-540c-4857-9987-f38b824175a3"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Sport/fitfir-knockout/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T131653Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>2. Lunge</strong></p>
+        <p>ไหนใครอยากจะมีหุ่นเป๊ะๆ แบบเอวคอด สะโพกฟิตๆ ก็ต้องมาลองท่า Lunge (ลังค์) เลยค่า เพราะท่านี้ มีมาเพื่อสาวๆ ที่อยากจะมีสะโพกสวยได้รูปเลยน๊า สำหรับใครที่อยากมีสะโพก และบั้นท้ายสวยๆ แเต่ไม่ชอบยกเวท ต้องจัดท่านี้เลยค่ะ</p>

@@ -1,0 +1,22 @@
+﻿---
+ID: "ecbcd5ae-ffca-4185-b4f8-f2b87cf607ae"
+Parent: "ce80a31f-7111-43f0-a1a5-24c415b6274b"
+Template: "5f6cf4fe-57a9-4ed1-a00a-a63d714ae9df"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/plan-attributes"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/32x32/folder_cubes.png
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Plan Attributes
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T111149Z

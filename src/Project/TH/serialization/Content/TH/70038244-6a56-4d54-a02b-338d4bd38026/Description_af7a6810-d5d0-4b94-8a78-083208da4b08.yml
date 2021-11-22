@@ -1,0 +1,55 @@
+﻿---
+ID: "af7a6810-d5d0-4b94-8a78-083208da4b08"
+Parent: "70038244-6a56-4d54-a02b-338d4bd38026"
+Template: "ad6870d4-2dd6-40ef-a8fa-941ab32cee43"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/Cash Return Options/local-folder/Out-patient In-patient/In-Patient/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T075803Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>If your policy is still active, we will pay a dividend payout according to the amount named in the terms of payment minus any outstanding debt. The life insurance policy will then be terminated.</p>
+        <br />
+        <p>By default, we will mail your dividend payout by cheque.</p>
+        <p>If you want to receive the payout via bank transfer instead, please send us the following documents at least 20 days prior to the payment date:</p>
+        <ul>
+            <li>A certified true copy of your identification card</li>
+            <li>A certified true copy of your bank book showing your bank account number</li>
+        </ul>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T081259Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>บริษัทฯ จะจ่ายเงินปันผลจำนวนหนึ่งให้กับผู้เอาประกันภัยตามข้อกำหนดการจ่ายผลประโยชน์ที่ระบุในกรมธรรม์ เมื่อครบกำหนดการจ่าย ขณะที่กรมธรรม์มีผลบังคับ โดยการจ่ายเงินดังกล่าว บริษัทฯ จะหักหนี้สินผูกพันตามกรมธรรม์ประกันภัยที่ค้างชำระ (ถ้ามี) ออกก่อน</p>
+        <br />
+        <p>โดยปกติบริษัทฯ จะจ่ายเงินปันผลตามกรมธรรม์ประกันภัยเป็นเช็ค </p>
+        <p>แต่หากลูกค้าประสงค์ขอรับเงินปันผลตามกรมธรรม์ผ่านบัญชีธนาคาร แทนการจ่ายด้วยเช็ค กรุณาส่งเอกสารเพื่อแจ้งความประสงค์ล่วงหน้าอย่างน้อย 20 วัน ก่อนวันที่บริษัทฯ ต้องจ่าย เอกสารที่ใช้มีดังนี้</p>
+        <ul>
+            <li>สำเนาบัตรประชาชน พร้อมรับรองสำเนาถูกต้อง ระบุ ขอรับเงินปันผลตามกรมธรรม์ผ่านบัญชีธนาคาร</li>
+            <li>สำเนาหน้าสมุดบัญชีออมทรัพย์/กระแสรายวัน ธนาคารพาณิชย์ที่แสดงหมายเลขบัญชี พร้อมรับรองสำเนาถูกต้อง</li>
+        </ul>

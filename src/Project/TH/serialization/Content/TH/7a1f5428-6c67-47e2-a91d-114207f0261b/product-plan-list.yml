@@ -1,0 +1,65 @@
+﻿---
+ID: "dff8dbb5-0351-4087-aefb-b9a426f7337e"
+Parent: "7a1f5428-6c67-47e2-a91d-114207f0261b"
+Template: "175e0994-9695-4a52-9837-b6e9f53d9d56"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/Health/CancerFighter/local-folder/product-plan-list"
+DB: master
+SharedFields:
+- ID: "31ed2cdd-191f-4c8e-94fe-71b04431ef3b"
+  Hint: planCards
+  Type: Multilist
+  Value: |
+    {302F9556-EDF8-4B2D-941B-5BC48C90E28F}
+    {699A5CDF-B8C3-4FDA-97D7-57A259A6B292}
+    {B3A165EF-98BA-49D8-B028-29523207C6E0}
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Product Plan List
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "048c3952-ef2e-455f-9a0d-4d9e9073bea9"
+      Hint: calculateLink
+      Value: |
+        <link text="Calculate" linktype="form" querystring="" target="" id="{1B3EEC51-98F0-4820-953C-AE3DC6BB8FB3}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191213T070944Z
+    - ID: "40610ec3-80f6-4071-92c3-3df8c6dc0a93"
+      Hint: title
+      Value: Plans
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Terms &amp; conditions" linktype="modelpopup" querystring="" target="" id="{C68EE7CF-3041-40C1-9EB9-AF284A3C7623}" />
+    - ID: "f55de024-97c9-4db0-abf7-23bc3e35a96e"
+      Hint: subTitle
+      Value: Configure these plans to suit you.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "048c3952-ef2e-455f-9a0d-4d9e9073bea9"
+      Hint: calculateLink
+      Value: |
+        <link text="Calculate" linktype="form" querystring="" target="" id="{1B3EEC51-98F0-4820-953C-AE3DC6BB8FB3}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T115745Z
+    - ID: "40610ec3-80f6-4071-92c3-3df8c6dc0a93"
+      Hint: title
+      Value: Plans
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Terms &amp; conditions" linktype="modelpopup" querystring="" target="" id="{C68EE7CF-3041-40C1-9EB9-AF284A3C7623}" />
+    - ID: "f55de024-97c9-4db0-abf7-23bc3e35a96e"
+      Hint: subTitle
+      Value: Configure these plans to suit you.

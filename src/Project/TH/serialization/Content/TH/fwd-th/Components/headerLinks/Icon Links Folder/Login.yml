@@ -1,0 +1,21 @@
+﻿---
+ID: "2954f0bb-e4eb-4b28-9a55-18d990f5fa8a"
+Parent: "6d5cf238-24c5-4f43-9bbf-0dab4450a26c"
+Template: "cef6e819-7951-4dad-b3ff-cb42f0dcf7d5"
+Path: "/sitecore/content/fwd/fwd-th/Components/headerLinks/Icon Links Folder/Login"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210106T070454Z
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: Login

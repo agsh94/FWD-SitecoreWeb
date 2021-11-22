@@ -1,0 +1,47 @@
+﻿---
+ID: "96f7e4b6-928b-4fa1-9023-f3976e617a6d"
+Parent: "2780d877-e4a6-4b18-b184-fa28fb025a56"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/Merger FAQ/4Can FWD Life customers make payment for the premium"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200703T064339Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "Can FWD Life customers make payment for the premium, submit document, or make claim at branches of SCB Bank?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul style="list-style-type: disc;">
+            <li><span>If the customer wishes to pay the premium and has a complete set of documents, the customer can proceed to make the payment at the bank. For the submission of document for the claim or change of information of the insurance policies, for your convenience, we recommend that you submit via email to </span><a href="mailto:iservice@fwd.co.th"><span style="color: blue;">iservice@fwd.co.th</span></a><span> or at every branch of FWD Life.</span></li>
+        </ul>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200703T065017Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: ลูกค้า FWD Life สามารถไปใช้บริการชำระเบี้ยประกันภัย ยื่นเอกสาร หรือทำเรื่องเคลมที่สาขาของธนาคารไทยพาณิชย์ได้หรือไม่
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul style="list-style-type: disc;">
+            <li><span>หากลูกค้าประสงค์จะชำระเบี้ยประกันภัย และมีเอกสารครบถ้วน ลูกค้าสามารถดำเนินการชำระเงินที่ธนาคารได้ ในส่วนของการยื่นเอกสารสำหรับการเรียกร้องค่าสินไหมทดแทนหรือการเปลี่ยนแปลงข้อมูลกรมธรรม์ประกันภัย เพื่อความสะดวกและรวดเร็ว ขออนุญาตแนะนำให้ส่งผ่านทางอีเมล</span><span>มาที่ </span><a href="mailto:iservice@fwd.co.th%20%20%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD"><span>iservice@fwd.co.th</span></a><span style="text-decoration: none; color: windowtext;"> หรือ</span><span>สาขาของ </span><span>FWD Life ได้ทุกสาขา</span></li>
+        </ul>

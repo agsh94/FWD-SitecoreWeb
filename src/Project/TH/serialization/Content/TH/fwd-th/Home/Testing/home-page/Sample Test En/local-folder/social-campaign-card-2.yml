@@ -1,0 +1,36 @@
+﻿---
+ID: "86d6bf93-a787-43f1-8ee9-a16fa2ad001b"
+Parent: "f8e8a3d1-0dd2-4ea6-b333-fd80e6c840d1"
+Template: "f1076e50-7ea9-4ce1-a4da-09f5c71b91e3"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Sample Test En/local-folder/social-campaign-card-2"
+DB: master
+SharedFields:
+- ID: "76eb0c81-c181-4fb8-b5a8-cbdcb0de9fb2"
+  Hint: link
+  Value: |
+    <link text="See More" anchor="" linktype="internal" class="" title="See More"  querystring="" id="{217CDBFB-F29B-405C-8F68-517B7FBC0199}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Social Campaign card 2
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191021T155100Z
+    - ID: "c25bc0d0-1892-4153-ae5d-54f266e1cdfe"
+      Hint: subTitle
+      Value: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
+    - ID: "cb563753-add3-4fff-8f03-9867310ef547"
+      Hint: label
+      Value: Life
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: Changing the way people feel about insurance
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{697CCAC2-E839-4925-BCFF-4B14135BFCE0}" />

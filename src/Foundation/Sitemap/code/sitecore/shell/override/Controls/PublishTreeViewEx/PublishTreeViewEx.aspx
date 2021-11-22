@@ -1,0 +1,2 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="PublishTreeViewEx.aspx.cs" Inherits="FWD.Foundation.Sitemap.Extensions.PublishDataTreeView" %>
+<%@ OutputCache Location="None" VaryByParam="none" %>

@@ -1,0 +1,75 @@
+﻿---
+ID: "c73f417e-909e-4727-b11c-c4ded760ad70"
+Parent: "f240968e-d74a-4a97-aafd-494c537669f0"
+Template: "8ad5bb9c-b124-437e-a0c3-34149b049fac"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/local-folder/stepper/Download/Download the app"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Download the app
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09325934-6951-45ec-bd07-c7fc996855b3"
+      Hint: description
+      Value: |
+        Download FWD MAX on <a href="https://play.google.com/store/apps/details?id=com.fwdlifeth.fwdmax&amp;hl=en">Google Play</a> or <a href="https://apps.apple.com/th/app/fwd-max/id1039748959">Apple App Store</a> and then register. On registration, FWD customers receive 300 points straight into their MAX account (200 for non FWD customers). We then we give one point for every THB 100 paid in insurance premiums.
+    - ID: "095b37a4-2a84-4177-8231-7a222abc9623"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{3487342A-CF11-41C9-ADE6-95F653EAB813}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200130T125038Z
+    - ID: "8a19dcac-8d5b-4e87-b1c9-14ba9ece9248"
+      Hint: subTitle
+      Value: 
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: Download the app
+    - ID: "f6728892-c596-4196-9d50-106592ed0f9f"
+      Hint: image
+      Value: |
+        <image mediaid="{3487342A-CF11-41C9-ADE6-95F653EAB813}" />
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Download the app
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09325934-6951-45ec-bd07-c7fc996855b3"
+      Hint: description
+      Value: |
+        ดาวน์โหลดง่ายๆ ผ่าน <a href="https://play.google.com/store/apps/details?id=com.fwdlifeth.fwdmax&amp;hl=th">Google Play </a>หรือ <a href="https://apps.apple.com/th/app/fwd-max/id1039748959">App Store</a> และลงทะเบียน<br />
+        สมัครสมาชิกก็สามารถใช้ชีวิตสุดแมกซ์ได้แล้ว<br />
+        สมาชิกทั่วไปรับทันที 200 แต้ม<br />
+        ลูกค้าเอฟดับบลิวดี พิเศษ! รับเพิ่ม 300 แต้ม<br />
+        และทุกการจ่ายเบี้ยทุก 100 บาท รับ 1 แต้ม
+    - ID: "095b37a4-2a84-4177-8231-7a222abc9623"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{3487342A-CF11-41C9-ADE6-95F653EAB813}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T060936Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8a19dcac-8d5b-4e87-b1c9-14ba9ece9248"
+      Hint: subTitle
+      Value: |
+        
+        
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: ดาวน์โหลดแอปฯ แล้วใช้ชีวิตสุดแมกซ์ได้แล้ววันนี้ 
+    - ID: "f6728892-c596-4196-9d50-106592ed0f9f"
+      Hint: image
+      Value: |
+        <image mediaid="{3487342A-CF11-41C9-ADE6-95F653EAB813}" />

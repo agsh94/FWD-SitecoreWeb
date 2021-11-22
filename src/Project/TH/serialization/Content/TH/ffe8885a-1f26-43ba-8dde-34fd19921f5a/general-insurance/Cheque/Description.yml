@@ -1,0 +1,61 @@
+﻿---
+ID: "c3c7280b-5af9-4931-9ff2-6eb9cb14a334"
+Parent: "acb836ef-dc5a-48f2-8f9c-20f8b36b306f"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Support/premium-payment/local-folder/premium-payment/general-insurance/Cheque/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191224T132318Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>How to avail this facility :</strong></p>
+        <ol>
+            <li>A Mandate form is to be submitted to any of the FWD Branch, which should be</li>
+        </ol>
+        <p>&nbsp;i) &nbsp; Duly signed by the policy holder.
+        <br />
+        ii) Signed by the account holder/s also.
+        <br />
+        iii.) Must be attested by the customer&rsquo;s bank.
+        <br />
+        iv.) A cancelled cheque/photocopy of cheque should be attached.
+        <br />
+        v.) Copy of the form <strong>MUST BE</strong> submitted to the bank.&nbsp;</p>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T104952Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>How to avail this facility :</strong></p>
+        <ol>
+            <li>A Mandate form is to be submitted to any of the FWD Branch, which should be</li>
+        </ol>
+        <p>&nbsp;i) &nbsp; Duly signed by the policy holder.
+        <br />
+        ii) Signed by the account holder/s also.
+        <br />
+        iii.) Must be attested by the customer&rsquo;s bank.
+        <br />
+        iv.) A cancelled cheque/photocopy of cheque should be attached.
+        <br />
+        v.) Copy of the form <strong>MUST BE</strong> submitted to the bank.&nbsp;</p>

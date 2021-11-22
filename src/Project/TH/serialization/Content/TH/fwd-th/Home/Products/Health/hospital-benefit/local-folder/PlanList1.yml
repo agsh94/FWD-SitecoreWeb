@@ -1,0 +1,74 @@
+﻿---
+ID: "7b812489-07c1-43cb-922b-f60ebc396ff1"
+Parent: "1afa0f73-dfb5-4ae2-a85e-d7731d9923e4"
+Template: "175e0994-9695-4a52-9837-b6e9f53d9d56"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/hospital-benefit/local-folder/PlanList1"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {CC866566-6B97-4BDC-814E-353B4D5DC8C0}
+    {C63EF700-7CE7-4315-9A86-80B0F028CC43}
+    {17F05B4D-4E1A-4598-AFD0-EB05D76D5F68}
+- ID: "31ed2cdd-191f-4c8e-94fe-71b04431ef3b"
+  Hint: planCards
+  Type: Multilist
+  Value: |
+    {92A2E524-BA15-464A-AE8F-02F648E485FC}
+    {2E805246-1419-4C04-A40D-515B51511DFE}
+    {94748FBB-CFD9-426A-9BCA-D922E1666D03}
+    {3EE19966-B61D-40D2-A6CD-F0F676F4778A}
+    {69478036-8DCA-439F-B079-BA5519280DAD}
+    {94E6028F-12AB-4B08-864F-B2CED5E6135B}
+    {0E3E02E2-747D-4949-9CAD-312643D9BBD4}
+    {77EEB64F-0993-4A44-989F-B52AEB025F4C}
+    {86DA1D11-4D01-43C0-B5D5-34F9DFA0A79F}
+    {02AB3F03-C056-4CE6-BE52-8F34CCFD6A3F}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "048c3952-ef2e-455f-9a0d-4d9e9073bea9"
+      Hint: calculateLink
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191111T100302Z
+    - ID: "40610ec3-80f6-4071-92c3-3df8c6dc0a93"
+      Hint: title
+      Value: "Interested?"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+    - ID: "f55de024-97c9-4db0-abf7-23bc3e35a96e"
+      Hint: subTitle
+      Value: "Take a closer look at all the details - and compare this with some of our other products."
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "048c3952-ef2e-455f-9a0d-4d9e9073bea9"
+      Hint: calculateLink
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200113T134055Z
+    - ID: "40610ec3-80f6-4071-92c3-3df8c6dc0a93"
+      Hint: title
+      Value: "สนใจ?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+    - ID: "f55de024-97c9-4db0-abf7-23bc3e35a96e"
+      Hint: subTitle
+      Value: ลองดูรายละเอียดทั้งหมด และเปรียบเทียบกับผลิตภัณฑ์อื่นๆ ของเรา

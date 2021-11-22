@@ -1,0 +1,45 @@
+﻿---
+ID: "d84545b2-7111-4122-8359-e4a09ee83200"
+Parent: "cc2bbf3c-108d-49d5-94df-53d39cbd6645"
+Template: "9a9d4c21-dc8f-427e-8b51-aa635ba47909"
+Path: "/sitecore/content/fwd/fwd-th/Content/Province/Lamphun"
+DB: master
+SharedFields:
+- ID: "22c8a98c-de44-42b0-ab98-b6c82acf5c8a"
+  Hint: latitude
+  Value: 18.5745
+- ID: "54a4be6f-6d39-4b8b-9e76-cb0d85e37734"
+  Hint: longitude
+  Value: 99.0087
+- ID: "a903eb23-a8d6-4a9a-bd27-4bd363b1fcf0"
+  Hint: searchName
+  Value: Lamphun
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: Lamphun
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T113904Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: ลำพูน
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200421T054446Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

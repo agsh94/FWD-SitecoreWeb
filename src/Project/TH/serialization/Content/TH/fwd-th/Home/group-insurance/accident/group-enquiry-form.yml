@@ -1,0 +1,103 @@
+﻿---
+ID: "6f3e96e8-51ec-4565-80a7-9ff7eb58bdfe"
+Parent: "c78c044b-6b4b-4b4f-83bc-62fb6c991a28"
+Template: "0b1e5ada-16a0-4d04-a1c5-0e27dcf3371e"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/accident/group-enquiry-form"
+DB: master
+SharedFields:
+- ID: "90a3aaad-124b-4118-9d91-85bb12d9c5b8"
+  Hint: redirectUrl
+  Value: |
+    <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{9D52881B-6E1C-493A-ABBB-FC27B0A6C6D1}" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+- ID: "d8ac2121-1b4a-4b17-97b8-6c9c7635d239"
+  Hint: formEmailTemplate
+  Value: |
+    <link text="" linktype="form" querystring="" target="" id="{DA8E7D5A-A097-4A53-8605-DFEB93DAD70F}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{794744EC-FCB6-4067-94D8-DDB4D4647021}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{8D436698-87BB-4B79-B6DD-58C81F20CCCA}">
+          <p:d />
+        </r>
+        <r
+          uid="{483F9CFA-4C9A-488B-979C-047627E73318}"
+          p:after="r[@uid='{794744EC-FCB6-4067-94D8-DDB4D4647021}']"
+          s:ds="{00F08A72-1976-4158-9925-438E1A5A9C59}"
+          s:id="{D12A5E12-4AB2-4330-8D72-77EA8D372515}"
+          s:par="formType=regular"
+          s:ph="jss-main" />
+        <r
+          uid="{BC9A7276-B7E9-4D8F-8B9F-A03D05943657}"
+          s:ds="{73E7F7BD-CEC1-41AE-98D7-82DB26381E31}"
+          s:par="anchorText&amp;backgroundColor=%7BF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Enquiry
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0510E2A1-76BE-4F70-B61F-9B8124F00723}"
+              p:before="*"
+              s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}"
+              s:id="{3E7FEC38-10C9-4D00-BA82-D058F17478D0}"
+              s:par="enableMargin&amp;anchorText&amp;backgroundColor=%7BB47928D6-98FC-4B29-8D0F-586AB477286E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+              s:ph="jss-header" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200205T130542Z
+    - ID: "3ee9d7ab-80af-491b-bf20-b8535dc97533"
+      Hint: metadataTitle
+      Value: Group Accident Insurance
+    - ID: "7735b88e-fe4f-42fa-86de-a3f590a7e9ed"
+      Hint: apiList
+      Type: Multilist
+      Value: "{D58E3660-0AB7-4811-AD6F-D007E52AF349}"
+    - ID: "e786a3dc-a901-4490-ad90-0aa927ed411b"
+      Hint: expectedProductName
+      Value: Group Accident Insurance
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T103624Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7735b88e-fe4f-42fa-86de-a3f590a7e9ed"
+      Hint: apiList
+      Type: Multilist
+      Value: "{D58E3660-0AB7-4811-AD6F-D007E52AF349}"
+    - ID: "e786a3dc-a901-4490-ad90-0aa927ed411b"
+      Hint: expectedProductName
+      Value: ประกันอุบัติเหตุกลุ่ม 

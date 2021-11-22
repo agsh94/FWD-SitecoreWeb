@@ -1,0 +1,2 @@
+C:\FWD\FWD-Web\framework\src\Foundation\Forms\code\FWD.Foundation.Forms.Tests\obj\Debug\FWD.Foundation.Forms.Tests.csprojAssemblyReference.cache
+C:\FWD\FWD-Web\framework\src\Foundation\Forms\code\FWD.Foundation.Forms.Tests\obj\Debug\FWD.Foundation.Forms.Tests.csproj.CoreCompileInputs.cache

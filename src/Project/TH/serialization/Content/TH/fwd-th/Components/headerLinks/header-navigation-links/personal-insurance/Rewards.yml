@@ -1,0 +1,49 @@
+﻿---
+ID: "5aa022af-607b-4bb6-ad85-28ce83b26ac6"
+Parent: "696e7720-7007-4515-baa2-f923545c5f67"
+Template: "4faa2cd7-63df-4c30-abb2-9d55380d2106"
+Path: "/sitecore/content/fwd/fwd-th/Components/headerLinks/header-navigation-links/personal-insurance/Rewards"
+DB: master
+SharedFields:
+- ID: "0506ee6d-80ab-42a9-aa0d-06cb556b05b0"
+  Hint: pageType
+  Value: "{FB2C4A8A-0593-44B7-B7C4-AE07AF4F8BB2}"
+- ID: "a6ee811d-8f6f-4560-80b5-a4faa92bb6db"
+  Hint: buttonIcon
+  Value: "{7A571888-B9C6-4778-973B-828EC009C8B0}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200312T123556Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{37296FD4-8CF2-45BA-88E0-FAAEC51215A7}" />
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: Rewards
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200316T190611Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{37296FD4-8CF2-45BA-88E0-FAAEC51215A7}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: สิทธิพิเศษ

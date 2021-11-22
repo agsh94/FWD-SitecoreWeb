@@ -1,0 +1,33 @@
+﻿---
+ID: "30e9ffce-b4db-41ab-89c6-6805aa5ff8ab"
+Parent: "bc9f5122-9eff-4924-bf40-51bd946eeec9"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Sport/baika-fit/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200923T083841Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>2. 40 : 60 กินแบบมีฟังก์ชัน</strong></p>
+        <p><strong><br />
+        &ldquo;คนเราต้องมีอาหารที่อยากกินบ้าง มื้อไหนทำกินเองเราก็ทำให้ดีไปเลย มื้อไหนที่เรามีอาหารอร่อยที่อยากไปกินก็กินได้ แต่ต้องแบ่งสัดส่วนให้ชัดเจน&rdquo;</strong><br />
+        <br />
+        การเลือกกินแบบแบ่งสัดส่วนอย่างชัดเจนนั้นในหนึ่งวันสามารถกินอะไรก็ได้ 40% และกินสิ่งที่ดีมีประโยชน์ต่อร่างกาย 60% หรืออาจจะเลือกแบ่งเป็น มื้อฟังก์ชันดีต่อกาย กับ มื้อฟังก์ชันดีต่อใจ เพื่อไม่ให้เครียดจนเกินไป จนทำให้ล้มเลิกความตั้งใจที่จะดูแลตัวเองในที่สุด</p>

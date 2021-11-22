@@ -1,0 +1,39 @@
+﻿---
+ID: "80ef26ac-d8a9-4e80-a5b8-dbc14875e1f3"
+Parent: "08981618-890e-4d69-8ed6-2b9b0f9239e4"
+Template: "91c0f7fd-e185-4652-9ca5-ff0982a40801"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Claims/accident-and-health 1/local-folder/GroupTab List/Cancellation"
+DB: master
+SharedFields:
+- ID: "2bb03f6c-a424-487e-b70e-8b96a004e219"
+  Hint: gaCategoryName
+  Value: Cancellation & Curtailment loss of personal money
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T070215Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "78233103-3316-4484-ada7-77b1e45e8351"
+      Hint: title
+      Value: Cancellation & Curtailment loss of personal money
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200416T104253Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "78233103-3316-4484-ada7-77b1e45e8351"
+      Hint: title
+      Value: How to file a claim แบบฟอร์มสอบถาม

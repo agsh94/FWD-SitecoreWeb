@@ -1,0 +1,108 @@
+﻿---
+ID: "c74b97c5-a581-42ac-8849-ec23d2f476f1"
+Parent: "38a8fcc4-140e-40b2-bb61-f830003c6c80"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Functions/Modules/FAQs
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    param(
+    $params
+    )
+    
+    Import-Function Global-Functions
+    		if($params.Item){
+    	
+    		$newPath = $params.Item.ItemPath + '/Components'
+    		$newItem = Get-Item -Path $newPath
+    		$faqItem = New-Item -Parent $newItem -Name "FAQs" -ItemType $params.TemplateID -Language $params.language
+    		
+    		$modules = Get-ItemInsertOptions $faqItem
+    		$modulesSortedByKey = Get-OrderedDictionaryByKey $modules
+    		
+    		if ($modulesSortedByKey.Count -gt 0) {
+    		
+    		$FAQFolder = New-Item -Parent $faqItem -Name "Premium payment" -ItemType $modulesSortedByKey.'FAQ Folder' -Language $params.language
+    		
+    		$FAQFoldermodules = Get-ItemInsertOptions $FAQFolder
+    		$FAQFoldermodulesSortedByKey = Get-OrderedDictionaryByKey $FAQFoldermodules
+    		if ($FAQFoldermodulesSortedByKey.Count -gt 0) {
+    		$FAQ1 = New-Item -Parent $FAQFolder -Name "Premium1" -ItemType $FAQFoldermodulesSortedByKey.'FAQ' -Language $params.language
+    		$FAQ1.Editing.BeginEdit()
+    		$FAQ1.Fields["question"].Value = "How can I pay premium?"
+    		$FAQ1.Fields["answer"].Value = "We accepts various payments method.see all various payments option"
+    		$FAQ1.Editing.EndEdit()
+    		
+    		$FAQ2 = New-Item -Parent $FAQFolder -Name "Premium2" -ItemType $FAQFoldermodulesSortedByKey.'FAQ' -Language $params.language
+    		$FAQ2.Editing.BeginEdit()
+    		$FAQ2.Fields["question"].Value = "I currently pay my premium monthly. Can I pay by debit from my savings account?"
+    		$FAQ2.Fields["answer"].Value = "We accepts various payments method.see all various payments option"
+    		$FAQ2.Editing.EndEdit()
+    		}
+    		
+    		$FAQFolder = New-Item -Parent $faqItem -Name "Claims" -ItemType $modulesSortedByKey.'FAQ Folder' -Language $params.language
+    		
+    		if ($FAQFoldermodulesSortedByKey.Count -gt 0) {
+    		$FAQ1 = New-Item -Parent $FAQFolder -Name "FAQ1" -ItemType $FAQFoldermodulesSortedByKey.'FAQ' -Language $params.language
+    		$FAQ1.Editing.BeginEdit()
+    		$FAQ1.Fields["question"].Value = "How to proceed to get a new check if a check was lost, expired or has not been received?"
+    		$FAQ1.Fields["answer"].Value = "Yes, EasyHealth Refundable Hospital Income Plan is a standalone insurance plan. It does not clash with your current medical insurance plan. Read More"
+    		$FAQ1.Editing.EndEdit()
+    		
+    		$FAQ2 = New-Item -Parent $FAQFolder -Name "FAQ2" -ItemType $FAQFoldermodulesSortedByKey.'FAQ' -Language $params.language
+    		$FAQ2.Editing.BeginEdit()
+    		$FAQ2.Fields["question"].Value = "Can I request that my Claim check be sent directly to me?"
+    		$FAQ2.Fields["answer"].Value = "Yes, Claim checks can be delivered directly to the beneficiary. "
+    		$FAQ2.Editing.EndEdit()
+    		}
+    		
+    		$FAQFolder = New-Item -Parent $faqItem -Name "Group Insurance" -ItemType $modulesSortedByKey.'FAQ Folder' -Language $params.language
+    		
+    		if ($FAQFoldermodulesSortedByKey.Count -gt 0) {
+    		$FAQ1 = New-Item -Parent $FAQFolder -Name "Group Insurance 1" -ItemType $FAQFoldermodulesSortedByKey.'FAQ' -Language $params.language
+    		$FAQ1.Editing.BeginEdit()
+    		$FAQ1.Fields["question"].Value = "What is the difference between Employee life and health and Group accident?"
+    		$FAQ1.Fields["answer"].Value = "We accept various payment methods. See all options."
+    		$FAQ1.Editing.EndEdit()
+    		
+    		$FAQ2 = New-Item -Parent $FAQFolder -Name "Group Insurance 2" -ItemType $FAQFoldermodulesSortedByKey.'FAQ' -Language $params.language
+    		$FAQ2.Editing.BeginEdit()
+    		$FAQ2.Fields["question"].Value = "Can I purchase Employee life and health online?"
+    		$FAQ2.Fields["answer"].Value = "We accept various payment methods. See all options."
+    		$FAQ2.Editing.EndEdit()
+    		}
+    		
+    		$FAQFolder = New-Item -Parent $faqItem -Name "General" -ItemType $modulesSortedByKey.'FAQ Folder' -Language $params.language
+    		
+    		if ($FAQFoldermodulesSortedByKey.Count -gt 0) {
+    		$FAQ1 = New-Item -Parent $FAQFolder -Name "general1" -ItemType $FAQFoldermodulesSortedByKey.'FAQ' -Language $params.language
+    		$FAQ1.Editing.BeginEdit()
+    		$FAQ1.Fields["question"].Value = "How will I use the Bancnetonline Payment Facility?"
+    		$FAQ1.Fields["answer"].Value = "There is a 2 Step Process in order for you to be able to use Bancnetonline payment Facility"
+    		$FAQ1.Editing.EndEdit()
+    		}
+    		
+    		$FAQFolder = New-Item -Parent $faqItem -Name "Plans and coverage" -ItemType $modulesSortedByKey.'FAQ Folder' -Language $params.language
+    		
+    		if ($FAQFoldermodulesSortedByKey.Count -gt 0) {
+    		$FAQ1 = New-Item -Parent $FAQFolder -Name "plan1" -ItemType $FAQFoldermodulesSortedByKey.'FAQ' -Language $params.language
+    		$FAQ1.Editing.BeginEdit()
+    		$FAQ1.Fields["question"].Value = "When paying over the counter, what bank slip should I use to pay my premiums?"
+    		$FAQ1.Fields["answer"].Value = "When paying your premiums, be sure to use the Bills Payment Slip under the merchant FWD Life Insurance Corporation."
+    		$FAQ1.Editing.EndEdit()
+    		}
+    		}
+    		
+    
+    	}
+    	
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T092438Z

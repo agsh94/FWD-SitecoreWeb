@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<control xmlns:def="Definition" xmlns="http://schemas.sitecore.net/Visual-Studio-Intellisense" xmlns:shell="http://www.sitecore.net/shell">
+    <MarketDetails>
+        <WizardForm CodeBeside="FWD.Foundation.MarketSiteRollout.Dialogs.MarketDetailsForm,FWD.Foundation.MarketSiteRollout">
+            <Stylesheet Src="/sitecore/shell/override/Applications/Content Manager/Dialogs/MarketDetails/MarketDetails.css" />
+
+            <WizardFormPage ID="Settings" Header='Create a new market site'
+                      Text=''>
+                <WizardFormPadding>
+                    <Border class="siteNamePanel">
+                        <Label Class="siteNameLabel margin-btm-5 full-width bold" For="SiteName">
+                            <Literal text="Site name:"/>
+                        </Label>
+                        <Edit ID="SiteName" Class="siteName"/>
+                    </Border>
+                    <Border class="hostNamePanel margin-15">
+                        <Label Class="hostNameLabel margin-btm-5 full-width bold" For="HostName">
+                            <Literal text="Host name:"/>
+                        </Label>
+                        <Edit ID="HostName" Class="hostName"/>
+                    </Border>
+                    <Border class="languagesPanel margin-15">
+                        <Label Class="languagesLabel bold" For="LanguageList">
+                            <Literal text="Select Languages:"/>
+                        </Label>
+                        <Checklist ID="LanguagesPanel" Class="languagesPanelList">
+                        </Checklist>
+                    </Border>
+                </WizardFormPadding>
+            </WizardFormPage>
+
+            <WizardFormProgressPage ID="Processing" Header='Create a new market site'
+                              Text='Please wait while we are creating a new market site...'
+                              ActionText="Processing...">
+                <Border ID="PublishingTarget">
+                    &#160;
+                </Border>
+            </WizardFormProgressPage>
+
+
+            <WizardFormPage ID="LastPage" Header='Create a new market site'
+                            Text='Market Site has been created'>
+                <WizardFormPadding>
+                    <div class="scStretchAbsolute">
+                        <Memo ID="ResultText" class="scStretch" ReadOnly="true" Visible="true"/>
+                    </div>
+                </WizardFormPadding>
+            </WizardFormPage>
+
+
+
+        </WizardForm>
+    </MarketDetails>
+</control>

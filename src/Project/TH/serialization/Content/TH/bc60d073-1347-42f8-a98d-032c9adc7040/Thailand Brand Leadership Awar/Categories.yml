@@ -1,0 +1,26 @@
+﻿---
+ID: "14ba6dfc-2dcb-4eb7-8349-966f6fdc09e6"
+Parent: "a2b82ce4-8a1d-45b9-9bf1-08b7d1aa5946"
+Template: "cc4b9005-2021-4e36-9e01-196132da731e"
+Path: "/sitecore/content/fwd/fwd-th/Components/Awards/Awards-FWD-Story/Company awards/Thailand Brand Leadership Award/Categories"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{AB459434-A3A4-4E32-84AC-2BB21174F64E}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Categories
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200401T063141Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit

@@ -1,0 +1,92 @@
+﻿---
+ID: "86c30bf9-8c81-4f58-9392-18988d712c80"
+Parent: "c9bdee14-dbce-468b-bada-fb3f6fb07742"
+Template: "930d372c-0ff9-4b02-b367-336462b70016"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/local-folder/campaign-carousel/campaign-banner-1"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Campaign Banner 1
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16d5c7ac-2aa5-4337-af09-047f3d646bac"
+      Hint: subTitle
+      Value: Learn the best way to manage your stress,family,life and relationship. Wellness week 2020 is here to help.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200323T084237Z
+    - ID: "29e8a1af-94f7-4aba-974a-a6998771e965"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{4782A6F6-9073-40D5-B490-831E650692C3}" />
+    - ID: "5236ae55-22c1-4f65-b178-26b7829d3c9b"
+      Hint: title
+      Value: |
+        <p>Welcome to</p>
+        <p><strong>wellness week 2020</strong></p>
+    - ID: "98927d2c-e166-4a1f-82db-91bf405efa95"
+      Hint: image
+      Value: |
+        <image mediaid="{4782A6F6-9073-40D5-B490-831E650692C3}" />
+    - ID: "b2b93e56-2a83-4eab-a106-bd033ba2564d"
+      Hint: videoLink
+      Value: |
+        <file mediapath="/FWD/TH/documents/fwd-3-1--640" mediaid="{4EFF514A-381C-42B4-8888-CF193B15824D}" src="-/media/4eff514a381c42b48888cf193b15824d.ashx" />
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Find out more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B06FCBBE-D82F-45E6-8CF6-9907C875B081}" />
+    - ID: "fe2ab375-7e5b-4a1a-b188-d2fc5e511b8c"
+      Hint: mobileVideoLink
+      Value: |
+        <file mediapath="/FWD/TH/documents/fwd-1-1--480" mediaid="{0BBA8221-31F9-4BEF-8BE0-37CC92E4242D}" src="-/media/0bba822131f94bef8be037cc92e4242d.ashx" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16d5c7ac-2aa5-4337-af09-047f3d646bac"
+      Hint: subTitle
+      Value: Learn the best way to manage your stress,family,life and relationship. Wellness week 2020 is here to help.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200406T054846Z
+    - ID: "29e8a1af-94f7-4aba-974a-a6998771e965"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{4782A6F6-9073-40D5-B490-831E650692C3}" />
+    - ID: "5236ae55-22c1-4f65-b178-26b7829d3c9b"
+      Hint: title
+      Value: |
+        <p>Welcome to</p>
+        <p><strong>wellness week 2020</strong></p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "98927d2c-e166-4a1f-82db-91bf405efa95"
+      Hint: image
+      Value: |
+        <image mediaid="{4782A6F6-9073-40D5-B490-831E650692C3}" />
+    - ID: "b2b93e56-2a83-4eab-a106-bd033ba2564d"
+      Hint: videoLink
+      Value: |
+        <file mediapath="/FWD/TH/documents/fwd-3-1--640" mediaid="{4EFF514A-381C-42B4-8888-CF193B15824D}" src="-/media/4eff514a381c42b48888cf193b15824d.ashx" />
+    - ID: "d03cccc8-4d38-4b17-8042-383b2298af82"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Find out more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B06FCBBE-D82F-45E6-8CF6-9907C875B081}" />
+    - ID: "fe2ab375-7e5b-4a1a-b188-d2fc5e511b8c"
+      Hint: mobileVideoLink
+      Value: |
+        <file mediapath="/FWD/TH/documents/fwd-1-1--480" mediaid="{0BBA8221-31F9-4BEF-8BE0-37CC92E4242D}" src="-/media/0bba822131f94bef8be037cc92e4242d.ashx" />

@@ -1,0 +1,190 @@
+﻿---
+ID: "8b1965ba-eb77-4404-b65c-472c6be5d5c2"
+Parent: "38a8fcc4-140e-40b2-bb61-f830003c6c80"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Functions/Modules/Awards
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    param(
+    $params
+    )
+    
+    Import-Function Global-Functions
+    		
+    
+    if($params.Item){
+    		$newPath = $params.Item.ItemPath + '/Components'
+    		$newItem = Get-Item -Path $newPath
+    		$awardfolder = New-Item -Parent $newItem -Name "Awards" -ItemType $params.TemplateID -Language $params.language
+    		
+    		$modules = Get-ItemInsertOptions $awardfolder
+    		$modulesSortedByKey = Get-OrderedDictionaryByKey $modules
+    		
+    		if ($modulesSortedByKey.Count -gt 0) {
+    		
+    		$awardsfwdstory = New-Item -Parent $awardfolder -Name "Awards-FWD-Story" -ItemType $modulesSortedByKey.'Award Folder' -Language $params.language
+    		
+    		$local = New-Item -Parent $awardsfwdstory -Name "local" -ItemType $modulesSortedByKey.'Award Folder' -Language $params.language
+    		$localaward1 = New-Item -Parent $local -Name "Award 1" -ItemType $modulesSortedByKey.'Award' -Language $params.language
+    		$localaward1.Editing.BeginEdit()
+    		$localaward1.Fields["awardName"].Value = "The Best Brand Performance 2017"
+    		$localaward1.Fields["awardCategory"].Value = "eCommAs"
+    		$localaward1.Fields["awardIssuer"].Value = "Mark"
+    		$localaward1.Fields["awardYears"].Value = "2017"
+    		[Sitecore.Data.Fields.LinkField]$field = $localaward1.Fields["link"]
+    		$field.LinkType = "internal"
+    		$field.Url = $localaward1.ItemPath
+    		[Sitecore.Data.Fields.ImageField]$image = $localaward1.Fields["image"]
+    		$image.MediaID = "{98F60869-3C9F-4DAD-8E7B-2266ECF71043}"
+    		[Sitecore.Data.Fields.ImageField]$mobileImage = $localaward1.Fields["mobileImage"]
+    		$mobileImage.MediaID = "{98F60869-3C9F-4DAD-8E7B-2266ECF71043}"
+    		$localaward1.Editing.EndEdit()
+    		
+    		$localaward1modules = Get-ItemInsertOptions $localaward1
+    		$localaward1modulesSortedByKey = Get-OrderedDictionaryByKey $localaward1modules
+    		
+    		if ($localaward1modulesSortedByKey.Count -gt 0) {
+    		$localCategoriespath = $localaward1.ItemPath + '/Categories'
+    		$localCategories1 = Get-Item -Path $localCategoriespath
+    		$localCategories1modules1 = Get-ItemInsertOptions $localCategories1
+    		$localCategories1modulesSortedByKey = Get-OrderedDictionaryByKey $localCategories1modules1
+    		if ($localCategories1modulesSortedByKey.Count -gt 0) {
+    		$Bestinclass = New-Item -Parent $localCategories1 -Name "Best-in-class" -ItemType $localCategories1modulesSortedByKey.'Award Category' -Language $params.language
+    		$Bestinclass.Editing.BeginEdit()
+    		$Bestinclass.Fields["Name"].Value = "Best-in-class"
+    		$Bestinclass.Fields["subCategory"].Value = "Brands of the year - Insurance"
+    		$Bestinclass.Editing.EndEdit()
+    		$bestinclasshealth = New-Item -Parent $localCategories1 -Name "best-in-class-health" -ItemType $localCategories1modulesSortedByKey.'Award Category' -Language $params.language
+    		$bestinclasshealth.Editing.BeginEdit()
+    		$bestinclasshealth.Fields["Name"].Value = "Best-in-class"
+    		$bestinclasshealth.Fields["subCategory"].Value = "Brands of the year - Insurance"
+    		$bestinclasshealth.Editing.EndEdit()
+    		}
+    		}
+    		$localaward2 = New-Item -Parent $local -Name "Award 2" -ItemType $modulesSortedByKey.'Award' -Language $params.language
+    		$localaward2.Editing.BeginEdit()
+    		$localaward2.Fields["awardName"].Value = "The Best Brand Performance 2017"
+    		$localaward2.Fields["awardCategory"].Value = "eCommAs"
+    		$localaward2.Fields["awardIssuer"].Value = "Mark"
+    		$localaward2.Fields["awardYears"].Value = "2017"
+    		[Sitecore.Data.Fields.LinkField]$field = $localaward2.Fields["link"]
+    		$field.LinkType = "internal"
+    		$field.Url = $localaward2.ItemPath
+    		[Sitecore.Data.Fields.ImageField]$image = $localaward2.Fields["image"]
+    		$image.MediaID = "{98F60869-3C9F-4DAD-8E7B-2266ECF71043}"
+    		[Sitecore.Data.Fields.ImageField]$mobileImage = $localaward2.Fields["mobileImage"]
+    		$mobileImage.MediaID = "{98F60869-3C9F-4DAD-8E7B-2266ECF71043}"
+    		$localaward2.Editing.EndEdit()
+    		
+    		$localaward2modules = Get-ItemInsertOptions $localaward2
+    		$localaward2modulesSortedByKey = Get-OrderedDictionaryByKey $localaward2modules
+    		
+    		if ($localaward2modulesSortedByKey.Count -gt 0) {
+    		$localCategoriespath = $localaward2.ItemPath + '/Categories'
+    		$localCategories2 = Get-Item -Path $localCategoriespath
+    		$localCategories1modules2 = Get-ItemInsertOptions $localCategories2
+    		$localCategories1modulesSortedByKey = Get-OrderedDictionaryByKey $localCategories1modules2
+    		if ($localCategories1modulesSortedByKey.Count -gt 0) {
+    		$Bestinclass = New-Item -Parent $localCategories2 -Name "Best-in-class" -ItemType $localCategories1modulesSortedByKey.'Award Category' -Language $params.language
+    		$Bestinclass.Editing.BeginEdit()
+    		$Bestinclass.Fields["Name"].Value = "Best-in-class"
+    		$Bestinclass.Fields["subCategory"].Value = "Brands of the year - Insurance"
+    		$Bestinclass.Editing.EndEdit()
+    		$bestinclasshealth = New-Item -Parent $localCategories2 -Name "best-in-class-health" -ItemType $localCategories1modulesSortedByKey.'Award Category' -Language $params.language
+    		$bestinclasshealth.Editing.BeginEdit()
+    		$bestinclasshealth.Fields["Name"].Value = "Best-in-class"
+    		$bestinclasshealth.Fields["subCategory"].Value = "Brands of the year - Insurance"
+    		$bestinclasshealth.Editing.EndEdit()
+    		}
+    		}
+    		
+    		
+    		
+    		$Global = New-Item -Parent $awardsfwdstory -Name "Global" -ItemType $modulesSortedByKey.'Award Folder' -Language $params.language
+    		$Globalaward1 = New-Item -Parent $Global -Name "Award 1" -ItemType $modulesSortedByKey.'Award' -Language $params.language
+    		$Globalaward1.Editing.BeginEdit()
+    		$Globalaward1.Fields["awardName"].Value = "The Best Brand Performance 2017"
+    		$Globalaward1.Fields["awardCategory"].Value = "eCommAs"
+    		$Globalaward1.Fields["awardIssuer"].Value = "Mark"
+    		$Globalaward1.Fields["awardYears"].Value = "2017"
+    		[Sitecore.Data.Fields.LinkField]$field = $Globalaward1.Fields["link"]
+    		$field.LinkType = "internal"
+    		$field.Url = $Globalaward1.ItemPath
+    		[Sitecore.Data.Fields.ImageField]$image = $Globalaward1.Fields["image"]
+    		$image.MediaID = "{98F60869-3C9F-4DAD-8E7B-2266ECF71043}"
+    		[Sitecore.Data.Fields.ImageField]$mobileImage = $Globalaward1.Fields["mobileImage"]
+    		$mobileImage.MediaID = "{98F60869-3C9F-4DAD-8E7B-2266ECF71043}"
+    		$Globalaward1.Editing.EndEdit()
+    		
+    		$Globalaward1modules = Get-ItemInsertOptions $Globalaward1
+    		$Globalaward1modulesSortedByKey = Get-OrderedDictionaryByKey $Globalaward1modules
+    		
+    		if ($Globalaward1modulesSortedByKey.Count -gt 0) {
+    		$GlobalCategoriespath = $Globalaward1.ItemPath + '/Categories'
+    		$GlobalCategories1 = Get-Item -Path $GlobalCategoriespath
+    		$GlobalCategories1modules1 = Get-ItemInsertOptions $GlobalCategories1
+    		$GlobalCategories1modulesSortedByKey = Get-OrderedDictionaryByKey $GlobalCategories1modules1
+    		if ($GlobalCategories1modulesSortedByKey.Count -gt 0) {
+    		$Bestinclass = New-Item -Parent $GlobalCategories1 -Name "Best-in-class" -ItemType $GlobalCategories1modulesSortedByKey.'Award Category' -Language $params.language
+    		$Bestinclass.Editing.BeginEdit()
+    		$Bestinclass.Fields["Name"].Value = "Best-in-class"
+    		$Bestinclass.Fields["subCategory"].Value = "Brands of the year - Insurance"
+    		$Bestinclass.Editing.EndEdit()
+    		$bestinclasshealth = New-Item -Parent $GlobalCategories1 -Name "best-in-class-health" -ItemType $GlobalCategories1modulesSortedByKey.'Award Category' -Language $params.language
+    		$bestinclasshealth.Editing.BeginEdit()
+    		$bestinclasshealth.Fields["Name"].Value = "Best-in-class"
+    		$bestinclasshealth.Fields["subCategory"].Value = "Brands of the year - Insurance"
+    		$bestinclasshealth.Editing.EndEdit()
+    		}
+    		}
+    		$Globalaward2 = New-Item -Parent $Global -Name "Award 2" -ItemType $modulesSortedByKey.'Award' -Language $params.language
+    		$Globalaward2.Editing.BeginEdit()
+    		$Globalaward2.Fields["awardName"].Value = "The Best Brand Performance 2017"
+    		$Globalaward2.Fields["awardCategory"].Value = "eCommAs"
+    		$Globalaward2.Fields["awardIssuer"].Value = "Mark"
+    		$Globalaward2.Fields["awardYears"].Value = "2017"
+    		[Sitecore.Data.Fields.LinkField]$field = $Globalaward2.Fields["link"]
+    		$field.LinkType = "internal"
+    		$field.Url = $Globalaward2.ItemPath
+    		[Sitecore.Data.Fields.ImageField]$image = $Globalaward2.Fields["image"]
+    		$image.MediaID = "{98F60869-3C9F-4DAD-8E7B-2266ECF71043}"
+    		[Sitecore.Data.Fields.ImageField]$mobileImage = $Globalaward2.Fields["mobileImage"]
+    		$mobileImage.MediaID = "{98F60869-3C9F-4DAD-8E7B-2266ECF71043}"
+    		$Globalaward2.Editing.EndEdit()
+    		
+    		$Globalaward2modules = Get-ItemInsertOptions $Globalaward2
+    		$Globalaward2modulesSortedByKey = Get-OrderedDictionaryByKey $Globalaward2modules
+    		
+    		if ($Globalaward2modulesSortedByKey.Count -gt 0) {
+    		$GlobalCategoriespath = $Globalaward2.ItemPath + '/Categories'
+    		$GlobalCategories2 = Get-Item -Path $GlobalCategoriespath
+    		$GlobalCategories1modules2 = Get-ItemInsertOptions $GlobalCategories2
+    		$GlobalCategories1modulesSortedByKey = Get-OrderedDictionaryByKey $GlobalCategories1modules2
+    		if ($GlobalCategories1modulesSortedByKey.Count -gt 0) {
+    		$Bestinclass = New-Item -Parent $GlobalCategories2 -Name "Best-in-class" -ItemType $GlobalCategories1modulesSortedByKey.'Award Category' -Language $params.language
+    		$Bestinclass.Editing.BeginEdit()
+    		$Bestinclass.Fields["Name"].Value = "Best-in-class"
+    		$Bestinclass.Fields["subCategory"].Value = "Brands of the year - Insurance"
+    		$Bestinclass.Editing.EndEdit()
+    		$bestinclasshealth = New-Item -Parent $GlobalCategories2 -Name "best-in-class-health" -ItemType $GlobalCategories1modulesSortedByKey.'Award Category' -Language $params.language
+    		$bestinclasshealth.Editing.BeginEdit()
+    		$bestinclasshealth.Fields["Name"].Value = "Best-in-class"
+    		$bestinclasshealth.Fields["subCategory"].Value = "Brands of the year - Insurance"
+    		$bestinclasshealth.Editing.EndEdit()
+    		}
+    		}
+    		}
+    	}
+    
+    	
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200519T110403Z

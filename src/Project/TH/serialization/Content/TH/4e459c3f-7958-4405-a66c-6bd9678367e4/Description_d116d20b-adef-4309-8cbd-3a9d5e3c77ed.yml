@@ -1,0 +1,47 @@
+﻿---
+ID: "d116d20b-adef-4309-8cbd-3a9d5e3c77ed"
+Parent: "4e459c3f-7958-4405-a66c-6bd9678367e4"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/things-to-do-first-40/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200402T050313Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>7. Friendship that lasts</strong><br />
+        <br />
+        At this point of time, you will find that quality is more important than quantity when thinking about the meaning of having true friends. From hundreds of unknown you have met in a lifetime, just a few who stay besides and true to you through ups and downs can be called friends.&nbsp;<br />
+        The longer you live, the more experience you have and much more life story to tell. These 8 things that we share will exactly be your guide to maintain a quality of life in 40.<br />
+        <div>&nbsp;</div>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T233903Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span style="color: black;"></span><strong><span style="background: white; color: black;">7.&nbsp;</span></strong><strong><span style="background: white; color: black;">ทำให้มิตรภาพระหว่างเพื่อนคงอยู่ตลอดไป<br />
+        </span></strong><span style="color: black;">ท้ายที่สุดแล้วของชีวิต</span><span style="color: black;"> </span><span style="color: black;">เมื่อถึงจุดนี้คุณจะเข้าใจว่ามิตรภาพไม่ได้ขึ้นอยู่กับปริมาณ</span><span style="color: black;"> </span><span style="color: black;">แต่มันคือคุณภาพ</span><span style="color: black;"> &nbsp;</span><span style="color: black;">ตอนหาคนที่เข้าใจและรักษาเขาไว้</span><span style="color: black;"> </span><span style="color: black;">วัยรุ่นคุณอาจจะมีเพื่อนเป็นร้อย</span><span style="color: black;"> </span><span style="color: black;">เป็นพัน</span><span style="color: black;"> </span><span style="color: black;">แต่ระหว่างทางของการใช้ชีวิต</span><span style="color: black;"> </span><span style="color: black;">เขาอาจจะค่อยๆ</span><span style="color: black;"> </span><span style="color: black;">ทยอยหายหน้าหายตาไปเรื่อยๆ</span><span style="color: black;"> </span><span style="color: black;">ท้ายที่สุดให้คุณลองนับคนที่ยังอยู่ข้างๆ</span><span style="color: black;"> </span><span style="color: black;">คุณ</span><span style="color: black;"> </span><span style="color: black;">จนมาถึงทุกวันนี้</span><span style="color: black;"> </span><span style="color: black;">นั่นแหละคือที่สุดของเพื่อนแท้</span><span style="color: black;"></span><span style="color: black;">ถึง</span><span style="color: black;"> </span><span style="color: black;">30 </span><span style="color: black;">จะยังแจ๋ว</span><span style="color: black;"> </span><span style="color: black;">แต่</span><span style="color: black;"> </span><span style="color: black;">40 50 60 </span><span style="color: black;">ก็ยังแจ๋วได้</span><span style="color: black;"> </span><span style="color: black;">ไม่มีอะไรมัดขวางการใช้ชีวิตของเราได้</span><span style="color: black;"> </span><span style="color: black;">ยิ่งแก่ยิ่งเก๋าเกมส์</span><span style="color: black;"> </span><span style="color: black;">และถึงจะอายุเยอะ</span><span style="color: black;"> </span><span style="color: black;">ถึงจะแก่</span><span style="color: black;"> </span><span style="color: black;">แต่ก็แก่ด้วยประสบการณ์</span><span style="color: black;"> </span><span style="color: black;">คนที่ผ่านการใช้ชีวิตมาจนถึงเลข</span><span style="color: black;"> </span><span style="color: black;">40 </span><span style="color: black;">ได้</span><span style="color: black;"> </span><span style="color: black;">เขาต้องมีเรื่องราวที่หลากหลายในชีวิต</span><span style="color: black;"> </span><span style="color: black;">และจากทั้ง</span><span style="color: black;"> </span><span style="color: black;">8 </span><span style="color: black;">สิ่งนี้จะเป็นแนวทางที่สามารถนำพาไปสู่การมีชีวิตวัยหลัก</span><span style="color: black;"> </span><span style="color: black;">4 </span><span style="color: black;">ที่มีคุณภาพได้แน่นอน</span><span style="color: black;"><br />
+        </span></p>

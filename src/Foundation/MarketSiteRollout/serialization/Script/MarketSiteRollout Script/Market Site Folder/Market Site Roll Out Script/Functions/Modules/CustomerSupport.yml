@@ -1,0 +1,111 @@
+﻿---
+ID: "731dbbd6-ac09-4acd-ab3e-2397be41b3a4"
+Parent: "38a8fcc4-140e-40b2-bb61-f830003c6c80"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Functions/Modules/CustomerSupport
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    param(
+    $params
+    )
+    
+    if($params.Item){
+    	
+    Import-Function Global-Functions
+    		
+    	
+    		$newPath = $params.Item.ItemPath + '/Components'
+    		$newItem = Get-Item -Path $newPath
+    		$customerSupportItem = New-Item -Parent $newItem -Name "customerSupport" -ItemType $params.TemplateID -Language $params.language
+    		$customerSupportItem.Editing.BeginEdit()
+    		$customerSupportItem["__Display name"] = "Customer Support"
+    		$customerSupportItem.Editing.EndEdit()
+    		$modules = Get-ItemInsertOptions $customerSupportItem
+    		$modulesSortedByKey = Get-OrderedDictionaryByKey $modules
+    		
+    		if ($modulesSortedByKey.Count -gt 0) {
+    		#Call Folder
+    		$CallFolder = New-Item -Parent $customerSupportItem -Name "Call" -ItemType $modulesSortedByKey.'Support Folder' -Language $params.language
+    		$Call = New-Item -Parent $CallFolder -Name "Call" -ItemType $modulesSortedByKey.'Call Support' -Language $params.language
+    		$Call.Editing.BeginEdit()
+    		$Call.Fields["contactNumber"].Value = "02-660-1212"
+    		$Call.Fields["supportIcon"].Value = "{0853A008-9B3C-4A10-98B9-1E96A3CDC253}"
+    		$Call.Fields["listType"].Value = "{A5BEE68C-8E43-4F78-8D15-D42982FD053A}"
+    		$Call.Fields["buttonIcon"].Value = "{0853A008-9B3C-4A10-98B9-1E96A3CDC253}"
+    		[Sitecore.Data.Fields.ImageField]$image = $Call.Fields["icon"]
+    		$image.MediaID = "{8F3C4D12-38E6-441D-8784-585C9896172F}"
+    		$Call.Editing.EndEdit()
+    		
+    		$Call = New-Item -Parent $CallFolder -Name "call-and-email" -ItemType $modulesSortedByKey.'Call Support' -Language $params.language
+    		$Call.Editing.BeginEdit()
+    		$Call.Fields["contactNumber"].Value = "02-660-1212"
+    		$Call.Fields["supportIcon"].Value = "{F35ED9FD-AD24-494A-8FB6-33BE8955A85D}"
+    		$Call.Fields["listType"].Value = "{A5BEE68C-8E43-4F78-8D15-D42982FD053A}"
+    		$Call.Fields["buttonIcon"].Value = "{F35ED9FD-AD24-494A-8FB6-33BE8955A85D}"
+    		[Sitecore.Data.Fields.ImageField]$image = $Call.Fields["icon"]
+    		$image.MediaID = "{8F3C4D12-38E6-441D-8784-585C9896172F}"
+    		$Call.Editing.EndEdit()
+    
+    		#Chat Folder
+    		$ChatFolder = New-Item -Parent $customerSupportItem -Name "Chat" -ItemType $modulesSortedByKey.'Support Folder' -Language $params.language
+    		$Chat = New-Item -Parent $ChatFolder -Name "chat-support" -ItemType $modulesSortedByKey.'Chat Support' -Language $params.language
+    		$Chat.Editing.BeginEdit()
+    		$Chat.Fields["title"].Value = "Chat"
+    		$Chat.Fields["subTitle"].Value = "Start a live chat now"
+    		$Chat.Fields["supportIcon"].Value = "{631BC306-C30E-4D10-AFE5-670237118479}"
+    		$Chat.Fields["listType"].Value = "{DDA5C48B-3A8A-4AFE-9B24-EABA5CDA8C77}"
+    		$Chat.Fields["buttonIcon"].Value = "{CC6C4D2B-B259-4CAC-8A9F-E1B9166246CC}"
+    		[Sitecore.Data.Fields.ImageField]$image = $Chat.Fields["icon"]
+    		$image.MediaID = "{C30C4D76-9BC4-4A03-B55E-3316F21FBDA6}"
+    		$Chat.Editing.EndEdit()
+    		
+    		$Chat = New-Item -Parent $ChatFolder -Name "chat-support-new" -ItemType $modulesSortedByKey.'Chat Support' -Language $params.language
+    		$Chat.Editing.BeginEdit()
+    		$Chat.Fields["title"].Value = "Talk to our live chat assistant"
+    		$Chat.Fields["subTitle"].Value = "Fill up contact details, and we will get back to you shortly."
+    		$Chat.Fields["supportIcon"].Value = "{F35ED9FD-AD24-494A-8FB6-33BE8955A85D}"
+    		$Chat.Fields["listType"].Value = "{A5BEE68C-8E43-4F78-8D15-D42982FD053A}"
+    		$Chat.Fields["buttonIcon"].Value = "{631BC306-C30E-4D10-AFE5-670237118479}"
+    		[Sitecore.Data.Fields.ImageField]$image = $Chat.Fields["icon"]
+    		$image.MediaID = "{C30C4D76-9BC4-4A03-B55E-3316F21FBDA6}"
+    		$Chat.Editing.EndEdit()
+    		
+    		#General Folder
+    		$GeneralFolder = New-Item -Parent $customerSupportItem -Name "General" -ItemType $modulesSortedByKey.'Support Folder' -Language $params.language
+    		$Chat = New-Item -Parent $GeneralFolder -Name "callEmail" -ItemType $modulesSortedByKey.'Support Link' -Language $params.language
+    		$Chat.Editing.BeginEdit()
+    		$Chat.Fields["title"].Value = "Call & Email"
+    		$Chat.Fields["subTitle"].Value = "Connect with us"
+    		$Chat.Fields["supportIcon"].Value = "{F35ED9FD-AD24-494A-8FB6-33BE8955A85D}"
+    		$Chat.Fields["listType"].Value = "{F281AF72-FA4B-4F87-98F1-4B9D77180E60}"
+    		$Chat.Fields["buttonIcon"].Value = "{F35ED9FD-AD24-494A-8FB6-33BE8955A85D}"
+    		[Sitecore.Data.Fields.ImageField]$image = $Chat.Fields["icon"]
+    		$image.MediaID = "{8F3C4D12-38E6-441D-8784-585C9896172F}"
+    		$Chat.Editing.EndEdit()
+    		
+    		$Chat = New-Item -Parent $GeneralFolder -Name "claim-support" -ItemType $modulesSortedByKey.'Support Link' -Language $params.language
+    		$Chat.Editing.BeginEdit()
+    		$Chat.Fields["title"].Value = "Claims"
+    		$Chat.Fields["subTitle"].Value = "Make a claim for this product"
+    		$Chat.Fields["supportIcon"].Value = "{BC31CA56-6A52-432E-8FA7-1D79A80463AD}"
+    		$Chat.Fields["listType"].Value = "{F281AF72-FA4B-4F87-98F1-4B9D77180E60}"
+    		$Chat.Fields["buttonIcon"].Value = "{8BA0C144-7D03-426D-84A8-3329CCA6784A}"
+    		[Sitecore.Data.Fields.ImageField]$image = $Chat.Fields["icon"]
+    		$image.MediaID = "{1FA65F14-AC66-4E28-B9DB-AE700486DE2D}"
+    		$Chat.Editing.EndEdit()
+    		}
+    		}
+    		
+    
+    	
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T052518Z

@@ -1,0 +1,53 @@
+﻿---
+ID: "8c8978e2-e352-4e0e-b043-a016ddc1b33b"
+Parent: "7a1f5428-6c67-47e2-a91d-114207f0261b"
+Template: "746ac162-3a57-433e-b006-f0967fb26e8e"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/Health/CancerFighter/local-folder/product-benefits"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Product Benefits
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191112T092628Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7a7d16f5-9b1f-4f07-b3c1-5c82f815a5cd"
+      Hint: benefitList
+      Type: TreelistEx
+      Value: |
+        {F2E3D3B1-A3C2-4356-8115-A4EB1C1449EC}
+        {49DF1792-AB04-49BB-85C0-41A8E2F0CF64}
+        {10D9FBD2-611C-4258-A056-F673FBCE9806}
+        {0EB35AF8-E383-490D-8548-C0E0992CAEB3}
+        {CFA2337F-897B-4878-B296-785B3B9BD77A}
+        {6A1DACE7-F021-4619-82E4-427F40FAF46D}
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T115745Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7a7d16f5-9b1f-4f07-b3c1-5c82f815a5cd"
+      Hint: benefitList
+      Type: TreelistEx
+      Value: |
+        {F2E3D3B1-A3C2-4356-8115-A4EB1C1449EC}
+        {49DF1792-AB04-49BB-85C0-41A8E2F0CF64}
+        {10D9FBD2-611C-4258-A056-F673FBCE9806}
+        {0EB35AF8-E383-490D-8548-C0E0992CAEB3}
+        {CFA2337F-897B-4878-B296-785B3B9BD77A}
+        {6A1DACE7-F021-4619-82E4-427F40FAF46D}

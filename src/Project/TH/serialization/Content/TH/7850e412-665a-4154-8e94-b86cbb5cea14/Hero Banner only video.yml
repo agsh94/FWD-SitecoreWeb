@@ -1,0 +1,47 @@
+﻿---
+ID: "aaeb5844-6be6-410e-a4b4-5ad21f88f18f"
+Parent: "7850e412-665a-4154-8e94-b86cbb5cea14"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/HeroBannerKS/local-folder/Hero Banner only video"
+DB: master
+SharedFields:
+- ID: "b77299ed-f266-4dc3-94b1-455764394788"
+  Hint: share
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: Hero Banner Only Video
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200716T034516Z
+    - ID: "2d067f06-5100-49e0-83d8-64858a7c9b50"
+      Hint: videoLink
+      Value: |
+        <file mediapath="/FWD/Global/videos/hero-banner-3-1" mediaid="{A11FC799-3EE1-4B0E-9121-047C0B986997}" src="-/media/a11fc7993ee14b0e9121047c0b986997.ashx" />
+    - ID: "3210034d-ff83-4f4f-a52d-10e41d1ce985"
+      Hint: label
+      Value: Hello
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{CB745483-13CB-4469-9FE2-FE4AC7037845}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: 
+    - ID: "f820a898-a94f-44f7-8066-b0d5f3ed4be3"
+      Hint: enableHeading
+      Type: Checkbox
+      Value: 0

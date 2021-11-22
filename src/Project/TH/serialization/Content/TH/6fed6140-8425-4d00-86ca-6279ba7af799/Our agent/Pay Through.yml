@@ -1,0 +1,69 @@
+﻿---
+ID: "1d7629fc-d41d-4b96-aff6-9df72559c15f"
+Parent: "71bbcb70-32ea-4366-84ec-75fdc0b08d0a"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/premium-payment/local-folder/premium-payment/DropdownItem/Our agent/Pay Through"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191224T132318Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>Pay through your agent or via one of <a href="~/link.aspx?_id=AAD279292ECF455F9D177FBE1554B510&amp;_z=z/?facilityType=Agent%20Offices">our agent offices</a>&nbsp;nationwide.</p><br />
+        <p>Note: Please collect a temporary receipt from your agent so that you can file it away as proof of payment. An official receipt will be mailed to you in 10 days once the payment is successfully made.</p>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T084900Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ชำระค่าเบี้ยประกันผ่านตัวแทน หรือสำนักงาน<a href="~/link.aspx?_id=AAD279292ECF455F9D177FBE1554B510&amp;_z=z/?facilityType=สำนักงานตัวแทน">ตัวแทนประกันชีวิต</a>ทั่วประเทศ</p><br />
+        <p>( หมายเหตุ : โปรดเรียกใบรับเงินชั่วคราวจากพนักงานเพื่อเก็บไว้เป็นหลักฐานทุกครั้ง ซึ่งใบเสร็จรับเงินเบี้ยประกันภัยจะจัดส่งให้ทางไปรษณีย์ภายใน 10 วัน หลังจากวันที่ทำการชำระเงินสำเร็จ )</p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200713T161117Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ชำระค่าเบี้ยประกันผ่านตัวแทน หรือสำนักงาน<a href="~/link.aspx?_id=AAD279292ECF455F9D177FBE1554B510&amp;_z=z/?facilityType=สำนักงานตัวแทน">ตัวแทนประกันชีวิต</a>ทั่วประเทศ</p><br />
+        <p>(หมายเหตุ : โปรดเรียกใบรับเงินชั่วคราวจากพนักงานเพื่อเก็บไว้เป็นหลักฐานทุกครั้ง ซึ่งใบเสร็จรับเงินเบี้ยประกันภัยจะจัดส่งให้ทางไปรษณีย์ภายใน 10 วัน หลังจากวันที่ทำการชำระเงินสำเร็จ)</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200713T161117Z

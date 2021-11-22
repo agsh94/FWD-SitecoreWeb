@@ -1,0 +1,21 @@
+﻿---
+ID: "b1a767c7-2892-400b-959d-50a1b14310cf"
+Parent: "8048a206-0cc3-4298-891e-e5cf6d70e4cf"
+Template: "b35e143d-a4ef-497e-8326-f558715868e4"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Health/cancer-knockout/Package III/AttributeFolder/Additional Benefits"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ce1ad82-1fa2-4aff-bca7-f02e23fa1099"
+      Hint: attributeSectionKey
+      Value: "{4C9D27FD-852D-4137-ACC3-145BE6EBD742}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200614T190449Z

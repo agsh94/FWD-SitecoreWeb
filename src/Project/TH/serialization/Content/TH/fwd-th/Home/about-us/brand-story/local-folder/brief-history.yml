@@ -1,0 +1,45 @@
+﻿---
+ID: "b4402155-b7b3-49b0-a703-725c2d8927e8"
+Parent: "63f9eb92-fe60-4445-b073-174d94729f58"
+Template: "fb4b274e-49cd-43cd-9368-eb43d032e74b"
+Path: "/sitecore/content/fwd/fwd-th/Home/about-us/brand-story/local-folder/brief-history"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-50"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Brief History
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fac526b-719e-4feb-a4f6-a37b56eaf2ec"
+      Hint: title
+      Value: A brief history of FWD 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191120T044159Z
+    - ID: "5322b29b-8722-413e-b3dc-9afba2ff2a4b"
+      Hint: linkItems
+      Value: "{35ADD0AD-27B0-493B-B5E8-5825B45BFA74}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fac526b-719e-4feb-a4f6-a37b56eaf2ec"
+      Hint: title
+      Value: ประวัติเอฟดับบลิวดีโดยย่อ
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T085418Z
+    - ID: "5322b29b-8722-413e-b3dc-9afba2ff2a4b"
+      Hint: linkItems
+      Value: "{35ADD0AD-27B0-493B-B5E8-5825B45BFA74}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

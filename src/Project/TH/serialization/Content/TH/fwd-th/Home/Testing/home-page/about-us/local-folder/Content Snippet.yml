@@ -1,0 +1,49 @@
+﻿---
+ID: "fd80a1dd-adb6-4e67-8140-575a5d76438a"
+Parent: "d8ae49d3-adad-4384-8fe8-2836465dd88f"
+Template: "09db1bd9-ccf9-4a64-b2c9-ac249d6b96c1"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/local-folder/Content Snippet"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{333A9D74-C11E-40A0-AAB0-2DBFCB769530}"
+- ID: "9cb76228-fc26-48b7-bd66-1c6e133b625d"
+  Hint: secondaryLinkButtonMode
+  Value: "{4DD6C176-DFD9-4277-A586-5F24D9DD63BE}"
+- ID: "dab4200c-a87f-4605-b2f7-2544616ece6e"
+  Hint: secondaryLinkButtonIcon
+  Value: "{6D261114-7D46-4549-B764-D5EE87C76263}"
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{9747DDCA-D1B2-4EB9-8873-F0E4A1E9AF52}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200715T145811Z
+    - ID: "3209bac8-b117-488a-9fbf-5c3416c722ba"
+      Hint: image
+      Value: |
+        <image mediaid="{0CBD32C2-4E04-442C-8604-EE790BFD25FC}" />
+    - ID: "5655c435-8b04-4425-8b90-5a0a04e80d83"
+      Hint: description
+      Value: FWD MAX points come easy just by exploring. Spend it on what you love
+    - ID: "6345ec6d-2a0f-4da0-af67-c55a0c94d580"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{0CBD32C2-4E04-442C-8604-EE790BFD25FC}" />
+    - ID: "81f9fb34-885b-42e0-bdd7-b2c1cbd468fb"
+      Hint: title
+      Value: Earn as  you explore
+    - ID: "d0be2ac7-85f9-4ba4-91da-613370dbd6d6"
+      Hint: secondaryLink
+      Value: |
+        <link text="google" linktype="external" url="http://www.google.com" anchor="" title="google" class="google" target="" />
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Facebook" linktype="external" url="http://www.facebook.com" anchor="" title="Facebook" class="Facebook" target="_blank" />

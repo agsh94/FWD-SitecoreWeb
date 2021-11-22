@@ -1,0 +1,39 @@
+﻿---
+ID: "446f28fb-9b81-4cf4-be63-b0718a3da001"
+Parent: "1018a094-9d18-455f-a27d-c057e6f3e3da"
+Template: "69b601a8-8555-4411-8c17-aa91671eec32"
+Path: "/sitecore/content/fwd/fwd-th/Content/Tags/commonTags/contentSubtype/Articles/Wealth"
+DB: master
+SharedFields:
+- ID: "76618df2-6cc1-4295-99c9-c6e2613074e8"
+  Hint: articlePillarPage
+  Value: "{DFF02BE3-0185-434C-84A7-2793CA07FA1B}"
+- ID: "a903eb23-a8d6-4a9a-bd27-4bd363b1fcf0"
+  Hint: searchName
+  Value: Wealth
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: การเงิน การลงทุน
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200311T134259Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "9d9e3d43-8450-414c-8ace-831acaf13893"
+      Hint: image
+      Value: |
+        <image mediaid="{08BB67A2-2B82-41AE-A6F1-3A5B2422E757}" />
+    - ID: "f3e7eced-0a93-4cf0-9d5e-a3de5e8917f3"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{08BB67A2-2B82-41AE-A6F1-3A5B2422E757}" />

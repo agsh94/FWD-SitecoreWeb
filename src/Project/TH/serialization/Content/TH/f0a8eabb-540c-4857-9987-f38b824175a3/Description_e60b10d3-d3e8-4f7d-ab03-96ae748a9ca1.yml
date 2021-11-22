@@ -1,0 +1,23 @@
+﻿---
+ID: "e60b10d3-d3e8-4f7d-ab03-96ae748a9ca1"
+Parent: "f0a8eabb-540c-4857-9987-f38b824175a3"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Sport/fitfir-knockout/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T131733Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>3. High Knees</strong></p>
+        <p>&ldquo;<strong>High Knees</strong>&rdquo; ท่าออกกำลังกายที่เสมือนการวิ่งอยู่กับที่ ซึ่งสามารถช่วยเรื่องรูปร่างได้โดยไม่ต้องง้ออุปกรณ์เสริม เหมาะสำหรับคนที่ไม่มีเวลาไปยิม หรือไม่อยากเสียเงินไปยิมค่ะ ท่าออกกำลังกายดังกล่าวนี้เป็นท่าที่ช่วยบริหารกล้ามเนื้อส่วนขาและยังสามารถช่วยในเรื่องลดน้ำหนักได้ดีทีเดียวค่ะ แถมยังเป็นการอุ่นเครื่องให้ร่างกายของคุณสามารถปรับและควบคุมการเคลื่อนที่และทรงตัวได้อีกด้วย</p>

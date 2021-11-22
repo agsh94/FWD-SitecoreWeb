@@ -1,0 +1,33 @@
+﻿---
+ID: "449034cf-d5e1-426e-90d2-8c807395c6ab"
+Parent: "926e68cf-0abd-4ee6-9b40-1bad77fa274d"
+Template: "ad6870d4-2dd6-40ef-a8fa-941ab32cee43"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/GroupLandingPage/local-folder/Tab List/Employee Benefits/Employee Benefits"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T085134Z
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official</p>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T115847Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span>Employee Benefits</span></p>
+        <p><span>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</span></p>

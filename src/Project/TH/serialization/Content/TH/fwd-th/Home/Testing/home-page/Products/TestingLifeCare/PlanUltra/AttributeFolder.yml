@@ -1,0 +1,18 @@
+﻿---
+ID: "4dac8563-5673-45cf-bb0e-81ece9aa0d1b"
+Parent: "17c280be-1195-4f5f-a2de-51ea4b420e91"
+Template: "8bee9bc5-6dab-4239-9e81-4377e5e0c5b2"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/TestingLifeCare/PlanUltra/AttributeFolder"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200708T142403Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

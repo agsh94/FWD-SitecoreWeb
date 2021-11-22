@@ -1,0 +1,134 @@
+﻿---
+ID: "27469c36-7db6-4c2d-af24-b21c325da2b0"
+Parent: "1b0523ab-6442-4efa-a6ce-4ad723171799"
+Template: "40da990f-39dd-4d66-a9be-849f4ecffd22"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/About Us/brand-story"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Network/16x16/home.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: 
+- ID: "5a8b95c0-14d6-4531-bd75-61b658cbfa25"
+  Hint: contentType
+  Value: "{6F403E21-6155-4307-AAC3-21FC9FD8616F}"
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <event
+        id="{1779CC42-EF7A-4C58-BF19-FA85D30755C9}"
+        name="Newsletter Signup" />
+    </tracking>
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:par="enableMargin&amp;anchorText&amp;backgroundColor&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{C879EB9D-195D-4984-B164-F1DD756158FA}">
+          <p:d />
+        </r>
+        <r
+          uid="{ED53779F-C46E-4AC2-9107-B44D03FB8238}"
+          p:after="r[@uid='{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}']"
+          s:ds="{B367A054-9C2D-4AED-96CB-BBC5D1EB0EA4}"
+          s:id="{5410E093-9B56-4C2F-B411-9FB3702CBC63}"
+          s:par="HeroBannerVariant=%7B0B1166D9-2C27-4392-B0FB-C3E5F2C18380%7D&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{3E637519-1F0A-414C-8A95-4BFC7B7CE18E}"
+          p:after="r[@uid='{ED53779F-C46E-4AC2-9107-B44D03FB8238}']"
+          s:ds=""
+          s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+          s:par="numberOfColumns=%7B63A7FCF5-15A7-41A5-86EA-A3010A9D12AA%7D&amp;backgroundColor&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{D2F606AF-11B6-4497-85E9-16B3EBEE4EE3}"
+          p:after="r[@uid='{3E637519-1F0A-414C-8A95-4BFC7B7CE18E}']"
+          s:ds="{4A53132B-F9E6-4094-B73C-E261127B789A}"
+          s:id="{944672DC-5710-4002-99CE-CBD9866B1199}"
+          s:par="variant=%7B92AFFA84-150D-471E-82AF-26F3438EAD8D%7D&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="/jss-main/jss-col-2-{3E637519-1F0A-414C-8A95-4BFC7B7CE18E}-0" />
+        <r
+          uid="{DA94DEFC-F49F-42AD-ADEF-0F18CA8C93EA}"
+          p:after="r[@uid='{D2F606AF-11B6-4497-85E9-16B3EBEE4EE3}']"
+          s:ds="{BE72A202-39B2-4DE3-81E3-E97AF2A4D287}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType=%7BE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7D&amp;IsMerge&amp;contentBlockVariant=%7BB8818C35-0526-4FB3-8E2B-7F5CFD14E141%7D&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="/jss-main/jss-col-1-{3E637519-1F0A-414C-8A95-4BFC7B7CE18E}-0" />
+        <r
+          uid="{4466984E-75E3-4EB5-ADF8-A70C24B16EA6}"
+          p:after="r[@uid='{DA94DEFC-F49F-42AD-ADEF-0F18CA8C93EA}']"
+          s:ds="{6CAC7F42-2D77-41A5-8E83-9F47DF1BB3A6}"
+          s:id="{99058BA1-3352-484E-9DB8-28A8C93F33BB}"
+          s:par="anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider&amp;noOfCardsInDesktop=4"
+          s:ph="jss-main" />
+        <r
+          uid="{E2C16891-5117-4C04-98DF-18EE2F3C14A2}"
+          p:after="r[@uid='{4466984E-75E3-4EB5-ADF8-A70C24B16EA6}']"
+          s:ds="{BF865CA7-8E22-43F1-BE5D-656E98DE56F7}"
+          s:id="{60340C38-97EB-4326-9E32-929C6CDB01D1}"
+          s:par="cardVariant=%7B21D6E3B0-DAD4-4DE5-A1CE-843A3DCCD6A8%7D&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{5D143D34-DEC8-43B8-9312-83AFBA154B87}"
+          p:after="r[@uid='{E2C16891-5117-4C04-98DF-18EE2F3C14A2}']"
+          s:ds="{AEAD3B8F-2CCE-439C-91DB-39887C9C243E}"
+          s:id="{B069604B-DC8A-4214-8C3E-4F26F56DEDE9}"
+          s:par="anchorText&amp;backgroundColor=%7BB53112CA-514C-4106-818C-D3A57672F620%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{2476A374-8836-45FE-AF59-3CD0AE06BE82}"
+          s:ds="{944FA993-26D5-4FC5-A310-8049823C2F8D}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;contentBlockVariant=%7BB8818C35-0526-4FB3-8E2B-7F5CFD14E141%7D&amp;anchorText&amp;backgroundColor=%7BB47928D6-98FC-4B29-8D0F-586AB477286E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{57AD34E9-D9E1-4B92-A392-E0A41486C935}">
+          <p:d />
+        </r>
+        <r
+          uid="{D6134FB5-960B-4784-8AE2-7231655F27DC}"
+          p:after="*[1=2]"
+          s:par="anchorText&amp;backgroundColor=%7BF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: FWD STORY
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180831T074501Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: FWD is a different kind of insurance company. Inspired by our vision to change the way people feel about insurance. 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Our story so far

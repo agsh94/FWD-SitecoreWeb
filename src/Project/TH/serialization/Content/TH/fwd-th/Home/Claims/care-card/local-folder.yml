@@ -1,0 +1,41 @@
+﻿---
+ID: "334d56d5-9720-4f61-afc4-d5db2020317f"
+Parent: "f2fe3494-85fa-4d1f-8429-e75e14968f75"
+Template: "fff5f245-ffc0-4022-a998-9b07aa5e761f"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/care-card/local-folder"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {7D6BB8C2-D538-441D-82BF-D6AEC40B5929}
+    {B4C08E6E-4910-4CF1-8357-5135729AFAFB}
+    {51555475-5028-4B05-9B45-53BE53615704}
+    {83A147F2-89BA-4A48-8222-4B73FFE65216}
+    {14CF212D-7CF4-41AA-B50B-24D748A87556}
+    {FA86F689-9071-4D22-83DF-C3FC48EDDA47}
+    {EE2C800F-5808-4E93-B521-517495E4A1E6}
+    {128C8D06-48C1-46ED-B80E-904CC3DE68E0}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8206B7EE-52E7-4EE5-B72E-68E31C543C84}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200518T110811Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200518T120225Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

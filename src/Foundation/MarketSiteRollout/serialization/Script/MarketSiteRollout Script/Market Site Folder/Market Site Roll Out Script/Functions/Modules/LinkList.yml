@@ -1,0 +1,124 @@
+﻿---
+ID: "7a9787c1-4f0d-4c8d-936f-a816669d6743"
+Parent: "38a8fcc4-140e-40b2-bb61-f830003c6c80"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Functions/Modules/LinkList
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    param(
+    $params
+    )
+    
+    Import-Function Global-Functions
+    		
+    	if($params.Item){
+    	Write-Log "Inside Link List"
+    		$newPath = $params.Item.ItemPath + '/Components'
+    		Write-Log $newPath
+    		$newItem = Get-Item -Path $newPath
+    		$linkListItem = New-Item -Parent $newItem -Name "linkList" -ItemType $params.TemplateID -Language $params.language
+    		$linkListItem.Editing.BeginEdit()
+    		$linkListItem["__Display name"] = "Link List"
+    		$linkListItem.Editing.EndEdit()
+    		
+    		$modules = Get-ItemInsertOptions $linkListItem
+    		$modulesSortedByKey = Get-OrderedDictionaryByKey $modules
+    		
+    		if ($modulesSortedByKey.Count -gt 0) {
+    		
+    		$linkListFolder = New-Item -Parent $linkListItem -Name "section-content" -ItemType $modulesSortedByKey.'Link List Folder' -Language $params.language
+    		$linkListFolder.Editing.BeginEdit()
+    		$linkListFolder["__Display name"] = "Section Content"
+    		$linkListFolder.Editing.EndEdit()
+    		
+    		$linkListFoldermodules = Get-ItemInsertOptions $linkListFolder
+    		$linkListFoldermodulesSortedByKey = Get-OrderedDictionaryByKey $linkListFoldermodules
+    		if ($linkListFoldermodulesSortedByKey.Count -gt 0) {
+    		$linkList1 = New-Item -Parent $linkListFolder -Name "product-link" -ItemType $linkListFoldermodulesSortedByKey.'Link' -Language $params.language
+    		$linkList1.Editing.BeginEdit()
+    		$linkList1["__Display name"] = "Product-link"
+    		[Sitecore.Data.Fields.LinkField]$field = $linkList1.Fields["link"]
+    		$field.LinkType = "modelpopup"
+    		$field.Text = "Pacific century group"
+    		$field.Url = $Item.ItemPath + '/Components/section-content/product-link3'
+    		$linkList1.Fields["buttonIcon"].Value = "{6816B289-E488-4764-913D-41EC0310B5ED}"
+    		$linkList1.Editing.EndEdit()
+    		
+    		$linkList2 = New-Item -Parent $linkListFolder -Name "product-link-2" -ItemType $linkListFoldermodulesSortedByKey.'Link' -Language $params.language
+    		$linkList2.Editing.BeginEdit()
+    		$linkList2["__Display name"] = "Product-link-2"
+    		[Sitecore.Data.Fields.LinkField]$field = $linkList2.Fields["link"]
+    		$field.LinkType = "modelpopup"
+    		$field.Text = "Strong financial position"
+    		$field.Url = $Item.ItemPath + '/Components/section-content/product-link2'
+    		$linkList2.Fields["buttonIcon"].Value = "{6816B289-E488-4764-913D-41EC0310B5ED}"
+    		$linkList2.Editing.EndEdit()
+    		}
+    		
+    		$linkListFolder = New-Item -Parent $linkListItem -Name "Support Links" -ItemType $modulesSortedByKey.'Link List Folder' -Language $params.language
+    		
+    		$linkListFoldermodules = Get-ItemInsertOptions $linkListFolder
+    		$linkListFoldermodulesSortedByKey = Get-OrderedDictionaryByKey $linkListFoldermodules
+    		if ($linkListFoldermodulesSortedByKey.Count -gt 0) {
+    		$linkList1 = New-Item -Parent $linkListFolder -Name "Forms" -ItemType $linkListFoldermodulesSortedByKey.'Link' -Language $params.language
+    		$linkList1.Editing.BeginEdit()
+    		[Sitecore.Data.Fields.LinkField]$field = $linkList1.Fields["link"]
+    		$field.LinkType = "internal"
+    		$field.Text = "Forms"
+    		$field.Url = $Item.ItemPath + '/Home'
+    		$linkList1.Fields["buttonIcon"].Value = "{BD23EE54-ED1C-4202-A7DB-EBCBDFE0EA68}"
+    		$linkList1.Editing.EndEdit()
+    		
+    		$linkList2 = New-Item -Parent $linkListFolder -Name "list-of-licensed-sellers" -ItemType $linkListFoldermodulesSortedByKey.'Link' -Language $params.language
+    		$linkList2.Editing.BeginEdit()
+    		$linkList2["__Display name"] = "List of licensed sellers"
+    		[Sitecore.Data.Fields.LinkField]$field = $linkList2.Fields["link"]
+    		$field.LinkType = "media"
+    		$field.Text = "List of licensed sellers"
+    		$field.Url = "/FWD/Global/documents1/Q3 fact sheet"
+    		$linkList2.Fields["buttonIcon"].Value = "{BD23EE54-ED1C-4202-A7DB-EBCBDFE0EA68}"
+    		$linkList2.Editing.EndEdit()
+    		}
+    		
+    		
+    		$linkListFolder = New-Item -Parent $linkListItem -Name "useful-links" -ItemType $modulesSortedByKey.'Link List Folder' -Language $params.language
+    		$linkListFolder.Editing.BeginEdit()
+    		$linkListFolder["__Display name"] = "Useful Links"
+    		$linkListFolder.Editing.EndEdit()
+    		
+    		$linkListFoldermodules = Get-ItemInsertOptions $linkListFolder
+    		$linkListFoldermodulesSortedByKey = Get-OrderedDictionaryByKey $linkListFoldermodules
+    		if ($linkListFoldermodulesSortedByKey.Count -gt 0) {
+    		$linkList1 = New-Item -Parent $linkListFolder -Name "careers-at-fwd" -ItemType $linkListFoldermodulesSortedByKey.'Link' -Language $params.language
+    		$linkList1.Editing.BeginEdit()
+    		$linkList1["__Display name"] = "Careers at FWD"
+    		[Sitecore.Data.Fields.LinkField]$field = $linkList1.Fields["link"]
+    		$field.LinkType = "internal"
+    		$field.Text = "Careers at FWD"
+    		$field.Url = $Item.ItemPath + '/Home/press-releases'
+    		$linkList1.Fields["buttonIcon"].Value = "{5068E94F-A8F8-4A5A-BD88-A77A00E7EA31}"
+    		$linkList1.Editing.EndEdit()
+    		
+    		$linkList2 = New-Item -Parent $linkListFolder -Name "corporate-governance" -ItemType $linkListFoldermodulesSortedByKey.'Link' -Language $params.language
+    		$linkList2.Editing.BeginEdit()
+    		$linkList2["__Display name"] = "Corporate Governance"
+    		[Sitecore.Data.Fields.LinkField]$field = $linkList2.Fields["link"]
+    		$field.LinkType = "internal"
+    		$field.Text = "Corporate governance"
+    		$field.Url = $Item.ItemPath + '/Home/press-releases'
+    		$linkList2.Fields["buttonIcon"].Value = "{05AFF7E5-6911-4799-ADF9-A57518799741}"
+    		$linkList2.Editing.EndEdit()
+    		}
+    		}
+    		}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200522T085350Z

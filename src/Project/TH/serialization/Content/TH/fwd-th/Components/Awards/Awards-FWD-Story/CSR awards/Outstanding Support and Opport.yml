@@ -1,0 +1,85 @@
+﻿---
+ID: "b9c35d25-3191-4de7-b3fd-16b33b1eb24c"
+Parent: "2624633c-ebe4-49af-a6d8-f7e30efc4bbb"
+Template: "b8e624fb-4a85-4ab2-8299-19f7f892f88d"
+Path: "/sitecore/content/fwd/fwd-th/Components/Awards/Awards-FWD-Story/CSR awards/Outstanding Support and Opportunities for the Disabled 2019"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 900
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Outstanding Support 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18e4c61e-ddc9-4f47-8128-95c28fb8f94c"
+      Hint: awardIssuer
+      Value: Ministry of Social Development and Human Security
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191106T060924Z
+    - ID: "6b07856b-04a3-41c2-a0b1-16ee9ee2fa96"
+      Hint: link
+      Value: |
+        <linktype text="" linktype="modelpopup" querystring="" target="" id="{B9C35D25-3191-4DE7-B3FD-16B33B1EB24C}" />
+    - ID: "8cae381e-be17-4417-9493-4c725bc280e8"
+      Hint: awardName
+      Value: Outstanding Support and Opportunities for the Disabled 2019
+    - ID: "b79c264d-04c8-48e6-b86a-9bf6791c965c"
+      Hint: awardYears
+      Value: 2019
+    - ID: "d9e78b47-cb3e-430a-a9c7-8cdd5faf0afe"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{D3504F1D-F6AA-42BD-A28A-A444752BC213}" />
+    - ID: "f1388e2b-43cd-45e1-be9e-121de811b942"
+      Hint: image
+      Value: |
+        <image mediaid="{D3504F1D-F6AA-42BD-A28A-A444752BC213}" />
+    - ID: "fca2a643-23a6-4dc0-a6a1-3db59ca4e554"
+      Hint: awardCategory
+      Value: 
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Outstanding Support and Opportunities for the Disabled 2019
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18e4c61e-ddc9-4f47-8128-95c28fb8f94c"
+      Hint: awardIssuer
+      Value: กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T065146Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "6b07856b-04a3-41c2-a0b1-16ee9ee2fa96"
+      Hint: link
+      Value: |
+        <linktype text="" linktype="modelpopup" querystring="" target="" id="{9C1EB0CD-E22A-4030-BE44-E90C024F97DE}" />
+    - ID: "8cae381e-be17-4417-9493-4c725bc280e8"
+      Hint: awardName
+      Value: รางวัลองค์กรที่สนับสนุนงานด้านคนพิการดีเด่น ประจำปี 2562
+    - ID: "b79c264d-04c8-48e6-b86a-9bf6791c965c"
+      Hint: awardYears
+      Value: 2562
+    - ID: "d9e78b47-cb3e-430a-a9c7-8cdd5faf0afe"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{D3504F1D-F6AA-42BD-A28A-A444752BC213}" />
+    - ID: "f1388e2b-43cd-45e1-be9e-121de811b942"
+      Hint: image
+      Value: |
+        <image mediaid="{D3504F1D-F6AA-42BD-A28A-A444752BC213}" />
+    - ID: "fca2a643-23a6-4dc0-a6a1-3db59ca4e554"
+      Hint: awardCategory
+      Value: 

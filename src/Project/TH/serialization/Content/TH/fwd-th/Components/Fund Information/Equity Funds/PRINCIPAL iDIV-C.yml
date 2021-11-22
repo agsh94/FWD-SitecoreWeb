@@ -1,0 +1,61 @@
+﻿---
+ID: "0d55a701-1ead-441b-8716-80981856c030"
+Parent: "c98baa6e-2e92-4f2f-8d78-d9215419d3ef"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/Fund Information/Equity Funds/PRINCIPAL iDIV-C"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T040224Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "Principal Equity Dividend Income Fund C (PRINCIPAL iDIV-C)"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.principal.th/principal/iDIV-C'>Fund page</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_PRINCIPAL_iDIV_FFS.pdf'>Fund information summary</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_PRINCIPAL_iDIV_Prospectus_Full.pdf'>Prospectus</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_PRINCIPAL_iDIV_Prospectus_Mini.pdf'>Fact sheet</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_iDIV_Semi_Report.pdf'>Semi annual report</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_Annual_Report_iDIV.pdf '>Annual report</a></li>
+        </ul>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T040305Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "กองทุนเปิดพรินซิเพิล อิควิตี้ ดิวิเดนด์ อินคัม-ชนิดผู้ลงทุนกลุ่ม (PRINCIPAL iDIV-C)"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.principal.th/principal/iDIV-C'>หน้าหลักกองทุน</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_PRINCIPAL_iDIV_FFS.pdf'>สาระสำคัญ ของกองทุน</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_PRINCIPAL_iDIV_Prospectus_Full.pdf'>หนังสือชี้ชวน</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_PRINCIPAL_iDIV_Prospectus_Mini.pdf'>หนังสือชี้ชวนส่วนสรุป</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_iDIV_Semi_Report.pdf'>รายงาน 6 เดือน</a></li>
+        <li><a target='_blank' href='https://www.principal.th/sites/default/files/fund-documents/Thailand%20Site/th_Annual_Report_iDIV.pdf'>รายงานประจำปี</a></li>
+        </ul>

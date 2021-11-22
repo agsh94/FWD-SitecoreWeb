@@ -1,0 +1,35 @@
+﻿---
+ID: "92d8332d-39b3-461b-9e68-e911fb6156e4"
+Parent: "d7a38098-3f6a-4ff6-93d6-29a0daa271d5"
+Template: "91c0f7fd-e185-4652-9ca5-ff0982a40801"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/local-folder/Benefits"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 550
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T063046Z
+    - ID: "78233103-3316-4484-ada7-77b1e45e8351"
+      Hint: title
+      Value: Benefits
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T115847Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "78233103-3316-4484-ada7-77b1e45e8351"
+      Hint: title
+      Value: ผลประโยชน์ที่จะได้รับ

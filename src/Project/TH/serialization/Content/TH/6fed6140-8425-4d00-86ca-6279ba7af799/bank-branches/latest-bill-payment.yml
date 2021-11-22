@@ -1,0 +1,97 @@
+﻿---
+ID: "ee5042d9-c4ea-4d47-b257-31ae8fce7a27"
+Parent: "b6618319-77af-46b3-b0e0-23d0d9237ca9"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/premium-payment/local-folder/premium-payment/DropdownItem/bank-branches/latest-bill-payment"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Latest Bill Payment
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200107T091413Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>You can pay using online banking, via your bank's counter service, or even using the ATM.</p>
+        <br />
+        <p>Please show your latest "Bill Payment" statement or FWD Care Card and notify the bank staff of your premium amount when paying your premium at:</p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200918T084151Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span style="color: black;"><strong>For policies bought <span>through</span>&nbsp;an FWD sales agent or any other FWD channel</strong></span></p>
+        <p><span style="background-color: #ffffff; color: #333333;">Please show your latest "Bill Payment" statement or FWD Care Card and notify the bank staff of your premium amount when paying your premium at:</span></p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200918T084151Z
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Latest Bill Payment
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T084846Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>คุณสามารถชำระเงินโดยใช้บริการออนไลน์แบงค์กิ้ง ผ่านเคาน์เตอร์ธนาคาร หรือชำระผ่านตู้เอทีเอ็ม</p><br />
+        <p>กรุณานำใบแจ้งถึงกำหนดชำระเบี้ยประกันภัยหรือบัตรเอฟดับบลิวดี แคร์การ์ด ติดต่อชำระเบี้ยประกันได้ที่เคาน์เตอร์ธนาคารพร้อมแจ้งจำนวนเงินค่าเบี้ยประกันที่จะชำระแก่เจ้าหน้าที่ธนาคาร โดยสามารถชำระได้ที่เคาน์เตอร์ธนาคารดังต่อไปนี้</p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200918T104419Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>กรมธรรม์ที่ซื้อผ่านตัวแทนของ FWD หรือช่องทางอื่นๆ</strong></p>
+        <p>กรุณานำใบแจ้งถึงกำหนดชำระเบี้ยประกันภัยหรือบัตรเอฟดับบลิวดี แคร์การ์ด ติดต่อชำระเบี้ยประกันได้ที่เคาน์เตอร์ธนาคารพร้อมแจ้งจำนวนเงินค่าเบี้ยประกันที่จะชำระแก่เจ้าหน้าที่ธนาคาร โดยสามารถชำระได้ที่เคาน์เตอร์ธนาคารดังต่อไปนี้</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200918T104419Z

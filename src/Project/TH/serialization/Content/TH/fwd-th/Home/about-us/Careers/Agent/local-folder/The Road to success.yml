@@ -1,0 +1,45 @@
+﻿---
+ID: "c37e453c-d5d8-4c6b-8b3f-affa64fca75d"
+Parent: "cabcc0b1-399c-4999-90c0-9e3d55140cda"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/about-us/Careers/Agent/local-folder/The Road to success"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T065451Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "At FWD we don’t do things the old way - which is why our customer base is growing, and so is our team of agents."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: There are many reasons people join us
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T080452Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: ที่เอฟดับบลิวดี เรามุ่งเน้นการทำงานที่แตกต่าง นั่นเป็นเหตุผลว่าทำไมฐานลูกค้าของเราจึงเติบโตขึ้นอย่างต่อเนื่อง และส่วนหนึ่งนั้นก็เป็นเพราะทีมงานฝ่ายขายที่มีคุณภาพของเรา
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: หลากหลายเหตุผลดีๆ ที่ควรร่วมเป็นส่วนหนึ่งกับทีมตัวแทนของเรา

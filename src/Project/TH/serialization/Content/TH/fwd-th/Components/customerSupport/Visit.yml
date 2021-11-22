@@ -1,0 +1,29 @@
+﻿---
+ID: "c4118b5c-975e-4c13-a9e8-71283e66dbfe"
+Parent: "04c23a60-2319-4e71-906e-5d3937b11df8"
+Template: "9ed10fef-c828-4082-a2bb-d6ce20c011ff"
+Path: "/sitecore/content/fwd/fwd-th/Components/customerSupport/Visit"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: General
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191008T163950Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T065154Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

@@ -1,0 +1,26 @@
+﻿---
+ID: "8f2b3dd5-1d32-44ec-be61-4f15a2cf0fdc"
+Parent: "32ca18d9-61ed-4b43-8940-bfebf7bdbae0"
+Template: "bd32cea7-ca24-4412-9263-f32b833a01cc"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Fund/disclaimerList/sharedDisclaimers/Plus
+DB: master
+SharedFields:
+- ID: "89b100a5-7ac7-4a63-805e-62da69898fc1"
+  Hint: code
+  Value: +
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T100010Z
+    - ID: "e59f19b7-37da-4692-90c5-c51a7a326263"
+      Hint: description
+      Value: |
+        This investment choice was closed for new allocation of units application from new investors on 1 August 2014. However, the rights and obligations of the existing holders of this investment choice are unaffected by such closure.
+        

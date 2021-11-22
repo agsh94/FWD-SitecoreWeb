@@ -1,0 +1,6 @@
+@using Sitecore.ExperienceForms.Mvc.Html
+@model FWD.Foundation.Forms.CustomMultipleLineTextViewModel
+
+<label for="@Html.IdFor(m => Model.Value)" class="@Model.LabelCssClass" general-error = "@Model.GeneralError" specific-error = "@Model.SpecificError" api-name = "@Model.APIName" help-text="@Model.HelpText">@Html.DisplayTextFor(t => Model.Title)</label>
+<textarea id="@Html.IdFor(m => Model.Value)" name="@Html.NameFor(m => Model.Value)" class="@Model.CssClass" rows="@Model.Rows" @if (Model.MaxLength > 0) { <text> maxlength="@Model.MaxLength" </text> } placeholder="@Model.PlaceholderText" data-sc-tracking="@Model.IsTrackingEnabled" data-sc-field-name="@Model.Name" data-sc-field-key="@Model.ConditionSettings.FieldKey" @Html.GenerateUnobtrusiveValidationAttributes(m => m.Value)>@Model.Value</textarea>
+@Html.ValidationMessageFor(m => Model.Value)

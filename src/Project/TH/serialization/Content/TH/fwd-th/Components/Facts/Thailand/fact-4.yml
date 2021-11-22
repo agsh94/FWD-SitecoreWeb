@@ -1,0 +1,45 @@
+﻿---
+ID: "6a4dc553-dcc2-4311-a96c-9fcef9a2dc8c"
+Parent: "9f5b4ed8-6538-4afc-a0d5-1c44cdb023a7"
+Template: "18bbdcee-26b1-4a6b-a98d-29a8338e8a30"
+Path: "/sitecore/content/fwd/fwd-th/Components/Facts/Thailand/fact-4"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: agents
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0630e171-ee6f-460c-87dd-9c455471dbed"
+      Hint: subTitle
+      Value: agents
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T103916Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "fee74513-a347-4e70-b9aa-f96d24908f4a"
+      Hint: title
+      Value: 6,000
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0630e171-ee6f-460c-87dd-9c455471dbed"
+      Hint: subTitle
+      Value: สำนักงานตัวแทน
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200311T061843Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "fee74513-a347-4e70-b9aa-f96d24908f4a"
+      Hint: title
+      Value: 6,000

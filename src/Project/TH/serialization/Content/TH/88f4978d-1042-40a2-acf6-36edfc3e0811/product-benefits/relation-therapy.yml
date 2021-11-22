@@ -1,0 +1,69 @@
+﻿---
+ID: "3e8c9309-b869-4759-ada5-efca31635493"
+Parent: "650cbf5d-b5ac-4276-8429-1b28bc1f71f7"
+Template: "b7896f65-9c57-4ff4-95ac-edb35665badf"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/Health/ValueProtector/local-folder/product-benefits/relation-therapy"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 25
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Relation Therapy
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17265e40-8337-4955-a178-099b0454e4f4"
+      Hint: benefitTitle
+      Value: Freedom
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191107T112508Z
+    - ID: "624e4459-604e-46b7-83b2-904dd19e712f"
+      Hint: benefitDescription
+      Value: Low premiums and a choice of premium payment terms of 10 or 20 years.
+    - ID: "a2ad8cea-3a6d-4352-a382-0ec248102786"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{340D0A98-FFFF-4780-A009-5306B8B9FBFC}" />
+    - ID: "ced9fafd-1ec7-4eaa-a83a-02a58bb405f1"
+      Hint: benefitImage
+      Value: |
+        <image mediaid="{340D0A98-FFFF-4780-A009-5306B8B9FBFC}"></image>
+    - ID: "f031ebc2-c599-483c-a66a-b7d705ef46d7"
+      Hint: image
+      Value: |
+        <image mediaid="{340D0A98-FFFF-4780-A009-5306B8B9FBFC}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17265e40-8337-4955-a178-099b0454e4f4"
+      Hint: benefitTitle
+      Value: เสรีภาพ
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T101137Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "624e4459-604e-46b7-83b2-904dd19e712f"
+      Hint: benefitDescription
+      Value: เบี้ยประกันภัยต่ำและทางเลือกของเงื่อนไขการชำระเบี้ยประกันภัย 10 หรือ 20 ปี
+    - ID: "a2ad8cea-3a6d-4352-a382-0ec248102786"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{340D0A98-FFFF-4780-A009-5306B8B9FBFC}" />
+    - ID: "ced9fafd-1ec7-4eaa-a83a-02a58bb405f1"
+      Hint: benefitImage
+      Value: |
+        <image mediaid="{340D0A98-FFFF-4780-A009-5306B8B9FBFC}" />
+    - ID: "f031ebc2-c599-483c-a66a-b7d705ef46d7"
+      Hint: image
+      Value: |
+        <image mediaid="{340D0A98-FFFF-4780-A009-5306B8B9FBFC}" />

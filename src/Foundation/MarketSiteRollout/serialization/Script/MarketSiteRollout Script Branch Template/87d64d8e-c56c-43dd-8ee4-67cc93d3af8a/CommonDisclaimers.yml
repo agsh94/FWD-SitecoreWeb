@@ -1,0 +1,24 @@
+﻿---
+ID: "f071274e-6247-4f54-bcd2-07f9bb642f2d"
+Parent: "87d64d8e-c56c-43dd-8ee4-67cc93d3af8a"
+Template: "680274ad-df8a-4705-b44b-205ae1b8097a"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Fund/disclaimerList/CommonDisclaimers
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Common Disclaimers
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201007T085238Z
+- Language: "zh-HK"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Common Disclaimers
+  Versions:

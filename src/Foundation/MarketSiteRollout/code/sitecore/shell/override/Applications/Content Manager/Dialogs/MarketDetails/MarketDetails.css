@@ -1,0 +1,16 @@
+﻿.languagesPanel .languagesPanelList {
+    margin-top:0;
+}
+.margin-15{
+    margin:15px 0;
+}
+.margin-btm-5 {
+    margin-bottom: 5px;
+}
+.full-width{
+    display:block;
+}
+.bold {
+    font-weight: 700;
+    font-size: 14px;
+}

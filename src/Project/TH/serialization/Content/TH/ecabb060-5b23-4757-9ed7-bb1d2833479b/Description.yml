@@ -1,0 +1,85 @@
+﻿---
+ID: "e7a8b769-e794-4fb8-913c-a975d6efaf4f"
+Parent: "ecabb060-5b23-4757-9ed7-bb1d2833479b"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/good-health-can-be-strong-for-long-time/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200722T043220Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <p>ภาพฝันที่วาดเอาไว้เมื่อวันที่เริ่มสร้างครอบครัว กับการที่จะได้มีโอกาสเห็นลูกๆ เติบโตอยากมีคุณภาพ พร้อมกับการยังได้อยู่กับคนที่รักไปนานๆ ยิ่งตอนนี้อะไรก็ไม่แน่ไม่นอน แต่เชื่อได้ว่าการที่จะมีชีวิตที่ยืนยาวนั้นสิ่งที่สำคัญที่สุดคือ &ldquo;สุขภาพ&rdquo; พบกับการดูแลร่างกายให้ยังแข็งแรงด้วย แนวคิดที่จะนำพาชีวิตคุณให้เป็นตามที่หวัง มีครบตั้งแต่การกิน การออกกำลังกาย การใช้ชีวิต และแผนสำรองฉุกเฉินหากชีวิตไม่เป็นตามที่ฝัน มาลองฟิตเพื่อครอบครัวกันดูสักครั้งในที่นี่เลย
+        </p>
+        <p>&nbsp;</p>
+        <p>กินให้เป็นเติมเต็มสิ่งมีประโยชน์
+        </p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200723T080246Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <p>ภาพฝันที่วาดเอาไว้เมื่อวันที่เริ่มสร้างครอบครัว กับการที่จะได้มีโอกาสเห็นลูกๆ เติบโตอยากมีคุณภาพ พร้อมกับการยังได้อยู่กับคนที่รักไปนานๆ ยิ่งตอนนี้อะไรก็ไม่แน่ไม่นอน แต่เชื่อได้ว่าการที่จะมีชีวิตที่ยืนยาวนั้นสิ่งที่สำคัญที่สุดคือ &ldquo;สุขภาพ&rdquo; พบกับการดูแลร่างกายให้ยังแข็งแรงด้วย แนวคิดที่จะนำพาชีวิตคุณให้เป็นตามที่หวัง มีครบตั้งแต่การกิน การออกกำลังกาย การใช้ชีวิต และแผนสำรองฉุกเฉินหากชีวิตไม่เป็นตามที่ฝัน มาลองฟิตเพื่อครอบครัวกันดูสักครั้งในที่นี่เลย
+        </p>
+        <p>&nbsp;</p>
+        <p>กินให้เป็นเติมเต็มสิ่งมีประโยชน์
+        </p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200723T080246Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200723T082338Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <p>ภาพฝันที่วาดเอาไว้เมื่อวันที่เริ่มสร้างครอบครัว กับการที่จะได้มีโอกาสเห็นลูกๆ เติบโตอยากมีคุณภาพ พร้อมกับการยังได้อยู่กับคนที่รักไปนานๆ ยิ่งตอนนี้อะไรก็ไม่แน่ไม่นอน แต่เชื่อได้ว่าการที่จะมีชีวิตที่ยืนยาวนั้นสิ่งที่สำคัญที่สุดคือ &ldquo;สุขภาพ&rdquo; พบกับการดูแลร่างกายให้ยังแข็งแรงด้วย แนวคิดที่จะนำพาชีวิตคุณให้เป็นตามที่หวัง มีครบตั้งแต่การกิน การออกกำลังกาย การใช้ชีวิต และแผนสำรองฉุกเฉินหากชีวิตไม่เป็นตามที่ฝัน มาลองฟิตเพื่อครอบครัวกันดูสักครั้งในที่นี่เลย
+        </p>
+        <p>&nbsp;</p>
+        <p>กินให้เป็นเติมเต็มสิ่งมีประโยชน์
+        </p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200723T082338Z

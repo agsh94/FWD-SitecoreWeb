@@ -1,0 +1,25 @@
+﻿---
+ID: "2d6d27cc-cc14-400f-ac60-b30108036dd6"
+Parent: "900588e1-7e6b-433f-835f-5011ba2acb1a"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/thai-dessert/local-folder/ArticleDetails/Description9"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1700
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T012559Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: แต่ถ้าใครไม่อยากสั่งเป็นเซ็ท ทางร้านทองย้อยเค้าก็มีขนมเค้กและเบเกอรี่อีกหลากหลายเมนูให้เลือกสั่ง อาทิ เค้กมะพร้าวลูกตาล, เค้กลูกตาลมันเชื่อม, ชีสเค้กลิ้นจี่, ชีสเค้กฝอยทอง, เค้กรวมมิตรทับทิมกรอบ, ชีสเค้กน้ำผึ้งเลมอน, ชีสเค้กมะม่วงน้ำดอกไม้ ฯลฯ ให้เลือกแบบละลานตาเลยทีเดียว

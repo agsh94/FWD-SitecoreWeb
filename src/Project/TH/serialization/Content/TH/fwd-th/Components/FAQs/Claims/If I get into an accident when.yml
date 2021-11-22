@@ -1,0 +1,108 @@
+﻿---
+ID: "6a5d94f6-3b28-47ec-a397-d61174e721bf"
+Parent: "e2478895-21a1-44b8-9ff9-eaa361c241f8"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Claims/If I get into an accident when Im abroad  will my FWD policy cover me  What should I do"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-100"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T013418Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "If I get into an accident when I’m abroad, will my FWD policy cover me? What should I do?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        Our Personal Accidental policy usually covers accidents even if they happen when you’re abroad or if you need to seek medical treatment overseas.<br />
+        <br />
+        In order to claim, remember to obtain 1) the original receipt from your medical treatment abroad 2) any supporting medical expense documents if your receipt does not detail treatment expenses, and 3) any medical certificate.
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200914T122157Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "If I get into an accident when I’m abroad, will my FWD policy cover me? What should I do?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        Many of our personal accident policies cover accidents even if they happen when you&rsquo;re abroad or if you need to seek medical treatment overseas.&nbsp;
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: black;">Please note however that any translation costs will need to be covered by you, the insured customer</span></p>
+        <br />
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: black;">Before you claim, please obtain&nbsp;</span>1) the original receipt from your medical treatment abroad 2) any supporting medical expense documents if your receipt does not detail treatment expenses, and 3) any medical certificate.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200914T122157Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T013319Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "ถ้าเกิดอุบัติเหตุขึ้นในต่างประเทศ ความคุ้มครองของบริษัทจะครอบคลุมด้วยหรือไม่ และควรทำอย่างไร?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <p>โดยปกติความคุ้มครองกรมธรรม์ประเภทอุบัติเหตุ (PA) จะครอบคลุมทุกประเทศ หากคุณประสบอุบัติเหตุขณะอยู่ต่างประเทศ และต้องเข้ารับการรักษา</p>
+        <p>หากต้องการเคลมให้เก็บหลักฐาน 1) ใบเสร็จรับเงินต้นฉบับจากการเข้ารับการรักษาในต่างประเทศ 2) ใบสรุปรายการค่ารักษาพยาบาล ในกรณีที่ใบเสร็จรับเงินไม่ได้ระบุรายละเอียดรายการรักษาและค่าใช้จ่าย และ 3) ใบรับรองแพทย์</p>
+        
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200914T121837Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "ถ้าเกิดอุบัติเหตุขึ้นในต่างประเทศ ความคุ้มครองของบริษัทจะครอบคลุมด้วยหรือไม่ และควรทำอย่างไร?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <p>โดยปกติความคุ้มครองกรมธรรม์ประเภทอุบัติเหตุ (PA) จะครอบคลุมทุกประเทศ หากคุณประสบอุบัติเหตุขณะอยู่ต่างประเทศ และต้องเข้ารับการรักษา&nbsp;โดยผู้เอาประกันภัยต้องเป็นผู้รับผิดชอบค่าใช้จ่ายการแปลเอกสารเอง</p>
+        <p>หากต้องการเคลมให้เก็บหลักฐาน 1) ใบเสร็จรับเงินต้นฉบับจากการเข้ารับการรักษาในต่างประเทศ 2) ใบสรุปรายการค่ารักษาพยาบาล ในกรณีที่ใบเสร็จรับเงินไม่ได้ระบุรายละเอียดรายการรักษาและค่าใช้จ่าย และ 3) ใบรับรองแพทย์</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200914T121837Z

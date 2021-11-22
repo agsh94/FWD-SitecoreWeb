@@ -1,0 +1,69 @@
+﻿---
+ID: "c68ee7cf-3041-40c1-9eb9-af284a3c7623"
+Parent: "909bf1c3-0d02-4662-8c79-558316a0eadc"
+Template: "24c1d9c4-a2bf-436b-b6bf-7e3e4957488f"
+Path: "/sitecore/content/fwd/fwd-th/Components/terms-and-condition-folder/terms-and-condition"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Terms and Condition
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09325934-6951-45ec-bd07-c7fc996855b3"
+      Hint: description
+      Value: |
+        <ul>
+        <li> Insured age 16 - 65 years old</li>
+        <li> Can choose to pay premiums: monthly, 3 months, 6 months, yearly. </li>
+        <li> underwriting process is in accordance with the conditions of the company. </li>
+        <li> Coverage conditions are as specified by the policy. Please read, study and understand the supporting documents before making a decision. </li>
+        <li> Cancer Knockout is the marketing name of a special product package consisting of the IVP 90/20 life insurance plan and an additional cancer protection contract. </li>
+        <li> Premium Can Knockout Cancer Insurance plan can reduce the tax according to the law. </li>
+        </ul>
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191121T122250Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8a19dcac-8d5b-4e87-b1c9-14ba9ece9248"
+      Hint: subTitle
+      Value: Insurance conditions
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: Terms & conditions
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09325934-6951-45ec-bd07-c7fc996855b3"
+      Hint: description
+      Value: |
+        <ul>
+        <li> Insured age 16 - 65 years old</li>
+        <li> Can choose to pay premiums: monthly, 3 months, 6 months, yearly. </li>
+        <li> underwriting process is in accordance with the conditions of the company. </li>
+        <li> Coverage conditions are as specified by the policy. Please read, study and understand the supporting documents before making a decision. </li>
+        <li> Cancer Knockout is the marketing name of a special product package consisting of the IVP 90/20 life insurance plan and an additional cancer protection contract. </li>
+        <li> Premium Can Knockout Cancer Insurance plan can reduce the tax according to the law. </li>
+        </ul>
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T071520Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8a19dcac-8d5b-4e87-b1c9-14ba9ece9248"
+      Hint: subTitle
+      Value: Insurance conditions
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: Terms & conditions

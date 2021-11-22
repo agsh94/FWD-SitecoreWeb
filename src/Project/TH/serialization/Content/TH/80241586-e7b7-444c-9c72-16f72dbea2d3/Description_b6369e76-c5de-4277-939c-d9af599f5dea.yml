@@ -1,0 +1,25 @@
+﻿---
+ID: "b6369e76-c5de-4277-939c-d9af599f5dea"
+Parent: "80241586-e7b7-444c-9c72-16f72dbea2d3"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/travel-leh-ladakh/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 4800
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T073847Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: "แต่สุดท้ายพระเจ้าก็เข้าข้างคนสวย คนขับรถช่วยจัดการธุระให้เสร็จสรรพ ตกลงไปมาโวยวายโช้งเช้งจนเราสามารถเข้าพักอีกที่นึงได้ โดยไม่ต้องจ่ายอะไรเพิ่มเติม แต่กระนั้นแล้วก็อย่าหวังว่าจะได้นอนทิ้งตัวลงบนเตียงอุ่นๆ นุ่มๆให้คลายเมื่อยจากที่นั่งรถติดๆกันมาหลายชั่วโมง เพราะที่นี่ไม่มีฮีทเตอร์ ไม่มีเครื่องทำน้ำร้อน ไม่มีไฟฟ้า มีแค่ผ้าห่มหนาๆคนละผืน กลางอุณภูมิ -7 องศา แบบหนาวจนน้ำที่วางไว้ในห้อง กลายเป็นน้ำแข็งเอง!"

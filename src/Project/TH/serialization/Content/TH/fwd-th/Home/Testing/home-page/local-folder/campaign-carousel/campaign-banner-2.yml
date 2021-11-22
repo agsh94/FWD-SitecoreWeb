@@ -1,0 +1,95 @@
+﻿---
+ID: "ec53ab62-825f-4681-ad97-fab3fd8c1718"
+Parent: "c9bdee14-dbce-468b-bada-fb3f6fb07742"
+Template: "930d372c-0ff9-4b02-b367-336462b70016"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/local-folder/campaign-carousel/campaign-banner-2"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Campaign Banner 2
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16d5c7ac-2aa5-4337-af09-047f3d646bac"
+      Hint: subTitle
+      Value: Learn the best way to manage your stress,family,life and relationship. Wellness week 2020 is here to help.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200302T122639Z
+    - ID: "29e8a1af-94f7-4aba-974a-a6998771e965"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{018D35C1-921E-4BF3-A8A4-10306CF3804E}" cropx="0.54" cropy="0.45" focusx="0.07602339181286544" focusy="0.09375" />
+    - ID: "5236ae55-22c1-4f65-b178-26b7829d3c9b"
+      Hint: title
+      Value: |
+        <p>Welcome to&nbsp;</p>
+        <p><strong>Wellness week 2020</strong></p>
+    - ID: "98927d2c-e166-4a1f-82db-91bf405efa95"
+      Hint: image
+      Value: |
+        <image mediaid="{018D35C1-921E-4BF3-A8A4-10306CF3804E}" cropx="0.45" cropy="0.72" focusx="-0.09375" focusy="-0.4375" />
+    - ID: "b2b93e56-2a83-4eab-a106-bd033ba2564d"
+      Hint: videoLink
+      Value: |
+        <file mediapath="/FWD/Project/TH/files/fwd-3-1--640" mediaid="{9C7C6ACD-4E03-4EC9-B637-81766751E65C}" src="-/media/9c7c6acd4e034ec9b63781766751e65c.ashx" />
+    - ID: "d03cccc8-4d38-4b17-8042-383b2298af82"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Find out more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{1BDBA477-83A0-43EB-89F5-AF325C1E757C}" />
+    - ID: "fe2ab375-7e5b-4a1a-b188-d2fc5e511b8c"
+      Hint: mobileVideoLink
+      Value: |
+        <file mediapath="/FWD/Project/TH/files/fwd-1-1--480" mediaid="{D83FE3F8-A4D7-491B-8392-BC2DCE20D3C8}" src="-/media/d83fe3f8a4d7491b8392bc2dce20d3c8.ashx" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16d5c7ac-2aa5-4337-af09-047f3d646bac"
+      Hint: subTitle
+      Value: Learn the best way to manage your stress,family,life and relationship. Wellness week 2020 is here to help.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200406T054856Z
+    - ID: "29e8a1af-94f7-4aba-974a-a6998771e965"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{018D35C1-921E-4BF3-A8A4-10306CF3804E}" cropx="0.54" cropy="0.45" focusx="0.07602339181286544" focusy="0.09375" />
+    - ID: "5236ae55-22c1-4f65-b178-26b7829d3c9b"
+      Hint: title
+      Value: |
+        <p>Welcome to&nbsp;</p>
+        <p><strong>Wellness week 2020</strong></p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "98927d2c-e166-4a1f-82db-91bf405efa95"
+      Hint: image
+      Value: |
+        <image mediaid="{018D35C1-921E-4BF3-A8A4-10306CF3804E}" cropx="0.45" cropy="0.72" focusx="-0.09375" focusy="-0.4375" />
+    - ID: "b2b93e56-2a83-4eab-a106-bd033ba2564d"
+      Hint: videoLink
+      Value: |
+        <file mediapath="/FWD/Project/TH/files/fwd-3-1--640" mediaid="{4EFF514A-381C-42B4-8888-CF193B15824D}" src="-/media/4eff514a381c42b48888cf193b15824d.ashx" />
+    - ID: "d03cccc8-4d38-4b17-8042-383b2298af82"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Find out more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{1BDBA477-83A0-43EB-89F5-AF325C1E757C}" />
+    - ID: "fe2ab375-7e5b-4a1a-b188-d2fc5e511b8c"
+      Hint: mobileVideoLink
+      Value: |
+        <file mediapath="/FWD/Project/TH/files/fwd-1-1--480" mediaid="{0BBA8221-31F9-4BEF-8BE0-37CC92E4242D}" src="-/media/0bba822131f94bef8be037cc92e4242d.ashx" />

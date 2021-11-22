@@ -1,0 +1,75 @@
+﻿---
+ID: "0ad4677b-62c5-45a3-b523-7e86e51caa11"
+Parent: "8252b599-f428-4e6e-a22e-90e60f04101b"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/about-us/Careers/local-folder/The FWD difference"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{C6D7226F-73E9-40A0-8AB4-7761A95EEA56}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T061626Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{C6D7226F-73E9-40A0-8AB4-7761A95EEA56}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: At FWD, we set ourselves apart as a challenger brand. We work from the ethos that none of us are as smart as all of us, and that our challenger attitude can blaze a trail.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: The FWD difference 
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Read about the FWD story so far" anchor="" linktype="internal" class="" title="อ่านประวัติความเป็นมา"  querystring="" id="{4143A24B-D530-4EA4-BCE9-D6158FCF4AC4}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{C6D7226F-73E9-40A0-8AB4-7761A95EEA56}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200401T042001Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{C6D7226F-73E9-40A0-8AB4-7761A95EEA56}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: ที่เอฟดับบลิวดี เราตั้งใจเป็นแบรนด์ที่ท้าทาย เราทำงานร่วมกันเป็นทีมภายใต้หลักการที่ว่า ไม่มีใครคนใดคนหนึ่งฉลาดกว่า พวกเราทุกคนรวมกัน และทัศนคติของความเป็นแบรนด์ผู้ท้าชิง ช่วยผลักดันให้เราสร้างสรรค์สิ่งใหม่ที่ไม่เคยมีใครทำมาก่อน
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: เอฟดับบลิวดี องค์กรของคนกล้าต่าง
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="อ่านประวัติความเป็นมา" anchor="" linktype="internal" class="" title="อ่านประวัติความเป็นมา"  querystring="" id="{4143A24B-D530-4EA4-BCE9-D6158FCF4AC4}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"

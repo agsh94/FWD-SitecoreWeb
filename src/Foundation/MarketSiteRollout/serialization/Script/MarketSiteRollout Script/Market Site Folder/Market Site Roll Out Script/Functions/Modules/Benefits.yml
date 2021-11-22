@@ -1,0 +1,114 @@
+﻿---
+ID: "fdbc9395-d86a-4188-a08e-a1d79ed8fbd1"
+Parent: "38a8fcc4-140e-40b2-bb61-f830003c6c80"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Functions/Modules/Benefits
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    param(
+    $params
+    )
+    
+    
+    Import-Function Global-Functions
+    		
+    if($params.Item){
+    	
+    	
+    	
+    		$newPath = $params.Item.ItemPath + '/Components'
+    		$newItem = Get-Item -Path $newPath
+    		$benefitItem = New-Item -Parent $newItem -Name "masterfeaturefolder" -ItemType $params.TemplateID -Language $params.language
+    		$benefitItem.Editing.BeginEdit()
+    		$benefitItem["__Display name"] = "Benefits"
+    		$benefitItem.Editing.EndEdit()
+    		
+    		$modules = Get-ItemInsertOptions $benefitItem
+    		$modulesSortedByKey = Get-OrderedDictionaryByKey $modules
+    		
+    		if ($modulesSortedByKey.Count -gt 0) {
+    		
+    		$BenefitsFolder = New-Item -Parent $benefitItem -Name "product-features" -ItemType $modulesSortedByKey.'Benefits Folder' -Language $params.language
+    		$BenefitsFolder.Editing.BeginEdit()
+    		$BenefitsFolder["__Display name"] = "Product Features"
+    		$BenefitsFolder.Editing.EndEdit()
+    		
+    		$BenefitsFoldermodules = Get-ItemInsertOptions $BenefitsFolder
+    		$BenefitsFoldermodulesSortedByKey = Get-OrderedDictionaryByKey $BenefitsFoldermodules
+    		if ($BenefitsFoldermodulesSortedByKey.Count -gt 0) {
+    		$Benefits1 = New-Item -Parent $BenefitsFolder -Name "full-coverage" -ItemType $BenefitsFoldermodulesSortedByKey.'Product Benefit Item' -Language $params.language
+    		$Benefits1.Editing.BeginEdit()
+    		$Benefits1["__Display name"] = "Full Coverage"
+    		$Benefits1.Fields["benefitTitle"].Value = "Full Coverage"
+    		$Benefits1.Fields["benefitDescription"].Value = "Coverage for every cancer at every stage upto 3 million THB."
+    		$Benefits1.Fields["image"].Value = "{93963D4E-D584-4602-B908-6A7707A86407}"
+    		[Sitecore.Data.Fields.ImageField]$Image = $Benefits1.Fields["image"]
+    		$Image.MediaID = "{93963D4E-D584-4602-B908-6A7707A86407}"
+    		[Sitecore.Data.Fields.ImageField]$mobileImage = $Benefits1.Fields["mobileImage"]
+    		$mobileImage.MediaID = "{93963D4E-D584-4602-B908-6A7707A86407}"
+    		$Benefits1.Fields["benefitTitle"].Value = "{6816B289-E488-4764-913D-41EC0310B5ED}"
+    		$Benefits1.Editing.EndEdit()
+    		
+    		$Benefits2 = New-Item -Parent $BenefitsFolder -Name "full-coverage-2" -ItemType $BenefitsFoldermodulesSortedByKey.'Product Benefit Item' -Language $params.language
+    		$Benefits2.Editing.BeginEdit()
+    		$Benefits2["__Display name"] = "Full Coverage 2"
+    		$Benefits2.Fields["benefitTitle"].Value = "Radiation Therapy"
+    		$Benefits2.Fields["benefitDescription"].Value = "Receive upto 1.2 million THB for radiation therapy."
+    		[Sitecore.Data.Fields.ImageField]$Image = $Benefits2.Fields["image"]
+    		$Image.MediaID = "{93963D4E-D584-4602-B908-6A7707A86407}"
+    		[Sitecore.Data.Fields.ImageField]$mobileImage = $Benefits2.Fields["mobileImage"]
+    		$mobileImage.MediaID = "{93963D4E-D584-4602-B908-6A7707A86407}"
+    		$Benefits2.Fields["benefitTitle"].Value = "{6816B289-E488-4764-913D-41EC0310B5ED}"
+    		$Benefits2.Editing.EndEdit()
+    		}
+    		
+    		$BenefitsFolder = New-Item -Parent $benefitItem -Name "claim-features" -ItemType $modulesSortedByKey.'Benefits Folder' -Language $params.language
+    		$BenefitsFolder.Editing.BeginEdit()
+    		$BenefitsFolder["__Display name"] = "Claim Features"
+    		$BenefitsFolder.Editing.EndEdit()
+    		
+    		$BenefitsFoldermodules = Get-ItemInsertOptions $BenefitsFolder
+    		$BenefitsFoldermodulesSortedByKey = Get-OrderedDictionaryByKey $BenefitsFoldermodules
+    		if ($BenefitsFoldermodulesSortedByKey.Count -gt 0) {
+    		$Benefits1 = New-Item -Parent $BenefitsFolder -Name "full-coverage" -ItemType $BenefitsFoldermodulesSortedByKey.'Product Benefit Item' -Language $params.language
+    		$Benefits1.Editing.BeginEdit()
+    		$Benefits1["__Display name"] = "Full Coverage"
+    		$Benefits1.Fields["benefitTitle"].Value = "Full Coverage"
+    		$Benefits1.Fields["benefitDescription"].Value = "Coverage for every cancer at every stage upto 3 million THB."
+    		[Sitecore.Data.Fields.ImageField]$Image = $Benefits1.Fields["image"]
+    		$Image.MediaID = "{93963D4E-D584-4602-B908-6A7707A86407}"
+    		[Sitecore.Data.Fields.ImageField]$mobileImage = $Benefits1.Fields["mobileImage"]
+    		$mobileImage.MediaID = "{93963D4E-D584-4602-B908-6A7707A86407}"
+    		$Benefits1.Fields["benefitTitle"].Value = "{6816B289-E488-4764-913D-41EC0310B5ED}"
+    		$Benefits1.Editing.EndEdit()
+    		
+    		$Benefits2 = New-Item -Parent $BenefitsFolder -Name "full-coverage-2" -ItemType $BenefitsFoldermodulesSortedByKey.'Product Benefit Item' -Language $params.language
+    		$Benefits2.Editing.BeginEdit()
+    		$Benefits2["__Display name"] = "Full Coverage 2"
+    		$Benefits2.Fields["benefitTitle"].Value = "Radiation Therapy"
+    		$Benefits2.Fields["benefitDescription"].Value = "Receive upto 1.2 million THB for radiation therapy."
+    		[Sitecore.Data.Fields.ImageField]$Image = $Benefits2.Fields["image"]
+    		$Image.MediaID = "{93963D4E-D584-4602-B908-6A7707A86407}"
+    		[Sitecore.Data.Fields.ImageField]$mobileImage = $Benefits2.Fields["mobileImage"]
+    		$mobileImage.MediaID = "{93963D4E-D584-4602-B908-6A7707A86407}"
+    		$Benefits2.Fields["benefitTitle"].Value = "{6816B289-E488-4764-913D-41EC0310B5ED}"
+    		$Benefits2.Editing.EndEdit()
+    		}
+    		}
+    		
+    		}
+    		
+    
+    	
+    	
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200522T113650Z

@@ -1,0 +1,53 @@
+﻿---
+ID: "cbe99e5c-1606-41b8-a065-db97afac63c9"
+Parent: "0c6bc043-4b49-435c-962e-684416487873"
+Template: "e9fe119c-894c-43bd-bfd0-857be1acbe38"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/forms/local-folder/Form List"
+DB: master
+SharedFields:
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{AAE0FCBF-5276-4A3A-8CED-AEAF6994D21B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200708T093017Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Find a form
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See all forms" anchor="" linktype="internal" class="" title=""  querystring="" id="{47EA1F09-A30E-4A41-BC97-E73F574DC735}" />
+    - ID: "f4163e07-1e81-42cd-9b93-cb8fb3aaf4f2"
+      Hint: relatedForms
+      Value: "{1782FAC2-6C45-441B-9FA2-0EB87F0C2B2F}|{37A7A820-D5BA-4486-94F3-D70AB0565F1E}|{6B302F71-6464-4DDD-9C39-B7458FA8DB4A}|{3CCB2965-26C3-4302-8199-6B362732C571}|{CAABD58A-EFB2-43BE-918B-04B5305F9084}|{35AF360F-533E-4C13-9D71-D25D0A9D3C17}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200708T115656Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: ค้นหาจาก
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ดูทั้งหมด" anchor="" linktype="internal" class="" title=""  querystring="" id="{49F0D81D-2E91-44B2-9F6E-3267BABAFA41}" />
+    - ID: "f4163e07-1e81-42cd-9b93-cb8fb3aaf4f2"
+      Hint: relatedForms
+      Value: "{1782FAC2-6C45-441B-9FA2-0EB87F0C2B2F}|{37A7A820-D5BA-4486-94F3-D70AB0565F1E}|{1998FD4E-799B-4922-9557-3C695BF7AB02}|{7CB897CB-0A9E-4CCE-A494-6A802B42A5FB}|{CAABD58A-EFB2-43BE-918B-04B5305F9084}|{35AF360F-533E-4C13-9D71-D25D0A9D3C17}"

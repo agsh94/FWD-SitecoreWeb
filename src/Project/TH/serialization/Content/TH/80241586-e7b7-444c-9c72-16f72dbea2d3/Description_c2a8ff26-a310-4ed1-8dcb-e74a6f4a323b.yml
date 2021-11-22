@@ -1,0 +1,25 @@
+﻿---
+ID: "c2a8ff26-a310-4ed1-8dcb-e74a6f4a323b"
+Parent: "80241586-e7b7-444c-9c72-16f72dbea2d3"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/travel-leh-ladakh/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T085333Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: แต่แน่นอนว่าความงามระดับตัวท็อป เหมือนนางงามตัวเต็งที่ลอยแพเข้ารอบ 6 คนสุดท้ายแบบนี้เนี่ย มันไม่ได้จะได้กันมาง่ายๆ นะ ตามแบบฉบับคนสวย ที่รู้ตัวว่าสวย(แบบเรา) ก็จะต้องเล่นตัวนิดๆ ทำให้เสียวหน่อยๆ ให้ได้ลุ้นไส้บิดไปกับถนนแสนขรุขระ ที่ทั้งแคบ และคดเคี้ยว เลี้ยวทีนึง เหมือนเครื่องในไหลเทไปอยู่อีกฝั่ง

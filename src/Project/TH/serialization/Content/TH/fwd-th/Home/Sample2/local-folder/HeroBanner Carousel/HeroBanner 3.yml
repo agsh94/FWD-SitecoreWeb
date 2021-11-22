@@ -1,0 +1,35 @@
+﻿---
+ID: "d709ef5a-9b13-497d-aba5-8564029048d5"
+Parent: "6a1b525d-10e9-4982-9f1b-e2c963fd6a74"
+Template: "92f8b466-99a5-407e-af15-4c300df52088"
+Path: "/sitecore/content/fwd/fwd-th/Home/Sample2/local-folder/HeroBanner Carousel/HeroBanner 3"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: "FWD-TH-Banner"
+    - ID: "178df5ea-8972-40e0-9c6c-ddb4aeec732c"
+      Hint: subTitle
+      Value: people feel about insurance
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{967BD10A-6DCA-4C1C-8093-EA5C755F9F41}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T092823Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{967BD10A-6DCA-4C1C-8093-EA5C755F9F41}" />
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Learn more" anchor="" linktype="internal" class="" title="Learn more" target="" querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />

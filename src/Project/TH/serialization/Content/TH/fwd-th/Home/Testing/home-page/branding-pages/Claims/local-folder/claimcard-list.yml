@@ -1,0 +1,68 @@
+﻿---
+ID: "1376bd64-b0c9-4ced-8a75-04190ff61aa0"
+Parent: "efead0db-94b2-4b21-9cfe-67f67ce68c40"
+Template: "b01bfe01-3e4a-4331-a9aa-276a36e2db50"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/Claims/local-folder/claimcard-list"
+DB: master
+SharedFields:
+- ID: "eb60dc2b-fa6f-4e35-8f60-db9b02b93189"
+  Hint: claimType
+  Type: Multilist
+  Value: |
+    {B69D6574-F28A-4C35-8B76-CC0DB8099D75}
+    {9F39A5D3-BB90-4389-863E-4596F54970EA}
+    {390404DC-4C70-4662-B09E-5FB89B7B5294}
+    {67F745F2-3A37-4569-B598-0B98CDC6B144}
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ClaimCard List
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04e07962-dfad-4698-bf0f-6755b33d3a58"
+      Hint: subTitle
+      Value: We’ve selected a simple, quick and easy claim process. Select the type of claim to begin
+    - ID: "1900c9c4-2f50-46fb-82c5-91af568003af"
+      Hint: title
+      Value: Let's get started with your claim
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191121T120539Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ce4b9d48-69a5-414a-9479-31602853b6da"
+      Hint: secondaryText
+      Value: "Are you covered under your company's insurance?"
+    - ID: "e8c2a9d2-af0d-49ef-8d42-e8c1babf903b"
+      Hint: secondaryLink
+      Value: |
+        <link text="Go to Group claims" anchor="" linktype="internal" class="" title="Go to Group claims section" target="" querystring="" id="{49F0D81D-2E91-44B2-9F6E-3267BABAFA41}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04e07962-dfad-4698-bf0f-6755b33d3a58"
+      Hint: subTitle
+      Value: เรายอมรับวิธีการชำระเงินต่างๆสำหรับเบี้ยประกันของคุณ มีตัวเลือกการชำระเงินที่แตกต่างกันสำหรับการประกันอุบัติเหตุและประกันชีวิตและประกันที่เชื่อมโยงกับหน่วย
+    - ID: "1900c9c4-2f50-46fb-82c5-91af568003af"
+      Hint: title
+      Value: Lets เรายอมรับวิธีการชำระเงินต่างๆสำหรับเบี้ยประกันของคุณ มีตัวเลือกการชำระเงินที่แตกต่างกันสำหรับการประกันอุบัติเหตุและประกันชีวิตและประกันที่เชื่อมโยงกับหน่วย
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T085852Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "ce4b9d48-69a5-414a-9479-31602853b6da"
+      Hint: secondaryText
+      Value: "Are you covered under your company's insurance?  กันของคุณ มีตัวเลือกการชำ"
+    - ID: "e8c2a9d2-af0d-49ef-8d42-e8c1babf903b"
+      Hint: secondaryLink
+      Value: |
+        <link text="ไปที่การเรียกร้อง" anchor="" linktype="internal" class="" title="Go to Group claims1111 กันของคุณ มีตัวเลือกการชำ" target="" querystring="" id="{49F0D81D-2E91-44B2-9F6E-3267BABAFA41}" />

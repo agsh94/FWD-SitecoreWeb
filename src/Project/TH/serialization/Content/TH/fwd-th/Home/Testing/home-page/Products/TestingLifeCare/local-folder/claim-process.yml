@@ -1,0 +1,46 @@
+﻿---
+ID: "9120c6de-d325-435d-8479-b77827d686f1"
+Parent: "01b429b3-7b00-409b-801a-e5bb3907be93"
+Template: "fa86f689-9071-4d22-83df-c3fc48edda47"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/TestingLifeCare/local-folder/claim-process"
+DB: master
+SharedFields:
+- ID: "53c77327-5720-4867-86c6-e51334baf8c2"
+  Hint: divider
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Claim Process
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "008a05f1-fc86-4d96-935d-97dc46aa18f9"
+      Hint: description
+      Value: Explore K. Mal's life journey to understand how this plan can benefit you and your family.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191213T080650Z
+    - ID: "6a635232-2b2c-43da-8cf4-c0b36981424e"
+      Hint: title
+      Value: "How do the benefits of IVP work?"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "008a05f1-fc86-4d96-935d-97dc46aa18f9"
+      Hint: description
+      Value: Explore K. Mal's life journey to understand how this plan can benefit you and your family.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T101134Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "6a635232-2b2c-43da-8cf4-c0b36981424e"
+      Hint: title
+      Value: "How do the benefits of IVP work?"

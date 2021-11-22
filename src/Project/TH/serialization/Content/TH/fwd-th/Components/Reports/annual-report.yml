@@ -1,0 +1,47 @@
+﻿---
+ID: "da958d96-9313-4551-85e1-2edf2cbb6ba8"
+Parent: "e92d9401-b940-4e0f-aa04-4e36ce9a6ae9"
+Template: "b3d7a260-8fe7-401a-a876-086d50d64fea"
+Path: "/sitecore/content/fwd/fwd-th/Components/Reports/annual-report"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-100"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Annual report
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T095410Z
+    - ID: "55a612d6-3e43-43f2-ad7c-0558a9eb1bb6"
+      Hint: title
+      Value: Annual reports
+    - ID: "5c7600a2-4cd4-4bb0-a7e5-9591ce9d05d3"
+      Hint: isDefault
+      Type: Checkbox
+      Value: 1
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T070014Z
+    - ID: "55a612d6-3e43-43f2-ad7c-0558a9eb1bb6"
+      Hint: title
+      Value: รายงานประจำปี
+    - ID: "5c7600a2-4cd4-4bb0-a7e5-9591ce9d05d3"
+      Hint: isDefault
+      Type: Checkbox
+      Value: 1
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

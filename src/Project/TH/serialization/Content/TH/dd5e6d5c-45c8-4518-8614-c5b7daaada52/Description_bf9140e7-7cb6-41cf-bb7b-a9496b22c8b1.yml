@@ -1,0 +1,29 @@
+﻿---
+ID: "bf9140e7-7cb6-41cf-bb7b-a9496b22c8b1"
+Parent: "dd5e6d5c-45c8-4518-8614-c5b7daaada52"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/buffer-total-scoop/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T005520Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <span style="background: white; color: black;">ที่ตั้ง : 101/1 ซอยท่าข้าม 9/1 ร้านยกทะเล ถนนพระราม 2 เขตบางขุนเทียน กทม.<br />
+        เวลาเปิด : ทุกวัน 17.00 น. - 22.00 น.<br />
+        ราคา : ผู้ใหญ่ 399 บาท เด็กต่ำกว่า 100 ซม. ทานฟรี (ทานได้ 2 ชั่วโมง)<br />
+        เบอร์ติดต่อ : 091 - 5490554</span>

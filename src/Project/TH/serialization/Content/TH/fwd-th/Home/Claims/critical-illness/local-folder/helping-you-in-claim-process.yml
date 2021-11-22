@@ -1,0 +1,85 @@
+﻿---
+ID: "8b9597b2-d1ae-4877-ac86-8ac967a0f338"
+Parent: "b260fe52-4ccc-43f4-a19f-b21cd940741a"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/critical-illness/local-folder/helping-you-in-claim-process"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: How we deal with claims
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200323T123501Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: 
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p>Once your claim is approved, the payment will be made via the method you indicated on your claim form. </p>
+        <p>We aim to pay all claims within 15 days. This is from the date we receive your completed claims submission (including the form and any supporting documents).</p>
+        <ul>
+        <li>Please do bear in mind that occasionally we need more time to make a claims payment. A delay could be for a number of reasons - for example the type of claim, how complex the case is, and whether we have all the information and documents we need.</li><br />
+        <li>If we think we’ll need longer than 15 days, we’ll inform you (or your beneficiary) in writing, and will give you the reason why. Our target will then be to pay the claim within 90 days.</li>
+        </ul>
+        <p>Assuming your claim is successful, if we then fail to make a payment within either 90 days, or any new extended target we commit to, we’ll additionally pay you interest* when we do pay.</p>
+        <p>If for whatever reason you’re not happy, or have any questions, please <a href="tel:1351">get in touch</a>.</p>
+        <p>We hope you won’t need it but for easy reference, our complaints procedure is <a href="-/media/f2cc9225b6534fd997d61d33645642f6.ashx">here</a>.</p>
+        <p>*Interest on payments<br />
+        Any interest rate will be an additional 15% on the amount we owe you, from the first day we go over our extended target until the day we process your claims payment.</p>
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: How we deal with claims at FWD, and what you need to know
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: How we deal with claims 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200510T061824Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p>ในกรณีที่การเรียกร้องสินไหมได้รับการอนุมัติแล้ว บริษัทจะจ่ายเงินค่าสินไหมผ่านช่องทางที่ระบุไว้ในเอกสารคำร้องขอเรียกร้องสินไหม บริษัทจะจ่ายค่าสินไหมทดแทนภายใน 15 วันนับจากวันที่ได้รับเอกสารคำร้องและเอกสารประกอบครบถ้วน</p>
+        <ul>
+        <li>อย่างไรก็ตาม โปรดเข้าใจว่าในบางกรณีอาจต้องใช้เวลามากกว่าปกติและจำเป็นต้องยืดเวลาดำเนินการออกไปอีก เนื่องมาจากเหตุหลายประการ เช่น ประเภทของการเรียกร้องสินไหม ความซับซ้อนในแต่ละกรณี หรือข้อมูลและเอกสารประกอบที่ส่งให้เรามีความครบถ้วนเพียงพอแล้วหรือยัง</li><br />
+        <li>หากต้องใช้เวลาดำเนินการมากกว่า 15 วัน คุณหรือผู้รับประโยชน์จะได้รับหนังสือชี้แจงเหตุผลจากบริษัท โดยเราตั้งเป้าไว้ว่าจะจ่ายค่าสินไหมทดแทนให้คุณภายใน 90 วัน
+        ในกรณีที่การเรียกร้องสินไหมของคุณได้รับการอนุมัติ แต่ยังไม่ได้รับเงินภายใน 90 วันหรือภายในระยะเวลาที่ถูกขยายออกไปซึ่งเราได้แจ้งเวลาไว้ เราจะจ่ายดอกเบี้ยพร้อมค่าสินไหม</li>
+        </ul>
+        <p>ไม่ว่าด้วยเหตุใด หากคุณไม่ได้รับความสะดวกหรือมีปัญหา โปรด<a href="tel:1351">แจ้งให้เราทราบ</a></p>
+        <p>เราหวังว่าคุณจะไม่จำเป็นต้องใช้บริการนี้ แต่หากจำเป็นโปรดรับทราบว่าบริษัทมีขั้นตอนการร้องเรียน<a href="-/media/f2cc9225b6534fd997d61d33645642f6.ashx">ดังนี้</a></p>
+        <p>*การจ่ายดอกเบี้ย<br />
+        ดอกเบี้ยจะคำนวณที่อัตราร้อยละ 15 จากค่าสินไหมที่ค้างชำระ นับจากวันแรกหลังจากวันกำหนดชำระที่ขยายออกไปครบกำหนดแล้ว ไปจนกว่าวันที่ได้ชำระเงินค่าสินไหมแล้วเสร็จ</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: วิธีการที่เราดูแลการเคลมค่าสินไหมที่ FWD และสิ่งที่คุณควรทราบ

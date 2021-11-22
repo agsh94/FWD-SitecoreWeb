@@ -1,0 +1,36 @@
+﻿---
+ID: "219baad9-585a-43ae-9eb6-a91a9056c092"
+Parent: "76bedfeb-4e1c-40c0-8c74-e50a0859e4a1"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/GroupLandingPage/group-claims/local-folder/Content Block 1"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{5D9DBAAD-B9A8-43D6-B621-2965FCFFFB81}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200202T155829Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{5D9DBAAD-B9A8-43D6-B621-2965FCFFFB81}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: Just show your FWD Care card at our network of over 380 hospitals and clinics across the country, and get cashless hospitalization service.&nbsp;
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: See a doctor with no cash advance
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See how it works" anchor="" linktype="internal" class="" title=""  querystring="" id="{69567D54-9813-4873-A169-DDE101852FAE}" />

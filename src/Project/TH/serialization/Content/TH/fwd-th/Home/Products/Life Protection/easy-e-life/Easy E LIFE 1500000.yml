@@ -1,0 +1,195 @@
+﻿---
+ID: "c749fc6c-586e-46f2-8304-9e148d7dd715"
+Parent: "6786b5f5-f80c-42bf-b568-4c749ab3fbd9"
+Template: "cc866566-6b97-4bdc-814e-353b4d5dc8c0"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Life Protection/easy-e-life/Easy E LIFE 1500000"
+DB: master
+SharedFields:
+- ID: "139fac8d-ba0a-462c-a2e2-97b880ecb109"
+  Hint: minimumPremiumYearly
+  Value: 
+- ID: "1d7292b5-07c1-4268-b196-263841c6000a"
+  Hint: key
+  Value: "tool-tip"
+- ID: "3b1d1a2d-0fe8-4b7f-b2b1-eed79c64bb97"
+  Hint: channel
+  Value: "E-Commerce"
+- ID: "53341179-76ac-497a-a4c4-28eb7c6c422e"
+  Hint: enableEnquiry
+  Type: Checkbox
+  Value: 1
+- ID: "54426e36-0a60-4ada-93f3-916e31cf73af"
+  Hint: minimumSumAssured
+  Value: 1500000
+- ID: "653be724-02c5-4bb7-8813-833c6443e1e4"
+  Hint: planCode
+  Value: E47A
+- ID: "6f7f082e-9af5-4b9c-8b4b-36aec3ffe71a"
+  Hint: minimumSumAssuredRule
+  Type: Multilist
+  Value: 
+- ID: "902204f2-df95-45fa-b348-496743f27a4a"
+  Hint: maximumPremiumYearly
+  Value: 
+- ID: "9cb51dc0-7252-4372-8a9e-42fa7de2b4fd"
+  Hint: minAge
+  Value: "20-0-0"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "b78d7fa0-a532-4f1a-90c1-98b0770294d4"
+  Hint: maxAge
+  Value: "55-0-0"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "f41f9cfb-6e45-414e-aa8c-84b1c4148545"
+  Hint: maximumSumAssured
+  Value: 1500000
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Easy E-LIFE 1,500,000"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191111T061821Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: "Easy E-LIFE (1,500,000)"
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=10%20years&{59310316-8B9D-4849-AD89-E788BD74B265}=THB%201%2C500%2C000&{EB470656-78FE-45D7-AA4A-D7D3051565A0}=20%20%E2%80%93%2055%20years&{5003D93E-AD2B-4A75-98A3-720DB202C221}=10%20years&{85EF5EEB-4A59-46D8-9E48-66B9481A92EF}=100%25%20of%20sum%20assured%20&{2C9E759C-72D0-4926-8D77-CC9ED5FBB00B}=10%25%20return%20of%20total%20premium%20paid&{F77203AC-4793-49AE-8550-78AF196A139F}=Yes"
+    - ID: "b92c2dde-7a5d-47d6-a1a5-beb79513d9e8"
+      Hint: share
+      Type: Checkbox
+      Value: 1
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: "Easy E-LIFE (1,500,000)"
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="Buy now" linktype="external" url="https://ifwd.fwd.co.th/easy-e-life/premium-calculator" anchor="" target="_blank" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: Plan
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200828T093541Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: "Easy E-LIFE (1,500,000)"
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=10%20years&{59310316-8B9D-4849-AD89-E788BD74B265}=THB%201%2C500%2C000&{EB470656-78FE-45D7-AA4A-D7D3051565A0}=20%20%E2%80%93%2055%20years&{5003D93E-AD2B-4A75-98A3-720DB202C221}=10%20years&{85EF5EEB-4A59-46D8-9E48-66B9481A92EF}=100%25%20of%20sum%20assured%20&{2C9E759C-72D0-4926-8D77-CC9ED5FBB00B}=10%25%20return%20of%20total%20premium%20paid&{F77203AC-4793-49AE-8550-78AF196A139F}=Yes%2C%20up%20to%20THB%20100%2C000"
+    - ID: "b92c2dde-7a5d-47d6-a1a5-beb79513d9e8"
+      Hint: share
+      Type: Checkbox
+      Value: 1
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200828T093541Z
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: "Easy E-LIFE (1,500,000)"
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="Buy now" linktype="external" url="https://ifwd.fwd.co.th/easy-e-life/premium-calculator" anchor="" target="_blank" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: Plan
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: 
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Easy E-LIFE 1,500,000"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055158Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: "อีซี่ อี-ไลฟ์ (1,500,000)"
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=10%20%E0%B8%9B%E0%B8%B5&{59310316-8B9D-4849-AD89-E788BD74B265}=1.5%20%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%B2%E0%B8%97&{EB470656-78FE-45D7-AA4A-D7D3051565A0}=20%20%E2%80%93%2055%20%E0%B8%9B%E0%B8%B5&{5003D93E-AD2B-4A75-98A3-720DB202C221}=10%20%E0%B8%9B%E0%B8%B5&{85EF5EEB-4A59-46D8-9E48-66B9481A92EF}=100%25%20%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2&{2C9E759C-72D0-4926-8D77-CC9ED5FBB00B}=%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B8%B7%E0%B8%99%2010%25%20%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2&{F77203AC-4793-49AE-8550-78AF196A139F}=%E0%B8%A5%E0%B8%94%E0%B8%AB%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89"
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: "อีซี่ อี-ไลฟ์ (1,500,000)"
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="ซื้อตอนนี้" linktype="external" url="https://ifwd.fwd.co.th/easy-e-life/premium-calculator" anchor="" target="_blank" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: แผนประกัน
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200828T093255Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: "อีซี่ อี-ไลฟ์ (1,500,000)"
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=10%20%E0%B8%9B%E0%B8%B5&{59310316-8B9D-4849-AD89-E788BD74B265}=1.5%20%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%B2%E0%B8%97&{EB470656-78FE-45D7-AA4A-D7D3051565A0}=20%20%E2%80%93%2055%20%E0%B8%9B%E0%B8%B5&{5003D93E-AD2B-4A75-98A3-720DB202C221}=10%20%E0%B8%9B%E0%B8%B5&{85EF5EEB-4A59-46D8-9E48-66B9481A92EF}=100%25%20%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2&{2C9E759C-72D0-4926-8D77-CC9ED5FBB00B}=%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B8%B7%E0%B8%99%2010%25%20%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2&{F77203AC-4793-49AE-8550-78AF196A139F}=%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%20100%2C00%20%E0%B8%9A%E0%B8%B2%E0%B8%97"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200828T093255Z
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: "อีซี่ อี-ไลฟ์ (1,500,000)"
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="ซื้อตอนนี้" linktype="external" url="https://ifwd.fwd.co.th/easy-e-life/premium-calculator" anchor="" target="_blank" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: แผนประกัน
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: 

@@ -1,0 +1,38 @@
+﻿---
+ID: "954c952b-e3e7-42bc-a83c-003d60fc3e8d"
+Parent: "8bccd2b2-3dc3-4f2f-8c20-9aef8812f8c1"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/cold-or-hot-shower/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200928T063540Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>การอาบน้ำเย็น</strong><br />
+        อุณหภูมิปกติของน้ำหรือน้ำที่ค่อนข้างเย็น จะช่วยคืนความสดชื่นหลังจากอาบน้ำได้ดีกว่าการอาบน้ำอุ่น แต่สำหรับคนที่ไม่เคยชินแล้ว อาจทำให้การอาบน้ำเย็นเป็นเรื่องยากและใช้เวลาอาบน้ำที่รวดเร็วขึ้น จึงอาจทำความสะอาดร่างกายได้ไม่ทั่วถึง</p><p><br /></p>
+        <p><strong>ข้อดีของการอาบน้ำเย็น</strong><br />
+        •<span> </span>ทำให้ร่างกายรู้สึกสดชื่น กระปรี้กระเปร่า<br />
+        •<span> </span>ช่วยให้อารมณ์ดี ร่างกายตื่นตัวได้เร็วหลังจากตื่นนอน<br />
+        •<span> </span>ช่วยเผาผลาญไขมันที่สะสมในร่างกาย<br />
+        •<span> </span>เสริมสร้างภูมิคุ้มกันให้กับร่างกาย<br />
+        •<span> </span>ทำให้ผิวพรรณดูเนียนเรียบ และอิ่มน้ำตลอดเวลา<br />
+        <br />
+        แม้ว่าการอาบน้ำเย็นจะมีประโยชน์ต่อสุขภาพผิวและอารมณ์ แต่การอาบน้ำเย็นในสภาพที่ร่างกายอ่อนแอหรือตอนอยู่ในสภาพอากาศหนาวจัด อาจไม่ส่งผลดีเท่าไรนัก เพราะจะทำให้ระบบหมุนเวียนเลือดผิดปกติ อุณหภูมิร่างกายลดลงรวดเร็ว จนถึงขั้นช็อคหมดสติได้</p>

@@ -1,0 +1,59 @@
+﻿---
+ID: "923b994e-e0fe-44ce-8466-cc8278318b18"
+Parent: "09165cd1-759a-40e3-a8a0-f9fd1f6a37cd"
+Template: "65674972-cc72-48b1-b071-dfca0c119253"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/press-releases/fwd-cleans-up-in-category-with-11-awards/local-folder/article-description-area/Infographic"
+DB: master
+SharedFields:
+- ID: "0f358955-3a03-40b2-b4ca-bd993cadc8b6"
+  Hint: buttonIcon
+  Value: "{2824BF82-5653-4D87-8986-BA0E65644389}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ee49dd2-9834-4aec-a9e3-b9403125b8c9"
+      Hint: buttonText
+      Value: Expand diagram
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200529T072020Z
+    - ID: "7a85eb46-2733-406c-9942-0e415bdd6c5e"
+      Hint: infographicImage
+      Value: |
+        <image mediaid="{729D08C1-7A8E-4AE1-B367-F33D3D8D5F61}" />
+    - ID: "98af5575-9485-44c6-9c6c-4cc4336a4367"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{729D08C1-7A8E-4AE1-B367-F33D3D8D5F61}" cropx="0.42" cropy="0.36" focusx="-0.16666666666666663" focusy="0.28125" />
+    - ID: "ea95a986-f3a6-4ea1-b2ff-0b4410968aab"
+      Hint: image
+      Value: |
+        <image mediaid="{729D08C1-7A8E-4AE1-B367-F33D3D8D5F61}" cropx="0.43" cropy="0.39" focusx="-0.14583333333333337" focusy="0.21875" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ee49dd2-9834-4aec-a9e3-b9403125b8c9"
+      Hint: buttonText
+      Value: Expand Diagram
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200529T080917Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7a85eb46-2733-406c-9942-0e415bdd6c5e"
+      Hint: infographicImage
+      Value: |
+        <image mediaid="{729D08C1-7A8E-4AE1-B367-F33D3D8D5F61}" />
+    - ID: "98af5575-9485-44c6-9c6c-4cc4336a4367"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{729D08C1-7A8E-4AE1-B367-F33D3D8D5F61}" cropx="0.44" cropy="0.34" focusx="-0.125" focusy="0.328125" />
+    - ID: "ea95a986-f3a6-4ea1-b2ff-0b4410968aab"
+      Hint: image
+      Value: |
+        <image mediaid="{729D08C1-7A8E-4AE1-B367-F33D3D8D5F61}" cropx="0.41" cropy="0.38" focusx="-0.1875" focusy="0.25" />

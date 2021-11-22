@@ -1,0 +1,70 @@
+﻿---
+ID: "3c69e350-57cd-432e-8c9b-ce8146d4d459"
+Parent: "c05e411a-47c7-4319-8ca5-efbdd5a5f017"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Premium Payment/What shall I do if Im having challenges in paying my premium"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 38
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T013023Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "What should I do if I'm having challenges in paying my premium?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <p>We&rsquo;re always here to help and if you&rsquo;re having trouble paying, there are various possible solutions. You may wish to consider any of the following: </p>
+        <ul>
+            <li>Change your premium payments. We can discuss how much you pay and how often. Contact us and we can create a plan that works for you.</li>
+            <li>Pay your premium by using the returns from any dividend payout or interim cash payment from your policy. Visit our  <a href="~/link.aspx?_id=678EDED0D4C448E0854A4E301D2A84FE&amp;_z=z">cash return options</a>&nbsp;page for more details.</li>
+            <li>You may wish to consider taking a loan out to help you. Visit our <a href="~/link.aspx?_id=1FA800229F46473BA35B0450FA491831&amp;_z=z">policy loan</a>&nbsp;page for more details.</li>
+            <li>Amend your policy to reduce the amount of premiums &ndash; for example remove a rider.</li>
+            <li>Reduce the sum assured to reduce the premiums you have to pay (note that reducing any sum assured will affect the amount of coverage and protection).</li>
+            <li>Change the policy type.&nbsp;</li>
+        </ul>
+        <p>&nbsp;</p>
+        These are all ideas. Before you make a decision it's very important that you have a discussion with us in order to find out what the best plan would be for you. Please don't simply stop paying your premium. Besides meaning your coverage will immediately stop it may also mean that you lose some money.<br />
+        <br />
+        If you have any problems, we'll always try and help and offer a range of possible solutions. Please give us a call at <a href="tel:1351" target="_self"> 1351</a> and find out what options and support we can offer.
+        <p>&nbsp;</p>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T012922Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "ควรทำอย่างไร ถ้าหากมีปัญหาทางการเงินไม่สามารถชำระเบี้ยประกันต่อได้?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <p>บริษัทพร้อมที่จะดูแลช่วยเหลือคุณ หากประสบปัญหาไม่สามารถชำระเบี้ยประกันต่อได้ ยังมีหลากหลายทางเลือกเพื่อช่วยผ่อนคลายปัญหาของคุณ ดังต่อไปนี้</p>
+        <ul>
+            <li>หากคุณต้องการเปลี่ยนแปลงการชำระเบี้ยประกันภัย ไม่ว่าจะเป็นจำนวนเงินหรือระยะเวลาในการจ่าย ติดต่อเข้ามาพูดคุยกับเรา ให้เราช่วยนำเสนอรูปแบบที่เหมาะสมสำหรับคุณ</li>
+            <li>ขอชำระเบี้ยประกันด้วยเงินปันผลที่สะสมไว้ในกรมธรรม์ ไปที่หน้า <a href="~/link.aspx?_id=678EDED0D4C448E0854A4E301D2A84FE&amp;_z=z">วิธีรับเงินคืน</a>&nbsp;เพื่อดูรายละเอียดเพิ่มเติม</li>
+            <li>กู้ยืมเงินจากกรมธรรม์ทั้งหมด หรือบางส่วนของมูลค่าเงินสด เพื่อนำมาชำระเบี้ยประกัน ไปที่หน้า <a href="~/link.aspx?_id=1FA800229F46473BA35B0450FA491831&amp;_z=z">บริการเงินกู้ตามกรมธรรม์</a>&nbsp;เพื่อดูรายละเอียดเพิ่มเติม</li>
+            <li>ตัดสัญญาเพิ่มเติมบางรายการเพื่อลดจำนวนเบี้ยประกันลง</li>
+            <li>ลดทุนประกันเพื่อลดจำนวนเบี้ยประกันที่ต้องชำระ (การลดทุนประกันมีผลทำให้ความคุ้มครองนั้นน้อยลงไปด้วย)</li>
+            <li>เปลี่ยนแบบประกันให้สอดคล้องกับความสามารถในการชำระเบี้ย</li>
+        </ul>
+        <p>คือแนวทางในการแก้ปัญหาทั้งหมด แต่ก่อนตัดสินใจขอให้คุณมั่นใจว่าคุณได้ปรึกษาเราเพื่อหาแนวทางที่ดีที่สุดสำหรับคุณ เพราะเมื่อคุณประสบปัญหาทางการเงิน การละทิ้งกรมธรรม์หรือหายไปเฉยๆ นั้นไม่ใช่ทางออกที่ดี นอกจากจะทำให้ความคุ้มครองจากกรมธรรม์ของคุณสิ้นสุดลงแล้ว ยังทำให้คุณสูญเสียเบี้ยประกันส่วนหนึ่งที่ได้ชำระไปแล้วอีกด้วย </p>
+        <p>หากคุณประสบปัญหา เราพร้อมช่วยเหลือและยินดีเสนอแนวทางในกรณีที่มีปัญหาการชำระค่าเบี้ยประกัน ติดต่อหาเราที่โทร. <a href="tel:1351" target="_self"> 1351</a></p>

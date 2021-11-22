@@ -1,0 +1,72 @@
+﻿---
+ID: "cd721127-a348-4cdd-82ed-b634fed9b7f0"
+Parent: "57224278-3546-4b43-8753-d4eacdf90d91"
+Template: "3050eea2-3bd4-47ae-8b26-c6e87a70b8ee"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/404/local-folder/Error"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200124T065141Z
+    - ID: "4367ea5e-4966-4c49-835d-58ad9a0362af"
+      Hint: description
+      Value: |
+        <p style="color: #183028;font-size: 16px;font-weight: 300;line-height: 24px;">This page does not exist. Try searching for what you need.</p>
+        <p style="font-weight: 300; font-size: 14px; color: #636566;line-height: 21px; margin-top: 8px;">Error 404</p>
+    - ID: "9671b7f3-4aac-4d8e-aba1-01ee0c3eafe3"
+      Hint: title
+      Value: "Oops! Page not found"
+    - ID: "cb996ac7-de90-4518-a481-1ae70b6fdba3"
+      Hint: image
+      Value: |
+        <image mediaid="{F8E88A67-3F01-403E-BF9A-89C3849F7DE0}" />
+- Language: id
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200819T125415Z
+    - ID: "4367ea5e-4966-4c49-835d-58ad9a0362af"
+      Hint: description
+      Value: |
+        <p style="color: #183028;font-size: 16px;font-weight: 300;line-height: 24px;">This page does not exist. Try searching for what you need.</p>
+        <p style="font-weight: 300; font-size: 14px; color: #636566;line-height: 21px; margin-top: 8px;">Error 404</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "9671b7f3-4aac-4d8e-aba1-01ee0c3eafe3"
+      Hint: title
+      Value: "Oops! Page not found"
+    - ID: "cb996ac7-de90-4518-a481-1ae70b6fdba3"
+      Hint: image
+      Value: |
+        <image mediaid="{F8E88A67-3F01-403E-BF9A-89C3849F7DE0}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200311T102118Z
+    - ID: "4367ea5e-4966-4c49-835d-58ad9a0362af"
+      Hint: description
+      Value: |
+        <p style="color: #333333;font-size: 16px;font-weight: 300;line-height: 24px;">ไม่พบหน้าที่ต้องการ ลองค้นหาใหม่อีกครั้ง</p>
+        <p style="font-weight: 300; font-size: 13px; color: #8c8c8c;line-height: 20px; margin-top: 8px;">ข้อผิดพลาด 404 แอบแฝง</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "9671b7f3-4aac-4d8e-aba1-01ee0c3eafe3"
+      Hint: title
+      Value: ขออภัย ไม่พบหน้าที่ค้นหา
+    - ID: "cb996ac7-de90-4518-a481-1ae70b6fdba3"
+      Hint: image
+      Value: |
+        <image mediaid="{19199A0D-E6CD-4891-A439-2C818244ADA6}" />

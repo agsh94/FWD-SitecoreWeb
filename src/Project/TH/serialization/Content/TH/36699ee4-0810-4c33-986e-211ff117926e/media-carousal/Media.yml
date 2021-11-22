@@ -1,0 +1,64 @@
+﻿---
+ID: "ce7b3b20-aa99-497b-b2de-f7466506566b"
+Parent: "739c2156-86b2-44d4-a731-a927d573fd50"
+Template: "2861c185-fc81-4fdc-8e91-93de381c752e"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/article-page/article-details/local-folder/article-description-area/media-carousal/Media"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T060744Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "911794b9-daae-4106-a2db-bc429cfa7a9c"
+      Hint: leadingText
+      Value: "The One, FWD's high-end medical solution,"
+    - ID: "c93d0c7b-6b3a-4e3a-a9b6-dc89062a8a6c"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{D9D2F1EA-7E3B-4A23-8944-3471814BAF28}" cropx="0.06" cropy="0.18" focusx="-0.8769873903508771" focusy="0.63861083984375" />
+    - ID: "ca02df68-c93a-4d5b-bfb9-65cde670e7cd"
+      Hint: caption
+      Value: " and the associated all-round, one-stop health management service PREMIER THE ONEierge, claimed an Excellence Award in the Medical Care Category."
+    - ID: "e5628949-939b-4454-b990-5b6c89e0be4d"
+      Hint: image
+      Value: |
+        <image mediaid="{D9D2F1EA-7E3B-4A23-8944-3471814BAF28}" cropx="0.90" cropy="0.17" focusx="0.7984512061403508" focusy="0.669921875" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b23ad3f-b76c-4a6a-830d-1434dd398ed6"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200108T084134Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "911794b9-daae-4106-a2db-bc429cfa7a9c"
+      Hint: leadingText
+      Value: FWD การเข้าซื้อกิจการ จะช่วยเพิ่มส่วนแบ่งการตลาดของ
+    - ID: "c93d0c7b-6b3a-4e3a-a9b6-dc89062a8a6c"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{D9D2F1EA-7E3B-4A23-8944-3471814BAF28}" />
+    - ID: "ca02df68-c93a-4d5b-bfb9-65cde670e7cd"
+      Hint: caption
+      Value: FWD เป็น บริษัท ที่กำลังเติบโตและเชื่อว่ามีสถานที่สำหรับทุกคนในองค์กร นโยบาย ที่มีอยู่งหมดจะยังคงได้รับการยอมรับโดย หลังจากการเปลี่ยนแปลงการเป็นเจ้าของ ยังตั้งใจที่จะเปลี่ยนชื่อและเปลี่ยนโฉมธุรกิจ
+    - ID: "e5628949-939b-4454-b990-5b6c89e0be4d"
+      Hint: image
+      Value: |
+        <image mediaid="{D9D2F1EA-7E3B-4A23-8944-3471814BAF28}" cropx="0.90" cropy="0.17" focusx="0.7984512061403508" focusy="0.669921875" />

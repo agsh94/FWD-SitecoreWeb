@@ -1,0 +1,65 @@
+﻿---
+ID: "67dbf44e-c70f-44f3-a77d-23956558d801"
+Parent: "da9ed8ed-38f4-458b-acba-9a32375f91c3"
+Template: "0df0a881-f04c-409a-8bc4-d1ec07f86dff"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/press-releases/Fwd-Awards-2020/local-folder/article-description-area/TableComponent1"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 350
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200726T100603Z
+    - ID: "464aff8e-018f-4252-8c25-77d9edafb0ad"
+      Hint: stickyHeaderFlag
+      Type: Checkbox
+      Value: 0
+    - ID: "58e0beed-e1cf-48c2-a1bc-c0642dc11434"
+      Hint: text
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td style="width: 120px;">Title 1</td>
+                    <td style="width: 400px;">Title 2</td>
+                    <td style="width: 200px;">Title 3&nbsp;</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">&nbsp;Item A</td>
+                    <td style="width: 400px;">Lorem ipsum dolor sit amet consectetur adipiscing elit 0-2594-0020-65.</td>
+                    <td style="width: 200px;"><a href="~/link.aspx?_id=49F0D81D2E9144B29F6E3267BABAFA41&amp;_z=z"><img alt="" src="-/media/495f64166c074f30a11298c5f1a262fb.ashx?h=16&amp;w=16" style="height: 16px; width: 16px;" />&nbsp;Text Link</a></td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">&nbsp;Item B</td>
+                    <td style="width: 400px;">Lorem ipsum dolor sit amet consectetur adipiscing elit.</td>
+                    <td style="width: 200px;"><a href="~/link.aspx?_id=69567D5498134873A169DDE101852FAE&amp;_z=z"><img alt="" src="-/media/495f64166c074f30a11298c5f1a262fb.ashx?h=16&amp;w=16" style="height: 16px; width: 16px;" />&nbsp;Alert</a></td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">&nbsp;Item C</td>
+                    <td style="width: 400px;">Lorem ipsum dolor sit amet consectetur.</td>
+                    <td style="width: 200px;"><a href="~/link.aspx?_id=B06FCBBED82F45E68CF69907C875B081&amp;_z=z"><img alt="" src="-/media/495f64166c074f30a11298c5f1a262fb.ashx?h=16&amp;w=16" style="height: 16px; width: 16px;" />&nbsp;Career</a><br />
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">&nbsp;Item D</td>
+                    <td style="width: 400px;">
+                    <strong>SubHeading</strong>
+                    <li>Lorem ipsum dolor sit amet consectetur lorem ipsum dolor sit</li>
+                    <li>Amet consectetur um dolor sit amet consectetur.</li>
+                    </td>
+                    <td style="width: 200px;"><a rel="noopener noreferrer" href="http://www.google.com" target="_blank"><img alt="" src="-/media/495f64166c074f30a11298c5f1a262fb.ashx?w=16" style="width:16px;" />Business</a><br />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "f3244afc-a679-4ce2-96af-6899a5adc238"
+      Hint: scrollableButton
+      Type: Checkbox
+      Value: 0

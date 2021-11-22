@@ -1,0 +1,49 @@
+﻿---
+ID: "3b542e77-ccd8-4773-b5c8-6a7aa51e9e5b"
+Parent: "e2478895-21a1-44b8-9ff9-eaa361c241f8"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Claims/If the insured has died"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-2"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: If the insured has died
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191224T101839Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "If the insured has died, does the beneficiary or the guardian of the beneficiary have to pay the life insurance premium when it is due?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: No, the beneficiary does not have to pay any premiums. Note that we will deduct any premiums owed or policy debt from any claim amount we pay.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T065156Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "กรณีผู้เอาประกันเสียชีวิต ทางผู้รับผลประโยชน์หรือผู้ปกครองผู้รับประโยชน์ต้องชำระเบี้ยประกันชีวิตที่ครบกำหนดชำระเบี้ยประกันชีวิตหรือไม่?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: ทางผู้รับผลประโยชน์หรือผู้ปกครองผู้รับผลประโยชน์ไม่ต้องชำระเบี้ยประกัน แต่ถ้าบริษัทตรวจสอบแล้วยังไม่ชำระเบี้ยประกัน บริษัทจะดำเนินการหักเบี้ยประกัน และหนี้สินผูกพันกรมธรรม์ที่ค้างชำระ (ถ้ามี) ออกก่อน

@@ -1,0 +1,55 @@
+﻿---
+ID: "bfafb3c0-ebf5-459a-a019-3c6b87461daa"
+Parent: "71e7b6d1-9789-441e-8f1e-bc17a02d98de"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/accident/local-folder/Wide range of hospitals"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 775
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T120239Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: Just show your FWD Care Card at our network of over 400 hospitals and clinics and get cashless treatment and services.
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Get medical treatment with no cash advance
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Find out more" anchor="" linktype="internal" class="" title=""  querystring="" id="{EE338D6E-F74B-4A3C-AD12-A3E1CE871156}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200217T102615Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: เพียงแสดงบัตร FWD Care Card เพื่อเข้ารับการรักษาและบริการโดยไม่ต้องชำระเงินล่วงหน้า ณ โรงพยาบาลและคลินิกในเครือข่ายกว่า 400 แห่ง
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: เข้ารับการรักษาได้โดยไม่ต้องจ่ายล่วงหน้า
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ค้นหาเพิ่มเติม" anchor="" linktype="internal" class="" title="ค้นหาโรงพยาบาลและคลินิกในเครือข่าย"  querystring="" id="{EE338D6E-F74B-4A3C-AD12-A3E1CE871156}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"

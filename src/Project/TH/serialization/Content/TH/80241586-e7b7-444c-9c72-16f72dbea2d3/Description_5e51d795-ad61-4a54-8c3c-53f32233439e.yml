@@ -1,0 +1,25 @@
+﻿---
+ID: "5e51d795-ad61-4a54-8c3c-53f32233439e"
+Parent: "80241586-e7b7-444c-9c72-16f72dbea2d3"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/travel-leh-ladakh/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2600
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T073847Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: <strong>Main square</strong> เป็นย่านการค้าหนึ่งเดียวของเมือง รวมร้านค้า และร้านอาหารมากมาย ใครขาดเหลืออะไร ก็มุ่งตรงมาที่นี่ได้เลย ทั้งของฝาก เสื้อผ้า เครื่องประดับ ร้านขายยาร้านหนังสือ เอเจนท์ทัวร์ ร้านเช่ารถ ผลไม้ อาหารการกิน ของสดของแห้ง มีหมดเด้อ

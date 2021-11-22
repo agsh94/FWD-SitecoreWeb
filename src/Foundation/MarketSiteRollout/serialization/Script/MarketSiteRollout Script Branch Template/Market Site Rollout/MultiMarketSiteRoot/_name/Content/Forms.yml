@@ -1,0 +1,14 @@
+﻿---
+ID: "79cfbc05-6484-4b81-81fa-ea521b2f4551"
+Parent: "ce80a31f-7111-43f0-a1a5-24c415b6274b"
+Template: "35b83be5-3063-4ff3-ace2-24140e7d625d"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Forms
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191015T112053Z

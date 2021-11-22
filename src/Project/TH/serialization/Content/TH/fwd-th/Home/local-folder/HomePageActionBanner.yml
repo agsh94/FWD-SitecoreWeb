@@ -1,0 +1,99 @@
+﻿---
+ID: "05326429-99fe-4bcc-911b-1c769c2b5de7"
+Parent: "ab707055-b0ba-4203-92ed-38b287e2fda3"
+Template: "a5642279-c553-40db-926d-0defad115733"
+Path: "/sitecore/content/fwd/fwd-th/Home/local-folder/HomePageActionBanner"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "08322f78-279a-4135-ac35-9d0b954ca6f5"
+      Hint: navigationTitle
+      Value: I want to
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200227T042346Z
+    - ID: "29e8a1af-94f7-4aba-974a-a6998771e965"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{52C93435-2E19-463C-BAA8-E7CD874039EC}" cropx="0.68" cropy="0.01" focusx="0.3531914893617021" focusy="0.984375" />
+    - ID: "5236ae55-22c1-4f65-b178-26b7829d3c9b"
+      Hint: title
+      Value: |
+        Insurance the way <br />
+        it should be
+    - ID: "98927d2c-e166-4a1f-82db-91bf405efa95"
+      Hint: image
+      Value: |
+        <image mediaid="{52C93435-2E19-463C-BAA8-E7CD874039EC}" cropx="0.62" cropy="0.23" focusx="0.23404255319148937" focusy="0.546875" />
+    - ID: "b2b93e56-2a83-4eab-a106-bd033ba2564d"
+      Hint: videoLink
+      Value: |
+        <file mediaid="{38B5D872-5317-4504-ADD4-2B113147234F}" src="-/media/38b5d87253174504add42b113147234f.ashx" />
+    - ID: "d03cccc8-4d38-4b17-8042-383b2298af82"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"
+    - ID: "f2bb46c5-f9ad-4045-ae92-37360a62e150"
+      Hint: navigationItems
+      Type: Multilist
+      Value: |
+        {2E012221-93F3-49FB-8AAF-B458512AC6D1}
+        {707E9B14-8194-4346-9CA8-9E462D39C540}
+        {209A95D2-DCD2-480D-B0D1-29AF62287799}
+        {9DA741E2-6B40-4B78-BBD5-8DD78263174D}
+    - ID: "fe2ab375-7e5b-4a1a-b188-d2fc5e511b8c"
+      Hint: mobileVideoLink
+      Value: |
+        <file mediapath="/FWD/TH/videos/home/mobile4_1" mediaid="{280279B1-EF5D-4EBA-948A-5EF7643B0A9D}" src="-/media/280279b1ef5d4eba948a5ef7643b0a9d.ashx" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "08322f78-279a-4135-ac35-9d0b954ca6f5"
+      Hint: navigationTitle
+      Value: ฉันต้องการจะ
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200423T035831Z
+    - ID: "29e8a1af-94f7-4aba-974a-a6998771e965"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{9D5ACE33-7435-4080-A638-1630994B8C8E}" cropx="0.32" cropy="0.29" focusx="-0.35114503816793896" focusy="0.421875" />
+    - ID: "5236ae55-22c1-4f65-b178-26b7829d3c9b"
+      Hint: title
+      Value: |
+        ประกัน<br />
+        ในแบบที่ใช่
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "98927d2c-e166-4a1f-82db-91bf405efa95"
+      Hint: image
+      Value: |
+        <image mediaid="{BEF5BCA7-92FC-43CD-855A-EA1EF16F5BFB}" />
+    - ID: "b2b93e56-2a83-4eab-a106-bd033ba2564d"
+      Hint: videoLink
+      Value: |
+        <file mediaid="{38B5D872-5317-4504-ADD4-2B113147234F}" src="-/media/38b5d87253174504add42b113147234f.ashx" mediapath="/FWD/TH/videos/home/desktop" />
+    - ID: "d03cccc8-4d38-4b17-8042-383b2298af82"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"
+    - ID: "f2bb46c5-f9ad-4045-ae92-37360a62e150"
+      Hint: navigationItems
+      Type: Multilist
+      Value: |
+        {2E012221-93F3-49FB-8AAF-B458512AC6D1}
+        {707E9B14-8194-4346-9CA8-9E462D39C540}
+        {209A95D2-DCD2-480D-B0D1-29AF62287799}
+        {9DA741E2-6B40-4B78-BBD5-8DD78263174D}
+    - ID: "fe2ab375-7e5b-4a1a-b188-d2fc5e511b8c"
+      Hint: mobileVideoLink
+      Value: |
+        <file mediaid="{280279B1-EF5D-4EBA-948A-5EF7643B0A9D}" src="-/media/280279b1ef5d4eba948a5ef7643b0a9d.ashx" />

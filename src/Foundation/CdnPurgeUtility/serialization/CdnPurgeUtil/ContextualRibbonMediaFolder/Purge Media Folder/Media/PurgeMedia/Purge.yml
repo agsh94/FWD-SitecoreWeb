@@ -1,0 +1,31 @@
+﻿---
+ID: "6bc83557-2f61-4079-b365-14f270a8efba"
+Parent: "0f5b84bf-996a-4dea-adeb-7b31cc7d3d8c"
+Template: "1db34c92-03b0-4475-9a39-da14e4d9d8fc"
+Path: /sitecore/content/Applications/Content Editor/Ribbons/Contextual Ribbons/Purge Media Folder/Media/PurgeMedia/Purge
+DB: core
+SharedFields:
+- ID: "1193b1a3-0148-413f-a979-49b39aa4a2af"
+  Hint: ID
+  Value: PurgeMediaFolder
+- ID: "d47ed548-84d5-4622-9886-5cc164727507"
+  Hint: Icon
+  Value: People/32x32/package_new.png
+- ID: "dbbf9ee3-c30e-4456-a81f-ed8c2e8df91b"
+  Hint: Click
+  Value: "media:cdnpurge(subitems=1)"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201209T101656Z
+    - ID: "4df6da21-e745-444c-956e-1d4a96ab8821"
+      Hint: Header
+      Value: Purge
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

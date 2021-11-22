@@ -1,0 +1,45 @@
+﻿---
+ID: "9ceca16a-6119-4cca-9ef9-9b4d768b59a9"
+Parent: "0af53403-9d7d-4218-b521-e475fb1e4f84"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Group Insurance/Claim for medical treatment at non-FWD hospital"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200510T025839Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "Can my employees claim for medical treatment if I was treated at a hospital that is not within the FWD network?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: In this instance, medical expenses must be paid in advance by the insured and will be considered for reimbursement after the claim form and required documents are have been sent to us.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200510T025907Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "หากพนักงานมิได้เข้ารักษาพยาบาลในโรงพยาบาลเครือข่าย จะสามารถเคลมได้หรือไม่?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: สามารถสำรองจ่ายค่ารักษาพยาบาลไปก่อน และนำส่งเอกสารเคลมเพื่อประกอบการพิจารณาจ่ายสินไหมในภายหลัง

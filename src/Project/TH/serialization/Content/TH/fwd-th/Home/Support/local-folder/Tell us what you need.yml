@@ -1,0 +1,76 @@
+﻿---
+ID: "f78eebab-e397-4880-83fa-4debc97a3671"
+Parent: "3cd9cc7a-47da-4031-959a-59d4bf349c81"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/local-folder/Tell us what you need"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{02A5A5C7-C318-4919-B773-86A65BA98969}"
+- ID: "9cb76228-fc26-48b7-bd66-1c6e133b625d"
+  Hint: secondaryLinkButtonMode
+  Value: "{02A5A5C7-C318-4919-B773-86A65BA98969}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "dab4200c-a87f-4605-b2f7-2544616ece6e"
+  Hint: secondaryLinkButtonIcon
+  Value: "{7EA908FB-506F-45E9-AB04-2B33B5DCDE2A}"
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{7EA908FB-506F-45E9-AB04-2B33B5DCDE2A}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Tell us what you need
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191227T092935Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p>Whether you need advice on one of our plans or support with a claim, don’t hesitate to get in touch.</p>
+        <p>If you’re a Group insurance customer, please use our dedicated business support channel below. </p>
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Tell us what you need, and we’ll do our best to help
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Support for businesses" anchor="" linktype="internal" class="" title="Support for business"  querystring="" id="{3CAD5672-1B79-4F04-8637-17B34ED987E9}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Tell us what you need
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200213T061254Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p>ติดต่อเราได้ทันที เมื่อคุณต้องการคำแนะนำเกี่ยวกับแบบประกันชีวิตของเราหรือต้องการความช่วยเหลือด้านการเรียกร้องสินไหม</p>
+        <p>สำหรับลูกค้าประกันภัยกลุ่ม กรุณาติดต่อฝ่ายบริการลูกค้าเฉพาะกลุ่มธุรกิจที่อยู่ด้านล่าง</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ไม่ว่าคุณต้องการความช่วยเหลือในเรื่องใด เราพร้อมดูแลคุณอย่างเต็มที่
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="บริการลูกค้ากลุ่มธุรกิจ" anchor="" linktype="internal" class="" title="Support for business"  querystring="" id="{3CAD5672-1B79-4F04-8637-17B34ED987E9}" />

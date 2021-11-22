@@ -1,0 +1,55 @@
+﻿---
+ID: "1261568f-2034-4b45-a906-9dc225058320"
+Parent: "d33b3897-fde1-4c29-8f62-902798629e59"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Policy/If I fail to pay my policy premium within the 30-day"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200406T015209Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "If I fail to pay my policy premium within the 30-day grace period, am I still able to use my FWD Care Card?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <p>Unfortunately you can’t use your FWD Care Card because you have to pay your policy premiums in order to use it. However, you can submit the medical bill to us for reimbursement once you have paid your premium. </p>
+        <p>For treatments that fall beyond your policy coverage, you can still send the bill to FWD for consideration. Claims may be approved on a case by case basis depending on the information we gather from the hospital or your doctor.</p>
+        
+        
+        
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200406T020501Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "ในกรณีที่ถึงกำหนดชำระเบี้ยแล้วแต่ยังไม่ได้ชำระ (ช่วงระยะเวลาผ่อนผัน 30 วัน) สามารถใช้ FWD Care Card ได้หรือไม่?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <p>ไม่สามารถใช้ได้ ผู้เอาประกันต้องชำระเบี้ยก่อนถึงจะสามารถใช้สิทธิ์ FWD Care Card ได้ แต่คุณสามารถนำใบเสร็จมาเบิกได้หลังจากชำระค่าเบี้ยแล้ว </p>
+        <p>ค่ารักษาพยาบาลที่อยู่นอกเหนือรายการตามความคุ้มครองของกรมธรรม์ คุณสามารถส่งใบเสร็จมาที่บริษัทเพื่อพิจารณาได้ โดยการเคลมจะได้รับการอนุมัติเป็นกรณีไป ตามข้อมูลที่บริษัทได้รับจากโรงพยาบาลหรือแพทย์ที่ทำการรักษา </p>
+        
+        
+        

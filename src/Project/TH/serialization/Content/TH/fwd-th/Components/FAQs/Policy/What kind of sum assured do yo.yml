@@ -1,0 +1,61 @@
+﻿---
+ID: "52e950ab-06dc-49c1-ac6a-1f581c5d2e86"
+Parent: "d33b3897-fde1-4c29-8f62-902798629e59"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Policy/What kind of sum assured do you recommend I should opt for"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T015002Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "What kind of sum assured do you recommend I should opt for?&nbsp;"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <p>This is a very personal decision. We’d recommend that firstly, you need to know your reasons for getting insurance.</p>
+        <p>For example, if you would like to have THB 2 million when you retire, you should select a plan that will give you a return of THB 2 million.</p>
+        <p>You should also consider how much money you can set aside to pay for your insurance (monthly or annually) when deciding on a plan and its premiums.</p>
+        <p>We’d be happy to talk to you or you may prefer to speak to a financial advisor. Remember, everyone’s needs and personal circumstances are different. </p>
+        
+        
+        
+        
+        
+        
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T015055Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "เราควรทำประกันชีวิตจำนวนเท่าไหร่?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <p>นี่เป็นเรื่องที่คุณต้องตัดสินใจอย่างถี่ถ้วน และเราขอแนะนำว่า ก่อนอื่นเลย คุณต้องหาเหตุผลความจำเป็นว่าทำไมถึงต้องมีประกันชีวิต</p>
+        <p>ตัวอย่างเช่น ถ้าคุณต้องการมีเงินเก็บ 2 ล้านบาทเพื่อใช้จ่ายหลังเกษียณ คุณต้องเลือกแบบประกันที่มีเงินออมให้คุณได้เท่ากับ 2 ล้านบาทในอนาคต </p>
+        <p>ทั้งนี้ คุณต้องพิจารณาความสามารถในการชำระเบี้ยประกัน (รายเดือนหรือรายปี) ให้สอดคล้องกับรายรับของคุณด้วย ก่อนจะตัดสินใจเลือกแผนประกันชีวิตและค่าเบี้ยประกัน</p>
+        <p>เรายินดีให้คำปรึกษา หรือสามารถติดต่อผู้เชี่ยวชาญทางการเงินของเราได้ตลอดเวลา เพราะเราเข้าใจทุกความต้องการและสถานการณ์ที่แตกต่างของแต่ละคน</p>
+        
+        

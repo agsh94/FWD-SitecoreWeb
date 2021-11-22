@@ -1,0 +1,67 @@
+﻿---
+ID: "465138ab-138d-4e2f-b74a-8f954babf174"
+Parent: "334d56d5-9720-4f61-afc4-d5db2020317f"
+Template: "09db1bd9-ccf9-4a64-b2c9-ac249d6b96c1"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/care-card/local-folder/Making cashless claim"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201012T104511Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5655c435-8b04-4425-8b90-5a0a04e80d83"
+      Hint: description
+      Value: |
+        <p><span>Great news! We&rsquo;re issuing &lsquo;lifetime&rsquo; FWD Care Cards for selected plans &ndash; meaning no need for annual renewals.</span></p>
+        <p><strong><span>From 1<sup>st</sup> October 2020:</span></strong><span> All customers with IPD / OPD health insurance plans will receive a lifetime FWD Care Card.</span></p>
+        <p><strong><span>From 1<sup>st</sup> October 2020:</span></strong><span> All customers who renew their policy from this date will receive a lifetime FWD Care Card.</span></p>
+        <p><strong><span>Renewing before 1<sup>st</sup> October?</span></strong><span> Don&rsquo;t worry &ndash; you can still use your current FWD Care Card and when you renew again, you&rsquo;ll receive a lifetime FWD Card.</span></p>
+        <p><strong><span>&nbsp;</span></strong></p>
+        <p><strong><span>Notes:</span></strong></p>
+        <p>Customers with personal accident insurance plans still need to use their current FWD Care Card. We will continue to send you a new card every year.</p>
+        <p><span>If you haven&rsquo;t received your lifetime FWD Care Card please call us on 1351. In the meantime, if you need medical help, simply use your ID card. </span></p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "81f9fb34-885b-42e0-bdd7-b2c1cbd468fb"
+      Hint: title
+      Value: Making cashless claims even easier
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201012T102242Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5655c435-8b04-4425-8b90-5a0a04e80d83"
+      Hint: description
+      Value: |
+        <p><span>ข่าวดี</span><span>! เราได้ออกบัตรเอฟดับบลิวดี แคร์การ์ด แบบตลอดชีพ สำหรับแผนประกันบางประเภท ซึ่งหมายความว่าการต่ออายุบัตรไม่มีความจำเป็นอีกต่อไป </span></p>
+        <p><strong><span>ตั้งแต่วันที่ </span></strong><strong><span>1 ตุลาคม 2563:</span></strong><span> ลูกค้าประกันสุขภาพผู้ป่วยใน / ผู้ป่วยนอก ทุกท่านจะได้รับบัตรเอฟดับบลิวดี แคร์การ์ด แบบตลอดชีพ</span></p>
+        <p><strong><span>ตั้งแต่วันที่ </span></strong><strong><span>1 ตุลาคม 2563:</span></strong><span> ลูกค้าทุกท่านที่ต่ออายุกรมธรรม์ตั้งแต่วันดังกล่าว จะได้รับบัตรเอฟดับบลิวดี แคร์การ์ด แบบตลอดชีพ</span></p>
+        <p><strong><span>กรณีต่ออายุก่อนวันที่ </span></strong><span><strong><span>1 ตุลาคม</span></strong></span><span> ไม่ต้องกังวลแต่อย่างใด เพราะคุณยังสามารถใช้บัตรเอฟดับบลิวดี แคร์การ์ด ที่มีอยู่ จนกระทั่งหมดอายุ&nbsp; และเราจะมอบบัตรเอฟดับบลิวดี แคร์การ์ด แบบตลอดชีพ ให้กับคุณเมื่อทำการต่ออายุครั้งต่อไป</span></p>
+        <p><span>&nbsp;</span></p>
+        <p><strong><span>หมายเหตุ</span></strong><span>:</span></p>
+        <p><span>ลูกค้าแผนประกันอุบัติเหตุ ยังคงต้องใช้บัตรเอฟดับบลิวดี แคร์การ์ด ที่ถืออยู่ และเราจะส่งบัตรใบใหม่ให้กับคุณทุกปีเมื่อมีการต่ออายุ</span></p>
+        <p><span>หากคุณไม่ได้รับบัตรเอฟดับบลิวดี แคร์การ์ด แบบตลอดชีพ กรุณาติดต่อเราที่เบอร์ </span><span>1351 ทั้งนี้ในระหว่างรอรับบัตรใหม่ คุณสามารถใช้บัตรประจำตัวประชาชนเมื่อจำเป็นต้องเข้ารับการรักษาพยาบาล</span></p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "81f9fb34-885b-42e0-bdd7-b2c1cbd468fb"
+      Hint: title
+      Value: ให้การเคลมค่ารักษาพยาบาลเป็นเรื่องง่ายกว่าที่เคย

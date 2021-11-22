@@ -1,0 +1,166 @@
+﻿---
+ID: "472e1af9-7793-4cb8-af80-8f68b7be9ce9"
+Parent: "69567d54-9813-4873-a169-dde101852fae"
+Template: "68bbe3b2-090e-4063-98c3-e462cd0c74e8"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/death"
+DB: master
+SharedFields:
+- ID: "4139ab92-c984-456c-99f7-b2276a2008ec"
+  Hint: contentType
+  Value: "{58E30460-AC9F-45C2-8B0F-47E93979778B}"
+- ID: "5d298d24-a14d-478b-b892-8586861b9dab"
+  Hint: primaryNeedTags
+  Value: "{67F745F2-3A37-4569-B598-0B98CDC6B144}"
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: "{FB2C4A8A-0593-44B7-B7C4-AE07AF4F8BB2}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 638
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;enableMargin&amp;divider" />
+        <r
+          uid="{0CEB192A-1817-41DF-BE1B-3BE2525E3624}"
+          s:ds="{2B3C7EA6-FD65-4B9C-A528-E0F81AD1DCB4}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;HeroBannerVariant=%7b0BDF58FF-C695-448B-BC29-6E1C8DC08D4E%7d&amp;backgroundColor=%7bEBDF491B-A72E-47CA-A391-E44A39C9C329%7d&amp;PlayVideoInBackground&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider" />
+        <r
+          uid="{2FBA319D-B6D3-4518-BB64-03ADFEE7F8E8}">
+          <p:d />
+        </r>
+        <r
+          uid="{026F06F0-08BA-490C-BD74-D25944908D45}">
+          <p:d />
+        </r>
+        <r
+          uid="{787D0CD4-4114-431A-8890-2456201C0E24}">
+          <p:d />
+        </r>
+        <r
+          uid="{557EE382-E902-401A-A8FF-3554910CE2A0}">
+          <p:d />
+        </r>
+        <r
+          uid="{438C1DED-1542-4936-8AE1-C81989FCBFC0}">
+          <p:d />
+        </r>
+        <r
+          uid="{F0BC44F4-5DC2-4DE4-8CBA-9E5C92F65A90}"
+          p:after="r[@uid='{0CEB192A-1817-41DF-BE1B-3BE2525E3624}']"
+          s:ds="{A02FC953-3605-4DAD-931E-B69F123DDDEE}"
+          s:id="{F0B75A00-90E8-4447-B01D-69F6564D9F5F}"
+          s:par="anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider=1"
+          s:ph="jss-main" />
+        <r
+          uid="{B7117890-D352-4543-8F0F-50E4D62618A2}"
+          p:after="r[@uid='{F0BC44F4-5DC2-4DE4-8CBA-9E5C92F65A90}']"
+          s:ds="{EC41EAB2-414F-4BED-ADEE-5CE36F663A45}"
+          s:id="{1B2D4D22-4BFA-48E9-ACD5-0120D07747F3}"
+          s:par="cardVariant=%7BC0DF1746-485D-4546-AEB1-6F1313FE52D9%7D&amp;cardType&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider=1"
+          s:ph="jss-main" />
+        <r
+          uid="{775ADE91-1C45-4A34-9404-6106DFFB367E}"
+          p:after="r[@uid='{B7117890-D352-4543-8F0F-50E4D62618A2}']"
+          s:ds="{16163E9F-3406-481C-9A2C-F424D60132F9}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType=%7BE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7D&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{0A307E84-66AC-4B5A-A42D-498985574818}"
+          p:after="r[@uid='{775ADE91-1C45-4A34-9404-6106DFFB367E}']"
+          s:ds="{368C4398-EFAA-4742-ADED-871637AAC99F}"
+          s:id="{2D85FF18-BBE6-4746-A95E-69537BC9F3B9}"
+          s:par="anchorText&amp;backgroundColor=%7B43D56D20-6830-4D30-A546-89910FB6219C%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider&amp;cardStyle=%7BDA70E6E3-2B0B-408A-B82E-8C11BE6451DA%7D"
+          s:ph="jss-main" />
+        <r
+          uid="{E710A109-1E62-4C60-9688-90EDBC386A24}"
+          p:after="r[@uid='{0A307E84-66AC-4B5A-A42D-498985574818}']"
+          s:ds="{78518B45-EA37-4A45-8E0C-A4794FBBAE04}"
+          s:id="{FC55218D-3368-4037-B642-7FD35BD96EA1}"
+          s:par="anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{2013DCCC-412E-4B35-A6CD-3F53B9C7973A}"
+          p:after="r[@uid='{E710A109-1E62-4C60-9688-90EDBC386A24}']"
+          s:ds="{93F4AB05-6CF9-45FC-B19C-4DB7691853E6}"
+          s:id="{E9189BB0-4352-4FC7-B5F6-7C992E35E897}"
+          s:par="buttonAlignment=%7B8570C16E-5CA9-4A85-8A62-C661A5B4350B%7D&amp;variant=%7B474B84BC-4B00-4BDC-AE3A-D0449DC7C543%7D&amp;anchorText&amp;backgroundColor=%7BEBDF491B-A72E-47CA-A391-E44A39C9C329%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{6760081B-D89B-4A90-8F27-755B88DE6783}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d" />
+      </d>
+    </r>
+- ID: "ff451472-1b55-4228-b14d-ab9b2a449792"
+  Hint: isPageSearchable
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: death
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T125101Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: Get the support and information you need to make an insurance claim if someone has passed away 
+    - ID: "383c06a4-a394-43b5-919f-12e140258af9"
+      Hint: iconType
+      Value: "{AEB3BB6C-7EDC-4BDB-BAF5-3EE6480FB2D9}"
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Death claims
+    - ID: "afb319ef-ce14-4bc5-be51-29dc4681fb28"
+      Hint: description
+      Value: 
+    - ID: "d8d7b322-1e79-4b78-8409-29dfe3e0cbdb"
+      Hint: title
+      Value: Death claims
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: Insurance claims, death claims, endorse the contract, endorse the insurance policy, how to claim insurance
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T085051Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: ที่เอฟดับบลิวดี เรามุ่งมั่นให้การเรียกร้องสินไหมเป็นเรื่องรวดเร็วและง่ายดาย ดูรายละเอียดการเรียกร้องสินไหมมรณกรรม ได้ที่นี่
+    - ID: "383c06a4-a394-43b5-919f-12e140258af9"
+      Hint: iconType
+      Value: "{AEB3BB6C-7EDC-4BDB-BAF5-3EE6480FB2D9}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: เรียกร้องสินไหมมรณกรรม
+    - ID: "afb319ef-ce14-4bc5-be51-29dc4681fb28"
+      Hint: description
+      Value: 
+    - ID: "d8d7b322-1e79-4b78-8409-29dfe3e0cbdb"
+      Hint: title
+      Value: เรียกร้องสินไหมมรณกรรม
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: การเคลมค่าสินไหมทดแทนจากประกัน, เคลมสินไหมมรณกรรม, สลักหลังสัญญา,สลักหลังกรมธรรม์, วิธีเคลมประกัน

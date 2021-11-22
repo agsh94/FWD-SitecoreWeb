@@ -1,0 +1,18 @@
+﻿---
+ID: "b64a9915-9247-48f3-b7c9-5fdb673a983a"
+Parent: "ce80a31f-7111-43f0-a1a5-24c415b6274b"
+Template: "6db1dd78-b7af-45f0-911a-e89e56a39106"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/locatortypes
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Locator Types
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191102T103851Z

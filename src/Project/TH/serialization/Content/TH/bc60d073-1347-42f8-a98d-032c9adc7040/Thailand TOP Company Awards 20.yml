@@ -1,0 +1,77 @@
+﻿---
+ID: "049f5210-4aba-4ceb-921a-72ceb60633c6"
+Parent: "bc60d073-1347-42f8-a98d-032c9adc7040"
+Template: "b8e624fb-4a85-4ab2-8299-19f7f892f88d"
+Path: "/sitecore/content/fwd/fwd-th/Components/Awards/Awards-FWD-Story/Company awards/Thailand TOP Company Awards 2019"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18e4c61e-ddc9-4f47-8128-95c28fb8f94c"
+      Hint: awardIssuer
+      Value: BUSINESS+ magazine and Thai Chamber of Commerce University
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191106T060924Z
+    - ID: "6b07856b-04a3-41c2-a0b1-16ee9ee2fa96"
+      Hint: link
+      Value: |
+        <linktype text="" linktype="modelpopup" querystring="" target="" id="{049F5210-4ABA-4CEB-921A-72CEB60633C6}" />
+    - ID: "8cae381e-be17-4417-9493-4c725bc280e8"
+      Hint: awardName
+      Value: Thailand TOP Company Awards 2019 
+    - ID: "b79c264d-04c8-48e6-b86a-9bf6791c965c"
+      Hint: awardYears
+      Value: 2019
+    - ID: "d9e78b47-cb3e-430a-a9c7-8cdd5faf0afe"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{BF6C199B-DD56-40DA-9576-1FE807DC605A}" />
+    - ID: "f1388e2b-43cd-45e1-be9e-121de811b942"
+      Hint: image
+      Value: |
+        <image mediaid="{BF6C199B-DD56-40DA-9576-1FE807DC605A}" />
+    - ID: "fca2a643-23a6-4dc0-a6a1-3db59ca4e554"
+      Hint: awardCategory
+      Value: Digital Initiative Company Award 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18e4c61e-ddc9-4f47-8128-95c28fb8f94c"
+      Hint: awardIssuer
+      Value: นิตยสาร BUSINESS+ ร่วมกับ มหาวิทยาลัยหอการค้าไทย
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T084753Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "6b07856b-04a3-41c2-a0b1-16ee9ee2fa96"
+      Hint: link
+      Value: |
+        <linktype text="" linktype="modelpopup" querystring="" target="" id="{9C1EB0CD-E22A-4030-BE44-E90C024F97DE}" />
+    - ID: "8cae381e-be17-4417-9493-4c725bc280e8"
+      Hint: awardName
+      Value: Thailand TOP Company Awards 2019 
+    - ID: "b79c264d-04c8-48e6-b86a-9bf6791c965c"
+      Hint: awardYears
+      Value: 2562
+    - ID: "d9e78b47-cb3e-430a-a9c7-8cdd5faf0afe"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{BF6C199B-DD56-40DA-9576-1FE807DC605A}" />
+    - ID: "f1388e2b-43cd-45e1-be9e-121de811b942"
+      Hint: image
+      Value: |
+        <image mediaid="{BF6C199B-DD56-40DA-9576-1FE807DC605A}" />
+    - ID: "fca2a643-23a6-4dc0-a6a1-3db59ca4e554"
+      Hint: awardCategory
+      Value: DIGITAL INITIATIVE COMPANY AWARD

@@ -1,0 +1,291 @@
+﻿---
+ID: "3d2b1fa1-2913-4020-9ac1-26051fe4d869"
+Parent: "6fdccc6f-c437-4868-bea8-9deb660d4fd9"
+Template: "40da990f-39dd-4d66-a9be-849f4ecffd22"
+Path: "/sitecore/content/fwd/fwd-th/Home/about-us/Careers/Agent"
+DB: master
+SharedFields:
+- ID: "5a8b95c0-14d6-4531-bd75-61b658cbfa25"
+  Hint: contentType
+  Value: "{60EE255F-484C-48FC-9CFB-C97F04C2CF71}"
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: "{FB2C4A8A-0593-44B7-B7C4-AE07AF4F8BB2}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 38
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{C879EB9D-195D-4984-B164-F1DD756158FA}"
+          s:ds="{AF220984-45E4-4917-AD5C-2F80C0D50A13}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;HeroBannerVariant&amp;backgroundColor=%7bF9F5FC4E-89D7-4701-A560-C0A7179384CB%7d&amp;PlayVideoInBackground&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider" />
+        <r
+          uid="{2476A374-8836-45FE-AF59-3CD0AE06BE82}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;contentBlockType&amp;backgroundColor=%7bF9F5FC4E-89D7-4701-A560-C0A7179384CB%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider" />
+        <r
+          uid="{57AD34E9-D9E1-4B92-A392-E0A41486C935}"
+          s:ds="{CA87D387-00B7-49ED-B100-1DC63CC7BC22}"
+          s:par="buttonAlignment=%7BCF02F396-DAFD-448E-BC19-15E66C7CBA54%7D&amp;variant&amp;anchorText&amp;backgroundColor=%7BCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{4593C144-A888-414C-8360-76118912F719}"
+          p:after="r[@uid='{57AD34E9-D9E1-4B92-A392-E0A41486C935}']"
+          s:ds="{3D529D8D-0A34-4967-9137-07DEA8C78100}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{5BB333BC-7F5E-4715-99A9-C4941422C9B2}"
+          p:after="r[@uid='{4593C144-A888-414C-8360-76118912F719}']"
+          s:ds="{2DC4BE59-A101-4086-9491-0AE42029C0ED}"
+          s:id="{E9189BB0-4352-4FC7-B5F6-7C992E35E897}"
+          s:par="buttonAlignment=%7BCF02F396-DAFD-448E-BC19-15E66C7CBA54%7D&amp;variant&amp;anchorText&amp;backgroundColor=%7BCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{D6134FB5-960B-4784-8AE2-7231655F27DC}"
+          p:after="*[1=2]"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{9E73D12F-3814-4CD5-B0FC-4169AB38CCA3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{88250E50-C817-4330-8E31-255CE3595ED0}"
+              p:after="p[@uid='{D14661AB-7F89-4E68-A125-FBBB88BFB7B6}']"
+              s:ds="{CFF50DB7-EF96-43DB-9E25-FABC9F296FBF}"
+              s:id="{3F0FC091-7ECA-4A39-AFAA-CE75110FA854}"
+              s:par="cardVariant=%7BC0DF1746-485D-4546-AEB1-6F1313FE52D9%7D&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+              s:ph="/jss-main/jss-col-2-{C3AB2319-3D54-452B-9872-94402DD4C8AC}-0" />
+            <r
+              uid="{77FF9230-E4B0-421F-9879-5D3C1CCDE47A}"
+              p:after="r[@uid='{88250E50-C817-4330-8E31-255CE3595ED0}']"
+              s:ds="{54591773-965C-4F68-9740-1365658CA56E}"
+              s:id="{3F0FC091-7ECA-4A39-AFAA-CE75110FA854}"
+              s:par="cardVariant=%7BC0DF1746-485D-4546-AEB1-6F1313FE52D9%7D&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+              s:ph="/jss-main/jss-col-1-{C3AB2319-3D54-452B-9872-94402DD4C8AC}-0" />
+            <r
+              uid="{5671F076-190F-4801-937C-1A101C442800}"
+              p:after="r[@uid='{77FF9230-E4B0-421F-9879-5D3C1CCDE47A}']"
+              s:ds="{C37E453C-D5D8-4C6B-8B3F-AFFA64FCA75D}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d%c3%b7r&amp;contentBlockType&amp;backgroundColor=%7b5FAA4B9B-7F56-4B83-BE82-328710EEF242%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+              s:ph="/jss-main/jss-col-2-{AB850553-2478-4767-8CE4-A07BB68E5AB1}-0" />
+            <r
+              uid="{D494854C-5E39-4ABE-AF1F-D609F9A1577A}"
+              p:after="r[@uid='{5671F076-190F-4801-937C-1A101C442800}']"
+              s:ds="{C013A56F-185E-4488-9678-0B0E769CEE02}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d%c3%b7r&amp;contentBlockType&amp;backgroundColor=%7b5FAA4B9B-7F56-4B83-BE82-328710EEF242%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+              s:ph="/jss-main/jss-col-1-{AB850553-2478-4767-8CE4-A07BB68E5AB1}-0" />
+            <r
+              uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d%c3%b7r&amp;anchorText&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;enableMargin&amp;divider" />
+            <r
+              uid="{C879EB9D-195D-4984-B164-F1DD756158FA}"
+              s:par="HeroBannerVariant&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider" />
+            <r
+              uid="{2476A374-8836-45FE-AF59-3CD0AE06BE82}">
+              <p:d />
+            </r>
+            <r
+              uid="{57AD34E9-D9E1-4B92-A392-E0A41486C935}">
+              <p:d />
+            </r>
+            <r
+              uid="{22357BEF-6C86-4B6A-A595-74EBDD5647C8}"
+              p:after="r[@uid='{C879EB9D-195D-4984-B164-F1DD756158FA}']"
+              s:ds="{C013A56F-185E-4488-9678-0B0E769CEE02}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7B5FAA4B9B-7F56-4B83-BE82-328710EEF242%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider=1"
+              s:ph="jss-main" />
+            <r
+              uid="{8AC5B99B-C713-4867-872C-F92F207C3052}"
+              p:after="r[@uid='{22357BEF-6C86-4B6A-A595-74EBDD5647C8}']"
+              s:ds="{C37E453C-D5D8-4C6B-8B3F-AFFA64FCA75D}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7B5FAA4B9B-7F56-4B83-BE82-328710EEF242%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{58DE128A-C719-4219-8AE1-D6DB1C4F2982}"
+              p:after="r[@uid='{8AC5B99B-C713-4867-872C-F92F207C3052}']"
+              s:ds="{D4C1FEEE-2E22-4430-BA3A-2137925A4292}"
+              s:id="{1B2D4D22-4BFA-48E9-ACD5-0120D07747F3}"
+              s:par="cardVariant=%7B21D6E3B0-DAD4-4DE5-A1CE-843A3DCCD6A8%7D&amp;cardType&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{2404358A-C964-43D4-BC89-35081AB40B36}"
+              p:after="r[@uid='{58DE128A-C719-4219-8AE1-D6DB1C4F2982}']"
+              s:ds="{2E79E957-2141-40B6-BF68-85124D0C0BAF}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BB47928D6-98FC-4B29-8D0F-586AB477286E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{F3D7BA11-528A-45EA-8D81-BB2969FC9641}"
+              p:after="r[@uid='{2404358A-C964-43D4-BC89-35081AB40B36}']"
+              s:ds="{6F3FD89C-9EAF-4E8A-AC54-CC12D0662B28}"
+              s:id="{55461938-90CF-4CC0-91A8-86E09686DF2A}"
+              s:par="anchorText&amp;backgroundColor=%7B5FAA4B9B-7F56-4B83-BE82-328710EEF242%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider=1"
+              s:ph="jss-main" />
+            <r
+              uid="{C3AB2319-3D54-452B-9872-94402DD4C8AC}"
+              p:after="r[@uid='{F3D7BA11-528A-45EA-8D81-BB2969FC9641}']"
+              s:ds="{A5A4DF48-B3BF-4F3D-AB5B-61214BA511F7}"
+              s:id="{5C411DAA-163A-4428-A5A3-29007787DE7D}"
+              s:par="numberOfColumns=%7B63A7FCF5-15A7-41A5-86EA-A3010A9D12AA%7D&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D%7C%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;carouselMode=%7BC81D8D8F-E8D9-468F-ACFC-BBDCE30D66EC%7D&amp;anchorText&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider=1"
+              s:ph="jss-main" />
+            <r
+              uid="{5BB333BC-7F5E-4715-99A9-C4941422C9B2}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6134FB5-960B-4784-8AE2-7231655F27DC}"
+              p:after="*[1=2]" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T061736Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: "Get ready for success. We offer you industry-leading support so you can start an exciting and rewarding career at FWD "
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value:  Be a part of our team
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: FWD Thailand, FWD insurance, FWD life insurance, review insurance FWD
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A23C784E-F2EE-45AA-B226-1F8F528E4987}"
+              p:after="p[@uid='{D14661AB-7F89-4E68-A125-FBBB88BFB7B6}']"
+              s:ds="{CFF50DB7-EF96-43DB-9E25-FABC9F296FBF}"
+              s:id="{3F0FC091-7ECA-4A39-AFAA-CE75110FA854}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;cardVariant=%7bC0DF1746-485D-4546-AEB1-6F1313FE52D9%7d&amp;anchorText&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+              s:ph="/jss-main/jss-col-2-{866B8AB8-9196-4A08-8F52-BF296EBF3CA8}-0" />
+            <r
+              uid="{5EF4B527-0881-4585-A4C8-9EF2C423150C}"
+              p:after="r[@uid='{A23C784E-F2EE-45AA-B226-1F8F528E4987}']"
+              s:ds="{54591773-965C-4F68-9740-1365658CA56E}"
+              s:id="{3F0FC091-7ECA-4A39-AFAA-CE75110FA854}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;cardVariant=%7bC0DF1746-485D-4546-AEB1-6F1313FE52D9%7d&amp;anchorText&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+              s:ph="/jss-main/jss-col-1-{866B8AB8-9196-4A08-8F52-BF296EBF3CA8}-0" />
+            <r
+              uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+              s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;enableMargin÷r&amp;anchorText&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;enableMargin&amp;divider" />
+            <r
+              uid="{C879EB9D-195D-4984-B164-F1DD756158FA}"
+              s:par="HeroBannerVariant&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider" />
+            <r
+              uid="{2476A374-8836-45FE-AF59-3CD0AE06BE82}">
+              <p:d />
+            </r>
+            <r
+              uid="{57AD34E9-D9E1-4B92-A392-E0A41486C935}">
+              <p:d />
+            </r>
+            <r
+              uid="{CD150E28-F182-463A-A814-A85937985154}"
+              p:after="r[@uid='{C879EB9D-195D-4984-B164-F1DD756158FA}']"
+              s:ds="{C013A56F-185E-4488-9678-0B0E769CEE02}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7B5FAA4B9B-7F56-4B83-BE82-328710EEF242%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider=1"
+              s:ph="jss-main" />
+            <r
+              uid="{6D85564C-CBA8-4158-B1F0-4207C918C0F9}"
+              p:after="r[@uid='{CD150E28-F182-463A-A814-A85937985154}']"
+              s:ds="{C37E453C-D5D8-4C6B-8B3F-AFFA64FCA75D}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{BE9C6BAD-DF28-4E0F-8615-7465F0293D39}"
+              p:after="r[@uid='{6D85564C-CBA8-4158-B1F0-4207C918C0F9}']"
+              s:ds="{D4C1FEEE-2E22-4430-BA3A-2137925A4292}"
+              s:id="{1B2D4D22-4BFA-48E9-ACD5-0120D07747F3}"
+              s:par="cardVariant=%7B21D6E3B0-DAD4-4DE5-A1CE-843A3DCCD6A8%7D&amp;cardType&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{3ACFA106-C888-4DCB-87BF-F01670A3E5BF}"
+              p:after="r[@uid='{BE9C6BAD-DF28-4E0F-8615-7465F0293D39}']"
+              s:ds="{2E79E957-2141-40B6-BF68-85124D0C0BAF}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{69B0239F-F8F9-4FDC-8DEF-5898B69AFECC}"
+              p:after="r[@uid='{3ACFA106-C888-4DCB-87BF-F01670A3E5BF}']"
+              s:ds="{6F3FD89C-9EAF-4E8A-AC54-CC12D0662B28}"
+              s:id="{55461938-90CF-4CC0-91A8-86E09686DF2A}"
+              s:par="anchorText&amp;backgroundColor=%7B5FAA4B9B-7F56-4B83-BE82-328710EEF242%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider=1"
+              s:ph="jss-main" />
+            <r
+              uid="{866B8AB8-9196-4A08-8F52-BF296EBF3CA8}"
+              p:after="r[@uid='{69B0239F-F8F9-4FDC-8DEF-5898B69AFECC}']"
+              s:ds="{A5A4DF48-B3BF-4F3D-AB5B-61214BA511F7}"
+              s:id="{5C411DAA-163A-4428-A5A3-29007787DE7D}"
+              s:par="numberOfColumns=%7B63A7FCF5-15A7-41A5-86EA-A3010A9D12AA%7D&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D%7C%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider=1"
+              s:ph="jss-main" />
+            <r
+              uid="{5BB333BC-7F5E-4715-99A9-C4941422C9B2}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6134FB5-960B-4784-8AE2-7231655F27DC}"
+              p:after="*[1=2]" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T062551Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: ที่เอฟดับบลิวดี ในฐานะหนึ่งในผู้นำแห่งวงการประกันชีวิต เราพร้อมให้การสนับสนุนอย่างเต็มที่ เพื่อให้คุณก้าวไปสู่เส้นแห่งความสำเร็จที่เปี่ยมสีสัน รวมทั้งผลตอบแทนที่คุ้มค่า 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: สนใจร่วมทีมตัวแทนฝ่ายขายของเรา
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: เอฟดับบลิวดีประเทศไทย, ประกันเอฟดับบลิวดี, เอฟดับบลิวดีประกันชีวิต, รีวิวประกันเอฟดับลิวดี

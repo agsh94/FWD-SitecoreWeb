@@ -1,0 +1,72 @@
+﻿---
+ID: "5af65b69-5cc1-4448-b065-e40e90962095"
+Parent: "d0db136f-9797-4704-bfe8-0673fb4f7d4b"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/career-landing/local-folder/career-development-plan"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Career development plan
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: "As a team member at FWD, you’ll enjoy a wide range of perks and benefits. We want to help you grow, and to this end we have a range of career-development approaches to help you unleash your full potential, including training, coaching, mentoring, and on the job learning."
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{CB745483-13CB-4469-9FE2-FE4AC7037845}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T081442Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{CB745483-13CB-4469-9FE2-FE4AC7037845}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "As a team member at FWD, you’ll enjoy a wide range of perks and benefits. We want to help you grow, and to this end we have a range of career-development approaches to help you unleash your full potential, including training, coaching, mentoring, and on the job learning."
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Career development plan
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: "As a team member at FWD, you’ll enjoy a wide range of perks and benefits. We want to help you grow, and to this end we have a range of career-development approaches to help you unleash your full potential, including training, coaching, mentoring, and on the job learning."
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{CB745483-13CB-4469-9FE2-FE4AC7037845}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T034318Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{CB745483-13CB-4469-9FE2-FE4AC7037845}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "As a team member at FWD, you’ll enjoy a wide range of perks and benefits. We want to help you grow, and to this end we have a range of career-development approaches to help you unleash your full potential, including training, coaching, mentoring, and on the job learning."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Career development plan
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"

@@ -1,0 +1,77 @@
+﻿---
+ID: "c40b2e92-dc67-40ed-a73e-ee0a789d735f"
+Parent: "09165cd1-759a-40e3-a8a0-f9fd1f6a37cd"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/press-releases/fwd-cleans-up-in-category-with-11-awards/local-folder/article-description-area/RTE Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200825T061226Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value: Test RTE styling
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>Authoring articles using RTE</p>
+        <p>Heading</p>
+        <p><span class="article-heading">The business has become renowned in Thailand, earning the award in Thailand Brand Leadership Awards in its insurance category and Best Contact Center Award.</span></p>
+        <p>Sub-Heading Large</p>
+        <p><span class="article-subheading-large">The business has become renowned in Thailand, earning the award in Thailand Brand Leadership Awards in its insurance category and Best Contact Center Award.</span></p>
+        <p>Sub-Heading Medium</p>
+        <p><span class="article-subheading-medium">The business has become renowned in Thailand, earning the award in Thailand Brand Leadership Awards in its insurance category and Best Contact Center Award.</span></p>
+        <p>Sub-Heading small</p>
+        <p><span class="article-subheading-small">The business has become renowned in Thailand, earning the award in Thailand Brand Leadership Awards in its insurance category and Best Contact Center Award.</span></p>
+        <p>Description</p>
+        <p><span class="article-description">Your personal data means any information relating to you that can identify you, whether directly or indirectly, from that data alone or in a combination with other identifiers we possess or can reasonably access, except information about the deceased. The types of personal data we collect will depend on the scope of services and/or type of products that you are interested in and we provide to you.</span></p>
+        <p>Quote</p>
+        <p><span class="article-quote">"Depending on the type of products or services you select or your relationship with us, FWD may collect and hold the following personal data"</span></p>
+        <p>Caption</p>
+        <p><span class="article-caption">Details about you, such as name, surname, gender, date of birth, educational background, occupation, marital status and nationality</span></p>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200826T041400Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>Authoring articles using RTE</p>
+        <p>&nbsp;</p>
+        <p>Heading</p>
+        <p>&nbsp;<span class="article-heading">ธุรกิจดังกล่าวมีชื่อเสียงในประเทศไทยโดยได้รับรางวัล Thailand Brand Leadership Awards ในประเภทประกันภัยและรางวัล Best Contact Center Award</span></p>
+        <p>&nbsp;</p>
+        <p>Sub-Heading Large</p>
+        <p>&nbsp;<span class="article-subheading-large">ธุรกิจดังกล่าวมีชื่อเสียงในประเทศไทยโดยได้รับรางวัล Thailand Brand Leadership Awards ในประเภทประกันภัยและรางวัล Best Contact Center Award</span></p>
+        <p>&nbsp;</p>
+        <p>Sub-Heading Medium</p>
+        <p><span class="article-subheading-medium">&nbsp;ธุรกิจดังกล่าวมีชื่อเสียงในประเทศไทยโดยได้รับรางวัล Thailand Brand Leadership Awards ในประเภทประกันภัยและรางวัล Best Contact Center Award</span></p>
+        <p>&nbsp;</p>
+        <p>Sub-Heading small</p>
+        <p><span class="article-subheading-small">ธุรกิจดังกล่าวมีชื่อเสียงในประเทศไทยโดยได้รับรางวัล Thailand Brand Leadership Awards ในประเภทประกันภัยและรางวัล Best Contact Center Award</span></p>
+        <p>&nbsp;</p>
+        <p>Description</p>
+        <p><span class="article-description">ข้อมูลส่วนบุคคลของคุณหมายถึงข้อมูลใด ๆ ที่เกี่ยวข้องกับคุณซึ่งสามารถระบุตัวตนของคุณได้ไม่ว่าโดยตรงหรือโดยอ้อมจากข้อมูลนั้นเพียงอย่างเดียวหรือใช้ร่วมกับตัวระบุอื่น ๆ ที่เรามีหรือสามารถเข้าถึงได้อย่างสมเหตุสมผลยกเว้นข้อมูลเกี่ยวกับผู้เสียชีวิต ประเภทของข้อมูลส่วนบุคคลที่เรารวบรวมจะขึ้นอยู่กับขอบเขตของบริการและ / หรือประเภทของผลิตภัณฑ์ที่คุณสนใจและเราให้บริการแก่คุณ test data&nbsp;<span style="color: #183028;">ข้อมูลส่วนบุคคลของคุณหมายถึงข้อมูล</span></span></p>
+        <p>&nbsp;</p>
+        <p>Quote</p>
+        <p><span class="article-quote">"ขึ้นอยู่กับประเภทของผลิตภัณฑ์หรือบริการที่คุณเลือกหรือความสัมพันธ์ของคุณกับเรา FWD อาจรวบรวมและเก็บข้อมูลส่วนบุคคลต่อไปนี้"</span></p>
+        <p>&nbsp;</p>
+        <p>Caption</p>
+        <p><span class="article-caption">&nbsp;รายละเอียดเกี่ยวกับตัวคุณเช่นชื่อนามสกุลเพศวันเกิดวุฒิการศึกษาอาชีพสถานภาพสมรสและสัญชาติ</span></p>
+        <p><span class="article-caption">&nbsp;</span></p>
+        <p>Authoring articles using RTE ends here</p>

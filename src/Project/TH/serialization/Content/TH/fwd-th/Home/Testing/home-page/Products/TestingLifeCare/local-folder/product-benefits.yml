@@ -1,0 +1,54 @@
+﻿---
+ID: "c14fed1d-2d09-42c7-8683-6b8e8e192591"
+Parent: "01b429b3-7b00-409b-801a-e5bb3907be93"
+Template: "746ac162-3a57-433e-b006-f0967fb26e8e"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/TestingLifeCare/local-folder/product-benefits"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Product Benefits
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191112T092628Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7a7d16f5-9b1f-4f07-b3c1-5c82f815a5cd"
+      Hint: benefitList
+      Type: TreelistEx
+      Value: |
+        {94FE5D84-950C-447D-9C73-5589B3B4B1C1}
+        {3E8C9309-B869-4759-ADA5-EFCA31635493}
+        {42E34930-2FE9-4B5B-94BF-AD5F53C52884}
+        {6A5FDE71-A62E-489C-BFE1-3E9B46719833}
+        {DBD8793B-D846-4F88-B2B5-82D0E4E21C77}
+        {6A70D6E2-BC60-44CB-BB0B-2610D68B85B7}
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T101137Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7a7d16f5-9b1f-4f07-b3c1-5c82f815a5cd"
+      Hint: benefitList
+      Type: TreelistEx
+      Value: |
+        {94FE5D84-950C-447D-9C73-5589B3B4B1C1}
+        {3E8C9309-B869-4759-ADA5-EFCA31635493}
+        {42E34930-2FE9-4B5B-94BF-AD5F53C52884}
+        {6A5FDE71-A62E-489C-BFE1-3E9B46719833}
+        {DBD8793B-D846-4F88-B2B5-82D0E4E21C77}
+        {6A70D6E2-BC60-44CB-BB0B-2610D68B85B7}
+        {8ADE863B-8871-4925-89D7-BF3D6D4B1A05}

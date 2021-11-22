@@ -1,0 +1,80 @@
+﻿---
+ID: "f0ce6ffa-3e8f-4685-a9cd-30ba77f54309"
+Parent: "2b4fb7e0-eaba-42f8-a22e-a04886fcb0eb"
+Template: "8e353b27-e5f9-4361-b332-9b3557fb7cd8"
+Path: "/sitecore/content/fwd/fwd-th/Components/New Leaders/LeadersNew/Apirak C"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 900
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{08FA6C38-0270-46A5-81A0-230927D9D971}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200930T072520Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: Apirak Chitranondh
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: "With more than 28 years industry experience, Apirak is responsible for planning and managing our digital technology initiatives, and wider commercial operations. He ensures we have the right people, products and processes in place - so that we can provide the best experience to our customers.&nbsp;"
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: Chief Operations Officer
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{08FA6C38-0270-46A5-81A0-230927D9D971}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{08FA6C38-0270-46A5-81A0-230927D9D971}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200930T072801Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: อภิรักษ์ จิตรานนท์
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: คุณอภิรักษ์ได้นำประสบการณ์ในอุตสาหกรรมที่สะสมมากว่า 28 ปี มาใช้ในการดูแลรับผิดชอบด้านการวางแผนและการจัดการด้านการริเริ่มทางเทคโนโลยีดิจิทัล รวมทั้งการปฎิบัติการเชิงพาณิชย์ในขอบเขตที่กว้างขึ้น เขามั่นใจว่าเรามีบุคลากรที่มีความสามารถ ตลอดจนมีผลิตภัณฑ์และกระบวนการที่เหมาะสม ดังนั้นเราจึงสามารถมอบบริการที่ดีที่สุดให้แก่ลูกค้าได้เสมอ&nbsp;
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: ประธานเจ้าหน้าที่ สายงานปฏิบัติการ
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{08FA6C38-0270-46A5-81A0-230927D9D971}" />
+    - ID: "ffce884f-680c-485e-9bef-f4dbf574d377"
+      Hint: featuredPictogramImage
+      Value: |
+        <image mediaid="{F7D82769-AF23-4E37-B4F1-C32E0C641585}" />

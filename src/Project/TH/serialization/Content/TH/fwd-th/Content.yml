@@ -1,0 +1,41 @@
+﻿---
+ID: "0e40abdb-cf6f-452f-8bd5-ef1a48f901f6"
+Parent: "c3bdd602-4fed-4688-b5bd-3d021994351a"
+Template: "6cb4dc66-e4e8-4cad-8cad-2883fd3ff0c5"
+Path: "/sitecore/content/fwd/fwd-th/Content"
+DB: master
+SharedFields:
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Type: Checkbox
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\FWD TH Administrator|pe|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|pd|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|ar|sitecore\FWDTH Author|pe|-item:create|-item:write|-item:delete|-item:rename|pd|-item:create|-item:write|-item:delete|-item:rename|ar|sitecore\FWD TH Author|pe|+item:create|+item:read|-item:admin|+item:rename|+item:delete|+item:write|^*|pd|+item:create|+item:read|-item:admin|+item:rename|+item:delete|+item:write|^*|
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Master Data
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191009T060729Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T065031Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

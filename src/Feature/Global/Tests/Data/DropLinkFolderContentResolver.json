@@ -1,0 +1,259 @@
+{
+    "Datasource Item": {
+        "subTitle": {
+            "value": "To meet the real needs of customers, FWD proactively collaborates with partners from different fields, integrating insurance into people’s everyday life."
+        },
+        "title": {
+            "value": "Our partners"
+        },
+        "description": {
+            "value": "To meet the real needs of customers, FWD proactively collaborates with partners from different fields, integrating insurance into people’s everyday life."
+        },
+        "link": {
+            "value": {
+                "href": "/",
+                "text": "View More",
+                "anchor": "",
+                "linktype": "internal",
+                "class": "",
+                "title": "",
+                "target": "",
+                "querystring": "",
+                "id": "{D9C6779B-43E9-4106-8357-AD0510A8547C}"
+            }
+        },
+        "linkItems": {
+            "id": "29e2e731-bda2-4825-812a-88823d59a477",
+            "url": "/Components/Partners",
+            "fields": {
+
+            }
+        }
+    },
+	"Datasource Item 2": {
+        "subTitle": {
+            "value": "To meet the real needs of customers, FWD proactively collaborates with partners from different fields, integrating insurance into people’s everyday life."
+        },
+        "title": {
+            "value": "Our partners"
+        },
+        "description": {
+            "value": "To meet the real needs of customers, FWD proactively collaborates with partners from different fields, integrating insurance into people’s everyday life."
+        },
+        "link": {
+            "value": {
+                "href": "/",
+                "text": "View More",
+                "anchor": "",
+                "linktype": "internal",
+                "class": "",
+                "title": "",
+                "target": "",
+                "querystring": "",
+                "id": "{D9C6779B-43E9-4106-8357-AD0510A8547C}"
+            }
+        },
+    },
+    "Child Item1": {
+        "link": {
+            "value": {
+                "href": "/",
+                "text": "",
+                "anchor": "",
+                "linktype": "internal",
+                "class": "",
+                "title": "Partner 1",
+                "querystring": "",
+                "id": "{D9C6779B-43E9-4106-8357-AD0510A8547C}"
+            }
+        },
+        "shortDescription": {
+            "value": ""
+        },
+        "title": {
+            "value": "Partner 1"
+        },
+        "image": {
+            "value": {
+                "src": "http://fwd-th.dev.local/-/media/fwd/project/th/img/placeholder400-200.jpg?h=200&w=400&hash=6500C06131AC4126D1089335CFAF2852",
+                "alt": "",
+                "width": "400",
+                "height": "200"
+            }
+        }
+    },
+    "Child Item2": {
+        "link": {
+            "value": {
+                "href": "/",
+                "text": "",
+                "anchor": "",
+                "linktype": "internal",
+                "class": "",
+                "title": "Partner 2",
+                "querystring": "",
+                "id": "{D9C6779B-43E9-4106-8357-AD0510A8547C}"
+            }
+        },
+        "shortDescription": {
+            "value": ""
+        },
+        "title": {
+            "value": "Partner 2"
+        },
+        "image": {
+            "value": {
+                "src": "http://fwd-th.dev.local/-/media/fwd/project/th/img/placeholder400-200.jpg?h=200&w=400&hash=6500C06131AC4126D1089335CFAF2852",
+                "alt": "",
+                "width": "400",
+                "height": "200"
+            }
+        }
+    },
+    "Child Item3": {
+        "link": {
+            "value": {
+                "href": "/",
+                "text": "",
+                "anchor": "",
+                "linktype": "internal",
+                "class": "",
+                "title": "Partner 3",
+                "querystring": "",
+                "id": "{D9C6779B-43E9-4106-8357-AD0510A8547C}"
+            }
+        },
+        "shortDescription": {
+            "value": ""
+        },
+        "title": {
+            "value": "Partner 3"
+        },
+        "image": {
+            "value": {
+                "src": "http://fwd-th.dev.local/-/media/fwd/project/th/img/placeholder400-200.jpg?h=200&w=400&hash=6500C06131AC4126D1089335CFAF2852",
+                "alt": "",
+                "width": "400",
+                "height": "200"
+            }
+        }
+    },
+    "Child Item4": {
+        "link": {
+            "value": {
+                "href": "/",
+                "text": "",
+                "anchor": "",
+                "linktype": "internal",
+                "class": "",
+                "title": "Partner 4",
+                "querystring": "",
+                "id": "{D9C6779B-43E9-4106-8357-AD0510A8547C}"
+            }
+        },
+        "shortDescription": {
+            "value": ""
+        },
+        "title": {
+            "value": "Partner 4"
+        },
+        "image": {
+            "value": {
+                "src": "http://fwd-th.dev.local/-/media/fwd/project/th/img/placeholder400-200.jpg?h=200&w=400&hash=6500C06131AC4126D1089335CFAF2852",
+                "alt": "",
+                "width": "400",
+                "height": "200"
+            }
+        }
+    },
+    "Child Item5": {
+        "link": {
+            "value": {
+                "href": "/",
+                "text": "",
+                "anchor": "",
+                "linktype": "internal",
+                "class": "",
+                "title": "Partner 5",
+                "querystring": "",
+                "id": "{D9C6779B-43E9-4106-8357-AD0510A8547C}"
+            }
+        },
+        "shortDescription": {
+            "value": ""
+        },
+        "title": {
+            "value": "Partner 5"
+        },
+        "image": {
+            "value": {
+                "src": "http://fwd-th.dev.local/-/media/fwd/project/th/img/placeholder400-200.jpg?h=200&w=400&hash=6500C06131AC4126D1089335CFAF2852",
+                "alt": "",
+                "width": "400",
+                "height": "200"
+            }
+        }
+    },
+	"MultiList Item1": {
+        
+        "shortDescription": {
+            "value": ""
+        },
+        "title": {
+            "value": "Partner 4"
+        },
+        "image": {
+            "value": {
+                "src": "http://fwd-th.dev.local/-/media/fwd/project/th/img/placeholder400-200.jpg?h=200&w=400&hash=6500C06131AC4126D1089335CFAF2852",
+                "alt": "",
+                "width": "400",
+                "height": "200"
+            }
+        }
+    },
+	"MultiList Item2": {
+        
+        "shortDescription": {
+            "value": ""
+        },
+        "title": {
+            "value": "Partner 4"
+        },
+        "image": {
+            "value": {
+                "src": "http://fwd-th.dev.local/-/media/fwd/project/th/img/placeholder400-200.jpg?h=200&w=400&hash=6500C06131AC4126D1089335CFAF2852",
+                "alt": "",
+                "width": "400",
+                "height": "200"
+            }
+        }
+    },
+    "Sub Child Item": {
+        "link": {
+            "value": {
+                "href": "/",
+                "text": "",
+                "anchor": "",
+                "linktype": "internal",
+                "class": "",
+                "title": "Partner 5",
+                "querystring": "",
+                "id": "{D9C6779B-43E9-4106-8357-AD0510A8547C}"
+            }
+        },
+        "shortDescription": {
+            "value": ""
+        },
+        "title": {
+            "value": "Sub Child Item"
+        },
+        "image": {
+            "value": {
+                "src": "http://fwd-th.dev.local/-/media/fwd/project/th/img/placeholder400-200.jpg?h=200&w=400&hash=6500C06131AC4126D1089335CFAF2852",
+                "alt": "",
+                "width": "400",
+                "height": "200"
+            }
+        }
+    }
+}

@@ -1,0 +1,18 @@
+﻿---
+ID: "fc36e0e6-53bc-4691-a35c-f7c31fa84dcf"
+Parent: "8dd87e34-2bb9-4658-b67d-9c2f83f4f457"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/FWD/TH/images/nextgen-vdo"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200923T032818Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee

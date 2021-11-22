@@ -1,0 +1,31 @@
+﻿---
+ID: "b055c128-87ea-4940-908c-c76dab247adc"
+Parent: "88e88b53-d713-4557-a523-e22b330d0c7f"
+Template: "fa86f689-9071-4d22-83df-c3fc48edda47"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Max/local-folder/stepper"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200130T123354Z
+    - ID: "6a635232-2b2c-43da-8cf4-c0b36981424e"
+      Hint: title
+      Value: Start living to the Max today
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T060935Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6a635232-2b2c-43da-8cf4-c0b36981424e"
+      Hint: title
+      Value: Start living to the MAX today

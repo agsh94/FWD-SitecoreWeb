@@ -1,0 +1,231 @@
+﻿---
+ID: "23b120e4-59d2-43fe-bdb8-1a042f074953"
+Parent: "ee059d7f-e3cb-48a5-8d59-80f5a379e509"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/fwd-max-campaign/local-folder/Article Description Area/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200805T103344Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hein
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ลูกค้าเอฟดับบลิวดี เพียงดาวน์โหลดและลงทะเบียนยืนยันตัวตนผ่านแอปพลิเคชัน FWD MAX ก็มีสิทธิ์ลุ้นรับของพรีเมียมสุดพิเศษจากเราได้ง่ายๆ</p>
+        <p>&nbsp;</p>
+        <p><img alt="" style="width:100%;" src="-/media/9fa8fc44de70497fa2b7f0d19ae0ddf8.ashx" /></p>
+        <p>&nbsp;</p>
+        <p><span>เงื่อนไขของกิจกรรม:</span></p>
+        <ul style="margin-top: 0cm; list-style-type: disc;">
+            <li><span>สำหรับลูกค้าที่เป็นผู้เอาประกันของเอฟดับบลิวดีเท่านั้น และไม่สามารถโอนสิทธิ์ให้บุคคลอื่นได้ทุกกรณี</span></li>
+            <li><span>สำหรับลูกค้าได้รับข้อความ </span><span>SMS เรียนเชิญของกิจกรรมนี้เท่านั้น</span></li>
+            <li><span>สำหรับลูกค้าที่ลงทะเบียนยืนยันตัวตนผ่าน </span><span>FWD MAX ด้วยเลขที่บัตรประชาชนเป็นครั้งแรกเท่านั้น (1 เลขที่บัตรประชาชน / 1 หมายเลขโทรศัพท์มือถือ / 1 ลูกค้าผู้เอาประกันภัย)</span></li>
+            <li><span>ระยะเวลาลงทะเบียน </span><span>FWD MAX ตั้งแต่วันที่ XX กรกฎาคม เวลา 10:00 น. (เวลาประเทศไทย) ถึง XX สิงหาคม 2563 เวลา 20:00 น. (เวลาประเทศไทย) เท่านั้น</span></li>
+            <li><span>ลูกค้าที่ลงทะเบียนเป็นลำดับที่ </span><span>10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170 ,180, 190, 200, 210, 220, 230, 240, 250, 260, 270, 280, 290, 300, 310, 320, 330, 340, 350, 360, 370, 380, 390, 400, 410, 420, 430, 440, 450, 460, 470, 480, 490, 500 จะได้รับของพรีเมียมในแคมเปญตามที่กำหนด</span></li>
+            <li><span>ลูกค้าที่ได้รับรางวัลจำกัด </span><span>1 สิทธิ์ / 1 คน / 1 ของรางวัล </span></li>
+            <li><span>ของรางวัลเป็นไปตามที่บริษัทฯ กำหนด ไม่สามารถเปลี่ยน หรือแลกเป็นของรางวัลอย่างอื่นได้ในทุกกรณี</span></li>
+            <li><span>ลูกค้าที่ได้รับของพรีเมียมจะได้รับของรางวัลทางไปรษณีย์หลังจากสิ้นสุดกิจกรรมแล้วประมาณ </span><span>60 วันทำการ</span></li>
+            <li><span>บริษัทฯ ขอสงวนสิทธิ์ในการเปลี่ยนแปลงเงื่อนไขโดยไม่จำเป็นต้องแจ้งให้ทราบล่วงหน้า</span></li>
+            <li><span>คำตัดสินใดๆ ของบริษัทฯ ถือเป็นที่สิ้นสุด</span></li>
+        </ul>
+        <p>&nbsp;</p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200806T033514Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hein
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ลูกค้าเอฟดับบลิวดี เพียงดาวน์โหลดและลงทะเบียนยืนยันตัวตนผ่านแอปพลิเคชัน FWD MAX ก็มีสิทธิ์ลุ้นรับของพรีเมียมสุดพิเศษจากเราได้ง่ายๆ</p>
+        <p>&nbsp;</p>
+        <p><img alt="" style="width:100%;" src="-/media/9fa8fc44de70497fa2b7f0d19ae0ddf8.ashx" /></p>
+        <p>&nbsp;</p>
+        <p><span>เงื่อนไขของกิจกรรม:</span></p>
+        <ul style="margin-top: 0cm; list-style-type: disc;">
+            <li><span>สำหรับลูกค้าที่เป็นผู้เอาประกันของเอฟดับบลิวดีเท่านั้น และไม่สามารถโอนสิทธิ์ให้บุคคลอื่นได้ทุกกรณี</span></li>
+            <li><span>สำหรับลูกค้าได้รับข้อความ </span><span>SMS เรียนเชิญของกิจกรรมนี้เท่านั้น</span></li>
+            <li><span>สำหรับลูกค้าที่ลงทะเบียนยืนยันตัวตนผ่าน </span><span>FWD MAX ด้วยเลขที่บัตรประชาชนเป็นครั้งแรกเท่านั้น (1 เลขที่บัตรประชาชน / 1 หมายเลขโทรศัพท์มือถือ / 1 ลูกค้าผู้เอาประกันภัย)</span></li>
+            <li><span>ระยะเวลาลงทะเบียน </span><span>FWD MAX ตั้งแต่วันที่ 7 สิงหาคม ถึง 9 สิงหาคม 2563 เท่านั้น</span></li>
+            <li><span>ลูกค้าที่ลงทะเบียนเป็นลำดับที่ </span><span>10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170 ,180, 190, 200, 210, 220, 230, 240, 250, 260, 270, 280, 290, 300, 310, 320, 330, 340, 350, 360, 370, 380, 390, 400, 410, 420, 430, 440, 450, 460, 470, 480, 490, 500 จะได้รับของพรีเมียมในแคมเปญตามที่กำหนด</span></li>
+            <li><span>ลูกค้าที่ได้รับรางวัลจำกัด </span><span>1 สิทธิ์ / 1 คน / 1 ของรางวัล </span></li>
+            <li><span>ของรางวัลเป็นไปตามที่บริษัทฯ กำหนด ไม่สามารถเปลี่ยน หรือแลกเป็นของรางวัลอย่างอื่นได้ในทุกกรณี</span></li>
+            <li><span>ลูกค้าที่ได้รับของพรีเมียมจะได้รับของรางวัลทางไปรษณีย์หลังจากสิ้นสุดกิจกรรมแล้วประมาณ </span><span>60 วันทำการ</span></li>
+            <li><span>บริษัทฯ ขอสงวนสิทธิ์ในการเปลี่ยนแปลงเงื่อนไขโดยไม่จำเป็นต้องแจ้งให้ทราบล่วงหน้า</span></li>
+            <li><span>คำตัดสินใดๆ ของบริษัทฯ ถือเป็นที่สิ้นสุด</span></li>
+        </ul>
+        <p>&nbsp;</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200806T033514Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200813T012118Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Sirisak
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ลูกค้าเอฟดับบลิวดี เพียงดาวน์โหลดและลงทะเบียนยืนยันตัวตนผ่านแอปพลิเคชัน FWD MAX ก็มีสิทธิ์ลุ้นรับของพรีเมียมสุดพิเศษจากเราได้ง่ายๆ</p>
+        <p>&nbsp;</p>
+        <p><img alt="" style="width:100%;" src="-/media/9fa8fc44de70497fa2b7f0d19ae0ddf8.ashx" /></p>
+        <p>&nbsp;</p>
+        <p><span>เงื่อนไขของกิจกรรม:</span></p>
+        <ul style="margin-top: 0cm; list-style-type: disc;">
+            <li><span>สำหรับลูกค้าที่เป็นผู้เอาประกันของเอฟดับบลิวดีเท่านั้น และไม่สามารถโอนสิทธิ์ให้บุคคลอื่นได้ทุกกรณี</span></li>
+            <li><span>สำหรับลูกค้าได้รับข้อความ </span><span>SMS เรียนเชิญของกิจกรรมนี้เท่านั้น</span></li>
+            <li><span>สำหรับลูกค้าที่ลงทะเบียนยืนยันตัวตนผ่าน </span><span>FWD MAX ด้วยเลขที่บัตรประชาชนเป็นครั้งแรกเท่านั้น (1 เลขที่บัตรประชาชน / 1 หมายเลขโทรศัพท์มือถือ / 1 ลูกค้าผู้เอาประกันภัย)</span></li>
+            <li><span>ระยะเวลาลงทะเบียน </span><span>FWD MAX ของกิจกรรมรอบที่ 2 ตั้งแต่วันที่ 14 สิงหาคม ถึง 16 สิงหาคม 2563 เท่านั้น</span></li>
+            <li><span>ลูกค้าที่ลงทะเบียนเป็นลำดับที่ </span><span>10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170 ,180, 190, 200, 210, 220, 230, 240, 250, 260, 270, 280, 290, 300, 310, 320, 330, 340, 350, 360, 370, 380, 390, 400, 410, 420, 430, 440, 450, 460, 470, 480, 490, 500 จะได้รับของพรีเมียมในแคมเปญตามที่กำหนด</span></li>
+            <li><span>ลูกค้าที่ได้รับรางวัลจำกัด </span><span>1 สิทธิ์ / 1 คน / 1 ของรางวัล </span></li>
+            <li><span>ของรางวัลเป็นไปตามที่บริษัทฯ กำหนด ไม่สามารถเปลี่ยน หรือแลกเป็นของรางวัลอย่างอื่นได้ในทุกกรณี</span></li>
+            <li><span>ลูกค้าที่ได้รับของพรีเมียมจะได้รับของรางวัลทางไปรษณีย์หลังจากสิ้นสุดกิจกรรมแล้วประมาณ </span><span>60 วันทำการ</span></li>
+            <li><span>บริษัทฯ ขอสงวนสิทธิ์ในการเปลี่ยนแปลงเงื่อนไขโดยไม่จำเป็นต้องแจ้งให้ทราบล่วงหน้า</span></li>
+            <li><span>คำตัดสินใดๆ ของบริษัทฯ ถือเป็นที่สิ้นสุด</span></li>
+        </ul>
+        <p>&nbsp;</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200813T012118Z
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200817T073230Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sirisak
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ลูกค้าเอฟดับบลิวดี เพียงดาวน์โหลดและลงทะเบียนยืนยันตัวตนผ่านแอปพลิเคชัน FWD MAX ก็มีสิทธิ์ลุ้นรับของพรีเมียมสุดพิเศษจากเราได้ง่ายๆ&nbsp;</p>
+        <ul style="margin-top: 0cm; list-style-type: disc;">
+        </ul>
+        <p>&nbsp;</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200817T073230Z
+  - Version: 5
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T093436Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sirisak
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ลูกค้าเอฟดับบลิวดี เพียงดาวน์โหลดและลงทะเบียนยืนยันตัวตนผ่านแอปพลิเคชัน FWD MAX ก็มีสิทธิ์ลุ้นรับของพรีเมียมสุดพิเศษจากเราได้ง่ายๆ&nbsp;</p>
+        <ul style="margin-top: 0cm; list-style-type: disc;">
+        </ul>
+        <p><img alt="" src="-/media/4006beb414df4451a709e77e9340ad63.ashx" /></p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200820T093436Z
+  - Version: 6
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T102112Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sirisak
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ลูกค้าเอฟดับบลิวดี เพียงดาวน์โหลดและลงทะเบียนยืนยันตัวตนผ่านแอปพลิเคชัน FWD MAX ก็มีสิทธิ์ลุ้นรับของพรีเมียมสุดพิเศษจากเราได้ง่ายๆ&nbsp;</p>
+        <ul style="margin-top: 0cm; list-style-type: disc;">
+        </ul>
+        <p><img alt="" src="-/media/4006beb414df4451a709e77e9340ad63.ashx" /></p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200820T102112Z
+  - Version: 7
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200821T024744Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sirisak
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ลูกค้าเอฟดับบลิวดี เพียงดาวน์โหลดและลงทะเบียนยืนยันตัวตนผ่านแอปพลิเคชัน FWD MAX ก็มีสิทธิ์ลุ้นรับของพรีเมียมสุดพิเศษจากเราได้ง่ายๆ&nbsp;</p>
+        <ul style="margin-top: 0cm; list-style-type: disc;">
+        </ul>
+        <p><img alt="img" src="-/media/4006beb414df4451a709e77e9340ad63.ashx" style="width: 100%;" /></p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200821T024744Z
+  - Version: 8
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200903T083316Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D80D2A5C-D5F8-4DA1-8828-B4F51D64461B}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ลูกค้าเอฟดับบลิวดี เพียงดาวน์โหลดและลงทะเบียนยืนยันตัวตนผ่านแอปพลิเคชัน FWD MAX ก็มีสิทธิ์ลุ้นรับของพรีเมียมสุดพิเศษจากเราได้ง่ายๆ&nbsp;</p>
+        <ul style="margin-top: 0cm; list-style-type: disc;">
+        </ul>
+        <p><img alt="img" src="-/media/4006beb414df4451a709e77e9340ad63.ashx" style="width: 100%;" /></p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200903T083316Z

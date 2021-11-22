@@ -1,0 +1,41 @@
+﻿---
+ID: "341b7b93-092a-49a3-beda-75a71af8e94a"
+Parent: "bc5ca320-c4e5-44bb-98e9-d3c9e499569d"
+Template: "eabac21b-6db4-440b-a870-54f781d7793d"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/Claims/accident-and-health/local-folder/claim-process/step-3"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Step 3
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191215T124411Z
+    - ID: "778e9348-71cc-4fbf-a90d-f23d7f4d44d6"
+      Hint: subtitle
+      Value: Submit
+    - ID: "e4960630-7385-4643-b050-6938d17aad55"
+      Hint: title
+      Value: 3
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T085052Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "778e9348-71cc-4fbf-a90d-f23d7f4d44d6"
+      Hint: subtitle
+      Value: Submit
+    - ID: "e4960630-7385-4643-b050-6938d17aad55"
+      Hint: title
+      Value: 3

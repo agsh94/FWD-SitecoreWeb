@@ -1,0 +1,27 @@
+﻿---
+ID: "08981618-890e-4d69-8ed6-2b9b0f9239e4"
+Parent: "00ac7c45-a8a2-492c-97c7-f3e2d9fca77a"
+Template: "e53c4083-970e-4785-b407-4bf7b0944994"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Claims/accident-and-health 1/local-folder/GroupTab List"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "12082ef3-9eba-4971-a5e9-4fffc996a826"
+      Hint: description
+      Value: Description lorem
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T074648Z
+    - ID: "28acf503-5a8e-4192-8c9d-9e208241d584"
+      Hint: header
+      Value: Heading Lorem
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b263d36b-9f64-47da-93d4-07b2c40cae1a"
+      Hint: subheader
+      Value: You would like to make a travel insurance claim for

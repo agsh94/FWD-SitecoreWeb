@@ -1,0 +1,43 @@
+﻿---
+ID: "dafa174b-ab18-4821-ba4a-c9bb5aadf0d6"
+Parent: "8040dacc-b8a4-4d2d-9ef2-bfe94a9b7f35"
+Template: "8bac8cc4-dec2-4c0c-9d84-6dfb7d398819"
+Path: "/sitecore/content/fwd/fwd-th/Components/footerLinks/footer-quick-links/Sitemap"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200226T070157Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="แผนผังเว็บไซต์" anchor="" linktype="internal" class="" title="แผนผังเว็บไซต์"  querystring="" id="{6D4D73F8-997F-44B4-9503-87589C0201EC}" />
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: Sitemap
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200314T094102Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="แผนผังเว็บไซต์" anchor="" linktype="internal" class="" title="แผนผังเว็บไซต์"  querystring="" id="{6D4D73F8-997F-44B4-9503-87589C0201EC}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: แผนผังเว็บไซต์

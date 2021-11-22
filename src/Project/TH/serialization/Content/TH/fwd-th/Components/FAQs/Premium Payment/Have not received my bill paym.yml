@@ -1,0 +1,140 @@
+﻿---
+ID: "a6cbeb9a-781f-4176-97dc-627cff41665f"
+Parent: "c05e411a-47c7-4319-8ca5-efbdd5a5f017"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Premium Payment/Have not received my bill payment"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T090236Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "What should I do if I haven&rsquo;t received my &lsquo;bill payment&rsquo; statement?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        Sometimes the post can be delayed but if you haven&rsquo;t received it around 20 days before your expected due date, simply contact our call centre and we&rsquo;ll sort it out. Alternatively, you can find information on how to pay your premium via <strong><a href="https://fwdlink.fwd.co.th/fwd/?utm_source=fwd-website&amp;utm_medium=referral&amp;utm_campaign=20200921-fwd-website-info">FWD Link </a></strong>our customer portal. This is fast, easy, and totally free. &nbsp;
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T091456Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "What should I do if I haven&rsquo;t received my &lsquo;bill payment&rsquo; statement?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        Sometimes the post can be delayed but if you haven&rsquo;t received it around 20 days before your expected due date, simply contact our call centre and we&rsquo;ll sort it out. Alternatively, you can find information on how to pay your premium via <strong><a href="https://fwdlink.fwd.co.th/fwd/?utm_source=fwd-website&amp;utm_medium=referral&amp;utm_campaign=20200921-fwd-website-info">FWD Link </a></strong>our customer portal. This is fast, easy, and totally free. &nbsp;
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201008T091456Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T091839Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "What should I do if I haven&rsquo;t received my &lsquo;bill payment&rsquo; statement?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        Sometimes the post can be delayed but if you haven&rsquo;t received it around 20 days before your expected due date, simply contact our call centre and we&rsquo;ll sort it out. Alternatively, you can find information on how to pay your premium via <strong><a href="https://fwdlink.fwd.co.th/fwd/?utm_source=fwd-website&amp;utm_medium=referral&amp;utm_campaign=20200921-fwd-website-info">FWD Link </a></strong>our customer portal. This is fast, easy, and totally free. &nbsp;
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201008T091839Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T090007Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "จะต้องทำอย่างไร หากไม่ได้รับ &lsquo;ใบแจ้งถึงกำหนดชำระเบี้ยประกันภัย&rsquo;?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: บางครั้งไปรษณีย์อาจนำจ่ายล่าช้า แต่หากคุณยังไม่ได้รับ &lsquo;ใบแจ้งถึงกำหนดชำระเบี้ยประกันภัย&rsquo; ภายใน 20 วันก่อนถึงวันครบกำหนดชำระเบี้ย กรุณาติดต่อฝ่ายบริการลูกค้าของเรา เพื่อให้เราทำการแก้ไข ทั้งนี้คุณสามารถตรวจสอบข้อมูลเกี่ยวกับการชำระเบี้ยประกันของคุณได้ทางเว็บไซต์ FWD ซึ่งออกแบบมาให้คุณใช้ง่าย รวดเร็ว และไม่ต้องเสียค่าใช้จ่ายใดๆ&nbsp;
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T090736Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "จะต้องทำอย่างไร หากไม่ได้รับ &lsquo;ใบแจ้งถึงกำหนดชำระเบี้ยประกันภัย&rsquo;?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        บางครั้งไปรษณีย์อาจนำจ่ายล่าช้า แต่หากคุณยังไม่ได้รับ &lsquo;ใบแจ้งถึงกำหนดชำระเบี้ยประกันภัย&rsquo; ภายใน 20 วันก่อนถึงวันครบกำหนดชำระเบี้ย กรุณาติดต่อฝ่ายบริการลูกค้าของเรา เพื่อให้เราทำการแก้ไข ทั้งนี้คุณสามารถตรวจสอบข้อมูลเกี่ยวกับการชำระเบี้ยประกันของคุณได้ที่ <strong><a href="https://fwdlink.fwd.co.th/fwd/?utm_source=fwd-website&amp;utm_medium=referral&amp;utm_campaign=20200921-fwd-website-info">FWD Link</a></strong> ซึ่งออกแบบมาให้คุณใช้ง่าย รวดเร็ว และไม่ต้องเสียค่าใช้จ่ายใดๆ&nbsp;
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201008T090736Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T091821Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "จะต้องทำอย่างไร หากไม่ได้รับ &lsquo;ใบแจ้งถึงกำหนดชำระเบี้ยประกันภัย&rsquo;?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        บางครั้งไปรษณีย์อาจนำจ่ายล่าช้า แต่หากคุณยังไม่ได้รับ &lsquo;ใบแจ้งถึงกำหนดชำระเบี้ยประกันภัย&rsquo; ภายใน 20 วันก่อนถึงวันครบกำหนดชำระเบี้ย กรุณาติดต่อฝ่ายบริการลูกค้าของเรา เพื่อให้เราทำการแก้ไข ทั้งนี้คุณสามารถตรวจสอบข้อมูลเกี่ยวกับการชำระเบี้ยประกันของคุณได้ที่ <strong><a href="https://fwdlink.fwd.co.th/fwd/?utm_source=fwd-website&amp;utm_medium=referral&amp;utm_campaign=20200921-fwd-website-info">FWD Link</a></strong> ซึ่งออกแบบมาให้คุณใช้ง่าย รวดเร็ว และไม่ต้องเสียค่าใช้จ่ายใดๆ&nbsp;
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201008T091821Z

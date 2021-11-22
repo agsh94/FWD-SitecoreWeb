@@ -1,0 +1,26 @@
+﻿---
+ID: "868d3f69-1b97-46f7-991b-782540ef7d4b"
+Parent: "c626493f-1cc3-4986-a701-f28b83d649f7"
+Template: "814c1dbb-b118-4511-ba2b-7288ed3d490b"
+Path: /sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/ArticleCardListContentResolver
+DB: master
+SharedFields:
+- ID: "de218ede-a9ad-4b04-86c5-9ff593ccf39d"
+  Hint: Type
+  Value: FWD.Features.Global.ArticleCardListContentResolver, FWD.Features.Global
+- ID: "fb43a64d-060f-4fa9-b1c3-1511442175e1"
+  Hint: IncludeServerUrlInMediaUrls
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Article Card List Content Resolver
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191220T114456Z

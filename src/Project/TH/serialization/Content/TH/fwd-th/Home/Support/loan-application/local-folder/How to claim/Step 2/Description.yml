@@ -1,0 +1,52 @@
+﻿---
+ID: "cde95c0f-0d2d-4670-ba8d-e657bfd4eead"
+Parent: "6d9ec76f-7ad0-4df0-be96-05f90d7e0b98"
+Template: "ad6870d4-2dd6-40ef-a8fa-941ab32cee43"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/loan-application/local-folder/How to claim/Step 2/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-100"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T025027Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ul style="list-style-type: disc;">
+            <li>Post everything to:
+            <ul style="list-style-type: circle;">
+                <li>Policy owner service department, FWD Life Insurance Public Company Limited, 14<sup>th</sup> floor, Sindhorn Building Tower 3, 130-132 Witthayu Road, Lumpini, Pathumwan, Bangkok 10330</li>
+            </ul>
+            </li>
+            <li>Or submit in person via <a href="~/link.aspx?_id=AAD279292ECF455F9D177FBE1554B510&amp;_z=z/?lat=13.736053&long=100.544843&province=Bangkok&facilityType=FWD%20branches">FWD head office or any branch offices</a></li>
+        </ul>
+        
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T025234Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ul>
+                <li>ส่งสัญญาเงินกู้เงินตามกรมธรรม์และเอกสารประกอบทั้งหมดทางไปรษณีย์ ถึงฝ่ายบริการกรมธรรม์ บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) 130-132 อาคารสินธรทาวเวอร์ 3 ชั้น 14 ถนนวิทยุ แขวงลุมพินี เขตปทุมวัน กรุงเทพฯ 10330</li>
+            <li>ยื่นเอกสารด้วยตนเองที่<a href="~/link.aspx?_id=AAD279292ECF455F9D177FBE1554B510&amp;_z=z/?lat=13.736053&long=100.544843&province=Bangkok&facilityType= สาขา เอฟดับบลิวดี">สำนักงานใหญ่หรือสำนักงานสาขาทั่วประเทศ</a></li>
+        </ul>

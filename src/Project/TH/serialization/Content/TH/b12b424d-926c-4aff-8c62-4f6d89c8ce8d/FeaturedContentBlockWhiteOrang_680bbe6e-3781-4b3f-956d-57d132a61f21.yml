@@ -1,0 +1,48 @@
+﻿---
+ID: "680bbe6e-3781-4b3f-956d-57d132a61f21"
+Parent: "b12b424d-926c-4aff-8c62-4f6d89c8ce8d"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/contentblock/local-folder/FeaturedContentBlockWhiteOrangeLight"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{0853A008-9B3C-4A10-98B9-1E96A3CDC253}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{0CBD32C2-4E04-442C-8604-EE790BFD25FC}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200811T094220Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{009DEA70-B968-4FA4-891F-E6F473A6F546}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        FWD is a fresh insurance company for <a rel="noopener noreferrer" href="http://www.google.com" target="_blank">aspirational</a> people who are looking forward to their lives ahead. We believe that life is all about living your passion and pursuing happiness.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d0be2ac7-85f9-4ba4-91da-613370dbd6d6"
+      Hint: secondaryLink
+      Value: |
+        <link text="Map" anchor="" linktype="internal" class="" title=""  querystring="" id="{868B8030-250A-455D-AB20-142969D34033}" />
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Content Block White Orange Light
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Please Call at 1234" linktype="external" url="tel:1234" anchor="" target="" />

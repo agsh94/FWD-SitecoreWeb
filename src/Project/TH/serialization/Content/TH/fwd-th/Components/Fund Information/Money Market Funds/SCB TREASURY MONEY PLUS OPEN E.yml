@@ -1,0 +1,63 @@
+﻿---
+ID: "1cd09a76-86a5-40d4-bfd1-f59f6f18b06a"
+Parent: "e2dea109-1239-4cc1-834b-203013363149"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/Fund Information/Money Market Funds/SCB TREASURY MONEY PLUS OPEN END FUND"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200628T072558Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "SCB TREASURY MONEY PLUS OPEN END FUND (CLASS I) (SCBTMPLUS-I)"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.scbam.com/en/fund/money-market-fund/fund-information/scbtmfplus-i/'>Fund page</a></li>
+        <li><a target='_blank' href='https://www.scbam.com/medias/fund-doc/fund-summary-aimc/SCBTMFPLUS-I_FUNDSUM_En.pdf'>Fund information summary</a></li>
+        <li><a target='_blank' href='https://www.scbam.com/medias/fund-doc/prospectus/SCBTMFPLUS-I.pdf'>Prospectus</a></li>
+        <li><a target='_blank' href='https://www.scbam.com/medias/fund-doc/summary-prospectus/SCBTMFPLUS-I_SUM.pdf'>Fact sheet</a></li>
+        <li><a target='_blank' href='https://www.scbam.com/medias/fund-doc/semi-annual/SCBTMFPLUS-I_SEMI.pdf'>Bi-annual report</a></li>
+        <li><a target='_blank' href='https://www.scbam.com/medias/fund-doc/annual/SCBTMFPLUS-I_ANN.pdf'>Annual report</a></li>
+        </ul>
+        
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200628T072700Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "กองทุนเปิดไทยพาณิชย์ตราสารรัฐตลาดเงิน พลัส (ชนิดหน่วยลงทุน I) (SCBTMFPLUS-I)"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.scbam.com/th/fund/money-market-fund/fund-information/scbtmfplus-i'>หน้าหลักกองทุน</a></li>
+        <li><a target='_blank' href='https://www.scbam.com/medias/fund-doc/fund-summary-aimc/SCBTMFPLUS-I_FUNDSUM.pdf'>สาระสำคัญ ของกองทุน</a></li>
+        <li><a target='_blank' href='https://www.scbam.com/medias/fund-doc/prospectus/SCBTMFPLUS-I.pdf'>หนังสือชี้ชวน</a></li>
+        <li><a target='_blank' href='https://www.scbam.com/medias/fund-doc/summary-prospectus/SCBTMFPLUS-I_SUM.pdf'>หนังสือชี้ชวนส่วนสรุป</a></li>
+        <li><a target='_blank' href='https://www.scbam.com/medias/fund-doc/semi-annual/SCBTMFPLUS-I_SEMI.pdf'>รายงาน 6 เดือน</a></li>
+        <li><a target='_blank' href='https://www.scbam.com/medias/fund-doc/annual/SCBTMFPLUS-I_ANN.pdf'>รายงานประจำปี</a></li>
+        </ul>
+        

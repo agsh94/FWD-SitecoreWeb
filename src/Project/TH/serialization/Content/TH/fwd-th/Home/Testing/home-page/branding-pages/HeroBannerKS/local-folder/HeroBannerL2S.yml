@@ -1,0 +1,21 @@
+﻿---
+ID: "985e93d2-45ac-4504-abab-4c7f2e5c086b"
+Parent: "7850e412-665a-4154-8e94-b86cbb5cea14"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/HeroBannerKS/local-folder/HeroBannerL2S"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: HeadingL2S
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200710T090003Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdthauthor

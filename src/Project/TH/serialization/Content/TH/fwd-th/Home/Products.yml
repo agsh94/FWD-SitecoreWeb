@@ -1,0 +1,561 @@
+﻿---
+ID: "528d2c44-05e6-4e13-8c4c-0a7fff35b120"
+Parent: "d9c6779b-43e9-4106-8357-ad0510a8547c"
+Template: "52873596-fd74-488b-9e6e-6382b1cc2eb2"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products"
+DB: master
+SharedFields:
+- ID: "1ba7a30d-5523-4af2-81f2-9e432cd805cd"
+  Hint: contentType
+  Value: "{A57B5556-98B3-4112-AC9F-1926D90455B8}"
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: "{FB2C4A8A-0593-44B7-B7C4-AE07AF4F8BB2}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1900
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{0E51C73B-3192-4E96-AA09-4F095CD69D08}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}" />
+        <r
+          uid="{A20F77A7-562E-4E3A-B76A-3FA65C15B57C}">
+          <p:d />
+        </r>
+        <r
+          uid="{E0B1D925-F5BE-47D6-B73A-ADEE19477395}">
+          <p:d />
+        </r>
+        <r
+          uid="{BD9BBFD0-CC3F-422C-AC56-008CBA8FCADE}"
+          p:after="r[@uid='{0E51C73B-3192-4E96-AA09-4F095CD69D08}']"
+          s:ds="{62C006ED-C5AA-4D5E-975B-5C14D2646494}"
+          s:id="{BC225970-9A8C-4F64-BEF1-B09D71ACB5CC}"
+          s:par=""
+          s:ph="jss-main" />
+        <r
+          uid="{3A057B8B-329A-429B-A477-DBE835FB6E15}"
+          p:after="r[@uid='{BD9BBFD0-CC3F-422C-AC56-008CBA8FCADE}']"
+          s:ds="{64613F7E-A58F-493C-8634-84D7B66D5553}"
+          s:id="{9714408E-904A-4275-84C6-DACC99E42B9D}"
+          s:par="cardVariant&amp;showProductCTA&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{57B90644-83E2-4CC2-BFE0-0E2033A7B13E}"
+          s:ph="jss-main-1" />
+        <r
+          uid="{9FA7C353-70D2-4A2F-ABB2-51FD78BB237B}"
+          p:after="r[@uid='{57B90644-83E2-4CC2-BFE0-0E2033A7B13E}']"
+          s:ds="{B64FDCA7-177F-42C8-8661-8B29F2D98D96}"
+          s:id="{E9189BB0-4352-4FC7-B5F6-7C992E35E897}"
+          s:par="buttonAlignment=%7B8570C16E-5CA9-4A85-8A62-C661A5B4350B%7D&amp;variant&amp;anchorText&amp;backgroundColor=%7BB47928D6-98FC-4B29-8D0F-586AB477286E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{E04C4397-F80D-4FD9-8C84-AA35987EA0C7}"
+          p:after="*[1=2]"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+      </d>
+    </r>
+- ID: "ff451472-1b55-4228-b14d-ab9b2a449792"
+  Hint: isPageSearchable
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Products
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3A057B8B-329A-429B-A477-DBE835FB6E15}">
+              <p:d />
+            </r>
+            <r
+              uid="{384E8665-832B-428F-AB1C-3B31586C5319}"
+              p:after="r[@uid='{BD9BBFD0-CC3F-422C-AC56-008CBA8FCADE}']"
+              s:ds="{64613F7E-A58F-493C-8634-84D7B66D5553}"
+              s:id="{9714408E-904A-4275-84C6-DACC99E42B9D}"
+              s:ph="jss-main" />
+            <r
+              uid="{57B90644-83E2-4CC2-BFE0-0E2033A7B13E}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T102704Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: At FWD we design our products with our customers in mind. Here you can explore our range of products and find what suits your lifestyle and your needs.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Get insured
+  - Version: 2
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3A057B8B-329A-429B-A477-DBE835FB6E15}">
+              <p:d />
+            </r>
+            <r
+              uid="{384E8665-832B-428F-AB1C-3B31586C5319}"
+              p:after="r[@uid='{BD9BBFD0-CC3F-422C-AC56-008CBA8FCADE}']"
+              s:ds="{64613F7E-A58F-493C-8634-84D7B66D5553}"
+              s:id="{9714408E-904A-4275-84C6-DACC99E42B9D}"
+              s:ph="jss-main" />
+            <r
+              uid="{57B90644-83E2-4CC2-BFE0-0E2033A7B13E}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200729T064531Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: At FWD we design our products with our customers in mind. Here you can explore our range of products and find what suits your lifestyle and your needs.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Get insured
+    - ID: "8960d36d-84b0-4f47-aa98-a0e27a3903b8"
+      Hint: openGraphImage
+      Value: |
+        <image mediaid="{3981DF5B-AF80-450E-8B23-86DC67C47EEC}" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200729T064531Z
+  - Version: 3
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3A057B8B-329A-429B-A477-DBE835FB6E15}">
+              <p:d />
+            </r>
+            <r
+              uid="{384E8665-832B-428F-AB1C-3B31586C5319}"
+              p:after="r[@uid='{BD9BBFD0-CC3F-422C-AC56-008CBA8FCADE}']"
+              s:ds="{64613F7E-A58F-493C-8634-84D7B66D5553}"
+              s:id="{9714408E-904A-4275-84C6-DACC99E42B9D}"
+              s:ph="jss-main" />
+            <r
+              uid="{57B90644-83E2-4CC2-BFE0-0E2033A7B13E}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200729T081944Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: At FWD we design our products with our customers in mind. Here you can explore our range of products and find what suits your lifestyle and your needs.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hein
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: FWD Insurance Products
+    - ID: "8960d36d-84b0-4f47-aa98-a0e27a3903b8"
+      Hint: openGraphImage
+      Value: |
+        <image mediaid="{3981DF5B-AF80-450E-8B23-86DC67C47EEC}" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200729T081944Z
+  - Version: 4
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3A057B8B-329A-429B-A477-DBE835FB6E15}">
+              <p:d />
+            </r>
+            <r
+              uid="{384E8665-832B-428F-AB1C-3B31586C5319}"
+              p:after="r[@uid='{BD9BBFD0-CC3F-422C-AC56-008CBA8FCADE}']"
+              s:ds="{64613F7E-A58F-493C-8634-84D7B66D5553}"
+              s:id="{9714408E-904A-4275-84C6-DACC99E42B9D}"
+              s:par="cardVariant&amp;showProductCTA&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{57B90644-83E2-4CC2-BFE0-0E2033A7B13E}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200814T105139Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: At FWD, we design insurance that’s inspired by our customers. Explore our range of products to find what best suits you, your lifestyle and your needs.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: FWD Insurance Products | FWD Thailand
+    - ID: "8960d36d-84b0-4f47-aa98-a0e27a3903b8"
+      Hint: openGraphImage
+      Value: |
+        <image mediaid="{3981DF5B-AF80-450E-8B23-86DC67C47EEC}" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200814T105139Z
+  - Version: 5
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3A057B8B-329A-429B-A477-DBE835FB6E15}">
+              <p:d />
+            </r>
+            <r
+              uid="{384E8665-832B-428F-AB1C-3B31586C5319}"
+              p:after="r[@uid='{BD9BBFD0-CC3F-422C-AC56-008CBA8FCADE}']"
+              s:ds="{64613F7E-A58F-493C-8634-84D7B66D5553}"
+              s:id="{9714408E-904A-4275-84C6-DACC99E42B9D}"
+              s:par="cardVariant&amp;showProductCTA&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{57B90644-83E2-4CC2-BFE0-0E2033A7B13E}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201012T083221Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: At FWD, we design insurance that’s inspired by our customers. Explore our range of products to find what best suits you, your lifestyle and your needs.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D80D2A5C-D5F8-4DA1-8828-B4F51D64461B}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: FWD Insurance Products | FWD Thailand
+    - ID: "8960d36d-84b0-4f47-aa98-a0e27a3903b8"
+      Hint: openGraphImage
+      Value: |
+        <image mediaid="{3981DF5B-AF80-450E-8B23-86DC67C47EEC}" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201012T083221Z
+  - Version: 6
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3A057B8B-329A-429B-A477-DBE835FB6E15}">
+              <p:d />
+            </r>
+            <r
+              uid="{384E8665-832B-428F-AB1C-3B31586C5319}"
+              p:after="r[@uid='{BD9BBFD0-CC3F-422C-AC56-008CBA8FCADE}']"
+              s:ds="{64613F7E-A58F-493C-8634-84D7B66D5553}"
+              s:id="{9714408E-904A-4275-84C6-DACC99E42B9D}"
+              s:par="cardVariant&amp;showProductCTA&amp;anchorText&amp;backgroundColor=%7BB47928D6-98FC-4B29-8D0F-586AB477286E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{57B90644-83E2-4CC2-BFE0-0E2033A7B13E}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201012T083229Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: At FWD, we design insurance that’s inspired by our customers. Explore our range of products to find what best suits you, your lifestyle and your needs.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: FWD Insurance Products | FWD Thailand
+    - ID: "8960d36d-84b0-4f47-aa98-a0e27a3903b8"
+      Hint: openGraphImage
+      Value: |
+        <image mediaid="{3981DF5B-AF80-450E-8B23-86DC67C47EEC}" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201012T083229Z
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Products
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3A057B8B-329A-429B-A477-DBE835FB6E15}">
+              <p:d />
+            </r>
+            <r
+              uid="{6739198D-8B88-49C3-AC41-77833664F303}"
+              p:after="r[@uid='{BD9BBFD0-CC3F-422C-AC56-008CBA8FCADE}']"
+              s:ds="{64613F7E-A58F-493C-8634-84D7B66D5553}"
+              s:id="{9714408E-904A-4275-84C6-DACC99E42B9D}"
+              s:ph="jss-main" />
+            <r
+              uid="{57B90644-83E2-4CC2-BFE0-0E2033A7B13E}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200115T054158Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: ที่เอฟดับบลิวดี เราออกแบบผลิตภัณฑ์จากความต้องการของลูกค้า และด้วยผลิตภํณฑ์ที่ตอบโจทย์หลากหลาย คุณสามารถค้นหาผลิตภัณพ์ประกันที่เหมาะกับไลฟ์สไตล์และความต้องการของคุณมากที่สุด
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: สนใจทำประกัน
+  - Version: 2
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3A057B8B-329A-429B-A477-DBE835FB6E15}">
+              <p:d />
+            </r>
+            <r
+              uid="{6739198D-8B88-49C3-AC41-77833664F303}"
+              p:after="r[@uid='{BD9BBFD0-CC3F-422C-AC56-008CBA8FCADE}']"
+              s:ds="{64613F7E-A58F-493C-8634-84D7B66D5553}"
+              s:id="{9714408E-904A-4275-84C6-DACC99E42B9D}"
+              s:ph="jss-main" />
+            <r
+              uid="{57B90644-83E2-4CC2-BFE0-0E2033A7B13E}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200729T064351Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: ที่เอฟดับบลิวดี เราออกแบบผลิตภัณฑ์จากความต้องการของลูกค้า และด้วยผลิตภํณฑ์ที่ตอบโจทย์หลากหลาย คุณสามารถค้นหาผลิตภัณพ์ประกันที่เหมาะกับไลฟ์สไตล์และความต้องการของคุณมากที่สุด
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: สนใจทำประกัน
+    - ID: "8960d36d-84b0-4f47-aa98-a0e27a3903b8"
+      Hint: openGraphImage
+      Value: |
+        <image mediaid="{3981DF5B-AF80-450E-8B23-86DC67C47EEC}" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200729T064351Z
+  - Version: 3
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3A057B8B-329A-429B-A477-DBE835FB6E15}">
+              <p:d />
+            </r>
+            <r
+              uid="{6739198D-8B88-49C3-AC41-77833664F303}"
+              p:after="r[@uid='{BD9BBFD0-CC3F-422C-AC56-008CBA8FCADE}']"
+              s:ds="{64613F7E-A58F-493C-8634-84D7B66D5553}"
+              s:id="{9714408E-904A-4275-84C6-DACC99E42B9D}"
+              s:ph="jss-main" />
+            <r
+              uid="{57B90644-83E2-4CC2-BFE0-0E2033A7B13E}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200729T081512Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: เอฟดับบลิวดี ประเทศไทย เราออกแบบแผนประกันจากความต้องการของลูกค้า เพื่อตอบโจทย์ที่หลากหลาย คุณสามารถค้นหาแผนประกันออนไลน์ที่เหมาะกับไลฟ์สไตล์ของคุณมากที่สุด
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hein
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: ค้นหาแผนประกันภัยที่ต้องการกับ FWD
+    - ID: "8960d36d-84b0-4f47-aa98-a0e27a3903b8"
+      Hint: openGraphImage
+      Value: |
+        <image mediaid="{3981DF5B-AF80-450E-8B23-86DC67C47EEC}" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200729T081512Z
+  - Version: 4
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3A057B8B-329A-429B-A477-DBE835FB6E15}">
+              <p:d />
+            </r>
+            <r
+              uid="{6739198D-8B88-49C3-AC41-77833664F303}"
+              p:after="r[@uid='{BD9BBFD0-CC3F-422C-AC56-008CBA8FCADE}']"
+              s:ds="{64613F7E-A58F-493C-8634-84D7B66D5553}"
+              s:id="{9714408E-904A-4275-84C6-DACC99E42B9D}"
+              s:ph="jss-main" />
+            <r
+              uid="{57B90644-83E2-4CC2-BFE0-0E2033A7B13E}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200814T105054Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: เอฟดับบลิวดี ประเทศไทย เราออกแบบแผนประกันจากความต้องการของลูกค้า เพื่อตอบโจทย์ที่หลากหลาย คุณสามารถค้นหาแผนประกันออนไลน์ที่เหมาะกับไลฟ์สไตล์ของคุณมากที่สุด
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: ค้นหาแผนประกันภัยที่ต้องการกับ FWD | FWD ประกันชีวิต
+    - ID: "8960d36d-84b0-4f47-aa98-a0e27a3903b8"
+      Hint: openGraphImage
+      Value: |
+        <image mediaid="{3981DF5B-AF80-450E-8B23-86DC67C47EEC}" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200814T105054Z

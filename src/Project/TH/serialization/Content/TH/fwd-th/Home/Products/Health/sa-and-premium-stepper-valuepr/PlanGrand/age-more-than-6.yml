@@ -1,0 +1,39 @@
+﻿---
+ID: "ec14f50b-3642-49d5-8f0a-2f1bc97d480a"
+Parent: "2e3f3807-b239-45bb-8093-dee4ece0707d"
+Template: "615282d0-6867-4065-b4aa-c103bcded9a5"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/sa-and-premium-stepper-valueprotector/PlanGrand/age-more-than-6"
+DB: master
+SharedFields:
+- ID: "a44f9279-737c-4736-acdf-d13dc9db9dc7"
+  Hint: minAge
+  Value: 6
+- ID: "b2a7ed7f-e1f4-4c05-813c-05107ad54a28"
+  Hint: maxAge
+  Value: 150
+- ID: "cc91c665-62e8-4e94-9a65-b43fdde9be7d"
+  Hint: minSumAssured
+  Value: 20000
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Age more than 6
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191220T073454Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055206Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

@@ -1,0 +1,25 @@
+﻿---
+ID: "b043be3a-123e-4f13-9f54-54fac2b6c37c"
+Parent: "002f0921-b445-4c40-b03e-9ef8ed748784"
+Template: "69b601a8-8555-4411-8c17-aa91671eec32"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Tags/commonTags/Featured/primaryNeed/healthcare-cost"
+DB: master
+SharedFields:
+- ID: "a903eb23-a8d6-4a9a-bd27-4bd363b1fcf0"
+  Hint: searchName
+  Value: healthcare cost
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: healthcare cost
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: healthcare cost
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191101T173715Z

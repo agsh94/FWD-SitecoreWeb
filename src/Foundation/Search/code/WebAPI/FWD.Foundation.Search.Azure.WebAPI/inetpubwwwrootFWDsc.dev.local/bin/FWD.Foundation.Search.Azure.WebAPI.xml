@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FWD.Foundation.Search.Azure.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="T:FWD.Foundation.Search.Azure.WebAPI.Attributes.HandleExceptionFilterAttribute">
+            <summary>
+            Handle Exception Filter Attribute
+            </summary>
+        </member>
+        <member name="M:FWD.Foundation.Search.Azure.WebAPI.Attributes.HandleExceptionFilterAttribute.OnException(System.Web.Http.Filters.HttpActionExecutedContext)">
+            <summary>
+            On <see cref="T:System.Exception"/>
+            </summary>
+            <param name="actionExecutedContext"></param>
+        </member>
+        <member name="T:FWD.Foundation.Search.Azure.WebAPI.Controllers.BaseApiController">
+            <summary>
+            Base ApiController for all web api controllers
+            </summary>
+            <seealso cref="T:System.Web.Http.ApiController" />
+        </member>
+        <member name="T:FWD.Foundation.Search.Azure.WebAPI.Pipeline.RegisterApiRoutes">
+            <summary>
+            Register Api Routes
+            </summary>
+        </member>
+        <member name="M:FWD.Foundation.Search.Azure.WebAPI.Pipeline.RegisterApiRoutes.Process(Sitecore.Pipelines.PipelineArgs)">
+            <summary>
+            Processes the specified arguments.
+            </summary>
+            <param name="args">The arguments.</param>
+        </member>
+    </members>
+</doc>

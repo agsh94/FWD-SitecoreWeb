@@ -1,0 +1,41 @@
+﻿---
+ID: "1dc54f2d-63bd-4628-aa38-17a75ff5eb14"
+Parent: "1ec33c06-6146-4aac-9359-2860aa289542"
+Template: "e9fe119c-894c-43bd-bfd0-857be1acbe38"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Investments/Fund Information/local-folder/Announcements List"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200529T095027Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Fund announcements
+    - ID: "f4163e07-1e81-42cd-9b93-cb8fb3aaf4f2"
+      Hint: relatedForms
+      Value: "{50BDFADB-2001-465C-92AF-5D8410577417}|{291E457D-991E-450F-A00E-E4B5946B16C1}|{77880C66-0C73-43D8-9F3E-E64E2287AEA5}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200529T102443Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: ประกาศกองทุน
+    - ID: "f4163e07-1e81-42cd-9b93-cb8fb3aaf4f2"
+      Hint: relatedForms
+      Value: "{50BDFADB-2001-465C-92AF-5D8410577417}|{291E457D-991E-450F-A00E-E4B5946B16C1}|{77880C66-0C73-43D8-9F3E-E64E2287AEA5}"

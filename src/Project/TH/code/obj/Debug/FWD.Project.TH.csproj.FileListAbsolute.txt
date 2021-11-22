@@ -1,0 +1,13 @@
+C:\FWD\FWD-Web\framework\src\Project\TH\code\bin\FWD.Project.TH.dll.config
+C:\FWD\FWD-Web\framework\src\Project\TH\code\bin\FWD.Project.TH.dll
+C:\FWD\FWD-Web\framework\src\Project\TH\code\bin\FWD.Project.TH.pdb
+C:\FWD\FWD-Web\framework\src\Project\TH\code\obj\Debug\FWD.Project.TH.csproj.CoreCompileInputs.cache
+C:\FWD\FWD-Web\framework\src\Project\TH\code\obj\Debug\FWD.Project.TH.dll
+C:\FWD\FWD-Web\framework\src\Project\TH\code\obj\Debug\FWD.Project.TH.pdb
+C:\FWD\FWD-Web\framework\src\Project\TH\code\obj\Debug\FWD.Project.TH.csprojAssemblyReference.cache
+C:\FWD\FWD-Web\framework\src\Project\TH\code\obj\Debug\Package\PackageTmp\bin\FWD.Project.TH.dll
+C:\FWD\FWD-Web\framework\src\Project\TH\code\obj\Debug\Package\PackageTmp\bin\FWD.Project.TH.pdb
+C:\FWD\FWD-Web\framework\src\Project\TH\code\obj\Debug\Package\PackageTmp\App_Config\Include\Project\FWD.Project.TH.Serialization.Content.config
+C:\FWD\FWD-Web\framework\src\Project\TH\code\obj\Debug\Package\PackageTmp\App_Config\Include\Project\FWD.Project.TH.Register.CustomDatabase.config
+C:\FWD\FWD-Web\framework\src\Project\TH\code\obj\Debug\Package\PackageTmp\App_Config\Include\zzz\fwd-th.Node.config
+C:\FWD\FWD-Web\framework\src\Project\TH\code\obj\Debug\Package\PackageTmp\App_Config\Include\Project\FWD.Project.TH.Serialization.config

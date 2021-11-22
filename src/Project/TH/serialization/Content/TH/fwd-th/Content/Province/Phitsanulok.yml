@@ -1,0 +1,45 @@
+﻿---
+ID: "880152f6-dbe6-4486-8359-609d6730dbe2"
+Parent: "cc2bbf3c-108d-49d5-94df-53d39cbd6645"
+Template: "9a9d4c21-dc8f-427e-8b51-aa635ba47909"
+Path: "/sitecore/content/fwd/fwd-th/Content/Province/Phitsanulok"
+DB: master
+SharedFields:
+- ID: "22c8a98c-de44-42b0-ab98-b6c82acf5c8a"
+  Hint: latitude
+  Value: 16.8211
+- ID: "54a4be6f-6d39-4b8b-9e76-cb0d85e37734"
+  Hint: longitude
+  Value: 100.2659
+- ID: "a903eb23-a8d6-4a9a-bd27-4bd363b1fcf0"
+  Hint: searchName
+  Value: Phitsanulok
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: Phitsanulok
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T113526Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: พิษณุโลก
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200421T054616Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

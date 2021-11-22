@@ -1,0 +1,60 @@
+﻿---
+ID: "6cb7fb8c-a55f-4c24-a48b-448122996271"
+Parent: "82a328e2-e11a-45bc-a10c-3c799b50409d"
+Template: "8ad5bb9c-b124-437e-a0c3-34149b049fac"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Max/local-folder/stepper/Redeem/redeem-health-points"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Redeem your Max points
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09325934-6951-45ec-bd07-c7fc996855b3"
+      Hint: description
+      Value: Download the app from the GooglePlay or AppStore. Registration is quick and easy using your phone number. All new users are welcomed with 10 Max Points.
+    - ID: "095b37a4-2a84-4177-8231-7a222abc9623"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{99EE682D-5C12-42C7-B6AC-12C92177400C}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200130T125038Z
+    - ID: "8a19dcac-8d5b-4e87-b1c9-14ba9ece9248"
+      Hint: subTitle
+      Value: 
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: Redeem your Max points
+    - ID: "f6728892-c596-4196-9d50-106592ed0f9f"
+      Hint: image
+      Value: |
+        <image mediaid="{99EE682D-5C12-42C7-B6AC-12C92177400C}"></image>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "095b37a4-2a84-4177-8231-7a222abc9623"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{99EE682D-5C12-42C7-B6AC-12C92177400C}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200219T090911Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8a19dcac-8d5b-4e87-b1c9-14ba9ece9248"
+      Hint: subTitle
+      Value: Download the app from GooglePlay or AppStore .Registratio is quick and easy using your phone number.
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: Redeem your Max points
+    - ID: "f6728892-c596-4196-9d50-106592ed0f9f"
+      Hint: image
+      Value: |
+        <image mediaid="{99EE682D-5C12-42C7-B6AC-12C92177400C}"></image>

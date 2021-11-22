@@ -1,0 +1,25 @@
+﻿---
+ID: "3af81c55-de3e-41f7-b908-b4de4368c210"
+Parent: "006551b6-b270-441e-8b36-e62a7982f39c"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Sport/alita-pear/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T125532Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: ในมุม Insight ของคนที่มีเป้าหมายในการเปลี่ยนแปลงตัวเอง ไม่ว่าจะเป็นการลดน้ำหนัก รูปร่างที่ดี หรือวินัยต่างๆ แต่สุดท้ายก็ต้องล้มเหลวพ่ายแพ้ให้กับใจของตัวเอง ไม่สามาถเปลี่ยนแปลงได้สักที แต่กับเธอคนนี้ต่างออกไป เพราะเธอชัดเจนกับเป้าหมาย และเอาชนะใจตัวเอง วันนี้เธอก็จะมาแชร์เรื่องราวการเปลี่ยนแปลงตัวเอง จะเป็นยังไงนั้นไปคุยกับเธอกันเลยดีกว่า

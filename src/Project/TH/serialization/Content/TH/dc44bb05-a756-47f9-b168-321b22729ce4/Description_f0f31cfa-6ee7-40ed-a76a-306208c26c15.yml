@@ -1,0 +1,28 @@
+﻿---
+ID: "f0f31cfa-6ee7-40ed-a76a-306208c26c15"
+Parent: "dc44bb05-a756-47f9-b168-321b22729ce4"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/exciting-vietnam/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 3200
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T020440Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        ชมน้ำตก เล่น Roller Coaster ไปแล้ว เมืองดาลัตยังมีทีเด็ดที่เราจะพลาดไม่ได้อีกนะครับ นั้นคือ ชมดอกไม้เมืองหนาว ฟังดูอาจจะมุ้งมิ้งน่ารัก แต่ใครจะพลาดละครับ มาถึงเมืองเขาทั้งที ดอกไม้ที่นี่เป็นดอกไม้เมืองหนาว ไม่ต้องเล็งช่วงหน้าหนาวก็ได้เห็นดอกไม้สวยๆ ขึ้นทั้งปีครับ<br />
+        <br />
+        ซึ่งดอกไม้ของเมืองดาลัตไม่ได้ปลูกกันแค่แปลงสองแปลง แต่เขาปลูกกันเป็นเขา ปลูกกันทั้งหมู่บ้าน มีกิจการส่งดอกใม้ใหญ่โต จริงๆ ขับรถในตัวเมืองก็เจอประดับอยู่ตามมุมต่างๆ ของเมือง แต่ถ้าอยากฟินแบบเต็มๆ ต้องไปที่ฟาร์มดอกไม้เลยครับ

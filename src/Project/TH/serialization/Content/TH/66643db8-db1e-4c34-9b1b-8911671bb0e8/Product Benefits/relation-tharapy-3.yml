@@ -1,0 +1,61 @@
+﻿---
+ID: "21436380-7ebe-4001-b048-707139c88279"
+Parent: "0219b084-fc06-4ce8-9a80-a5517bcab68a"
+Template: "b7896f65-9c57-4ff4-95ac-edb35665badf"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/Health/cancer-knockout/local-folder/Product Benefits/relation-tharapy-3"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 12
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Relation Therapy 3
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17265e40-8337-4955-a178-099b0454e4f4"
+      Hint: benefitTitle
+      Value: Covers all cancers, all stages
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191107T112508Z
+    - ID: "624e4459-604e-46b7-83b2-904dd19e712f"
+      Hint: benefitDescription
+      Value: "Cancer in HIV/AIDS patients and pre-malignant tumors are not included."
+    - ID: "ced9fafd-1ec7-4eaa-a83a-02a58bb405f1"
+      Hint: benefitImage
+      Value: |
+        <image mediaid="{B85FED73-5B6D-447B-A248-BD272A76DD0A}" />
+    - ID: "f031ebc2-c599-483c-a66a-b7d705ef46d7"
+      Hint: image
+      Value: |
+        <image mediaid="{B85FED73-5B6D-447B-A248-BD272A76DD0A}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17265e40-8337-4955-a178-099b0454e4f4"
+      Hint: benefitTitle
+      Value: Covers all cancers, all stages
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T115745Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "624e4459-604e-46b7-83b2-904dd19e712f"
+      Hint: benefitDescription
+      Value: "Cancer in HIV/AIDS patients and pre-malignant tumors are not included."
+    - ID: "ced9fafd-1ec7-4eaa-a83a-02a58bb405f1"
+      Hint: benefitImage
+      Value: |
+        <image mediaid="{B85FED73-5B6D-447B-A248-BD272A76DD0A}" />
+    - ID: "f031ebc2-c599-483c-a66a-b7d705ef46d7"
+      Hint: image
+      Value: |
+        <image mediaid="{B85FED73-5B6D-447B-A248-BD272A76DD0A}" />

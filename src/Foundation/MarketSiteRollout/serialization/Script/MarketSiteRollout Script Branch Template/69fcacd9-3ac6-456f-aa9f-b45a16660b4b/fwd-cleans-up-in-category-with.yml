@@ -1,0 +1,130 @@
+﻿---
+ID: "836753aa-91b9-4351-b2f5-c527aaf12d61"
+Parent: "69fcacd9-3ac6-456f-aa9f-b45a16660b4b"
+Template: "937f9755-269c-46cb-87cf-e05c0211ef32"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/About Us/News/fwd-cleans-up-in-category-with-11-awards"
+DB: master
+SharedFields:
+- ID: "0542fe2e-3942-4d2a-9d28-fca5312b2ab4"
+  Hint: associatedProducts
+  Value: 
+- ID: "05b2b484-bdd9-4a0c-9bc2-013e6a9989a9"
+  Hint: subtype
+  Value: "{29E65B58-2D64-41B3-A6E9-2D08C6B251C1}"
+- ID: "10e652c4-46dd-4b96-94af-033d6997a41a"
+  Hint: userType
+  Type: Multilist
+  Value: |
+    {B7FF8584-0E21-4AD4-8379-E1FB408549E6}
+    {912DD989-8E13-413F-911D-00927C44FA69}
+- ID: "21d15119-2d83-4d67-a277-65bcef10f64f"
+  Hint: contentType
+  Value: "{54F34768-E751-42AD-A59A-0E539AEB35D3}"
+- ID: "51605d25-f8a6-4776-990d-342cf6bc523b"
+  Hint: subtopics
+  Type: Multilist
+  Value: "{2EE089F4-3659-4D6C-9D07-F4DB2F2FBFA5}"
+- ID: "644a759b-d9f0-46b0-b5a2-afc11a100bb1"
+  Hint: topics
+  Type: Multilist
+  Value: |
+    {A3A37188-F290-4B4A-86B1-DE407F1F1FE6}
+    {E3D5DA14-6C81-4D72-8070-E2FC348FAF11}
+    {74802C8F-3859-4524-9049-769333242F28}
+- ID: "6fd695e7-7f6d-4ca5-8b49-a829e5950ae9"
+  Hint: __Subitems Sorting
+  Value: 
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: 
+- ID: "adb8c199-23ee-47b6-ac3a-e42511001cd9"
+  Hint: featuredTags
+  Type: TreelistEx
+  Value: "{0B157BF3-6258-47D1-A2CC-2B944E3A711F}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{8B882DA0-246E-4ED0-AF73-96D257D48B65}"
+          s:ds="{779130A3-E806-42D5-8AEE-0AB358CD5223}"
+          s:par="HeroBannerVariant=%7B0B1166D9-2C27-4392-B0FB-C3E5F2C18380%7D&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider" />
+        <r
+          uid="{B34524D6-F06A-46EF-BBB9-37BE63541C2B}"
+          s:ds="{80F7EECE-8B8A-4470-B242-3317C828E2F4}" />
+        <r
+          uid="{41DB1F41-DF41-4E0B-BB6E-C77DA83CE126}"
+          s:par="numberOfColumns=%7BBF5801D4-6803-4301-A9D1-D4D722E38E7B%7D&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D%7C%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{F131E204-4546-436A-9BAA-F8A7D613A0DE}">
+          <p:d />
+        </r>
+        <r
+          uid="{DCEFBE9A-CB6F-4EA1-B123-C1DB121B4108}"
+          p:after="*[1=2]"
+          s:par="anchorText&amp;backgroundColor=%7BF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+        <r
+          uid="{7B6A80A0-CC82-4AD7-BA0A-A12CC337F643}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Bloomberg Business Awards 2019 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "105d35bb-e423-4eea-ad61-f4408a757049"
+      Hint: city
+      Value: "{A8AF883B-ABF4-4B35-B56E-CC8D46F02FE4}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191007T140136Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: The business has become renowned in Thailand, earning the award in Thailand Brand Leadership Awards in its insurance category and Best Contact Center Award.
+    - ID: "35bed6eb-42ed-4800-a384-d5cb03d55c9e"
+      Hint: date
+      Value: 20200616T000000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6ab96e61-4999-41cd-b999-1c860c573e98"
+      Hint: isFeatured
+      Type: Checkbox
+      Value: 1
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value:  FWD Songwriting Contest 
+    - ID: "8903e668-0898-456c-b6ed-09d94259e5b1"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{F9AC5180-8D9D-492F-9A80-39378F0241FB}" />
+    - ID: "8b9dbb4e-5d64-4760-ad83-cf893f7feaf4"
+      Hint: articleTitle
+      Value:  FWD Songwriting Contest
+    - ID: "a769f55d-9709-4908-bd48-5da0ddff6491"
+      Hint: author
+      Value: Mark
+    - ID: "c73b2bc9-19b1-448c-b394-eb668bd23e2a"
+      Hint: globalMetaTextSetting
+      Value: "{DF869BFD-0482-431A-968A-39D3CC2E6C8E}"
+    - ID: "d940cafe-2148-466e-9707-0748711f5fdc"
+      Hint: image
+      Value: |
+        <image mediaid="{F9AC5180-8D9D-492F-9A80-39378F0241FB}" />
+    - ID: "f109a737-77b7-48cf-969c-2f55df9d876a"
+      Hint: shortDescription
+      Value: The business has become renowned in Thailand, earning the award in Thailand Brand Leadership Awards in its protection plans insurance category and Best Contact Center Award.

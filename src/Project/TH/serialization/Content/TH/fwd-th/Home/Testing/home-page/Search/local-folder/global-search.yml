@@ -1,0 +1,72 @@
+﻿---
+ID: "12f9c1c5-5559-4aa7-96bc-f382eb417a3a"
+Parent: "300d48da-f652-4dbd-99d0-1bc36ccd024d"
+Template: "2a91e472-5dd9-4573-b28a-420dfc3bb7be"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Search/local-folder/global-search"
+DB: master
+SharedFields:
+- ID: "3d14dc14-45ab-4d6b-b1b1-c91120c46c30"
+  Hint: mobilePageSize
+  Value: 6
+- ID: "4806c25f-038d-4db7-acba-40c477fe263d"
+  Hint: noResultFoundSource
+  Value: "{AC0B5E2D-6E79-4691-ACF2-73F76B13D6EC}"
+- ID: "61cf7151-0cbd-4db4-9738-d753a55a6e65"
+  Hint: __Enforce version presence
+  Type: Checkbox
+  Value: 1
+- ID: "70d597f2-830d-42a1-a9a7-a24ee7e54b28"
+  Hint: contentTabs
+  Type: Multilist
+  Value: |
+    {4F3635BD-4BB0-422B-9BEE-B6AF48991E2D}
+    {26312FD9-4609-4106-AB81-A240C1A4573D}
+    {C05C9119-09BA-49F3-9431-08F01B3846CE}
+    {FB89C154-672F-41C9-8D5E-F78138196375}
+    {536E39EB-57B6-421E-9E93-80CB77B70747}
+- ID: "86001cb8-cac2-4c87-b548-4eb8cc278520"
+  Hint: desktopPageSize
+  Value: 12
+- ID: "b776e3e1-1d8d-431c-9cb0-d52bd2cdd9ea"
+  Hint: apiContentType
+  Value: "{11B3EA7C-48AD-4DB8-8879-ABCC64711273}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Global Search
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T055030Z
+    - ID: "7ae62236-7e85-41eb-8e53-8c722ffb39d7"
+      Hint: title
+      Value: Your search for...
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Global Search
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T055030Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "712bf742-2cf1-467c-9dc4-71ee7dc89b3f"
+      Hint: placeholderText
+      Value: type เราพบแล้ว
+    - ID: "7ae62236-7e85-41eb-8e53-8c722ffb39d7"
+      Hint: title
+      Value: Your search for เราพบแล้ว

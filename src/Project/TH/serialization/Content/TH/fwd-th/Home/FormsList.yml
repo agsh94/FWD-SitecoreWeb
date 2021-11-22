@@ -1,0 +1,37 @@
+﻿---
+ID: "648fb00d-66f4-49ce-b707-3ef5be529dbe"
+Parent: "d9c6779b-43e9-4106-8357-ad0510a8547c"
+Template: "05130148-4af0-4ef1-b5c2-ef582230a289"
+Path: "/sitecore/content/fwd/fwd-th/Home/FormsList"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: network/32x32/brickwall.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{D48AB251-45A3-498A-A8C1-629E33A6B9B4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Forms List
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200103T072805Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T103624Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

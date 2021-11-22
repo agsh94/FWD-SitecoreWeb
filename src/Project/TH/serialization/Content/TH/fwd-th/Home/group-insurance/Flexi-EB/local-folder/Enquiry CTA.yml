@@ -1,0 +1,93 @@
+﻿---
+ID: "668df17c-06c5-48f9-8a74-a54dfdbfec32"
+Parent: "cf44917d-6c93-4e25-a77a-fbe9a70a8e8e"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/Flexi-EB/local-folder/Enquiry CTA"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "9cb76228-fc26-48b7-bd66-1c6e133b625d"
+  Hint: secondaryLinkButtonMode
+  Value: "{02A5A5C7-C318-4919-B773-86A65BA98969}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 688
+- ID: "dab4200c-a87f-4605-b2f7-2544616ece6e"
+  Hint: secondaryLinkButtonIcon
+  Value: "{53C9E278-E7B2-4152-BEC5-8779F6DB3EE4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200117T110121Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{DDDC8665-7708-41FE-83B6-689BB429C777}" cropx="0.49" cropy="0.46" focusx="-0.02631578947368418" focusy="0.078125" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        If you&rsquo;re a business owner and new to insurance, we can answer all your questions and give you the advice you need. At FWD we offer a range of group life and health insurance plans to match the needs of you, your employees and your business. For no-obligation advice, or to get your employees covered, call our group insurance team on <a href="tel:026326400">02-632-6400</a> or send an enquiry.
+        <div id="gtx-trans" style="position: absolute; left: 202px; top: 19px;">
+        <div class="gtx-trans-icon">&nbsp;</div>
+        </div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: 
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: "Choosing the right group insurance couldn’t be easier! "
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Send enquiry" anchor="" linktype="internal" class="" title=""  querystring="" id="{69A0E081-2A80-49AA-A162-376C26D4953F}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T115848Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{DDDC8665-7708-41FE-83B6-689BB429C777}" cropx="0.50" cropy="0.47" focusx="-0.00877192982456143" focusy="0.0625" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        หากคุณเป็นเจ้าของกิจการที่ยังไม่เคยทำประกันกลุ่มหมดห่วงได้ เพราะที่เอฟดับบลิวดี เราออกแบบประกันชีวิตและประกันสุขภาพแบบกลุ่ม ที่หลากหลาย เลือกได้ ตอบโจทย์กับความต้องการของบริษัทคุณ รับคำปรึกษาที่ไร้ข้อผูกมัด หรือสนใจทำประกันกลุ่มที่ลงตัวกับความต้องการขององค์กรคุณ ง่ายๆ แค่ โทร. <a href="tel:026326400">02-632-6400</a>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: 
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: เลือกประกันกลุ่มที่ใช่ ง่ายกว่าที่คิด
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="กรอกรายละเอียด" anchor="" linktype="internal" class="" title=""  querystring="" id="{69A0E081-2A80-49AA-A162-376C26D4953F}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"

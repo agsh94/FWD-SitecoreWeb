@@ -1,0 +1,606 @@
+﻿{
+
+    "Context Item": {
+        "shortDescription": {
+            "value": "คุณนัทธ์หทัย นาวานุเคราะห์ ผู้อำนวยการอาวุโส ฝ่ายภาพลักษณ์และสื่อสารองค์กร บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) เป็นตัวแทนบริษัทฯ เข้ารับรางวัล “Thailand Brand Leadership Awards 2018” ในฐานะองค์กรที่เป็นผู้นำด้านการสร้างแบรนด์ดีเด่น ประจำปี 2561 จาก CMO ASIA โดย ดร. อาร์. แอล. ที. บาเทีย ผู้ก่อตั้งและประธานคณะกรรมการด้านการพัฒนาอย่างยั่งยืนของโลกและวัน CSR โลก เป็นผู้มอบ ณ โรงแรมพลาซ่า แอทธินี   ทั้งนี้บริษัทฯได้จัดกิจกรรมทางการตลาดแบบหลากหลายอย่างต่อเนื่อง ส่งผลให้ดัชนีการรับรู้ของแบรนด์อยู่ที่ 50% และดัชนีการพิจารณาซื้อประกันชีวิตอยู่ที่ 27%  และทำให้แบรนด์เอฟดับบลิวดีประกันชีวิตเป็นที่รู้จักอย่างแพร่หลาย"
+        },
+        "articleTitle": {
+            "value": "เอฟดับบลิวดี ประกันชีวิต คว้ารางวัล Thailand Brand Leadership Awards 2018"
+        },
+        "author": {
+            "value": "Mark"
+        },
+        "city": {
+            "id": "a8f6d52a-2372-4a11-bf71-95d2beb21074",
+            "url": "/Content/City/Pattaya",
+            "fields": {
+                "name": {
+                    "value": "Pattaya"
+                },
+                "searchName": {
+                    "value": "Pattaya"
+                }
+            }
+        },
+        "date": {
+            "value": "1/1/0001 12:00:00 AM"
+        },
+        "isFeatured": {
+            "value": true
+        },
+        "image": {
+            "value": {
+                "src": "/-/media/fwd/project/th/img/article-card-16x9.png?h=689&w=1224&hash=238C54373E9DB9D89D78DE40CF42C1D2",
+                "alt": "Article Card - 16x9",
+                "width": "1224",
+                "height": "689"
+            }
+        },
+        "mobileImage": {
+            "value": {
+                "src": "/-/media/fwd/project/th/img/article-card-small.jpg?h=120&w=120&hash=F434E9F962C4679ADFD2F961F09A05F4",
+                "alt": "article card",
+                "width": "120",
+                "height": "120"
+            }
+        },
+        "userType": [
+            {
+                "id": "a13e3f64-579d-467a-bdd8-a3214871cc4b",
+                "fields": {
+                    "name": {
+                        "value": "business owner"
+                    },
+                    "searchName": {
+                        "value": "business owner"
+                    }
+                }
+            },
+            {
+                "id": "bec470be-ebee-4a68-be1d-4d071bfce207",
+                "fields": {
+                    "name": {
+                        "value": "family"
+                    },
+                    "searchName": {
+                        "value": "family"
+                    }
+                }
+            }
+        ],
+        "associatedProducts": [
+            {
+                "id": "7084a1e8-2d00-4ca8-954f-c532d46a2c0e",
+                "fields": {
+                    "image": {
+                        "value": {
+                            "src": "/-/media/fwd/project/th/img/article-card-medium.jpg?h=221&w=392&hash=740E1A75BD7E69363266004DCC0E14A9",
+                            "alt": "article card",
+                            "width": "392",
+                            "height": "221"
+                        }
+                    },
+                    "productDescription": {
+                        "value": "FWD has designed the variety of savings insurance plans to cover all your needs, for you getting start by simply putting your money aside while living your life joyfully the way you want to. With our Savings Insurance Plans, you can paving a smooth financial path over time and no need to keep worry about the future."
+                    },
+                    "productTitle": {
+                        "value": "Super Care"
+                    },
+                    "isFeatured": {
+                        "value": false
+                    },
+                    "mobileImage": {
+                        "value": {
+                            "src": "/-/media/fwd/project/th/img/article-card-small.jpg?h=120&w=120&hash=F434E9F962C4679ADFD2F961F09A05F4",
+                            "alt": "article card",
+                            "width": "120",
+                            "height": "120"
+                        }
+                    },
+                    "primaryNeedTags": [
+                        {
+                            "id": "6fb0f5c7-56b1-455f-b58a-cff07db084a9",
+                            "fields": {
+                                "name": {
+                                    "value": "disability"
+                                },
+                                "searchName": {
+                                    "value": "disability"
+                                }
+                            }
+                        }
+                    ],
+                    "promotionLabel": {
+                        "id": "5e682ef6-a5c4-4838-9215-bc0f942939ee",
+                        "url": "/Content/Tags/productsTags/promotionLabel/apply-online",
+                        "fields": {
+                            "name": {
+                                "value": "Apply Online"
+                            },
+                            "searchName": {
+                                "value": "Apply Online"
+                            }
+                        }
+                    },
+                    "purchaseMethod": [
+                        {
+                            "id": "8b04e458-88a3-4076-9b16-a11cebba7343",
+                            "fields": {
+                                "name": {
+                                    "value": "Online"
+                                },
+                                "searchName": {
+                                    "value": "Online"
+                                }
+                            }
+                        }
+                    ],
+                    "secondaryNeedTags": [
+                        {
+                            "id": "76b23121-1a2d-4a4a-b0bb-03055681f0a1",
+                            "fields": {
+                                "name": {
+                                    "value": "cancer"
+                                },
+                                "searchName": {
+                                    "value": "cancer"
+                                }
+                            }
+                        },
+                        {
+                            "id": "8cb93ed3-756f-4e8a-b9d6-7174b935c9bf",
+                            "fields": {
+                                "name": {
+                                    "value": "financial risk"
+                                },
+                                "searchName": {
+                                    "value": "financial risk"
+                                }
+                            }
+                        }
+                    ],
+                    "subtype": {
+                        "id": "2b21e021-7f9e-4586-b882-6ad8c2c0fee3",
+                        "url": "/Content/Tags/commonTags/contentSubtype/Products/Retirement",
+                        "fields": {
+                            "name": {
+                                "value": "Retirement"
+                            },
+                            "searchName": {
+                                "value": "Retirement"
+                            }
+                        }
+                    },
+                    "userType": [
+                        {
+                            "id": "bec470be-ebee-4a68-be1d-4d071bfce207",
+                            "fields": {
+                                "name": {
+                                    "value": "family"
+                                },
+                                "searchName": {
+                                    "value": "family"
+                                }
+                            }
+                        }
+                    ],
+                    "contentType": {
+                        "id": "a57b5556-98b3-4112-ac9f-1926d90455b8",
+                        "url": "/Content/Tags/commonTags/contentType/Product",
+                        "fields": {
+                            "name": {
+                                "value": "Product"
+                            },
+                            "searchName": {
+                                "value": "Product"
+                            }
+                        }
+                    },
+                    "planComponent": {
+                        "id": "685eaa7c-ab5f-4274-b3bc-01a34e45a474",
+                        "url": "/Content/Tags/productsTags/planComponent/Rider",
+                        "fields": {
+                            "name": {
+                                "value": "Rider"
+                            },
+                            "searchName": {
+                                "value": "Rider"
+                            }
+                        }
+                    },
+                    "featuredTags": [
+                        {
+                            "id": "6fb0f5c7-56b1-455f-b58a-cff07db084a9",
+                            "fields": {
+                                "name": {
+                                    "value": "disability"
+                                },
+                                "searchName": {
+                                    "value": "disability"
+                                }
+                            }
+                        },
+                        {
+                            "id": "76b23121-1a2d-4a4a-b0bb-03055681f0a1",
+                            "fields": {
+                                "name": {
+                                    "value": "cancer"
+                                },
+                                "searchName": {
+                                    "value": "cancer"
+                                }
+                            }
+                        },
+                        {
+                            "id": "8cb93ed3-756f-4e8a-b9d6-7174b935c9bf",
+                            "fields": {
+                                "name": {
+                                    "value": "financial risk"
+                                },
+                                "searchName": {
+                                    "value": "financial risk"
+                                }
+                            }
+                        }
+                    ],
+                    "associatedRiders": [],
+                    "isPageSearchable": {
+                        "value": true
+                    },
+                    "metadataTitle": {
+                        "value": "Super Care"
+                    },
+                    "metadataDescription": {
+                        "value": "FWD has designed the variety of savings insurance plans to cover all your needs, for you getting start by simply putting your money aside while living your life joyfully the way you want to. With our Savings Insurance Plans, you can paving a smooth financial path over time and no need to keep worry about the future."
+                    }
+                }
+            },
+            {
+                "id": "a594172e-3b50-4604-b41d-29f8b18b80f3",
+                "fields": {
+                    "image": {
+                        "value": {
+                            "src": "/-/media/fwd/project/th/img/article-card-medium.jpg?h=221&w=392&hash=740E1A75BD7E69363266004DCC0E14A9",
+                            "alt": "article card",
+                            "width": "392",
+                            "height": "221"
+                        }
+                    },
+                    "productDescription": {
+                        "value": "Nobody knows what’s gonna happen tomorrow. So we’ve designed protection plans that cover the unexpected to provide necessary security to enable you and your family to stay afloat, make you feel at ease and embrace the life you deserve. With our protection plans, not only you can live your life but also can max it!"
+                    },
+                    "productTitle": {
+                        "value": "Value Protector"
+                    },
+                    "isFeatured": {
+                        "value": true
+                    },
+                    "mobileImage": {
+                        "value": {
+                            "src": "/-/media/fwd/project/th/img/article-card-small.jpg?h=120&w=120&hash=F434E9F962C4679ADFD2F961F09A05F4",
+                            "alt": "article card",
+                            "width": "120",
+                            "height": "120"
+                        }
+                    },
+                    "primaryNeedTags": [
+                        {
+                            "id": "eda8aa85-90e4-409c-99e9-adc0eca09767",
+                            "fields": {
+                                "name": {
+                                    "value": "saving"
+                                },
+                                "searchName": {
+                                    "value": "saving"
+                                }
+                            }
+                        }
+                    ],
+                    "promotionLabel": {
+                        "id": "5e682ef6-a5c4-4838-9215-bc0f942939ee",
+                        "url": "/Content/Tags/productsTags/promotionLabel/apply-online",
+                        "fields": {
+                            "name": {
+                                "value": "Apply Online"
+                            },
+                            "searchName": {
+                                "value": "Apply Online"
+                            }
+                        }
+                    },
+                    "purchaseMethod": [
+                        {
+                            "id": "8b04e458-88a3-4076-9b16-a11cebba7343",
+                            "fields": {
+                                "name": {
+                                    "value": "Online"
+                                },
+                                "searchName": {
+                                    "value": "Online"
+                                }
+                            }
+                        }
+                    ],
+                    "secondaryNeedTags": [
+                        {
+                            "id": "76b23121-1a2d-4a4a-b0bb-03055681f0a1",
+                            "fields": {
+                                "name": {
+                                    "value": "cancer"
+                                },
+                                "searchName": {
+                                    "value": "cancer"
+                                }
+                            }
+                        },
+                        {
+                            "id": "8cb93ed3-756f-4e8a-b9d6-7174b935c9bf",
+                            "fields": {
+                                "name": {
+                                    "value": "financial risk"
+                                },
+                                "searchName": {
+                                    "value": "financial risk"
+                                }
+                            }
+                        }
+                    ],
+                    "subtype": {
+                        "id": "2b21e021-7f9e-4586-b882-6ad8c2c0fee3",
+                        "url": "/Content/Tags/commonTags/contentSubtype/Products/Retirement",
+                        "fields": {
+                            "name": {
+                                "value": "Retirement"
+                            },
+                            "searchName": {
+                                "value": "Retirement"
+                            }
+                        }
+                    },
+                    "userType": [
+                        {
+                            "id": "bec470be-ebee-4a68-be1d-4d071bfce207",
+                            "fields": {
+                                "name": {
+                                    "value": "family"
+                                },
+                                "searchName": {
+                                    "value": "family"
+                                }
+                            }
+                        }
+                    ],
+                    "contentType": {
+                        "id": "a57b5556-98b3-4112-ac9f-1926d90455b8",
+                        "url": "/Content/Tags/commonTags/contentType/Product",
+                        "fields": {
+                            "name": {
+                                "value": "Product"
+                            },
+                            "searchName": {
+                                "value": "Product"
+                            }
+                        }
+                    },
+                    "planComponent": {
+                        "id": "9d9f10e7-dc62-4691-94ab-0ef6994615d8",
+                        "url": "/Content/Tags/productsTags/planComponent/Product",
+                        "fields": {
+                            "name": {
+                                "value": "Product"
+                            },
+                            "searchName": {
+                                "value": "Product"
+                            }
+                        }
+                    },
+                    "featuredTags": [
+                        {
+                            "id": "eda8aa85-90e4-409c-99e9-adc0eca09767",
+                            "fields": {
+                                "name": {
+                                    "value": "saving"
+                                },
+                                "searchName": {
+                                    "value": "saving"
+                                }
+                            }
+                        },
+                        {
+                            "id": "76b23121-1a2d-4a4a-b0bb-03055681f0a1",
+                            "fields": {
+                                "name": {
+                                    "value": "cancer"
+                                },
+                                "searchName": {
+                                    "value": "cancer"
+                                }
+                            }
+                        },
+                        {
+                            "id": "8cb93ed3-756f-4e8a-b9d6-7174b935c9bf",
+                            "fields": {
+                                "name": {
+                                    "value": "financial risk"
+                                },
+                                "searchName": {
+                                    "value": "financial risk"
+                                }
+                            }
+                        }
+                    ],
+                    "associatedRiders": [],
+                    "isPageSearchable": {
+                        "value": true
+                    },
+                    "metadataTitle": {
+                        "value": "Value Protector"
+                    },
+                    "metadataDescription": {
+                        "value": "Nobody knows what’s gonna happen tomorrow. So we’ve designed protection plans that cover the unexpected to provide necessary security to enable you and your family to stay afloat, make you feel at ease and embrace the life you deserve. With our protection plans, not only you can live your life but also can max it!"
+                    }
+                }
+            }
+        ],
+        "contentType": {
+            "id": "4fe0a16d-285f-4c41-9bfa-a1343b036cdf",
+            "url": "/Content/Tags/commonTags/contentType/Article",
+            "fields": {
+                "name": {
+                    "value": "Article"
+                },
+                "searchName": {
+                    "value": "Article"
+                }
+            }
+        },
+        "featuredTags": [
+            {
+                "id": "26e51be2-bb06-499c-be0e-ce58cd11f888",
+                "fields": {
+                    "name": {
+                        "value": "Whole Life Protection"
+                    },
+                    "searchName": {
+                        "value": "whole-life-protection"
+                    }
+                }
+            },
+            {
+                "id": "9850ffc3-58bc-407a-9d77-eb32cb57bd6e",
+                "fields": {
+                    "name": {
+                        "value": "Organ Failure"
+                    },
+                    "searchName": {
+                        "value": "organ-failure"
+                    }
+                }
+            },
+            {
+                "id": "1e39c0d9-cb59-4ad9-9c6a-4fdc8436f456",
+                "fields": {
+                    "name": {
+                        "value": "Heart Disease"
+                    },
+                    "searchName": {
+                        "value": "heart-disease"
+                    }
+                }
+            }
+        ],
+        "rewardLabel": {
+            "id": "aded5fec-0baf-45f2-baab-03e3c9cc7154",
+            "url": "/Content/Tags/articlesTags/rewardLabel/tier-1",
+            "fields": {
+                "name": {
+                    "value": "Tier 1"
+                },
+                "searchName": {
+                    "value": "Tier 1"
+                }
+            }
+        },
+        "source": {
+            "id": "c2d9dc2b-3bdd-4d89-a79d-df2dab88ac87",
+            "url": "/Content/Tags/articlesTags/Source/FWD",
+            "fields": {
+                "name": {
+                    "value": "FWD"
+                },
+                "searchName": {
+                    "value": "FWD"
+                }
+            }
+        },
+        "subtype": {
+            "id": "f9477f10-1a0c-48a1-9ab0-4cd0672c9aa9",
+            "url": "/Content/Tags/commonTags/contentSubtype/Articles/press-releases",
+            "fields": {
+                "name": {
+                    "value": "Press Releases"
+                },
+                "searchName": {
+                    "value": "Press-Releases"
+                }
+            }
+        },
+        "topics": [
+            {
+                "id": "4c6b8cb9-d359-4498-a1cd-107cbb0843fe",
+                "fields": {
+                    "name": {
+                        "value": "Dining"
+                    },
+                    "searchName": {
+                        "value": "Dining"
+                    }
+                }
+            },
+            {
+                "id": "27b45f29-dd3f-42a5-a19f-5193a9205d68",
+                "fields": {
+                    "name": {
+                        "value": "Health"
+                    },
+                    "searchName": {
+                        "value": "Health"
+                    }
+                }
+            },
+            {
+                "id": "1a0882d1-29e0-44f1-a452-1bfa66656b0e",
+                "fields": {
+                    "name": {
+                        "value": "Sport"
+                    },
+                    "searchName": {
+                        "value": "Sport"
+                    }
+                }
+            },
+            {
+                "id": "4f3a2d61-bba0-47e8-afac-1a0873ac1d34",
+                "fields": {
+                    "name": {
+                        "value": "Travel"
+                    },
+                    "searchName": {
+                        "value": "Travel"
+                    }
+                }
+            },
+            {
+                "id": "65dfe505-b497-4abd-a5ec-cfa2185f68fa",
+                "fields": {
+                    "name": {
+                        "value": "Wealth"
+                    },
+                    "searchName": {
+                        "value": "Wealth"
+                    }
+                }
+            },
+            {
+                "id": "ba841f13-b6ce-4f60-aefe-830e8e5a40ed",
+                "fields": {
+                    "name": {
+                        "value": "Life stage"
+                    },
+                    "searchName": {
+                        "value": "Life-stage"
+                    }
+                }
+            }
+        ],
+        "isPageSearchable": {
+            "value": true
+        },
+        "metadataTitle": {
+            "value": "Article 10"
+        },
+        "metadataDescription": {
+            "value": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium."
+        }
+    }
+}

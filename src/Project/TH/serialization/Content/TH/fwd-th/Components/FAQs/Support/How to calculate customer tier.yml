@@ -1,0 +1,59 @@
+﻿---
+ID: "1da2e2ab-d3af-4d25-92cf-b9947d5dc2bd"
+Parent: "125908cd-3bdd-4343-80ec-53a3cd0c7ca0"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Support/How to calculate customer tier"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1100
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200927T160243Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: ระดับสิทธิพิเศษลูกค้าเอฟดับบลิวดีคำนวณจากอะไร
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Chaiyawat
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <p>วิธีการคำนวณค่าเบี้ยประกันชีวิตที่คุณชำระ เพื่อจัดระดับสิทธิพิเศษจะคำนวณจากค่าเบี้ยประกันชีวิตตามเงื่อนไขของบริษัท </p>
+        <p>ดูเงื่อนไขการคำนวณเพิ่มเติม <a href="~/link.aspx?_id=9458A22469E04FD792C41651608448DA&amp;_z=z">คลิกที่นี่</a></p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201002T022737Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: ระดับสิทธิพิเศษลูกค้าเอฟดับบลิวดีคำนวณจากอะไร
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Chaiyawat
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <p>วิธีการคำนวณค่าเบี้ยประกันชีวิตที่คุณชำระ เพื่อจัดระดับสิทธิพิเศษจะคำนวณจากค่าเบี้ยประกันชีวิตตามเงื่อนไขของบริษัท </p>
+        <p>ดูเงื่อนไขการคำนวณเพิ่มเติม <a rel="noopener noreferrer" href="https://www.fwd.co.th/th/rewards/premiums-calculate/" target="_blank">คลิกที่นี่</a></p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201002T022737Z

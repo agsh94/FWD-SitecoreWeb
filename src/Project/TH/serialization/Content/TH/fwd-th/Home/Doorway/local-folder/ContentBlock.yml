@@ -1,0 +1,254 @@
+﻿---
+ID: "72df20d3-8d88-4465-8c74-9ecaf4ab4f13"
+Parent: "b92bca85-6279-4664-a3fb-712acd51ce31"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Doorway/local-folder/ContentBlock"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{68BE4375-2C18-4CAD-808A-6AC77720B96B}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ContentBlock
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200520T113445Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <div style="color: #333333; background-color: #ffffff;">
+        <h4 class="MuiTypography-root MuiTypography-h4 text-color-white" style="margin: 0px 0px 16px; letter-spacing: 0.00735em;">Notice</h4>
+        <p style="margin-top: 0px;">Welcome to FWD's Website! Please read the following terms and conditions carefully. By accessing this website and any pages, you are agreeing to be bound by the terms and conditions below. If you do not agree to the terms and conditions below, please do not access this website, or any pages thereof.</p>
+        </div>
+        <br style="color: #333333; background-color: #ffffff;" />
+        <div style="color: #333333; background-color: #ffffff;">
+        <h4 class="MuiTypography-root MuiTypography-h4 text-color-white" style="margin: 0px 0px 16px; letter-spacing: 0.00735em;">Copyright : All Rights Reserved</h4>
+        <p style="margin-top: 0px;">Unless otherwise indicated, copyright of all materials and contents found on this website is owned by FWD Life Insurance Public Company Limited, (hereinafter referred to as "FWD").</p>
+        </div>
+        <br style="color: #333333; background-color: #ffffff;" />
+        <div style="color: #333333; background-color: #ffffff;">
+        <h4 class="MuiTypography-root MuiTypography-h4 text-color-white" style="margin: 0px 0px 16px; letter-spacing: 0.00735em;">Trademarks</h4>
+        <p style="margin-top: 0px; margin-bottom: 0px;">All trademarks, logos and service marks displayed on this website are protected and users are prohibited from using the same without written permission of FWD or the owners of the relevant trademarks, logos and service marks, as the case may be.</p>
+        <br />
+        <p style="margin-top: 0px;">The materials on this website are protected by copyright and no part of such materials can be modified, reproduced, stored in a retrieval system, transmitted (in any form or by any means), copied, distributed, used for creating derivative works or used in any other way for commercial or public purposes without FWD's prior written consent.</p>
+        </div>
+        <br style="color: #333333; background-color: #ffffff;" />
+        <div style="color: #333333; background-color: #ffffff;">
+        <h4 class="MuiTypography-root MuiTypography-h4 text-color-white" style="margin: 0px 0px 16px; letter-spacing: 0.00735em;">Use of Information and Materials</h4>
+        <p style="margin-top: 0px; margin-bottom: 0px;">The information and materials contained in these pages (including the terms, conditions, and descriptions that appear) are subject to change.</p>
+        <br />
+        <p style="margin-top: 0px; margin-bottom: 0px;">Products and services referred to in this website are only offered in jurisdiction where and when they may be lawfully offered by FWD. The materials on these pages are not intended for use by persons located in or resident in jurisdictions that restrict the distribution of such materials by us. Persons accessing these pages are required to observe any relevant restrictions.</p>
+        <br />
+        <p style="margin-top: 0px; margin-bottom: 0px;">These pages should not be regarded as an offer or solicitation to sell any products or services in any jurisdiction to any person to whom it is unlawful to make such an invitation or solicitation in such jurisdiction.</p>
+        <br />
+        Persons accessing these pages are advised to obtain appropriate professional advice based on their own needs for any particular product or service contained in these pages.
+        <p style="margin-top: 0px;">&nbsp;</p>
+        </div>
+        <br style="color: #333333; background-color: #ffffff;" />
+        <div style="color: #333333; background-color: #ffffff;">
+        <h4 class="MuiTypography-root MuiTypography-h4 text-color-white" style="margin: 0px 0px 16px; letter-spacing: 0.00735em;">No Warranty</h4>
+        <p style="margin-top: 0px;">The information and materials contained in this website, including text, graphics, links or other items are provided "as is", "as available". FWD does not warrant the accuracy, adequacy or completeness of this information and materials and expressly disclaims liability for errors or omissions in this information and materials. No warranty of any kind, implied, express or statutory, including the warranties of non-infringement of third party rights, title, merchantability, fitness for a particular purpose and freedom from computer virus, is given in conjunction with the information and materials.</p>
+        </div>
+        <br style="color: #333333; background-color: #ffffff;" />
+        <div style="color: #333333; background-color: #ffffff;">
+        <h4 class="MuiTypography-root MuiTypography-h4 text-color-white" style="margin: 0px 0px 16px; letter-spacing: 0.00735em;">Limitation of Liability</h4>
+        <p style="margin-top: 0px;">In no event will FWD be liable for any damages, including direct or indirect, special, incidental, or consequential damages, losses or expenses arising in connection with this website or use thereof or inability to use by any parties, or in connection with any failure of performance, error, omission, interruption, defect, delay in operation or transmission, computer virus or line or system failure, even if FWD, or representatives thereof, are advised of the possibility of such damages, losses or expenses. Hyperlinks to other Internet resources are used at your own risk; the content, accuracy, opinions expressed, and other links provided by these resources are not investigated, verified, monitored, or endorsed by FWD.</p>
+        </div>
+        <br style="color: #333333; background-color: #ffffff;" />
+        <div style="color: #333333; background-color: #ffffff;">
+        <h4 class="MuiTypography-root MuiTypography-h4 text-color-white" style="margin: 0px 0px 16px; letter-spacing: 0.00735em;">Submission of Information</h4>
+        <p style="margin-top: 0px;">All information submitted to FWD via this website shall be deemed and remain the property of FWD and FWD shall be free to use, for any purposes, any ideas, concepts, know-how or techniques contained in information provided by a visitor to FWD through this website. FWD shall not be subject to any obligations of confidentiality regarding submitted information except as agreed with FWD having the direct customer relationship or as otherwise specifically agreed or required by law.</p>
+        </div>
+        <br style="color: #333333; background-color: #ffffff;" />
+        <div style="color: #333333; background-color: #ffffff;">
+        <h4 class="MuiTypography-root MuiTypography-h4 text-color-white" style="margin: 0px 0px 16px; letter-spacing: 0.00735em;">Internet Communications</h4>
+        <p style="margin-top: 0px; margin-bottom: 0px;">Messages sent over the Internet cannot be guaranteed to be completely secure. FWD will not be responsible for any damages incurred by users if they send a message to FWD, or if FWD sends a message to them upon their request, over the Internet. FWD is not responsible in any manner for direct, indirect, special or consequential damages arising out of the use of this website.</p>
+        <br />
+        <p style="margin-top: 0px;">Communications over the Internet may be subject to interruption, transmission blackout, delayed transmission due to Internet traffic or incorrect data transmission due to the public nature of the Internet or otherwise.</p>
+        </div>
+        <br style="color: #333333; background-color: #ffffff;" />
+        <div style="color: #333333; background-color: #ffffff;">
+        <h4 class="MuiTypography-root MuiTypography-h4 text-color-white" style="margin: 0px 0px 16px; letter-spacing: 0.00735em;">Personal Data Protection Principle</h4>
+        <p style="margin-top: 0px; margin-bottom: 0px;">FWD will not collect any personal information that identifies a visitor to this website unless specified otherwise. Your visit to this website will record only the Domain Name Server part of your email address and of the pages visited. Such information will be used to prepare aggregate information about the number of visitors to the website and general statistics on usage patterns of the website.</p>
+        <br />
+        <p style="margin-top: 0px;">FWD is committed to comply with the provisions of the Data Protection Principle of FWD, please visit:&nbsp;<a href="~/link.aspx?_id=586403F5459840C996E50BB8ADC0D789&amp;_z=z">www.fwd.co.th/en/privacy-policy</a></p>
+        </div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200923T085542Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "Manage your policy quickly and easily with FWD Link. Check your coverage, make a claim, pay your premium - and so much more. Make life easy by taking it online."
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200923T085542Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200520T114603Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <h4 class="MuiTypography-root MuiTypography-h4 text-color-white" style="color: #333333; background-color: #ffffff; margin: 0px 0px 16px; letter-spacing: 0.00735em;">ประกาศ</h4>
+        <p style="color: #333333; background-color: #ffffff; margin-top: 0px; margin-bottom: 0px;"><span style="background-color: #ffffff; color: #333333;">ยินดีต้อนรับสู่เว็บไซต์ของเอฟดับบลิวดี! กรุณาอ่านข้อกำหนดและเงื่อนไขด้านล่างด้วยความระมัดระวัง การที่ท่านเข้าสู่เว็บไซต์นี้รวมถึงหน้าเว็บไซต์ใดๆ ท่านกำลังเข้าผูกพันในข้อกำหนดและเงื่อนไขตามที่ปรากฏด้านล่าง หากท่านไม่ต้องการตกลงในข้อกำหนดและเงื่อนไขด้านล่าง กรุณาหยุดการเข้าเว๊ปไซด์ในขณะนี้</span></p>
+        <p style="color: #333333; background-color: #ffffff; margin-top: 0px; margin-bottom: 0px;"><span style="background-color: #ffffff; color: #333333;">&nbsp;</span></p>
+        <div style="color: #333333; background-color: #ffffff;">
+        <div>
+        <h4 class="MuiTypography-root MuiTypography-h4 text-color-white" style="margin: 0px 0px 16px; letter-spacing: 0.00735em;">ลิขสิทธิ์: สงวนลิขสิทธิ์</h4>
+        <p style="margin-top: 0px; margin-bottom: 0px;">เนื้อหาที่ปรากฎบนเว็บไซต์นี้เป็นลิขสิทธิ์ของ บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) (ต่อไปนี้เรียกว่า &ldquo;เอฟดับบลิวดี&rdquo;) เว้นแต่จะมีข้อความระบุไว้เป็นอย่างอื่นบนเว็บไซต์นี้</p>
+        <p style="margin-top: 0px; margin-bottom: 0px;">&nbsp;</p>
+        <div>
+        <div>
+        <h4 class="MuiTypography-root MuiTypography-h4 text-color-white" style="margin: 0px 0px 16px; letter-spacing: 0.00735em;">เครื่องหมายการค้า</h4>
+        <p style="margin-top: 0px; margin-bottom: 0px;">เครื่องหมายการค้าทั้งหมด ตราสัญลักษณ์ และเครื่องหมายบริการ ที่ปรากฏบนเว็บไซต์นี้ เป็นเครื่องหมายที่ได้รับความคุ้มครอง และห้ามผู้ใช้เว็บไซต์ใช้เครื่องหมายดังกล่าวโดยปราศจากความยินยอมเป็นลายลักษณ์อักษรจากเอฟดับบลิวดี หรือจากเจ้าของเครื่องหมายการค้า ตราสัญลักษณ์ และเครื่องหมายบริการที่เกี่ยวข้อง (แล้วแต่กรณี)</p>
+        <br />
+        <p style="margin-top: 0px; margin-bottom: 0px;">เนื้อหาบนเว็บไซต์นี้ได้รับความคุ้มครองลิขสิทธิ์ และไม่สามารถดัดแปลง ทำขึ้นใหม่ นำไปจัดเก็บในระบบที่มีการกู้คืนได้ ส่งผ่าน (ไมว่าในรูปแบบหรือด้วยวิธีการใดๆ) คัดลอก จำหน่าย ใช้สำหรับสร้างงานดัดแปลง หรือใช้ในทางอื่นๆ ในทางการค้าหรือเพื่อวัตถุประสงค์สาธารณะในเนื้อหาดังกล่าว ไม่ว่าส่วนใดส่วนหนึ่งโดยปราศจากความยินยอมเป็นลายลักษณ์อักษรล่วงหน้าจากเอฟดับบลิวดี</p>
+        <p style="margin-top: 0px; margin-bottom: 0px;">&nbsp;</p>
+        <div>
+        <div>
+        <h4 class="MuiTypography-root MuiTypography-h4 text-color-white" style="margin: 0px 0px 16px; letter-spacing: 0.00735em;">การใช้ข้อมูลและเนื้อหา</h4>
+        <p style="margin-top: 0px; margin-bottom: 0px;">ข้อมูลและเนื้อหาที่ปรากฏอยู่บนเว็บไซต์นี้ (รวมถึงข้อกำหนด เงื่อนไขและคำบรรยายที่ปรากฏ) อาจมีการเปลี่ยนแปลงได้</p>
+        <br />
+        <p style="margin-top: 0px; margin-bottom: 0px;">ผลิตภัณฑ์และบริการที่อ้างถึงบนเว็บไซต์นี้ เป็นการนำเสนอภายในประเทศที่เอฟดับบลิวดีสามารถนำเสนอผลิตภัณฑ์และบริการดังกล่าวได้โดยชอบด้วยกฎหมายเท่านั้น เนื้อหาบนหน้าเว็บไซต์เหล่านี้มิได้มุ่งหวังเพื่อการใช้โดยบุคคลที่อยู่หรืออาศัยในประเทศที่มีการจำกัดในเนื้อหาของเรา บุคคลที่เข้าถึงหน้าเว็บไซต์ต้องปฏิบัติตามข้อจำกัดที่เกี่ยวข้อง</p>
+        <br />
+        <p style="margin-top: 0px; margin-bottom: 0px;">หน้าเว็บไซต์เหล่านี้ไม่ถือเป็นการเสนอขายผลิตภัณฑ์หรือบริการให้แก่บุคคลใดๆ ในประเทศที่การเสนอขายนั้นเป็นสิ่งที่ผิดกฎหมายในประเทศนั้นๆ</p>
+        <br />
+        <p style="margin-top: 0px; margin-bottom: 0px;">บุคคลที่เข้าถึงหน้าเว็บไซต์เหล่านี้ควรได้รับคำแนะนำที่เหมาะสม เพื่อให้ตรงกับความต้องการในผลิตภัณฑ์หรือบริการประเภทนั้นๆ ตามที่ได้ปรากฎบนหน้าเว็บไซต์</p>
+        <p style="margin-top: 0px; margin-bottom: 0px;">&nbsp;</p>
+        <div>
+        <div>
+        <h4 class="MuiTypography-root MuiTypography-h4 text-color-white" style="margin: 0px 0px 16px; letter-spacing: 0.00735em;">ไม่มีการรับประกัน</h4>
+        <p style="margin-top: 0px; margin-bottom: 0px;">ข้อมูลและเนื้อหาที่ปรากฏบนเว็บไซต์นี้ รวมถึง ตัวอักษร ภาพกราฟฟิก ลิงค์เชื่อมโยง หรือสิ่งอื่นๆ มีขึ้นบนพื้นฐานตามที่เป็นอยู่หรือตามที่มีอยู่ เอฟดับบลิวดี ไม่รับประกันความถูกต้อง ความเหมาะสม หรือความสมบูรณ์ของข้อมูลและเนื้อหา ข้อมูลและเนื้อหานี้ มิได้ทำให้เกิดการรับประกันประเภทสินค้า ความบกพร่องของสินค้า ความถูกต้องตรงตามวัตถุประสงค์ ไม่ว่าจะโดยปริยายหรือชัดแจ้ง หรือตามกฎหมาย รวมถึงการไม่รับประกันการไม่ละเมิดของบุคคลภายนอก และไม่รับประกันการติดไวรัสในเครื่องคอมพิวเตอร์</p>
+        <p style="margin-top: 0px; margin-bottom: 0px;">&nbsp;</p>
+        <div>
+        <div>
+        <h4 class="MuiTypography-root MuiTypography-h4 text-color-white" style="margin: 0px 0px 16px; letter-spacing: 0.00735em;">การจำกัดความรับผิด</h4>
+        <p style="margin-top: 0px; margin-bottom: 0px;">ไม่ว่าในกรณีใดๆ เอฟดับบลิวดี ไม่ต้องรับผิดในค่าเสียหาย ไม่ว่าจะโดยทางตรงหรือทางอ้อม ค่าเสียหายจำเพาะ ค่าเสียหายที่เกิดจากความไม่ได้ตั้งใจ หรือค่าเสียหายอันเนื่องมาจากการผิดสัญญา ความเสียหายหรือค่าใช้จ่ายที่เกิดขึ้นอันเกี่ยวข้องกับเว็บไซต์นี้ หรือจากการใช้เว็บไซต์นี้ หรือจากการที่บุคคลใดๆ ขาดความสามารถในการใช้ หรือที่เกี่ยวข้องกับการที่เว็บไซต์ไม่สามารถใช้งานได้ มีข้อผิดพลาด ละเว้น หยุดชะงัก มีข้อบกพร่อง มีความล่าช้าในการปฏิบัติการหรือมีความล่าช้าในการส่ง ไวรัสคอมพิวเตอร์ หรือความล้มเหลวของระบบ แม้ว่าเอฟดับบลิวดี หรือตัวแทนของเอฟดับบลิวดี จะได้รับคำแนะนำว่ามีความเป็นไปได้ที่จะเกิดค่าเสียหาย ความเสียหาย หรือค่าใช้จ่ายนั้น สำหรับไฮเปอร์ลิงค์เชื่อมโยงไปแหล่งอินเตอร์เน็ตอื่น ท่านจะต้องเป็นผู้รับความเสี่ยงในการใช้เอง เนื่องจากเอฟดับบลิวดี ไม่ได้มีการตรวจสอบ ยืนยัน ดูแล หรือสนับสนุนไฮเปอร์ลิงค์เชื่อมโยงนั้น</p>
+        <p style="margin-top: 0px; margin-bottom: 0px;">&nbsp;</p>
+        <div>
+        <div>
+        <h4 class="MuiTypography-root MuiTypography-h4 text-color-white" style="margin: 0px 0px 16px; letter-spacing: 0.00735em;">การกรอกข้อมูล</h4>
+        <p style="margin-top: 0px; margin-bottom: 0px;">ข้อมูลทั้งหมดที่ได้กรอกให้กับเอฟดับบลิวดี ผ่านทางเว็บไซต์นี้จะถือว่าและคงไว้เป็นทรัพย์สินของเอฟดับบลิวดี และเอฟดับบลิวดี มีอิสระที่จะใช้ความคิด แนวคิด ความรู้ทักษะ หรือความรู้ความชำนาญที่ปรากฏอยู่ในข้อมูลที่ผู้เข้าชมเว็บไซต์ได้ให้ไว้กับเอฟดับบลิวดี ผ่านทางเว็บไซต์นี้ ไม่ว่าจะด้วยวัตถุประสงค์ใดๆ ก็ตาม เอฟดับบลิวดี ไม่มีหน้าที่ในการรักษาความลับในข้อมูลที่กรอกไว้ เว้นแต่ได้มีการตกลงกับเอฟดับบลิวดี โดยมีความสัมพันธ์เป็นลูกค้าโดยตรงหรือตามที่ได้มีการตกลงอย่างอื่นเป็นพิเศษ หรือตามที่กฎหมายได้กำหนด</p>
+        <p style="margin-top: 0px; margin-bottom: 0px;">&nbsp;</p>
+        <div>
+        <div>
+        <h4 class="MuiTypography-root MuiTypography-h4 text-color-white" style="margin: 0px 0px 16px; letter-spacing: 0.00735em;">การสื่อสารทางอินเตอร์เน็ต</h4>
+        <p style="margin-top: 0px; margin-bottom: 0px;">ไม่มีการรับประกันความปลอดภัยของข้อความที่ส่งผ่านบนอินเตอร์เน็ต เอฟดับบลิวดีจะไม่รับผิดชอบในค่าเสียหายใดๆ ที่เกิดขึ้นโดยผู้ใช้ หากผู้ใช้เหล่านั้นได้ส่งข้อความไปที่เอฟดับบลิวดี หรือหากเอฟดับบลิวดี ได้ส่งข้อความไปที่ผู้ใช้เหล่านั้นตามที่ร้องขอผ่านอินเตอร์เน็ต เอฟดับบลิวดีจะไม่รับผิดชอบใดๆ สำหรับค่าเสียหายโดยตรง โดยอ้อม จำเพาะ หรือที่สืบเนื่องจากการผิดสัญญา อันเกิดจากการใช้เว็บไซต์นี้</p>
+        <br />
+        <p style="margin-top: 0px; margin-bottom: 0px;">การสื่อสารผ่านอินเตอร์เน็ตอาจมีการติดขัด มีปัญหาในการส่ง มีความล่าช้าในการส่ง อันเนื่องมาจากจำนวนผู้ใช้งานอินเตอร์เน็ต หรือความไม่ถูกต้องของการส่งข้อมูลอันเนื่องมาจากลักษณะทั่วไปของอินเตอร์เน็ตหรือโดยประการอื่น</p>
+        <p style="margin-top: 0px; margin-bottom: 0px;">&nbsp;</p>
+        <div>
+        <div>
+        <h4 class="MuiTypography-root MuiTypography-h4 text-color-white" style="margin: 0px 0px 16px; letter-spacing: 0.00735em;">หลักการปกป้องข้อมูลส่วนบุคคล</h4>
+        <p style="margin-top: 0px; margin-bottom: 0px;">เอฟดับบลิวดีจะไม่ทำการเก็บรวบรวมข้อมูลส่วนบุคคลใดๆ ที่สามารถระบุตัวตนของผู้เข้าเยี่ยมชมเว็บไซต์ได้ เว้นแต่ว่าได้มีการกำหนดไว้เป็นอย่างอื่น การเข้าเยี่ยมชมเว็บไซต์ของท่านจะมีการบันทึกในส่วนของโดเมนเนมเซิร์ฟเวอร์ของอีเมล์ของท่านและหน้าเว็บไซต์ที่ท่านเข้าเยี่ยมชมเท่านั้น ข้อมูลดังกล่าวจะถูกใช้ในการจัดเตรียมข้อมูลอันเกี่ยวกับจำนวนผู้เข้าเยี่ยมชมเว็บไซต์และข้อมูลสถิติทั่วๆ ไปของการใช้เว็บไซต์</p>
+        <br />
+        <p style="margin-top: 0px;">เอฟดับบลิวดี ได้ผูกพันที่จะดำเนินการและปฏิบัติตามข้อกำหนดของหลักการปกป้องข้อมูลส่วนบุคคลของเอฟดับบลิวดี โปรดดูรายละเอียดเพิ่มเติมได้ที่&nbsp;<a href="~/link.aspx?_id=586403F5459840C996E50BB8ADC0D789&amp;_z=z">www.fwd.com.th/th/privacy-policy/</a></p>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200923T085406Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: จัดการกรมธรรม์ของคุณได้อย่างรวดเร็วและง่ายดาย ไปกับเอฟดับบลิวดี ลิงค์ ไม่ว่าจะเป็น การตรวจสอบความคุ้มครอง เรียกร้องสินไหม จ่ายเบี้ยประกันภัย และอื่น ๆ อีกมากมาย ให้คุณพร้อมชีวิตอย่างสะดวกสบายยิ่งขึ้นผ่านบริการออนไลน์
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200923T085406Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: 
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T041409Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: จัดการกรมธรรม์ของคุณได้อย่างรวดเร็วและง่ายดาย ไปกับเอฟดับบลิวดี ลิงค์ ไม่ว่าจะเป็น การตรวจสอบความคุ้มครอง เรียกร้องสินไหม จ่ายเบี้ยประกันภัย และอื่น ๆ อีกมากมาย ให้คุณพร้อมชีวิตอย่างสะดวกสบายยิ่งขึ้นผ่านบริการออนไลน์
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201001T041409Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: 
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 

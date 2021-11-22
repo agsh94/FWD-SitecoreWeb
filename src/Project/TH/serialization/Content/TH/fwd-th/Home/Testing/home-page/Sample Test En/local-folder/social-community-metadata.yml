@@ -1,0 +1,28 @@
+﻿---
+ID: "64e086f1-24ae-4266-a5b7-3ed140821b80"
+Parent: "f8e8a3d1-0dd2-4ea6-b333-fd80e6c840d1"
+Template: "967a8dad-4a23-491b-95e2-295dec0b64b3"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Sample Test En/local-folder/social-community-metadata"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Social Community Metadata
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T042251Z
+    - ID: "dc5aad88-e827-445f-a6ff-9ddadf5a26c7"
+      Hint: subTitle
+      Value: Our corporate Social responsibility
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link id="{7985C6ED-966E-41AD-9DFC-D2A7CA4DB869}" querystring="" text="More about community" anchor="" title="More about community" class="" url="/fwd/fwd-th/Home/SupportOld" linktype="internal" />
+    - ID: "ef4ceecf-b302-475f-be16-370851260a17"
+      Hint: title
+      Value: Our corporate Social responsibility

@@ -1,0 +1,59 @@
+﻿---
+ID: "7407051c-3de8-4e0f-b89c-245c701be954"
+Parent: "38a8fcc4-140e-40b2-bb61-f830003c6c80"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Functions/Modules/CountrySelector
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    param(
+    $params
+    )
+    
+    Import-Function Global-Functions
+    		
+    if($params.Item){
+    	
+    		$newPath = $params.Item.ItemPath + '/Components'
+    		$newItem = Get-Item -Path $newPath
+    		$countrySelectorItem = New-Item -Parent $newItem -Name "country-selector" -ItemType $params.TemplateID -Language $params.language
+    		
+    		$modules = Get-ItemInsertOptions $countrySelectorItem
+    		$modulesSortedByKey = Get-OrderedDictionaryByKey $modules
+    		
+    		if ($modulesSortedByKey.Count -gt 0) {
+    		$CountrySelector1 = New-Item -Parent $countrySelectorItem -Name "Thailand" -ItemType $modulesSortedByKey.'CountrySelector' -Language $params.language
+    		$CountrySelector1.Editing.BeginEdit()
+    		$CountrySelector1["isDefault"] = 1
+    		$CountrySelector1["title"] = "Thailand"
+    		[Sitecore.Data.Fields.LinkField]$field = $CountrySelector1.Fields["link"]
+    		$field.LinkType = "external"
+    		$field.Url = "http://www.google.com/"
+    		$field.Target = "_blank"
+    		$CountrySelector1["listType"] = "{F281AF72-FA4B-4F87-98F1-4B9D77180E60}"
+    		$CountrySelector1.Editing.EndEdit()
+    		
+    		
+    		$CountrySelector2 = New-Item -Parent $countrySelectorItem -Name "hong-kong" -ItemType $modulesSortedByKey.'CountrySelector' -Language $params.language
+    		$CountrySelector2.Editing.BeginEdit()
+    		$CountrySelector2["title"] = "Hong Kong"
+    		[Sitecore.Data.Fields.LinkField]$field = $CountrySelector2.Fields["link"]
+    		$field.LinkType = "external"
+    		$field.Url = "http://www.google.com/"
+    		$field.Target = "_blank"
+    		$CountrySelector2["listType"] = "{F281AF72-FA4B-4F87-98F1-4B9D77180E60}"
+    		$CountrySelector2.Editing.EndEdit()
+    		}
+    		
+    }
+    	
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200528T112717Z

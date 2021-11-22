@@ -1,0 +1,44 @@
+﻿---
+ID: "af908c9b-15f5-4845-9714-984380428ada"
+Parent: "25a5cb25-2b1f-43ce-b758-f37104235fee"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/premium-payment/local-folder/premium-payment/DropdownItem/Our-partners-counter-service/Latest Bill Payment"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191224T132318Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>Please bring your latest &ldquo;Bill Payment&rdquo; statement and pay by cash at any of the counter services and electronic channels below.</p>
+        <p>&nbsp;</p>
+        <p>Note: Sorry but this service is not applicable for unit linked product premium payments.</p>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T084907Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>กรุณานำ “ใบแจ้งถึงกำหนดชำระเบี้ยประกันภัย” ติดต่อชำระเบี้ย โดยชำระเป็นเงินสดได้ที่เคาน์เตอร์ชำระเงิน หรือผ่านช่องทางอิเล็กทรอนิกส์ของผู้ให้บริการ ตามรายละเอียดด้านล่างนี้</p><br />
+        <p>หมายเหตุ:  ยกเว้นการชำระเบี้ยประกันสำหรับกรมธรรม์ประกันชีวิตประเภทยูนิตลิงค์</p>

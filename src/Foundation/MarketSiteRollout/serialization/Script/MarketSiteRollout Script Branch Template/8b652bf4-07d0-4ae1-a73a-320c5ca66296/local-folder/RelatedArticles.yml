@@ -1,0 +1,50 @@
+﻿---
+ID: "bbca7e50-0768-48ff-82aa-cb68907b21a2"
+Parent: "c5699306-ed28-4563-b920-0b7d6c4e8a2f"
+Template: "681b61a2-6f52-4119-b8f4-033587eaeacc"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Health/ValueProtector/local-folder/RelatedArticles"
+DB: master
+SharedFields:
+- ID: "2250f909-bae3-415f-a645-9d07826b6566"
+  Hint: apiPageSize
+  Value: 
+- ID: "8f397566-a4d1-4f23-8594-dce13b3720fe"
+  Hint: apiSortBy
+  Value: "{C27171A2-8AC2-4005-8076-DC7489E3997B}"
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{20162863-AE86-4B42-9AEC-B7A81A345553}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+- ID: "bd1fe0cc-270d-4276-a07d-da02b962d325"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: |
+    {2096E263-A932-44C3-83D1-99BD099D959E}
+    {28585591-7EAA-4C5B-A469-24372EF4A785}
+- ID: "ef2bcb82-b8a8-4be6-88a7-5269b777ad1d"
+  Hint: apiSubType
+  Value: 
+- ID: "fdd5a7f8-e97a-4737-b3ac-e428d033fd0c"
+  Hint: secondaryNeedTags
+  Type: Multilist
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Your daily inspiration
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T113558Z
+    - ID: "d88ea793-1587-4f65-ae5c-80926cd5438b"
+      Hint: subTitle
+      Value: 
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Your daily inspiration

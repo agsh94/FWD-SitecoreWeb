@@ -1,0 +1,156 @@
+﻿---
+ID: "c474efcb-0fd5-4855-aec9-49d914cb395f"
+Parent: "63f9eb92-fe60-4445-b073-174d94729f58"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/about-us/brand-story/local-folder/Our vision"
+DB: master
+SharedFields:
+- ID: "61cf7151-0cbd-4db4-9738-d753a55a6e65"
+  Hint: __Enforce version presence
+  Type: Checkbox
+  Value: 0
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "9cb76228-fc26-48b7-bd66-1c6e133b625d"
+  Hint: secondaryLinkButtonMode
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-150"
+- ID: "dab4200c-a87f-4605-b2f7-2544616ece6e"
+  Hint: secondaryLinkButtonIcon
+  Value: 
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Our vision
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: Our vision
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200203T074034Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: Our vision is to change the way people feel about insurance. So we offer a new kind of insurance. It’s easy to buy, easy to claim, and easy to understand. This isn’t the way insurance usually feels. But we’re not your usual insurance company.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Our vision
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: Celebrate living
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200930T084141Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p>Our philosophy is that insurance should be a source of empowerment. So our starting point is: enjoy life; celebrate it - and if anything happens, have the confidence that we&rsquo;ve got your back.&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><strong>Our story so far</strong></p>
+        <p>We&rsquo;ve come along away since Pacific Century Group announced that it was buying ING&rsquo;s Hong Kong, Macau and Thailand insurance businesses in February 2013. It was the first step in the Group&rsquo;s plan to build a different kind of insurance company: FWD.</p>
+        <div>&nbsp;</div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200930T084141Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Celebrate living
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Explore our interactive book" linktype="external" url="https://www.fwd.com/en/about/our-story/" anchor="" target="" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: วิสัยทัศน์ของเรา
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T061139Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: เรามีวิสัยทัศน์ที่ต้องการเปลี่ยนมุมมองของผู้คนที่มีต่อการประกันชีวิต ดังนั้นเราจึงนำเสนอผลิตภัณฑ์ที่แตกต่าง ซื้อง่าย เคลมง่าย และเข้าใจง่าย นี่อาจจะไม่ใช่วิถีของประกันทั่วไป แต่เพราะเราคือบริษัทประกันแนวใหม่ ที่พร้อมให้คุณออกไปใช้ชีวิต
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: วิสัยทัศน์ของเรา
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: Celebrate living
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200930T083053Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p><span>สิ่งที่เรายึดมั่นคือ ประกันชีวิตควรเป็นแรงหนุนให้คุณสามารถใช้ชีวิตได้เต็มที่ การใช้ชีวิตให้สนุกและเฉลิมฉลองความสุขของชีวิตได้ทุกวัน จึงเป็นจุดเริ่มต้นของเรา และขอให้คุณมั่นใจได้เลยว่าไม่ว่าจะเกิดอะไรขึ้น คุณจะมีเราอยู่เคียงข้างเสมอ</span></p>
+        <p><span><strong>&nbsp;</strong></span></p>
+        <p><span><strong>ประวัติความเป็นมา</strong></span></p>
+        <p><span>
+        เราเดินทางกันมาไกลทีเดียวนับแต่แปซิฟิค เซ็นจูรี่ กรุ๊ป ได้ประกาศถึงการเข้าซื้อธุรกิจประกันชีวิตในประเทศฮ่องกง มาเก๊า และประเทศไทยจากกลุ่มไอเอ็นจี ในเดือนกุมภาพันธ์ 2556 และก้าวแรกของเรา คือการสร้างเอฟดับบลิวดี บริษัทประกันชีวิตที่แตกต่าง&nbsp;<br />
+        </span></p>
+        <div>&nbsp;</div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200930T083053Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Celebrate living
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ดูเพิ่มเติมที่ interactive book" linktype="external" url="https://www.fwd.com/en/about/our-story/" anchor="" target="" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 

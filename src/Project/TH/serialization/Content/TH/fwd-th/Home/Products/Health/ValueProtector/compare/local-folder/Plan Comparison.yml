@@ -1,0 +1,30 @@
+﻿---
+ID: "8ba84a30-56dc-49a5-a40f-72b6036a5864"
+Parent: "f452a136-f950-42e0-bf10-ea3d5331ff81"
+Template: "cf197858-5a1a-4c98-8b93-209f8561ba99"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/ValueProtector/compare/local-folder/Plan Comparison"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18d7712b-f750-433b-bf63-082173affa66"
+      Hint: title
+      Value: Compare plans 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200614T064926Z
+    - ID: "50dd7ad3-4d08-468c-94a7-086d465efb8c"
+      Hint: comparisonType
+      Value: 
+    - ID: "ae248fd0-0789-4510-9ac2-98073f2baa08"
+      Hint: comparisonTypeLabel
+      Value: 
+    - ID: "ea815c94-4a9a-440a-a3ae-1172ebec5bfa"
+      Hint: enableCalculation
+      Type: Checkbox
+      Value: 1
+    - ID: "f871e770-f58d-41eb-9454-6c8f10167652"
+      Hint: comparePlansModalTitle
+      Value: Test Plan

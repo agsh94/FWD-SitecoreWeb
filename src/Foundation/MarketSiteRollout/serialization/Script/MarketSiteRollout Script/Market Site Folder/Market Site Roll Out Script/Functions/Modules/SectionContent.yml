@@ -1,0 +1,59 @@
+﻿---
+ID: "f3883ab9-db1b-487e-b543-47e3fff8b8ff"
+Parent: "38a8fcc4-140e-40b2-bb61-f830003c6c80"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Functions/Modules/SectionContent
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    param(
+    $params
+    )
+    
+    Import-Function Global-Functions
+    	if($params.Item){
+    		$newPath = $params.Item.ItemPath + '/Components'
+    		$newItem = Get-Item -Path $newPath
+    		$sectionContentItem = New-Item -Parent $newItem -Name "section-content" -ItemType $params.TemplateID -Language $params.language
+    		$sectionContentItem.Editing.BeginEdit()
+    		$sectionContentItem["__Display name"] = "Section Content"
+    		$sectionContentItem.Editing.EndEdit()
+    		
+    		$modules = Get-ItemInsertOptions $sectionContentItem
+    		$modulesSortedByKey = Get-OrderedDictionaryByKey $modules
+    		
+    		if ($modulesSortedByKey.Count -gt 0) {
+    		$SectionContent1 = New-Item -Parent $sectionContentItem -Name "Business" -ItemType $modulesSortedByKey.'SectionContent' -Language $params.language
+    		$SectionContent1.Editing.BeginEdit()
+    		$SectionContent1["title"] = "Pacific century group"
+    		$SectionContent1["description"] = "FWD is the insurance business of Pacific Century Group. Pacific Century Group (PCG) is an Asia-based private investment group established in 1993. PCG has a strong track record of holding and developing assets over the long term, and has a network of well-established connections in Asia.PCG has interests in three core business pillars: financial services, technology, media & telecommunications, and real estate. Our sister companies include global integrated communications group PCCW; Hong Kong's premier telecommunications service provider HKT; global asset manager PineBridge Investments; and property and infrastructure development company Pacific Century Premium Developments (PCPD).Our minority shareholder, Swiss Re Group, is one of the world's leading reinsurers."
+    		[Sitecore.Data.Fields.LinkField]$field = $SectionContent1.Fields["link"]
+    		$field.LinkType = "internal"
+    		$field.Text = "Investor relations"
+    		$field.Url = $Item.ItemPath + '/Home'
+    		$SectionContent1.Editing.EndEdit()
+    
+    
+    		$SectionContent2 = New-Item -Parent $sectionContentItem -Name "Home" -ItemType $modulesSortedByKey.'SectionContent' -Language $params.language
+    		$SectionContent2.Editing.BeginEdit()
+    		$SectionContent2["title"] = "Strong Financial Position"
+    		$SectionContent2["description"] = "FWD is the insurance business of Pacific Century Group. Pacific Century Group (PCG) is an Asia-based private investment group established in 1993. PCG has a strong track record of holding and developing assets over the long term, and has a network of well-established connections in Asia.PCG has interests in three core business pillars: financial services, technology, media & telecommunications, and real estate. Our sister companies include global integrated communications group PCCW; Hong Kong's premier telecommunications service provider HKT; global asset manager PineBridge Investments; and property and infrastructure development company Pacific Century Premium Developments (PCPD).Our minority shareholder, Swiss Re Group, is one of the world's leading reinsurers."
+    		[Sitecore.Data.Fields.LinkField]$field = $SectionContent2.Fields["link"]
+    		$field.LinkType = "internal"
+    		$field.Text = "Financial Postion"
+    		$field.Url = $Item.ItemPath + '/Home'
+    		$SectionContent2.Editing.EndEdit()
+    		}
+    		}
+    
+    	
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200528T063626Z

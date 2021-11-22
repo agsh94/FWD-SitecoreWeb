@@ -1,0 +1,37 @@
+﻿---
+ID: "652f75da-69de-4b39-aa10-5e0c19ccdb8e"
+Parent: "689389c0-91c8-4c57-aecb-8932f1c31fa2"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/About Us/News/article-detail-1/local-folder/ArticleDetails/about-vietcombank"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: About Vietcombank
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191122T110508Z
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>About Vietcombank<br />
+        </strong>
+        <br />
+        Established in 1963, Vietcombank is currently the leading commercial bank in Vietnam with total assets of 50 billion USD and highest market capitalization among credit institutions listed on Vietnam's stock market.<br />
+        <br />
+        Vietcombank currently has over 18,000 employees with a nationwide operation network throughout Vietnam including the Head Office in Hanoi and over 550 branches and transaction offices across the country.<br />
+        <br />
+        As a multifunctional bank with strengths in both wholesale, retail and investment services and pioneering in applying the best international standards, Vietcombank is always ready to provide its customers with modern and best financial and banking services.<br />
+        <br />
+        Vietcombank's strategic goal to 2025 and vision to 2030 is to firmly consolidate the No. 1 position in Vietnam, ranked among the 100 largest banks in Asia, one of the 300 largest banking and financial groups in the world, one of the 1,000 largest listed companies globally, positively contributing to the growth of Vietnam.<br />
+        <br />
+        For more information please visit website: <a href="http://www.vietcombank.com.vn">www.vietcombank.com.vn</a>

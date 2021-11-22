@@ -1,0 +1,25 @@
+﻿---
+ID: "d1bf12c7-b118-46b6-8cbb-519355ee963b"
+Parent: "dc44bb05-a756-47f9-b168-321b22729ce4"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/exciting-vietnam/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1600
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T020440Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: ส่วนอาหารมีให้เลือกทานเยอะมากกก จะมีคนมายืนเรียกให้ไปทานร้านเขา ยื่นเมนูให้เราตัดสินใจ แต่ไม่ช่วยอะไรเท่าไหร่ เพราะน่าจะใช้อากู๋แปลบางเมนูเลยกลายเป็น ที่ตัดเล็บ ผัดจาระบีแทนครับเดินตลาดมืดเมืองเขาทั้งที ต้องไม่พลาดชิมอาหารพื้นเมืองอย่าง &ldquo;บัน แจง นึง&rdquo;หรือ พิซซ่าเวียดนาม แผ่นแป้งย่างราดไข่ ไส้กรอก ผัก ซอส กรุบๆ กรอบๆ อร่อยดีครับ

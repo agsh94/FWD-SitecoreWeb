@@ -1,0 +1,28 @@
+﻿---
+ID: "907fcf5a-06e0-4022-98e6-c60cfd76de4a"
+Parent: "7c0e2e5c-ed92-4ed7-bd06-3f25cfc712eb"
+Template: "d9a88b8c-3b88-4428-820f-779e6c1991a6"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/local-folder/PrivilegesMax"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 125
+- ID: "d3fe3a20-83db-44ee-b010-e26a2fcced15"
+  Hint: linkItems
+  Value: "{520C8DAE-8EF3-4046-862F-7A0C68FFD6A7}|{7F4FA45E-04B5-4BD8-91F0-43B21E61054D}|{82BB41B9-C830-4F9D-A3B6-1EA3BC636A09}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0bf240d5-8d38-41e4-a1bd-ae96553f5585"
+      Hint: title
+      Value: สิทธิพิเศษ
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200311T085905Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

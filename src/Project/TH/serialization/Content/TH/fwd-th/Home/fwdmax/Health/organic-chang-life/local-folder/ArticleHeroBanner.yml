@@ -1,0 +1,30 @@
+﻿---
+ID: "e54c088d-85f5-4170-b55a-1f38f0d64f5f"
+Parent: "493cd0be-259b-46c0-af2e-3ffee95b9fd5"
+Template: "d188c909-be9c-4149-9106-b25be4b6fb55"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/organic-chang-life/local-folder/ArticleHeroBanner"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4573EFE0-6D5D-4A69-BC87-F46AFA1CD32D}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ec1b066-046b-4099-8dde-7ef17d1818a5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{729F580B-0F58-466E-8D5F-DD52DBD0179D}" cropx="0.57" cropy="0.30" focusx="0.14132556580660638" focusy="0.39583301544189453" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T231415Z
+    - ID: "43c58d25-8056-4ce0-b071-440c9f96ecf3"
+      Hint: image
+      Value: |
+        <image mediaid="{729F580B-0F58-466E-8D5F-DD52DBD0179D}" cropx="0.57" cropy="0.27" focusx="0.13255363598204495" focusy="0.453125" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit

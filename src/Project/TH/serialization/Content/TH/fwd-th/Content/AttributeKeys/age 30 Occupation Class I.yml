@@ -1,0 +1,57 @@
+﻿---
+ID: "782eda41-edd7-49be-83be-dc0c7f514639"
+Parent: "3f3730bd-146c-45c1-9245-071dd7e487d6"
+Template: "92a746a0-f1f9-4b55-be94-d535275b9255"
+Path: "/sitecore/content/fwd/fwd-th/Content/AttributeKeys/age 30 Occupation Class I"
+DB: master
+SharedFields:
+- ID: "0bb8c93b-a99d-46b3-8e18-fa27970a244c"
+  Hint: key
+  Value: age 30 Occupation Class I
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T071436Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "b95c8194-e837-46c4-ab8a-a5c6874359cf"
+      Hint: value
+      Value: Male / Female age 30  Occupation Class I
+    - ID: "ba0a8eb5-f2bb-47cb-a40f-e9da0fad6692"
+      Hint: toolTip
+      Value: |
+        <p style="color: #000000; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;">Occupation Class I : White collar occupations engaged in executive, administrative or clerical duties that involve no manual work and some very light physical work.</p>
+        <p style="color: #000000; margin-top: 0px; margin-right: 0px; margin-left: 0px;">Premiums may vary depending on your age, gender, and general health. </p>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T071546Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "b95c8194-e837-46c4-ab8a-a5c6874359cf"
+      Hint: value
+      Value: ผู้ชาย/ ผู้หญิง อายุ 30 ปี ในกลุ่มผู้ประกอบอาชีพขั้นที่ 1 
+    - ID: "ba0a8eb5-f2bb-47cb-a40f-e9da0fad6692"
+      Hint: toolTip
+      Value: |
+        <p style="color: #000000; margin-right: 0px; margin-left: 0px;">กลุ่มอาชีพขั้นที่ 1 : กลุ่มอาชีพของมนุษย์เงินเดือนที่ทำงานในออฟฟิศมีความเกี่ยวข้องกับงานด้านบริหาร จัดการ หรืองานสำนักงานต่างๆ ที่เกี่ยวข้องกับการทำงานทางกายภาพ หรือใช้งานกายภาพเพียงเล็กน้อย เบี้ยประกันภัยอาจมีการปรับเปลี่ยน ทั้งนี้ ขึ้นอยู่กับอายุ เพศ และลักษณะสุขภาพโดยทั่วไปของคุณ</p>

@@ -1,0 +1,20 @@
+﻿---
+ID: "0e898222-de70-4e8b-8920-3fdfdcb2eb95"
+Parent: "d634df42-8a56-47ac-a813-76f1259c3ba6"
+Template: "7e64d9dc-f4a4-458c-bfa3-ee6aceed998f"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Settings/Datasource/ArticleCardList
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T091141Z
+    - ID: "498dd5b6-7dae-44a7-9213-1d32596ad14f"
+      Hint: DatasourceTemplate
+      Value: /sitecore/templates/FWD/Project/Global/Content Templates/Article Card List
+    - ID: "5fe1cc43-f86c-459c-a379-cd75950d85af"
+      Hint: DatasourceLocation
+      Value: "query:/sitecore/content/fwd/#fwd-th#/home//*[@@templateID='{C24ACDA9-AF2D-4F91-B736-509937CC444E}' ]"

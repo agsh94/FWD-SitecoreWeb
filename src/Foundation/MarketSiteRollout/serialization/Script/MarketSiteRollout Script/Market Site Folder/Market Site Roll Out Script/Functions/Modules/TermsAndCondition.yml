@@ -1,0 +1,53 @@
+﻿---
+ID: "e92732a5-d40f-49df-b547-36baf8c70b23"
+Parent: "38a8fcc4-140e-40b2-bb61-f830003c6c80"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Functions/Modules/TermsAndCondition
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    
+    param(
+    $params
+    )
+    
+    Import-Function Global-Functions
+    		if($params.Item){
+    
+    		$newPath = $params.Item.ItemPath + '/Components'
+    		$newItem = Get-Item -Path $newPath
+    		$termsandconditionItem = New-Item -Parent $newItem -Name "terms-and-condition-folder" -ItemType $params.TemplateID -Language $params.language
+    		
+    		$modules = Get-ItemInsertOptions $termsandconditionItem
+    		$modulesSortedByKey = Get-OrderedDictionaryByKey $modules
+    		
+    		if ($modulesSortedByKey.Count -gt 0) {
+    		$TermsAndCondition1 = New-Item -Parent $termsandconditionItem -Name "terms-and-condition" -ItemType $modulesSortedByKey.'Terms and Condition' -Language $params.language
+    		$TermsAndCondition1.Editing.BeginEdit()
+    		$TermsAndCondition1["title"] = "Terms & conditions"
+    		$TermsAndCondition1["subTitle"] = "Insurance conditions"
+    		$TermsAndCondition1["description"] = "<ul>
+    <li> Insured age 16 - 65 years old</li>
+    <li> Can choose to pay premiums: monthly, 3 months, 6 months, yearly. </li>
+    <li> underwriting process is in accordance with the conditions of the company. </li>
+    <li> Coverage conditions are as specified by the policy. Please read, study and understand the supporting documents before making a decision. </li>
+    <li> Cancer Knockout is the marketing name of a special product package consisting of the IVP 90/20 life insurance plan and an additional cancer protection contract. </li>
+    <li> Premium Can Knockout Cancer Insurance plan can reduce the tax according to the law. </li>
+    </ul>
+    "
+    		$TermsAndCondition1.Editing.EndEdit()
+    		}
+    		}
+    		
+    
+    	
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200528T111655Z

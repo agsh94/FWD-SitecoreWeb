@@ -1,0 +1,62 @@
+﻿---
+ID: "a19df159-7459-44ee-9245-396e4464a082"
+Parent: "23b991c4-72fa-4f3b-b82f-6d0bcfe93537"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/Fund Information/Fixed Income Funds/UOBID"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T035441Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "UOB Income Daily Open-ended Fund (UOBID)"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.uobam.co.th/th/mutual-fund/00221/UOBID'>Fund page</a></li>
+        <li><a target='_blank' href='https://www.uobam.co.th/srcm/fund_mapping/ml70a4tyg/a4/ty/o0x0/UOBID_TH.pdf'>Fund information summary</a></li>
+        <li><a target='_blank' href='https://www.uobam.co.th/srcm/fund_mapping/ml559fvi6/9f/vi/o0x0/UOBID_PROJECT_20200131.pdf'>Prospectus</a></li>
+        <li><a target='_blank' href='https://www.uobam.co.th/srcm/fund_mapping/ml42t6ygx/t6/yg/o0x0/UOBID_Factsheet_20191231.pdf'>Fact sheet</a></li>
+        <li><a target='_blank' href='https://www.uobam.co.th/srcm/fund_mapping/mkxvldeet/ld/ee/o0x0/UOBID_Interim_TH_20190731.pdf'>Bi-annual report</a></li>
+        <li><a target='_blank' href='https://www.uobam.co.th/srcm/fund_mapping/ml6bu2xc9/u2/xc/o0x0/UOBID_Aunual_TH_20200131.pdf'>Annual report</a></li>
+        </ul>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T035517Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: กองทุนเปิด ยูโอบี อินคัม เดลี (UOBID)
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.uobam.co.th/th/mutual-fund/00221/UOBID'>หน้าหลักกองทุน</a></li>
+        <li><a target='_blank' href='https://www.uobam.co.th/srcm/fund_mapping/ml70a4tyg/a4/ty/o0x0/UOBID_TH.pdf'>สาระสำคัญ ของกองทุน</a></li>
+        <li><a target='_blank' href='https://www.uobam.co.th/srcm/fund_mapping/ml559fvi6/9f/vi/o0x0/UOBID_PROJECT_20200131.pdf'>หนังสือชี้ชวน</a></li>
+        <li><a target='_blank' href='https://www.uobam.co.th/srcm/fund_mapping/ml42t6ygx/t6/yg/o0x0/UOBID_Factsheet_20191231.pdf'>หนังสือชี้ชวนส่วนสรุป</a></li>
+        <li><a target='_blank' href='https://www.uobam.co.th/srcm/fund_mapping/mkxvldeet/ld/ee/o0x0/UOBID_Interim_TH_20190731.pdf'>รายงาน 6 เดือน</a></li>
+        <li><a target='_blank' href='https://www.uobam.co.th/srcm/fund_mapping/ml6bu2xc9/u2/xc/o0x0/UOBID_Aunual_TH_20200131.pdf'>รายงานประจำปี</a></li>
+        </ul>
+        

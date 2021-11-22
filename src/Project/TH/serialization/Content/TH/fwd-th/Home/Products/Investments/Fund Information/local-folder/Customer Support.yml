@@ -1,0 +1,45 @@
+﻿---
+ID: "ced13c86-b80f-4efd-b80e-3b5513487634"
+Parent: "1ec33c06-6146-4aac-9359-2860aa289542"
+Template: "83a147f2-89ba-4a48-8222-4b73ffe65216"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Investments/Fund Information/local-folder/Customer Support"
+DB: master
+SharedFields:
+- ID: "56b35c4a-f364-45f9-8d35-5a28cecdd7a8"
+  Hint: supportOptions
+  Value: "{FC7A06F3-E7DE-454C-A8BF-514556E68054}|{CC115D5A-4819-4224-8B56-F69AEC264865}|{8C8011E7-F1D3-4D18-B465-127374D4AD0D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200102T102915Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "e43f6d15-838d-41cd-b745-616c1b373dff"
+      Hint: description
+      Value: We'll help you find answers or connect with an advisor.
+    - ID: "e59ccccf-b566-4b39-b862-7fc68fe13e39"
+      Hint: title
+      Value: "Can't find what you're looking for ?"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200213T061255Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "e43f6d15-838d-41cd-b745-616c1b373dff"
+      Hint: description
+      Value: ให้เราช่วยคุณค้นหาคำตอบและติดต่อกับเจ้าหน้าที่
+    - ID: "e59ccccf-b566-4b39-b862-7fc68fe13e39"
+      Hint: title
+      Value: "ไม่พบสิ่งที่คุณกำลังค้นหา?"

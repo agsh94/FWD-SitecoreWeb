@@ -1,0 +1,40 @@
+﻿---
+ID: "1cdf0209-4876-4cc5-8e75-b725f4e9863c"
+Parent: "dca72db2-4a6e-4a1a-9947-549828e4cde4"
+Template: "b2e7448a-0a96-48d4-b2c6-a45efe18cd8a"
+Path: "/sitecore/content/fwd/fwd-th/Settings/socialShareOptions/line"
+DB: master
+SharedFields:
+- ID: "16d8a5a3-ed8f-489b-86a0-02eb221fd6d1"
+  Hint: url
+  Value: |
+    <link text="Line Url" linktype="external" url="https://social-plugins.line.me/lineit/share?url=" anchor="" target="" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Line
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200106T113134Z
+    - ID: "82e3f4c0-6aed-4f54-944c-b98968e322a8"
+      Hint: header
+      Value: Share on LINE
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T072058Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "82e3f4c0-6aed-4f54-944c-b98968e322a8"
+      Hint: header
+      Value: แชร์บนไลน์

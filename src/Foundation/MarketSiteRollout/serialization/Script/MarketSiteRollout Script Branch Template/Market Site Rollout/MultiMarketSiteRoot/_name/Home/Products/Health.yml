@@ -1,0 +1,29 @@
+﻿---
+ID: "c4c76ede-c2c8-401d-8698-5742252531fa"
+Parent: "63a1a717-b6b0-4461-a265-fb285d7b302d"
+Template: "e257fffd-48d7-477a-b8c1-9dc11fce0837"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Health
+DB: master
+BranchID: "33f87414-a937-4a50-9bed-0a62df8023b1"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{1BF31985-0ACB-4314-ADC9-0569D49837D4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200605T055705Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Health

@@ -1,0 +1,45 @@
+﻿---
+ID: "c0c9233b-deb1-41ab-94a6-b619d61bd34f"
+Parent: "23591f1c-d2aa-4c75-95df-78c06771bb8f"
+Template: "1c33ba69-85fa-4844-af04-f370b7f829ab"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/tabs/local-folder/Tab List/Employee Benefits/Employee Benefits/04"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0efba758-7b3d-4cec-a6d7-9cb3bbc199fa"
+      Hint: description
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    - ID: "22b72a4c-26fe-45c6-a389-9208ed5f30a9"
+      Hint: title
+      Value: 04
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T085611Z
+    - ID: "458a9aca-15af-4816-a2ce-a1359491db04"
+      Hint: image
+      Value: |
+        <image mediaid="{11272320-CECC-4161-9015-6CBDDAAC0F2E}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0efba758-7b3d-4cec-a6d7-9cb3bbc199fa"
+      Hint: description
+      Value: |
+        <p>04</p>
+        <p>
+        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T115848Z
+    - ID: "458a9aca-15af-4816-a2ce-a1359491db04"
+      Hint: image
+      Value: |
+        <image mediaid="{11272320-CECC-4161-9015-6CBDDAAC0F2E}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

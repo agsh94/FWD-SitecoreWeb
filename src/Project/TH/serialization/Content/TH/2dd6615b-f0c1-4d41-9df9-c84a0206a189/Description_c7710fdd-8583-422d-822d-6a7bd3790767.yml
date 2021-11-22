@@ -1,0 +1,30 @@
+﻿---
+ID: "c7710fdd-8583-422d-822d-6a7bd3790767"
+Parent: "2dd6615b-f0c1-4d41-9df9-c84a0206a189"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Sport/runnerjourney-mindset/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200923T072529Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>2. คนเก่งจริงต้องรู้จักถ่อมตัว<br />
+        “ไม่มีใครเป็นเบอร์หนึ่งได้ตลอดไป”&nbsp;</strong>นักวิ่งเก่งๆ จะรู้ว่าคนที่เก่งกว่าเขามีอีกเยอะ หลังจากได้พบปะนักวิ่งหลายๆ คน ก็ได้รู้ว่ามีสัจธรรมข้อนึงของนักวิ่ง คือ ไม่มีใครที่จะเป็นที่หนึ่งไปได้ตลอดไม่ว่าเรื่องอะไร ฉะนั้นต้องรู้จักแบ่งปัน ถ่อมตัว เพราะการถ่อมตัวจะทำให้กลายเป็นที่รัก

@@ -1,0 +1,332 @@
+﻿---
+ID: "558c6ebb-59bb-4a06-876b-135e0bde0f9d"
+Parent: "9a4c0e3a-27b4-49bc-a1fd-e334dcc68158"
+Template: "0df0a881-f04c-409a-8bc4-d1ec07f86dff"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/TableVariationWithFlexi/local-folder/TableComponent3"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 350
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200726T100603Z
+    - ID: "58e0beed-e1cf-48c2-a1bc-c0642dc11434"
+      Hint: text
+      Value: |
+        <table border="0" cellpadding="0" cellspacing="0" style="width: 683px;">
+            <colgroup><col width="114" style="width: 86px;" /> <col width="186" style="width: 140px;" /> <col width="99" style="width: 74px;" /> <col width="122" style="width: 92px;" /> <col width="100" span="2" style="width: 75px;" /> <col width="88" style="width: 66px;" /> <col width="100" style="width: 75px;" /> </colgroup>
+            <tbody>
+                <tr height="20" style="height: 15px;">
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">Segment</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">Country</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">Units Sold</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">Sale Price</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">Gross Sales</td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Government</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Canada</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">1618.5</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 20.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 32,370.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Government</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Germany</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">1321</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 20.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 26,420.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Midmarket</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">France</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">2178</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 15.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 32,670.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Midmarket</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Germany</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">888</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 15.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 13,320.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Midmarket</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Mexico</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">2470</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 15.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 37,050.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Government</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Germany</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">1513</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 350.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 529,550.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Midmarket</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Germany</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">921</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 15.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 13,815.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Channel Partners</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Canada</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">2518</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 12.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 30,216.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Government</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">France</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">1899</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 20.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 37,980.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Channel Partners</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Germany</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">1545</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 12.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 18,540.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Midmarket</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Mexico</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">2470</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 15.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 37,050.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Enterprise</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Canada</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">2665.5</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 125.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 333,187.50 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Small Business</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Mexico</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">958</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 300.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 287,400.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Government</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Germany</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">2146</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 7.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 15,022.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Enterprise</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Canada</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">345</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 125.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 43,125.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Midmarket</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">United States of America</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">615</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 15.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 9,225.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Government</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Canada</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">292</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 20.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 5,840.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Midmarket</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Mexico</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">974</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 15.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 14,610.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Channel Partners</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Canada</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">2518</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 12.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 30,216.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Government</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Germany</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">1006</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 350.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 352,100.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Channel Partners</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Germany</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">367</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 12.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 4,404.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Government</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Mexico</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">883</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 7.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 6,181.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Midmarket</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">France</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">549</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 15.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 8,235.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Small Business</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Mexico</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">788</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 300.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 236,400.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Midmarket</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Mexico</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">2472</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 15.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 37,080.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Government</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">United States of America</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">1143</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 7.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 8,001.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Government</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Canada</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">1725</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 350.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 603,750.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Channel Partners</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">United States of America</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">912</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 12.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 10,944.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Midmarket</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Canada</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">2152</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 15.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 32,280.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Government</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Canada</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">1817</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 20.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 36,340.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Government</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Germany</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">1513</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 350.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 529,550.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Government</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Mexico</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">1493</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 7.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 10,451.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Enterprise</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">France</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">1804</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 125.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 225,500.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Channel Partners</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Germany</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">2161</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 12.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 25,932.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Government</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Germany</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">1006</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 350.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 352,100.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Channel Partners</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Germany</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">1545</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 12.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 18,540.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Enterprise</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">United States of America</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">2821</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 125.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 352,625.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Enterprise</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Canada</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">345</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 125.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 43,125.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Small Business</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Canada</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">2001</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 300.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 600,300.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Channel Partners</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Germany</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">2838</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 12.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 34,056.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Midmarket</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">France</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">2178</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 15.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 32,670.00 </td>
+                </tr>
+                <tr height="20" style="height: 15px;">
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Midmarket</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">Germany</td>
+                    <td style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;" class="xl68">888</td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 15.00 </td>
+                    <td class="xl68" style="color: windowtext; background: url('ia') white; width: 150px; border-top: 0.5px solid #5b9bd5; border-right: none; border-bottom: none; border-left: none;">$ 13,320.00 </td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "f3244afc-a679-4ce2-96af-6899a5adc238"
+      Hint: scrollableButton
+      Type: Checkbox
+      Value: 0

@@ -1,0 +1,61 @@
+﻿---
+ID: "a06aeaa3-83e8-498d-91ab-2c715b18186c"
+Parent: "2819d9b8-a652-49eb-ba2b-1872a1a9a2e5"
+Template: "cef6e819-7951-4dad-b3ff-cb42f0dcf7d5"
+Path: "/sitecore/content/fwd/fwd-th/Components/headerLinks/icon-navigation-links/Search"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "a6ee811d-8f6f-4560-80b5-a4faa92bb6db"
+  Hint: buttonIcon
+  Value: "{8E6F2179-2D7B-420D-9D47-D13C408BB3C5}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "ffff450b-9e1e-472d-955f-c39bb9c6218b"
+  Hint: listType
+  Value: "{B91E87F2-99CC-4A93-A0BA-3EE8C14F36A4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201007T095821Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{564D4C9C-BEEB-4497-9BB7-74A9EBAEF812}" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D80D2A5C-D5F8-4DA1-8828-B4F51D64461B}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shivang
+    - ID: "baa2afdd-f108-4ba2-a95d-cd1221e6da39"
+      Hint: enableDropdown
+      Type: Checkbox
+      Value: 0
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201007T100215Z
+    - ID: "261f3e4a-43df-4750-aa16-8286a548f9db"
+      Hint: link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{564D4C9C-BEEB-4497-9BB7-74A9EBAEF812}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "baa2afdd-f108-4ba2-a95d-cd1221e6da39"
+      Hint: enableDropdown
+      Type: Checkbox
+      Value: 0

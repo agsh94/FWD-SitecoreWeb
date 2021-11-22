@@ -1,0 +1,65 @@
+﻿---
+ID: "4b227d66-5aa1-462c-8b02-6c3886fcf171"
+Parent: "928de776-f478-4166-bd46-c41635bf92bf"
+Template: "7c74cef1-823c-4bc7-a386-21feb21e7441"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/press-releases/local-folder/TagList"
+DB: master
+SharedFields:
+- ID: "2250f909-bae3-415f-a645-9d07826b6566"
+  Hint: apiPageSize
+  Value: 1
+- ID: "8f397566-a4d1-4f23-8594-dce13b3720fe"
+  Hint: apiSortBy
+  Value: "{C27171A2-8AC2-4005-8076-DC7489E3997B}"
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{20162863-AE86-4B42-9AEC-B7A81A345553}"
+- ID: "ec781cb4-1cfe-42b3-a826-9798c79f2bf5"
+  Hint: featuredTags
+  Type: Multilist
+  Value: |
+    {4C6B8CB9-D359-4498-A1CD-107CBB0843FE}
+    {BA841F13-B6CE-4F60-AEFE-830E8E5A40ED}
+    {65DFE505-B497-4ABD-A5EC-CFA2185F68FA}
+- ID: "ef2bcb82-b8a8-4be6-88a7-5269b777ad1d"
+  Hint: apiSubType
+  Value: "{F9477F10-1A0C-48A1-9AB0-4CD0672C9AA9}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Tag List
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191122T071613Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "998f4637-f83a-4df1-961d-20fbf17cd1af"
+      Hint: title
+      Value: Browse
+    - ID: "f6930446-2b46-461f-8d1a-3a08b6ca66b5"
+      Hint: description
+      Value: "Looking for health advice, saving tips, or fitness goals? Explore a variety of FWD content that will energies you to celebrate living."
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200108T084129Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "998f4637-f83a-4df1-961d-20fbf17cd1af"
+      Hint: title
+      Value: Browse
+    - ID: "f6930446-2b46-461f-8d1a-3a08b6ca66b5"
+      Hint: description
+      Value: "Looking for health advice, saving tips, or fitness goals? Explore a variety of FWD content that will energies you to celebrate living."

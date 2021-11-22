@@ -1,0 +1,36 @@
+﻿---
+ID: "9427f607-1483-4de6-9991-5c3f11771bed"
+Parent: "770cea37-c727-4591-8f78-4ef15dc3ba87"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Community/FWD-organized-activities-for-special-children/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T080428Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: Ms. Poramasiri Manolmaay, FWD&rsquo;s Chief Executive Officer, pictured with Joseph King Yu Cheng, FWD&rsquo;s Chief Risk Management Officer, and Mr. Preecha Ruthiraphong, FWD&rsquo;s Chief Marketing Officer. FWD&rsquo;s &lsquo;Explore the Underwater World&rsquo; offered lunch and lots of fun memories and learning experiences for children and teachers from the Songkhla Phatthana Panya School, Songkhla Province. The event took place Bangkok&rsquo;s SEA LIFE Ocean World.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T080545Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        นางสาวปรมาศิริ มโนลม้าย ประธานเจ้าหน้าที่บริหาร&nbsp; มร.โจเซฟ คิง ยูว เฉิง ประธานเจ้าหน้าที่สายงานบริหารความเสี่ยง และ นายปรีชา รุธิรพงษ์ ประธานเจ้าหน้าที่สายงานการตลาด บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) นำทีมพนักงานจิตอาสา และสื่อมวลชนเข้าร่วมกิจกรรม "พี่พาน้องตะลุยโลกใต้น้ำ" เปิดประสบการณ์ใหม่ สร้างการเรียนรู้นอกห้องเรียนให้แก่น้องๆพิเศษและคณะครูจากโรงเรียนสงขลาพัฒนาปัญญา จังหวัดสงขลา ณ ซีไลฟ์ แบงคอก โอเชี่ยน เวิลด์ พร้อมร่วมกันเลี้ยงอาหารกลางวันให้แก่น้องพิเศษ งานนี้น้องๆและพี่จิตอาสาสนุกสนานมีรอยยิ้มกลับบ้านกันทุกคน

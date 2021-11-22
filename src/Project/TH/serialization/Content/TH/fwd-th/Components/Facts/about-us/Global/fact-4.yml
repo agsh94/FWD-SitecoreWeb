@@ -1,0 +1,55 @@
+﻿---
+ID: "2d2c0695-2a70-457b-abda-2eb45aa0657c"
+Parent: "a199c467-af8f-4cac-a502-196ece669ff0"
+Template: "18bbdcee-26b1-4a6b-a98d-29a8338e8a30"
+Path: "/sitecore/content/fwd/fwd-th/Components/Facts/about-us/Global/fact-4"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: agents
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0630e171-ee6f-460c-87dd-9c455471dbed"
+      Hint: subTitle
+      Value: agents
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T103916Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "782c861b-b122-4074-bac8-27d102f54397"
+      Hint: leadingSubTitle
+      Value: more than
+    - ID: "fee74513-a347-4e70-b9aa-f96d24908f4a"
+      Hint: title
+      Value: 20,000
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0630e171-ee6f-460c-87dd-9c455471dbed"
+      Hint: subTitle
+      Value: คน
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200108T165749Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "782c861b-b122-4074-bac8-27d102f54397"
+      Hint: leadingSubTitle
+      Value: ตัวแทนกว่า
+    - ID: "fee74513-a347-4e70-b9aa-f96d24908f4a"
+      Hint: title
+      Value: 20,000

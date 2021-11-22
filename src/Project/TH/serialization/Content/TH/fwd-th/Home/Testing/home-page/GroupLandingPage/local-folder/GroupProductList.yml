@@ -1,0 +1,31 @@
+﻿---
+ID: "52af2735-439e-4523-94d9-8613c4055431"
+Parent: "35aa987c-d7de-4535-a602-db5c43d99958"
+Template: "51759dd5-d4f6-4dca-9471-ffa1943dbeb4"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/GroupLandingPage/local-folder/GroupProductList"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200121T095910Z
+    - ID: "3cb9bc8f-5e3f-4dd6-85f8-b83871ce7a80"
+      Hint: title
+      Value: Our product types
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200403T075314Z
+    - ID: "3cb9bc8f-5e3f-4dd6-85f8-b83871ce7a80"
+      Hint: title
+      Value: ประเภทผลิตภัณฑ์ของเรา
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

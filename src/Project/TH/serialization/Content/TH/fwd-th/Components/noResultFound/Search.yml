@@ -1,0 +1,49 @@
+﻿---
+ID: "ac0b5e2d-6e79-4691-acf2-73f76b13d6ec"
+Parent: "3b298e55-d2f8-43ed-9abc-df4bfc2eb0ef"
+Template: "fda900f6-9525-4905-9911-7f2e30875704"
+Path: "/sitecore/content/fwd/fwd-th/Components/noResultFound/Search"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200303T081027Z
+    - ID: "41ee4022-228e-4f45-b929-c630b81d22de"
+      Hint: icon
+      Value: |
+        <image mediaid="{75F4548C-0D61-4BED-AE2F-AF48259A508A}" />
+    - ID: "436cb83b-e18f-4282-856e-97c8bcef3cec"
+      Hint: title
+      Value: Sorry, no result found
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "a94a93a8-22d7-44d0-94b3-288886f35fef"
+      Hint: subTitle
+      Value: We can’t find anything that matches your search. Please try selecting other keywords.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200415T143740Z
+    - ID: "41ee4022-228e-4f45-b929-c630b81d22de"
+      Hint: icon
+      Value: |
+        <image mediaid="{75F4548C-0D61-4BED-AE2F-AF48259A508A}" />
+    - ID: "436cb83b-e18f-4282-856e-97c8bcef3cec"
+      Hint: title
+      Value: ขออภัย ไม่พบผลการค้นหา
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a94a93a8-22d7-44d0-94b3-288886f35fef"
+      Hint: subTitle
+      Value: ไม่พบข้อมูลที่ตรงกับการค้นหาของคุณ กรุณาเลือกคำค้นหาอื่นๆ

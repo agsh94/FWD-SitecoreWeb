@@ -1,0 +1,22 @@
+﻿---
+ID: "e7286c6a-d89f-4651-a4d9-c02977944dcd"
+Parent: "ea07cb1b-1987-4187-8d86-960360693968"
+Template: "f1f7a98f-aae2-4741-8c7c-feb6bb63b8ce"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/About Us/News/fwd-cleans-up-in-category-with-11-awards/local-folder/article-description-area/images-grid/img3"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T140942Z
+    - ID: "8540ff4f-9736-4ea8-b7d0-05726e3838d3"
+      Hint: image
+      Value: |
+        <image mediaid="{F9AC5180-8D9D-492F-9A80-39378F0241FB}" />

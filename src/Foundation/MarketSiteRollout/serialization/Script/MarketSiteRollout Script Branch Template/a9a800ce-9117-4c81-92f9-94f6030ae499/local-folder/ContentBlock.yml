@@ -1,0 +1,29 @@
+﻿---
+ID: "c1b3236c-a550-406a-b8fb-f020fa4d8050"
+Parent: "4881d2d6-e73d-4ca8-a56c-f408b1cb0117"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Claims/critical-illness/local-folder/ContentBlock"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4B4CCD45-C981-4B1B-AB9C-2242B8C7F873}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ContentBlock
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200810T223148Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: "critical-illness"

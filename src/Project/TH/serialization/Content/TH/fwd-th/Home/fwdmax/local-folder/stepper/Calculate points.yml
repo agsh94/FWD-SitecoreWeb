@@ -1,0 +1,45 @@
+﻿---
+ID: "15947dd6-0a3a-4071-ad13-fcaf2a2d19b8"
+Parent: "69be3207-1c03-4da6-a838-9ab99386dee7"
+Template: "eabac21b-6db4-440b-a870-54f781d7793d"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/local-folder/stepper/Calculate points"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 125
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Collect points
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200130T125456Z
+    - ID: "778e9348-71cc-4fbf-a90d-f23d7f4d44d6"
+      Hint: subtitle
+      Value: Earn points
+    - ID: "e4960630-7385-4643-b050-6938d17aad55"
+      Hint: title
+      Value: 3
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T060936Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "778e9348-71cc-4fbf-a90d-f23d7f4d44d6"
+      Hint: subtitle
+      Value: สะสมแต้ม
+    - ID: "e4960630-7385-4643-b050-6938d17aad55"
+      Hint: title
+      Value: 3

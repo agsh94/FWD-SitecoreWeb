@@ -1,0 +1,18 @@
+﻿---
+ID: "9538e125-8978-4e97-a7c4-48889405f973"
+Parent: "56dc1f29-6e05-4d3d-8ff9-19ce9a488396"
+Template: "81fdbc04-fbb2-4708-83c9-2765d38a5bc6"
+Path: "/sitecore/content/fwd/fwd-th/Components/Service Locator/Agents"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T060302Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit

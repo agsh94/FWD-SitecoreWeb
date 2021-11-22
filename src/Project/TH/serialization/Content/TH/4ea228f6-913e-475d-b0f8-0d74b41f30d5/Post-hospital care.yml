@@ -1,0 +1,63 @@
+﻿---
+ID: "c4996e16-0bf9-4389-8db6-fc85c28d0085"
+Parent: "4ea228f6-913e-475d-b0f8-0d74b41f30d5"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/Super CARE Co-Pay/local-folder/Card List/Post-hospital care"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 350
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: "<span>Even after you&rsquo;ve left the hospital, you&rsquo;ll be covered for up to 30 days for any follow-up treatment.</span>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200130T110516Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: "Post-hospital care"
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{9B1A5418-0A15-43E1-9FC3-FADE07A4D1A8}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{9B1A5418-0A15-43E1-9FC3-FADE07A4D1A8}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: <span>คุ้มครองดูแลแบบซูเปอร์แคร์ สำหรับการรักษาต่อเนื่อง 30 วัน หลังออกจากโรงพยาบาล</span>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200217T102330Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: คุ้มครองค่ารักษาต่อเนื่อง 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{9B1A5418-0A15-43E1-9FC3-FADE07A4D1A8}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{9B1A5418-0A15-43E1-9FC3-FADE07A4D1A8}" cropx="0.50" cropy="0.48" focusx="-0.004405286343612369" focusy="0.046875" />

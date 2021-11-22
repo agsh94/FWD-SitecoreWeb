@@ -1,0 +1,35 @@
+﻿---
+ID: "29044991-010d-4541-8aac-6e42d54fb659"
+Parent: "77dbdb7d-57e2-4c66-8fa5-5284c3b71901"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Press/Charity-run-for-17-hospitals/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200403T062620Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: FWD donates THB 100,000 with a &ldquo;Charity Run for 17 Hospitals&rdquo; &ndash; supporting local hospitals in need of more equipment to help patients in remote areas
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200403T062456Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) มอบเงินบริจาค จำนวน 100,000 บาท เพื่อ 17 โรงพยาบาล นำไปใช้ประโยชน์ทางการแพทย์ในการรักษาเยียวยากรณีเร่งด่วน อันเป็นการเอื้อประโยชน์โดยตรงต่อประชาชนในพื้นที่ห่างไกล และคนไข้ยากจนที่รอคอยการเยียวยารักษา ในงานวิ่งก้าวด้วยธรรม เพื่อ 17 โรงพยาบาล

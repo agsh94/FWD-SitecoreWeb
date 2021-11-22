@@ -1,0 +1,106 @@
+﻿---
+ID: "c2d0f0f7-e9cb-41e4-ac69-47ccd2f41526"
+Parent: "8790ebfe-440e-455c-a857-d7f3bc0758ba"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/premiums-calculate/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200928T084428Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Chaiyawat
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong><span style="color: #e87722;">ผลิตภัณฑ์ประกันรายบุคคล</span></strong></p>
+        <ul>
+            <li>คำนวณค่า 100% ของเบี้ยที่ชำระรายงวด (Regular Premium) จากทุกแบบประกัน ยกเว้น ประกันชีวิตคุ้มครองวงเงินสินเชื่อ (MRTA), ประกันสินเชื่อเพื่อคุ้มครองภาระหนี้ แบบชำระเบี้ยครั้งเดียว (GLTSP), ประกันภัยอุบัติเหตุส่วนบุคคล (PA) และประกันกลุ่ม (Group Insurance)</li>
+            <li>คำนวณค่า10% ของเบี้ยที่ชำระแบบครั้งเดียว (Single Premium)</li>
+        </ul>
+        <p><strong><span style="color: #e87722;">ผลิตภัณฑ์ประกันควบการลงทุน (</span></strong><strong><span style="color: #e87722;">Unit Linked)</span></strong></p>
+        <ul>
+            <li>คำนวณค่า 100% ของเบี้ยประกันภัยหลัก (Regular Basic) หรือ เบี้ยประกันภัยลงทุน (Regular Investment Premium)</li>
+            <li>คำนวณค่า 10% ของเบี้ยประกันภัยเพิ่มเติมพิเศษ (Top-up Premium)</li>
+        </ul>
+        <p>&nbsp;</p>
+        <p style="margin-bottom: 0cm;"><strong>หมายเหตุ</strong></p>
+        <p style="margin-bottom: 0cm;"><span>ค่าเบี้ยประกันชีวิตของกรมธรรม์ที่ซื้อผ่านธนาคารไทยพาณิชย์หรือตัวแทนเดิม ไม่ถูกนำมาคำนวณในการจัดระดับสิทธิพิเศษ</span></p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200928T090112Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <h1 class="MuiTypography-root MuiTypography-h2 text-color-white MuiTypography-bolder jss1016" data-locator="ArticleHeader-Title" style="color: #333333; background-color: #ffffff; margin: 8px 0px 0px; letter-spacing: -0.00833em;">วิธีการคำนวณค่าเบี้ยประกันชีวิตที่คุณชำระ เพื่อจัดระดับสิทธิพิเศษ</h1>
+        <p><strong><span style="color: #e87722;">&nbsp;</span></strong></p>
+        <p><strong><span style="color: #e87722;">ผลิตภัณฑ์ประกันรายบุคคล</span></strong></p>
+        <ul>
+            <li>คำนวณค่า 100% ของเบี้ยที่ชำระรายงวด (Regular Premium) จากทุกแบบประกัน ยกเว้น ประกันชีวิตคุ้มครองวงเงินสินเชื่อ (MRTA), ประกันสินเชื่อเพื่อคุ้มครองภาระหนี้ แบบชำระเบี้ยครั้งเดียว (GLTSP), ประกันภัยอุบัติเหตุส่วนบุคคล (PA) และประกันกลุ่ม (Group Insurance)</li>
+            <li>คำนวณค่า10% ของเบี้ยที่ชำระแบบครั้งเดียว (Single Premium)</li>
+        </ul>
+        <p><strong><span style="color: #e87722;">ผลิตภัณฑ์ประกันควบการลงทุน (</span></strong><strong><span style="color: #e87722;">Unit Linked)</span></strong></p>
+        <ul>
+            <li>คำนวณค่า 100% ของเบี้ยประกันภัยหลัก (Regular Basic) หรือ เบี้ยประกันภัยลงทุน (Regular Investment Premium)</li>
+            <li>คำนวณค่า 10% ของเบี้ยประกันภัยเพิ่มเติมพิเศษ (Top-up Premium)</li>
+        </ul>
+        <p>&nbsp;</p>
+        <p style="margin-bottom: 0cm;"><strong>หมายเหตุ</strong></p>
+        <p style="margin-bottom: 0cm;"><span>ค่าเบี้ยประกันชีวิตของกรมธรรม์ที่ซื้อผ่านธนาคารไทยพาณิชย์หรือตัวแทนเดิม ไม่ถูกนำมาคำนวณในการจัดระดับสิทธิพิเศษ</span></p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200928T090112Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200928T090913Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Chaiyawat
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong><span style="color: #e87722;">ผลิตภัณฑ์ประกันรายบุคคล</span></strong></p>
+        <ul>
+            <li>คำนวณค่า 100% ของเบี้ยที่ชำระรายงวด (Regular Premium) จากทุกแบบประกัน ยกเว้น ประกันชีวิตคุ้มครองวงเงินสินเชื่อ (MRTA), ประกันสินเชื่อเพื่อคุ้มครองภาระหนี้ แบบชำระเบี้ยครั้งเดียว (GLTSP), ประกันภัยอุบัติเหตุส่วนบุคคล (PA) และประกันกลุ่ม (Group Insurance)</li>
+            <li>คำนวณค่า10% ของเบี้ยที่ชำระแบบครั้งเดียว (Single Premium)</li>
+        </ul>
+        <p><strong><span style="color: #e87722;">ผลิตภัณฑ์ประกันควบการลงทุน (</span></strong><strong><span style="color: #e87722;">Unit Linked)</span></strong></p>
+        <ul>
+            <li>คำนวณค่า 100% ของเบี้ยประกันภัยหลัก (Regular Basic) หรือ เบี้ยประกันภัยลงทุน (Regular Investment Premium)</li>
+            <li>คำนวณค่า 10% ของเบี้ยประกันภัยเพิ่มเติมพิเศษ (Top-up Premium)</li>
+        </ul>
+        <p>&nbsp;</p>
+        <p style="margin-bottom: 0cm;"><strong>หมายเหตุ</strong></p>
+        <p style="margin-bottom: 0cm;"><span>ค่าเบี้ยประกันชีวิตของกรมธรรม์ที่ซื้อผ่านธนาคารไทยพาณิชย์หรือตัวแทนเดิม ไม่ถูกนำมาคำนวณในการจัดระดับสิทธิพิเศษ</span></p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200928T090913Z

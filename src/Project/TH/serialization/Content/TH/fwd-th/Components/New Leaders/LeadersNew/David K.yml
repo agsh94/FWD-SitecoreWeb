@@ -1,0 +1,81 @@
+﻿---
+ID: "7317d562-63a2-4f52-b882-5f88723c4b89"
+Parent: "2b4fb7e0-eaba-42f8-a22e-a04886fcb0eb"
+Template: "8e353b27-e5f9-4361-b332-9b3557fb7cd8"
+Path: "/sitecore/content/fwd/fwd-th/Components/New Leaders/LeadersNew/David K"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{41D9A061-0BDE-495F-ACF4-A2C9140E5A81}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200930T064641Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: David John Korunić
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: "David leads our life insurance team here in Thailand, working to ensure we continue to deliver a best-in-class insurance experience. He brings more than 30 years&rsquo; experience in the industry and is the proud recipient of several awards showcasing his commitment to diversity and inclusion and corporate social responsibility."
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: Chief Executive Officer 
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{41D9A061-0BDE-495F-ACF4-A2C9140E5A81}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{41D9A061-0BDE-495F-ACF4-A2C9140E5A81}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200930T065135Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: เดวิด จอห์น โครูนิช
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: |
+        <p><span style="letter-spacing: 0.1pt;">คุณเดวิด&nbsp;</span><span>คือผู้นำทีมประกันชีวิตของเราในประเทศไทย เขาทำงานด้วยความมุ่งมั่นเพื่อให้มั่นใจว่าพวกเราทุกคนจะมอบประสบการณ์ด้านการประกันชีวิตที่ดีที่สุดให้กับลูกค้าอย่างต่อเนื่อง และด้วยประสบการณ์มากกว่า </span><span>30 </span><span>ปีในวงการประกัน พร้อมรางวัลอันน่าภาคภูมิใจมากมายที่ได้รับ แสดงให้ถึงความมุ่งมั่นที่ต้องการสร้างการมีส่วนร่วม ความแตกต่างหลากหลาย และความรับผิดชอบขององค์กรที่มีต่อสังคม&nbsp; </span></p>
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: ประธานเจ้าหน้าที่บริหาร
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{41D9A061-0BDE-495F-ACF4-A2C9140E5A81}" />
+    - ID: "ffce884f-680c-485e-9bef-f4dbf574d377"
+      Hint: featuredPictogramImage
+      Value: |
+        <image mediaid="{F7D82769-AF23-4E37-B4F1-C32E0C641585}" />

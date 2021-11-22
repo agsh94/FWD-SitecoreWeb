@@ -1,0 +1,77 @@
+﻿---
+ID: "cbe0407c-1b2e-47bb-a42f-75f7bd9732bc"
+Parent: "1d409739-ac08-421c-b21d-676ea568c041"
+Template: "c97ba923-8009-4858-bdd5-d8be5fccecf7"
+Path: "/sitecore/media library/FWD/TH/images/Supports/From-current-website/krung-thai-bank"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/cbe0407c1b2e47bba42f75f7bd9732bc.ashx?h=16&la=th&thn=1&w=16"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200518T124315Z
+    - ID: "3eb149f8-de14-4220-a8f4-9e723cfae5d9"
+      Hint: Extension
+      Value: png
+    - ID: "5be6c122-84c9-4661-a0c9-3718909c8dad"
+      Hint: Size
+      Value: 1753
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "611ba5dd-8d26-4c9b-a95d-900ac94cb32a"
+      Hint: Height
+      Value: 40
+    - ID: "6405cc9e-9ca1-44a1-adf8-0decf05071ce"
+      Hint: Dimensions
+      Value: 70 x 40
+    - ID: "aba5ce58-6d8f-43a4-b4fa-b181651347dd"
+      Hint: Mime Type
+      Value: image/png
+    - ID: "d8e619c3-2d16-47f4-ad3b-c68103df86c2"
+      Hint: Width
+      Value: 70
+    - ID: "dbbe7d99-1388-4357-bb34-ad71edf18ed3"
+      Hint: Blob
+      BlobID: "e1625742-eafd-410b-a182-f8c864fb7523"
+      Value: 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
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200518T124424Z
+    - ID: "3eb149f8-de14-4220-a8f4-9e723cfae5d9"
+      Hint: Extension
+      Value: png
+    - ID: "5be6c122-84c9-4661-a0c9-3718909c8dad"
+      Hint: Size
+      Value: 1753
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "611ba5dd-8d26-4c9b-a95d-900ac94cb32a"
+      Hint: Height
+      Value: 40
+    - ID: "6405cc9e-9ca1-44a1-adf8-0decf05071ce"
+      Hint: Dimensions
+      Value: 70 x 40
+    - ID: "aba5ce58-6d8f-43a4-b4fa-b181651347dd"
+      Hint: Mime Type
+      Value: image/png
+    - ID: "d8e619c3-2d16-47f4-ad3b-c68103df86c2"
+      Hint: Width
+      Value: 70
+    - ID: "dbbe7d99-1388-4357-bb34-ad71edf18ed3"
+      Hint: Blob
+      BlobID: "7d6a56bc-4fb5-4f7c-a7ec-f894292edebb"
+      Value: iVBORw0KGgoAAAANSUhEUgAAAEYAAAAoCAMAAAB0DnycAAADAFBMVEUAAAD39/eXqNb39vT//f/5+fT7////9/X6+f/2+P/u9P/8+vv5+Pv69fb09u/y8++Zp9Q0UbL++f79/P319/v5+ff6+vV9jdT4///1+//5+f/x9//y+/70+Pz49Pzw+vny9vn29/f1+vb8+vX08/P6+/L7+PHw8PE1UcRBWrb6/f/19f/+9P/6/Pz4+PzK1/n79/f29Pb79vX39/Ly+O32/Ok3Vc85VMBBTr07V7o3Ubo8U7g6Va87Ua1NX6n1/v/59v////r5+fn59/n8/Pfl6/f7+PTw8/P29vH99fHF0/H88vD2+u+tuuWKoNmEjtM1Ub5ZdbowWLc1TLRibq8xSqv9///w8v/d6//d5f769f3q7/z/+/v2+vv/9vr4+/j5/Pby8Pby/fT2/vPt+fPy+fLS2fL/+PHK0fHc7PCXq/Dz8O3Cxu3DzOyksOv89ui0w+S9xuGcreGHmtmaptZugtaDodWartNdctOBmdJ2ec14hsZVasRsgcMyTcJDW75SZr1KX7wvU7pofblQZLZbc7Q5XbRKW7Q+VLRYbLJMYLE1TqY2VKPz8f/q/vz6+PzU2vz7//v89/nQ3vj/+ff++/be5fb+//XG1vPY3vG7z/G1uu/69+7q6+78/e2ktuz1+OuRp+r38en++ebY3+PQ2eGntN6Vo919ltyzvduYrtvAwdp2itqjs9iPntaTqdKRmM92jMtLX8hxj8VddsREYMRBWcQ4WMQoTcFjdcBcbcBdY7w4WLxSarlxkLh0h7gvS7MpU7I5UbIvUq8zU6w+VKk8WaYyRqRJVp/////e9P/C2P/X4/31//vf8fvq8/rz8Pnz/ve3w/e+1/bl8PT8+fLh5fGrzO20z+y9zuzt/+rW2eri5unA1eiZrueeo+fz9OaZp+Tv8eOTneKhtN+Lo9+ryNqdrtqmrtWrttJ4ltJGT9KJmNGUo8yXnsxqfsdccsdga8eAkcVxhcSLmsNJZsJ1iMBegL9/kblHV7lldLd5hLJUbbBIWqRaZpo8W5KFX7AmAAAAAXRSTlMAQObYZgAAA4dJREFUSMft1EN0XGEUwPFO38x74+lYGdsZe4ImjZ3Utt3YVm3btm3btm23m+6/ntNNT/tf3sVvde9t8L9/PqlYbKAoMIR4LG+GPawlljG8pZArsCBEcnupWGcMbwTGUJryGCgWhaaI4hnRKtmUThilMr4jLhSLgto1xUowgIzC3AFNsLTu0BKt4o7r2rv3pD5dI7t04uqEaHnj0BMoUCZMRRtlGUtBsyY+2F6jqfbXa4qK8xZemYaVy0g/KRYgY6XTLGQrp9WkjV53qlpN9VNLHWpNXvdWMFkZTCBgGoIxcqKZNTJo9IdSx4bS3dkbl/W+8z51g0PtftM8KIxMoYcDMnQzXcUxVdTtqk8pSmN3jT8Zmzikau+eLftfm4IkB1VaQEY43Ay3KMtw5EYOW7Z5MndGz0AgljMnz+nISG8OR9ElgIzWGg0nucofNmO0mzO3mRZ3/WVSs5hpnbtv81bf7axv2xGQiYowDPjq74u3oow6NJai6HisB7ktswvu0JD9tT2ESBAg05TMfVIfMGFptIjxt26EBctERxvrIbtSlFCcsVTRTwfIhPfiF1fm4MfEKMmQBC3rF2cQCNFSiX4Kfua6AszsUECmzVi8Z2ciGaFROnHwuqGtY8bbrJCIQ+qmStyRz++HBWTEMeeSUwe1t9hCus9PX8G3h9riocsJo+1txTm7S7SzWIAMH5nqSV3CwOGXflowaHn/Afgz8NQ+VfmxxhZLKmu1pJGATEgca+3OqsXchAPZQ1ZfyOq74vMIQ0i5d5H4WdGeAj6tCyCjPytaWeh8JXhBdRdms9es2bqww9BhFb5tE2vU1Cwphgd6DNFwQl1yYMQgV3VZQ7b/UUGSnHepxHV4fp3TZ2qPwQEytoheIe/caeWxB9g3v/V9nnm6uW3x3Npck2YLlc0b0wt0/TpjukFHKqjOnjXX2OmnNqW5Nk/Ovfp4evp6aqCFPo4FyvAjZiH4/l/WLijZOnPg9E0p7KykRTn+zNWVKf3hOIQpAnxbOEhJQh+/WPbds96XsrLn+XvLM/PXFXo02ydwKN1ay9sAMgwiSgIZBK1uf8xI9vp2aPat8uxL2+saGAlHRWPMBDroS2fg2kUTkNn2CYlvvbucvmQ3Vb3qaQ8RggQTYQZxFCCD+lU4ETduwLz7A+f1iWzDRBl/jQf/HiMgQk1kTQgoJkQKJjVmSv8487+/tx9LCRACQOSy+QAAAABJRU5ErkJggg==

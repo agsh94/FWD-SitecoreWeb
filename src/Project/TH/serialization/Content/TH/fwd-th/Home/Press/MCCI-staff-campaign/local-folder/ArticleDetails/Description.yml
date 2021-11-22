@@ -1,0 +1,107 @@
+﻿---
+ID: "d75edea9-6885-4040-85d4-8ec834136353"
+Parent: "1107b5ae-5d29-424e-98de-721ada0942d4"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Press/MCCI-staff-campaign/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T101742Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <div style="display: none;">&nbsp;</div>
+        <p><img alt="alt" src="-/media/6c8f73e00c4b4163a5631e869b653763.ashx?w=100%25" style="width: 100%;" /></p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>ประกันเคลมคุ้มกลุ่มโรคร้าย<br />
+        </strong></p>
+        <table style="width: 100%; height: 722.111px;">
+            <tbody>
+                <tr style="vertical-align:top;">
+                    <td style="vertical-align:top;">
+                    <p><img alt="" src="-/media/4d69964006514e49849d7ac4033982c7.ashx?h=128&amp;w=128" style="height:128px; width:128px;" /></p>
+                    <p>&nbsp;</p>
+                    </td>
+                    <td>
+                    <p style="text-align: left;"><strong>โรคร้าย เคลมได้หลายครั้ง</strong></p>
+                    <p style="text-align: left;">- จ่ายผลประโยชน์สูงสุดถึง 3 ครั้ง เมื่อตรวจพบโรคร้ายแรงระดับรุนแรง<br />
+                    &nbsp; (ครั้งที่ 1 จ่าย 100%&nbsp; ครั้งที่ 2 จ่าย&nbsp; 110%&nbsp; ครั้งที่ 3 จ่าย 120% ของจำนวนเงินเอาประกันภัย)</p>
+                    <p style="text-align: left;">- จ่ายผลประโยชน์สูงสุดถึง 3 ครั้ง เมื่อตรวจพบโรคร้ายแรงระดับต้นถึงปานกลาง <br />
+                    &nbsp; (จ่ายครั้งละ 20% ของจำนวนเงินเอาประกันภัย)</p>
+                    <p style="text-align: left;">&nbsp;</p>
+                    </td>
+                </tr>
+                <tr style="vertical-align:top;">
+                    <td style="vertical-align:top;">
+                    <p><img alt="" src="-/media/78e9faf54f04407f83305eb799866c14.ashx" style="height:128px; width:128px;" /></p>
+                    <p>&nbsp;</p>
+                    </td>
+                    <td>
+                    <p style="text-align: left;"><strong>ไม่เจอโรคร้าย คืนเบี้ยเต็มจำนวน</strong></p>
+                    <p style="text-align: left;">เมื่อมีชีวิตอยู่จนครบสัญญาอายุครบ 75 ปี และไม่เคยเจ็บป่วยด้วยโรคร้ายแรงระดับรุนแรง</p>
+                    </td>
+                </tr>
+                <tr style="vertical-align:top;">
+                    <td style="vertical-align:top;">
+                    <p><img alt="" src="-/media/5f1f98c000fe41668c9decdf5883361a.ashx" style="height:128px; width:128px;" /></p>
+                    <p>&nbsp;</p>
+                    </td>
+                    <td>
+                    <p style="text-align: left;"><strong>หยุดจ่ายเบี้ย เมื่อเคลมใหญ่* แต่คุ้มครองต่อจนครบสัญญา</strong></p>
+                    <p style="text-align: left;">หยุดชำระเบี้ยประกันภัย เมื่อได้รับการวินิจฉัยว่าเป็นโรคร้ายแรงระดับรุนแรงครั้งแรก และยังได้รับความคุ้มครองต่อจนถึงอายุ 75 ปี</p>
+                    </td>
+                </tr>
+                <tr style="vertical-align:top;">
+                    <td style="vertical-align:top;">
+                    <p><img alt="" src="-/media/9b1a54180a1543e19fc3fade07a4d1a8.ashx" style="height:128px; width:128px;" /></p>
+                    <p>&nbsp;</p>
+                    </td>
+                    <td style="text-align: left;">
+                    <p style="text-align: left;"><strong>แบ่งเบาภาระ ระหว่างเจ็บป่วย</strong></p>
+                    <p style="text-align: left;">บริการสนับสนุนระหว่างการเจ็บป่วยด้วยโรคร้ายแรงระดับรุนแรง ตัวอย่างเช่น บริการให้คำปรึกษาเชิงจิตวิทยา บริการทางการแพทย์ถึงบ้าน บริการช่วยเหลือค่าใช้จ่ายการจัดหาวิกผม เป็นต้น</p>
+                    </td>
+                </tr>
+                <tr style="vertical-align:top;">
+                    <td style="vertical-align:top;">
+                    <p><img alt="" src="-/media/ed9a49927ad0413ebda2e18c4feaaed7.ashx" style="height:128px; width:128px;" /></p>
+                    <p>&nbsp;</p>
+                    </td>
+                    <td style="text-align: left;">
+                    <p style="text-align: left;"><strong>กรณีเสียชีวิต จ่ายผลประโยชน์ที่มากกว่า</strong></p>
+                    <p style="text-align: left;">ระหว่าง 100% ของจำนวนเงินเอาประกันภัย หรือเบี้ยฯ ทั้งหมดที่ชำระมา หรือ มูลค่าเวนคืนตามตารางกรมธรรม์ขึ้นอยู่กับจำนวนใดที่ให้ผลประโยชน์กับคุณมากกว่า</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        &nbsp;
+        <div style="display: none;">&nbsp;</div>

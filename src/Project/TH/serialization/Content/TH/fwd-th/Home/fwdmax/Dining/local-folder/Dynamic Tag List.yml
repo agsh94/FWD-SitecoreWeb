@@ -1,0 +1,43 @@
+﻿---
+ID: "a9f963ed-6cef-446e-9a7a-aeb8a8de3d98"
+Parent: "7c0e2e5c-ed92-4ed7-bd06-3f25cfc712eb"
+Template: "7c74cef1-823c-4bc7-a386-21feb21e7441"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/local-folder/Dynamic Tag List"
+DB: master
+SharedFields:
+- ID: "2250f909-bae3-415f-a645-9d07826b6566"
+  Hint: apiPageSize
+  Value: 
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{20162863-AE86-4B42-9AEC-B7A81A345553}"
+- ID: "ec781cb4-1cfe-42b3-a826-9798c79f2bf5"
+  Hint: featuredTags
+  Type: Multilist
+  Value: |
+    {4C6B8CB9-D359-4498-A1CD-107CBB0843FE}
+    {27B45F29-DD3F-42A5-A19F-5193A9205D68}
+    {1A0882D1-29E0-44F1-A452-1BFA66656B0E}
+    {4F3A2D61-BBA0-47E8-AFAC-1A0873AC1D34}
+    {65DFE505-B497-4ABD-A5EC-CFA2185F68FA}
+- ID: "ef2bcb82-b8a8-4be6-88a7-5269b777ad1d"
+  Hint: apiSubType
+  Value: "{12E72978-9BAF-4110-A668-61F1E8DF8D92}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T115502Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "998f4637-f83a-4df1-961d-20fbf17cd1af"
+      Hint: title
+      Value: บทความที่น่าสนใจ
+    - ID: "f6930446-2b46-461f-8d1a-3a08b6ca66b5"
+      Hint: description
+      Value: เติมแรงบันดาลใจ เติมไฟแพสชัน ให้คุณใช้ชีวิตเต็มแมกซ์ กับหลากหลายเรื่องราวน่ารู้ ที่คุณไม่ควรพลาด

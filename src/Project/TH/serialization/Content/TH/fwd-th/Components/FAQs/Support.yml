@@ -1,0 +1,39 @@
+﻿---
+ID: "125908cd-3bdd-4343-80ec-53a3cd0c7ca0"
+Parent: "0f3993df-01e8-4bcd-8b40-6f38cf666446"
+Template: "d1e3c64a-4438-46f0-92db-03991fbdef5b"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Support"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 450
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T122859Z
+    - ID: "534fa86d-c26a-4aac-872f-ef582ef2735c"
+      Hint: title
+      Value: Support
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200508T150935Z
+    - ID: "534fa86d-c26a-4aac-872f-ef582ef2735c"
+      Hint: title
+      Value: บริการลูกค้า
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\UAT_Tester1

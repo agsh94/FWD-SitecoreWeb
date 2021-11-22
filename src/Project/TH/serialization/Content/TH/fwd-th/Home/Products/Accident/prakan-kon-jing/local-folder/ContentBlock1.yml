@@ -1,0 +1,114 @@
+﻿---
+ID: "ee2ae45a-be06-42dc-aa92-fa05c75043f7"
+Parent: "63e88a35-0e06-45de-a0a2-c10fa86e7fbb"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Accident/prakan-kon-jing/local-folder/ContentBlock1"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Content Block 1
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "1189664e-c462-4227-9fea-efb77771ad71"
+      Hint: enableFeaturedTags
+      Type: Checkbox
+      Value: 1
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T094444Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: 
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: Because accidents are always unexpected, no one is ever prepared for it. Whether it results in a temporary injury or even death, the most important thing for you and your family is having the time to recover. Prakan Kon Jing covers every outcome of an accident, to help you and your family recover at your own pace.
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Take your time to heal and recover
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{97B72C4C-77BB-4C50-B0A1-69812EBA21CB}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055157Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{5D9DBAAD-B9A8-43D6-B621-2965FCFFFB81}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: เพราะอุบัติเหตุเกิดขึ้นได้แบบไม่คาดฝันเสมอ และอาจส่งผลให้บาดเจ็บหรือเสียชีวิตแบบไม่มีใครตั้งรับได้ ประกันคนจริงจึงพร้อมคุ้มครองคุณ ไม่ว่าจะเกิดอุบัติเหตุอะไร เราก็พร้อมช่วยให้คุณและครอบครัวได้มีเวลาพักเพื่อรักษาตัวให้หายดีและกลับมายืนได้ดั่งเดิม เพราะเรารู้ว่าการมีเวลาพักฟื้นคือสิ่งสำคัญที่สุดสำหรับคุณและครอบครัว
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ให้คุณใช้เวลารักษาตัวได้เต็มที่
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "1189664e-c462-4227-9fea-efb77771ad71"
+      Hint: enableFeaturedTags
+      Type: Checkbox
+      Value: 1
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{97B72C4C-77BB-4C50-B0A1-69812EBA21CB}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200814T023947Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{5D9DBAAD-B9A8-43D6-B621-2965FCFFFB81}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: เพราะอุบัติเหตุเกิดขึ้นได้แบบไม่คาดฝันเสมอ และอาจส่งผลให้บาดเจ็บหรือเสียชีวิตแบบไม่มีใครตั้งรับได้ ประกันคนจริงพร้อมคุ้มครองคุณ ไม่ว่าจะเกิดอุบัติเหตุอะไร เราก็พร้อมช่วยให้คุณและครอบครัวได้มีเวลาพักเพื่อรักษาตัวให้กลับมาหายดี เพราะเรารู้ว่าการมีเวลาพักฟื้นคือสิ่งสำคัญที่สุดสำหรับคุณและครอบครัว
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200814T023947Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ให้คุณใช้เวลารักษาตัวได้เต็มที่
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 

@@ -1,0 +1,63 @@
+﻿---
+ID: "af2eb9e0-21f1-4ef1-bdd1-9c259ac18de3"
+Parent: "dc3a8d53-7367-432e-b7f8-dd4b0bf67140"
+Template: "0961098e-2ea2-458f-8660-b9b9be61bc57"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/cancer-knockout/package-i/Plan 1/Key benefits/Early stage cancer on first diagnosis"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201012T112902Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "409c4452-e4f8-4e83-8f50-388a52104cbb"
+      Hint: value
+      Value: |
+        <span id="docs-internal-guid-4859ad36-7fff-a1b0-7978-fd95e2f998cd"></span>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; text-align: center;"><span style="color: #000000;">THB 1,500,000</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; text-align: center;"><span style="color: #000000;">We pay the remaining THB 1,500,000<br />
+        if it becomes invasive</span></p>
+        <div><span style="color: #000000;"><br />
+        </span></div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{81ADE0AD-539F-4829-9C3A-5354C051D175}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201012T112804Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "409c4452-e4f8-4e83-8f50-388a52104cbb"
+      Hint: value
+      Value: |
+        <span id="docs-internal-guid-248451d8-7fff-f94f-ca2a-6c0adda9ad04"></span>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; text-align: left;"><span style="color: #000000;">1,500,000 บาท</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; text-align: left;"><span style="color: #000000;">เราจ่ายเพิ่มส่วนที่เหลืออีก 1,500,000 บาท</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; text-align: left;"><span style="color: #000000;">เมื่อเข้าสู่มะเร็งระยะลุกลาม</span></p>
+        <div><span style="color: #000000;"><br />
+        </span></div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{81ADE0AD-539F-4829-9C3A-5354C051D175}"

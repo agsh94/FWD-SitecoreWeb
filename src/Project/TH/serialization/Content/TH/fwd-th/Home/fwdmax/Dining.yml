@@ -1,0 +1,202 @@
+﻿---
+ID: "00aaddb7-45dc-47bb-ab32-fe15c47f1891"
+Parent: "b06fcbbe-d82f-45e6-8cf6-9907c875b081"
+Template: "963bf11a-111f-438f-985d-bf4b08c65f96"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining"
+DB: master
+SharedFields:
+- ID: "3f9cc6f8-f003-47f4-8b4f-4d0137163bea"
+  Hint: contentType
+  Value: "{4FE0A16D-285F-4C41-9BFA-A1343B036CDF}"
+- ID: "61cf7151-0cbd-4db4-9738-d753a55a6e65"
+  Hint: __Enforce version presence
+  Type: Checkbox
+  Value: 1
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: "{FB2C4A8A-0593-44B7-B7C4-AE07AF4F8BB2}"
+- ID: "be4e2ad7-6327-4c2f-9fe1-dbe9a2463c90"
+  Hint: subtype
+  Value: "{12E72978-9BAF-4110-A668-61F1E8DF8D92}"
+- ID: "d37288ed-2037-4fe1-af04-e0a3b6fc4db8"
+  Hint: topics
+  Type: Multilist
+  Value: "{4C6B8CB9-D359-4498-A1CD-107CBB0843FE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{2398AB44-8378-4B2D-AAAB-C1064AE07EEF}"
+          s:ds="{56BC47B7-3DC8-47EC-9820-A2BD4E6D24AD}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;HeroBannerVariant=%7b0B1166D9-2C27-4392-B0FB-C3E5F2C18380%7d&amp;backgroundColor=%7bEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7d&amp;PlayVideoInBackground&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider" />
+        <r
+          uid="{AF8B997F-F2B8-4E41-A5DC-D873835FA014}"
+          p:after="r[@uid='{2398AB44-8378-4B2D-AAAB-C1064AE07EEF}']"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}"
+          s:par="enableMargin&amp;anchorText&amp;backgroundColor=%7BF9F5FC4E-89D7-4701-A560-C0A7179384CB%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+        <r
+          uid="{9F4385EF-F62E-4F5A-B738-3AFFCA9CA972}"
+          s:ds="{2684EAE9-829B-4B0C-89B0-0BF48B979D7C}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;contentBlockType=%7bE0AD9759-98A0-479F-9E1B-700ED3FC8B36%7d&amp;backgroundColor=%7bEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider" />
+        <r
+          uid="{BD99FDA4-6145-4E3A-B78B-44E3A21C4A14}"
+          s:ds="{639D830C-CEC6-41F6-B130-AF803B234B44}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7b3DF8265F-AA5C-46B6-AE37-0745E8A3FCAD%7d&amp;cardVariant=%7bC1CC176F-B79D-48B0-A97A-E5392D22FFB5%7d&amp;cardType=%7b312D4F92-0589-4B5E-AD35-FF1626CF8E7D%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider" />
+        <r
+          uid="{27E732D0-B000-46D4-A973-3DC168C6BBFB}"
+          p:after="r[@uid='{BD99FDA4-6145-4E3A-B78B-44E3A21C4A14}']"
+          s:ds=""
+          s:id="{1B2D4D22-4BFA-48E9-ACD5-0120D07747F3}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;cardStyle=%7bD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7d&amp;cardType&amp;divider&amp;backgroundColor=%7bF9F5FC4E-89D7-4701-A560-C0A7179384CB%7d&amp;cardVariant=%7b21D6E3B0-DAD4-4DE5-A1CE-843A3DCCD6A8%7d"
+          s:ph="jss-main" />
+        <r
+          uid="{9C025B1C-9F8C-4DC8-82BA-98DC3EC3E8A0}"
+          s:ds="{8D4DA631-2FDA-4E5E-B181-12F117228D3B}"
+          s:par="carouselMode=%7BC81D8D8F-E8D9-468F-ACFC-BBDCE30D66EC%7D&amp;showCategory=1&amp;showImage&amp;anchorText&amp;backgroundColor=%7B3DF8265F-AA5C-46B6-AE37-0745E8A3FCAD%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+        <r
+          uid="{B4B45CCC-3944-4EE3-8591-12139C3F2DEB}"
+          s:ds="{A9F963ED-6CEF-446E-9A7A-AEB8A8DE3D98}"
+          s:par="carouselMode=%7B49143DC9-875C-4788-8EF4-1034DB85D126%7D&amp;anchorText&amp;backgroundColor=%7BB47928D6-98FC-4B29-8D0F-586AB477286E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{B91BA383-5E7C-4D89-BBF9-B1AB9D503C5B}">
+          <p:d />
+        </r>
+        <r
+          uid="{A296EACC-9A60-4DE2-A80B-DAC2086AEF5B}">
+          <p:d />
+        </r>
+        <r
+          uid="{FDD27DD0-2CCA-4766-B9E2-807E0DEBBCE1}"
+          p:after="r[@uid='{B4B45CCC-3944-4EE3-8591-12139C3F2DEB}']"
+          s:ds="{E38E9457-B4BF-427A-8451-2672EB1A316E}"
+          s:id="{251042B9-4BD2-47B4-A9A9-F097EB5C71B3}"
+          s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;anchorText&amp;backgroundColor=%7b5FAA4B9B-7F56-4B83-BE82-328710EEF242%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{59CC028F-7D3B-4A4D-9C1B-FB6BE21ED6EA}"
+          p:after="r[@uid='{FDD27DD0-2CCA-4766-B9E2-807E0DEBBCE1}']"
+          s:ds=""
+          s:id="{1B2D4D22-4BFA-48E9-ACD5-0120D07747F3}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;cardStyle=%7bD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7d&amp;cardType&amp;divider&amp;backgroundColor=%7bF9F5FC4E-89D7-4701-A560-C0A7179384CB%7d&amp;cardVariant=%7b21D6E3B0-DAD4-4DE5-A1CE-843A3DCCD6A8%7d"
+          s:ph="jss-main" />
+        <r
+          uid="{42E88E85-28FA-41FD-A8E8-2CBB16BD0807}"
+          p:after="r[@uid='{59CC028F-7D3B-4A4D-9C1B-FB6BE21ED6EA}']"
+          s:ds=""
+          s:id="{CE756AE6-C6B6-46DB-8317-30166F5488D0}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7bF9F5FC4E-89D7-4701-A560-C0A7179384CB%7d&amp;cardVariant&amp;cardType&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{E437D197-E7D4-4D3D-B17A-2942D7C26E1E}"
+          s:ds="{96DCB098-B113-47D9-A562-E4723B5AC011}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;contentBlockType&amp;backgroundColor=%7bEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider" />
+        <r
+          uid="{91481A31-1A53-4215-B463-1F26B426D638}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A722D6FF-E723-41D4-B669-22D738186B80}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201007T100650Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gaurava
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{AF8B997F-F2B8-4E41-A5DC-D873835FA014}"
+              s:par="enableMargin&amp;anchorText&amp;backgroundColor=%7BF9F5FC4E-89D7-4701-A560-C0A7179384CB%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D%C3%B7r&amp;divider" />
+            <r
+              uid="{2398AB44-8378-4B2D-AAAB-C1064AE07EEF}"
+              p:after="r[@uid='{AF8B997F-F2B8-4E41-A5DC-D873835FA014}']"
+              s:par="HeroBannerVariant=%7B0B1166D9-2C27-4392-B0FB-C3E5F2C18380%7D&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D%C3%B7r&amp;divider" />
+            <r
+              uid="{9F4385EF-F62E-4F5A-B738-3AFFCA9CA972}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType=%7BE0AD9759-98A0-479F-9E1B-700ED3FC8B36%7D&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider" />
+            <r
+              uid="{BD99FDA4-6145-4E3A-B78B-44E3A21C4A14}"
+              s:par="cardVariant=%7BC1CC176F-B79D-48B0-A97A-E5392D22FFB5%7D&amp;cardType=%7B312D4F92-0589-4B5E-AD35-FF1626CF8E7D%7D&amp;anchorText&amp;backgroundColor=%7B3DF8265F-AA5C-46B6-AE37-0745E8A3FCAD%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider" />
+            <r
+              uid="{27E732D0-B000-46D4-A973-3DC168C6BBFB}">
+              <p:d />
+            </r>
+            <r
+              uid="{9C025B1C-9F8C-4DC8-82BA-98DC3EC3E8A0}"
+              s:par="carouselMode=%7B2C61B2E1-E1C4-4622-B814-1E458CF094B6%7D&amp;showCategory=1&amp;showImage&amp;anchorText&amp;backgroundColor=%7B3DF8265F-AA5C-46B6-AE37-0745E8A3FCAD%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider" />
+            <r
+              uid="{FDD27DD0-2CCA-4766-B9E2-807E0DEBBCE1}">
+              <p:d />
+            </r>
+            <r
+              uid="{3CBF3A29-607E-4DAA-967D-30178A54ED9C}"
+              p:after="r[@uid='{B4B45CCC-3944-4EE3-8591-12139C3F2DEB}']"
+              s:ds="{E38E9457-B4BF-427A-8451-2672EB1A316E}"
+              s:id="{251042B9-4BD2-47B4-A9A9-F097EB5C71B3}"
+              s:par="anchorText&amp;backgroundColor=%7B3DF8265F-AA5C-46B6-AE37-0745E8A3FCAD%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{59CC028F-7D3B-4A4D-9C1B-FB6BE21ED6EA}">
+              <p:d />
+            </r>
+            <r
+              uid="{42E88E85-28FA-41FD-A8E8-2CBB16BD0807}"
+              s:ds="{907FCF5A-06E0-4022-98E6-C60CFD76DE4A}"
+              s:par="cardVariant=%7B0B15E9BB-FC7E-443C-8F22-80BB4AC9C0AC%7D&amp;cardType=%7B09621EEE-51BD-4672-8530-BBD75FE47185%7D&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider=1" />
+            <r
+              uid="{E437D197-E7D4-4D3D-B17A-2942D7C26E1E}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7B5FAA4B9B-7F56-4B83-BE82-328710EEF242%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+          </d>
+        </r>
+    - ID: "15f18762-01e2-437e-b510-403b009e0846"
+      Hint: openGraphType
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200219T091747Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: "ร้านไหนดี อะไรเด็ด ทั้งคาว-หวาน ร้านอาหารแนะนำ รีวิวดีๆ เรามีมาเสิร์ฟให้คุณได้ฟินกันเต็มอิ่ม "
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: ตระเวนกิน
+    - ID: "8960d36d-84b0-4f47-aa98-a0e27a3903b8"
+      Hint: openGraphImage
+      Value: 
+    - ID: "975e0bc5-6e06-4308-bbbb-0fe142392035"
+      Hint: openGraphDescription
+      Value: 
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: ร้านอาหารแนะนำ, บุฟเฟ่ต์, ร้านอาหารญี่ปุ่น, ปิ้งย่างเกาหลี, ชาไข่มุก
+    - ID: "fdf6a80f-16e1-4a1d-9b7b-f3f181276725"
+      Hint: openGraphTitle
+      Value: 

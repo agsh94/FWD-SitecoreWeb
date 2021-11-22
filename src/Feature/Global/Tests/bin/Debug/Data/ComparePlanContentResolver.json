@@ -1,0 +1,71 @@
+{
+    "Ref Item1": {
+        "title": {
+            "value": true
+        },
+        "key": {
+            "id": "7ea908fb-506f-45e9-ab04-2b33b5dcde2a",
+            "fieldType": "CustomDroplink",
+            "fieldName": "buttonIcon",
+            "url": "/sitecore/content/fwd/global/settings/list/linkvariant/link",
+            "fields": {
+                "key": {
+                    "value": "sample"
+                },
+                "value": {
+                    "value": "sample"
+                }
+            }
+        }
+    },
+    "Ref Item2": {
+        "title": {
+            "value": true
+        },
+        "key": {
+            "id": "7ea908fb-506f-45e9-ab04-2b33b5dcde2a",
+            "fieldType": "CustomDroplink",
+            "fieldName": "buttonIcon",
+            "url": "/sitecore/content/fwd/global/settings/list/linkvariant/link",
+            "fields": {
+                "key": {
+                    "value": "sample2"
+                },
+                "value": {
+                    "value": "sample2"
+                }
+            }
+        }
+    },
+    "Datasource Item": {
+        "title": {
+            "value": "Cancer Knockout"
+        }
+    },
+    "Plan1": {
+        "isComparable": {
+            "value": true
+        }
+    },
+    "PlanA": {
+        "isComparable": {
+            "value": true
+        }
+    },
+    "PlanB": {
+        "isComparable": {
+            "value": false
+        }
+    },
+    "Product Item": {
+        "title": {
+            "value": "Product Item"
+        }
+    },
+    "Attribute Folder": {},
+    "AtrributeSection": {
+    },
+    "Attribute": {
+        "value": "sample"
+    }
+}

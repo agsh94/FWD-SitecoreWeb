@@ -1,0 +1,25 @@
+﻿---
+ID: "4dd42688-825a-4083-b5cd-0860d0d56cae"
+Parent: "0e40abdb-cf6f-452f-8bd5-ef1a48f901f6"
+Template: "742dfd1a-0c74-4027-87a2-cbf9154fbd42"
+Path: "/sitecore/content/fwd/fwd-th/Content/Article Tags Link Variants"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210125T060937Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210126T122238Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

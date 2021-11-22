@@ -1,0 +1,73 @@
+﻿---
+ID: "cd8eb3ea-852c-4253-9d6d-48a4b21d0e84"
+Parent: "9c3adf6a-b10f-4be4-8601-8cbd96d15489"
+Template: "d591d930-4c7f-4600-9e37-f4877c8a8857"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/local-folder/product-list-filter"
+DB: master
+SharedFields:
+- ID: "23bf35d7-6119-4af8-820a-e70e0d7f1b04"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: "{EDA8AA85-90E4-409C-99E9-ADC0ECA09767}"
+- ID: "4604673d-b260-446f-b9a9-7e0e5a5894f1"
+  Hint: linkIcon
+  Value: "{8E6F2179-2D7B-420D-9D47-D13C408BB3C5}"
+- ID: "bc3921f9-0892-4ecd-8ffd-41d13948077b"
+  Hint: resetLinkIcon
+  Value: "{333FE4F4-B36C-409B-90AD-503A6561B8D8}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Product List Filter
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191107T101225Z
+    - ID: "45723513-6c8d-4414-8f26-ecc5b4ba51bb"
+      Hint: image
+      Value: |
+        <image mediaid="{D76E5B14-FF11-48A0-B7B4-B1262B23C1BD}" />
+    - ID: "4da6f172-46f9-4e1d-adb3-49a18443493d"
+      Hint: title
+      Value: I'm concerned about
+    - ID: "513cd2ed-846b-4dc2-8773-720384b96e42"
+      Hint: linkItem
+      Value: 
+    - ID: "eb2208ec-ec9c-489b-8c2c-6d45bf0c5807"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{D76E5B14-FF11-48A0-B7B4-B1262B23C1BD}" />
+    - ID: "fe290172-73de-42bd-8db7-3b4963912240"
+      Hint: resetLinkItem
+      Value: |
+        <link text="Reset" linktype="anchor" url="Reset" anchor="Reset" title="Reset" class="" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200115T054209Z
+    - ID: "45723513-6c8d-4414-8f26-ecc5b4ba51bb"
+      Hint: image
+      Value: |
+        <image mediaid="{4782A6F6-9073-40D5-B490-831E650692C3}" />
+    - ID: "4da6f172-46f9-4e1d-adb3-49a18443493d"
+      Hint: title
+      Value: Title 11 ฉันเป็นห่วง
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "eb2208ec-ec9c-489b-8c2c-6d45bf0c5807"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{4782A6F6-9073-40D5-B490-831E650692C3}" />
+    - ID: "fe290172-73de-42bd-8db7-3b4963912240"
+      Hint: resetLinkItem
+      Value: |
+        <link text="ตั้งค่าใหม่" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{528D2C44-05E6-4E13-8C4C-0A7FFF35B120}" />

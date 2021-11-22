@@ -1,0 +1,52 @@
+﻿---
+ID: "27b45f29-dd3f-42a5-a19f-5193a9205d68"
+Parent: "b54750f1-5022-4e48-96f3-bf5662c4c19f"
+Template: "69b601a8-8555-4411-8c17-aa91671eec32"
+Path: "/sitecore/content/fwd/fwd-th/Content/Tags/articlesTags/Featured/Topics/Health"
+DB: master
+SharedFields:
+- ID: "76618df2-6cc1-4295-99c9-c6e2613074e8"
+  Hint: articlePillarPage
+  Value: "{A446783F-4B78-42D0-A902-0E9C2BF27ED4}"
+- ID: "a903eb23-a8d6-4a9a-bd27-4bd363b1fcf0"
+  Hint: searchName
+  Value: Health
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: Health
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191101T165854Z
+    - ID: "9d9e3d43-8450-414c-8ace-831acaf13893"
+      Hint: image
+      Value: |
+        <image mediaid="{928952D5-019B-4079-A776-19AB9AE5BBAC}" cropx="0.50" cropy="0.48" focusx="0" focusy="0.046875" />
+    - ID: "f3e7eced-0a93-4cf0-9d5e-a3de5e8917f3"
+      Hint: mobileImage
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03834b49-81cd-4ea6-956b-1cf3018dcf8a"
+      Hint: name
+      Value: สุขภาพ
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200110T060155Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "9d9e3d43-8450-414c-8ace-831acaf13893"
+      Hint: image
+      Value: |
+        <image mediaid="{928952D5-019B-4079-A776-19AB9AE5BBAC}" cropx="0.49" cropy="0.52" focusx="-0.01754385964912286" focusy="-0.03125" />
+    - ID: "f3e7eced-0a93-4cf0-9d5e-a3de5e8917f3"
+      Hint: mobileImage
+      Value: 

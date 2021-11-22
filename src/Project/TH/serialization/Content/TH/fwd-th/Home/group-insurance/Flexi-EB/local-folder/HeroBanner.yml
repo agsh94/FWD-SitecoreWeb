@@ -1,0 +1,58 @@
+﻿---
+ID: "3d5e65f9-557f-4227-a9f6-3c3fd71e2127"
+Parent: "cf44917d-6c93-4e25-a77a-fbe9a70a8e8e"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/Flexi-EB/local-folder/HeroBanner"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: Flexi EB
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{99E6E11A-9886-476B-B3EB-3EAB80D78F98}" cropx="0.47" cropy="0.70" focusx="-0.06140350877192979" focusy="-0.390625" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200415T161813Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{907D5249-FFBF-4CE3-B0FF-0CB87C53D420}" cropx="0.49" cropy="0.54" focusx="-0.02631578947368418" focusy="-0.078125" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: เฟล็กซี่ อีบี
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{99E6E11A-9886-476B-B3EB-3EAB80D78F98}" cropx="0.50" cropy="0.78" focusx="-0.00877192982456143" focusy="-0.5625" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200416T023009Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{907D5249-FFBF-4CE3-B0FF-0CB87C53D420}" cropx="0.50" cropy="0.54" focusx="-0.00877192982456143" focusy="-0.078125" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit

@@ -1,0 +1,125 @@
+﻿---
+ID: "bfbb31d5-34db-4acc-9980-8b87c0199586"
+Parent: "84224fd1-146b-4c21-8dfd-9bd97c0ef3d2"
+Template: "cc866566-6b97-4bdc-814e-353b4d5dc8c0"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Accident/Easy E-PA/Plan M"
+DB: master
+SharedFields:
+- ID: "2c8cb92b-c54a-48a9-b853-b075c86cf3f5"
+  Hint: isFeatured
+  Type: Checkbox
+  Value: 1
+- ID: "53341179-76ac-497a-a4c4-28eb7c6c422e"
+  Hint: enableEnquiry
+  Type: Checkbox
+  Value: 1
+- ID: "54426e36-0a60-4ada-93f3-916e31cf73af"
+  Hint: minimumSumAssured
+  Value: 1000000
+- ID: "9cb51dc0-7252-4372-8a9e-42fa7de2b4fd"
+  Hint: minAge
+  Value: "20-0-0"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "b78d7fa0-a532-4f1a-90c1-98b0770294d4"
+  Hint: maxAge
+  Value: "60-0-0"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+- ID: "f41f9cfb-6e45-414e-aa8c-84b1c4148545"
+  Hint: maximumSumAssured
+  Value: 1000000
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200720T042004Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hein
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: Coverage summary
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=1%20year%2C%20premium%20increase%20with%20age&{EB470656-78FE-45D7-AA4A-D7D3051565A0}=20%20%E2%80%93%2060%20years&{5003D93E-AD2B-4A75-98A3-720DB202C221}=1%20Year%20%28renew%20until%20the%20age%20of%2070%29&{C9617B6B-0209-4348-BF6F-42596C19128F}=Up%20to%20THB%2050%2C000%20per%20accident&{2EDB5593-6FC4-492D-AD55-F9A2DC2AA04B}=THB%201%2C000%2C000&{CBE296E5-7B3F-4952-9F9E-9BD228E42ED6}=THB%202%2C000%2C000&{F77203AC-4793-49AE-8550-78AF196A139F}=Yes%2C%20up%20to%20THB%2015%2C000"
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: "Easy E-PA (Plan M)"
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="Buy now" linktype="external" url="https://ifwd.fwd.co.th/easy-e-pa/product-detail" anchor="" title="Buy now" target="_blank" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: Plan
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200720T041216Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hein
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: สรุปความคุ้มครอง
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=1%20%E0%B8%9B%E0%B8%B5%20%28%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%29&{EB470656-78FE-45D7-AA4A-D7D3051565A0}=20%20%E2%80%93%2060%20%E0%B8%9B%E0%B8%B5&{5003D93E-AD2B-4A75-98A3-720DB202C221}=1%20%E0%B8%9B%E0%B8%B5%20%28%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%88%E0%B8%99%E0%B8%96%E0%B8%B6%E0%B8%87%2070%20%E0%B8%9B%E0%B8%B5%29&{C9617B6B-0209-4348-BF6F-42596C19128F}=%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%2050%2C000%20%E0%B8%9A%E0%B8%B2%E0%B8%97%20%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87&{2EDB5593-6FC4-492D-AD55-F9A2DC2AA04B}=1%2C000%2C000%20%E0%B8%9A%E0%B8%B2%E0%B8%97&{CBE296E5-7B3F-4952-9F9E-9BD228E42ED6}=2%2C000%2C000%20%E0%B8%9A%E0%B8%B2%E0%B8%97&{F77203AC-4793-49AE-8550-78AF196A139F}=%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%20%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%2015%2C000%20%E0%B8%9A%E0%B8%B2%E0%B8%97"
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: "อีซี่ อี-พีเอ (แผน M)"
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="ซื้อตอนนี้" linktype="external" url="https://ifwd.fwd.co.th/easy-e-pa/product-detail" anchor="" title="ซื้อตอนนี้" target="_blank" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: แผนประกัน
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200828T092832Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: สรุปความคุ้มครอง
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=1%20%E0%B8%9B%E0%B8%B5%20%28%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2%20%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%29&{EB470656-78FE-45D7-AA4A-D7D3051565A0}=20%20%E2%80%93%2060%20%E0%B8%9B%E0%B8%B5&{5003D93E-AD2B-4A75-98A3-720DB202C221}=1%20%E0%B8%9B%E0%B8%B5%20%28%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%88%E0%B8%99%E0%B8%96%E0%B8%B6%E0%B8%87%2070%20%E0%B8%9B%E0%B8%B5%29&{C9617B6B-0209-4348-BF6F-42596C19128F}=%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%2050%2C000%20%E0%B8%9A%E0%B8%B2%E0%B8%97%20%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87&{2EDB5593-6FC4-492D-AD55-F9A2DC2AA04B}=1%2C000%2C000%20%E0%B8%9A%E0%B8%B2%E0%B8%97&{CBE296E5-7B3F-4952-9F9E-9BD228E42ED6}=2%2C000%2C000%20%E0%B8%9A%E0%B8%B2%E0%B8%97&{F77203AC-4793-49AE-8550-78AF196A139F}=%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%20%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%2015%2C000%20%E0%B8%9A%E0%B8%B2%E0%B8%97"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200828T092832Z
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: "อีซี่ อี-พีเอ (แผน M)"
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="ซื้อตอนนี้" linktype="external" url="https://ifwd.fwd.co.th/easy-e-pa/product-detail" anchor="" title="ซื้อตอนนี้" target="_blank" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: แผนประกัน

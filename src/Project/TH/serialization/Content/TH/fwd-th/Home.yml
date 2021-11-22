@@ -1,0 +1,411 @@
+﻿---
+ID: "d9c6779b-43e9-4106-8357-ad0510a8547c"
+Parent: "c3bdd602-4fed-4688-b5bd-3d021994351a"
+Template: "b2dd556f-0f5c-4201-bd59-384db7d20d8c"
+Path: "/sitecore/content/fwd/fwd-th/Home"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Network/16x16/home.png
+- ID: "21f74f6e-42d4-42a2-a4b4-4cefbcfbd2bb"
+  Hint: __Facets
+  Type: Treelist
+  Value: |
+    {BC38DA0B-FDC5-4B2F-BB8F-7821C572F8AD}
+    {BF25C885-8688-4616-B969-EC9D86A154C2}
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: "{D491883C-6D58-4968-BC59-A22D088EA43D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    au|sitecore\testuser|pe|+item:rename|+item:create|+item:write|+item:read|^*|pd|+item:rename|+item:create|+item:write|+item:read|^*|
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}"
+          s:par="enableMargin&amp;anchorText&amp;backgroundColor=%7B4F9E2A20-DD87-4819-8611-D220D4FED784%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+        <r
+          uid="{3C3B07DC-511C-4B3D-9C28-D07E9340C76D}">
+          <p:d />
+        </r>
+        <r
+          uid="{71BF02EF-2B8D-4972-8E55-27317AF45AC1}"
+          p:after="r[@uid='{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}']"
+          s:ds="{71E3B9A9-8B5D-49F2-BFE5-9819C35D2BED}"
+          s:id="{B8996FC4-005D-45CC-B7D5-0D1E2FEEE182}"
+          s:par="anchorText&amp;backgroundColor=%7bF9F5FC4E-89D7-4701-A560-C0A7179384CB%7d&amp;variant=%7bD12ED227-D7CB-4C12-A26A-0E1A19C41FDF%7d&amp;PlayVideoInBackground"
+          s:ph="jss-main" />
+        <r
+          uid="{AC5DDC9E-9648-4218-9263-9047D22F68F9}">
+          <p:d />
+        </r>
+        <r
+          uid="{834CCA27-4925-4542-9ADC-9201D3FFAD3E}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="anchorText&amp;backgroundColor=%7BF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+      </d>
+    </r>
+- ID: "ff451472-1b55-4228-b14d-ab9b2a449792"
+  Hint: isPageSearchable
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+              s:par="enableMargin&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+            <r
+              uid="{71BF02EF-2B8D-4972-8E55-27317AF45AC1}"
+              s:par="anchorText&amp;backgroundColor=%7BF9F5FC4E-89D7-4701-A560-C0A7179384CB%7D&amp;PlayVideoInBackground"
+              s:ph="" />
+            <r
+              uid="{6F1675F8-E173-49DB-9123-A386EC47F3EF}"
+              p:after="r[@uid='{71BF02EF-2B8D-4972-8E55-27317AF45AC1}']"
+              s:ds="{05326429-99FE-4BCC-911B-1C769C2B5DE7}"
+              s:id="{29EFD2E6-31C7-4388-8693-D31BA43DFF4B}"
+              s:par=""
+              s:ph="jss-main" />
+            <r
+              uid="{834CCA27-4925-4542-9ADC-9201D3FFAD3E}"
+              p:after="*[1=2]" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180831T074501Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: |
+        Who is FWD?
+        We are a new, different kind of insurance company, with a technology-driven mindset and a vision to change the way people feel about insurance. We believe that insurance should be a source of empowerment, not a constraint. It should be optimism and confidence, not fear and worry. And that’s because we think insurance should help people to celebrate living and live their lives without hesitation.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: FWD Thailand
+    - ID: "c73b2bc9-19b1-448c-b394-eb668bd23e2a"
+      Hint: globalMetaTextSetting
+      Value: "{8ADC4369-9596-4596-A588-41B04A68D30D}"
+  - Version: 2
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+              s:par="enableMargin&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+            <r
+              uid="{71BF02EF-2B8D-4972-8E55-27317AF45AC1}"
+              s:par="anchorText&amp;backgroundColor=%7BF9F5FC4E-89D7-4701-A560-C0A7179384CB%7D&amp;PlayVideoInBackground"
+              s:ph="" />
+            <r
+              uid="{6F1675F8-E173-49DB-9123-A386EC47F3EF}"
+              p:after="r[@uid='{71BF02EF-2B8D-4972-8E55-27317AF45AC1}']"
+              s:ds="{05326429-99FE-4BCC-911B-1C769C2B5DE7}"
+              s:id="{29EFD2E6-31C7-4388-8693-D31BA43DFF4B}"
+              s:par=""
+              s:ph="jss-main" />
+            <r
+              uid="{834CCA27-4925-4542-9ADC-9201D3FFAD3E}"
+              p:after="*[1=2]" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200723T173507Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: "FWD Thailand is an insurance company offering life and health protection and services plus a range of investment-linked and savings products."
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\contentauthor
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: FWD Thailand
+    - ID: "c73b2bc9-19b1-448c-b394-eb668bd23e2a"
+      Hint: globalMetaTextSetting
+      Value: "{8ADC4369-9596-4596-A588-41B04A68D30D}"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200723T173507Z
+  - Version: 3
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+              s:par="enableMargin&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+            <r
+              uid="{71BF02EF-2B8D-4972-8E55-27317AF45AC1}"
+              s:par="anchorText&amp;backgroundColor=%7BF9F5FC4E-89D7-4701-A560-C0A7179384CB%7D&amp;PlayVideoInBackground" />
+            <r
+              uid="{6F1675F8-E173-49DB-9123-A386EC47F3EF}"
+              p:after="r[@uid='{71BF02EF-2B8D-4972-8E55-27317AF45AC1}']"
+              s:ds="{05326429-99FE-4BCC-911B-1C769C2B5DE7}"
+              s:id="{29EFD2E6-31C7-4388-8693-D31BA43DFF4B}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{834CCA27-4925-4542-9ADC-9201D3FFAD3E}"
+              p:after="*[1=2]" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200814T105231Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: "FWD Thailand is an insurance company offering life and health protection and services plus a range of investment-linked and savings products."
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: FWD Thailand | Life Insurance Company in Thailand
+    - ID: "c73b2bc9-19b1-448c-b394-eb668bd23e2a"
+      Hint: globalMetaTextSetting
+      Value: "{8ADC4369-9596-4596-A588-41B04A68D30D}"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200814T105231Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+              s:par="enableMargin&amp;anchorText&amp;backgroundColor=%7B4F9E2A20-DD87-4819-8611-D220D4FED784%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+            <r
+              uid="{71BF02EF-2B8D-4972-8E55-27317AF45AC1}"
+              s:par="anchorText&amp;backgroundColor=%7BF9F5FC4E-89D7-4701-A560-C0A7179384CB%7D&amp;variant=%7BD12ED227-D7CB-4C12-A26A-0E1A19C41FDF%7D&amp;PlayVideoInBackground"
+              s:ph="" />
+            <r
+              uid="{BB31452F-5DF4-4F92-A3E8-D7B4C18A6174}"
+              p:after="r[@uid='{71BF02EF-2B8D-4972-8E55-27317AF45AC1}']"
+              s:ds="{05326429-99FE-4BCC-911B-1C769C2B5DE7}"
+              s:id="{29EFD2E6-31C7-4388-8693-D31BA43DFF4B}"
+              s:par=""
+              s:ph="jss-main" />
+            <r
+              uid="{834CCA27-4925-4542-9ADC-9201D3FFAD3E}"
+              p:after="*[1=2]" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200108T083949Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: |
+        Who is FWD?
+        We are a new, different kind of insurance company, with a technology-driven mindset and a vision to change the way people feel about insurance. We believe that insurance should be a source of empowerment, not a constraint. It should be optimism and confidence, not fear and worry. And that’s because we think insurance should help people to celebrate living and live their lives without hesitation.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: FWD Thailand
+    - ID: "c73b2bc9-19b1-448c-b394-eb668bd23e2a"
+      Hint: globalMetaTextSetting
+      Value: "{8ADC4369-9596-4596-A588-41B04A68D30D}"
+  - Version: 2
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+              s:par="enableMargin&amp;anchorText&amp;backgroundColor=%7B4F9E2A20-DD87-4819-8611-D220D4FED784%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+            <r
+              uid="{71BF02EF-2B8D-4972-8E55-27317AF45AC1}"
+              s:par="anchorText&amp;backgroundColor=%7BF9F5FC4E-89D7-4701-A560-C0A7179384CB%7D&amp;variant=%7BD12ED227-D7CB-4C12-A26A-0E1A19C41FDF%7D&amp;PlayVideoInBackground"
+              s:ph="" />
+            <r
+              uid="{BB31452F-5DF4-4F92-A3E8-D7B4C18A6174}"
+              p:after="r[@uid='{71BF02EF-2B8D-4972-8E55-27317AF45AC1}']"
+              s:ds="{05326429-99FE-4BCC-911B-1C769C2B5DE7}"
+              s:id="{29EFD2E6-31C7-4388-8693-D31BA43DFF4B}"
+              s:par=""
+              s:ph="jss-main" />
+            <r
+              uid="{834CCA27-4925-4542-9ADC-9201D3FFAD3E}"
+              p:after="*[1=2]" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200724T015344Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: FWD คือบริษัทประกันชั้นนำของประเทศไทย บริการครอบคลุม ทั้งประกันชีวิต ประกันอุบัติเหตุ ประกันสุขภาพ ประกันสะสมทรัพย์ และประกันควบการลงทุน พร้อมวางแผนประกันแบบมืออาชีพ
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hein
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: FWD Thailand
+    - ID: "c73b2bc9-19b1-448c-b394-eb668bd23e2a"
+      Hint: globalMetaTextSetting
+      Value: "{8ADC4369-9596-4596-A588-41B04A68D30D}"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200724T015344Z
+  - Version: 3
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+              s:par="enableMargin&amp;anchorText&amp;backgroundColor=%7B4F9E2A20-DD87-4819-8611-D220D4FED784%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+            <r
+              uid="{71BF02EF-2B8D-4972-8E55-27317AF45AC1}"
+              s:par="anchorText&amp;backgroundColor=%7BF9F5FC4E-89D7-4701-A560-C0A7179384CB%7D&amp;variant=%7BD12ED227-D7CB-4C12-A26A-0E1A19C41FDF%7D&amp;PlayVideoInBackground"
+              s:ph="" />
+            <r
+              uid="{BB31452F-5DF4-4F92-A3E8-D7B4C18A6174}"
+              p:after="r[@uid='{71BF02EF-2B8D-4972-8E55-27317AF45AC1}']"
+              s:ds="{05326429-99FE-4BCC-911B-1C769C2B5DE7}"
+              s:id="{29EFD2E6-31C7-4388-8693-D31BA43DFF4B}"
+              s:par=""
+              s:ph="jss-main" />
+            <r
+              uid="{834CCA27-4925-4542-9ADC-9201D3FFAD3E}"
+              p:after="*[1=2]" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200729T080918Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: FWD คือบริษัทประกันชั้นนำของประเทศไทย บริการครอบคลุม ทั้งประกันชีวิต ประกันอุบัติเหตุ ประกันสุขภาพ ประกันสะสมทรัพย์ และประกันควบการลงทุน พร้อมวางแผนประกันแบบมืออาชีพ
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\hein
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: เอฟดับบลิวดี ประเทศไทย
+    - ID: "c73b2bc9-19b1-448c-b394-eb668bd23e2a"
+      Hint: globalMetaTextSetting
+      Value: "{8ADC4369-9596-4596-A588-41B04A68D30D}"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200729T080918Z
+  - Version: 4
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BB31452F-5DF4-4F92-A3E8-D7B4C18A6174}"
+              p:after="r[@uid='{71BF02EF-2B8D-4972-8E55-27317AF45AC1}']"
+              s:ds="{05326429-99FE-4BCC-911B-1C769C2B5DE7}"
+              s:id="{29EFD2E6-31C7-4388-8693-D31BA43DFF4B}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{834CCA27-4925-4542-9ADC-9201D3FFAD3E}"
+              p:after="*[1=2]" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200814T105313Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: FWD คือบริษัทประกันชั้นนำของประเทศไทย บริการครอบคลุม ทั้งประกันชีวิต ประกันอุบัติเหตุ ประกันสุขภาพ ประกันสะสมทรัพย์ และประกันควบการลงทุน พร้อมวางแผนประกันแบบมืออาชีพ
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: เอฟดับบลิวดี ประเทศไทย | บริษัทประกันชีวิต ประกันสุขภาพ
+    - ID: "c73b2bc9-19b1-448c-b394-eb668bd23e2a"
+      Hint: globalMetaTextSetting
+      Value: "{8ADC4369-9596-4596-A588-41B04A68D30D}"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200814T105313Z

@@ -1,0 +1,37 @@
+﻿---
+ID: "3d8a3f5c-94da-43a6-b4e2-e016826bdbe6"
+Parent: "06d503b6-f7c2-487d-9474-6832efa3ddc7"
+Template: "6232b6c9-5176-4233-b667-5377af32044d"
+Path: "/sitecore/content/fwd/fwd-th/Components/Forms/Unit-Linked policy service"
+DB: master
+SharedFields:
+- ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
+  Hint: __Never publish
+  Type: checkbox
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200103T095129Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T065159Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

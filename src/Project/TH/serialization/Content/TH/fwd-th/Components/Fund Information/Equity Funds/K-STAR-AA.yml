@@ -1,0 +1,59 @@
+﻿---
+ID: "c9608b74-7404-435c-8f01-47c356227b87"
+Parent: "c98baa6e-2e92-4f2f-8d78-d9215419d3ef"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/Fund Information/Equity Funds/K-STAR-AA"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T041041Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "K STAR Equity Fund-A(A) (K-STAR-A(A))"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.kasikornasset.com/th/mutual-fund/fund-template/Pages/K-STAR-A(A).aspx'>Fund page</a></li>
+        <li><a target='_blank' href='https://www.kasikornasset.com/FundDocument/Full_Prospectus/K-STAR-A(A).pdf'>Prospectus</a></li>
+        <li><a target='_blank' href='https://www.kasikornasset.com/FundDocument/Fund_Fact_Sheet/K-STAR-A(A).pdf'>Fact sheet</a></li>
+        <li><a target='_blank' href='https://www.kasikornasset.com/FundDocument/Semi_Annual_Report/K-STAR-A(A).pdf'>Bi-annual report</a></li>
+        <li><a target='_blank' href='https://www.kasikornasset.com/FundDocument/Annual_Report/K-STAR-A(A).pdf'>Annual report</a></li>
+        </ul>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T041111Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "กองทุนเปิดเค สตาร์ หุ้นทุน-A ชนิดสะสมมูลค่า (K-STAR-A(A))"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='https://www.kasikornasset.com/th/mutual-fund/fund-template/Pages/K-STAR-A(A).aspx'>หน้าหลักกองทุน</a></li>
+        <li><a target='_blank' href='https://www.kasikornasset.com/FundDocument/Full_Prospectus/K-STAR-A(A).pdf'>หนังสือชี้ชวน</a></li>
+        <li><a target='_blank' href='https://www.kasikornasset.com/FundDocument/Fund_Fact_Sheet/K-STAR-A(A).pdf'>หนังสือชี้ชวนส่วนสรุป</a></li>
+        <li><a target='_blank' href='https://www.kasikornasset.com/FundDocument/Semi_Annual_Report/K-STAR-A(A).pdf'>รายงาน 6 เดือน</a></li>
+        <li><a target='_blank' href='https://www.kasikornasset.com/FundDocument/Annual_Report/K-STAR-A(A).pdf'>รายงานประจำปี</a></li>
+        </ul>

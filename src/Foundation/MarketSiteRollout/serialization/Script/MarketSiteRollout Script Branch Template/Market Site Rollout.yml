@@ -1,0 +1,22 @@
+﻿---
+ID: "bcf0f649-1aff-4e98-aa3a-1bc0e06265c0"
+Parent: "e24c4a00-08d6-41c8-b60e-e7990b21697a"
+Template: "85adbf5b-e836-4932-a333-fe0f9fa1ed1e"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200511T150935Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

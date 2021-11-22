@@ -1,0 +1,70 @@
+﻿---
+ID: "affe62a3-10e7-4515-aa85-8362af2ae64f"
+Parent: "c05e411a-47c7-4319-8ca5-efbdd5a5f017"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Premium Payment/I Can I pay my premiums by direct debit from my savings account"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 25
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T011536Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "Can I pay my premiums by direct debit from my savings account?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <p>You can pay by direct debit via</p>
+        <ul>
+            <li>Bangkok Bank&nbsp;</li>
+            <li>Siam Commercial Bank</li>
+            <li>Kasikorn Bank&nbsp;</li>
+            <li>Bank of Ayudhya&nbsp;</li>
+            <li><span> </span>KrungThai Bank</li>
+            <li>TMB Bank</li>
+            <li>Government Saving Bank</li>
+            <li>Thanachart Bank</li>
+        </ul>
+        <p>Please refer to the <a href="~/link.aspx?_id=D217816A00B3439C8B2F42A1037B306A&amp;_z=z">How to pay your premium page</a>&nbsp;on our website.</p>
+        <div>&nbsp;</div>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T012700Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "ชำระเบี้ยประกันเป็นรายเดือนอยู่ อยากให้หักบัญชีเงินเดือนเลยจะได้ไหม?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <p> คุณสามารถชำระเบี้ยประกัน ผ่านบริการหักบัญชีออมทรัพย์อัตโนมัติ ได้ที่  </p>
+        <ul>
+            <li>ธ.กรุงเทพ</li>
+            <li>ธ.กรุงศรีอยุธยา</li>
+            <li>ธ.กสิกรไทย</li>
+            <li>ธ.ไทยพาณิชย์</li>
+            <li>ธ. กรุงไทย</li>
+            <li>ธ. ทหารไทย</li>
+            <li>ธ.ออมสิน</li>
+            <li>ธ.ธนชาติ</li>
+        </ul>
+        <p>กรุณาคลิกดูรายละเอียด วิธีชำระเบี้ยประกัน <a href="~/link.aspx?_id=D217816A00B3439C8B2F42A1037B306A&amp;_z=z">ที่นี่ </a></p>

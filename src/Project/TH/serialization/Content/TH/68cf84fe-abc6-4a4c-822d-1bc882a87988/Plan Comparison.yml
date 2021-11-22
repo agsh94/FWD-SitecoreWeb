@@ -1,0 +1,28 @@
+﻿---
+ID: "2b63c612-b380-4b8a-8a26-caad7e93f82c"
+Parent: "68cf84fe-abc6-4a4c-822d-1bc882a87988"
+Template: "cf197858-5a1a-4c98-8b93-209f8561ba99"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/the-exclusive-care/PlanComparison/local-folder/Plan Comparison"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{89B58F16-6FEB-4E19-9C7D-5FD1ABB27947}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201009T040422Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma

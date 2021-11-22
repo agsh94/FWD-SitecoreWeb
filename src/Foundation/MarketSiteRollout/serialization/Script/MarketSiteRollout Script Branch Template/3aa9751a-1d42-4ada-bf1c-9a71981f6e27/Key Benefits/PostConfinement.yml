@@ -1,0 +1,21 @@
+﻿---
+ID: "8e801e29-1be9-48ab-9c34-538f7e8d2af0"
+Parent: "b7d29a77-21ce-4eab-8f2c-51c7dd203a4a"
+Template: "3dfbb2d7-b19a-4df9-8a93-4ecb69088625"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Health/cancer-knockout/Package IV/AttributeFolder/Key Benefits/PostConfinement"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200615T044154Z
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{646E1E3C-0B00-43AC-AE18-CFC91FF421FF}"

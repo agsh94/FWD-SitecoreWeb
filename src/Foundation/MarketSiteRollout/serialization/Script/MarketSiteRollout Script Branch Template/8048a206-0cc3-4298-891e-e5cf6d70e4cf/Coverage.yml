@@ -1,0 +1,17 @@
+﻿---
+ID: "33609f6e-b3af-455b-b388-84d0592bd495"
+Parent: "8048a206-0cc3-4298-891e-e5cf6d70e4cf"
+Template: "b35e143d-a4ef-497e-8326-f558715868e4"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Health/cancer-knockout/Package III/AttributeFolder/Coverage"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ce1ad82-1fa2-4aff-bca7-f02e23fa1099"
+      Hint: attributeSectionKey
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200702T115800Z

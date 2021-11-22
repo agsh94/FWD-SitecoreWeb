@@ -1,0 +1,18 @@
+﻿---
+ID: "fee5ea6c-ff80-4b43-9d56-fc400bed4ca6"
+Parent: "69a48b76-6263-4eb1-a20a-e2924541002e"
+Template: "09db1bd9-ccf9-4a64-b2c9-ac249d6b96c1"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/ContentSnippetPage/local-folder/Content Snippet3"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200715T114603Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\testuser

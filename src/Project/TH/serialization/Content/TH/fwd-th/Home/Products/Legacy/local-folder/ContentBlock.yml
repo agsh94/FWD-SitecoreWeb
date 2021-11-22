@@ -1,0 +1,45 @@
+﻿---
+ID: "19aa1951-a286-4699-a3f5-5669eab24c2d"
+Parent: "860b5bbe-566b-420f-815a-32e205f94774"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Legacy/local-folder/ContentBlock"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T072044Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: We know that you want the brightest possible future for your family. So we&rsquo;ve designed a range of plans to help make this happen. It means you can set up a fund to pay for your children&rsquo;s education. Or perhaps support them in their career goals as young adults. With the help of our expert financial planning, you can secure not only your children&rsquo;s future, but the future of your great great grandchildren too.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdtestauthor
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Here’s to a bright future for everyone
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T134653Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: เรารู้ว่าคุณต้องการสร้างอนาคตอันสดใสที่สุดให้กับครอบครัวที่คุณรัก เราจึงออกแบบแผนประกันที่หลากหลายเพื่อให้ฝันของคุณเป็นจริง เพราะแผนของเรา ให้คุณสร้างกองทุนเพื่อการศึกษาสำหรับลูกๆ หรือนำไปใช้ส่งเสริมให้พวกเขาก้าวสู่ความสำเร็จในอาชีพในวัยหนุ่มสาว และด้วยความช่วยเหลือด้านการวางแผนทางการเงินอย่างมืออาชีพของเรา คุณไม่เพียงแต่สามารถสร้างความมั่นคงให้กับอนาคตของลูกๆ แต่ยังสานต่อความมั่นคงไปยังทายาทได้อีกหลายรุ่น
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: เพื่ออนาคตอันสดใสของทุกคนที่คุณรัก

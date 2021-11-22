@@ -1,0 +1,24 @@
+﻿---
+ID: "a6bda73a-53bb-453b-bcb0-5e391e09d552"
+Parent: "e084ce78-e3bf-4dcb-acde-8b16ff0e1b08"
+Template: "b655046c-10c2-434b-b2e3-af463434496d"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Settings/Compare Footer Links/Download brochure
+DB: master
+SharedFields:
+- ID: "a6ee811d-8f6f-4560-80b5-a4faa92bb6db"
+  Hint: buttonIcon
+  Value: "{96BC3A53-AB72-49EF-BA31-37D901B59263}"
+- ID: "f83ea2e9-5653-49c4-bf2f-7bfad28aa50c"
+  Hint: key
+  Value: "{234C0536-7A1C-421C-B019-449810E3232C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200609T054453Z
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: Download brochure

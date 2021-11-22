@@ -1,0 +1,27 @@
+﻿---
+ID: "19ef1177-5f08-4792-a936-b9024be10b77"
+Parent: "67b23de7-dabe-497a-820a-ab51abc44805"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/ohkaju-organic-restaurant/local-folder/ArticleDetails/Description14"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2650
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T011621Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span><strong>และความพิเศษของมื้อนี้คือผมได้น้ำผลไม้สกัดเย็น</strong></span><strong><span dir="RTL"> </span><span>100% </span><span>ฟรีด้วยฮะ</span><span dir="RTL"> </span><span>โชคดีที่มีแอปพลิเคชัน</span><span dir="RTL"> </span><span>FWD MAX </span><span>เลยนำไปแลกแต้มได้เมนูน้ำผลไม้สกัดเย็น</span><span dir="RTL"> </span><span>100% </span><span>มาทานได้ฟรี</span></strong><span dir="RTL"> </span><span>มีให้เลือก</span><span dir="RTL"> </span><span>5 </span><span>รสชาติ</span><span dir="RTL"> </span><span>ได้แก่</span><span dir="RTL"> </span><span>Cancer Fighter, Lower Cholesterol, Prevent Alzheimer, Anti Inflamatory </span><span>และ</span><span dir="RTL"> </span><span>Go Green </span><span>เลือกรสไหนก็ได้</span><span dir="RTL"> </span><span>อร่อยทุกรส</span><span dir="RTL"> </span><span>แถมยังอุดมไปด้วยประโยชน์และต้านโรคมากมาย</span><span dir="RTL"> </span><span>ใครอยากทานเครื่องดื่มฟรีๆ</span><span dir="RTL"> </span><span>ที่ร้านโอ้กะจู๋แบบนี้ลองเข้าไปชมรายละเอียดเพิ่มเติมที่นี่ได้เลย<br />
+        </span><span>&gt;&gt;</span><span><a href="https://www.chillpainai.com/fwdmaxprivilege/"><span>www.chillpainai.com/fwdmaxprivilege/</span></a></span></p>

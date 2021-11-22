@@ -1,0 +1,78 @@
+﻿---
+ID: "7c930539-86f3-4171-8e4e-878357adb2ab"
+Parent: "7061ffb8-69bf-4e50-9b6c-33b8785eeb29"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/Accident and Health/local-folder/FWD Care Card"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 625
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: FWD Care Card
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{25DFC1D3-822C-4661-8A6B-C6B60DA67CAA}" cropx="0.53" cropy="0.48" focusx="0.05208333333333326" focusy="0.03125" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200323T125526Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{25DFC1D3-822C-4661-8A6B-C6B60DA67CAA}" cropx="0.52" cropy="0.49" focusx="0.03125" focusy="0.015625" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: Just show your FWD Care Card at our network of over 400 hospitals across the country, and get cashless treatment and services
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: See a doctor with no cash advance
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See how it works" anchor="" linktype="internal" class="" title="FWD Care Card Claim"  querystring="" id="{F2FE3494-85FA-4D1F-8429-E75E14968F75}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{25DFC1D3-822C-4661-8A6B-C6B60DA67CAA}" cropx="0.54" cropy="0.49" focusx="0.07291666666666674" focusy="0.015625" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200510T061830Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{25DFC1D3-822C-4661-8A6B-C6B60DA67CAA}" cropx="0.53" cropy="0.49" focusx="0.0625" focusy="0.015625" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: เพียงแสดงบัตรเอฟดับบลิวดี แคร์การ์ด ที่โรงพยาบาลเครือข่ายกว่า 400 แห่งทั่วประเทศ ก็รับการรักษาได้ทันที โดยไม่ต้องจ่ายเงินสด
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: เข้ารับการรักษาได้ทันทีโดยไม่ต้องสำรองจ่าย
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ดูรายละเอียด" anchor="" linktype="internal" class="" title="การเคลมสินไหม บัตรเอฟดับบลิวดีแคร์การ์ด"  querystring="" id="{F2FE3494-85FA-4D1F-8429-E75E14968F75}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"

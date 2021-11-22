@@ -1,0 +1,21 @@
+﻿---
+ID: "8dc6d2b7-2944-4526-87e8-900ecd7e5033"
+Parent: "f071274e-6247-4f54-bcd2-07f9bb642f2d"
+Template: "bd32cea7-ca24-4412-9263-f32b833a01cc"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Fund/disclaimerList/CommonDisclaimers/com_sym1
+DB: master
+SharedFields:
+- ID: "89b100a5-7ac7-4a63-805e-62da69898fc1"
+  Hint: code
+  Value: com_sym1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201007T085333Z
+    - ID: "e59f19b7-37da-4692-90c5-c51a7a326263"
+      Hint: description
+      Value: "Investment involves risks and the value of investments and their yield may go down as well as up. Past performance figures of the underlying funds shown above are not guaranteed and are not indicative of future performance. Please refer to the prospectuses of the relevant underlying funds and the principal brochure and/or the policy document of the relevant investment-linked insurance products for further details."

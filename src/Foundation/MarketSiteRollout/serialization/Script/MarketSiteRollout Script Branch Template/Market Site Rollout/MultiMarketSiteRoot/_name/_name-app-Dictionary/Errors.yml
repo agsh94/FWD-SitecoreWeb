@@ -1,0 +1,14 @@
+﻿---
+ID: "6cedadf1-37fe-4436-87f7-dca755516ff3"
+Parent: "9ba97876-9f4a-44d0-a6f2-c1744767676a"
+Template: "267d9ac7-5d85-4e9d-af89-99ab296cc218"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/$name-app-Dictionary/Errors"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191111T112826Z

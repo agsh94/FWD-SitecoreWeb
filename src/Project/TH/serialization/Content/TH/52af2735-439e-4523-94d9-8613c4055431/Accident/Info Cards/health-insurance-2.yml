@@ -1,0 +1,71 @@
+﻿---
+ID: "ec477673-b795-499e-954c-e1cd31f93e2b"
+Parent: "39a24374-1152-42f9-ad07-da3599fa1b6d"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/GroupLandingPage/local-folder/GroupProductList/Accident/Info Cards/health-insurance-2"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Health Insurance 2
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: Costs less, but get worthy coverage.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200122T054809Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: Cheaper than Individual Life and Health Insurance 2
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: Costs less, but get worthy coverage.
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{349E59F1-DBA4-4598-BF1A-1017EC930D17}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{349E59F1-DBA4-4598-BF1A-1017EC930D17}" cropx="0.50" cropy="0.56" focusx="-0.00312059041161894" focusy="-0.12814617156982422" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: |
+        ค่าใช้จ่ายน้อยลง แต่ได้รับความคุ้มครองที่คุ้มค่า<br />
+        <div>&nbsp;</div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200403T075315Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: ถูกกว่าประกันชีวิตและประกันสุขภาพรายบุคคล
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: |
+        ค่าใช้จ่ายน้อยลง แต่ได้รับความคุ้มครองที่คุ้มค่า
+        
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{349E59F1-DBA4-4598-BF1A-1017EC930D17}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{349E59F1-DBA4-4598-BF1A-1017EC930D17}" cropx="0.50" cropy="0.56" focusx="-0.00312059041161894" focusy="-0.12814617156982422" />

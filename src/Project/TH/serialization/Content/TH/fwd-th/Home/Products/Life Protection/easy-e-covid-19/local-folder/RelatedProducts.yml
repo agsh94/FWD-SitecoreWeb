@@ -1,0 +1,38 @@
+﻿---
+ID: "54b78a02-a9a2-41d4-a4b8-cabf7a6471b7"
+Parent: "ac505d9a-a591-41da-bba3-fe8699e89b20"
+Template: "63bd1365-c4a9-4fe7-97db-6c56a3b85d39"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Life Protection/easy-e-covid-19/local-folder/RelatedProducts"
+DB: master
+SharedFields:
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{3B19D2B5-AAA3-4FB7-A107-4CEC5F9110F1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T144604Z
+    - ID: "d88ea793-1587-4f65-ae5c-80926cd5438b"
+      Hint: subTitle
+      Value: 
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Other recommended products
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055158Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: ผลิตภัณฑ์ที่เกี่ยวข้อง

@@ -1,0 +1,18 @@
+﻿---
+ID: "9b0d6c14-f2ba-446e-b62f-40f5de9c8be9"
+Parent: "33807822-6964-43bc-a2d5-b91b18bee4a0"
+Template: "2c8293d2-9b5c-42d9-a207-f3ea0a725d08"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Max/Health/fwd-health/local-folder/ArticleDetails/Divider"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200824T172429Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

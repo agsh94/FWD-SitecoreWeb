@@ -1,0 +1,30 @@
+﻿---
+ID: "f7d1c3b0-5fc6-4710-b092-95bf41a44c21"
+Parent: "d008b5a3-e615-4fa8-93e5-cdd0bff794e7"
+Template: "d188c909-be9c-4149-9106-b25be4b6fb55"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/5-best-milk-tea/local-folder/ArticleHeroBanner"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4573EFE0-6D5D-4A69-BC87-F46AFA1CD32D}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ec1b066-046b-4099-8dde-7ef17d1818a5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{A3913E3E-7AA3-47AD-80C5-BF353A617DD9}" cropx="0.51" cropy="0.75" focusx="0.027290478087308223" focusy="-0.5052084922790527" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T234055Z
+    - ID: "43c58d25-8056-4ce0-b071-440c9f96ecf3"
+      Hint: image
+      Value: |
+        <image mediaid="{A3913E3E-7AA3-47AD-80C5-BF353A617DD9}" cropx="0.37" cropy="0.54" focusx="-0.2534112762986568" focusy="-0.07465267181396484" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit

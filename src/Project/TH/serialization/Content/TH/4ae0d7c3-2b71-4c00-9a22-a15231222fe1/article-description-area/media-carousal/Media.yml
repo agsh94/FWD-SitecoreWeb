@@ -1,0 +1,64 @@
+﻿---
+ID: "fc65e0d7-9a94-4e7d-b110-cb77248bf7e0"
+Parent: "85b24bf5-6e2a-4e5a-9048-f91ab393aa7e"
+Template: "2861c185-fc81-4fdc-8e91-93de381c752e"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/about-us/press-releases/fwd-cleans-up-in-category-with-11-awards/local-folder/article-description-area/media-carousal/Media"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T060744Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "911794b9-daae-4106-a2db-bc429cfa7a9c"
+      Hint: leadingText
+      Value: "The One, FWD's high-end medical solution,"
+    - ID: "c93d0c7b-6b3a-4e3a-a9b6-dc89062a8a6c"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{6232039E-DEF3-4624-90E7-ECB6459126F2}" cropx="0.06" cropy="0.18" focusx="-0.8769873903508771" focusy="0.63861083984375" />
+    - ID: "ca02df68-c93a-4d5b-bfb9-65cde670e7cd"
+      Hint: caption
+      Value: " and the associated all-round, one-stop health management service PREMIER THE ONEierge, claimed an Excellence Award in the Medical Care Category."
+    - ID: "e5628949-939b-4454-b990-5b6c89e0be4d"
+      Hint: image
+      Value: |
+        <image mediaid="{6232039E-DEF3-4624-90E7-ECB6459126F2}" cropx="0.90" cropy="0.17" focusx="0.7984512061403508" focusy="0.669921875" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b23ad3f-b76c-4a6a-830d-1434dd398ed6"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200108T084134Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "911794b9-daae-4106-a2db-bc429cfa7a9c"
+      Hint: leadingText
+      Value: "The One, FWD's high-end medical solution,"
+    - ID: "c93d0c7b-6b3a-4e3a-a9b6-dc89062a8a6c"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{6232039E-DEF3-4624-90E7-ECB6459126F2}" cropx="0.06" cropy="0.18" focusx="-0.8769873903508771" focusy="0.63861083984375" />
+    - ID: "ca02df68-c93a-4d5b-bfb9-65cde670e7cd"
+      Hint: caption
+      Value: Vestibulum rutrum quam vitae fringilla tincidunt. Suspendisse nec tortor urna. Ut laoreet sodales nisi, quis iaculis nulla iaculis vitae. Donec sagittis faucibus lacus eget.
+    - ID: "e5628949-939b-4454-b990-5b6c89e0be4d"
+      Hint: image
+      Value: |
+        <image mediaid="{6232039E-DEF3-4624-90E7-ECB6459126F2}" cropx="0.90" cropy="0.17" focusx="0.7984512061403508" focusy="0.669921875" />

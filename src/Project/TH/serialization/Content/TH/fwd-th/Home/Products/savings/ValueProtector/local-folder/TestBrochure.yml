@@ -1,0 +1,57 @@
+﻿---
+ID: "e15998af-d588-4478-9a88-7c5572e6a5fe"
+Parent: "30831903-6598-4b9c-8c31-6a8f7611f85a"
+Template: "fedd8681-2797-4d1b-9d18-3da34a28a769"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/savings/ValueProtector/local-folder/TestBrochure"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200106T140857Z
+    - ID: "5e25f334-0f17-41db-af95-cd2e833b6c6e"
+      Hint: title
+      Value: Test Brochure
+    - ID: "8fda14e5-7e95-4665-b7b2-5a84db75fc47"
+      Hint: description
+      Value: Testing Brochure
+    - ID: "99325f39-b398-4475-a26e-0861843826fe"
+      Hint: link
+      Value: |
+        <link linktype="media" target="" id="{20E5C04D-F1D5-4F63-83A8-963C27DEB2A3}" />
+    - ID: "aa995fb3-0d42-4ce6-bcc0-63e0feb67caf"
+      Hint: buttonIcon
+      Value: "{A03E086C-A7FD-4FD0-8D38-AA313D696179}"
+    - ID: "f39b09d8-f74e-420a-a6bb-94783a6fac25"
+      Hint: contentType
+      Value: "{A57B5556-98B3-4112-AC9F-1926D90455B8}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T101138Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "5e25f334-0f17-41db-af95-cd2e833b6c6e"
+      Hint: title
+      Value: Test Brochure
+    - ID: "8fda14e5-7e95-4665-b7b2-5a84db75fc47"
+      Hint: description
+      Value: Testing Brochure
+    - ID: "99325f39-b398-4475-a26e-0861843826fe"
+      Hint: link
+      Value: |
+        <link linktype="media" target="" id="{20E5C04D-F1D5-4F63-83A8-963C27DEB2A3}" />
+    - ID: "aa995fb3-0d42-4ce6-bcc0-63e0feb67caf"
+      Hint: buttonIcon
+      Value: "{A03E086C-A7FD-4FD0-8D38-AA313D696179}"
+    - ID: "f39b09d8-f74e-420a-a6bb-94783a6fac25"
+      Hint: contentType
+      Value: "{A57B5556-98B3-4112-AC9F-1926D90455B8}"

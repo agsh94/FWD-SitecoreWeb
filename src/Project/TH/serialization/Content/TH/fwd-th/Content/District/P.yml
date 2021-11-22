@@ -1,0 +1,33 @@
+﻿---
+ID: "1e0eaecc-df9b-418b-9065-f586dc02804a"
+Parent: "9ace0b94-82c2-47cc-bf9d-f270ac28ed07"
+Template: "8d254d4a-bd30-4b07-8fa0-7464260d4bbc"
+Path: "/sitecore/content/fwd/fwd-th/Content/District/P"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 10750
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T120835Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200422T145834Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

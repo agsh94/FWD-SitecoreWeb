@@ -1,0 +1,21 @@
+﻿---
+ID: "88c56e78-5a62-4ad6-98bd-ccbd996b19f3"
+Parent: "5d6bb33f-123f-48f2-82bd-5ac66be89afb"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Wealth/5-think-to-single/local-folder/Article Description Aria/RICH TEXT1"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T045335Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: "นี่ก็จะหมดปี 2019 แล้ว ไหนๆ ขอมือคนที่ยังไร้คู่หน่อยจ้า มองไปทางไหนนอกจากคนมีคู่แล้ว ตอนนี้สาวมั่นๆ ที่โนสนโนแคร์การมีคู่ก็ยังคงใช้ชีวิตได้ตามปกติ ไม่ได้เดือนร้อนอะไร แถมยังมีความสุขได้ตามปกติอีกด้วย นั่นก็เพราะโสดอ่ะ &ldquo;ดีจะตาย&rdquo; แล้วอยากรู้ไหมว่าอะไรทำให้คนอยากโสด วันนี้ FWD มีข้อดีของคนโสดมาบอกให้รู้จะได้ไม่โสดแบบเหงาๆ เชิดได้จนคนมีคู่อิจฉา! และยังได้ใช้ชีวิตแบบสบายๆ ไปตลอดชีวิตได้อีกด้วย"

@@ -1,0 +1,14 @@
+﻿---
+ID: "0ce58486-943e-4f5f-8b5b-ba5c1fed00b1"
+Parent: "7e81ca8e-f5f7-4c96-8347-f440f9e3a5b6"
+Template: "2c8293d2-9b5c-42d9-a207-f3ea0a725d08"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/News/coffee-bar/local-folder/ArticleDetails/Divider"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191122T111711Z

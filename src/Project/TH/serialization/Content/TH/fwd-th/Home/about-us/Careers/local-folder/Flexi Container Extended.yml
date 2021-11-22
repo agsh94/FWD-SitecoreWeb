@@ -1,0 +1,21 @@
+﻿---
+ID: "7887f640-7985-4d3c-a5e6-06b783fe2a8c"
+Parent: "8252b599-f428-4e6e-a22e-90e60f04101b"
+Template: "967a8dad-4a23-491b-95e2-295dec0b64b3"
+Path: "/sitecore/content/fwd/fwd-th/Home/about-us/Careers/local-folder/Flexi Container Extended"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200410T065641Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "ef4ceecf-b302-475f-be16-370851260a17"
+      Hint: title
+      Value: กิจกรรมล่าสุด

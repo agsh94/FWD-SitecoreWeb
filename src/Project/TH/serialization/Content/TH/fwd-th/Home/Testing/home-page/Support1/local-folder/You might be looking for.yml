@@ -1,0 +1,37 @@
+﻿---
+ID: "3a947331-28e1-4161-8423-de5f51706910"
+Parent: "8652fab9-74c2-4aa4-8dc8-f5affa107943"
+Template: "68016eee-7ce8-453d-9b04-20bcd42da406"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Support1/local-folder/You might be looking for"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191230T061942Z
+    - ID: "d7fa80f1-d6d1-4ddd-9366-fd4a9c39b13a"
+      Hint: title
+      Value: You might be looking for
+    - ID: "e5d5024c-a73c-4218-a3ce-0ec1d13276bc"
+      Hint: listItems
+      Value: "{1BFEEF28-8629-4BA0-9E04-BBA72BEB81F2}|{4BD0C323-E7A4-4464-B566-5CBD31C5E068}|{D5968F21-419A-4109-B2DE-7BC876269720}|{671573DF-9CDA-44DB-8E19-15877E57CCFA}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200413T045313Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d7fa80f1-d6d1-4ddd-9366-fd4a9c39b13a"
+      Hint: title
+      Value: คุณอาจกำลังมองหา
+    - ID: "e5d5024c-a73c-4218-a3ce-0ec1d13276bc"
+      Hint: listItems
+      Value: "{1BFEEF28-8629-4BA0-9E04-BBA72BEB81F2}|{4BD0C323-E7A4-4464-B566-5CBD31C5E068}|{D5968F21-419A-4109-B2DE-7BC876269720}|{671573DF-9CDA-44DB-8E19-15877E57CCFA}"

@@ -1,0 +1,25 @@
+﻿---
+ID: "3c4b89e7-e47e-4cc7-a69f-d0ce066e86e0"
+Parent: "7510a3c7-8024-43c6-91a0-78bb3f0b5881"
+Template: "7d6bb8c2-d538-441d-82bf-d6aec40b5929"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/faq/local-folder/AllFaqList"
+DB: master
+SharedFields:
+- ID: "e393d27b-259f-4774-91b7-a2965d57238d"
+  Hint: linkItems
+  Value: "{0F3993DF-01E8-4BCD-8B40-6F38CF666446}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200708T073429Z
+    - ID: "2ed70c09-d8b1-4780-8037-dfe4ca6dd644"
+      Hint: title
+      Value:  รายการคำถามทั้งหมดในสีเทา
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

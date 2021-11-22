@@ -1,0 +1,31 @@
+﻿---
+ID: "6fed6140-8425-4d00-86ca-6279ba7af799"
+Parent: "2124ac41-80f6-4d32-b08d-95823f977abf"
+Template: "3f8b56ee-9807-4b11-9a07-1ce368c89302"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/premium-payment/local-folder/premium-payment/DropdownItem"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200513T174156Z
+    - ID: "d67d5342-eb75-41e4-959f-466e00455f25"
+      Hint: title
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200513T172913Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d67d5342-eb75-41e4-959f-466e00455f25"
+      Hint: title
+      Value: 

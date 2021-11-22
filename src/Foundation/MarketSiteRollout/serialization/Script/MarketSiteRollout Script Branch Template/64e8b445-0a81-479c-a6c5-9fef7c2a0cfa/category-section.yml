@@ -1,0 +1,21 @@
+﻿---
+ID: "6e7810b7-8843-4ba3-a008-7ec5fe16062d"
+Parent: "64e8b445-0a81-479c-a6c5-9fef7c2a0cfa"
+Template: "98080663-02a9-4c21-9e76-d8327c58c5c5"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Components/sitemapLinks/category-section"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Category Section
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200312T064036Z
+    - ID: "90b54a40-a85d-45bf-aebb-fff210e8ed37"
+      Hint: title
+      Value: 

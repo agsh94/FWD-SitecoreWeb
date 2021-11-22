@@ -1,0 +1,14 @@
+﻿---
+ID: "9836470f-33eb-40e7-bbc2-7339807ec287"
+Parent: "79cfbc05-6484-4b81-81fa-ea521b2f4551"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Forms/PrivacyPolicy
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191226T121726Z

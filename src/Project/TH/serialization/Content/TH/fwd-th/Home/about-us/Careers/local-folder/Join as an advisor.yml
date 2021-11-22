@@ -1,0 +1,71 @@
+﻿---
+ID: "b0a996ef-8a99-4f0a-a71b-1c520ec7ab53"
+Parent: "8252b599-f428-4e6e-a22e-90e60f04101b"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/about-us/Careers/local-folder/Join as an advisor"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{B096E18E-DAAE-43A8-87DD-1775AD1F16B6}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{7EA908FB-506F-45E9-AB04-2B33B5DCDE2A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200401T051105Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "Our agents are an integral part of what we do. So we offer industry-leading training with best-in-class customer journeys. Come and make a difference with FWD."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d0be2ac7-85f9-4ba4-91da-613370dbd6d6"
+      Hint: secondaryLink
+      Value: 
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Join as an advisor
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Find out more" anchor="" linktype="internal" class="" title=""  querystring="" id="{3D2B1FA1-2913-4020-9AC1-26051FE4D869}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: หากคุณกำลังมองหางานที่จะทำให้คุณหลงรัก ลองสมัครมาคุยกัน
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200401T063256Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: ตัวแทนของเราคือส่วนสำคัญต่อองค์กร เราจึงมอบการฝึกอบรมที่ดีที่สุดในอุตสาหกรรมประกันชีวิต จากผู้เชี่ยวชาญด้าน Customer journeys เพื่อให้เข้าใจและเข้าถึงผู้บริโภคมากที่สุด และเราอยากชวนคุณมาร่วมสร้างความแตกต่างนั้นกับเราที่เอฟดับบลิวดี
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: สมัครเป็นตัวแทนฝ่ายขาย
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="อ่านเพิ่มเติม" anchor="" linktype="internal" class="" title=""  querystring="" id="{3D2B1FA1-2913-4020-9AC1-26051FE4D869}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 

@@ -1,0 +1,14 @@
+﻿---
+ID: "0b61f7a1-3b2c-4397-83be-9695d8630351"
+Parent: "3aa560e6-7ad1-42cb-9d2c-745cf78458d7"
+Template: "8bee9bc5-6dab-4239-9e81-4377e5e0c5b2"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/ValueProtector/PlanSuper/AttributeFolder"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200614T190430Z

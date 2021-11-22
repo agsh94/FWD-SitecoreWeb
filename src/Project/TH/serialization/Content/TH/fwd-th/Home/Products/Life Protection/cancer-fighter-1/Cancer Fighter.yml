@@ -1,0 +1,114 @@
+﻿---
+ID: "14715380-0e71-4b7c-a55d-55a7ca34669f"
+Parent: "c4598c31-ce1e-4924-8408-30786aba6efa"
+Template: "cc866566-6b97-4bdc-814e-353b4d5dc8c0"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Life Protection/cancer-fighter-1/Cancer Fighter"
+DB: master
+SharedFields:
+- ID: "139fac8d-ba0a-462c-a2e2-97b880ecb109"
+  Hint: minimumPremiumYearly
+  Value: 
+- ID: "1d7292b5-07c1-4268-b196-263841c6000a"
+  Hint: key
+  Value: "tool-tip"
+- ID: "2c8cb92b-c54a-48a9-b853-b075c86cf3f5"
+  Hint: isFeatured
+  Type: Checkbox
+  Value: 1
+- ID: "3b1d1a2d-0fe8-4b7f-b2b1-eed79c64bb97"
+  Hint: channel
+  Value: TA
+- ID: "53341179-76ac-497a-a4c4-28eb7c6c422e"
+  Hint: enableEnquiry
+  Type: Checkbox
+  Value: 1
+- ID: "54426e36-0a60-4ada-93f3-916e31cf73af"
+  Hint: minimumSumAssured
+  Value: 100000
+- ID: "653be724-02c5-4bb7-8813-833c6443e1e4"
+  Hint: planCode
+  Value: RC1A
+- ID: "6f7f082e-9af5-4b9c-8b4b-36aec3ffe71a"
+  Hint: minimumSumAssuredRule
+  Type: Multilist
+  Value: 
+- ID: "902204f2-df95-45fa-b348-496743f27a4a"
+  Hint: maximumPremiumYearly
+  Value: 
+- ID: "9cb51dc0-7252-4372-8a9e-42fa7de2b4fd"
+  Hint: minAge
+  Value: "16-0-0"
+- ID: "b78d7fa0-a532-4f1a-90c1-98b0770294d4"
+  Hint: maxAge
+  Value: "65-0-0"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f41f9cfb-6e45-414e-aa8c-84b1c4148545"
+  Hint: maximumSumAssured
+  Value: 3000001
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Cancer Fighter
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191111T061821Z
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: Cancer Fighter
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=1%20year%2C%20premium%20increase%20with%20age&{EB470656-78FE-45D7-AA4A-D7D3051565A0}=16-65%20years&{59310316-8B9D-4849-AD89-E788BD74B265}=100%2C000&{131F3D85-EDAF-40E2-A5F2-598BA702D448}=1%20year%20%28renew%20until%20the%20age%20of%2084%29&{FCD9EAA8-27E0-4DC4-855B-143CAE425A5F}=Up%20to%20100%25%20of%20sum%20assured%20%2850%25%20for%20early%20stage%2C%20another%2050%25%20for%20invasive%20stage%29&{40BA50A3-F7C8-41F6-95C7-B8FAF711634C}=40%25%20for%20outpatient%20treatment%20for%20chemotherapy%2C%20radiotherapy%20bills%20in%20case%20of%20invasive%20cancer&{F77203AC-4793-49AE-8550-78AF196A139F}=Yes%20%28up%20to%20THB%2015%2C000%29"
+    - ID: "b92c2dde-7a5d-47d6-a1a5-beb79513d9e8"
+      Hint: share
+      Type: Checkbox
+      Value: 1
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: Cancer Fighter 
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="Enquire" linktype="form" querystring="enquiry" target="" id="{136AA02C-41C6-4E79-88E1-7893B161A37F}" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: Rider
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055203Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "80d2610b-de95-4849-98f4-c93080246edd"
+      Hint: cardTitle
+      Value: แคนเซอร์ ไฟท์เตอร์
+    - ID: "b5c4c886-3132-4f0f-9997-c352a09fdfc6"
+      Hint: cardAttributes
+      Value: "{20453E64-D8DA-43B1-8C8C-55FE6AD0E376}=1%20%E0%B8%9B%E0%B8%B5%20%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8&{EB470656-78FE-45D7-AA4A-D7D3051565A0}=16-65%20%E0%B8%9B%E0%B8%B5&{59310316-8B9D-4849-AD89-E788BD74B265}=100%2C000&{5003D93E-AD2B-4A75-98A3-720DB202C221}=1%20%E0%B8%9B%E0%B8%B5%20%28%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%96%E0%B8%B6%E0%B8%87%2084%20%E0%B8%9B%E0%B8%B5%29&{FCD9EAA8-27E0-4DC4-855B-143CAE425A5F}=100%25%20%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2%20%2850%25%20%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B0%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B8%B5%E0%B8%81%2050%25%20%E0%B9%83%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%A1%29&{40BA50A3-F7C8-41F6-95C7-B8FAF711634C}=%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%2040%25%20%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%99%E0%B8%AD%E0%B8%81%20%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B8%B5%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%B5%E0%B9%82%E0%B8%A1%2C%20%E0%B8%89%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%AA%E0%B8%87%20%E0%B9%83%E0%B8%99%E0%B8%A1%E0%B8%B0%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%A1&{F77203AC-4793-49AE-8550-78AF196A139F}=%E0%B8%A5%E0%B8%94%E0%B8%AB%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%20%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%2015%2C000%20%E0%B8%9A%E0%B8%B2%E0%B8%97"
+    - ID: "cf514964-cc7f-4e37-a2de-6d85389affd4"
+      Hint: title
+      Value: แคนเซอร์ ไฟท์เตอร์
+    - ID: "d96a778b-3ca3-4cbb-8cb7-ba77f2f6d1e7"
+      Hint: link
+      Value: |
+        <link text="สอบถาม" linktype="form" querystring="enquiry" target="" id="{136AA02C-41C6-4E79-88E1-7893B161A37F}" />
+    - ID: "dae09815-053c-4592-9b39-2af97570bf9a"
+      Hint: cardLabel
+      Value: สัญญาเพิ่มเติม
+    - ID: "fe6b1114-8ec9-4afa-a14b-cdc2f1004ab8"
+      Hint: value
+      Value: 

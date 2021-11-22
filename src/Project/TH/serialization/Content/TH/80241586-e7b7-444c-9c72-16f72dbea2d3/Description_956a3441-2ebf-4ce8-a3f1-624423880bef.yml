@@ -1,0 +1,29 @@
+﻿---
+ID: "956a3441-2ebf-4ce8-a3f1-624423880bef"
+Parent: "80241586-e7b7-444c-9c72-16f72dbea2d3"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/travel-leh-ladakh/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 3200
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T073847Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>Day 2 : Eastern part of Leh</strong><br />
+        <strong>วันที่สอง เรายังคงโดนคุมความประพฤติ ห้ามอาบน้ำ และห้ามเคลื่อนไหวเยอะ เลยเป็นการเริ่มต้นทัวร์รอบเมืองแบบเบาๆ ให้พอได้ว้าว! กับวิว และวัฒนธรรมสุดแสนจะน่ารักของที่นี่</strong><br />
+        <br />
+        <strong>วัด Hemis (เฮมิส)</strong> เป็นหนึ่งในวัดที่มีประวัติศาสตร์ และสำคัญด้านการศึกษาพระพุทธศาสนา ตั้งแอบอยู่ในหุบเขาลึก ส่วนตัวชอบสีสันของตัวตึก ที่เข้ากับวิวภูเขาสลับสีด้านหลังมากๆ ถ่ายรูปเพลินๆ ไม่รู้ตัวได้เป็นชั่วโมงเลยล่ะ

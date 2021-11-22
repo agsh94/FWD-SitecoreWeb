@@ -1,0 +1,82 @@
+﻿---
+ID: "a6084f5c-29d7-4685-be4f-cea377d1559c"
+Parent: "22775086-b853-4aef-a562-f0a8a4bd708c"
+Template: "805d3dc1-232c-4bbf-962a-7e09c6588735"
+Path: "/sitecore/content/fwd/fwd-th/Components/quotes/David Korunic"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c219414-8988-4e9b-a03e-8cc54b2beab6"
+      Hint: authorDesignation
+      Value: Chief Executive Officer
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T031012Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "ab177838-2108-4bb2-82ac-03a82e440304"
+      Hint: authorName
+      Value: David Korunić
+    - ID: "b19f1127-b988-4298-9cce-81213d31c795"
+      Hint: quote
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <span>&ldquo;At FWD, we believe the formula for success is simple: &ldquo;put customers first&rdquo;. So we focus on making the FWD experience fast, simple, and easy &ndash; whether you&rsquo;re buying a plan, making a claim, or dropping by to see us for the very first time. Behind the scenes we&rsquo;re continually working to design and deliver attractive and affordable insurance solutions that will be as relevant tomorrow as they are today. I&rsquo;m hugely proud to work alongside such a talented team, and to see our vision unfold in all kinds of new and exciting ways &ndash; with our customers at the heart of it all.&rdquo;</span>
+        <div style="display: none;">&nbsp;</div>
+    - ID: "e6859686-219c-4d18-b9e5-a84fce8659c3"
+      Hint: image
+      Value: |
+        <image mediaid="{41D9A061-0BDE-495F-ACF4-A2C9140E5A81}" cropx="0.48" cropy="0.41" focusx="-0.04807428728070173" focusy="0.17449951171875" />
+    - ID: "f8216b7d-b3e5-4c42-9a98-56f9e6d4d9d4"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{41D9A061-0BDE-495F-ACF4-A2C9140E5A81}" cropx="0.48" cropy="0.37" focusx="-0.0393023574561403" focusy="0.26434326171875" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c219414-8988-4e9b-a03e-8cc54b2beab6"
+      Hint: authorDesignation
+      Value: ประธานเจ้าหน้าที่บริหาร
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T031538Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "9105704c-6a6d-48eb-b7c9-284fcb29f5bf"
+      Hint: pictogramImage
+      Value: |
+        <image mediaid="{F7D82769-AF23-4E37-B4F1-C32E0C641585}" />
+    - ID: "ab177838-2108-4bb2-82ac-03a82e440304"
+      Hint: authorName
+      Value: เดวิด จอห์น โครูนิช
+    - ID: "b19f1127-b988-4298-9cce-81213d31c795"
+      Hint: quote
+      Value: |
+        <span>ที่เอฟดับบลิวดี เราเชื่อว่าสูตรแห่งความสำเร็จนั้นเรียบง่าย นั่นก็คือ &ldquo;ลูกค้าต้องมาก่อนเสมอ&rdquo; เรามุ่งเน้นไปที่การสร้างประสบการณ์ที่ สะดวก รวดเร็ว และง่ายดาย ไม่ว่าจะเป็นการซื้อแผนประกัน การเรียกร้องสินไหม หรือแม้กระทั่งการแวะมาพูดคุยกับเราครั้งแรก และนั่นก็ทำให้เบื้องหลังการทำงานของเรายังคงเต็มไปด้วยความมุ่งมั่น เพื่อออกแบบแผนประกันที่คุ้มค่าในราคาที่จับต้องได้ ซึ่งเป็นสิ่งที่เราทำอย่างต่อเนื่องเสมอมา และผมก็ภูมิใจมากที่ได้ทำงานเคียงข้างกับทีมที่เปี่ยมไปด้วยความสามารถ และได้เห็นสิ่งใหม่ๆ มากมายที่น่าตื่นเต้น ซึ่งล้วนเกิดจากวิสัยทัศน์ที่ยึดลูกค้าของเราเป็นหัวใจสำคัญ</span>
+        <div style="display: none;">&nbsp;</div>
+    - ID: "e6859686-219c-4d18-b9e5-a84fce8659c3"
+      Hint: image
+      Value: |
+        <image mediaid="{41D9A061-0BDE-495F-ACF4-A2C9140E5A81}" cropx="0.49" cropy="0.39" focusx="-0.012986567982456121" focusy="0.22528076171875" />
+    - ID: "f8216b7d-b3e5-4c42-9a98-56f9e6d4d9d4"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{41D9A061-0BDE-495F-ACF4-A2C9140E5A81}" />

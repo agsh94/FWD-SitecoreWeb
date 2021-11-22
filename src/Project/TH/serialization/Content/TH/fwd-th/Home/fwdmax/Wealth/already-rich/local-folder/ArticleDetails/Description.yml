@@ -1,0 +1,24 @@
+﻿---
+ID: "6834b2a6-c59b-4b99-bd1a-1162360f00f8"
+Parent: "6353405e-10a5-41e4-8a23-656cdcb1f733"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Wealth/already-rich/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T063146Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>2. หันเตียงให้ถูกทิศ</strong>
+        </p>
+        <p>มาที่ศาสตร์ของทางจีน ในการปฎิบัติตนตามหลังฮวงจุ้ยดูบ้าง ในเรื่องการทิศทางการตั้งเตียงนอน ตามตำราบอกไว้ว่า อย่าตั้งเตียงนอนโดยเอาหัวเตียงหันไปชนกับผนังห้องน้ำ เพราะจะทำให้เสื่อมโชค กลับไปเช็กเตียงที่บ้านตัวเองเลยนะ ว่าหันถูกทิศถูกทางแล้วหรือยัง ถ้าหันไปทางทิศตะวันออกได้ จะดีมากๆ</p>

@@ -1,0 +1,1221 @@
+﻿---
+ID: "cd8ef021-ec5c-469f-bbdb-e4c21d3de08b"
+Parent: "fd76e393-a727-41dc-ad01-72300e65f86b"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/bangkok-hospital/local-folder/Article Description Area/Description2"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-100"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200412T090124Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>เงื่อนไขการใช้สิทธิ์</strong></p>
+        <ul>
+            <li>สิทธิพิเศษนี้สำหรับลูกค้าเอฟดับบลิวดีที่เป็นผู้เอาประกันเท่านั้น และไม่สามารถโอนสิทธิ์ให้บุคคลอื่นได้ทุกกรณี</li>
+            <li>จำกัด 1 สิทธิ์ / 1 คน / 1 ของรางวัล / ปี</li>
+            <li>ของรางวัลเป็นไปตามที่บริษัทกำหนด ไม่สามารถเปลี่ยนหรือแลกเป็นของรางวัลอย่างอื่นได้ในทุกกรณี</li>
+            <li>ระยะเวลาการรับสิทธิ์ภายใน 2 เดือน นับจากเดือนของวันเกิดของลูกค้าที่ได้รับสิทธิ์</li>
+            <li>บริษัทฯ ขอสงวนสิทธิ์ในการเปลี่ยนแปลงเงื่อนไขโดยไม่จำเป็นต้องแจ้งให้ทราบล่วงหน้า</li>
+            <li>เงื่อนไขในการใช้บัตรกำนัลหรือของรางวัลเป็นไปตามที่ร้านค้ากำหนด</li>
+            <li>คำตัดสินใดๆของบริษัทฯ ถือเป็นที่สิ้นสุด</li>
+        </ul>
+        <div>&nbsp;</div>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200812T172725Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Chaiyawat
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>วิธีการรับสิทธิ์</strong></p>
+        <p style="margin-left: 40px;">แลกรับสิทธิ์ผ่าน FWD MAX (ใช้ 50 แต้ม) รับรหัสส่วนลดโดยกรอกรหัสที่ได้รับในช่องรหัสโปรโมชั่น เมื่อซื้อ Dusit Care Card ผ่านเว็บไซต์ www.dusitgiftcard.com ภายใน 30 นาทีหลังจากแลกสิทธิ์สมบูรณ์แล้ว รับสิทธิ์ได้ถึงวันที่ 31 ตุลาคม 2563 หรือจนกว่าสิทธิ์จะหมด</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <p><strong>เงื่อนไขการใช้สิทธิ์</strong></p>
+        <ul>
+            <li>สิทธิพิเศษนี้สำหรับลูกค้าเอฟดับบลิวดีที่เป็นผู้เอาประกันเท่านั้น และไม่สามารถโอนสิทธิ์ให้บุคคลอื่นได้ทุกกรณี</li>
+            <li>สิทธิพิเศษนี้สำหรับลูกค้าเอฟดับบลิวดี Prompt, Plus และ Pride ที่ชำระค่าเบี้ยตามเงื่อนไข</li>
+            <li>สำรองห้องพักล่วงหน้าอย่างน้อย 7 วันผ่านทาง www.dusitgiftcard.com พร้อมระบุรหัสการจองหลังบัตร รหัสการจองนี้ขึ้นอยู่กับประเภทของบัตรกำนัลที่ทำการสั่งซื้อ และการสำรองห้องพัก ขึ้นอยู่กับจำนวนห้องว่าง</li>
+            <li>โปรดแสดงบัตรกำนัลห้องพักตัวจริง หรือ บัตรกำนัลห้องพักอิเล็กทรอนิกส์ตัวจริงกับพนักงานโรงแรมเมื่อเข้าพัก หากท่านไม่แสดงบัตรกำนัลโรงแรมขอสงวนสิทธิ์ในการเรียกเก็บค่าเข้าพักคืนแรกในอัตรา Dusit Best Available Rate&nbsp;</li>
+            <li>ในกรณีที่ไม่แสดงตัว หรือยกเลิกการเข้าพัก โรงแรมขอสงวนสิทธิ์ในการเรียกเก็บค่าเข้าพักในอัตรา Dusit Best Available Rate จากบัตรเครดิตของลูกค้า ตามเงื่อนไขของโรงแรม</li>
+            <li>นโยบายการยกเลิก หรือเปลี่ยนแปลงวันเข้าพัก สามารถทำได้ผ่านทาง www.dusitgiftcard.com หรือติดต่อ Call Centre ก่อนถึงกำหนดวันเข้าพักอย่างน้อย 7 วัน</li>
+            <li>กรณีบัตรกำนัลห้องพักชำรุด สูญหาย หรือถูกขโมย โรงแรมฯ ขอสงวนสิทธิ์ในการออกบัตรใหม่ และไม่สามารถชดเชยมูลค่าคงเหลือในบัตรได้</li>
+            <li>บัตรกำนัล Dusit Care Card มีอายุการใช้งานถึงวันที่ 31 ธันวาคม 2564&nbsp;</li>
+            <li>คำตัดสินใดๆ ของบริษัทฯ ถือเป็นที่สิ้นสุด</li>
+        </ul>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200812T172725Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200813T023130Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>วิธีการรับสิทธิ์</strong></p>
+        <p style="margin-left: 40px;">แลกรับสิทธิ์ผ่าน FWD MAX (ใช้ 50 แต้ม) รับรหัสส่วนลดโดยกรอกรหัสที่ได้รับในช่องรหัสโปรโมชั่น เมื่อซื้อ Dusit Care Card ผ่านเว็บไซต์ <a href="http://https://www.dusitgiftcard.com/">www.dusitgiftcard.com</a> ภายใน 30 นาทีหลังจากแลกสิทธิ์สมบูรณ์แล้ว รับสิทธิ์ได้ถึงวันที่ 31 ตุลาคม 2563 หรือจนกว่าสิทธิ์จะหมด</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <p><strong>เงื่อนไขการใช้สิทธิ์</strong></p>
+        <ul>
+            <li>สิทธิพิเศษนี้สำหรับลูกค้าเอฟดับบลิวดีที่เป็นผู้เอาประกันเท่านั้น และไม่สามารถโอนสิทธิ์ให้บุคคลอื่นได้ทุกกรณี</li>
+            <li>สิทธิพิเศษนี้สำหรับลูกค้าเอฟดับบลิวดี Prompt, Plus และ Pride ที่ชำระค่าเบี้ยตามเงื่อนไข</li>
+            <li>สำรองห้องพักล่วงหน้าอย่างน้อย 7 วันผ่านทาง www.dusitgiftcard.com พร้อมระบุรหัสการจองหลังบัตร รหัสการจองนี้ขึ้นอยู่กับประเภทของบัตรกำนัลที่ทำการสั่งซื้อ และการสำรองห้องพัก ขึ้นอยู่กับจำนวนห้องว่าง</li>
+            <li>โปรดแสดงบัตรกำนัลห้องพักตัวจริง หรือ บัตรกำนัลห้องพักอิเล็กทรอนิกส์ตัวจริงกับพนักงานโรงแรมเมื่อเข้าพัก หากท่านไม่แสดงบัตรกำนัลโรงแรมขอสงวนสิทธิ์ในการเรียกเก็บค่าเข้าพักคืนแรกในอัตรา Dusit Best Available Rate&nbsp;</li>
+            <li>ในกรณีที่ไม่แสดงตัว หรือยกเลิกการเข้าพัก โรงแรมขอสงวนสิทธิ์ในการเรียกเก็บค่าเข้าพักในอัตรา Dusit Best Available Rate จากบัตรเครดิตของลูกค้า ตามเงื่อนไขของโรงแรม</li>
+            <li>นโยบายการยกเลิก หรือเปลี่ยนแปลงวันเข้าพัก สามารถทำได้ผ่านทาง www.dusitgiftcard.com หรือติดต่อ Call Centre ก่อนถึงกำหนดวันเข้าพักอย่างน้อย 7 วัน</li>
+            <li>กรณีบัตรกำนัลห้องพักชำรุด สูญหาย หรือถูกขโมย โรงแรมฯ ขอสงวนสิทธิ์ในการออกบัตรใหม่ และไม่สามารถชดเชยมูลค่าคงเหลือในบัตรได้</li>
+            <li>บัตรกำนัล Dusit Care Card มีอายุการใช้งานถึงวันที่ 31 ธันวาคม 2564&nbsp;</li>
+            <li>คำตัดสินใดๆ ของบริษัทฯ ถือเป็นที่สิ้นสุด</li>
+        </ul>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200813T023130Z
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200813T023425Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>วิธีการรับสิทธิ์</strong></p>
+        <p style="margin-left: 40px;">แลกรับสิทธิ์ผ่าน FWD MAX (ใช้ 50 แต้ม) รับรหัสส่วนลดโดยกรอกรหัสที่ได้รับในช่องรหัสโปรโมชั่น เมื่อซื้อ Dusit Care Card ผ่านเว็บไซต์ <a rel="noopener noreferrer" href="https://www.dusitgiftcard.com/" target="_blank">www.dusitgiftcard.com</a> ภายใน 30 นาทีหลังจากแลกสิทธิ์สมบูรณ์แล้ว รับสิทธิ์ได้ถึงวันที่ 31 ตุลาคม 2563 หรือจนกว่าสิทธิ์จะหมด</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <p><strong>เงื่อนไขการใช้สิทธิ์</strong></p>
+        <ul>
+            <li>สิทธิพิเศษนี้สำหรับลูกค้าเอฟดับบลิวดีที่เป็นผู้เอาประกันเท่านั้น และไม่สามารถโอนสิทธิ์ให้บุคคลอื่นได้ทุกกรณี</li>
+            <li>สิทธิพิเศษนี้สำหรับลูกค้าเอฟดับบลิวดี Prompt, Plus และ Pride ที่ชำระค่าเบี้ยตามเงื่อนไข</li>
+            <li>สำรองห้องพักล่วงหน้าอย่างน้อย 7 วันผ่านทาง www.dusitgiftcard.com พร้อมระบุรหัสการจองหลังบัตร รหัสการจองนี้ขึ้นอยู่กับประเภทของบัตรกำนัลที่ทำการสั่งซื้อ และการสำรองห้องพัก ขึ้นอยู่กับจำนวนห้องว่าง</li>
+            <li>โปรดแสดงบัตรกำนัลห้องพักตัวจริง หรือ บัตรกำนัลห้องพักอิเล็กทรอนิกส์ตัวจริงกับพนักงานโรงแรมเมื่อเข้าพัก หากท่านไม่แสดงบัตรกำนัลโรงแรมขอสงวนสิทธิ์ในการเรียกเก็บค่าเข้าพักคืนแรกในอัตรา Dusit Best Available Rate&nbsp;</li>
+            <li>ในกรณีที่ไม่แสดงตัว หรือยกเลิกการเข้าพัก โรงแรมขอสงวนสิทธิ์ในการเรียกเก็บค่าเข้าพักในอัตรา Dusit Best Available Rate จากบัตรเครดิตของลูกค้า ตามเงื่อนไขของโรงแรม</li>
+            <li>นโยบายการยกเลิก หรือเปลี่ยนแปลงวันเข้าพัก สามารถทำได้ผ่านทาง www.dusitgiftcard.com หรือติดต่อ Call Centre ก่อนถึงกำหนดวันเข้าพักอย่างน้อย 7 วัน</li>
+            <li>กรณีบัตรกำนัลห้องพักชำรุด สูญหาย หรือถูกขโมย โรงแรมฯ ขอสงวนสิทธิ์ในการออกบัตรใหม่ และไม่สามารถชดเชยมูลค่าคงเหลือในบัตรได้</li>
+            <li>บัตรกำนัล Dusit Care Card มีอายุการใช้งานถึงวันที่ 31 ธันวาคม 2564&nbsp;</li>
+            <li>คำตัดสินใดๆ ของบริษัทฯ ถือเป็นที่สิ้นสุด</li>
+        </ul>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200813T023425Z
+  - Version: 5
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200817T074421Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Chaiyawat
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ลูกค้าเอฟดับบลิวดีรับส่วนลด และแพ็คเกจพิเศษต่างๆ จากเครือโรงพยาบาลกรุงเทพฯ 7 แห่ง ดังต่อไปนี้&nbsp;</p>
+        <p>&nbsp;</p>
+        <table style="height: 1163px; width: 931px; border-color: #a5a5a5;">
+            <tbody>
+                <tr>
+                    <td style="text-align: left;"><strong>สาขา</strong></td>
+                    <td style="text-align: left;"><strong>สิทธิพิเศษ</strong></td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ(ซอยศูนย์วิจัย)</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>แพ็คเกจตรวจสุขภาพ</strong></p>
+                    <p>&nbsp; - Executive Male (EST) ราคา 14,500 บาท<br />
+                    &nbsp; - Executive Female (EST) ราคา 19,900 บาท<br />
+                    &nbsp; - Supreme Male (EST) ราคา 18,600 บาท<br />
+                    &nbsp; - Supreme Female (EST) ราคา 23,500 บาท<strong></strong></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ เชียงใหม่</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>แพ็คเกจพิเศษ</strong><br />
+                    &nbsp; - วัคซีนไข้หวัดใหญ่ 4 สายพันธุ์ (อายุ 16 ปีขึ้นไป) ราคา 1,000 บาท<br />
+                    &nbsp; - ตรวจคัดกรองมะเร็งเต้านม ราคา 3,500 บาท</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ ขอนแก่น</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p style="text-align: left;"><strong>&nbsp;</strong></p>
+                    <p style="text-align: left;"><strong>แพ็คเกจตรวจสุขภาพ</strong><br />
+                    &nbsp; - Basic Check Up (สำหรับอายุต่ำกว่า 30 ปี) ราคา 2,100 บาท<br />
+                    &nbsp; - ตรวจสุขภาพก่อนวิวาห์<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้ชาย ราคา 3,000 บาท<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้หญิง ราคา 3,500 บาท<br />
+                    &nbsp; - Advance Check Up (สำหรับอายุ 30-40 ปี)<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้ชาย ราคา 6,900 บาท<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้หญิง ราคา 8,900 บาท<br />
+                    &nbsp; - Executive Check Up (สำหรับอายุ 40-50 ปี)<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้ชาย ราคา 10,900 บาท<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้หญิง ราคา 13,900 บาท<br />
+                    &nbsp; - Absolute Check Up (สำหรับอายุ 50 ปีขึ้นไป)<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้ชาย ราคา 14,900 บาท<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้หญิง ราคา 17,900 บาท<br />
+                    <br />
+                    <strong>แพ็คเกจพิเศษ</strong><br />
+                    &nbsp; - วัคซีนไข้หวัดใหญ่ 4 สายพันธุ์ (อายุ 15 ปีขึ้นไป) ราคา 850 บาท<br />
+                    &nbsp; - วัคซีนป้องกันไวรัสตับอักเสบบี 3 เข็ม ราคา 2,500 บาท</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ อุดร</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>แพ็คเกจพิเศษ<br />
+                    </strong>&nbsp; - วัคซีนไข้หวัดใหญ่ (อายุ 15 ปีขึ้นไป) ราคา 690 บาท<br />
+                    &nbsp; - ตรวจคัดกรองมะเร็งลำไส้ ราคา 2,290 บาท<br />
+                    &nbsp; - ตรวจคัดกรองมะเร็งปากมดลูก ราคา 3,390 บาท<br />
+                    &nbsp; - ตรวจคัดกรองมะเร็งต่อมลูกหมาก ราคา 4,390 บาท<br />
+                    &nbsp; - ตรวจคัดกรองมะเร็งเต้านม ราคา 4,390 บาท<br />
+                    &nbsp; - ตรวจคัดกรองมะเร็งตับ ราคา 5,490 บาท<strong><br />
+                    <br />
+                    ส่วนลดพิเศษ<br />
+                    </strong>&nbsp; - 10% สำหรับค่ายา<br />
+                    &nbsp; - 10% สำหรับค่าห้อง</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ ปากช่อง</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>แพ็คเกจพิเศษ</strong><br />
+                    &nbsp; - วัคซีนไข้หวัดใหญ่ (อายุ 15 ปีขึ้นไป) ราคา 600 บาท<br />
+                    <br />
+                    <strong>ส่วนลดพิเศษ</strong><br />
+                    &nbsp; - 40% สำหรับแพ็คเกจตรวจสุขภาพ</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ พัทยา</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>ส่วนลดพิเศษ</strong><br />
+                    &nbsp; - 15% สำหรับค่าขูดหินปูน<br />
+                    &nbsp; - 10% สำหรับค่ายา ยกเว้นวัคซีนและหมวดยาพิเศษ<br />
+                    &nbsp; - 10% สำหรับค่าห้อง ยกเว้น ICU / CCU / NICU / PICU<br />
+                    &nbsp; - 5% สำหรับค่าทัตกรรมทั่วไป และทันตกรรมเด็ก</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ ภูเก็ต</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>แแพ็คเกจพิเศษ<br />
+                    </strong>&nbsp; - วัคซีนไข้หวัดใหญ่ (อายุ 15 ปีขึ้นไป) ราคา 650 บาท<br />
+                    &nbsp; - ตรวจการตีบตันหลอดเลือดของหัวใจ (CTA) ราคา 13,000 บาท<strong><br />
+                    <br />
+                    ส่วนลดพิเศษ<br />
+                    </strong>&nbsp; - 10% สำหรับค่ายา ยกเว้นค่ายาพิเศษ</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>วิธีการรับสิทธิ์</strong></p>
+        <p style="margin-left: 40px;">แลกรับสิทธิ์ผ่าน FWD MAX (ใช้ 50 แต้ม) โดยต้องแสดงรหัสที่ได้รับเพื่อเข้าใช้บริการที่โรงพยาบาล ภายใน 30 นาทีหลังจากแลกสิทธิ์สมบูรณ์แล้ว<strong><br />
+        </strong></p>
+        <p><strong></strong></p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>เงื่อนไขการใช้สิทธิ์<br />
+        </strong></p>
+        <ul>
+            <li>กรุณาสำรองสิทธิ์ และตรวจสอบเงื่อนไขการใช้สิทธิพิเศษต่างๆ ที่โรงพยาบาลก่อนกดรับสิทธิพิเศษ</li>
+            <li>สามารถใช้สิทธิ์ได้ตั้งแต่วันนี้ จนถึงระยะเวลาที่กำหนดของแต่ละโรงพยาบาล</li>
+            <li>หากไม่ได้ใช้สิทธิ์ภายใน 30 นาทีหลังจากกดรับสิทธิ์ บริษัทขอสงวนสิทธิ์ในการคืนแต้มในทุกกรณี</li>
+            <li>สิทธิพิเศษนี้สำหรับลูกค้าเอฟดับบลิวดีที่เป็นผู้เอาประกันเท่านั้น และไม่สามารถโอนสิทธิ์ให้บุคคลอื่นได้ทุกกรณี</li>
+            <li>สิทธิพิเศษนี้สำหรับลูกค้าเอฟดับบลิวดี Prompt, Plus และ Pride ที่ชำระค่าเบี้ยตามเงื่อนไข</li>
+            <li>รับสิทธิพิเศษได้สูงสุด 1 สิทธิ์ / โรงพยาบาล</li>
+            <li>เงื่อนไขการใช้บริการเป็นไปตามที่แต่ละโรงพยาบาลกำหนด</li>
+            <li>บริษัทฯ ขอสงวนสิทธิ์ในการเปลี่ยนแปลงรูปแบบแพ็คเกจ หรือรายการในแพ็คเกจต่างๆ หรือเงื่อนไขโดยไม่ต้องแจ้งให้ทราบล่วงหน้า</li>
+            <li>คำตัดสินใดๆ ของบริษัทฯ หรือโรงพยาบาลถือเป็นที่สิ้นสุด</li>
+        </ul>
+        <ul>
+        </ul>
+        <ul>
+        </ul>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200817T074421Z
+  - Version: 6
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200821T070809Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Chaiyawat
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ลูกค้าเอฟดับบลิวดีรับส่วนลด และแพ็คเกจพิเศษต่างๆ จากเครือโรงพยาบาลกรุงเทพฯ 7 แห่ง ดังต่อไปนี้&nbsp;</p>
+        <p>&nbsp;</p>
+        <table style="height: 1163px; width: 931px; border-color: #a5a5a5;">
+            <tbody>
+                <tr>
+                    <td style="text-align: left;"><strong>สาขา</strong></td>
+                    <td style="text-align: left;"><strong>สิทธิพิเศษ</strong></td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ(ซอยศูนย์วิจัย)</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>แพ็คเกจตรวจสุขภาพ</strong></p>
+                    <p>&nbsp; - Executive Male (EST) ราคา 14,500 บาท<br />
+                    &nbsp; - Executive Female (EST) ราคา 19,900 บาท<br />
+                    &nbsp; - Supreme Male (EST) ราคา 18,600 บาท<br />
+                    &nbsp; - Supreme Female (EST) ราคา 23,500 บาท<strong></strong></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ เชียงใหม่</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>แพ็คเกจพิเศษ</strong><br />
+                    &nbsp; - วัคซีนไข้หวัดใหญ่ 4 สายพันธุ์ (อายุ 16 ปีขึ้นไป) ราคา 1,000 บาท<br />
+                    &nbsp; - ตรวจคัดกรองมะเร็งเต้านม ราคา 3,500 บาท</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ ขอนแก่น</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p style="text-align: left;"><strong>&nbsp;</strong></p>
+                    <p style="text-align: left;"><strong>แพ็คเกจตรวจสุขภาพ</strong><br />
+                    &nbsp; - Basic Check Up (สำหรับอายุต่ำกว่า 30 ปี) ราคา 2,100 บาท<br />
+                    &nbsp; - ตรวจสุขภาพก่อนวิวาห์<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้ชาย ราคา 3,000 บาท<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้หญิง ราคา 3,500 บาท<br />
+                    &nbsp; - Advance Check Up (สำหรับอายุ 30-40 ปี)<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้ชาย ราคา 6,900 บาท<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้หญิง ราคา 8,900 บาท<br />
+                    &nbsp; - Executive Check Up (สำหรับอายุ 40-50 ปี)<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้ชาย ราคา 10,900 บาท<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้หญิง ราคา 13,900 บาท<br />
+                    &nbsp; - Absolute Check Up (สำหรับอายุ 50 ปีขึ้นไป)<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้ชาย ราคา 14,900 บาท<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้หญิง ราคา 17,900 บาท<br />
+                    <br />
+                    <strong>แพ็คเกจพิเศษ</strong><br />
+                    &nbsp; - วัคซีนไข้หวัดใหญ่ 4 สายพันธุ์ (อายุ 15 ปีขึ้นไป) ราคา 850 บาท<br />
+                    &nbsp; - วัคซีนป้องกันไวรัสตับอักเสบบี 3 เข็ม ราคา 2,500 บาท</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ อุดร</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>แพ็คเกจพิเศษ<br />
+                    </strong>&nbsp; - วัคซีนไข้หวัดใหญ่ (อายุ 15 ปีขึ้นไป) ราคา 690 บาท</p>
+                    <p>&nbsp;</p>
+                    <p><strong>แพ็คเกจตรวจคัดกรองมะเร็ง</strong><br />
+                    &nbsp; - มะเร็งลำไส้ ราคา 2,290 บาท<br />
+                    &nbsp; - มะเร็งปากมดลูก ราคา 3,390 บาท<br />
+                    &nbsp; - มะเร็งต่อมลูกหมาก ราคา 4,390 บาท<br />
+                    &nbsp; - มะเร็งเต้านม ราคา 4,390 บาท<br />
+                    &nbsp; - มะเร็งตับ ราคา 5,490 บาท<strong><br />
+                    <br />
+                    ส่วนลดพิเศษ<br />
+                    </strong>&nbsp; - 10% สำหรับค่ายา<br />
+                    &nbsp; - 10% สำหรับค่าห้อง</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ ปากช่อง</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>แพ็คเกจพิเศษ</strong><br />
+                    &nbsp; - วัคซีนไข้หวัดใหญ่ (อายุ 15 ปีขึ้นไป) ราคา 600 บาท<br />
+                    <br />
+                    <strong>ส่วนลดพิเศษ</strong><br />
+                    &nbsp; - 40% สำหรับแพ็คเกจตรวจสุขภาพ</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ พัทยา</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>ส่วนลดพิเศษ</strong><br />
+                    &nbsp; - 15% สำหรับค่าขูดหินปูน<br />
+                    &nbsp; - 10% สำหรับค่ายา ยกเว้นวัคซีนและหมวดยาพิเศษ<br />
+                    &nbsp; - 10% สำหรับค่าห้อง ยกเว้น ICU / CCU / NICU / PICU<br />
+                    &nbsp; - 5% สำหรับค่าทัตกรรมทั่วไป และทันตกรรมเด็ก</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ ภูเก็ต</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>แแพ็คเกจพิเศษ<br />
+                    </strong>&nbsp; - วัคซีนไข้หวัดใหญ่ (อายุ 15 ปีขึ้นไป) ราคา 650 บาท<br />
+                    &nbsp; - ตรวจการตีบตันหลอดเลือดของหัวใจ (CTA) ราคา 13,000 บาท<strong><br />
+                    <br />
+                    ส่วนลดพิเศษ<br />
+                    </strong>&nbsp; - 10% สำหรับค่ายา ยกเว้นค่ายาพิเศษ</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>วิธีการรับสิทธิ์</strong></p>
+        <p style="margin-left: 40px;">แลกรับสิทธิ์ผ่าน FWD MAX (ใช้ 50 แต้ม) โดยต้องแสดงรหัสที่ได้รับเพื่อเข้าใช้บริการที่โรงพยาบาล ภายใน 30 นาทีหลังจากแลกสิทธิ์สมบูรณ์แล้ว</p>
+        <p><strong></strong></p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>เงื่อนไขการใช้สิทธิ์<br />
+        </strong></p>
+        <ul>
+            <li>กรุณาสำรองสิทธิ์ และตรวจสอบเงื่อนไขการใช้สิทธิพิเศษต่างๆ ที่โรงพยาบาลก่อนกดรับสิทธิพิเศษ</li>
+            <li>สามารถใช้สิทธิ์ได้ตั้งแต่วันนี้ จนถึงระยะเวลาที่กำหนดของแต่ละโรงพยาบาล</li>
+            <li>หากไม่ได้ใช้สิทธิ์ภายใน 30 นาทีหลังจากกดรับสิทธิ์ บริษัทขอสงวนสิทธิ์ในการคืนแต้มในทุกกรณี</li>
+            <li>สิทธิพิเศษนี้สำหรับลูกค้าเอฟดับบลิวดีที่เป็นผู้เอาประกันเท่านั้น และไม่สามารถโอนสิทธิ์ให้บุคคลอื่นได้ทุกกรณี</li>
+            <li>สิทธิพิเศษนี้สำหรับลูกค้าเอฟดับบลิวดี Prompt, Plus และ Pride ที่ชำระค่าเบี้ยตามเงื่อนไข</li>
+            <li>รับสิทธิพิเศษได้สูงสุด 1 สิทธิ์ / โรงพยาบาล</li>
+            <li>เงื่อนไขการใช้บริการเป็นไปตามที่แต่ละโรงพยาบาลกำหนด</li>
+            <li>สามารถแลกรับสิทธิ์ และเข้าใช้บริการได้ตั้งแต่วันนี้ ถึง 31 ธันวาคม 2563</li>
+            <li>บริษัทฯ ขอสงวนสิทธิ์ในการเปลี่ยนแปลงรูปแบบแพ็คเกจ หรือรายการในแพ็คเกจต่างๆ หรือเงื่อนไขโดยไม่ต้องแจ้งให้ทราบล่วงหน้า</li>
+            <li>คำตัดสินใดๆ ของบริษัทฯ หรือโรงพยาบาลถือเป็นที่สิ้นสุด</li>
+        </ul>
+        <ul>
+        </ul>
+        <ul>
+        </ul>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200821T070809Z
+  - Version: 7
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200927T121952Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Chaiyawat
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ลูกค้าเอฟดับบลิวดีรับส่วนลด และแพ็คเกจพิเศษต่างๆ จากเครือโรงพยาบาลกรุงเทพฯ 7 แห่ง ดังต่อไปนี้&nbsp;</p>
+        <p>&nbsp;</p>
+        <table style="height: 1163px; width: 931px; border-color: #a5a5a5;">
+            <tbody>
+                <tr>
+                    <td style="text-align: left;"><strong>สาขา</strong></td>
+                    <td style="text-align: left;"><strong>สิทธิพิเศษ</strong></td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ(ซอยศูนย์วิจัย)</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>แพ็คเกจตรวจสุขภาพ</strong></p>
+                    <p>&nbsp; - Executive Male (EST) ราคา 14,500 บาท<br />
+                    &nbsp; - Executive Female (EST) ราคา 19,900 บาท<br />
+                    &nbsp; - Supreme Male (EST) ราคา 18,600 บาท<br />
+                    &nbsp; - Supreme Female (EST) ราคา 23,500 บาท<strong></strong></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ เชียงใหม่</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>แพ็คเกจพิเศษ</strong><br />
+                    &nbsp; - วัคซีนไข้หวัดใหญ่ 4 สายพันธุ์ (อายุ 16 ปีขึ้นไป) ราคา 1,000 บาท<br />
+                    &nbsp; - ตรวจคัดกรองมะเร็งเต้านม ราคา 3,500 บาท</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ ขอนแก่น</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p style="text-align: left;"><strong>&nbsp;</strong></p>
+                    <p style="text-align: left;"><strong>แพ็คเกจตรวจสุขภาพ</strong><br />
+                    &nbsp; - Basic Check Up (สำหรับอายุต่ำกว่า 30 ปี) ราคา 2,100 บาท<br />
+                    &nbsp; - ตรวจสุขภาพก่อนวิวาห์<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้ชาย ราคา 3,000 บาท<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้หญิง ราคา 3,500 บาท<br />
+                    &nbsp; - Advance Check Up (สำหรับอายุ 30-40 ปี)<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้ชาย ราคา 6,900 บาท<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้หญิง ราคา 8,900 บาท<br />
+                    &nbsp; - Executive Check Up (สำหรับอายุ 40-50 ปี)<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้ชาย ราคา 10,900 บาท<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้หญิง ราคา 13,900 บาท<br />
+                    &nbsp; - Absolute Check Up (สำหรับอายุ 50 ปีขึ้นไป)<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้ชาย ราคา 14,900 บาท<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้หญิง ราคา 17,900 บาท<br />
+                    <br />
+                    <strong>แพ็คเกจพิเศษ</strong><br />
+                    &nbsp; - วัคซีนไข้หวัดใหญ่ 4 สายพันธุ์ (อายุ 15 ปีขึ้นไป) ราคา 850 บาท<br />
+                    &nbsp; - วัคซีนป้องกันไวรัสตับอักเสบบี 3 เข็ม ราคา 2,500 บาท</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ อุดร</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>แพ็คเกจพิเศษ<br />
+                    </strong>&nbsp; - วัคซีนไข้หวัดใหญ่ (อายุ 15 ปีขึ้นไป) ราคา 690 บาท</p>
+                    <p>&nbsp;</p>
+                    <p><strong>แพ็คเกจตรวจคัดกรองมะเร็ง</strong><br />
+                    &nbsp; - มะเร็งลำไส้ ราคา 2,290 บาท<br />
+                    &nbsp; - มะเร็งปากมดลูก ราคา 3,390 บาท<br />
+                    &nbsp; - มะเร็งต่อมลูกหมาก ราคา 4,390 บาท<br />
+                    &nbsp; - มะเร็งเต้านม ราคา 4,390 บาท<br />
+                    &nbsp; - มะเร็งตับ ราคา 5,490 บาท<strong><br />
+                    <br />
+                    ส่วนลดพิเศษ<br />
+                    </strong>&nbsp; - 10% สำหรับค่ายา<br />
+                    &nbsp; - 10% สำหรับค่าห้อง</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ ปากช่อง</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>แพ็คเกจพิเศษ</strong><br />
+                    &nbsp; - วัคซีนไข้หวัดใหญ่ (อายุ 15 ปีขึ้นไป) ราคา 600 บาท<br />
+                    <br />
+                    <strong>ส่วนลดพิเศษ</strong><br />
+                    &nbsp; - 40% สำหรับแพ็คเกจตรวจสุขภาพ</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ พัทยา</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>ส่วนลดพิเศษ</strong><br />
+                    &nbsp; - 15% สำหรับค่าขูดหินปูน<br />
+                    &nbsp; - 10% สำหรับค่ายา ยกเว้นวัคซีนและหมวดยาพิเศษ<br />
+                    &nbsp; - 10% สำหรับค่าห้อง ยกเว้น ICU / CCU / NICU / PICU<br />
+                    &nbsp; - 5% สำหรับค่าทัตกรรมทั่วไป และทันตกรรมเด็ก</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ ภูเก็ต</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>แแพ็คเกจพิเศษ<br />
+                    </strong>&nbsp; - วัคซีนไข้หวัดใหญ่ (อายุ 15 ปีขึ้นไป) ราคา 650 บาท<br />
+                    &nbsp; - ตรวจการตีบตันหลอดเลือดของหัวใจ (CTA) ราคา 13,000 บาท<strong><br />
+                    <br />
+                    ส่วนลดพิเศษ<br />
+                    </strong>&nbsp; - 10% สำหรับค่ายา ยกเว้นค่ายาพิเศษ</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>วิธีการรับสิทธิ์</strong></p>
+        <p style="margin-left: 40px;">แลกรับสิทธิ์ผ่าน FWD MAX (ใช้ 50 แต้ม) โดยต้องแสดงรหัสที่ได้รับเพื่อเข้าใช้บริการที่โรงพยาบาล ภายใน 30 นาทีหลังจากแลกสิทธิ์สมบูรณ์แล้ว</p>
+        <p><strong></strong></p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>เงื่อนไขการใช้สิทธิ์<br />
+        </strong></p>
+        <ul>
+            <li>กรุณาสำรองสิทธิ์ และตรวจสอบเงื่อนไขการใช้สิทธิพิเศษต่างๆ ที่โรงพยาบาลก่อนกดรับสิทธิพิเศษ</li>
+            <li>สามารถใช้สิทธิ์ได้ตั้งแต่วันนี้ จนถึงระยะเวลาที่กำหนดของแต่ละโรงพยาบาล</li>
+            <li>หากไม่ได้ใช้สิทธิ์ภายใน 30 นาทีหลังจากกดรับสิทธิ์ บริษัทขอสงวนสิทธิ์ในการคืนแต้มในทุกกรณี</li>
+            <li>สิทธิพิเศษนี้สำหรับลูกค้าเอฟดับบลิวดีที่เป็นผู้เอาประกันเท่านั้น และไม่สามารถโอนสิทธิ์ให้บุคคลอื่นได้ทุกกรณี</li>
+            <li>สิทธิพิเศษนี้สำหรับลูกค้าเอฟดับบลิวดี Prompt, Plus และ Pride ที่ชำระค่าเบี้ยตามเงื่อนไข</li>
+            <li>ขอสงวนสิทธิสำหรับลูกค้าผู้เอาประกันภัย ที่ชำระเบี้ยประกันตามประเภทกรมธรรม์ที่กำหนด ภายใต้เงื่อนไขการคำนวณของบริษัทฯ ยกเว้นกรมธรรม์ที่ซื้อผ่านธนาคารไทยพาณิชย์หรือตัวแทนเดิม&nbsp;</li>
+            <li>รับสิทธิพิเศษได้สูงสุด 1 สิทธิ์ / โรงพยาบาล</li>
+            <li>เงื่อนไขการใช้บริการเป็นไปตามที่แต่ละโรงพยาบาลกำหนด</li>
+            <li>สามารถแลกรับสิทธิ์ และเข้าใช้บริการได้ตั้งแต่วันนี้ ถึง 31 ธันวาคม 2563</li>
+            <li>บริษัทฯ ขอสงวนสิทธิ์ในการเปลี่ยนแปลงรูปแบบแพ็คเกจ หรือรายการในแพ็คเกจต่างๆ หรือเงื่อนไขโดยไม่ต้องแจ้งให้ทราบล่วงหน้า</li>
+            <li>คำตัดสินใดๆ ของบริษัทฯ หรือโรงพยาบาลถือเป็นที่สิ้นสุด</li>
+        </ul>
+        <ul>
+        </ul>
+        <ul>
+        </ul>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200927T121952Z
+  - Version: 8
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201002T044116Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Chaiyawat
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ลูกค้าเอฟดับบลิวดีรับส่วนลด และแพ็คเกจพิเศษต่างๆ จากเครือโรงพยาบาลกรุงเทพฯ 7 แห่ง ดังต่อไปนี้&nbsp;</p>
+        <p>&nbsp;</p>
+        <table style="height: 1163px; width: 931px; border-color: #a5a5a5;">
+            <tbody>
+                <tr>
+                    <td style="text-align: left;"><strong>สาขา</strong></td>
+                    <td style="text-align: left;"><strong>สิทธิพิเศษ</strong></td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ(ซอยศูนย์วิจัย)</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>แพ็คเกจตรวจสุขภาพ</strong></p>
+                    <p>&nbsp; - Executive Male (EST) ราคา 14,500 บาท<br />
+                    &nbsp; - Executive Female (EST) ราคา 19,900 บาท<br />
+                    &nbsp; - Supreme Male (EST) ราคา 18,600 บาท<br />
+                    &nbsp; - Supreme Female (EST) ราคา 23,500 บาท<strong></strong></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ เชียงใหม่</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>แพ็คเกจพิเศษ</strong><br />
+                    &nbsp; - วัคซีนไข้หวัดใหญ่ 4 สายพันธุ์ (อายุ 16 ปีขึ้นไป) ราคา 1,000 บาท<br />
+                    &nbsp; - ตรวจคัดกรองมะเร็งเต้านม ราคา 3,500 บาท</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ ขอนแก่น</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p style="text-align: left;"><strong>&nbsp;</strong></p>
+                    <p style="text-align: left;"><strong>แพ็คเกจตรวจสุขภาพ</strong><br />
+                    &nbsp; - Basic Check Up (สำหรับอายุต่ำกว่า 30 ปี) ราคา 2,100 บาท<br />
+                    &nbsp; - ตรวจสุขภาพก่อนวิวาห์<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้ชาย ราคา 3,000 บาท<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้หญิง ราคา 3,500 บาท<br />
+                    &nbsp; - Advance Check Up (สำหรับอายุ 30-40 ปี)<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้ชาย ราคา 6,900 บาท<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้หญิง ราคา 8,900 บาท<br />
+                    &nbsp; - Executive Check Up (สำหรับอายุ 40-50 ปี)<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้ชาย ราคา 10,900 บาท<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้หญิง ราคา 13,900 บาท<br />
+                    &nbsp; - Absolute Check Up (สำหรับอายุ 50 ปีขึ้นไป)<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้ชาย ราคา 14,900 บาท<br />
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ผู้หญิง ราคา 17,900 บาท<br />
+                    <br />
+                    <strong>แพ็คเกจพิเศษ</strong><br />
+                    &nbsp; - วัคซีนไข้หวัดใหญ่ 4 สายพันธุ์ (อายุ 15 ปีขึ้นไป) ราคา 850 บาท<br />
+                    &nbsp; - วัคซีนป้องกันไวรัสตับอักเสบบี 3 เข็ม ราคา 2,500 บาท</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ อุดร</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>แพ็คเกจพิเศษ<br />
+                    </strong>&nbsp; - วัคซีนไข้หวัดใหญ่ (อายุ 15 ปีขึ้นไป) ราคา 690 บาท</p>
+                    <p>&nbsp;</p>
+                    <p><strong>แพ็คเกจตรวจคัดกรองมะเร็ง</strong><br />
+                    &nbsp; - มะเร็งลำไส้ ราคา 2,290 บาท<br />
+                    &nbsp; - มะเร็งปากมดลูก ราคา 3,390 บาท<br />
+                    &nbsp; - มะเร็งต่อมลูกหมาก ราคา 4,390 บาท<br />
+                    &nbsp; - มะเร็งเต้านม ราคา 4,390 บาท<br />
+                    &nbsp; - มะเร็งตับ ราคา 5,490 บาท<strong><br />
+                    <br />
+                    ส่วนลดพิเศษ<br />
+                    </strong>&nbsp; - 10% สำหรับค่ายา<br />
+                    &nbsp; - 10% สำหรับค่าห้อง</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ ปากช่อง</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>แพ็คเกจพิเศษ</strong><br />
+                    &nbsp; - วัคซีนไข้หวัดใหญ่ (อายุ 15 ปีขึ้นไป) ราคา 600 บาท<br />
+                    <br />
+                    <strong>ส่วนลดพิเศษ</strong><br />
+                    &nbsp; - 40% สำหรับแพ็คเกจตรวจสุขภาพ</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ พัทยา</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>ส่วนลดพิเศษ</strong><br />
+                    &nbsp; - 15% สำหรับค่าขูดหินปูน<br />
+                    &nbsp; - 10% สำหรับค่ายา ยกเว้นวัคซีนและหมวดยาพิเศษ<br />
+                    &nbsp; - 10% สำหรับค่าห้อง ยกเว้น ICU / CCU / NICU / PICU<br />
+                    &nbsp; - 5% สำหรับค่าทัตกรรมทั่วไป และทันตกรรมเด็ก</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="color: #e36c09; text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>โรงพยาบาลกรุงเทพ ภูเก็ต</strong></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong></strong></p>
+                    <p><strong>&nbsp;</strong></p>
+                    <p><strong>แแพ็คเกจพิเศษ<br />
+                    </strong>&nbsp; - วัคซีนไข้หวัดใหญ่ (อายุ 15 ปีขึ้นไป) ราคา 650 บาท<br />
+                    &nbsp; - ตรวจการตีบตันหลอดเลือดของหัวใจ (CTA) ราคา 13,000 บาท<strong><br />
+                    <br />
+                    ส่วนลดพิเศษ<br />
+                    </strong>&nbsp; - 10% สำหรับค่ายา ยกเว้นค่ายาพิเศษ</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong></strong></p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>วิธีการรับสิทธิ์</strong></p>
+        <p style="margin-left: 40px;">แลกรับสิทธิ์ผ่าน FWD MAX (ใช้ 50 แต้ม) โดยต้องแสดงรหัสที่ได้รับเพื่อเข้าใช้บริการที่โรงพยาบาล ภายใน 30 นาทีหลังจากแลกสิทธิ์สมบูรณ์แล้ว</p>
+        <p><strong></strong></p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>เงื่อนไขการใช้สิทธิ์<br />
+        </strong></p>
+        <ul>
+            <li>กรุณาสำรองสิทธิ์ และตรวจสอบเงื่อนไขการใช้สิทธิพิเศษต่างๆ ที่โรงพยาบาลก่อนกดรับสิทธิพิเศษ</li>
+            <li>สามารถใช้สิทธิ์ได้ตั้งแต่วันนี้ จนถึงระยะเวลาที่กำหนดของแต่ละโรงพยาบาล</li>
+            <li>หากไม่ได้ใช้สิทธิ์ภายใน 30 นาทีหลังจากกดรับสิทธิ์ บริษัทขอสงวนสิทธิ์ในการคืนแต้มในทุกกรณี</li>
+            <li>สิทธิพิเศษนี้สำหรับลูกค้าเอฟดับบลิวดีที่เป็นผู้เอาประกันเท่านั้น และไม่สามารถโอนสิทธิ์ให้บุคคลอื่นได้ทุกกรณี</li>
+            <li>สิทธิพิเศษนี้สำหรับลูกค้าเอฟดับบลิวดี Prompt, Plus และ Pride ที่ชำระค่าเบี้ยตามเงื่อนไข</li>
+            <li>รับสิทธิพิเศษได้สูงสุด 1 สิทธิ์ / โรงพยาบาล</li>
+            <li>เงื่อนไขการใช้บริการเป็นไปตามที่แต่ละโรงพยาบาลกำหนด</li>
+            <li>สามารถแลกรับสิทธิ์ และเข้าใช้บริการได้ตั้งแต่วันนี้ ถึง 31 ธันวาคม 2563</li>
+            <li>บริษัทฯ ขอสงวนสิทธิ์ในการเปลี่ยนแปลงรูปแบบแพ็คเกจ หรือรายการในแพ็คเกจต่างๆ หรือเงื่อนไขโดยไม่ต้องแจ้งให้ทราบล่วงหน้า</li>
+            <li>คำตัดสินใดๆ ของบริษัทฯ หรือโรงพยาบาลถือเป็นที่สิ้นสุด</li>
+            <li>ขอสงวนสิทธิสำหรับลูกค้าผู้เอาประกันภัย ที่ชำระเบี้ยประกันตามประเภทกรมธรรม์ที่กำหนด ภายใต้เงื่อนไขการคำนวณของบริษัทฯ ค่าเบี้ยประกันของกรมธรรม์ที่ซื้อผ่านธนาคารไทยพาณิชย์หรือตัวแทนเดิม ไม่ถูกนำมาคำนวณในการจัดระดับสิทธิพิเศษ</li>
+        </ul>
+        <ul>
+        </ul>
+        <ul>
+        </ul>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201002T044116Z

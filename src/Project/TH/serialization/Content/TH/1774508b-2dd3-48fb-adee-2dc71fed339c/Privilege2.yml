@@ -1,0 +1,49 @@
+﻿---
+ID: "de7f2d19-139d-4284-8eea-6f871e0d9e64"
+Parent: "1774508b-2dd3-48fb-adee-2dc71fed339c"
+Template: "99a5d004-f5f7-4f4b-942d-0fa83d62c6a5"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/phyathai-hospital/local-folder/Article Description Area/Privilege2"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-50"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200812T171339Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Chaiyawat
+    - ID: "f39f1fcb-8829-42d2-b98b-b42596b9c427"
+      Hint: quote
+      Value: 2. รับส่วนลด 150 บาท บริการทำความสะอาดพร้อมน้ำยาฆ่าเชื้อ ไม่ฟุ้งกระจาย ได้ทั้งความสะอาด และกำจัดไวรัส 
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200812T183107Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Chaiyawat
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200812T183107Z
+    - ID: "f39f1fcb-8829-42d2-b98b-b42596b9c427"
+      Hint: quote
+      Value: 2. แพ็คเกจตรวจสุขภาพราคาพิเศษ 

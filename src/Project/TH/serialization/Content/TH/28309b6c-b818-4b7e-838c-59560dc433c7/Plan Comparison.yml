@@ -1,0 +1,18 @@
+﻿---
+ID: "0f9b683e-a683-437c-b6b8-7dc9b9b60bdb"
+Parent: "28309b6c-b818-4b7e-838c-59560dc433c7"
+Template: "cf197858-5a1a-4c98-8b93-209f8561ba99"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/sa-dropdown-and-premium-stepper-valueprotector/compare/local-folder/Plan Comparison"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{89B58F16-6FEB-4E19-9C7D-5FD1ABB27947}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200623T044059Z

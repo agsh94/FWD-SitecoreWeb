@@ -1,0 +1,64 @@
+﻿---
+ID: "c0a6dd5c-e776-46a0-a2da-360ba893a887"
+Parent: "15058a13-8b20-4686-95cb-4a6cb3d7a928"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/tailor-made/local-folder/Flexible insurance plans/Flexible premiums"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: We know that everyone&rsquo;s circumstances are different. So we offer flexible premiums according to what your business is, and what your employees do.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200117T112413Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: Flexible premiums
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{D4ED919D-34AD-4E50-AB2B-2281972F4408}" cropx="0.49" cropy="0.51" focusx="-0.012022850271888763" focusy="-0.017197608947753906" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{D4ED919D-34AD-4E50-AB2B-2281972F4408}" cropx="0.50" cropy="0.53" focusx="-0.003212277584664136" focusy="-0.05002164840698242" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: เพราะเราตระหนักดีว่าแต่ละคนต้องเผชิญสถานการณ์ที่แตกต่างกัน เราจึงขอเสนอเบี้ยประกันที่ยืดหยุ่นตรงใจตามประเภทธุรกิจและลักษณะงานที่ทำของแต่ละบริษัท
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T115849Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: เบี้ยยืดหยุ่น
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{D4ED919D-34AD-4E50-AB2B-2281972F4408}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{D4ED919D-34AD-4E50-AB2B-2281972F4408}" />

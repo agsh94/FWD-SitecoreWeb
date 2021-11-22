@@ -1,0 +1,24 @@
+﻿---
+ID: "4d5acdf1-3a4c-4d8a-8155-5dc3a7b227ed"
+Parent: "28e1889c-5537-4bc2-82bc-7636e11ca90d"
+Template: "0961098e-2ea2-458f-8660-b9b9be61bc57"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/ValueProtector/PlanGrand/AttributeFolder/Additional Benefits/Premium structure"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200615T044326Z
+    - ID: "409c4452-e4f8-4e83-8f50-388a52104cbb"
+      Hint: value
+      Value: |
+        <ul>
+            <li>Based on insured person's issue age and gender.</li>
+            <li>Renewal premium are non-guaranteed and will be increased yearly accordingly to the insured person's attained age at the time of renewal.</li>
+        </ul>
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{98E0DD26-E3E9-4A0C-9341-75C7E705B411}"

@@ -1,0 +1,82 @@
+﻿---
+ID: "ed16f917-0249-4d70-b2a3-b4b7c2c4890e"
+Parent: "182ef640-ec66-4c64-96fc-f4ad95d23e9d"
+Template: "ad6870d4-2dd6-40ef-a8fa-941ab32cee43"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/Cash Return Options/local-folder/Out-patient In-patient/Interim Cash Payment/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T075539Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value:  
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>How to change how you receive your ICP</strong></p>
+        <p>1. Please prepare the following documents: </p>
+        <ul>
+            <li>A completed <a href="-/media/000fe19744b14907bc80f1c82d9212e6.ashx">policy changes and renewal request form</a></li>
+            <li>A certified true copy of your ID card</li>
+            <li>A certified true copy of your bank book with your bank account number (if you want to receive ICP through bank transfer)</li>
+        </ul>
+        <p>2. Submit your documents via one of the below : </p>
+        <ul>
+            <li>Mail</li>
+            <ul>
+                <li>
+                Policy owner service department, FWD Life Insurance Public Company Limited,
+                14th floor, Sindhorn Building Tower 3, 130-132 Witthayu Road, Lumpini, Pathumwan, Bangkok 10330</li>
+            </ul>
+            <li>Email <a href="mailto:iservice@fwd.co.th">iservice@fwd.co.th</a></li>
+            <li>Fax 02-632-2414</li>
+        </ul>
+        <p>&nbsp;</p>
+        <p>Typical processing time: 3 days</p>
+        <p>You will be notified by mail when we&rsquo;ve successfully processed your request. Please allow a few days for the mail to reach you.</p>
+        
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T081004Z
+    - ID: "27e6d694-274d-4a38-8800-12f8f9ec1ac4"
+      Hint: title
+      Value:  
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>ขั้นตอนการเปลี่ยนวิธีรับเงินคืนตามกรมธรรม์</strong></p>
+        <p>1.  โปรดเตรียมเอกสารดังนี้</p>
+        <ul>
+            <li><a href="-/media/000fe19744b14907bc80f1c82d9212e6.ashx">ใบคำขอเปลี่ยนแปลง / ต่ออายุกรมธรรม์</a>ที่กรอกเรียบร้อยแล้ว</li>
+            <li>สำเนาบัตรประชาชน พร้อมรับรองสำเนาถูกต้อง</li>
+            <li>สำเนาหน้าสมุดบัญชีออมทรัพย์/กระแสรายวัน ธนาคารพาณิชย์ที่แสดงหมายเลขบัญชี พร้อมรับรองสำเนาถูกต้อง (เฉพาะกรณีประสงค์ให้โอนเงินเข้าบัญชี)</li>
+        </ul>
+        <p>2. นำส่งเอกสารของคุณผ่านทางช่องทางช่องทางใดช่องทางหนึ่งต่อไปนี้ </p>
+        <ul>
+            <li>ช่องทางไปรษณีย์ ที่อยู่จัดส่ง ฝ่ายบริการกรมธรรม์ บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) เลขที่ 130-132 ชั้นที่ 14 อาคารสินธร ทาวเวอร์ 3 ถนนวิทยุ แขวงลุมพินี เขตปทุมวัน กรุงเทพฯ 10330</li>
+            <li>อีเมล์  <a href="mailto:iservice@fwd.co.th">iservice@fwd.co.th</a></li>
+            <li>ทางแฟกซ์ 02-632-2414</li>
+        </ul>
+        <p>ระยะเวลาดำเนินการ ภายใน 3 วันทำการ</p>
+        <p>บริษัทฯ จะแจ้งผลให้ทราบทางไปรษณีย์ โดยไปรษณีย์อาจใช้เวลาในการนำส่งเอกสาร 2-3 วัน</p>

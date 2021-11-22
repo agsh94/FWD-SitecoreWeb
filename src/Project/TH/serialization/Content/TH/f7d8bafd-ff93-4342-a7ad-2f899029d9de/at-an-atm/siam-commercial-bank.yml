@@ -1,0 +1,65 @@
+﻿---
+ID: "1805ad5e-8970-43a6-a5ed-f915d88d831f"
+Parent: "c60fca5b-cc0b-4dd8-9266-cdfbf070b9c5"
+Template: "df35e621-f80b-4fa2-8b4d-85c9782a43b9"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Support/premium-payment/local-folder/premium-payment/life-and-accident-insurance/bank-transfer/at-an-atm/siam-commercial-bank"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Siam Commercial Bank
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0efba758-7b3d-4cec-a6d7-9cb3bbc199fa"
+      Hint: description
+      Value: |
+        <p>Company code: </p>
+        <p>0216 (Wireless Road)</p>
+    - ID: "22b72a4c-26fe-45c6-a389-9208ed5f30a9"
+      Hint: title
+      Value: Siam Commercial Bank
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191226T074758Z
+    - ID: "458a9aca-15af-4816-a2ce-a1359491db04"
+      Hint: image
+      Value: |
+        <image mediaid="{4EDB0D65-8A08-49F6-9AC7-E10B2EBF47D5}" />
+    - ID: "e10bd642-d1a2-4376-9089-a17d8b83ddd6"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{4EDB0D65-8A08-49F6-9AC7-E10B2EBF47D5}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0efba758-7b3d-4cec-a6d7-9cb3bbc199fa"
+      Hint: description
+      Value: |
+        <p>Company code: </p>
+        <p>0216 (Wireless Road)</p>
+    - ID: "22b72a4c-26fe-45c6-a389-9208ed5f30a9"
+      Hint: title
+      Value: Siam Commercial Bank
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T104949Z
+    - ID: "458a9aca-15af-4816-a2ce-a1359491db04"
+      Hint: image
+      Value: |
+        <image mediaid="{4EDB0D65-8A08-49F6-9AC7-E10B2EBF47D5}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "e10bd642-d1a2-4376-9089-a17d8b83ddd6"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{4EDB0D65-8A08-49F6-9AC7-E10B2EBF47D5}" />

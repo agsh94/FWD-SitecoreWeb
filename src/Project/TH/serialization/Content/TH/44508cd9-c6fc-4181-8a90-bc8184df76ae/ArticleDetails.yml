@@ -1,0 +1,25 @@
+﻿---
+ID: "f438e41c-e3b7-45bb-89eb-398c74b8fd16"
+Parent: "44508cd9-c6fc-4181-8a90-bc8184df76ae"
+Template: "90753b30-92e3-4d17-a179-39166b735fef"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/News/article-detail-1/local-folder/ArticleDetails"
+DB: master
+SharedFields:
+- ID: "6fd695e7-7f6d-4ca5-8b49-a829e5950ae9"
+  Hint: __Subitems Sorting
+  Value: 
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{5D29E82B-A647-48B9-9469-1BDE2E4B65DE}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Article Description Area
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191122T071136Z

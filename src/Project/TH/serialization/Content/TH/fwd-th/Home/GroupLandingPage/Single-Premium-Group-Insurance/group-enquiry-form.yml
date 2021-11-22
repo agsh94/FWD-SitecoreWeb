@@ -1,0 +1,69 @@
+﻿---
+ID: "3c79c8fa-3378-4bc1-b065-a006b3309e96"
+Parent: "b2c393b7-6dac-435b-bf9c-4e4fb7281d5b"
+Template: "0b1e5ada-16a0-4d04-a1c5-0e27dcf3371e"
+Path: "/sitecore/content/fwd/fwd-th/Home/GroupLandingPage/Single-Premium-Group-Insurance/group-enquiry-form"
+DB: master
+SharedFields:
+- ID: "90a3aaad-124b-4118-9d91-85bb12d9c5b8"
+  Hint: redirectUrl
+  Value: |
+    <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E360494C-2531-4194-BDE1-9A03EE58BF05}" />
+- ID: "d8ac2121-1b4a-4b17-97b8-6c9c7635d239"
+  Hint: formEmailTemplate
+  Value: |
+    <link text="" linktype="form" querystring="" target="" id="{970ABA99-5357-4475-84B6-E7302572950B}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{BC9A7276-B7E9-4D8F-8B9F-A03D05943657}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+        <r
+          uid="{483F9CFA-4C9A-488B-979C-047627E73318}"
+          p:after="*[1=2]"
+          s:ds="{F0BD8CA1-8714-4E69-9262-CEC4362A0C44}"
+          s:id="{D12A5E12-4AB2-4330-8D72-77EA8D372515}"
+          s:par="formType=regular"
+          s:ph="jss-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Enquiry
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200205T130542Z
+    - ID: "3ee9d7ab-80af-491b-bf20-b8535dc97533"
+      Hint: metadataTitle
+      Value: Single Premium Group Insurance
+    - ID: "7735b88e-fe4f-42fa-86de-a3f590a7e9ed"
+      Hint: apiList
+      Type: Multilist
+      Value: "{D58E3660-0AB7-4811-AD6F-D007E52AF349}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T103624Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7735b88e-fe4f-42fa-86de-a3f590a7e9ed"
+      Hint: apiList
+      Type: Multilist
+      Value: "{D58E3660-0AB7-4811-AD6F-D007E52AF349}"

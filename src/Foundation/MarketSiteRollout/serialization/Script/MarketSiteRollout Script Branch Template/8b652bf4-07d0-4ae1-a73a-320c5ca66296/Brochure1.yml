@@ -1,0 +1,37 @@
+﻿---
+ID: "f26380f2-83af-4023-8157-bec026197853"
+Parent: "8b652bf4-07d0-4ae1-a73a-320c5ca66296"
+Template: "fedd8681-2797-4d1b-9d18-3da34a28a769"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Health/ValueProtector/Brochure1
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200106T114820Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "5e25f334-0f17-41db-af95-cd2e833b6c6e"
+      Hint: title
+      Value: Brochure1
+    - ID: "8fda14e5-7e95-4665-b7b2-5a84db75fc47"
+      Hint: description
+      Value: Brochure1
+    - ID: "99325f39-b398-4475-a26e-0861843826fe"
+      Hint: link
+      Value: 
+    - ID: "aa995fb3-0d42-4ce6-bcc0-63e0feb67caf"
+      Hint: buttonIcon
+      Value: "{A03E086C-A7FD-4FD0-8D38-AA313D696179}"
+    - ID: "f39b09d8-f74e-420a-a6bb-94783a6fac25"
+      Hint: contentType
+      Value: "{337107F6-6431-4012-A32B-537E7508820E}"

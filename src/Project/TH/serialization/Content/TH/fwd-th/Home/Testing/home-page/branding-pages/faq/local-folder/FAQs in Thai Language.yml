@@ -1,0 +1,32 @@
+﻿---
+ID: "595e96f1-2439-4994-b099-02a807d0b928"
+Parent: "7510a3c7-8024-43c6-91a0-78bb3f0b5881"
+Template: "14cf212d-7cf4-41aa-b50b-24d748a87556"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/faq/local-folder/FAQs in Thai Language"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "f973c399-5998-47a5-ae48-760ebed901b1"
+  Hint: faqItems
+  Value: "{EB23490F-E449-4F84-8187-DA634CAC5E98}|{28BD5341-F22B-4414-90C3-C215040784E1}|{3E2A8D05-59F8-4997-8512-A17C8A49824B}|{270FC548-3674-48E6-B915-21C1264F1D6E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200708T050342Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See More FAQs" anchor="" linktype="internal" class="" title=""  querystring="" id="{2FB8A667-9926-4939-8E62-0CFAF99D862F}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: FAQs in Thai Language

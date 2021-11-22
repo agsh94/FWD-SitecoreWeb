@@ -1,0 +1,57 @@
+﻿---
+ID: "1756b52c-2511-45e2-9329-d70eaec6e182"
+Parent: "d187dc86-d81f-4c97-acf1-28cc8b8506f5"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Press/FWD-78-Degree-North-Marathon/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T053319Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>Hong Kong, 18 April 2019 </strong>&ndash; FWD Team Asia successfully completed the FWD &lsquo;78&deg; North&rsquo; Marathon, displaying grit and perseverance to rise above a maelstrom of climate and logistical challenges, overcoming unprecedented circumstances that culminated in the last-minute cancellation of all North Pole expeditions including the annual North Pole Marathon.<br />
+        <br />
+        The FWD &lsquo;78&deg; North&rsquo; Marathon was held on 16th April, at Longyearbyen in Svalbard, Norway, 1050 km away from the Pole (89&deg; latitude North). FWD Group (&ldquo;FWD&rdquo;) had initially been supporting the world&rsquo;s &lsquo;coolest&rsquo; marathon at the North Pole, returning as title sponsor for the third year in a row. The Marathon was cancelled at the last minute because of geopolitical tensions between the Russian and Ukrainian administrations regarding flight plans to the Pole.<br />
+        <br />
+        Undeterred, FWD stepped in with the idea to create and organize its own marathon at Longyearbyen so that runners could still fulfill their ambitions to complete a marathon in sub-zero temperatures and extreme winter conditions while raising funds for their sponsored charities. FWD successfully arranged the marathon against the odds in three hectic days, inviting all registered North Pole Marathon runners to take part.<br />
+        <br />
+        Tim Oliver, FWD Group Chief Customer &amp; Marketing Officer said, &ldquo;All of us at FWD are extremely proud of all the participants despite the unexpected turn of events, who displayed admirable determination and courage to persevere and complete a very challenging marathon. Congratulations to all the runners for successfully finishing the FWD 78&deg; North Marathon.&rdquo;<br />
+        <br />
+        Highlights of the race included FWD Team Asia member and Hong Kong professional marathon runner Hard Tsui winning the overall men&rsquo;s race in an impressive time of 3 hours and 1 minute while the women&rsquo;s race was won by another FWD Team Asia member Joyette Jopson from the Philippines in 4 hours and 10 minutes. FWD Managing Director &amp; Group Chief Operating Officer Rob Schimek, managing director of FWD Singapore and Chief Operating Officer of FWD Group, finished the men&rsquo;s race in third place with a time of 4 hours and 14 minutes behind second placed Xiaobin Qiu from China who completed the race in 3 hours and 44 minutes.<br />
+        <br />
+        &ldquo;A special mention must also go to FWD&rsquo;s support team who worked around the clock, after the cancellation of the original race, to secure the alternative marathon course and we&rsquo;re so proud of their resilience to deliver such an event,&rdquo; added Tim. &ldquo;This experience truly demonstrates our brand philosophy, to have the confidence to overcome adversity and continue fulfilling our brand promise to celebrate living.&rdquo;<br />
+        <br />
+        For Thailand, FWD Life Insurance Thailand had sent Mr. Itthiphol Samutthong to attend the race for a distance of 42.195 kilometers, run at 4:32:08 hours, and donated to Special Olympic Games of Thailand with amount of 500,000 baht from the fundraising association &ndash; Virtual Run 500,000 kilometers.<br />
+        <div>&nbsp;</div>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T053811Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div>
+        <p><strong><span style="color: black;">ทิม โอลิเวอร์ ประธานเจ้าหน้าที่สายงานลูกค้าและการตลาด เอฟดับบลิวดี กรุ๊ป</span></strong><span style="color: black;"> กล่าวว่า &ldquo;พวกเราทุกคนที่เอฟดับบลิวดีรู้สึกภูมิใจอย่างมากในผู้ที่มีส่วนร่วมทุกคน แม้จะเกิดเหตุการณ์ที่ไม่คาดคิด พวกเขาก็แสดงให้เห็นถึงความมุ่งมั่นและความกล้าหาญที่จะเอาชนะความท้าทายในการจัดงานแข่งขันมาราธอนนี้ให้สำเร็จ และขอแสดงความยินดีกับนักวิ่งทุกคนที่สามารถพิชิตเส้นชัยในการแข่งขัน </span><span style="color: black;">FWD </span><span style="color: black;">&lsquo;78</span><sup><span style="color: black;">o</span></sup><span style="color: black;"> North</span><span style="color: black;">&rsquo; </span><span style="color: black;">Marathon</span><span style="color: black;"> ได้สำเร็จ&rdquo;</span></p>
+        <p><span style="color: black;">&nbsp;</span></p>
+        <p><span style="color: black;">ไฮไลท์ของการแข่งขันมีดังนี้ </span><strong><span style="color: black;">ฮาร์ด สุ่ย (</span></strong><strong><span style="color: black;">Hard Tsui</span></strong><strong><span style="color: black;">)</span></strong><span style="color: black;"> สมาชิกเอฟดับบลิวดี ทีม เอเชีย (</span><span style="color: black;">FWD Team Asia</span><span style="color: black;">) และนักวิ่งมาราธอนอาชีพของฮ่องกง ที่ชนะเลิศการแข่งขันประเภทชายรวม โดยสามารถทำเวลาได้อย่าง</span><span style="color: black;">น่าประทับใจที่</span><span style="color: black;"> </span><span style="color: black;">3</span><span style="color: black;">.</span><span style="color: black;">01 </span><span style="color: black;">ชั่วโมง ในขณะที่ <strong>โจเย็ธ จ๊อบสัน (</strong></span><strong><span style="color: black;">Joyette Jopson</span></strong><strong><span style="color: black;">)</span></strong><span style="color: black;"> สมาชิกเอฟดับบลิวดี ทีม เอเชียอีกคนหนึ่งจากประเทศฟิลิปปินส์ ชนะเลิศประเภทหญิงด้วยเวลา </span><span style="color: black;">4</span><span style="color: black;">.</span><span style="color: black;">10 </span><span style="color: black;">ชั่วโมง <strong>ร็อบ ชีเม็ค (</strong></span><strong><span style="color: black;">Rob Schimek</span></strong><strong><span style="color: black;">)</span></strong><span style="color: black;"> <strong>กรรมการผู้จัดการเอฟดับบลิวดี สิงคโปร์ และประธานเจ้าหน้าที่สายงานปฏิบัติการ เอฟดับบลิวดี กรุ๊ป</strong> ได้ที่ </span><span style="color: black;">3 </span><span style="color: black;">ประเภทการแข่งขันชายด้วยเวลา </span><span style="color: black;">4</span><span style="color: black;">.</span><span style="color: black;">14 </span><span style="color: black;">ชั่วโมง ตามหลัง<strong>เสี่ยวปิน ชิว (</strong></span><strong><span style="color: black;">Xiaobin Qiu</span></strong><strong><span style="color: black;">) </span></strong><span style="color: black;">จากประเทศจีนที่ได้ที่ </span><span style="color: black;">2 </span><span style="color: black;">โดยเข้าเส้นชัยด้วยเวลา </span><span style="color: black;">3</span><span style="color: black;">.</span><span style="color: black;">44 </span><span style="color: black;">ชั่วโมง</span></p>
+        <p><span style="color: black;">&nbsp;</span></p>
+        <p><span style="color: black;">&ldquo;ขอกล่าวเป็นพิเศษถึงทีมสนับสนุนของเอฟดับบลิวดีที่ทำงานตลอดเวลาหลังการแข่งขันวิ่งมาราธอนเดิมที่ขั้วโลกเหนือได้ถูกยกเลิกไป และช่วยให้งานวิ่งมาราธอนใหม่นี้เกิดขึ้น เรารู้สึกภูมิใจในความพยายามของทีมงานที่ทำให้งานวิ่งมาราธอนที่เป็นทางเลือกใหม่นี้ประสบความสำเร็จ&rdquo; ทิมกล่าว พร้อมเพิ่มเติมว่า &ldquo;ประสบการณ์ในครั้งนี้แสดงให้เห็นอย่างชัดเจนถึงปรัชญาของแบรนด์เอฟดับบลิวดีของเรานั่นคือความเชื่อมั่นในการเอาชนะอุปสรรค และยังคงเติมเต็มคำสัญญาของเราที่ต้องการให้คนออกไปสนุกกับการใช้ชีวิต&rdquo;</span></p>
+        <p><span style="color: black;">&nbsp;</span></p>
+        <span style="color: black;">สำหรับประเทศไทย บริษัท เอฟดับบลิวดี ประกันชีวิต ได้ส่งคุณอิทธิพล</span><span style="color: black;"> สมุทรทอง เข้าร่วมวิ่งในระยะทาง </span><span style="color: black;">42</span><span style="color: black;">.</span><span style="color: black;">195 </span><span style="color: black;">กิโลเมตร ใช้เวลาวิ่ง </span><span style="color: black;">&nbsp;4</span><span style="color: black;">:</span><span style="color: black;">32</span><span style="color: black;">:</span><span style="color: black;">08 </span><span style="color: black;">ชั่วโมง และมอบเงินจากกิจกรรมชวนคนวิ่ง </span><span style="color: black;">500,000 </span><span style="color: black;">กิโลเมตร (</span><span style="color: black;">Virtual Run</span><span style="color: black;">) ให้กับสมาคมสเปเชี่ยล โอลิมปิคแห่งประเทศไทยจำนวน </span><span style="color: black;">500,000</span><span style="color: black;"> บาท&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></div>

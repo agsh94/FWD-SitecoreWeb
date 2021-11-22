@@ -1,0 +1,30 @@
+﻿---
+ID: "f7c92bd9-6040-47f7-a412-9b5658b29f15"
+Parent: "0900ce04-f034-4958-94a4-b94f8843716c"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Wealth/how-to-get-promoted-at-work/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200929T051209Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>4. มองโลกในแง่ดี</strong><br />
+        การทำงานทุกอย่างย่อมต้องมีความผิดพลาดผ่านเข้ามาให้เราได้เรียนรู้ ซึ่งวิธีการรับมือของแต่ละคนก็แตกต่างกันออกไป แต่คนประเภทนี้จะสามารถผ่านพ้นปัญหาพร้อมกับได้อะไรติดไม้ติดมือกลับมาเสมอ เพราะการมองโลกในแง่ดีจะทำให้เรามองข้ามความยากลำบากหรือการโทษตัวเองไป โดยหันมาโฟกัสกับปัจจุบัน และอนาคต ซึ่งคุณสมบัตินี้จะทำให้ผู้คนรอบตัวรู้สึกมีพลังใจ และพร้อมจะเดินหน้าต่อไป

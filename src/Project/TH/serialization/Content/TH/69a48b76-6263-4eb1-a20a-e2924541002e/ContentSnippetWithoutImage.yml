@@ -1,0 +1,28 @@
+﻿---
+ID: "0c6491ee-eda1-48a3-b16d-1acb39ff9348"
+Parent: "69a48b76-6263-4eb1-a20a-e2924541002e"
+Template: "09db1bd9-ccf9-4a64-b2c9-ac249d6b96c1"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/ContentSnippetPage/local-folder/ContentSnippetWithoutImage"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200715T112931Z
+    - ID: "5655c435-8b04-4425-8b90-5a0a04e80d83"
+      Hint: description
+      Value: FWD MAX points come easy just by exploring. Spend it on what you love.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\testuser
+    - ID: "81f9fb34-885b-42e0-bdd7-b2c1cbd468fb"
+      Hint: title
+      Value: Earn as you explore
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="About US" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{49F0D81D-2E91-44B2-9F6E-3267BABAFA41}" />

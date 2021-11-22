@@ -1,0 +1,68 @@
+﻿---
+ID: "32587f4d-7836-4b06-9a23-f9a39cccb589"
+Parent: "12686c5d-cd7c-44c1-bb98-44fcd3c75140"
+Template: "979fdf53-37cb-434c-bbff-f7aaf6abaac0"
+Path: "/sitecore/content/fwd/fwd-th/Components/Forms/Premium Payment/Auto debit via credit card application form"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{A03E086C-A7FD-4FD0-8D38-AA313D696179}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "186c45f7-6f3f-446c-94ee-ec30fcf29dfb"
+      Hint: primaryNeedTags
+      Type: Multilist
+      Value: "{390404DC-4C70-4662-B09E-5FB89B7B5294}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T114409Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdtestauthor
+    - ID: "74eb711f-f1e9-4622-a04d-94f5ae11ef15"
+      Hint: description
+      Value: 
+    - ID: "c9430c02-23e5-4887-87e5-872059655027"
+      Hint: topics
+      Value: "{121CAC1E-7FDB-49B3-ACFA-AA0EE00CAC53}"
+    - ID: "d57a04ff-b168-4c1e-8221-799439725666"
+      Hint: title
+      Value: Auto debit via credit card application form
+    - ID: "f55ccf38-f0bf-4b15-b4e9-edb6e07245b4"
+      Hint: contentType
+      Value: "{04E7400A-22DE-4392-A4AD-B78B7AA3B7A3}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T114607Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdtestauthor
+    - ID: "74eb711f-f1e9-4622-a04d-94f5ae11ef15"
+      Hint: description
+      Value:  
+    - ID: "c9430c02-23e5-4887-87e5-872059655027"
+      Hint: topics
+      Value: "{121CAC1E-7FDB-49B3-ACFA-AA0EE00CAC53}"
+    - ID: "d57a04ff-b168-4c1e-8221-799439725666"
+      Hint: title
+      Value: หนังสือขอให้เรียกเก็บเงินจากบัตรเครดิตอัตโนมัติ
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="หนังสือขอให้เรียกเก็บเงินจากบัตรเครดิตอัตโนมัติ" linktype="media" target="" id="{028C73E9-B239-4DA2-86E3-44E80059EA43}" />
+    - ID: "f55ccf38-f0bf-4b15-b4e9-edb6e07245b4"
+      Hint: contentType
+      Value: "{04E7400A-22DE-4392-A4AD-B78B7AA3B7A3}"

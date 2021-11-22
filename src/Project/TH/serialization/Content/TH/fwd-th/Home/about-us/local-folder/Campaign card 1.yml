@@ -1,0 +1,75 @@
+﻿---
+ID: "675a02d3-6fa9-41cd-b6fc-467f7804a399"
+Parent: "c2cbf05d-3eb4-49ff-b40f-f0308003ffac"
+Template: "f1076e50-7ea9-4ce1-a4da-09f5c71b91e3"
+Path: "/sitecore/content/fwd/fwd-th/Home/about-us/local-folder/Campaign card 1"
+DB: master
+SharedFields:
+- ID: "76eb0c81-c181-4fb8-b5a8-cbdcb0de9fb2"
+  Hint: link
+  Value: |
+    <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{42CD7CFA-26BB-4737-9644-293BE7B68B58}" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 325
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Help us support our community
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T093853Z
+    - ID: "5ca0b426-a772-4ca2-83f7-a402b5674c40"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{8BBA34FD-B863-41D5-9172-0402E450E8E8}" cropx="0.53" cropy="0.55" focusx="0.05263157894736836" focusy="-0.109375" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c25bc0d0-1892-4153-ae5d-54f266e1cdfe"
+      Hint: subTitle
+      Value: We donated THB17,200, clothes, and essential items to Ban Phak Yha School and Ban Rai Tai School.
+    - ID: "cb563753-add3-4fff-8f03-9867310ef547"
+      Hint: label
+      Value: 
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: FWD donates money and items to restore schools from flooding in the Northeast
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{8BBA34FD-B863-41D5-9172-0402E450E8E8}" cropx="0.54" cropy="0.89" focusx="0.07017543859649122" focusy="-0.78125" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T094021Z
+    - ID: "5ca0b426-a772-4ca2-83f7-a402b5674c40"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{8BBA34FD-B863-41D5-9172-0402E450E8E8}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "c25bc0d0-1892-4153-ae5d-54f266e1cdfe"
+      Hint: subTitle
+      Value: มอบเงินบริจาค จำนวน 17,200 บาท และ เสื้อผ้า สิ่งของต่างๆ ให้กับโรงเรียนบ้านผักหย่าและโรงเรียนบ้านไร่ใต้
+    - ID: "cb563753-add3-4fff-8f03-9867310ef547"
+      Hint: label
+      Value: 
+    - ID: "cc4a2ec8-e39b-4bbd-a16d-dcc4977d547f"
+      Hint: title
+      Value: มอบเงินและสิ่งของบริจาค ฟื้นฟูโรงเรียนน้ำท่วมภาคอีสาน
+    - ID: "fcd040c4-73c7-45f3-a744-8a3840c552e1"
+      Hint: image
+      Value: |
+        <image mediaid="{8BBA34FD-B863-41D5-9172-0402E450E8E8}" cropx="0.50" cropy="0.70" focusx="-0.00877192982456143" focusy="-0.40625" />

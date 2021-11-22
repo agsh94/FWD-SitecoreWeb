@@ -1,0 +1,90 @@
+﻿---
+ID: "f65c7ff6-a35e-44ad-bbb0-4c0dd55b4c5a"
+Parent: "2a2c349e-f340-4301-a63e-0974f1681341"
+Template: "0961098e-2ea2-458f-8660-b9b9be61bc57"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/Super CARE Co-Pay/Super CARE Co-Pay Plan M/AttributeFolder/Coverage Summary/Health benefits"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T063612Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "409c4452-e4f8-4e83-8f50-388a52104cbb"
+      Hint: value
+      Value: |
+        <span id="docs-internal-guid-c2ff2297-7fff-7967-50a9-e68ff7371a95"></span>
+        <ul style="margin-top: 0px; margin-bottom: 0px;">
+            <li dir="ltr" style="color: #000000; margin-left: -12.5pt; list-style-type: disc;">
+            <p dir="ltr" role="presentation" style="margin-top: 0pt; margin-bottom: 0pt;"><span>Surgery&nbsp;</span></p>
+            </li>
+            <li dir="ltr" style="color: #000000; margin-left: -12.5pt; list-style-type: disc;">
+            <p dir="ltr" role="presentation" style="margin-top: 0pt; margin-bottom: 0pt;"><span>IPD</span></p>
+            </li>
+            <li dir="ltr" style="color: #000000; margin-left: -12.5pt; list-style-type: disc;">
+            <p dir="ltr" role="presentation" style="margin-top: 0pt; margin-bottom: 0pt;"><span>OPD follow up</span></p>
+            </li>
+            <li dir="ltr" style="color: #000000; margin-left: -12.5pt; list-style-type: disc;">
+            <p dir="ltr" role="presentation" style="margin-top: 0pt; margin-bottom: 0pt;"><span>Kidney dialysis</span></p>
+            </li>
+            <li dir="ltr" style="color: #000000; margin-left: -12.5pt; list-style-type: disc;">
+            <p style="color: #000000; margin-right: 0px; margin-left: 0px;">If your medical bill is within your plan&rsquo;s coverage, we&rsquo;ll pay 80%. You&rsquo;ll then pay the remaining 20%.&nbsp;</p>
+            </li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{C4ABC683-0A34-4297-A5E1-10D3CC84F63B}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201008T065728Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "409c4452-e4f8-4e83-8f50-388a52104cbb"
+      Hint: value
+      Value: |
+        <span id="docs-internal-guid-86df4c16-7fff-5b51-f4f2-8c82d03852d1"></span>
+        <ul style="margin-top: 0px; margin-bottom: 0px;">
+            <li dir="ltr" style="color: #000000; margin-left: -12.5pt; list-style-type: disc;">
+            <p dir="ltr" role="presentation" style="margin-top: 0pt; margin-bottom: 0pt;"><span>ค่าผ่าตัด</span></p>
+            </li>
+            <li dir="ltr" style="color: #000000; margin-left: -12.5pt; list-style-type: disc;">
+            <p dir="ltr" role="presentation" style="margin-top: 0pt; margin-bottom: 0pt;"><span>ค่ารักษาผู้ป่วยภายใน</span></p>
+            </li>
+            <li dir="ltr" style="color: #000000; margin-left: -12.5pt; list-style-type: disc;">
+            <p dir="ltr" role="presentation" style="margin-top: 0pt; margin-bottom: 0pt;"><span>ค่ารักษาพยาบาลต่อเนื่องหลังออกจากโรงพยาบาล</span></p>
+            </li>
+            <li dir="ltr" style="color: #000000; margin-left: -12.5pt; list-style-type: disc;">
+            <p dir="ltr" role="presentation" style="margin-top: 0pt; margin-bottom: 0pt;"><span>ค่าล้างไต</span></p>
+            </li>
+            <li dir="ltr" style="color: #000000; margin-left: -12.5pt; list-style-type: disc;">
+            <p style="color: #000000; margin-right: 0px; margin-left: 0px;">กรณีที่ค่ารักษาพยาบาลรวมอยู่ในเเผนคุ้มครองกรมธรรม์ของคุณ เราจ่ายให้ 80% และคุณจ่ายส่วนที่เหลือเพียง 20%</p>
+            </li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{C4ABC683-0A34-4297-A5E1-10D3CC84F63B}"

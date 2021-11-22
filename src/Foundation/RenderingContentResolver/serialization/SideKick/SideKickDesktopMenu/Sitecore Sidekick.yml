@@ -1,0 +1,42 @@
+﻿---
+ID: "3f324240-7645-4c70-a337-64a9d4a91549"
+Parent: "10148dc7-dca6-4aca-ac90-46fbf59a1d1f"
+Template: "f58958d2-555b-4f56-946c-589e8866880c"
+Path: /sitecore/content/Documents and settings/All users/Start menu/Right/Sitecore Sidekick
+DB: core
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: office/32x32/sword.png
+- ID: "6ba1018f-9794-4798-963e-601d413b9ca3"
+  Hint: Message
+  Value: "scs:open"
+- ID: "9efed9bb-2ec8-498a-91b9-655091224e4d"
+  Hint: Icon
+  Value: office/32x32/sword.png
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\Sitecore Client Authoring|pd|+item:read|pe|+item:read|
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Sitecore Sidekick
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200513T103920Z
+    - ID: "326cd362-cb1c-4e81-b5f2-5efa940351f7"
+      Hint: Display name
+      Value: Sitecore Sidekick
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "e7d3348b-8323-42ba-bc9c-48e1f4e994dc"
+      Hint: Tool tip
+      Value: Open the Sitecore Sidekick

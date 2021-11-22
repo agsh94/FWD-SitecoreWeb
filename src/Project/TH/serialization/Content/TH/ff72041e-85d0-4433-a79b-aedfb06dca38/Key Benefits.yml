@@ -1,0 +1,17 @@
+﻿---
+ID: "6abb43f2-9f72-4e77-835d-a7483aaeb0d8"
+Parent: "ff72041e-85d0-4433-a79b-aedfb06dca38"
+Template: "b35e143d-a4ef-497e-8326-f558715868e4"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/sa-stepper-and-premium-dropdown-valueprotector/PlanGrand/AttributeFolder/Key Benefits"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ce1ad82-1fa2-4aff-bca7-f02e23fa1099"
+      Hint: attributeSectionKey
+      Value: "{800167BE-A8E1-476E-B7A4-14EDB72061E1}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200614T190449Z

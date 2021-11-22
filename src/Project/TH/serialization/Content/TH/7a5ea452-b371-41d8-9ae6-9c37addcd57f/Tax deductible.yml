@@ -1,0 +1,57 @@
+﻿---
+ID: "dd92e13b-30be-48c3-836d-c26d306bed75"
+Parent: "7a5ea452-b371-41d8-9ae6-9c37addcd57f"
+Template: "1c33ba69-85fa-4844-af04-f370b7f829ab"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/local-folder/Benefits/Company Benefits/Company Benefits/Tax deductible"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0efba758-7b3d-4cec-a6d7-9cb3bbc199fa"
+      Hint: description
+      Value: Employers and businesses are entitled to claim back tax on their premiums.
+    - ID: "22b72a4c-26fe-45c6-a389-9208ed5f30a9"
+      Hint: title
+      Value: Tax deductible
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T085605Z
+    - ID: "458a9aca-15af-4816-a2ce-a1359491db04"
+      Hint: image
+      Value: |
+        <image mediaid="{78E9FAF5-4F04-407F-8330-5EB799866C14}" />
+    - ID: "e10bd642-d1a2-4376-9089-a17d8b83ddd6"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{78E9FAF5-4F04-407F-8330-5EB799866C14}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0efba758-7b3d-4cec-a6d7-9cb3bbc199fa"
+      Hint: description
+      Value: นายจ้างและบริษัทสามารถใช้สิทธิขอคืนภาษีสำหรับค่าเบี้ยประกันที่จ่ายไปได้
+    - ID: "22b72a4c-26fe-45c6-a389-9208ed5f30a9"
+      Hint: title
+      Value: หักลดหย่อนภาษีได้ 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T115848Z
+    - ID: "458a9aca-15af-4816-a2ce-a1359491db04"
+      Hint: image
+      Value: |
+        <image mediaid="{78E9FAF5-4F04-407F-8330-5EB799866C14}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "e10bd642-d1a2-4376-9089-a17d8b83ddd6"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{78E9FAF5-4F04-407F-8330-5EB799866C14}" />

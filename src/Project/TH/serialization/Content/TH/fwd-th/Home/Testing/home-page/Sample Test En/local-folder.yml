@@ -1,0 +1,28 @@
+﻿---
+ID: "f8e8a3d1-0dd2-4ea6-b333-fd80e6c840d1"
+Parent: "71d9500a-4f8f-4135-873b-7f5017c5ec17"
+Template: "fff5f245-ffc0-4022-a998-9b07aa5e761f"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Sample Test En/local-folder"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {826504B4-1F9B-53B0-81D6-52E22EE10497}
+    {F1076E50-7EA9-4CE1-A4DA-09F5C71B91E3}
+    {967A8DAD-4A23-491B-95E2-295DEC0B64B3}
+    {EE2C800F-5808-4E93-B521-517495E4A1E6}
+    {51555475-5028-4B05-9B45-53BE53615704}
+    {83A147F2-89BA-4A48-8222-4B73FFE65216}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-1000"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180925T060737Z

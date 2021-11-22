@@ -1,0 +1,51 @@
+﻿---
+ID: "02957c6d-86c5-4794-b139-c001748e3a39"
+Parent: "00ac7c45-a8a2-492c-97c7-f3e2d9fca77a"
+Template: "e53c4083-970e-4785-b407-4bf7b0944994"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Claims/accident-and-health 1/local-folder/Copy of GroupTab List"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "12082ef3-9eba-4971-a5e9-4fffc996a826"
+      Hint: description
+      Value: Description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T074648Z
+    - ID: "28acf503-5a8e-4192-8c9d-9e208241d584"
+      Hint: header
+      Value: Heading Lorem
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b263d36b-9f64-47da-93d4-07b2c40cae1a"
+      Hint: subheader
+      Value: Make a travel insurance claim for
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "12082ef3-9eba-4971-a5e9-4fffc996a826"
+      Hint: description
+      Value: รายละเอียดสินค้า lorem ipsum dolor sit amet, consectetur adipiscing elit, sed tempor and vitality เพื่อให้แรงงานและความเศร้าโศกบางสิ่งที่สำคัญในการทำ eiusmod ในช่วงหลายปีที่ผ่านมาผู้ที่ออกกำลังกาย
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200908T063446Z
+    - ID: "28acf503-5a8e-4192-8c9d-9e208241d584"
+      Hint: header
+      Value: หัวเรื่อง lorem
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b263d36b-9f64-47da-93d4-07b2c40cae1a"
+      Hint: subheader
+      Value: ทำเรื่องเคลมประกันการเดินทางสำหรับ

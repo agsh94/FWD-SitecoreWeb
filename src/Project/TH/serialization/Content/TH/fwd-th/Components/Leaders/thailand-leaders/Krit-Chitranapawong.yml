@@ -1,0 +1,85 @@
+﻿---
+ID: "3ee2d8b3-c193-4335-aea7-dfe189739934"
+Parent: "2e14c608-31d3-4365-9a5d-2483de408270"
+Template: "8e353b27-e5f9-4361-b332-9b3557fb7cd8"
+Path: "/sitecore/content/fwd/fwd-th/Components/Leaders/thailand-leaders/Krit-Chitranapawong"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Krit Chitranapawong
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{260740F8-B986-48EA-8DFC-7D21FE1112D8}" cropx="0.50" cropy="0.38" focusx="-0.00877192982456143" focusy="0.234375" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T095008Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: Krit Chitranapawong
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: |
+        <p>Krit plays a key leadership role at FWD Thailand, overseeing our alternative distribution channels and establishing strong foothold in this market.</p>
+        <p>He has a solid background in actuary and more than 17 years experience in distribution channel development, marketing and management - both life and GI. Krit also has a strong track record in building commercial growth and strong relationships with state enterprises, government and private sectors.</p>
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: Chief Alternative Distribution Officer
+    - ID: "bbbccdd6-3d72-4ace-b3de-ccbdb07bd39b"
+      Hint: description
+      Value: 
+    - ID: "c5348882-207d-46e7-b0fb-fc8ccef4d5a1"
+      Hint: isFeatured
+      Type: Checkbox
+      Value: 0
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{260740F8-B986-48EA-8DFC-7D21FE1112D8}" cropx="0.50" cropy="0.39" focusx="-0.00877192982456143" focusy="0.21875" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T084343Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: กฤต จิตรนภาวงค์
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: <p>คุณกฤตรับผิดชอบกำกับดูแลการดำเนินงานทุกอย่างที่เกี่ยวข้องกับช่องทางพิเศษ และมีหน้าที่สำคัญในการสร้างรากฐานและเครือข่ายทางการตลาดที่แข็งแกร่งในช่องทางพิเศษนี คุณกฤตมีความเชี่ยวชาญในงานด้านคณิตศาสตร์ประกันภัยและมีประสบการณ์มากกว่า 17 ปี ในการพัฒนาการตลาดและการขาย การวางกลยุทธ์และการบริหารจัดการช่องทางการจัดจำหน่าย ตลอดจนการบริหารพันธมิตรทางธุรกิจ คุณกฤตมีผลงานที่เด่นชัดในการสร้างความเติบโตทางธุรกิจและบริหารพันธมิตร ทั้งในส่วนภาครัฐ ภาคเอกชน และรัฐวิสาหกิจ ให้กับบริษัท ประกันชั้นแนวหน้าของไทย ทั้งประกันชีวิตและประกันวินาศภัย</p>
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: ประธานเจ้าหน้าที่สายงานช่องทางการจัดจำหน่ายพิเศษ
+    - ID: "bbbccdd6-3d72-4ace-b3de-ccbdb07bd39b"
+      Hint: description
+      Value: 
+    - ID: "c5348882-207d-46e7-b0fb-fc8ccef4d5a1"
+      Hint: isFeatured
+      Type: Checkbox
+      Value: 0
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: 
+    - ID: "ffce884f-680c-485e-9bef-f4dbf574d377"
+      Hint: featuredPictogramImage
+      Value: |
+        <image mediaid="{F7D82769-AF23-4E37-B4F1-C32E0C641585}" />

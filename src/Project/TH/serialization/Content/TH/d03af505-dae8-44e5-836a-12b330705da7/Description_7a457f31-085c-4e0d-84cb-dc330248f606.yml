@@ -1,0 +1,33 @@
+﻿---
+ID: "7a457f31-085c-4e0d-84cb-dc330248f606"
+Parent: "d03af505-dae8-44e5-836a-12b330705da7"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/safe-lifting-tips/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200928T071020Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>สเต็ป 1 : ยืนใกล้วัตถุ</strong><br />
+        เริ่มจากการยืนใกล้กับวัตถุที่ต้องการยกให้มากที่สุด วางเท้าข้างใดข้างหนึ่งอยู่ข้างวัตถุ และเท้าอีกข้างวางไว้หลังตัวเองเล็กน้อย เพื่อการทรงตัวที่มั่นคง และเพื่อป้องกันการเสียสมดุลของร่างกายเวลายก</p>
+        <p>&nbsp;</p>
+        <p><strong>สเต็ป 2 : ย่อเข่าให้หลังตรง</strong><br />
+        สเต็ปนี้...สายย่อต้องชอบ! ซึ่งวิธียกของหนักที่ถูกต้อง คือ เราต้องย่อเข่าลง ลำตัวตรงอยู่กับที่ เพื่อให้กระดูกสันหลังเป็นแนวตรงตามธรรมชาติ ทำให้น้ำหนักที่กดบนหมอนรองกระดูกสันหลังกระจายตัวเท่าๆ กันนั่นเอง</p>

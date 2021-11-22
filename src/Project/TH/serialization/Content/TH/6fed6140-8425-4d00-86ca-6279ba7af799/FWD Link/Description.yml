@@ -1,0 +1,133 @@
+﻿---
+ID: "ac5e646c-a02e-4a31-b54f-d153902990a5"
+Parent: "a57f8c5c-969c-4141-bc8f-1265f5cdb4ff"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/premium-payment/local-folder/premium-payment/DropdownItem/FWD Link/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200629T080548Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><a href="https://iservice.fwd.co.th/login.aspx">iService</a> is our safe and secure online payment platform.</p>
+        <p>It means you can pay your premiums &ndash; 24/7 - in three easy ways:</p>
+        <ol>
+            <li><span>Via credit card. We accept VISA and Master Card</span></li>
+            <li><span>Via internet banking. Simply find your bank and we'll take you through each step</span></li>
+            <li><span>Via LINE. Either log in with your LINE account or scan your QR code </span></li>
+        </ol>
+        <br />
+        <p>Not yet registered with iService?</p>
+        <p>You can do this quickly and easily using either your ID card number or passport number.</p>
+        <br />
+        <p>Once you've paid, we'll give you a reference number, plus send payment confirmation by SMS the next business day. We'll also send a receipt by post. Please allow a few days for any mail to reach you.</p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200918T035641Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><a href="https://fwdlink.fwd.co.th/fwd/?utm_source=fwd-website&amp;utm_medium=referral&amp;utm_campaign=20200921-fwd-website-info">FWD Link</a>&nbsp;is our safe and secure online payment platform.</p>
+        <p>It means you can pay your premiums &ndash; 24/7 - in three easy ways:</p>
+        <ol>
+            <li><span>Via credit card. We accept VISA and Master Card</span></li>
+            <li><span>Via internet banking. Simply find your bank and we'll take you through each step</span></li>
+            <li><span>Via LINE. Either log in with your LINE account or scan your QR code </span></li>
+        </ol>
+        <br />
+        <p>Not yet registered with FWD Link?</p>
+        <p>You can do this quickly and easily using either your ID card number or passport number.</p>
+        <br />
+        <p>Once you've paid, we'll give you a reference number, plus send payment confirmation by SMS the next business day. We'll also send a receipt by post. Please allow a few days for any mail to reach you.</p>
+        <p><span style="color: black;">&nbsp;</span></p>
+        <p><span style="color: black;">Note : Unfortunately, any policies bought from SCB or through a former agency channel&nbsp;are not yet compatible with FWD Link.</span></p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200918T035641Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200629T103956Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><a href="https://iservice.fwd.co.th/login.aspx">iService</a> คือแพลตฟอร์มการชำระเงินออนไลน์ที่ปลอดภัยของเรา</p>
+        <p>ซึ่งคุณสามารถชำระค่าเบี้ยประกันภัยของคุณได้ตลอด 24 ชั่วโมง ด้วย 3 วิธีง่ายๆ ดังนี้:</p>
+        <ol>
+            <li>ผ่านบัตรเครดิต เรารับชำระโดยบัตรวีซ่าและมาสเตอร์การ์ด</li>
+            <li>ผ่านอินเตอร์เน็ตแบงค์กิ้ง ง่ายๆ เพียงค้นหาธนาคารที่คุณต้องการทำรายการและเราจะนำคุณไปสู่แต่ละขั้นตอน</li>
+            <li>ผ่านไลน์ เข้าสู่ระบบด้วยบัญชีไลน์ของคุณ หรือสแกนคิวอาร์โค้ด</li>
+        </ol>
+        <br />
+        <p>ยังไม่ได้ลงทะเบียน iService?</p>
+        <p>คุณสามารถลงทะเบียนได้รวดเร็วและง่ายดาย เพียงใช้หมายเลขบัตรประชาชน หรือหมายเลขพาสปอร์ตของคุณ</p>
+        <br />
+        <p>เมื่อคุณชำระเงินเป็นที่เรียบร้อยแล้ว เราจะส่งหมายเลขอ้างอิง พร้อมเอกสารยืนยันการชำระเงิน ผ่านทาง SMS ในวันทำการถัดไป และส่งใบเสร็จรับเงินให้กับคุณทางไปรษณีย์ ซึ่งอาจใช้เวลาประมาณ 2-3 วันทำการ</p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200918T040031Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><a href="https://fwdlink.fwd.co.th/fwd/?utm_source=fwd-website&amp;utm_medium=referral&amp;utm_campaign=20200921-fwd-website-info">FWD Link</a>&nbsp;คือแพลตฟอร์มการชำระเงินออนไลน์ที่ปลอดภัยของเรา</p>
+        <p>ซึ่งคุณสามารถชำระค่าเบี้ยประกันภัยของคุณได้ตลอด 24 ชั่วโมง ด้วย 3 วิธีง่ายๆ ดังนี้:</p>
+        <ol>
+            <li>ผ่านบัตรเครดิต เรารับชำระโดยบัตรวีซ่าและมาสเตอร์การ์ด</li>
+            <li>ผ่านอินเตอร์เน็ตแบงค์กิ้ง ง่ายๆ เพียงค้นหาธนาคารที่คุณต้องการทำรายการและเราจะนำคุณไปสู่แต่ละขั้นตอน</li>
+            <li>ผ่านไลน์ เข้าสู่ระบบด้วยบัญชีไลน์ของคุณ หรือสแกนคิวอาร์โค้ด</li>
+        </ol>
+        <br />
+        <p>ยังไม่ได้ลงทะเบียน FWD Link?</p>
+        <p>คุณสามารถลงทะเบียนได้รวดเร็วและง่ายดาย เพียงใช้หมายเลขบัตรประชาชน หรือหมายเลขพาสปอร์ตของคุณ</p>
+        <br />
+        <p>เมื่อคุณชำระเงินเป็นที่เรียบร้อยแล้ว เราจะส่งหมายเลขอ้างอิง พร้อมเอกสารยืนยันการชำระเงิน ผ่านทาง SMS ในวันทำการถัดไป และส่งใบเสร็จรับเงินให้กับคุณทางไปรษณีย์ ซึ่งอาจใช้เวลาประมาณ 2-3 วันทำการ</p>
+        <p>&nbsp;</p>
+        <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left;"><span style="color: black;">หมายเหตุ กรมธรรม์ที่ซื้อผ่านธนาคารไทยพาณิชย์และตัวแทนเดิมไม่สามารถชำระค่าเบี้ยประกันภัยผ่านบริการ </span><span style="color: black;">FWD link </span><span style="color: black;">ได้</span></p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200918T040031Z

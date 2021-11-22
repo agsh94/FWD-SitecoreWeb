@@ -1,0 +1,53 @@
+﻿---
+ID: "09f0bd26-ad4f-49a3-b3aa-4dcc42a21516"
+Parent: "2ad2459c-be92-4e9b-8e70-97c48120f0a0"
+Template: "ea22f56c-b79d-4ee8-96bf-61e4c32bd034"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/local-folder/GroupProductList/Accident"
+DB: master
+BranchID: "363a8e61-068f-4c29-bcd2-79b676e3a53d"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{CDC36767-D0EA-46E8-8448-B46173FA4DF1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200121T100537Z
+    - ID: "703b9cb2-cc5d-4ff6-b310-4a4136a5991a"
+      Hint: description
+      Value: Accidents can happen any time, both inside and outside of work. So we designed our Group Accident policies with broad coverage so your employees can feel confident, and reassured.
+    - ID: "d6d3ce14-ebd2-43ee-bfab-d3800762e9b4"
+      Hint: title
+      Value: Group accident insurance
+    - ID: "f0eaa081-54d6-4839-9035-5e9625656318"
+      Hint: groupProducts
+      Type: Multilist
+      Value: "{C78C044B-6B4B-4B4F-83BC-62FB6C991A28}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T115847Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "703b9cb2-cc5d-4ff6-b310-4a4136a5991a"
+      Hint: description
+      Value: เพราะอุบัติเหตุเกิดขึ้นได้ทุกเวลา ไม่ว่าจะในหรือนอกเวลางาน เอฟดับบลิวดีจึงออกแบบประกันอุบัติเหตุกลุ่มที่ครอบคลุม เพื่อให้พนักงานของคุณมั่นใจ และกล้าใช้ชีวิตอย่างเต็มที่
+    - ID: "d6d3ce14-ebd2-43ee-bfab-d3800762e9b4"
+      Hint: title
+      Value: ประกันอุบัติเหตุกลุ่ม
+    - ID: "f0eaa081-54d6-4839-9035-5e9625656318"
+      Hint: groupProducts
+      Type: Multilist
+      Value: "{C78C044B-6B4B-4B4F-83BC-62FB6C991A28}"

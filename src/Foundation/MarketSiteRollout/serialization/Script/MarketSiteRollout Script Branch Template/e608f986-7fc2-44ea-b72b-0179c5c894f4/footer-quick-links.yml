@@ -1,0 +1,22 @@
+﻿---
+ID: "81761964-8771-408c-b787-f52305fe7284"
+Parent: "e608f986-7fc2-44ea-b72b-0179c5c894f4"
+Template: "66911bb0-92b5-47a6-94fd-501cb02990e6"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Components/footerLinks/footer-quick-links"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: network/32x32/link_add.png
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Footer Quick Links
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200226T070033Z

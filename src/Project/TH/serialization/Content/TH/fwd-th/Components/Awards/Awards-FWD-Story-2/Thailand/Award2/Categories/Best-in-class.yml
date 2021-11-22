@@ -1,0 +1,37 @@
+﻿---
+ID: "b1d67627-5cc8-40ba-b719-ef31316f7ce8"
+Parent: "d9677db1-728b-472b-81d6-7748e1107625"
+Template: "fe025dfd-10ae-4559-8cf9-1e9215f275bc"
+Path: "/sitecore/content/fwd/fwd-th/Components/Awards/Awards-FWD-Story-2/Thailand/Award2/Categories/Best-in-class"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05787c2f-a969-4cd8-92e3-8e2c1a5e5a7b"
+      Hint: subCategory
+      Value: "Brands of the year - Insurance"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191106T061716Z
+    - ID: "bf0b94ee-540b-4a6e-b8ac-95adb6bab665"
+      Hint: Name
+      Value: "Best-in-class"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05787c2f-a969-4cd8-92e3-8e2c1a5e5a7b"
+      Hint: subCategory
+      Value: "Brands of the year - Insurance"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T084753Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "bf0b94ee-540b-4a6e-b8ac-95adb6bab665"
+      Hint: Name
+      Value: "Best-in-class"

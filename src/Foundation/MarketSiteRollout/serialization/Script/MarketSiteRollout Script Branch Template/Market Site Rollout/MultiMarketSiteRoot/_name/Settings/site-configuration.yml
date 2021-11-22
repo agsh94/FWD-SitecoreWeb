@@ -1,0 +1,170 @@
+﻿---
+ID: "38acb811-aef4-4008-9dbe-ed2a8a90b1a5"
+Parent: "4604a084-1961-49d8-8736-db60a4c57ad9"
+Template: "b9f65b53-bef1-4f96-be03-add97a317430"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Settings/site-configuration"
+DB: master
+SharedFields:
+- ID: "1a01b659-e12a-4495-8020-ac9fa041b7fa"
+  Hint: gTagId
+  Value: "GTM-WKBBW9X"
+- ID: "4570b43c-05b4-4329-9995-74f084e7e97d"
+  Hint: RobotsContent
+  Value: |
+    User-agent: *
+    Disallow: /
+- ID: "68670826-4ef9-4bde-81bb-518f823493b9"
+  Hint: ProductListPageLink
+  Value: 
+- ID: "7daf78b7-7800-46c5-af1d-f2f7984bdf19"
+  Hint: notification
+  Value: 
+- ID: "80ef8d42-da76-4e97-ae53-ae67aa838fc9"
+  Hint: gaId
+  Value: "GTM-WKBBW9X"
+- ID: "fc699a02-9aa7-4d46-8c8b-0b99baecbdbc"
+  Hint: faviconIcon
+  Value: |
+    <image mediaid="{95375C0D-512E-43D8-BE0D-7A2AEE849197}" />
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Site Configuration
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09b1ef37-9415-43c9-a19d-654bd7ed1a9e"
+      Hint: currencyPlacement
+      Value: "{C8EA6DAF-6AB4-4DF9-B5A5-04FAA89CDB28}"
+    - ID: "14a16f5c-4818-48f2-a805-eb3c5bf16264"
+      Hint: branchLocatorLink
+      Value: 
+    - ID: "1e9fa436-cf10-4557-97e0-2ccf3807cacb"
+      Hint: hospitalLocatorLink
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191112T163450Z
+    - ID: "27972f82-0588-4649-963a-b545b457423a"
+      Hint: premiumPackagePage
+      Value: 25000
+    - ID: "28e8ab46-5b72-4a6c-88a4-6fae67020bee"
+      Hint: sumAssuredRiderPage
+      Value: 4000
+    - ID: "5355ee7a-26a3-4dae-ad2e-ca1984d8d1da"
+      Hint: cookieMessage
+      Value: |
+        <p>By using our website you consent to accepting cookies.</p>
+        <p>See our&nbsp;<a href="/PrivacyPolicy" target="_blank" id="Cookie Policy">Cookie Policy</a></p>
+        <p>&nbsp;</p>
+    - ID: "594b67ad-67aa-42e3-a682-be03497dd1a3"
+      Hint: sumAssuredProductPage
+      Value: 1000
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7dec68a4-c6f1-42d2-8c61-66eb36028cdc"
+      Hint: sumAssuredPackagePage
+      Value: 3000
+    - ID: "8d4a41c9-88a1-4300-a519-060925e8fc73"
+      Hint: cookieTimeStampSplash
+      Value: 10
+    - ID: "a5c6db7b-76f2-42c9-adea-d110c6a8867c"
+      Hint: SplashPageLink
+      Value: 
+    - ID: "c5a24cfe-0480-4fcf-80ba-47c46b6b2376"
+      Hint: cookieTimeStamp
+      Value: 10
+    - ID: "c9b6a81b-05fc-4e90-a28e-b5320cfc0f14"
+      Hint: premiumRiderPage
+      Value: 2000
+    - ID: "d3cac5d2-bbe9-44c4-9f1b-6842c2cd8750"
+      Hint: premiumProductPage
+      Value: 5000
+    - ID: "e80b7a9b-48cf-48b0-8ec2-d7d1863df80d"
+      Hint: shareOptions
+      Type: Multilist
+      Value: |
+        {04DDBC9C-3FCB-4532-A59A-7A23100BEE5D}
+        {7470A42B-E669-40CC-A5F8-07606E901B82}
+        {659E8D92-E103-4277-B885-5DE4A0C0E822}
+    - ID: "eb3ca4f2-7250-4248-8e3b-a9960d182812"
+      Hint: sessionTimeout
+      Value: 20
+    - ID: "ec1018fa-5708-4ce7-8cc4-d2c9ed08c640"
+      Hint: enablePlanCardSharePostCalc
+      Type: Checkbox
+      Value: 0
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09b1ef37-9415-43c9-a19d-654bd7ed1a9e"
+      Hint: currencyPlacement
+      Value: "{9BD24E88-3BC4-4153-BBF8-4EB8CDAA918B}"
+    - ID: "14a16f5c-4818-48f2-a805-eb3c5bf16264"
+      Hint: branchLocatorLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{AAD27929-2ECF-455F-9D17-7FBE1554B510}" />
+    - ID: "1e9fa436-cf10-4557-97e0-2ccf3807cacb"
+      Hint: hospitalLocatorLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{EE338D6E-F74B-4A3C-AD12-A3E1CE871156}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T072022Z
+    - ID: "27972f82-0588-4649-963a-b545b457423a"
+      Hint: premiumPackagePage
+      Value: 25000
+    - ID: "28e8ab46-5b72-4a6c-88a4-6fae67020bee"
+      Hint: sumAssuredRiderPage
+      Value: 4000
+    - ID: "5355ee7a-26a3-4dae-ad2e-ca1984d8d1da"
+      Hint: cookieMessage
+      Value: |
+        <p>By using our website you consent to accepting cookies.</p>
+        <p>See our&nbsp;<a href="/PrivacyPolicy" target="_blank" id="Cookie Policy">Cookie Policy</a></p>
+        <p>&nbsp;</p>
+    - ID: "594b67ad-67aa-42e3-a682-be03497dd1a3"
+      Hint: sumAssuredProductPage
+      Value: 1000
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7dec68a4-c6f1-42d2-8c61-66eb36028cdc"
+      Hint: sumAssuredPackagePage
+      Value: 3000
+    - ID: "8d4a41c9-88a1-4300-a519-060925e8fc73"
+      Hint: cookieTimeStampSplash
+      Value: 10
+    - ID: "a5c6db7b-76f2-42c9-adea-d110c6a8867c"
+      Hint: SplashPageLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D4ABF0F6-CFFE-4D09-8DD7-68BBEF6247AB}" />
+    - ID: "c5a24cfe-0480-4fcf-80ba-47c46b6b2376"
+      Hint: cookieTimeStamp
+      Value: 10
+    - ID: "c9b6a81b-05fc-4e90-a28e-b5320cfc0f14"
+      Hint: premiumRiderPage
+      Value: 2000
+    - ID: "d3cac5d2-bbe9-44c4-9f1b-6842c2cd8750"
+      Hint: premiumProductPage
+      Value: 5000
+    - ID: "e80b7a9b-48cf-48b0-8ec2-d7d1863df80d"
+      Hint: shareOptions
+      Type: Multilist
+      Value: |
+        {A012A6FA-55E0-420F-A6E0-A1624939FF2A}
+        {134AB32D-00D2-444D-93EE-40087238BF7F}
+        {1CDF0209-4876-4CC5-8E75-B725F4E9863C}
+    - ID: "eb3ca4f2-7250-4248-8e3b-a9960d182812"
+      Hint: sessionTimeout
+      Value: 20

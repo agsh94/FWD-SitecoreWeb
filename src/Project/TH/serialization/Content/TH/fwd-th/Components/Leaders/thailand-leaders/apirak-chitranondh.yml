@@ -1,0 +1,83 @@
+﻿---
+ID: "2b3b00f4-5f76-40c2-b6e5-c1ba94530847"
+Parent: "2e14c608-31d3-4365-9a5d-2483de408270"
+Template: "8e353b27-e5f9-4361-b332-9b3557fb7cd8"
+Path: "/sitecore/content/fwd/fwd-th/Components/Leaders/thailand-leaders/Apirak-Chitranondh"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 900
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Apirak Chitranondh
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{F66405D0-4F52-4575-976E-8E9174ADBFCC}" cropx="0.47" cropy="0.38" focusx="-0.052631578947368474" focusy="0.25" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T095008Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: Apirak Chitranondh
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: Apirak is responsible for our customers&rsquo; digital experience at FWD Thailand. He ensures we have the right people, products, and processes in place to best service our customers. Apirak has over 20 years leadership experience in the insurance industry.
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: Chief Technology and Operations Officer
+    - ID: "bbbccdd6-3d72-4ace-b3de-ccbdb07bd39b"
+      Hint: description
+      Value: 
+    - ID: "c5348882-207d-46e7-b0fb-fc8ccef4d5a1"
+      Hint: isFeatured
+      Type: Checkbox
+      Value: 0
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{F66405D0-4F52-4575-976E-8E9174ADBFCC}" cropx="0.48" cropy="0.34" focusx="-0.04385964912280704" focusy="0.3125" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T084343Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: อภิรักษ์ จิตรานนท์
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: คุณอภิรักษ์รับผิดชอบการดำเนินงานด้านประกันชีวิตซึ่งเกี่ยวข้องกับลูกค้าเป็นหลัก โดยมีบทบาทสำคัญในการวางแผนและบริหารจัดการองค์ประกอบในการปฏิบัติงานต่างๆ เพื่อให้ลูกค้าได้รับประสบการณ์ที่ดีที่สุด คุณอภิรักษ์เป็นผู้บริหารที่มีประสบการณ์ในอุตสากรรมประกันชีวิตมากกว่า 20 ปี
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: ประธานเจ้าหน้าที่สายงานเทคโนโลยีและปฏิบัติการ
+    - ID: "bbbccdd6-3d72-4ace-b3de-ccbdb07bd39b"
+      Hint: description
+      Value: 
+    - ID: "c5348882-207d-46e7-b0fb-fc8ccef4d5a1"
+      Hint: isFeatured
+      Type: Checkbox
+      Value: 0
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: 
+    - ID: "ffce884f-680c-485e-9bef-f4dbf574d377"
+      Hint: featuredPictogramImage
+      Value: |
+        <image mediaid="{F7D82769-AF23-4E37-B4F1-C32E0C641585}" />

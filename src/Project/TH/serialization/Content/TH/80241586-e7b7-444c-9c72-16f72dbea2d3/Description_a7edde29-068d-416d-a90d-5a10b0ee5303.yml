@@ -1,0 +1,27 @@
+﻿---
+ID: "a7edde29-068d-416d-a90d-5a10b0ee5303"
+Parent: "80241586-e7b7-444c-9c72-16f72dbea2d3"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/travel-leh-ladakh/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2000
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T073957Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>Day 1 : Bangkok - Delhi - Leh Town</strong><br />
+        ตอนนี้ยังไม่มีสายการบินไหนที่บินตรงจากไทย ทุกคนจำเป็นต้องไปต่อเครื่องที่ New Delhi ก่อน <strong>รวมเวลาก็ประมาณ 6 ชม. + เวลา Transit</strong> โดยไปถึงปุ๊ป นอกจากวิวที่สวยกระแทกหน้าตั้งแต่นั่งบนเครื่องมาแล้ว ก็อากาศนี่หละจ้า ลมแรงกระแทกเข้ามาเต็มๆ ดังนั้นวันแรกทุกคนจะโดนบังคับให้นอนพัก และอยู่แค่ในตัวเมืองเพื่อปรับสภาพร่างกายให้ชินกับพื้นที่สูง และความกดอากาศ โดยมีประกาศตั้งแต่บนเครื่อง และตอกย้ำอีกรอบจากปากเจ้าของไกด์ทัวร์ และที่พัก ว่า<strong>ห้ามโลดโผนเด็ดขาด ให้ค่อยๆ เดิน หายใจลึกๆ ห้ามสูบบุหรี่ และสุดท้าย ห้ามอาบน้ำ&nbsp;</strong>แหม่ จริงๆ ก็ไม่ได้อยากทำเลย แต่พี่เขาห้ามมา ก็สบายเราเลยทีนี้ ฮ่าๆ

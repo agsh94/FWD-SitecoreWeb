@@ -1,0 +1,55 @@
+﻿---
+ID: "c362184b-70bb-486b-ad6e-f1ed2eced7e5"
+Parent: "125908cd-3bdd-4343-80ec-53a3cd0c7ca0"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Support/What should I do if Ive failed to receive a cheque"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 900
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T142331Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "What should I do if I've failed to receive a cheque, or if the cheque is invalid?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        You can contact your agent, one of our branch offices, or our customer service at 1351 and inform us of the insured’s name and policy number.<br />
+        <br />
+        If the cheque is invalid, please return it to FWD at the following address and we will issue you with a new cheque:<br />
+        <br />
+        FWD Life Insurance Public Company Limited,<br />
+        14th floor, Sindhorn Building Tower 3, 130-132 Wireless Road,<br />
+        Lumpini, Pathumwan, Bangkok 10330
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T142225Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "กรณีไม่ได้รับเช็คของบริษัทหรือเช็คหมดอายุต้องทำอย่างไร?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <p>คุณสามารถติดต่อแจ้งเรื่องได้ที่ ตัวแทนผู้ให้บริการ สาขาของบริษัททุกแห่งทั่วประเทศ หรือศูนย์บริการลูกค้าเอฟดับบลิวดี โทร. 1351 โดยแจ้งชื่อผู้เอาประกันและหมายเลขกรมธรรม์</p>
+        <p>กรณีเช็คหมดอายุ กรุณาส่งเช็คฉบับดังกล่าวมายังบริษัทตามที่อยู่ด้านล่าง เพื่อทำการออกเช็คใหม่</p>
+        <p>บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) เลขที่ 130-132 ชั้นที่ 14 อาคารสินธร ทาวเวอร์ 3 ถนนวิทยุ แขวงลุมพินี เขตปทุมวัน กรุงเทพฯ 10330</p>

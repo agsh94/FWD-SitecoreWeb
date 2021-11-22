@@ -1,0 +1,64 @@
+﻿---
+ID: "aeb5594a-aab5-4e3b-80c1-f6a14e16f3ab"
+Parent: "e470db9b-0479-4210-809d-10ad02ac0ae0"
+Template: "c0f635f5-556e-4209-b52c-3e91745d9756"
+Path: "/sitecore/content/fwd/fwd-th/Home/Search/local-folder/global-search/Articles/Article Type"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "02247d65-9465-42e9-a889-87f39fabebca"
+      Hint: filterValues
+      Type: Treelist
+      Value: |
+        {9B4F5DC4-00EC-4983-8861-75885C261E9E}
+        {0D2D80E1-1FB0-43E9-805C-D1CBF54ED303}
+        {B89634B8-1F35-41A7-B79B-5E1DF8567EBB}
+        {F9477F10-1A0C-48A1-9AB0-4CD0672C9AA9}
+        {14A0B763-3336-4704-92A8-F4A429672103}
+        {08B2F110-35F4-4EA3-86E8-DAF511BB577D}
+        {185C8DDD-E0AF-412F-B44B-E151036623B1}
+        {2C119D5A-E765-4E12-9F26-A2B7028D3FFD}
+        {74141E42-1C1A-40A8-AE46-D492DACA455B}
+        {86924A38-30E8-45E4-AE10-1663F1632B58}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200407T041630Z
+    - ID: "f8c0d3f7-d4dd-4635-b27a-427fb485ab8a"
+      Hint: filter
+      Value: "{3460BC47-4D35-43B0-9D7D-9F7471EA5D82}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "02247d65-9465-42e9-a889-87f39fabebca"
+      Hint: filterValues
+      Type: Treelist
+      Value: |
+        {9B4F5DC4-00EC-4983-8861-75885C261E9E}
+        {0D2D80E1-1FB0-43E9-805C-D1CBF54ED303}
+        {B89634B8-1F35-41A7-B79B-5E1DF8567EBB}
+        {F9477F10-1A0C-48A1-9AB0-4CD0672C9AA9}
+        {14A0B763-3336-4704-92A8-F4A429672103}
+        {08B2F110-35F4-4EA3-86E8-DAF511BB577D}
+        {A6C7BF3A-3A8A-42F8-9276-29480EFFC2C9}
+        {12E72978-9BAF-4110-A668-61F1E8DF8D92}
+        {16E100BB-C6E3-4C43-9770-45802CE9161F}
+        {446F28FB-9B81-4CF4-BE63-B0718A3DA001}
+        {C42DBDF7-CCC5-4AC0-BE93-E79E467F1BAE}
+        {185C8DDD-E0AF-412F-B44B-E151036623B1}
+        {2C119D5A-E765-4E12-9F26-A2B7028D3FFD}
+        {86924A38-30E8-45E4-AE10-1663F1632B58}
+        {74141E42-1C1A-40A8-AE46-D492DACA455B}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200416T110150Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "f8c0d3f7-d4dd-4635-b27a-427fb485ab8a"
+      Hint: filter
+      Value: "{3460BC47-4D35-43B0-9D7D-9F7471EA5D82}"

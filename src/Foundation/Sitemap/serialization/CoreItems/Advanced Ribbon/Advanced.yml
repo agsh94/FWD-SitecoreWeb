@@ -1,0 +1,34 @@
+﻿---
+ID: "ce0b18e5-70e3-4c67-89c3-8bca0fb7e4b6"
+Parent: "073bbb5d-65b5-485f-a1f8-64e55c84696e"
+Template: "ef295cd8-19d4-4e02-9438-94c926ef5284"
+Path: /sitecore/content/Applications/Content Editor/Ribbons/Ribbons/Default/Advanced
+DB: core
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 950
+- ID: "c9ce97fb-3e8e-4384-9430-7dba75b275dd"
+  Hint: Reference
+  Value: "{4D900504-3655-48CB-B8F9-865DF7D5EA10}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20061123T152202Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20060322T132920Z

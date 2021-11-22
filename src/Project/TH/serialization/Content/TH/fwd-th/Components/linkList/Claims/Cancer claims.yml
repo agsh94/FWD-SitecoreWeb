@@ -1,0 +1,41 @@
+﻿---
+ID: "4ab96dad-8d49-40bd-914c-8bb5c4e9ee55"
+Parent: "a1e93ab8-e766-4c8e-9285-e1a6c8b901b4"
+Template: "1d74b3b3-2234-4eac-bd93-d00a35863a01"
+Path: "/sitecore/content/fwd/fwd-th/Components/linkList/Claims/Cancer claims"
+DB: master
+SharedFields:
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{87CF289A-FFD8-40D6-9BBF-6AB4C254B197}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200625T103942Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Cancer claims" anchor="" linktype="internal" class="" title=""  querystring="" id="{433BFB79-6580-44CA-8FDF-7DB422C1215F}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200625T104539Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="เรียกร้องสินไหมโรคมะเร็ง" anchor="" linktype="internal" class="" title=""  querystring="" id="{433BFB79-6580-44CA-8FDF-7DB422C1215F}" />

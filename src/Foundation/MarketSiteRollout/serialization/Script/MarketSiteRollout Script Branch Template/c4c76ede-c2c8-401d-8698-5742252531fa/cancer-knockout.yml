@@ -1,0 +1,204 @@
+﻿---
+ID: "3e6071fb-fb5d-456a-ba7c-926aec136d94"
+Parent: "c4c76ede-c2c8-401d-8698-5742252531fa"
+Template: "8c431675-a9b1-4774-b7e9-8a30e7522fe3"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Health/cancer-knockout"
+DB: master
+SharedFields:
+- ID: "0335b2bf-73a5-4556-845c-3d293900a051"
+  Hint: calculationOptions
+  Type: Multilist
+  Value: "{4427E37A-FF0A-4C22-956A-B6775EE2D406}"
+- ID: "1294d890-c666-4ba0-b34a-68aaacfb432c"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: "{5791C3FD-37BD-43BE-AA7E-0426234066CE}"
+- ID: "1d3856ad-c8db-42d3-b82a-e7d555d1c57b"
+  Hint: contentType
+  Value: "{337107F6-6431-4012-A32B-537E7508820E}"
+- ID: "27dcf3b3-6b64-45be-9830-7b18e7b5a30d"
+  Hint: purchaseMethod
+  Type: Multilist
+  Value: "{AFC3EF02-C5F5-477E-97E6-0B72917425A5}"
+- ID: "3d992b17-a5b9-46ad-ad74-057f59dde04e"
+  Hint: userType
+  Type: Multilist
+  Value: "{912DD989-8E13-413F-911D-00927C44FA69}"
+- ID: "53e81091-36e9-4fae-82ef-cc970323fb4a"
+  Hint: promotionLabel
+  Value: "{51EA95EC-DAA7-46E4-82DB-86D6B2B9B626}"
+- ID: "5da84e26-edc9-46f4-a612-9d0a06f10f78"
+  Hint: maxAge
+  Value: 65
+- ID: "7d65632c-3707-4aa1-8fde-154708f5309b"
+  Hint: secondaryNeedTags
+  Type: Multilist
+  Value: |
+    {7B476DAC-667B-4E5B-A820-16A83D975B7E}
+    {6A637930-3D5A-4E04-8F79-40CE77913B95}
+- ID: "94def7f2-cb5c-478d-b5a3-58b9337cec2f"
+  Hint: minAge
+  Value: 16
+- ID: "af94fe71-3c3b-4b14-ae3a-dca68b492f9f"
+  Hint: expectedInsuranceType
+  Value: "{8690D820-798B-4037-9E6F-84DE9FCA695B}"
+- ID: "b3910e5d-a842-4cc7-ac42-7a16a325a534"
+  Hint: promotionLabelIcon
+  Value: "{50D0B9C3-8A9C-4752-A572-5B2DC3D8B7DA}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 275
+- ID: "bdc75d02-2884-4dbb-a5a1-f54b2d539328"
+  Hint: featuredTags
+  Type: Treelist
+  Value: |
+    {5791C3FD-37BD-43BE-AA7E-0426234066CE}
+    {B043BE3A-123E-4F13-9F54-54FAC2B6C37C}
+    {7B476DAC-667B-4E5B-A820-16A83D975B7E}
+- ID: "e09501cb-adda-4125-a787-ba70b6b7e436"
+  Hint: planComponent
+  Value: "{F8636671-F99D-4F4A-83A0-48A967D81A7F}"
+- ID: "e3e8c0b9-206d-4244-979b-966180ad502e"
+  Hint: sumAssuredPaymentMode
+  Type: Multilist
+  Value: |
+    {841ADCC5-0E34-49FD-8AF7-CB31DF656692}
+    {A90AED14-A023-4680-B2BE-A1999121D860}
+    {30D4F456-6094-443C-B87F-90D7EF7C2F6E}
+    {733A0160-DEBE-4F25-B188-819B3CF815A2}
+    {F6488E62-B165-449F-A3EE-43234D6D7C72}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{D94532E6-BD50-41FE-A3BA-DED9D8BB2517}">
+          <p:d />
+        </r>
+        <r
+          uid="{54B8EC17-1F44-4EA2-AEB9-0B419D680D37}"
+          p:after="r[@uid='{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}']"
+          s:ds="{EB9D4501-92B5-4BE7-9EF1-2183B0143B50}"
+          s:id="{5410E093-9B56-4C2F-B411-9FB3702CBC63}"
+          s:par="HeroBannerVariant=%7B0B1166D9-2C27-4392-B0FB-C3E5F2C18380%7D&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{5B47067E-A34B-4DB2-93F9-095A4DC20BFD}"
+          s:ds="{A593F395-950E-45A6-AD93-BEDF9719ACA3}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;contentBlockVariant=%7BB8818C35-0526-4FB3-8E2B-7F5CFD14E141%7D&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{237F2770-0A31-442F-A676-9E651984A6B6}">
+          <p:d />
+        </r>
+        <r
+          uid="{0BF780A5-980F-4EE5-80BD-A7B970035C0F}">
+          <p:d />
+        </r>
+        <r
+          uid="{48A4C6B3-B216-4A30-88EF-714272120566}">
+          <p:d />
+        </r>
+        <r
+          uid="{939257CD-A79B-41D1-9A9C-A7F3FD3657FE}">
+          <p:d />
+        </r>
+        <r
+          uid="{3F9BAE3E-0719-47B4-8376-2A0C73936026}"
+          s:ds="{C5138A46-79DA-4428-9AE0-9987CA17F6D9}"
+          s:par="anchorText&amp;backgroundColor=%7B615165B1-5A76-4404-86F6-6FF6F1D3D14E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{D3D28D76-A65B-4483-BA82-CAC78DDCE56E}">
+          <p:d />
+        </r>
+        <r
+          uid="{4118451A-26BC-4916-9F7C-DB9FDE5529D6}"
+          p:after="r[@uid='{3F9BAE3E-0719-47B4-8376-2A0C73936026}']"
+          s:ds="{1DF3B01A-A513-4116-8DDC-478CAA881E09}"
+          s:par="buttonAlignment=%7B8570C16E-5CA9-4A85-8A62-C661A5B4350B%7D&amp;variant&amp;numberOfColumns=%7B463993C4-D100-40EB-9898-6A8E60F3BB34%7D&amp;anchorText&amp;backgroundColor=%7BEBDF491B-A72E-47CA-A391-E44A39C9C329%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{548030DF-E06A-4FE6-95A1-E5D937B199D2}">
+          <p:d />
+        </r>
+        <r
+          uid="{AE7EE2B3-6174-43D4-8DA6-239AAF1187A6}">
+          <p:d />
+        </r>
+        <r
+          uid="{53E7C1E8-8942-4929-8241-5A29D3B7713D}"
+          s:par="anchorText&amp;backgroundColor=%7BF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+      </d>
+    </r>
+- ID: "feb2e6da-b570-4b5e-9d80-80ccad7d0d47"
+  Hint: sumAssuredSelectionType
+  Value: "{9D0029B7-CEFE-4B3A-BE29-73243AC8EE43}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Cancer Knockout
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T102834Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: FWD has designed the variety of savings insurance plans to cover all your needs, for you getting start by simply putting your money aside while living your life joyfully the way you want to. With our Savings Insurance Plans, you can paving a smooth financial path over time and no need to keep worry about the future.
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: Cancer Knockout Package
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Cancer Knockout
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{6F59038D-CA20-456A-8E86-EA7582DF345A}" />
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{D547F043-AF16-420E-BA09-F615D6E44040}" />
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: FWD has designed the variety of savings insurance plans to cover all your needs, for you getting start by simply putting your money aside while living your life joyfully the way you want to. With our Savings Insurance Plans, you can paving a smooth financial path over time and no need to keep worry about the future.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200130T150830Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: FWD has designed the variety of savings insurance plans to cover all your needs, for you getting start by simply putting your money aside while living your life joyfully the way you want to. With our Savings Insurance Plans, you can paving a smooth financial path over time and no need to keep worry about the future.
+    - ID: "509ddb4e-4831-4788-945e-c40355c36af3"
+      Hint: productTitle
+      Value: Cancer Knockout
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Cancer Knockout
+    - ID: "ac83fb29-ff54-4e16-81a5-4004aacaa355"
+      Hint: image
+      Value: |
+        <image mediaid="{11272320-CECC-4161-9015-6CBDDAAC0F2E}" />
+    - ID: "d692d69b-1737-4d06-9524-505abf09d277"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{10398967-2637-4D9F-B874-80CB56DFE008}" />
+    - ID: "faad7370-826c-4cf8-9d49-6877b1e5cb3c"
+      Hint: productDescription
+      Value: FWD has designed the variety of savings insurance plans to cover all your needs, for you getting start by simply putting your money aside while living your life joyfully the way you want to. With our Savings Insurance Plans, you can paving a smooth financial path over time and no need to keep worry about the future.

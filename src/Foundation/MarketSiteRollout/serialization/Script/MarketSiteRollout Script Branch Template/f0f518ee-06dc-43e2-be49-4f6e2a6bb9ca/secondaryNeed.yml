@@ -1,0 +1,18 @@
+﻿---
+ID: "51cfc2c8-3622-443b-a3f5-36b812093609"
+Parent: "f0f518ee-06dc-43e2-be49-4f6e2a6bb9ca"
+Template: "8d254d4a-bd30-4b07-8fa0-7464260d4bbc"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Tags/commonTags/Featured/secondaryNeed
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Secondary need
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191101T173658Z

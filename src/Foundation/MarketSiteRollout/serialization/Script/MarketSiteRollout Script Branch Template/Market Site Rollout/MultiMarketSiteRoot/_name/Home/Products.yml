@@ -1,0 +1,60 @@
+﻿---
+ID: "63a1a717-b6b0-4461-a265-fb285d7b302d"
+Parent: "0c85f34f-c7ef-4abf-8c68-f61c96789286"
+Template: "52873596-fd74-488b-9e6e-6382b1cc2eb2"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{A20F77A7-562E-4E3A-B76A-3FA65C15B57C}"
+          s:ds="{F42EC95F-2164-4445-A049-CF36E804B913}" />
+        <r
+          uid="{E0B1D925-F5BE-47D6-B73A-ADEE19477395}">
+          <p:d />
+        </r>
+        <r
+          uid="{86350048-4975-4BEF-B539-636564A6F70A}"
+          p:after="r[@uid='{A20F77A7-562E-4E3A-B76A-3FA65C15B57C}']"
+          s:ds="{5B1750A0-57CE-417D-AD2A-DF1142405E93}"
+          s:id="{9714408E-904A-4275-84C6-DACC99E42B9D}"
+          s:par="cardVariant=%7B391EEB52-5539-4302-AB99-A276A24F70C2%7D&amp;showProductCTA=1&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{57B90644-83E2-4CC2-BFE0-0E2033A7B13E}"
+          s:ds="{524E1D3F-A40C-4453-89DE-94B3A4AB4392}"
+          s:par="buttonAlignment=%7BCF02F396-DAFD-448E-BC19-15E66C7CBA54%7D&amp;variant&amp;numberOfColumns=%7B463993C4-D100-40EB-9898-6A8E60F3BB34%7D&amp;anchorText&amp;backgroundColor=%7BEBDF491B-A72E-47CA-A391-E44A39C9C329%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+        <r
+          uid="{E04C4397-F80D-4FD9-8C84-AA35987EA0C7}"
+          s:par="anchorText&amp;backgroundColor=%7BF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{3A60B151-9574-48C6-8D16-5C9231B4D14C}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T130051Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Get Insured

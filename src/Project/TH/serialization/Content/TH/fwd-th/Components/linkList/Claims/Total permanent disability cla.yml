@@ -1,0 +1,44 @@
+﻿---
+ID: "af62fedf-1958-4096-83d9-acc213d91db0"
+Parent: "a1e93ab8-e766-4c8e-9285-e1a6c8b901b4"
+Template: "1d74b3b3-2234-4eac-bd93-d00a35863a01"
+Path: "/sitecore/content/fwd/fwd-th/Components/linkList/Claims/Total permanent disability claims"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 125
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{00AD5F54-0B09-4427-95AD-97EE07F68AFC}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Total permanent disability claims
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191018T070234Z
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Total permanent disability claims" anchor="" linktype="internal" class="" title=""  querystring="" id="{D2287612-7D43-4F33-BAEA-A141E381B89D}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T071323Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="เรียกร้องสินไหมกรณีทุพพลภาพสิ้นเชิงถาวร" anchor="" linktype="internal" class="" title=""  querystring="" id="{D2287612-7D43-4F33-BAEA-A141E381B89D}" />

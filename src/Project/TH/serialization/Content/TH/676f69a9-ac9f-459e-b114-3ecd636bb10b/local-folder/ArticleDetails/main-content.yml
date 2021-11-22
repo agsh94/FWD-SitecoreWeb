@@ -1,0 +1,37 @@
+﻿---
+ID: "bde21c80-120d-4b43-b277-4502971ec447"
+Parent: "74137dc9-f82c-4849-9e86-a98803de32fc"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/about-us/News/article-detail-1/local-folder/ArticleDetails/main-content"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Main Content
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191122T110340Z
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>Hanoi, 12 Nov 2019</strong> &ndash; Joint Stock Commercial Bank for Foreign Trade of Vietnam (&ldquo;Vietcombank&rdquo;), the leading commercial bank in Vietnam, and FWD Group (&ldquo;FWD&rdquo;) announced today they have entered into a Distribution Agreement to establish an exclusive 15-year bancassurance partnership.<br />
+        <br />
+        Under the agreement, Vietcombank will distribute FWD&rsquo;s life insurance products. As part of the transaction, FWD has also agreed to purchase Vietcombank-Cardif Life Insurance (&ldquo;VCLI&rdquo;), a life insurance joint venture between Vietcombank and BNP Paribas Cardif. The transaction is subject to regulatory approvals.<br />
+        <br />
+        FWD plans to integrate VCLI into its existing business in Vietnam after the transaction is approved and completed. In the meantime, VCLI will continue to operate as before, through all its existing channels. VCLI customers will not be affected by the transfer of ownership to FWD and all existing policies will continue to be honoured by FWD following completion.<br />
+        <br />
+        Mr. <strong>Nghiem Xuan Thanh</strong>, Vietcombank&rsquo;s Chairman, said: &ldquo;After working carefully with highly reputable international financial and legal advisors to consider the strengths and qualities of various potential partners, we are happy to announce that we have selected FWD as the most qualified insurer to roll out the exclusive 15-year bancassurance partnership through Vietcombank&rsquo;s network. FWD Vietnam - the unit assigned by FWD Group to directly implement the partnership - has a prominent advantage in digitalizing all business processes, with a solid strategy of developing diversified, simple and suitable products for each customer segment that aligns with the Digital Banking Transformation and Retail Banking Operation Development Strategy of Vietcombank.&rdquo;<br />
+        <br />
+        Mr. <strong>Huynh Thanh Phong</strong>, FWD Group Chief Executive Officer, said: &ldquo;We&rsquo;re absolutely thrilled to secure this partnership with Vietcombank, the best bank in Vietnam. We&rsquo;re very proud to have established ourselves as a fresh and dynamic insurance challenger in just three years since entering Vietnam. This transaction and partnership with Vietcombank will take our Vietnam business to the next level and boost our ambitions to build a leading bancassurance franchise across the region as we continue to change the way people feel about insurance.&rdquo;<br />
+        <br />
+        <br />
+        - Ends -

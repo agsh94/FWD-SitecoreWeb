@@ -1,0 +1,35 @@
+﻿---
+ID: "20f20e62-040b-49bd-8f35-70ab9f0dc3b6"
+Parent: "05d87312-4552-42fd-8026-2c45f1b897a5"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Wealth/save-zone/local-folder/ArticleDetails/Description2"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200722T062545Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div style="display: none;">&nbsp;</div>
+        <p>นักลงทุนหน้าใหม่วัย Freshy ที่เริ่มเดินเตาะแตะในเส้นทางการเงิน Money Story เส้นทางการ SAVE ในขั้นนี้คงต้องเลือกแบบที่ Safe กับเงินต้นสุดๆ คุณควรเลือกช่องทางบริหารเงินแบบได้ผลตอบแทนที่แน่นอนเอาไว้ก่อนซึ่งอาจจะยังได้ผลตอบแทนยังไม่สูงมาก แต่ก็ช่วยลดความเสี่ยงได้ดี อาทิ เงินฝากประจำ ตั๋วเงินคลัง ตั๋วแลกเงิน พันธบัตรรัฐบาล ธนาคารแห่งประเทศไทย หุ้นกู้ของรัฐวิสาหกิจหรือของบริษัทเอกชน และกองทุนรวมบางประเภท เช่น กองทุนตลาดเงินที่ลงทุนในตราสารหนี้ระยะสั้นอายุไม่เกิน 1 ปี ซึ่งข้อดีของการ SAVE ด้วยการลงทุนเหล่านี้คือการที่คุณจะยังสามารถรักษาเงินต้นเอาไว้ได้ ทั้งยังคงได้ผลตอบแทนที่สม่ำเสมอ สามารถแบ่งเงินเพื่อลงทุนผสมกันในหลายๆ ช่องทางเพื่อช่วยกระจายความเสี่ยง</p>
+        <p>&nbsp;</p>
+        <p>Standard SAVE :</p>

@@ -1,0 +1,37 @@
+﻿---
+ID: "9e680411-b280-4b9a-ad78-04f048c6b28f"
+Parent: "4a5a98b8-5905-41e4-b845-72dc879e6f6d"
+Template: "7e64d9dc-f4a4-458c-bfa3-ee6aceed998f"
+Path: "/sitecore/content/fwd/fwd-th/Settings/Datasource/CampaignCard"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T091141Z
+    - ID: "498dd5b6-7dae-44a7-9213-1d32596ad14f"
+      Hint: DatasourceTemplate
+      Value: /sitecore/templates/FWD/Project/Global/Content Templates/Promotional Content
+    - ID: "5fe1cc43-f86c-459c-a379-cd75950d85af"
+      Hint: DatasourceLocation
+      Value: "query:./ancestor::*[@@templateid='{544A6BB2-03FF-404F-889F-225D92310585}']//*[@@templateid='{41B42838-BCCC-4FA3-A65F-2159F094AA3A}']"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T071857Z
+    - ID: "498dd5b6-7dae-44a7-9213-1d32596ad14f"
+      Hint: DatasourceTemplate
+      Value: /sitecore/templates/FWD/Project/Global/Content Templates/Promotional Content
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "5fe1cc43-f86c-459c-a379-cd75950d85af"
+      Hint: DatasourceLocation
+      Value: "query:/sitecore/content/fwd/#fwd-th#/home//*[@@templateID='{F1076E50-7EA9-4CE1-A4DA-09F5C71B91E3}']"

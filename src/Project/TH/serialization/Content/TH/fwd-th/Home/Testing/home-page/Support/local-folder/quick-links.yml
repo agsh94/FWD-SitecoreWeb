@@ -1,0 +1,41 @@
+﻿---
+ID: "34ac2c03-36d0-4b08-8f8c-893dd9fb3ac4"
+Parent: "e8bc2a3d-340b-44f8-9744-b282bae2dfba"
+Template: "68016eee-7ce8-453d-9b04-20bcd42da406"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Support/local-folder/quick-links"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Quick Links
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191021T142948Z
+    - ID: "d7fa80f1-d6d1-4ddd-9366-fd4a9c39b13a"
+      Hint: title
+      Value: Useful Links
+    - ID: "e5d5024c-a73c-4218-a3ce-0ec1d13276bc"
+      Hint: listItems
+      Value: "{1181A87E-65D1-4635-AB5F-B686110FF3AD}|{7B838460-B795-402B-9C0E-3F9893D8AE74}|{AC78CC6A-6E8D-4454-B72D-9CEF3C971594}|{3B0B2032-2A19-4506-B927-C1D5EA719F2D}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T104947Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d7fa80f1-d6d1-4ddd-9366-fd4a9c39b13a"
+      Hint: title
+      Value: ลิงค์ที่มีประโยชน์
+    - ID: "e5d5024c-a73c-4218-a3ce-0ec1d13276bc"
+      Hint: listItems
+      Value: "{1181A87E-65D1-4635-AB5F-B686110FF3AD}|{7B838460-B795-402B-9C0E-3F9893D8AE74}|{AC78CC6A-6E8D-4454-B72D-9CEF3C971594}|{3B0B2032-2A19-4506-B927-C1D5EA719F2D}"

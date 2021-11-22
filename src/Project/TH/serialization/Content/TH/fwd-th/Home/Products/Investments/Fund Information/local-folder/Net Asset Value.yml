@@ -1,0 +1,65 @@
+﻿---
+ID: "594ffe3f-6972-46a9-bf78-cf0faa47deea"
+Parent: "1ec33c06-6146-4aac-9359-2860aa289542"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Investments/Fund Information/local-folder/Net Asset Value"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200523T041249Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: At FWD we want you to make informed, confident choices. One of the ways we can help you achieve this is by posting the past performance of previous funds so that you can review and compare before you decide which fund(s) to invest in. Naturally, if you have any questions, we’re here to help.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Fund performance history
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Find out more" linktype="external" url="https://iservice.fwd.co.th/pages/UnitLinkNAV.aspx?_ga=2.95395164.1996298506.1589787387-1165537490.1589767259" anchor="" title="Net Asset Value" target="_blank" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200523T041953Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: ที่เอฟดับบลิวดี เรามุ่งหวังให้คุณได้ตัดสินใจพร้อมข้อมูลที่ครบถ้วน โดยสิ่งหนึ่งที่เราได้คัดสรรมาให้คุณก็คือ ผลการดำเนินงานของกองทุนที่ผ่านมา เพื่อที่คุณจะได้ศึกษารายละเอียดก่อนตัดสินใจ หากคุณมีข้อสงสัยใดๆ เราพร้อมให้ความช่วยเหลืออย่างดีที่สุด
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ผลการดำเนินงานของกองทุน
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="มูลค่าหน่วยลงทุน" linktype="external" url="https://iservice.fwd.co.th/pages/UnitLinkNAV.aspx?_ga=2.95395164.1996298506.1589787387-1165537490.1589767259" anchor="" title="มูลค่าทรัพย์สินสุทธิ" target="_blank" />

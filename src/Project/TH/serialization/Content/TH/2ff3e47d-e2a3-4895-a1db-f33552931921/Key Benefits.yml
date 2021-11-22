@@ -1,0 +1,17 @@
+﻿---
+ID: "9ce21c41-dc2f-4e5d-b1bc-03f6ed7db65c"
+Parent: "2ff3e47d-e2a3-4895-a1db-f33552931921"
+Template: "b35e143d-a4ef-497e-8326-f558715868e4"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/sa-stepper-and-premium-dropdown-valueprotector/PlanSuper/AttributeFolder/Key Benefits"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ce1ad82-1fa2-4aff-bca7-f02e23fa1099"
+      Hint: attributeSectionKey
+      Value: "{800167BE-A8E1-476E-B7A4-14EDB72061E1}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200614T190449Z

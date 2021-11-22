@@ -1,0 +1,54 @@
+﻿---
+ID: "ec9bfe2e-fd6e-4406-8dc2-41f87ded064c"
+Parent: "78535639-e784-4ced-94ad-657bf384146e"
+Template: "de4d5f49-8fde-4c71-9a10-fca834ec4653"
+Path: "/sitecore/content/fwd/fwd-th/Components/New Leaders/BOD"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "203b1f26-515b-46a0-b4ec-afce67afa10e"
+      Hint: cardVariant
+      Value: "{C0DF1746-485D-4546-AEB1-6F1313FE52D9}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200930T100457Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "bd4e7815-e890-4c5c-ac23-946cca311a97"
+      Hint: title
+      Value: Board of director
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "203b1f26-515b-46a0-b4ec-afce67afa10e"
+      Hint: cardVariant
+      Value: "{C0DF1746-485D-4546-AEB1-6F1313FE52D9}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200930T100551Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "bd4e7815-e890-4c5c-ac23-946cca311a97"
+      Hint: title
+      Value: กรรมการบริหาร

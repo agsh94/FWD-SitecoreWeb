@@ -1,0 +1,41 @@
+﻿---
+ID: "fdf5ee71-675b-4ac4-9f71-0b8b34197e7d"
+Parent: "5d801d94-570a-437f-a238-0fd2101dce5d"
+Template: "4faa2cd7-63df-4c30-abb2-9d55380d2106"
+Path: "/sitecore/content/fwd/fwd-th/Components/headerLinks/icon-navigation-links/Support/Live Chat"
+DB: master
+SharedFields:
+- ID: "0506ee6d-80ab-42a9-aa0d-06cb556b05b0"
+  Hint: pageType
+  Value: "{FB2C4A8A-0593-44B7-B7C4-AE07AF4F8BB2}"
+- ID: "a6ee811d-8f6f-4560-80b5-a4faa92bb6db"
+  Hint: buttonIcon
+  Value: "{631BC306-C30E-4D10-AFE5-670237118479}"
+- ID: "ffff450b-9e1e-472d-955f-c39bb9c6218b"
+  Hint: listType
+  Value: "{5E19AACF-53FC-4F68-A278-B0C8AB1C5B67}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200312T185044Z
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: Live chat
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200316T190616Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: ไลฟ์แชท

@@ -1,0 +1,59 @@
+﻿---
+ID: "abf489c5-b0a9-4f11-a56f-36e5d07b8864"
+Parent: "e2478895-21a1-44b8-9ff9-eaa361c241f8"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/FAQs/Claims/How can I obtain the original copy of a receipt which I need for my records  other reimbursement"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-25"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T013915Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "How can I obtain the original copy of a receipt which I need for my records / other reimbursement?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        You can state this request on the documents when submitting your claim. Or contact our customer service at <a href="tel:1351">1351</a>.<br />
+        <br />
+        Note:<br />
+        In the event that the amount of compensation for a hospital expense was not fully paid as stated in the receipt, we will return the original receipt and rubber-stamp the amount that we have approved to pay on that receipt.<br />
+        <br />
+        When a hospital expense is fully paid, as stated in the receipt, we will not return the original receipt, but will send you a copy - on which the amount of compensation we have approved to pay will be rubber-stamped.<br />
+        <div>&nbsp;</div>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T013812Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "หากต้องการขอใบเสร็จรับเงินต้นฉบับเพื่อเก็บไว้เป็นหลักฐานหรือนำไปเบิกต่อที่อื่น ต้องดำเนินการอย่างไร?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        คุณสามารถแจ้งความประสงค์การขอใบเสร็จรับเงินโดยแนบรายละเอียดมาพร้อมกับการส่งเอกสารเรียกร้องสินไหม หรือ ติดต่อผ่านศูนย์บริการลูกค้าเอฟดับบลิวดี โทร <a href="tel:1351">1351</a><br />
+        <br />
+        หมายเหตุ:<br />
+        กรณีมีการจ่ายสินไหมค่ารักษาพยาบาล ไม่เต็มตามจำนวนใบเสร็จรับเงิน บริษัทจะคืนใบเสร็จรับเงินต้นฉบับให้ โดยจะประทับตรายอดเงินที่บริษัทอนุมัติจ่ายลงในใบเสร็จรับเงิน<br />
+        <br />
+        กรณีมีการจ่ายสินไหมค่ารักษาพยาบาล เต็มตามจำนวนใบเสร็จรับเงิน บริษัทจะไม่คืนใบเสร็จรับเงินต้นฉบับให้ แต่จะจัดส่งสำเนาใบเสร็จรับเงินโดยจะประทับตรายอดเงินที่บริษัทอนุมัติจ่ายคืนให้เท่านั้น<br />
+        <div>&nbsp;</div>

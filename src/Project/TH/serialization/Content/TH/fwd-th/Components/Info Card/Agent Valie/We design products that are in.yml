@@ -1,0 +1,60 @@
+﻿---
+ID: "865479c8-3c65-4249-9dec-2b75c8be3575"
+Parent: "80cb1f4b-6759-460a-80aa-e30b1ef6d03d"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Components/Info Card/Agent Valie/We design products that are inspired by customers"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: We take time to find out what our customers want and then design the products around them – so we can support with insurance that perfectly meets their needs.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T100031Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: We design products that are inspired by customers
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{3B3CE29A-504E-4C4A-AFA6-0D0C3C992825}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{3B3CE29A-504E-4C4A-AFA6-0D0C3C992825}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: เราทุ่มเทเฟ้นหาสิ่งที่ลูกค้าต้องการเพื่อออกแบบผลิตภัณฑ์ที่ใช่ ดังนั้นเราจึงสามารถดูแลลูกค้า ด้วยผลิตภัณฑ์ประกันชีวิตที่ตรงกับตามความต้องการของลูกค้ามากที่สุด
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T100417Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: เราออกแบบผลิตภัณฑ์ที่ได้รับแรงบันดาลใจจากลูกค้าของเรา
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{3B3CE29A-504E-4C4A-AFA6-0D0C3C992825}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{3B3CE29A-504E-4C4A-AFA6-0D0C3C992825}" />

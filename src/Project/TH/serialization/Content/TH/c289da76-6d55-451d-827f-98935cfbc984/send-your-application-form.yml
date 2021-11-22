@@ -1,0 +1,43 @@
+﻿---
+ID: "87be9514-e493-43ca-9805-e5cbb2dec264"
+Parent: "c289da76-6d55-451d-827f-98935cfbc984"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Support/premium-payment/local-folder/premium-payment/general-insurance/Autopay/send-your-application-form"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Send your application form
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200107T093623Z
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Where to send your application form</strong></p>
+        <p>FWD Life Insurance Public Company Limited, 130-132 Sindhorn Building Tower 3, 28th floor Withayu Road, Lumpini, Pathumwan, Bangkok 10330</p>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T104951Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Where to send your application form</strong></p>
+        <p>FWD Life Insurance Public Company Limited, 130-132 Sindhorn Building Tower 3, 28th floor Withayu Road, Lumpini, Pathumwan, Bangkok 10330</p>

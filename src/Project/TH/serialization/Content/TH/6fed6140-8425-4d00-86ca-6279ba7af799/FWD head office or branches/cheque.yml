@@ -1,0 +1,53 @@
+﻿---
+ID: "1101780d-5560-4834-8ea8-83fc4b5d7db4"
+Parent: "af5ba7a2-85d2-42d5-aa34-91d9041fb3d4"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/premium-payment/local-folder/premium-payment/DropdownItem/FWD head office or branches/cheque"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: CHEQUE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200107T090503Z
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Cheques</strong></p>
+        <ul>
+            <li>Please make cheques payable to &ldquo;FWD Life Insurance Public Company Limited&rdquo;, cross &ldquo;A/C Payee only&rdquo; and &ldquo;Or Bearer&rdquo;</li>
+            <li>Specify your policy number/ insured name and contact number on the back of the cheque.</li>
+        </ul>
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: CHEQUE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T084826Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>เช็ค</strong></p>
+        <ul>
+            <li>กรุณาสั่งจ่ายเช็คขีดคร่อมในนาม "บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน)" และขีดฆ่า "หรือผู้ถือ"</li>
+            <li>ระบุ "เลขที่กรมธรรม์ / ชื่อ-นามสกุลผู้เอาประกันภัย / หมายเลขโทรศัพท์" ด้านหลังเช็ค</li>
+        </ul>

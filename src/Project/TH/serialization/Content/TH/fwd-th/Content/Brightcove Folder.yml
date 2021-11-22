@@ -1,0 +1,14 @@
+﻿---
+ID: "cea99f88-514e-4574-855c-3814d09d4580"
+Parent: "0e40abdb-cf6f-452f-8bd5-ef1a48f901f6"
+Template: "f80b61a0-31e0-480f-9464-4dab951b3e2a"
+Path: "/sitecore/content/fwd/fwd-th/Content/Brightcove Folder"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200826T072107Z

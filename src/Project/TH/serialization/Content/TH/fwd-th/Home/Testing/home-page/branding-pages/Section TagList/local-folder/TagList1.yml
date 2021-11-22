@@ -1,0 +1,58 @@
+﻿---
+ID: "c7aec261-7c01-43f8-a2be-517b7cf2bfa3"
+Parent: "57e8d63d-5e0a-46dd-9cb1-96c4cd005583"
+Template: "7c74cef1-823c-4bc7-a386-21feb21e7441"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/Section TagList/local-folder/TagList1"
+DB: master
+SharedFields:
+- ID: "8f397566-a4d1-4f23-8594-dce13b3720fe"
+  Hint: apiSortBy
+  Value: "{C27171A2-8AC2-4005-8076-DC7489E3997B}"
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{20162863-AE86-4B42-9AEC-B7A81A345553}"
+- ID: "ec781cb4-1cfe-42b3-a826-9798c79f2bf5"
+  Hint: featuredTags
+  Type: Multilist
+  Value: |
+    {4C6B8CB9-D359-4498-A1CD-107CBB0843FE}
+    {4F3A2D61-BBA0-47E8-AFAC-1A0873AC1D34}
+    {27B45F29-DD3F-42A5-A19F-5193A9205D68}
+    {3C9EC53A-BEB9-453F-8AC8-C913596E6457}
+    {E41A0842-6C1E-4DFA-B433-FB21A50E240D}
+    {6B6919DB-9AC4-47B0-AE05-860BF3B3650D}
+- ID: "ef2bcb82-b8a8-4be6-88a7-5269b777ad1d"
+  Hint: apiSubType
+  Value: "{9B4F5DC4-00EC-4983-8861-75885C261E9E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200724T052605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "998f4637-f83a-4df1-961d-20fbf17cd1af"
+      Hint: title
+      Value: Your Daily Inspiration
+    - ID: "f6930446-2b46-461f-8d1a-3a08b6ca66b5"
+      Hint: description
+      Value: "Looking for health advice, saving tips, or fitness goals? Explore a variety of FWD content that will energies you to celebrate living."
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200724T063622Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "998f4637-f83a-4df1-961d-20fbf17cd1af"
+      Hint: title
+      Value: TagList1

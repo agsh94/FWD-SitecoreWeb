@@ -1,0 +1,35 @@
+﻿---
+ID: "dadd4069-071d-42d3-85e6-3b4796aae703"
+Parent: "03822442-a9e0-4e6f-af8a-5b4c360e63b5"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Community/FWD-donated-2MB-to-KaoKonLaKao/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T082453Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: FWD&rsquo;s Chief Marketing Officer, Mr. Preecha Ruthiraphong (third from left) with FWD&rsquo;s Director of Corporate Communications and Marketing, Ms. Suleeporn Yongwithitsatit (far left). FWD donated THB 200,000 for eight community hospitals in the north east, supported by singer, Toon. Also pictured at the Khon Kaen Sports Stadium is rock singer, Mr. Athiwara Khongmalai.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T082248Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: นายปรีชา รุธิรพงษ์ (คนที่ 3 จากซ้าย) ประธานเจ้าหน้าที่สายงานการตลาด และนางสาวศุลีพร ยงวิทิตสถิต (คนที่ 1 จากซ้าย) ผู้อำนวยการสื่อสารองค์กรและกิจกรรมทางการตลาด บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) ร่วมมอบเงินสนับสนุนให้กับมูลนิธิก้าวคนละก้าว จำนวน 2,000,000 บาท เพื่อสมทบทุนให้กับ 8 โรงพยาบาลชุมชนภาคอีสาน โดยมี นายอาทิวราห์ คงมาลัย (ตูน) รับมอบ ณ สนามกีฬากลาง จังหวัดขอนแก่น&nbsp;

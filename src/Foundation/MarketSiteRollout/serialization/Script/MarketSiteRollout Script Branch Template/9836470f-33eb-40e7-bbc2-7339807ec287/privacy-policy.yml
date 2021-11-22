@@ -1,0 +1,26 @@
+﻿---
+ID: "d5eab1d0-aa39-4ccb-9860-6a1e9d568873"
+Parent: "9836470f-33eb-40e7-bbc2-7339807ec287"
+Template: "4a2afaf6-a68b-4f79-bf60-bcf10f7c5ac4"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/Forms/PrivacyPolicy/privacy-policy"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Privacy Policy
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191227T051033Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "771dba25-d54b-4240-969a-1a36be53ff9c"
+      Hint: value
+      Value: |
+        I have read the FWD <a rel="noopener noreferrer" href="/privacypolicy" target="_blank">privacy policy</a>

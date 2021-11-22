@@ -1,0 +1,49 @@
+﻿---
+ID: "8fbeda24-78cd-4fef-9b27-6f1527550a95"
+Parent: "c97b30b8-a96b-4340-a3e7-b794159475bd"
+Template: "b7896f65-9c57-4ff4-95ac-edb35665badf"
+Path: "/sitecore/content/fwd/fwd-th/Components/masterfeaturefolder/product-features/relation-therapy"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Relation Therapy
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17265e40-8337-4955-a178-099b0454e4f4"
+      Hint: benefitTitle
+      Value: Car Insurance
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191107T112508Z
+    - ID: "624e4459-604e-46b7-83b2-904dd19e712f"
+      Hint: benefitDescription
+      Value: At FWD, we&rsquo;re different from other cheap car insurance plans.
+    - ID: "ced9fafd-1ec7-4eaa-a83a-02a58bb405f1"
+      Hint: benefitImage
+      Value: |
+        <image mediaid="{FD75DB1E-6CF0-4F33-B533-19818AF47879}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17265e40-8337-4955-a178-099b0454e4f4"
+      Hint: benefitTitle
+      Value: Car Insurance
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T071428Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "624e4459-604e-46b7-83b2-904dd19e712f"
+      Hint: benefitDescription
+      Value: At FWD, we&rsquo;re different from other cheap car insurance plans.
+    - ID: "ced9fafd-1ec7-4eaa-a83a-02a58bb405f1"
+      Hint: benefitImage
+      Value: |
+        <image mediaid="{FD75DB1E-6CF0-4F33-B533-19818AF47879}" />

@@ -1,0 +1,29 @@
+﻿---
+ID: "7bb2195b-2c7d-49c6-b3bd-d79e8566785f"
+Parent: "5d6bb33f-123f-48f2-82bd-5ac66be89afb"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Wealth/5-think-to-single/local-folder/Article Description Aria/Description"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T060437Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>สุขภาพจิตดีแล้ว ความสัมพันธ์กับคนที่บ้านยังดีไปอีก ไม่ต้องแบ่งเวลาให้แฟนก็ดูแลที่บ้านได้เต็มที่ อีกทั้งยังเพิ่มเวลาดูแลตัวเองได้อีก (ถึงว่าคนเป็นโสดมักสวยขึ้น)</p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>To do list ที่คนโสดน่าลงมือทำ</strong></p>
+        <ul>
+            <li>ตั้งเป้าหมายการออกกำลังกายอย่างเป็นระบบ ไม่ผลัดวันประกันพรุ่งแล้ว!</li>
+            <li>วางตารางวันหยุดกับครอบครัว เช่นทุกวันอาทิตย์ต้องพาคุณแม่ไปช็อปปิ้ง</li>
+            <li>หากิจกรรมสานสัมพันธ์กับคนที่บ้านง่าย ๆ เช่น อาจจะชวนคนที่บ้านไปออกกำลังกาย ทำกับข้าวมื้อใหญ่ร่วมกัน</li>
+        </ul>

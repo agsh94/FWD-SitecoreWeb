@@ -1,0 +1,153 @@
+﻿---
+ID: "cccfe6f7-1169-409a-ab37-3cae30d24488"
+Parent: "23ea3a12-c756-499b-845a-81274891959d"
+Template: "a0d45892-4b68-42d4-9b33-927e45a3ce73"
+Path: "/sitecore/content/fwd/fwd-th/Settings/Header"
+DB: master
+SharedFields:
+- ID: "5e6b0e8c-d9e2-4551-a4a1-c2313c3a7aef"
+  Hint: enableLanguageToggle
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "fa2ff38e-5b36-47a3-af22-ce7131f3a472"
+  Hint: languageList
+  Type: Multilist
+  Value: |
+    {65E62323-9DA1-4172-B472-7443EBBBFBEE}
+    {5F8CB340-EC7F-4B71-BB4A-C950856D3495}
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Header
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0722acb1-f297-4853-945e-75b44b729359"
+      Hint: headerLogo
+      Value: |
+        <image mediaid="{0D952896-0515-4143-ACEF-E2BCEDEEDC0E}" />
+    - ID: "0b66438e-6dc5-47aa-9a4e-7aa685a84055"
+      Hint: mobileLogo
+      Value: |
+        <image mediaid="{888B49D1-51C2-4DC1-9A3E-D318BC938454}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191112T163450Z
+    - ID: "2ca3f8ae-7653-468f-8a36-0b6af12e32f6"
+      Hint: languageModalTitle
+      Value: This content might not be in your language.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65aecd37-d496-4ca1-b0dd-05fd3dbd45a9"
+      Hint: languageModalDescription
+      Value: We currently working to have this content in your language. You can choose to stay on this page, or proceed to explore other relevant content.
+    - ID: "698c2f3b-061b-47b8-a71d-56e1b2ed152d"
+      Hint: title
+      Value: I'm looking for...
+    - ID: "76d94af7-13b3-44f8-b3fd-d4181ce2a4a5"
+      Hint: placeholderText
+      Value: Please enter a keyword or phrase
+    - ID: "8e25c361-d64a-478e-bae9-4ae241fce582"
+      Hint: headerNavigationLinks
+      Value: "{A2AF7FDF-C0D7-49A3-A429-A1B9DDD5619A}"
+    - ID: "9057584a-3b70-408f-8205-8a037bd0244e"
+      Hint: countrySelector
+      Value: "{524BE966-BEDC-4A0E-93D3-9A420BB10511}"
+    - ID: "accab2ad-a39d-42cd-ad30-3b1d170638e6"
+      Hint: languageModalSecondaryLink
+      Value: Stay on page
+    - ID: "d00062f2-860f-45a2-87de-3d5eb30e18c9"
+      Hint: logoLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />
+    - ID: "d5b8120c-51c6-4205-8072-6617f09874a7"
+      Hint: logo
+      Value: |
+        <image mediaid="{064FA7B1-91EF-4313-BECF-C75BC41AA0AF}" alt="" height="" width="" hspace="" vspace="" cropx="0.34" cropy="0.49" focusx="-0.3207547169811321" focusy="0.015625" />
+    - ID: "dc6ae3af-5c32-4e68-9435-5c776d0f822b"
+      Hint: iconNavigationLinks
+      Value: "{6D5CF238-24C5-4F43-9BBF-0DAB4450A26C}"
+    - ID: "e482e19c-7356-474e-bc58-bcaa6c09de48"
+      Hint: languageModalLink
+      Value: |
+        <link text="Explore" anchor="" linktype="internal" class="" title="Okie"  querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />
+    - ID: "f291ae29-a2fc-477c-b01e-1b621130a073"
+      Hint: searchPageLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{564D4C9C-BEEB-4497-9BB7-74A9EBAEF812}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0722acb1-f297-4853-945e-75b44b729359"
+      Hint: headerLogo
+      Value: |
+        <image mediaid="{0D952896-0515-4143-ACEF-E2BCEDEEDC0E}" />
+    - ID: "0b66438e-6dc5-47aa-9a4e-7aa685a84055"
+      Hint: mobileLogo
+      Value: |
+        <image mediaid="{E63CE9D3-1CCC-488F-AB0D-EA8FC955EFA4}" />
+    - ID: "1ad0bd42-6adf-494b-a704-580d1dbd1fe5"
+      Hint: pastSearchRecordsCount
+      Value: 8
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T071939Z
+    - ID: "2ca3f8ae-7653-468f-8a36-0b6af12e32f6"
+      Hint: languageModalTitle
+      Value: ไม่มีเนื้อหานี้ในภาษาที่คุณเลือก
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "65aecd37-d496-4ca1-b0dd-05fd3dbd45a9"
+      Hint: languageModalDescription
+      Value: เรากำลังดำเนินการพัฒนา คุณสามารถเลือกอยู่ในหน้านี้ หรือค้นหาบทความอื่นๆ ที่เกี่ยวข้อง
+    - ID: "698c2f3b-061b-47b8-a71d-56e1b2ed152d"
+      Hint: title
+      Value: ฉันกำลังมองหา
+    - ID: "76d94af7-13b3-44f8-b3fd-d4181ce2a4a5"
+      Hint: placeholderText
+      Value: กรุณาใส่คำหรือข้อความ
+    - ID: "8e25c361-d64a-478e-bae9-4ae241fce582"
+      Hint: headerNavigationLinks
+      Value: "{A2AF7FDF-C0D7-49A3-A429-A1B9DDD5619A}"
+    - ID: "9057584a-3b70-408f-8205-8a037bd0244e"
+      Hint: countrySelector
+      Value: "{524BE966-BEDC-4A0E-93D3-9A420BB10511}"
+    - ID: "9cc5b45f-c477-4290-ab6a-7f0a10367266"
+      Hint: displayMode
+      Value: "{C81D8D8F-E8D9-468F-ACFC-BBDCE30D66EC}"
+    - ID: "accab2ad-a39d-42cd-ad30-3b1d170638e6"
+      Hint: languageModalSecondaryLink
+      Value: อยู่หน้านี้
+    - ID: "d00062f2-860f-45a2-87de-3d5eb30e18c9"
+      Hint: logoLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />
+    - ID: "d5b8120c-51c6-4205-8072-6617f09874a7"
+      Hint: logo
+      Value: |
+        <image mediaid="{0C36E409-0DFF-4EF6-A99E-CF1CC925870B}" />
+    - ID: "dc6ae3af-5c32-4e68-9435-5c776d0f822b"
+      Hint: iconNavigationLinks
+      Value: "{6D5CF238-24C5-4F43-9BBF-0DAB4450A26C}"
+    - ID: "e482e19c-7356-474e-bc58-bcaa6c09de48"
+      Hint: languageModalLink
+      Value: |
+        <link text="สำรวจ" anchor="" linktype="internal" class="" title=""  querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />
+    - ID: "f291ae29-a2fc-477c-b01e-1b621130a073"
+      Hint: searchPageLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{564D4C9C-BEEB-4497-9BB7-74A9EBAEF812}" />

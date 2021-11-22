@@ -1,0 +1,199 @@
+﻿---
+ID: "8356ce29-3108-4298-a52b-4947b9e47d87"
+Parent: "e95c5341-80f8-44f2-8633-a43784007825"
+Template: "8e353b27-e5f9-4361-b332-9b3557fb7cd8"
+Path: "/sitecore/content/fwd/fwd-th/Components/Teams/Employee/Rachadawan Chirabhundu"
+DB: master
+SharedFields:
+- ID: "52de116c-f3d0-4a00-ba70-ff074309a5d2"
+  Hint: mediaType
+  Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{AD38C07D-65AA-4F99-B9A0-9F95F9000398}" cropx="0.46" cropy="0.48" focusx="-0.08771929824561409" focusy="0.046875" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200404T061606Z
+    - ID: "2d067f06-5100-49e0-83d8-64858a7c9b50"
+      Hint: videoLink
+      Value: |
+        <file mediaid="{B8A681C5-2FEC-4AD9-A50F-36BC9BCADB74}" src="-/media/b8a681c52fec4ad9a50f36bc9bcadb74.ashx" />
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: Rachadawan Chirabhundu
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: |
+        <p>Winner of Star Award 2018 at FWD HiVE Ceremony in Hong Kong</p>
+        <p>"FWD allows me to celebrate living! I feel my world is bigger because I get to explore and be in love with what I do in my job and other areas outside my work, and volunteering for the environment."</p>
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: AVP – Sales Resources Development
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: 
+    - ID: "bbbccdd6-3d72-4ace-b3de-ccbdb07bd39b"
+      Hint: description
+      Value: Winner of Star Award 2018 at FWD HiVE Ceremony in Hong Kong)
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{AD38C07D-65AA-4F99-B9A0-9F95F9000398}" cropx="0.47" cropy="0.45" focusx="-0.06140350877192979" focusy="0.109375" />
+  - Version: 2
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{AD38C07D-65AA-4F99-B9A0-9F95F9000398}" cropx="0.46" cropy="0.48" focusx="-0.08771929824561409" focusy="0.046875" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201009T042823Z
+    - ID: "2d067f06-5100-49e0-83d8-64858a7c9b50"
+      Hint: videoLink
+      Value: |
+        <file mediaid="{B8A681C5-2FEC-4AD9-A50F-36BC9BCADB74}" src="-/media/b8a681c52fec4ad9a50f36bc9bcadb74.ashx" />
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: Rachadawan Chirabhundu
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D80D2A5C-D5F8-4DA1-8828-B4F51D64461B}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: |
+        <p>Winner of Star Award 2018 at FWD HiVE Ceremony in Hong Kong</p>
+        <p>"FWD allows me to celebrate living! I feel my world is bigger because I get to explore and be in love with what I do in my job and other areas outside my work, and volunteering for the environment."</p>
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: AVP – Sales Resources Development
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: 
+    - ID: "bbbccdd6-3d72-4ace-b3de-ccbdb07bd39b"
+      Hint: description
+      Value: Winner of Star Award 2018 at FWD HiVE Ceremony in Hong Kong)
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201009T042823Z
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{AD38C07D-65AA-4F99-B9A0-9F95F9000398}" cropx="0.47" cropy="0.45" focusx="-0.06140350877192979" focusy="0.109375" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{AD38C07D-65AA-4F99-B9A0-9F95F9000398}" cropx="0.33" cropy="0.62" focusx="-0.34806629834254144" focusy="-0.234375" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200404T063755Z
+    - ID: "2d067f06-5100-49e0-83d8-64858a7c9b50"
+      Hint: videoLink
+      Value: |
+        <file mediaid="{B8A681C5-2FEC-4AD9-A50F-36BC9BCADB74}" src="-/media/b8a681c52fec4ad9a50f36bc9bcadb74.ashx" />
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: คุณรัชดาวรรณ   ชิระบันดู
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: |
+        <p>ผู้ชนะเลิศ Star Award 2018 ณ งาน FWD HiVE ที่ประเทศฮ่องกง</p>
+        <p>เอฟดับบลิวดีทำให้ฉันมีความสุขกับการได้ใช้ชีวิตในแบบที่ชอบ! ฉันได้สำรวจ เรียนรู้ และหลงรักงานหลากหลายที่ได้ทำ และยังรักสิ่งต่างๆ มากมายที่ได้สัมผัสนอกเวลางาน รวมทั้งยังได้เป็นอาสาสมัครด้านสิ่งแวดล้อม ที่นี่ทำให้ฉันรู้สึกได้ว่าโลกของฉันกว้างมากขึ้นกว่าเดิม&nbsp;</p>
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: AVP – Sales Resources Development
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: 
+    - ID: "bbbccdd6-3d72-4ace-b3de-ccbdb07bd39b"
+      Hint: description
+      Value: ผู้ชนะเลิศ Star Award 2018 ณ งาน FWD HiVE ที่ประเทศฮ่องกง
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{AD38C07D-65AA-4F99-B9A0-9F95F9000398}" />
+    - ID: "ffce884f-680c-485e-9bef-f4dbf574d377"
+      Hint: featuredPictogramImage
+      Value: |
+        <image mediaid="{F7D82769-AF23-4E37-B4F1-C32E0C641585}" />
+  - Version: 2
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{AD38C07D-65AA-4F99-B9A0-9F95F9000398}" cropx="0.33" cropy="0.62" focusx="-0.34806629834254144" focusy="-0.234375" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201009T045813Z
+    - ID: "2d067f06-5100-49e0-83d8-64858a7c9b50"
+      Hint: videoLink
+      Value: |
+        <file mediaid="{B8A681C5-2FEC-4AD9-A50F-36BC9BCADB74}" src="-/media/b8a681c52fec4ad9a50f36bc9bcadb74.ashx" />
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: คุณรัชดาวรรณ   ชิระบันดู
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D80D2A5C-D5F8-4DA1-8828-B4F51D64461B}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\panchitma
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: |
+        <p>ผู้ชนะเลิศ Star Award 2018 ณ งาน FWD HiVE ที่ประเทศฮ่องกง</p>
+        <p>เอฟดับบลิวดีทำให้ฉันมีความสุขกับการได้ใช้ชีวิตในแบบที่ชอบ! ฉันได้สำรวจ เรียนรู้ และหลงรักงานหลากหลายที่ได้ทำ และยังรักสิ่งต่างๆ มากมายที่ได้สัมผัสนอกเวลางาน รวมทั้งยังได้เป็นอาสาสมัครด้านสิ่งแวดล้อม ที่นี่ทำให้ฉันรู้สึกได้ว่าโลกของฉันกว้างมากขึ้นกว่าเดิม&nbsp;</p>
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: AVP – Sales Resources Development
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: 
+    - ID: "bbbccdd6-3d72-4ace-b3de-ccbdb07bd39b"
+      Hint: description
+      Value: ผู้ชนะเลิศ Star Award 2018 ณ งาน FWD HiVE ที่ประเทศฮ่องกง
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201009T045813Z
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{AD38C07D-65AA-4F99-B9A0-9F95F9000398}" />
+    - ID: "ffce884f-680c-485e-9bef-f4dbf574d377"
+      Hint: featuredPictogramImage
+      Value: |
+        <image mediaid="{F7D82769-AF23-4E37-B4F1-C32E0C641585}" />

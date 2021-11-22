@@ -1,0 +1,14 @@
+﻿---
+ID: "9ca43f3d-9b25-452a-a457-b0d3dba8f4ce"
+Parent: "53f11616-6659-419f-9d77-2752eb24c73b"
+Template: "3b96df71-bf27-4627-b3cb-8be6f1fb5d3f"
+Path: "/sitecore/content/fwd/fwd-th/Components/Announcements"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200819T121218Z

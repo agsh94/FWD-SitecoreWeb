@@ -1,0 +1,64 @@
+﻿---
+ID: "0053b2ed-1881-4e77-a3c6-72dc299ec98a"
+Parent: "8252b599-f428-4e6e-a22e-90e60f04101b"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/about-us/Careers/local-folder/Career development"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{D9DAC7A0-A6A4-43C0-BD70-7910E1E6CB32}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200403T162506Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{D9DAC7A0-A6A4-43C0-BD70-7910E1E6CB32}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "Your career is exactly that: yours. So as you progress, you can guide us on the direction you're hoping to take, and we'll do our best to get you there. In the process, we'll give you on-the-job training, exposure to exciting new projects, and access to some of the best minds in the business. You'll also be working at one of the fastest-growing insurance companies in Asia."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Career development
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{D9DAC7A0-A6A4-43C0-BD70-7910E1E6CB32}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200404T051346Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{D9DAC7A0-A6A4-43C0-BD70-7910E1E6CB32}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: อาชีพของคุณ คือ สิ่งที่คุณกำหนดได้เอง ดังนั้นเมื่อคุณเติบโตก้าวหน้า คุณก็สามารถนำพาเราไปบนเส้นทางที่คุณหวังไว้ ส่วนเราจะทำทุกอย่างให้ดีที่สุดเพื่อพาคุณไปสู่จุดหมาย ระหว่างทาง คุณจะได้รับการฝึกอบรม ได้นำเสนอโครงการใหม่ๆ ที่น่าสนใจให้ค้นหา และได้เรียนรู้หัวใจสำคัญต่างๆ ในธุรกิจ นอกจากนี้ยังได้ทำงานในหนึ่งบริษัทประกันชีวิตที่เติบโตเร็วที่สุดในทวีปเอเชีย
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: เราสนับสนุนให้พนักงานพัฒนาทักษะ
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"

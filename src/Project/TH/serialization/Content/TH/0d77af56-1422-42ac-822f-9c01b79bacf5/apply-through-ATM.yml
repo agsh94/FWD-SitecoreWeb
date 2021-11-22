@@ -1,0 +1,108 @@
+﻿---
+ID: "8a0bec93-4e1b-4cf6-a635-8e4b3bb0904a"
+Parent: "0d77af56-1422-42ac-822f-9c01b79bacf5"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/premium-payment/local-folder/premium-payment/DropdownItem/auto-recurring-payment-via-savings-account/apply-through-ATM"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Apply Through ATM
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191224T132318Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Apply directly through ATM</strong></p>
+        <p>You can pay through ATM by choosing the company&rsquo;s name and providing your policy number. <a href="-/media/c80b05b1259e4310b60ebd4a89c3d550.ashx">Click here</a> to view the step by step ATM application guide.</p>
+        <br />
+        <p>You would typically get a response from the bank within one day.</p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200921T021222Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Apply directly through ATM</strong></p>
+        <p>You can pay through ATM by choosing the company&rsquo;s name and providing your policy number. <a href="-/media/9f07e507d23340e49765120b29840f74.ashx">Click here</a> to view the step by step ATM application guide.</p>
+        <br />
+        <p>You would typically get a response from the bank within one day.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200921T021222Z
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Apply Through ATM
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T084936Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>สมัครการหักบัญชีเงินฝากธนาคารอัตโนมัติผ่านช่องทางอิเล็กทรอนิกส์ของธนาคาร ATM</strong></p>
+        <p>สามารถ <a href="-/media/c80b05b1259e4310b60ebd4a89c3d550.ashx">คลิกที่นี่</a>เพื่อดูขั้นตอนการสมัครการหักบัญชีเงินฝากธนาคารอัตโนมัติผ่านเครื่อง ATM ของธนาคารเพื่อหักชำระเบี้ยประกันภัย </p><br />
+        <p>** ทราบผลภายใน 1 วันทำการ</p>
+        
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200921T022328Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>สมัครการหักบัญชีเงินฝากธนาคารอัตโนมัติผ่านช่องทางอิเล็กทรอนิกส์ของธนาคาร ATM</strong></p>
+        <p>สามารถ <a href="-/media/9f07e507d23340e49765120b29840f74.ashx">คลิกที่นี่</a>เพื่อดูขั้นตอนการสมัครการหักบัญชีเงินฝากธนาคารอัตโนมัติผ่านเครื่อง ATM ของธนาคารเพื่อหักชำระเบี้ยประกันภัย </p>
+        <br />
+        <p>** ทราบผลภายใน 1 วันทำการ</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200921T022328Z

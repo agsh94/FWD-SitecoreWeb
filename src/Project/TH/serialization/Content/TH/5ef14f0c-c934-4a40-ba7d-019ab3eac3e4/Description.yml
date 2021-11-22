@@ -1,0 +1,52 @@
+﻿---
+ID: "8d4ddddc-e5b7-4852-8d0e-b2b17ab7fd7a"
+Parent: "5ef14f0c-c934-4a40-ba7d-019ab3eac3e4"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/exchange-currency-in-europe/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200928T073015Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>19 ประเทศที่ใช้เงินสกุลยูโร</strong><br />
+        สหภาพยุโรปมีสมาชิก 28 ประเทศ แต่มีเพียง 19 ประเทศเท่านั้นที่ใช้เงินสกุลยูโรเป็นหลัก ซึ่งไม่ได้นับเหมารวมกับอีก 2 - 3 ประเทศที่ไม่ได้อยู่ในยูโรโซนแต่ใช้สกุลเงินยูโรด้วย<br />
+        <br />
+        19 ประเทศที่พูดถึงนี้ ก็จะเป็นประเทศในเขตเศรษฐกิจหรือที่เรารู้จักกันรวมๆ โดยใช้ชื่อ ยูโรโซน ประกอบไปด้วยฝรั่งเศส เยอรมนี ไอร์แลนด์ อิตาลี ลักเซมเบิร์ก เนเธอร์แลนด์ โปรตุเกส สเปน ออสเตรีย เบลเยี่ยม ฟินแลนด์ กรีซ สโลวีเนีย ไซปรัส มอลตา สโลวาเกีย เอสโตเนีย ลัดเวีย และลิทัวเนีย<br />
+        <br />
+        <strong>ประเทศที่ไม่ใช้เงินสกุลยูโร แต่ใช้สกุลเงินต่างๆ ดังนี้</strong><br />
+        <br />
+        1.<span> </span>อังกฤษ (England) ใช้สกุลเงิน ปอนด์ (Pounds)&nbsp;<br />
+        2.<span> </span>เวลส์ (Wales) ใช้สกุลเงิน ปอนด์ (Pounds)<br />
+        3.<span> </span>สก็อตแลนด์ (Scotland) ใช้สกุลเงิน ปอนด์ (Pounds)<br />
+        4.<span> </span>สาธารณรัฐเช็ก (Czech) ใช้สกุลเงิน โครูนา (Koruna)<br />
+        5.<span> </span>ฮังการี (Hungary) ใช้สกุลเงิน โฟรินท์ (Forint )<br />
+        6.<span> </span>สวีเดน (Sweden) ใช้สกุลเงิน โครนา (Krona)<br />
+        7.<span> </span>เดนมาร์ก (Denmark) ใช้สกุลเงิน โครน (Krone)<br />
+        8.<span> </span>ลัตเวีย (Latvia) ใช้สกุลเงิน ลัตส์ (Lat)<br />
+        9.<span> </span>โรมาเนีย (Romania) ใช้สกุลเงิน ลิว (leu)&nbsp;<br />
+        10.<span> </span>บัลแกเรีย (Bulgaria) ใช้สกุลเงิน เลฟ (Lev)&nbsp;<br />
+        11.<span> </span>โครเอเชีย (Croatia) ใช้สกุลเงิน คูนา (Kuna)<br />
+        12.<span> </span>โปแลนด์ (Poland) ใช้สกุลเงิน ซลอตี (Zloty)<br />
+        13.<span> </span>ไอซ์แลนด์ (Iceland) ใช้สกุลเงิน โคลน่า (Kronas)<br />
+        14.<span> </span>สวิตเซอร์แลนด์ (Switzerland) ใช้สกุลเงิน ฟรังก์ สวิส (Franc swiss)<br />
+        15.<span> </span>รัสเซีย (Russia) ใช้สกุลเงิน รูเบิลรัสเซีย (Russian Ruble)<br />
+        16.<span> </span>ยูเครน (Ukraine) ใช้สกุลเงิน ฮริฟเนีย ยูเครเนียล (Ukrainian Hryvnia)<br />
+        17.<span> </span>ตุรกี (Turkey) ใช้สกุลเงิน เรียลราร์ เตอรกียร์ (Turkish Lira)

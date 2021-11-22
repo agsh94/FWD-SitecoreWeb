@@ -1,0 +1,50 @@
+﻿---
+ID: "a314a308-dfc2-497a-b982-37c3c4bec631"
+Parent: "7b881c37-5a06-49c3-a62d-a5ed9263b176"
+Template: "ec53ace0-d7b5-40ee-8d20-4650d6c807f6"
+Path: "/sitecore/content/fwd/fwd-th/Content/Forms/Provinces/bangkoktest"
+DB: master
+SharedFields:
+- ID: "0bb8c93b-a99d-46b3-8e18-fa27970a244c"
+  Hint: key
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Bangkok 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200130T104058Z
+    - ID: "b95c8194-e837-46c4-ab8a-a5c6874359cf"
+      Hint: value
+      Value: Bangkok 
+    - ID: "e6c58885-b753-4083-8435-cdc1a94cb10b"
+      Hint: List
+      Type: Multilist
+      Value: "{4E85DA38-414B-4882-9B9A-4C4B940A8220}"
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: กรุงเทพ
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T064616Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "b95c8194-e837-46c4-ab8a-a5c6874359cf"
+      Hint: value
+      Value: กรุงเทพ

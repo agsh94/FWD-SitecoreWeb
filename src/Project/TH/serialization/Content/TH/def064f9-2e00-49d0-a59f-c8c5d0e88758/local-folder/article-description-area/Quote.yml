@@ -1,0 +1,39 @@
+﻿---
+ID: "074f7346-9c42-40cd-ba86-1530e660b312"
+Parent: "36699ee4-0810-4c33-986e-211ff117926e"
+Template: "99a5d004-f5f7-4f4b-942d-0fa83d62c6a5"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/article-page/article-details/local-folder/article-description-area/Quote"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200720T092906Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "f39f1fcb-8829-42d2-b98b-b42596b9c427"
+      Hint: quote
+      Value: "This acquisition will provide new opportunities for us to continue to realise our vision to change the way people feel about insurance. I’m excited to lead a new chapter with our expanded Hong Kong team. Through our innovative, relevant and easy-to-understand product offerings, convenient customer and claims services, as well as multi-distribution channel strategies, I’m confident our combined Hong Kong team will achieve new milestones in a market with such enormous long-term growth potential for insurance."
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200721T071532Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "f39f1fcb-8829-42d2-b98b-b42596b9c427"
+      Hint: quote
+      Value: การซื้อกิจการครั้งนี้จะให้โอกาสใหม่สำหรับเราในการตระหนักถึงวิสัยทัศน์ของเราที่จะเปลี่ยนวิธีที่ผู้คนรู้สึกเกี่ยวกับการประกันภัย ฉันตื่นเต้นที่จะได้เป็นผู้นำบทใหม่กับทีมงานของเราในฮ่องกง ด้วยการนำเสนอผลิตภัณฑ์ที่เป็นนวัตกรรมที่เกี่ยวข้องและเข้าใจง่ายลูกค้าที่สะดวกสบายและบริการเคลมรวมถึงกลยุทธ์ช่องทางการจัดจำหน่ายที่หลากหลายฉันมั่นใจว่าทีมของเราที่รวมกันในฮ่องกงจะบรรลุเป้าหมายใหม่ในตลาดที่มีความยาวมหาศาลเช่นนี้ ศักยภาพการเติบโตระยะยาวสำหรับการประกันภัย

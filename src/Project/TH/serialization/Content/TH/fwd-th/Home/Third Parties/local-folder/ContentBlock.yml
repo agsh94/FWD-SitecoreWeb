@@ -1,0 +1,86 @@
+﻿---
+ID: "d2d5528d-3cff-46f6-8f8c-a93dcb0e3c8b"
+Parent: "3c2cc569-8d11-4bc5-9c40-5fe0f82c94b1"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Third Parties/local-folder/ContentBlock"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{68BE4375-2C18-4CAD-808A-6AC77720B96B}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ContentBlock
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200520T113445Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+            <p>In order to operate our business smoothly, we may disclose your personal data to our FWD Group, affiliated
+                entities and business partners and/or third party entities in Thailand or overseas to enable them to tell
+                you about a product or service and store, maintain and manage your personal data. Please refer to the list
+                of FWD Group, affiliated entities and business partners and/or third party entities here: </p>
+                <ul>
+                    <li>FWD Group&nbsp;</li>
+                    <li>Siam city insurance public co. ltd&nbsp;</li>
+                    <li>Siam Commercial Life Assurance Public Company Limited&nbsp;</li>
+                    <li>MEGAFIN COMPANY LIMITED&nbsp;&nbsp;</li>
+                    <li>MEGAFIN BROKER COMPANY LIMITED&nbsp;</li>
+                    <li>Siam Makro Public Company Limited&nbsp;</li>
+                    <li>Frank insurance broker (Thailand) co. ltd&nbsp;</li>
+                    <li>TMB Bank Public Company Limited&nbsp;</li>
+                    <li>CIMB Thai Bank Public Company Limited&nbsp;</li>
+                    <li>Siam Commercial Bank Public Company Limited&nbsp;</li>
+                    <li>SCB Protect Company Limited
+                    </li>
+                </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200520T114603Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+            <p>เพื่อให้บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) (“บริษัทฯ”) สามารถประกอบธุรกิจได้อย่างราบรื่น บริษัทฯ
+                อาจมีการเปิดเผยข้อมูลส่วนบุคคลของท่านแก่บริษัทในกลุ่มFWD บริษัทในเครือ บริษัทคู่ค้า
+                และ/หรือบุคคลภายนอกในประเทศไทยหรือต่างประเทศ เพื่อให้บุคคลดังกล่าวสามารถแจ้งผลิตภัณฑ์หรือบริการใด ๆ
+                ให้ท่านทราบ และ รวมทั้งจัดเก็บ รักษาและบริหารจัดการข้อมูลส่วนบุคคลของท่าน ซึ่งรายชื่อของบริษัทในกลุ่ม FWD
+                บริษัทในเครือ บริษัทคู่ค้าและ/หรือบุคคลภายนอกในขณะนี้ มีดังต่อไปนี้ </p>
+                <ul>
+                    <li>กลุ่มบริษัทเอฟดับบลิวดี&nbsp;</li>
+                    <li>บริษัท สยามซิตี้ประกันภัย จำกัด (มหาชน)&nbsp;</li>
+                    <li>บริษัท เมกาฟิน จำกัด&nbsp;</li>
+                    <li>บริษัท เมกาฟิน โบรกเกอร์ จำกัด&nbsp;</li>
+                    <li>บริษัท สยามแม็คโคร จำกัด (มหาชน)&nbsp;</li>
+                    <li>บริษัท แฟรงค์ อินชัวร์รันซ์ โบรกเกอร์ (ไทยแลนด์) จำกัด&nbsp;</li>
+                    <li>บริษัท ไทยพาณิชย์ประกันชีวิต จํากัด (มหาชน)&nbsp;</li>
+                    <li>ธนาคารทหารไทย จำกัด (มหาชน)&nbsp;</li>
+                    <li>ธนาคาร ซีไอเอ็มบี ไทย จำกัด (มหาชน)&nbsp;</li>
+                    <li>ธนาคารไทยพาณิชย์ จำกัด (มหาชน)&nbsp;</li>
+                    <li>บริษัท ไทยพาณิชย์ โพรเทค จำกัด
+                    </li>
+                </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: 

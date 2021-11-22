@@ -1,0 +1,353 @@
+﻿---
+ID: "9075dc88-5dc6-4374-bf31-56bbd4438e9f"
+Parent: "48f19c89-3989-48db-8fed-6271d712191f"
+Template: "9d5311a6-dd16-4d01-808d-7ca80da33223"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/GroupLandingPage/flexi-eb"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Software/16x16/component_yellow.png
+- ID: "644d12ae-91ae-47e7-8cb0-3855937716a6"
+  Hint: isFeatured
+  Type: Checkbox
+  Value: 0
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: "{186F12B8-F721-489F-8DF9-67D5F10C69D5}"
+- ID: "a829d7a0-984e-4a1e-9af0-0b1d91fa00a2"
+  Hint: contentType
+  Value: "{A57B5556-98B3-4112-AC9F-1926D90455B8}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}"
+          s:par="enableMargin&amp;anchorText&amp;backgroundColor=%7B4F9E2A20-DD87-4819-8611-D220D4FED784%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+        <r
+          uid="{8C18F6AE-E6DF-48E4-8667-A69ED7D676AA}"
+          s:ds="{73E7F7BD-CEC1-41AE-98D7-82DB26381E31}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+        <r
+          uid="{9E0AEDA0-CCE9-4F03-90ED-E0109AC1E02F}"
+          p:after="r[@uid='{8C18F6AE-E6DF-48E4-8667-A69ED7D676AA}']"
+          s:ds="{965FF6CC-382E-415D-B902-57E386D9B168}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType=%7BE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7D&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BF9F5FC4E-89D7-4701-A560-C0A7179384CB%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+          s:ph="/jss-main/jss-col-1-{276E589C-0398-4F29-9A8A-0CD4645A0F9C}-0" />
+        <r
+          uid="{5291EE34-6E52-461C-8CC4-5DF60AD9AA69}"
+          p:after="r[@uid='{9E0AEDA0-CCE9-4F03-90ED-E0109AC1E02F}']"
+          s:ds="{3F35D434-628F-40A7-B111-FDF72AAB6A20}"
+          s:id="{5410E093-9B56-4C2F-B411-9FB3702CBC63}"
+          s:par="HeroBannerVariant=%7B0BDF58FF-C695-448B-BC29-6E1C8DC08D4E%7D&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor=%7B4F9E2A20-DD87-4819-8611-D220D4FED784%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{AB68C5F3-96B1-4087-BC37-5DEDE71572B8}"
+          p:after="r[@uid='{5291EE34-6E52-461C-8CC4-5DF60AD9AA69}']"
+          s:ds="{3CC7756E-1C2C-4253-A3C4-4A8D1655AFE6}"
+          s:id="{1B2D4D22-4BFA-48E9-ACD5-0120D07747F3}"
+          s:par="cardVariant=%7B5A142F32-29AC-4CEB-9987-D0998ABA7677%7D&amp;cardType=%7B3A755B62-8B19-4B2E-940B-B844C3AAFE15%7D&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{8736EDF0-B8E4-46E9-A27F-31D05E561A3F}"
+          p:after="r[@uid='{AB68C5F3-96B1-4087-BC37-5DEDE71572B8}']"
+          s:ds="{4C792BE1-8E27-4571-84AD-101766AE9BA0}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge=1&amp;anchorText&amp;backgroundColor=%7B921097F6-7BCB-4385-897E-B4ADBF4A99DE%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{EF5F3487-73D1-4302-99F2-09B53F708B98}"
+          p:after="r[@uid='{8736EDF0-B8E4-46E9-A27F-31D05E561A3F}']"
+          s:ds="{62F8AA30-8270-4DC6-A878-A2CF36C07B46}"
+          s:id="{1B2D4D22-4BFA-48E9-ACD5-0120D07747F3}"
+          s:par="cardVariant=%7B21D6E3B0-DAD4-4DE5-A1CE-843A3DCCD6A8%7D&amp;cardType=%7B3A755B62-8B19-4B2E-940B-B844C3AAFE15%7D&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7B921097F6-7BCB-4385-897E-B4ADBF4A99DE%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{276E589C-0398-4F29-9A8A-0CD4645A0F9C}"
+          p:after="r[@uid='{EF5F3487-73D1-4302-99F2-09B53F708B98}']"
+          s:ds=""
+          s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+          s:par="numberOfColumns=%7B63A7FCF5-15A7-41A5-86EA-A3010A9D12AA%7D&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D%7C%7B4F9E2A20-DD87-4819-8611-D220D4FED784%7D&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{1BFD2FEC-79D0-4D48-9AFF-2E9F641CCC3D}"
+          p:after="r[@uid='{276E589C-0398-4F29-9A8A-0CD4645A0F9C}']"
+          s:ds="{1BAE1330-E53E-4BE1-851F-1259D0B52FD9}"
+          s:id="{F2459F24-7B96-4391-9975-0995CDB24706}"
+          s:par="carouselMode=%7B2C61B2E1-E1C4-4622-B814-1E458CF094B6%7D&amp;showCategory=1&amp;showImage=1&amp;anchorText&amp;backgroundColor=%7B3DF8265F-AA5C-46B6-AE37-0745E8A3FCAD%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{9B08E9E3-A5E8-40B5-A6EF-CDCC008952FA}"
+          p:after="r[@uid='{1BFD2FEC-79D0-4D48-9AFF-2E9F641CCC3D}']"
+          s:ds="{C9061E72-19D3-465E-B2BE-52EB2E7B9ED6}"
+          s:id="{FC55218D-3368-4037-B642-7FD35BD96EA1}"
+          s:par="anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{1D22BE96-13F4-4EBF-BD37-31AFBCD078C7}"
+          p:after="r[@uid='{9B08E9E3-A5E8-40B5-A6EF-CDCC008952FA}']"
+          s:ds="{2D9782E8-44E1-4F14-A6F0-1D3B35EDD6FE}"
+          s:id="{E9189BB0-4352-4FC7-B5F6-7C992E35E897}"
+          s:par="buttonAlignment=%7B8570C16E-5CA9-4A85-8A62-C661A5B4350B%7D&amp;variant&amp;anchorText&amp;backgroundColor=%7B4F9E2A20-DD87-4819-8611-D220D4FED784%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{9DDF68B6-0FC1-4947-9541-2DC079FBE509}"
+          p:after="r[@uid='{1D22BE96-13F4-4EBF-BD37-31AFBCD078C7}']"
+          s:ds="{62F8AA30-8270-4DC6-A878-A2CF36C07B46}"
+          s:id="{1B2D4D22-4BFA-48E9-ACD5-0120D07747F3}"
+          s:par="cardVariant=%7B21D6E3B0-DAD4-4DE5-A1CE-843A3DCCD6A8%7D&amp;cardType&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7BF9F5FC4E-89D7-4701-A560-C0A7179384CB%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+          s:ph="main" />
+        <r
+          uid="{4DF23214-C4BD-43A8-A826-6E7244254367}"
+          p:after="*[1=2]"
+          s:ds="{6A7BA9FE-10B1-4D5C-9A09-1F9265836D8E}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType=%7BE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7D&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7B921097F6-7BCB-4385-897E-B4ADBF4A99DE%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+          s:ph="/jss-main/jss-col-2-{276E589C-0398-4F29-9A8A-0CD4645A0F9C}-0" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Flexi EB
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5291EE34-6E52-461C-8CC4-5DF60AD9AA69}"
+              s:ds="{87EC5864-3505-44E9-9A63-BB6BE353C725}"
+              s:par="HeroBannerVariant=%7B0B1166D9-2C27-4392-B0FB-C3E5F2C18380%7D&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+            <r
+              uid="{5693DA72-D378-4658-9B9C-4F2AD5AE72A5}"
+              p:after="r[@uid='{5291EE34-6E52-461C-8CC4-5DF60AD9AA69}']"
+              s:ds="{3EB605CC-6BBC-4B36-868C-AC6F6B296120}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile&amp;contentBlockType&amp;IsMerge&amp;contentBlockVariant=%7BB8818C35-0526-4FB3-8E2B-7F5CFD14E141%7D&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{AB68C5F3-96B1-4087-BC37-5DEDE71572B8}"
+              s:ds="{F2C1E131-0A99-4157-AF43-14ADE22767EE}"
+              s:par="cardVariant=%7B21D6E3B0-DAD4-4DE5-A1CE-843A3DCCD6A8%7D&amp;cardType=%7B3A755B62-8B19-4B2E-940B-B844C3AAFE15%7D&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider=1" />
+            <r
+              uid="{8736EDF0-B8E4-46E9-A27F-31D05E561A3F}"
+              s:ds="{B18ACB42-3422-4BDB-B344-FBB017EF37CD}"
+              s:par="imageAlignment=%7B13658B9F-B1C0-4C0F-9ABF-A2763594D04A%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge=1&amp;contentBlockVariant&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+            <r
+              uid="{EF5F3487-73D1-4302-99F2-09B53F708B98}"
+              s:ds="{BECF805C-42D8-4D7C-8E48-FE6A18A401F1}"
+              s:par="cardVariant=%7B391EEB52-5539-4302-AB99-A276A24F70C2%7D&amp;cardType=%7B3A755B62-8B19-4B2E-940B-B844C3AAFE15%7D&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{276E589C-0398-4F29-9A8A-0CD4645A0F9C}"
+              s:par="numberOfColumns=%7B63A7FCF5-15A7-41A5-86EA-A3010A9D12AA%7D&amp;backgroundColor=%7BE36D5F2A-3DA5-4920-8A57-D681EEF00922%7D%7C%7BE36D5F2A-3DA5-4920-8A57-D681EEF00922%7D&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{9E0AEDA0-CCE9-4F03-90ED-E0109AC1E02F}"
+              p:after="r[@uid='{276E589C-0398-4F29-9A8A-0CD4645A0F9C}']"
+              s:ds="{0653D2F7-E6E4-4A9F-8F73-34828826D957}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType=%7BE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7D&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BEBDF491B-A72E-47CA-A391-E44A39C9C329%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+            <r
+              uid="{9B08E9E3-A5E8-40B5-A6EF-CDCC008952FA}">
+              <p:d />
+            </r>
+            <r
+              uid="{1D22BE96-13F4-4EBF-BD37-31AFBCD078C7}">
+              <p:d />
+            </r>
+            <r
+              uid="{9DDF68B6-0FC1-4947-9541-2DC079FBE509}">
+              <p:d />
+            </r>
+            <r
+              uid="{4DF23214-C4BD-43A8-A826-6E7244254367}"
+              s:ds="{FF271955-836C-4FEA-A254-18BB804C1809}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType=%7BE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7D&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BEBDF491B-A72E-47CA-A391-E44A39C9C329%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+            <r
+              uid="{1BFD2FEC-79D0-4D48-9AFF-2E9F641CCC3D}"
+              p:after="r[@uid='{4DF23214-C4BD-43A8-A826-6E7244254367}']"
+              s:ds="{413419E2-1B8C-4FB4-B4D4-98282639BFFF}"
+              s:par="carouselMode=%7B2C61B2E1-E1C4-4622-B814-1E458CF094B6%7D&amp;showCategory=1&amp;showImage=1&amp;ShowProductCTA=1&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{B984A84C-0B36-416B-9630-FD5821D3E243}"
+              p:after="r[@uid='{1BFD2FEC-79D0-4D48-9AFF-2E9F641CCC3D}']"
+              s:ds=""
+              s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+              s:par="numberOfColumns=%7B41CCF7E7-59F7-494A-80D1-0EB88C898A10%7D&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D%7C%7BE36D5F2A-3DA5-4920-8A57-D681EEF00922%7D&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{31112518-1724-4EB7-95C1-2697AC7D2B63}"
+              p:after="r[@uid='{B984A84C-0B36-416B-9630-FD5821D3E243}']"
+              s:ds="{E31D6A10-D409-43FC-8729-5258FDF43B9B}"
+              s:id="{FC55218D-3368-4037-B642-7FD35BD96EA1}"
+              s:par="anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+              s:ph="/jss-main/jss-col-1-{B984A84C-0B36-416B-9630-FD5821D3E243}-0" />
+            <r
+              uid="{F208D735-F9E2-4E40-BCD2-EE94AEFF6A4F}"
+              p:after="r[@uid='{31112518-1724-4EB7-95C1-2697AC7D2B63}']"
+              s:ds="{9918E40C-6D14-486C-9305-0C7B0B4218D2}"
+              s:id="{E9189BB0-4352-4FC7-B5F6-7C992E35E897}"
+              s:par="buttonAlignment=%7BCF02F396-DAFD-448E-BC19-15E66C7CBA54%7D&amp;variant&amp;anchorText&amp;backgroundColor=%7BEBDF491B-A72E-47CA-A391-E44A39C9C329%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+              s:ph="/jss-main/jss-col-2-{B984A84C-0B36-416B-9630-FD5821D3E243}-0" />
+            <r
+              uid="{8C18F6AE-E6DF-48E4-8667-A69ED7D676AA}"
+              p:after="*[1=2]"
+              s:par="anchorText&amp;backgroundColor=%7BF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200116T074415Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: This plan offers an insurance cover on death of the group member during the policy term
+    - ID: "481d7780-d53c-4517-889e-fe784da7e2f3"
+      Hint: userType
+      Type: Multilist
+      Value: |
+        {A13E3F64-579D-467A-BDD8-A3214871CC4B}
+        {BEC470BE-EBEE-4A68-BE1D-4D071BFCE207}
+    - ID: "68e94fa9-a531-41ec-920c-6a36930681b5"
+      Hint: planComponent
+      Value: "{0D47CC87-2B79-41F8-BCBB-877A1EF00E3E}"
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Flexi Life Insurance 
+    - ID: "8be3bdbc-75a6-4af2-8652-a36f78f045aa"
+      Hint: image
+      Value: |
+        <image mediaid="{905B1A54-BA29-4CA9-BAEA-0C8338AC392D}" cropx="0.48" cropy="0.47" focusx="-0.04958677685950408" focusy="0.0625" />
+    - ID: "bff9a6fb-6c91-45bf-a40c-e6fa1bfd3b0f"
+      Hint: productTitle
+      Value: Flexi Life Insurance
+    - ID: "d1a2a10f-c02d-4625-a5b6-ff7501277235"
+      Hint: productDescription
+      Value: This plan offers an insurance cover on death of the group member during the policy term
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5291EE34-6E52-461C-8CC4-5DF60AD9AA69}"
+              s:ds="{87EC5864-3505-44E9-9A63-BB6BE353C725}"
+              s:par="HeroBannerVariant=%7B0B1166D9-2C27-4392-B0FB-C3E5F2C18380%7D&amp;PlayVideoInBackground&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+            <r
+              uid="{5693DA72-D378-4658-9B9C-4F2AD5AE72A5}"
+              p:after="r[@uid='{5291EE34-6E52-461C-8CC4-5DF60AD9AA69}']"
+              s:ds="{3EB605CC-6BBC-4B36-868C-AC6F6B296120}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile&amp;contentBlockType&amp;IsMerge&amp;contentBlockVariant=%7BB8818C35-0526-4FB3-8E2B-7F5CFD14E141%7D&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{AB68C5F3-96B1-4087-BC37-5DEDE71572B8}"
+              s:ds="{F2C1E131-0A99-4157-AF43-14ADE22767EE}"
+              s:par="cardVariant=%7B21D6E3B0-DAD4-4DE5-A1CE-843A3DCCD6A8%7D&amp;cardType=%7B3A755B62-8B19-4B2E-940B-B844C3AAFE15%7D&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider=1" />
+            <r
+              uid="{8736EDF0-B8E4-46E9-A27F-31D05E561A3F}"
+              s:ds="{B18ACB42-3422-4BDB-B344-FBB017EF37CD}"
+              s:par="imageAlignment=%7B13658B9F-B1C0-4C0F-9ABF-A2763594D04A%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge=1&amp;contentBlockVariant&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+            <r
+              uid="{EF5F3487-73D1-4302-99F2-09B53F708B98}"
+              s:ds="{BECF805C-42D8-4D7C-8E48-FE6A18A401F1}"
+              s:par="cardVariant=%7B391EEB52-5539-4302-AB99-A276A24F70C2%7D&amp;cardType=%7B3A755B62-8B19-4B2E-940B-B844C3AAFE15%7D&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7B62070F56-8307-4B27-A4DB-E6F90EC9767B%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{276E589C-0398-4F29-9A8A-0CD4645A0F9C}"
+              s:par="numberOfColumns=%7B63A7FCF5-15A7-41A5-86EA-A3010A9D12AA%7D&amp;backgroundColor=%7BE36D5F2A-3DA5-4920-8A57-D681EEF00922%7D%7C%7BE36D5F2A-3DA5-4920-8A57-D681EEF00922%7D&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{9E0AEDA0-CCE9-4F03-90ED-E0109AC1E02F}"
+              p:after="r[@uid='{276E589C-0398-4F29-9A8A-0CD4645A0F9C}']"
+              s:ds="{0653D2F7-E6E4-4A9F-8F73-34828826D957}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType=%7BE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7D&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BEBDF491B-A72E-47CA-A391-E44A39C9C329%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+            <r
+              uid="{9B08E9E3-A5E8-40B5-A6EF-CDCC008952FA}">
+              <p:d />
+            </r>
+            <r
+              uid="{1D22BE96-13F4-4EBF-BD37-31AFBCD078C7}">
+              <p:d />
+            </r>
+            <r
+              uid="{9DDF68B6-0FC1-4947-9541-2DC079FBE509}">
+              <p:d />
+            </r>
+            <r
+              uid="{4DF23214-C4BD-43A8-A826-6E7244254367}"
+              s:ds="{FF271955-836C-4FEA-A254-18BB804C1809}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType=%7BE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7D&amp;IsMerge&amp;contentBlockVariant=%7BB8818C35-0526-4FB3-8E2B-7F5CFD14E141%7D&amp;anchorText&amp;backgroundColor=%7BEBDF491B-A72E-47CA-A391-E44A39C9C329%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+            <r
+              uid="{1BFD2FEC-79D0-4D48-9AFF-2E9F641CCC3D}"
+              p:after="r[@uid='{4DF23214-C4BD-43A8-A826-6E7244254367}']"
+              s:ds="{413419E2-1B8C-4FB4-B4D4-98282639BFFF}"
+              s:par="carouselMode=%7B2C61B2E1-E1C4-4622-B814-1E458CF094B6%7D&amp;showCategory=1&amp;showImage=1&amp;ShowProductCTA=1&amp;anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider" />
+            <r
+              uid="{B984A84C-0B36-416B-9630-FD5821D3E243}"
+              p:after="r[@uid='{1BFD2FEC-79D0-4D48-9AFF-2E9F641CCC3D}']"
+              s:ds=""
+              s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+              s:par="numberOfColumns=%7B41CCF7E7-59F7-494A-80D1-0EB88C898A10%7D&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D%7C%7BE36D5F2A-3DA5-4920-8A57-D681EEF00922%7D&amp;carouselMode=%7B65BDD6C4-9B17-42DA-A050-72CEF86F370E%7D&amp;anchorText&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{31112518-1724-4EB7-95C1-2697AC7D2B63}"
+              p:after="r[@uid='{B984A84C-0B36-416B-9630-FD5821D3E243}']"
+              s:ds="{E31D6A10-D409-43FC-8729-5258FDF43B9B}"
+              s:id="{FC55218D-3368-4037-B642-7FD35BD96EA1}"
+              s:par="anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+              s:ph="/jss-main/jss-col-1-{B984A84C-0B36-416B-9630-FD5821D3E243}-0" />
+            <r
+              uid="{F208D735-F9E2-4E40-BCD2-EE94AEFF6A4F}"
+              p:after="r[@uid='{31112518-1724-4EB7-95C1-2697AC7D2B63}']"
+              s:ds="{9918E40C-6D14-486C-9305-0C7B0B4218D2}"
+              s:id="{E9189BB0-4352-4FC7-B5F6-7C992E35E897}"
+              s:par="buttonAlignment=%7BCF02F396-DAFD-448E-BC19-15E66C7CBA54%7D&amp;variant&amp;anchorText&amp;backgroundColor=%7BEBDF491B-A72E-47CA-A391-E44A39C9C329%7D&amp;paddingTop=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider"
+              s:ph="/jss-main/jss-col-2-{B984A84C-0B36-416B-9630-FD5821D3E243}-0" />
+            <r
+              uid="{8C18F6AE-E6DF-48E4-8667-A69ED7D676AA}"
+              p:after="*[1=2]"
+              s:par="anchorText&amp;backgroundColor=%7BF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T074455Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: ประกันชีวิตกลุ่มเครดิต Flexi ประกันชีวิตกลุ่มเครดิต Flexi
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Flexi EB thai
+    - ID: "8be3bdbc-75a6-4af2-8652-a36f78f045aa"
+      Hint: image
+      Value: |
+        <image mediaid="{905B1A54-BA29-4CA9-BAEA-0C8338AC392D}" cropx="0.48" cropy="0.47" focusx="-0.04958677685950408" focusy="0.0625" />
+    - ID: "bff9a6fb-6c91-45bf-a40c-e6fa1bfd3b0f"
+      Hint: productTitle
+      Value: ประกันชีวิตกลุ่มเครดิต Flexi
+    - ID: "d1a2a10f-c02d-4625-a5b6-ff7501277235"
+      Hint: productDescription
+      Value: ประกันชีวิตกลุ่มเครดิต Flexi ประกันชีวิตกลุ่มเครดิต Flexi ประกันชีวิตกลุ่มเครดิต Flexi

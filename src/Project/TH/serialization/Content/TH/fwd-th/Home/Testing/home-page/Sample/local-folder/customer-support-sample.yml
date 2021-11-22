@@ -1,0 +1,54 @@
+﻿---
+ID: "6319f9c5-30e4-4502-abd4-48aae4b9f7b4"
+Parent: "1879e02f-2c46-4c50-ba39-d7dba9ad9d45"
+Template: "83a147f2-89ba-4a48-8222-4b73ffe65216"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Sample/local-folder/customer-support-sample"
+DB: master
+SharedFields:
+- ID: "56b35c4a-f364-45f9-8d35-5a28cecdd7a8"
+  Hint: supportOptions
+  Value: "{D060DDA0-E848-47A0-8806-C8C1A64F1D57}|{B6DD1DF1-524D-46FB-93DC-C7891FE384AB}|{14E92932-C58E-4A9E-992B-12250856F9DB}|{FC7A06F3-E7DE-454C-A8BF-514556E68054}|{9AA49352-9157-4C69-8276-906C960B3D02}"
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: 
+- ID: "f47c0d78-61f9-479c-96df-1159727d32c6"
+  Hint: __Suppressed Validation Rules
+  Value: "{D1EF5919-26CB-4FC7-AF88-82109328CF4D}"
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{6816B289-E488-4764-913D-41EC0310B5ED}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Customer Support Sample
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191217T061718Z
+    - ID: "e43f6d15-838d-41cd-b745-616c1b373dff"
+      Hint: description
+      Value: Chat to us now or later you can reach us anytime , anywhere.
+    - ID: "e59ccccf-b566-4b39-b862-7fc68fe13e39"
+      Hint: title
+      Value: "Need more help?"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200213T041359Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "e43f6d15-838d-41cd-b745-616c1b373dff"
+      Hint: description
+      Value: Chat to us now or later you can reach us anytime , anywhere.
+    - ID: "e59ccccf-b566-4b39-b862-7fc68fe13e39"
+      Hint: title
+      Value: "Need more help?"

@@ -1,0 +1,115 @@
+﻿---
+ID: "19a6f69e-16b5-45b8-9929-b56f1c493c16"
+Parent: "38a8fcc4-140e-40b2-bb61-f830003c6c80"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Functions/Modules/BriefHistory
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    param(
+    $params
+    )
+    
+    Import-Function Global-Functions
+    		if($params.Item){
+    
+    		$newPath = $params.Item.ItemPath + '/Components'
+    		$newItem = Get-Item -Path $newPath
+    		$briefHistoryItem = New-Item -Parent $newItem -Name "briefhistory" -ItemType $params.TemplateID -Language $params.language
+    		$briefHistoryItem.Editing.BeginEdit()
+    		$briefHistoryItem["__Display name"] = "Brief History"
+    		$briefHistoryItem.Editing.EndEdit()
+    		$modules = Get-ItemInsertOptions $briefHistoryItem
+    		$modulesSortedByKey = Get-OrderedDictionaryByKey $modules
+    		
+    		if ($modulesSortedByKey.Count -gt 0) {
+    		
+    		#Create 2014
+    		$year1 = New-Item -Parent $briefHistoryItem -Name "2014" -ItemType $modulesSortedByKey.'History Content' -Language $params.language
+    		$year1.Editing.BeginEdit()
+    		$year1.Fields["sectionTitle"].Value = "2014"
+    		$year1.Editing.EndEdit()
+    		$yearmodules = Get-ItemInsertOptions $year1
+    		$yearmodulesSortedByKey = Get-OrderedDictionaryByKey $yearmodules
+    		#Create Months
+    		if ($yearmodulesSortedByKey.Count -gt 0) {
+    		$month = New-Item -Parent $year1 -Name "Jan" -ItemType $yearmodulesSortedByKey.'ContentBlock' -Language $params.language
+    		$month.Editing.BeginEdit()
+    		$month.Fields["title"].Value = "January"
+    		$month.Fields["description"].Value = "<p>We became the first insurer in Hong Kong to partner with 7-Eleven and pay customers' claims in cash from 7-Eleven stores.
+    											  </p>
+    											  <p>We launched the first online universal life insurance in Vietnam, which offers customers 24/7 e-withdrawal.
+    											  </p>"
+    		[Sitecore.Data.Fields.ImageField]$image = $month.Fields["image"]
+    		$image.MediaID = "{2D294744-3A37-42E2-BD26-D5495210CA3F}"
+    		[Sitecore.Data.Fields.ImageField]$mobileImage = $month.Fields["mobileImage"]
+    		$mobileImage.MediaID = "{2D294744-3A37-42E2-BD26-D5495210CA3F}"
+    		$month.Editing.EndEdit()
+    		
+    		$month = New-Item -Parent $year1 -Name "Feb" -ItemType $yearmodulesSortedByKey.'ContentBlock' -Language $params.language
+    		$month.Editing.BeginEdit()
+    		$month.Fields["title"].Value = "February"
+    		$month.Fields["description"].Value = "<p>We launched the first comprehensive and affordable life insurance product in Indonesia, also the industry's first fully-integrated online-offline distribution channel.We launched Hong Kong's first critical illness insurance that offers comprehensive mental health cover.</p>
+    											  <p>We became the first insurer in Hong Kong to offer parametric flight delay insurance</p>"
+    		[Sitecore.Data.Fields.ImageField]$image = $month.Fields["image"]
+    		$image.MediaID = "{2D294744-3A37-42E2-BD26-D5495210CA3F}"
+    		[Sitecore.Data.Fields.ImageField]$mobileImage = $month.Fields["mobileImage"]
+    		$mobileImage.MediaID = "{2D294744-3A37-42E2-BD26-D5495210CA3F}"
+    		$month.Editing.EndEdit()
+    		}
+    		
+    		#Create 2013
+    		$year1 = New-Item -Parent $briefHistoryItem -Name "2013" -ItemType $modulesSortedByKey.'History Content' -Language $params.language
+    		$year1.Editing.BeginEdit()
+    		$year1.Fields["sectionTitle"].Value = "2013"
+    		$year1.Editing.EndEdit()
+    		$yearmodules = Get-ItemInsertOptions $year1
+    		$yearmodulesSortedByKey = Get-OrderedDictionaryByKey $yearmodules
+    		#Create Months
+    		if ($yearmodulesSortedByKey.Count -gt 0) {
+    		$month = New-Item -Parent $year1 -Name "Jan" -ItemType $yearmodulesSortedByKey.'ContentBlock' -Language $params.language
+    		$month.Editing.BeginEdit()
+    		$month.Fields["title"].Value = "January"
+    		$month.Fields["description"].Value = "<p>We became the first insurer in Hong Kong to partner with 7-Eleven and pay customers' claims in cash from 7-Eleven stores.
+    											  </p>
+    											  <p>We launched the first online universal life insurance in Vietnam, which offers customers 24/7 e-withdrawal.
+    											  </p>"
+    		[Sitecore.Data.Fields.ImageField]$image = $month.Fields["image"]
+    		$image.MediaID = "{2D294744-3A37-42E2-BD26-D5495210CA3F}"
+    		[Sitecore.Data.Fields.ImageField]$mobileImage = $month.Fields["mobileImage"]
+    		$mobileImage.MediaID = "{2D294744-3A37-42E2-BD26-D5495210CA3F}"
+    		$month.Editing.EndEdit()
+    		
+    		$month = New-Item -Parent $year1 -Name "Feb" -ItemType $yearmodulesSortedByKey.'ContentBlock' -Language $params.language
+    		$month.Editing.BeginEdit()
+    		$month.Fields["title"].Value = "February"
+    		$month.Fields["description"].Value = "<p>We launched the first comprehensive and affordable life insurance product in Indonesia, also the industry's first fully-integrated online-offline distribution channel.We launched Hong Kong's first critical illness insurance that offers comprehensive mental health cover.</p>
+    											  <p>We became the first insurer in Hong Kong to offer parametric flight delay insurance</p>"
+    		[Sitecore.Data.Fields.ImageField]$image = $month.Fields["image"]
+    		$image.MediaID = "{2D294744-3A37-42E2-BD26-D5495210CA3F}"
+    		[Sitecore.Data.Fields.ImageField]$mobileImage = $month.Fields["mobileImage"]
+    		$mobileImage.MediaID = "{2D294744-3A37-42E2-BD26-D5495210CA3F}"
+    		$month.Editing.EndEdit()
+    		}
+    		
+    		#Create Intro
+    		$Intro = New-Item -Parent $briefHistoryItem -Name "Intro" -ItemType $modulesSortedByKey.'History Content' -Language $params.language
+    		$Intro.Editing.BeginEdit()
+    		$Intro.Fields["sectionTitle"].Value = "Intro"
+    		$Intro.Fields["title"].Value = "Established in 2013, FWD is the insurance business of investment group, Pacific Century Group."
+    		$Intro.Fields["description"].Value = "Since then, FWD has grown rapidly across the region, with over 18,700 employees, 9 countries, serving over 5.5M customers and over 33.3B USD of asset with offices around South East Asia. But it didn't happen overnight. Here's out story."
+    		$Intro.Editing.EndEdit()
+    		}
+    		
+    
+    	}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200519T123026Z

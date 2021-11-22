@@ -1,0 +1,27 @@
+﻿---
+ID: "4dc331eb-0974-418e-b871-501e977d9726"
+Parent: "80241586-e7b7-444c-9c72-16f72dbea2d3"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/travel-leh-ladakh/local-folder/ArticleDetails/Copy of Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 6000
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T073847Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>สุดท้าย ไปเลห์ คุ้มไหม?</strong><br />
+        สิ่งเล็กๆน้อยๆเหล่านี้ มันเหมือนเป็นเครื่องปรุงรสชั้นดี ที่ทำให้การเดินทางนั้นมีความหมาย มากกว่าแค่นั่งดูรูป หรือแค่นั่งอ่านรีวิวแน่นอน เราอยากแนะนำว่าให้ไปช่วงหน้าร้อน ที่อากาศดีๆ ไม่หนาวเกิน ถนนเปิดครบทุกช่วง ร้านค้ากลับมาเปิดเต็มที่ ช่วงเดือน 6 &ndash; 8 จะได้สบายใจว่าอย่างน้อยก็ไม่ต้องกลัวหนาว แต่ก็ต้องเตรียมใจว่าคนจะเยอะมากเช่นกัน ทางที่ดี ก็ควรจะติดต่อทัวร์ให้เรียบร้อยไปก่อน

@@ -1,0 +1,51 @@
+﻿---
+ID: "d19341e0-98b4-499d-9f9c-63e394484712"
+Parent: "b64a9915-9247-48f3-b7c9-5fdb673a983a"
+Template: "9faa0cd1-7bdf-4b0d-8f46-bce92bcb6b7b"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/locatortypes/branch-and-agent-offices"
+DB: master
+SharedFields:
+- ID: "4806c25f-038d-4db7-acba-40c477fe263d"
+  Hint: noResultFoundSource
+  Value: 
+- ID: "87ed4418-be3a-4746-bb07-eec21d88827b"
+  Hint: primaryLocatorFilter
+  Type: Multilist
+  Value: |
+    {809F29D8-A61C-4889-AB0A-4E74B1EAB03B}
+    {CF2B44A4-CE20-4D69-9661-760F52B912B4}
+- ID: "99f71bfa-5ffc-49e8-848f-49fc73a2a402"
+  Hint: provinceList
+  Type: Multilist
+  Value: |
+    {52BF276E-4726-4F07-ACB5-FCE04C6BFA7C}
+    {DAFC1FA6-5E52-41BD-830B-DD7A0F8307D3}
+    {0020B405-161C-4136-AAA3-648C06D3D1CF}
+    {05249B56-A680-4141-84AA-F0427237B702}
+    {7C5C4CC6-4919-4E21-9C52-BB35F1FBE6A7}
+    {869CD696-32D9-4DE9-A98C-F71C7F3F6BEE}
+    {3F5AA0EB-5AFD-4B66-8792-8DA85E2A1362}
+    {0F4B1CD4-50CC-4C42-AA9D-BED693636C1D}
+    {A2A9A359-45B0-4F4D-9BEB-C265CD598DB2}
+    {4198C10D-5FE4-481E-B1DE-80B6E6F42226}
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Branch and agent offices
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T065555Z
+    - ID: "3db8dc4b-b63e-4dc1-8792-c529015fad17"
+      Hint: primaryLocatorFilterLabel
+      Value: Show list of
+    - ID: "3eda3674-4c89-4b4c-b747-b6aa5b26e9a9"
+      Hint: defaultProvince
+      Value: "{4DC5E7C4-CE3C-4947-B12C-321E3AFE2DA9}"
+    - ID: "c0ca13ea-e6f9-4228-bf5a-27eab1b6e2a1"
+      Hint: locatorLabel
+      Value: Branch and agent offices

@@ -1,0 +1,60 @@
+﻿---
+ID: "bdb42b1e-2237-48b9-b9ef-6a402ca3e5c8"
+Parent: "80cb1f4b-6759-460a-80aa-e30b1ef6d03d"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Components/Info Card/Agent Valie/We offer cutting-edge digital tools"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: We support our agents to do their best work through the latest technology. This means a faster, easier and more enjoyable sales experience for everyone.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T100056Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: "We offer cutting-edge digital tools"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{DE73BE4A-D115-4FA8-8B06-6C76DDDCEE36}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{DE73BE4A-D115-4FA8-8B06-6C76DDDCEE36}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: เราสนับสนุนให้ตัวแทนของเราทำงานได้อย่างมีประสิทธิภาพมากที่สุด โดยใช้เทคโนโลยีล่าสุดเพื่อให้ทุกคนสามารถทำงานได้อย่างเต็มที่ นั่นหมายถึงประสบการณ์การขายที่รวดเร็วยิ่งขึ้น ง่ายยิ่งขึ้น และสนุกมากกว่าที่เคย
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200411T100304Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: เราสร้างสรรค์เครื่องมือดิจิทัลที่ล้ำหน้า
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{DE73BE4A-D115-4FA8-8B06-6C76DDDCEE36}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{DE73BE4A-D115-4FA8-8B06-6C76DDDCEE36}" />

@@ -1,0 +1,65 @@
+﻿---
+ID: "3e48da36-28a3-47e6-9a96-78929aa72881"
+Parent: "9a4c0e3a-27b4-49bc-a1fd-e334dcc68158"
+Template: "0df0a881-f04c-409a-8bc4-d1ec07f86dff"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/TableVariationWithFlexi/local-folder/TableComponent2"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 350
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200726T100603Z
+    - ID: "58e0beed-e1cf-48c2-a1bc-c0642dc11434"
+      Hint: text
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td style="width: 200px;">Title 1</td>
+                    <td style="width: 1000px;">Title 2</td>
+                    <td style="width: 200px;">Title 3&nbsp;</td>
+                    <td style="width: 200px;">Title 4</td>
+                </tr>
+                <tr>
+                    <td style="width: 200px;">&nbsp;Item A</td>
+                    <td style="width: 1000px;">Lorem ipsum dolor sit amet consectetur adipiscing elit 0-2594-0020-65.</td>
+                    <td style="width: 200px;"><a href="~/link.aspx?_id=49F0D81D2E9144B29F6E3267BABAFA41&amp;_z=z"><img alt="" src="-/media/495f64166c074f30a11298c5f1a262fb.ashx?h=16&amp;w=16" style="height: 16px; width: 16px;" />&nbsp;Text Link</a></td>
+                    <td style="width: 200px;">Product</td>
+                </tr>
+                <tr>
+                    <td style="width: 200px;">&nbsp;Item B</td>
+                    <td style="width: 1000px;" rowspan="2">Lorem ipsum dolor sit amet consectetur adipiscing elit.<br />
+                    Lorem ipsum dolor sit amet consectetur.</td>
+                    <td style="width: 200px;"><a href="~/link.aspx?_id=69567D5498134873A169DDE101852FAE&amp;_z=z"><img alt="" src="-/media/495f64166c074f30a11298c5f1a262fb.ashx?h=16&amp;w=16" style="height: 16px; width: 16px;" />&nbsp;Alert</a></td>
+                    <td style="width: 200px;">Plan</td>
+                </tr>
+                <tr>
+                    <td style="width: 200px;">&nbsp;Item C</td>
+                    <td style="width: 200px;"><a href="~/link.aspx?_id=B06FCBBED82F45E68CF69907C875B081&amp;_z=z"><img alt="" src="-/media/495f64166c074f30a11298c5f1a262fb.ashx?h=16&amp;w=16" style="height: 16px; width: 16px;" />&nbsp;Career</a><br />
+                    </td>
+                    <td style="width: 200px;">Package</td>
+                </tr>
+                <tr>
+                    <td style="width: 200px;">&nbsp;Item D</td>
+                    <td style="width: 1000px;">
+                    <strong>SubHeading<br />
+                    </strong>Lorem ipsum dolor sit amet consectetur lorem ipsum dolor sit amet consectetur um dolor sit amet consectetur.
+                    </td>
+                    <td style="width: 200px;"><a href="~/link.aspx?_id=0D08A74E81B54DFD9B53B8AD7413F555&amp;_z=z"><img alt="" src="-/media/495f64166c074f30a11298c5f1a262fb.ashx?h=16&amp;w=16" style="height: 16px; width: 16px;" />&nbsp;Business</a><br />
+                    </td>
+                    <td style="width: 200px;">Rider</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "f3244afc-a679-4ce2-96af-6899a5adc238"
+      Hint: scrollableButton
+      Type: Checkbox
+      Value: 0

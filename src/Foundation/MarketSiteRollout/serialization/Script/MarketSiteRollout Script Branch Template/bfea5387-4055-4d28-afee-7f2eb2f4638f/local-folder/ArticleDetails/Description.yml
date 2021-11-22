@@ -1,0 +1,19 @@
+﻿---
+ID: "2f19baa9-893d-42f2-a67d-3db73333bbfb"
+Parent: "4586c49d-2081-4242-a367-faaf02f27f98"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/About Us/News/you-only-live-once/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191121T155431Z
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>The last talk You talked about your goals while you were in your second year. That he had to put his foot on every island in Thailand that he wants to go to And you said that it was successful What is your current goal</strong><br />
+        "Planning to travel around the world But will not be traveling around the world like everyone understands Because we are not very rich And have a profession that can create a very stable income for us Even when we can travel And travel around the world to every country or Almost every country uses a lot of funds. So I will use the method of flying on a route like Korean. Then go to America, go to Australia, continue to go down the country, round the world by selecting a stop point to visit just the places of interest But my journey was a straight line around the world. Then came back to Thailand at last All of this will be made into a video in just a few minutes for everyone to see my journey. "

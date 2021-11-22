@@ -1,0 +1,32 @@
+﻿---
+ID: "92feb377-ad95-431c-ab41-10757138cbfb"
+Parent: "7b3eae13-cf84-4585-abe8-d6c2b4296adb"
+Template: "91c91756-644c-4460-812b-9d3a33b076b2"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/Xsell20 Paid-up/local-folder/Article Description Area/TMB Contact Center 1558"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 350
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200413T102423Z
+    - ID: "514cdf2e-f38f-4508-9f5a-5773aaf3a679"
+      Hint: theme
+      Value: "{921097F6-7BCB-4385-897E-B4ADBF4A99DE}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "ba0719f6-3c44-44c3-88f7-36c6f9f9612a"
+      Hint: content
+      Value: สำหรับลูกค้า TMB สามารถติดต่อ TMB Contact Center 1558 หรือธนาคารฯสาขาใกล้คุณ
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="สนใจ! ให้ FWD ติดต่อกลับ" linktype="external" url="http://tel:1558" anchor="" title="สนใจ! ให้ FWD ติดต่อกลับ" target="" />

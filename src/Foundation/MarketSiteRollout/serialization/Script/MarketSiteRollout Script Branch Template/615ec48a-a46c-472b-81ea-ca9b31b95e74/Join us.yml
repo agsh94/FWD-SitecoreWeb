@@ -1,0 +1,25 @@
+﻿---
+ID: "c0034e75-4c9c-4859-84b4-36e93e428cf9"
+Parent: "615ec48a-a46c-472b-81ea-ca9b31b95e74"
+Template: "9a45a24d-9287-4086-8dbe-fcec888173f4"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Search/local-folder/global-search/Join us"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f54785d-94ed-4e46-8e65-72c9b926765b"
+      Hint: contentType
+      Type: Multilist
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200929T072709Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\vivian
+    - ID: "b0a7cc92-6f8d-4bc0-94de-9960abc666be"
+      Hint: title
+      Value: Join us

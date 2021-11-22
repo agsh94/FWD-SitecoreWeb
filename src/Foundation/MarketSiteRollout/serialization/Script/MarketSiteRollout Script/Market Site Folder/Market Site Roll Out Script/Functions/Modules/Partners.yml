@@ -1,0 +1,64 @@
+﻿---
+ID: "99509486-3def-46f5-8fa2-47fd7dfa35e3"
+Parent: "38a8fcc4-140e-40b2-bb61-f830003c6c80"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Functions/Modules/Partners
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    param(
+    $params
+    )
+    
+    Import-Function Global-Functions
+    
+    if($params.Item){
+    
+    		$newPath = $params.Item.ItemPath + '/Components'
+    		$newItem = Get-Item -Path $newPath
+    		
+    		$homePath = $params.Item.ItemPath + '/Home'
+    		$homeItem = Get-Item -Path $homePath
+    		
+    		$partnerFolderItem = New-Item -Parent $newItem -Name "Partner" -ItemType $params.TemplateID -Language $params.language
+    		
+    		$modules = Get-ItemInsertOptions $partnerFolderItem
+    		$modulesSortedByKey = Get-OrderedDictionaryByKey $modules
+    		
+    		if ($modulesSortedByKey.Count -gt 0) {
+    		
+    		$partner1 = New-Item -Parent $partnerFolderItem -Name "Partner 1" -ItemType $modulesSortedByKey.'Partner' -Language $params.language
+    		$partner1.Editing.BeginEdit()
+    		[Sitecore.Data.Fields.LinkField]$field = $partner1.Fields["link"]
+    		$field.Title = "Partner 1"
+    		$field.LinkType = "internal"
+    		$field.TargetID = $homeItem.ID
+    		[Sitecore.Data.Fields.ImageField]$image = $partner1.Fields["image"]
+    		$image.MediaID = "{2D294744-3A37-42E2-BD26-D5495210CA3F}"
+    		[Sitecore.Data.Fields.ImageField]$mobileImage = $partner1.Fields["mobileImage"]
+    		$mobileImage.MediaID = "{2D294744-3A37-42E2-BD26-D5495210CA3F}"
+    		$partner1.Editing.EndEdit()
+    
+    		$partner2 = New-Item -Parent $partnerFolderItem -Name "Partner 2" -ItemType $modulesSortedByKey.'Partner' -Language $language
+    		$partner2.Editing.BeginEdit()
+    		[Sitecore.Data.Fields.LinkField]$field = $partner2.Fields["link"]
+    		$field.Title = "Partner 1"
+    		$field.LinkType = "internal"
+    		$field.TargetID = $homeItem.ID
+    		[Sitecore.Data.Fields.ImageField]$image = $partner2.Fields["image"]
+    		$image.MediaID = "{2D294744-3A37-42E2-BD26-D5495210CA3F}"
+    		[Sitecore.Data.Fields.ImageField]$mobileImage = $partner2.Fields["mobileImage"]
+    		$mobileImage.MediaID = "{2D294744-3A37-42E2-BD26-D5495210CA3F}"
+    		$partner2.Editing.EndEdit()
+    		}
+    	}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T095733Z

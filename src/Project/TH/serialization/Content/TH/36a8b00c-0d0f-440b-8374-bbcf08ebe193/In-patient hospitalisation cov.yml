@@ -1,0 +1,60 @@
+﻿---
+ID: "9c7f20ac-257c-4562-aebc-6cd9db2c7e4e"
+Parent: "36a8b00c-0d0f-440b-8374-bbcf08ebe193"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/family-care/local-folder/CardList/In-patient hospitalisation cover"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: Should any of your family become hospitalised, you’ll receive up to THB 25,000 per time (max THB 50,000 / year).
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T182834Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: "In-patient hospitalisation cover"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{ADDECCBC-0F10-4DCF-8623-B71E9DAE56D5}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{ADDECCBC-0F10-4DCF-8623-B71E9DAE56D5}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: รับความคุ้มครองสูงสุด 25,000 บาท/ครั้ง (สูงสุด 50,000 บาท/ปี) หากสมาชิกในครอบครัวต้องนอนโรงพยาบาล
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200410T081747Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: ครอบคลุมค่ารักษาเมื่อต้องนอนโรงพยาบาล
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{ADDECCBC-0F10-4DCF-8623-B71E9DAE56D5}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{ADDECCBC-0F10-4DCF-8623-B71E9DAE56D5}" />

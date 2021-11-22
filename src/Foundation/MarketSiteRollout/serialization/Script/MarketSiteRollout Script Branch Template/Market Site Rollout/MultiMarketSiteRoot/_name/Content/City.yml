@@ -1,0 +1,14 @@
+﻿---
+ID: "6f9cf753-48b9-4bd6-8943-c496f1fe91f5"
+Parent: "ce80a31f-7111-43f0-a1a5-24c415b6274b"
+Template: "8d254d4a-bd30-4b07-8fa0-7464260d4bbc"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/City
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191102T103851Z

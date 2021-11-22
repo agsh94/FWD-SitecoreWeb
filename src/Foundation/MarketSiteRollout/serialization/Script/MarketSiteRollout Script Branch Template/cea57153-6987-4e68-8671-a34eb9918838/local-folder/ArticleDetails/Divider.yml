@@ -1,0 +1,18 @@
+﻿---
+ID: "3e4f8e70-603d-4f91-aea8-37eeff0d3cc6"
+Parent: "689389c0-91c8-4c57-aecb-8932f1c31fa2"
+Template: "2c8293d2-9b5c-42d9-a207-f3ea0a725d08"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/About Us/News/article-detail-1/local-folder/ArticleDetails/Divider"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191122T110910Z

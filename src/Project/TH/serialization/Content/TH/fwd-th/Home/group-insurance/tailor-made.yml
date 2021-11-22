@@ -1,0 +1,357 @@
+﻿---
+ID: "857687ec-2192-4041-84e2-ba2ac82872f6"
+Parent: "0d08a74e-81b5-4dfd-9b53-b8ad7413f555"
+Template: "9d5311a6-dd16-4d01-808d-7ca80da33223"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/tailor-made"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Software/16x16/component_yellow.png
+- ID: "644d12ae-91ae-47e7-8cb0-3855937716a6"
+  Hint: isFeatured
+  Type: Checkbox
+  Value: 0
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: "{186F12B8-F721-489F-8DF9-67D5F10C69D5}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "a829d7a0-984e-4a1e-9af0-0b1d91fa00a2"
+  Hint: contentType
+  Value: "{A57B5556-98B3-4112-AC9F-1926D90455B8}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7b4F9E2A20-DD87-4819-8611-D220D4FED784%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;enableMargin&amp;divider" />
+        <r
+          uid="{5291EE34-6E52-461C-8CC4-5DF60AD9AA69}"
+          p:after="r[@uid='{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}']"
+          s:ds="{9AE2D28C-A7E3-41AB-B3A1-9852DEC35C52}"
+          s:id="{5410E093-9B56-4C2F-B411-9FB3702CBC63}"
+          s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;anchorText&amp;HeroBannerVariant=%7b0B1166D9-2C27-4392-B0FB-C3E5F2C18380%7d&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;PlayVideoInBackground&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{AB68C5F3-96B1-4087-BC37-5DEDE71572B8}"
+          p:after="r[@uid='{5291EE34-6E52-461C-8CC4-5DF60AD9AA69}']"
+          s:ds="{CD4EC231-14A6-4C51-88A3-5D1D015EE03A}"
+          s:id="{1B2D4D22-4BFA-48E9-ACD5-0120D07747F3}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;anchorText&amp;cardStyle=%7bD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7d&amp;cardType=%7b3A755B62-8B19-4B2E-940B-B844C3AAFE15%7d&amp;divider&amp;backgroundColor=%7bEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7d&amp;cardVariant=%7b5A142F32-29AC-4CEB-9987-D0998ABA7677%7d"
+          s:ph="jss-main" />
+        <r
+          uid="{8FB69A5E-440E-431E-8F46-03D11C534FEB}"
+          p:after="r[@uid='{AB68C5F3-96B1-4087-BC37-5DEDE71572B8}']"
+          s:ds=""
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;contentBlockType=%7bE0AD9759-98A0-479F-9E1B-700ED3FC8B36%7d&amp;backgroundColor=%7bEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge=1&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{276E589C-0398-4F29-9A8A-0CD4645A0F9C}"
+          p:after="r[@uid='{8FB69A5E-440E-431E-8F46-03D11C534FEB}']"
+          s:ds=""
+          s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+          s:par="carouselMode=%7b65BDD6C4-9B17-42DA-A050-72CEF86F370E%7d&amp;divider&amp;anchorText&amp;backgroundColor=%7bCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7d%7c%7bCEAD44A4-36F6-4AFD-B1A3-9061B246AE9D%7d&amp;numberOfColumns=%7b63A7FCF5-15A7-41A5-86EA-A3010A9D12AA%7d&amp;paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d"
+          s:ph="jss-main" />
+        <r
+          uid="{9E0AEDA0-CCE9-4F03-90ED-E0109AC1E02F}"
+          p:after="r[@uid='{276E589C-0398-4F29-9A8A-0CD4645A0F9C}']"
+          s:ds="{322433DF-52D7-4FC6-889D-D529BABEF7A1}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;contentBlockType=%7bE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7d&amp;backgroundColor=%7bB47928D6-98FC-4B29-8D0F-586AB477286E%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+          s:ph="/jss-main/jss-col-1-{276E589C-0398-4F29-9A8A-0CD4645A0F9C}-0" />
+        <r
+          uid="{4DF23214-C4BD-43A8-A826-6E7244254367}"
+          p:after="r[@uid='{9E0AEDA0-CCE9-4F03-90ED-E0109AC1E02F}']"
+          s:ds="{DD0277FE-7F26-49F5-9DE2-D9D512FD2A80}"
+          s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;contentBlockType=%7bE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7d&amp;backgroundColor=%7bB47928D6-98FC-4B29-8D0F-586AB477286E%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;divider"
+          s:ph="/jss-main/jss-col-2-{276E589C-0398-4F29-9A8A-0CD4645A0F9C}-0" />
+        <r
+          uid="{9B08E9E3-A5E8-40B5-A6EF-CDCC008952FA}"
+          p:after="r[@uid='{4DF23214-C4BD-43A8-A826-6E7244254367}']"
+          s:ds="{0AEF5FD1-3376-415F-A743-97E5A1D0A111}"
+          s:id="{FC55218D-3368-4037-B642-7FD35BD96EA1}"
+          s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;anchorText&amp;backgroundColor=%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{8C18F6AE-E6DF-48E4-8667-A69ED7D676AA}"
+          p:after="*[1=2]"
+          s:ds="{73E7F7BD-CEC1-41AE-98D7-82DB26381E31}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Tailor made life and medical
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{AB68C5F3-96B1-4087-BC37-5DEDE71572B8}"
+              s:par="cardVariant=%7BC0DF1746-485D-4546-AEB1-6F1313FE52D9%7D&amp;cardType=%7B3A755B62-8B19-4B2E-940B-B844C3AAFE15%7D&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider=1" />
+            <r
+              uid="{8FB69A5E-440E-431E-8F46-03D11C534FEB}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FE577CA-EE5E-42E9-B7D0-1530C7B5A623}"
+              p:after="r[@uid='{AB68C5F3-96B1-4087-BC37-5DEDE71572B8}']"
+              s:ds="{1BA613FE-B401-464C-8092-C8CFB8E7F778}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{8C18F6AE-E6DF-48E4-8667-A69ED7D676AA}"
+              s:par="anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200116T074415Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: Group insurance that lets you customise your coverage according to your needs 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: "Tailor-Made life and medical insurance"
+    - ID: "8be3bdbc-75a6-4af2-8652-a36f78f045aa"
+      Hint: image
+      Value: |
+        <image mediaid="{CD165B70-6DFB-40E5-BDBF-792D7FA4F5FD}" cropx="0.48" cropy="0.54" focusx="-0.03508771929824561" focusy="-0.078125" />
+    - ID: "bff9a6fb-6c91-45bf-a40c-e6fa1bfd3b0f"
+      Hint: productTitle
+      Value: "Tailor-Made Life and Medical Insurance"
+    - ID: "d1a2a10f-c02d-4625-a5b6-ff7501277235"
+      Hint: productDescription
+      Value: Group insurance that lets you customise your coverage according to your needs 
+    - ID: "d43405db-58f2-4ca5-af1e-3a1b88711ac9"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{CD165B70-6DFB-40E5-BDBF-792D7FA4F5FD}" cropx="0.50" cropy="0.55" focusx="0.00877192982456143" focusy="-0.109375" />
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: Group insurance, Group health insurance, Group accident insurance
+  - Version: 2
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{AB68C5F3-96B1-4087-BC37-5DEDE71572B8}"
+              s:par="cardVariant=%7BC0DF1746-485D-4546-AEB1-6F1313FE52D9%7D&amp;cardType=%7B3A755B62-8B19-4B2E-940B-B844C3AAFE15%7D&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider=1" />
+            <r
+              uid="{8FB69A5E-440E-431E-8F46-03D11C534FEB}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FE577CA-EE5E-42E9-B7D0-1530C7B5A623}"
+              p:after="r[@uid='{AB68C5F3-96B1-4087-BC37-5DEDE71572B8}']"
+              s:ds="{1BA613FE-B401-464C-8092-C8CFB8E7F778}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{8C18F6AE-E6DF-48E4-8667-A69ED7D676AA}"
+              s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200814T103334Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: "FWD Thailand's Tailor-Made Life and Medical Group Insurance lets you customise your coverage according to your needs with full and cost-effective protection."
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: "Tailor-Made Life and Medical Group Insurance | FWD Thailand"
+    - ID: "8be3bdbc-75a6-4af2-8652-a36f78f045aa"
+      Hint: image
+      Value: |
+        <image mediaid="{CD165B70-6DFB-40E5-BDBF-792D7FA4F5FD}" cropx="0.48" cropy="0.54" focusx="-0.03508771929824561" focusy="-0.078125" />
+    - ID: "bff9a6fb-6c91-45bf-a40c-e6fa1bfd3b0f"
+      Hint: productTitle
+      Value: "Tailor-Made Life and Medical Insurance"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200814T103334Z
+    - ID: "d1a2a10f-c02d-4625-a5b6-ff7501277235"
+      Hint: productDescription
+      Value: Group insurance that lets you customise your coverage according to your needs 
+    - ID: "d43405db-58f2-4ca5-af1e-3a1b88711ac9"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{CD165B70-6DFB-40E5-BDBF-792D7FA4F5FD}" cropx="0.50" cropy="0.55" focusx="0.00877192982456143" focusy="-0.109375" />
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: Group insurance, Group health insurance, Group accident insurance
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Tailor-Made Life and Medical"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{AB68C5F3-96B1-4087-BC37-5DEDE71572B8}"
+              s:par="cardVariant=%7BC0DF1746-485D-4546-AEB1-6F1313FE52D9%7D&amp;cardType=%7B3A755B62-8B19-4B2E-940B-B844C3AAFE15%7D&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider=1" />
+            <r
+              uid="{8FB69A5E-440E-431E-8F46-03D11C534FEB}">
+              <p:d />
+            </r>
+            <r
+              uid="{B6E0BF3C-876A-404A-A780-D021D68602D3}"
+              p:after="r[@uid='{AB68C5F3-96B1-4087-BC37-5DEDE71572B8}']"
+              s:ds="{1BA613FE-B401-464C-8092-C8CFB8E7F778}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{8C18F6AE-E6DF-48E4-8667-A69ED7D676AA}"
+              s:par="anchorText&amp;backgroundColor=%7BCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7BDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7D&amp;divider" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T115848Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: ความคุ้มครองประกันภัยแบบกลุ่มที่คุณสามารถปรับเปลี่ยนได้ตามต้องการ
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: ประกันชีวิตและประกันสุขภาพที่ออกแบบได้
+    - ID: "8be3bdbc-75a6-4af2-8652-a36f78f045aa"
+      Hint: image
+      Value: |
+        <image mediaid="{CD165B70-6DFB-40E5-BDBF-792D7FA4F5FD}" cropx="0.48" cropy="0.52" focusx="-0.03508771929824561" focusy="-0.03125" />
+    - ID: "bff9a6fb-6c91-45bf-a40c-e6fa1bfd3b0f"
+      Hint: productTitle
+      Value: เทเลอร์เมด ประกันชีวิตและประกันสุขภาพที่ออกแบบได้
+    - ID: "d1a2a10f-c02d-4625-a5b6-ff7501277235"
+      Hint: productDescription
+      Value: ความคุ้มครองประกันภัยแบบกลุ่มที่คุณสามารถปรับเปลี่ยนได้ตามต้องการ
+    - ID: "d43405db-58f2-4ca5-af1e-3a1b88711ac9"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{CD165B70-6DFB-40E5-BDBF-792D7FA4F5FD}" cropx="0.48" cropy="0.53" focusx="-0.04385964912280704" focusy="-0.0625" />
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: ประกันกลุ่ม, ประกันสุขภาพกลุ่ม, ประกันอุบัติเหตุกลุ่ม
+  - Version: 2
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{AB68C5F3-96B1-4087-BC37-5DEDE71572B8}"
+              s:par="cardVariant=%7BC0DF1746-485D-4546-AEB1-6F1313FE52D9%7D&amp;cardType=%7B3A755B62-8B19-4B2E-940B-B844C3AAFE15%7D&amp;cardStyle=%7BD00DE40E-2367-4E6F-B0D5-61E9A68DC8D4%7D&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider=1" />
+            <r
+              uid="{8FB69A5E-440E-431E-8F46-03D11C534FEB}">
+              <p:d />
+            </r>
+            <r
+              uid="{B6E0BF3C-876A-404A-A780-D021D68602D3}"
+              p:after="r[@uid='{AB68C5F3-96B1-4087-BC37-5DEDE71572B8}']"
+              s:ds="{1BA613FE-B401-464C-8092-C8CFB8E7F778}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BCBDC6265-D09F-4982-981A-BCC8F118F36F%7D&amp;paddingTop=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;paddingBottom=%7B39A5175B-32BA-4968-842E-ABFC2410ABFF%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{8C18F6AE-E6DF-48E4-8667-A69ED7D676AA}"
+              s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200814T103244Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: ซื้อแผนประกันชีวิตและประกันสุขภาพกลุ่มที่คุณสามารถออกแบบได้ จาก FWD ประเทศไทย เพื่อความคุ้มครองที่ยืดหยุ่นและคุ้มราคา ช่วยให้คุณสามารถปรับเปลี่ยนได้ตามต้องการ
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: แผนประกันกลุ่ม ประกันชีวิตและประกันสุขภาพ | FWD ประกันชีวิต
+    - ID: "8be3bdbc-75a6-4af2-8652-a36f78f045aa"
+      Hint: image
+      Value: |
+        <image mediaid="{CD165B70-6DFB-40E5-BDBF-792D7FA4F5FD}" cropx="0.48" cropy="0.52" focusx="-0.03508771929824561" focusy="-0.03125" />
+    - ID: "bff9a6fb-6c91-45bf-a40c-e6fa1bfd3b0f"
+      Hint: productTitle
+      Value: เทเลอร์เมด ประกันชีวิตและประกันสุขภาพที่ออกแบบได้
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200814T103244Z
+    - ID: "d1a2a10f-c02d-4625-a5b6-ff7501277235"
+      Hint: productDescription
+      Value: ความคุ้มครองประกันภัยแบบกลุ่มที่คุณสามารถปรับเปลี่ยนได้ตามต้องการ
+    - ID: "d43405db-58f2-4ca5-af1e-3a1b88711ac9"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{CD165B70-6DFB-40E5-BDBF-792D7FA4F5FD}" cropx="0.48" cropy="0.53" focusx="-0.04385964912280704" focusy="-0.0625" />
+    - ID: "f73058c2-3f5c-485c-9e31-e71c53f184ac"
+      Hint: metadataKeywords
+      Value: ประกันกลุ่ม, ประกันสุขภาพกลุ่ม, ประกันอุบัติเหตุกลุ่ม

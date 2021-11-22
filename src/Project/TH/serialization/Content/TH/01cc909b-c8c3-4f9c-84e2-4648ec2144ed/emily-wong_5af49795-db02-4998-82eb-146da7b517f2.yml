@@ -1,0 +1,71 @@
+﻿---
+ID: "5af49795-db02-4998-82eb-146da7b517f2"
+Parent: "01cc909b-c8c3-4f9c-84e2-4648ec2144ed"
+Template: "8e353b27-e5f9-4361-b332-9b3557fb7cd8"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/Card Profile/local-folder/ManagementCardList 1/thailand-leaders/emily-wong"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Krit Chitranapawong
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{300983E3-B672-4900-BDD7-1A82926A511A}" cropx="0.77" cropy="0.73" focusx="0.5350877192982457" focusy="-0.453125" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T095008Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: Krit Chitranapawong
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: |
+        <p><em>As FWD Group CEO, I share a strong passion with my team about changing the way people feel about insurance. I work closely with our leadership team to build FWD into a strong, cohesive business across Asia achieving our unified vision to bring change to the insurance landscape.</em></p>
+        <p><em>
+        When FWD was born, we dared to be different and set out to challenge the traditional mind set of our industry. We wanted to create a new kind of insurer with customers where they deserve to be; at the very heart of our business. We believe in making it easy for people to understand and enjoy the benefits of insurance with straightforward products that are relevant to today&rsquo;s lifestyles. In Thailand, the FWD brand has already made great strides towards offering customers a differentiated, fresh experience of insurance, with the ethos of taking care of our customers&rsquo; worries so that they can live their life today with confidence.
+        </em></p>
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: Chief Alternative Distribution Officer
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{300983E3-B672-4900-BDD7-1A82926A511A}" cropx="0.87" cropy="0.86" focusx="0.736842105263158" focusy="-0.71875" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "050b6ce9-3b33-438d-bb26-4574594f635a"
+      Hint: image
+      Value: |
+        <image mediaid="{300983E3-B672-4900-BDD7-1A82926A511A}" cropx="0.77" cropy="0.73" focusx="0.5350877192982457" focusy="-0.453125" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T084343Z
+    - ID: "2e5348d4-c66f-4cd7-9d90-ae8bfc2cf4ca"
+      Hint: name
+      Value: สุวพันธ์ แสงประกาย
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "728ddf63-6367-4a18-80ea-2d9dd7d7488d"
+      Hint: quote
+      Value: |
+        <p><em>As FWD Group CEO, I share a strong passion with my team about changing the way people feel about insurance. I work closely with our leadership team to build FWD into a strong, cohesive business across Asia achieving our unified vision to bring change to the insurance landscape.</em></p>
+        <p><em>
+        When FWD was born, we dared to be different and set out to challenge the traditional mind set of our industry. We wanted to create a new kind of insurer with customers where they deserve to be; at the very heart of our business. We believe in making it easy for people to understand and enjoy the benefits of insurance with straightforward products that are relevant to today&rsquo;s lifestyles. In Thailand, the FWD brand has already made great strides towards offering customers a differentiated, fresh experience of insurance, with the ethos of taking care of our customers&rsquo; worries so that they can live their life today with confidence.
+        </em></p>
+    - ID: "7877f845-b340-4cff-a974-0283ed24f21e"
+      Hint: designation
+      Value: รองประธานเจ้าหน้าที่สายงานการเงิน
+    - ID: "df9cf578-c587-4973-89e1-71339cff8c76"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{300983E3-B672-4900-BDD7-1A82926A511A}" cropx="0.87" cropy="0.86" focusx="0.736842105263158" focusy="-0.71875" />

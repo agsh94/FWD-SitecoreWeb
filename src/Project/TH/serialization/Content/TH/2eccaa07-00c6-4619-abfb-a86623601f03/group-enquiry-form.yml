@@ -1,0 +1,86 @@
+﻿---
+ID: "d445fd9e-715b-4bf3-8451-f4b0cd5ee974"
+Parent: "2eccaa07-00c6-4619-abfb-a86623601f03"
+Template: "0b1e5ada-16a0-4d04-a1c5-0e27dcf3371e"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/GroupLandingPage/Single-Premium-Group-Insurance/group-enquiry-form"
+DB: master
+SharedFields:
+- ID: "90a3aaad-124b-4118-9d91-85bb12d9c5b8"
+  Hint: redirectUrl
+  Value: |
+    <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{43088AC9-3274-4035-B857-B40A2A8C103E}" />
+- ID: "d8ac2121-1b4a-4b17-97b8-6c9c7635d239"
+  Hint: formEmailTemplate
+  Value: |
+    <link text="" linktype="form" querystring="" target="" id="{2A548D64-4989-4185-9CF8-628ABC4568EB}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{BC9A7276-B7E9-4D8F-8B9F-A03D05943657}"
+          s:par="anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Enquiry
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{20BFD474-1461-4167-AC7F-2C65FE5130F2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8659024B-D23D-429F-A66D-074C6BA10410}"
+              p:after="r[@uid='{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}']"
+              s:ds="{F0BD8CA1-8714-4E69-9262-CEC4362A0C44}"
+              s:id="{D12A5E12-4AB2-4330-8D72-77EA8D372515}"
+              s:par="formType=regular"
+              s:ph="jss-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200205T130542Z
+    - ID: "3ee9d7ab-80af-491b-bf20-b8535dc97533"
+      Hint: metadataTitle
+      Value: Single Premium Group Insurance
+    - ID: "7735b88e-fe4f-42fa-86de-a3f590a7e9ed"
+      Hint: apiList
+      Type: Multilist
+      Value: "{D58E3660-0AB7-4811-AD6F-D007E52AF349}"
+    - ID: "e786a3dc-a901-4490-ad90-0aa927ed411b"
+      Hint: expectedProductName
+      Value: Single Premium Group Insurance
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T103624Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7735b88e-fe4f-42fa-86de-a3f590a7e9ed"
+      Hint: apiList
+      Type: Multilist
+      Value: "{D58E3660-0AB7-4811-AD6F-D007E52AF349}"

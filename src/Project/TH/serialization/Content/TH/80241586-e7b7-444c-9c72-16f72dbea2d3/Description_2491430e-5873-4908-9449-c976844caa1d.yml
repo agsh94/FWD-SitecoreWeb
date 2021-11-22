@@ -1,0 +1,29 @@
+﻿---
+ID: "2491430e-5873-4908-9449-c976844caa1d"
+Parent: "80241586-e7b7-444c-9c72-16f72dbea2d3"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/travel-leh-ladakh/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 4400
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T073847Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Day 5 &amp; 6 : Nubra Valley to Pangong Lake</strong><br />
+        จาก Nubra Valley วันนี้ก็จะเป็นวันทรหดอีกวัน ที่ต้องนั่งรถยาวๆ ร่วม 6 ชั่วโมง แต่เป็นทางเลียบเลาะเขาไปเรื่อยๆ ไม่ต้องห่วงอาการแพ้ความสูงแล้วทุกคนเลยเอ็นจอยกับวิวได้เต็มที่ และก็เป็นวิวธรรมดาๆ ที่เราจ้องได้ทั้งวันไม่เบื่อเลย ยิ่งดู ยิ่งรู้สึกว่า ธรรมชาตินี่โคตรยิ่งใหญ่อะ ได้อารมณ์เหงาๆ เหมือนหนังเรื่อง Marsian เลย</p>
+        <p>&nbsp;</p>
+        <p>หลังจากกินก็แล้ว นอนก็แล้ว ร้องเพลงก็แล้ว วนไปวนมาสิบตลบ จนกล้ามเนื้อก้นเกือบเสื่อม ด้านชา ไร้ความรู้สึก ทะเลสีฟ้าสดๆ ก็เริ่มโผล่แง้มตัวออกจากภูเขา ใช่! เรามาถึงปันกองเลค&nbsp;ทะเลสาบน้ำเค็มสีครามสดที่อยู่สูงที่สุดในโลก</p>

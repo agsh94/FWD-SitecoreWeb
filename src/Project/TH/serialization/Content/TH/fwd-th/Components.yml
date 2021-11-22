@@ -1,0 +1,65 @@
+﻿---
+ID: "53f11616-6659-419f-9d77-2752eb24c73b"
+Parent: "c3bdd602-4fed-4688-b5bd-3d021994351a"
+Template: "a96bd366-09f5-4751-97b8-1daa5425c435"
+Path: "/sitecore/content/fwd/fwd-th/Components"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+    {81FDBC04-FBB2-4708-83C9-2765D38A5BC6}
+    {784A15DB-39F4-4022-A66B-813BC00279BD}
+    {E09BA2A0-0562-4453-B691-E53A73CF9F15}
+    {41B42838-BCCC-4FA3-A65F-2159F094AA3A}
+    {E2B4C17D-C1C9-45DC-BD44-BDA643DFCFE4}
+    {994D9335-852D-471B-970A-69B18948273B}
+    {D1E3C64A-4438-46F0-92DB-03991FBDEF5B}
+    {35B83BE5-3063-4FF3-ACE2-24140E7D625D}
+    {94D5AC13-7490-490D-9768-344B5C4FF799}
+    {128C8D06-48C1-46ED-B80E-904CC3DE68E0}
+    {DE4D5F49-8FDE-4C71-9A10-FCA834EC4653}
+    {C126F532-A784-48D3-90D7-6A240BC67A5C}
+    {DBD7CE2A-2010-4D84-8CCC-98754B1A8809}
+    {A32C5558-9C17-49D7-B62D-6E6201109273}
+    {0C21E33D-C723-41B1-8525-082686A665FD}
+    {E58F6923-A263-42E8-9515-8400DF573D84}
+    {F7152A9C-EDEA-49D6-A218-EC7009D9A7F1}
+    {EBFC516A-541D-498A-B3A4-6365648C1264}
+    {9ED10FEF-C828-4082-A2BB-D6CE20C011FF}
+    {D8A1F1DD-1A39-4A54-8D02-58F79F6AED2F}
+    {67AF5C65-3CB4-4D80-99FC-0C1775013EE1}
+    {B9550831-BF22-4C7C-B72C-311022E27F1B}
+    {3B96DF71-BF27-4627-B3CB-8BE6F1FB5D3F}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\FWD TH Author|pe|+item:read|^*|pd|+item:read|^*|
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Content Repository
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190911T131114Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T065143Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

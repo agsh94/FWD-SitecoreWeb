@@ -1,0 +1,65 @@
+﻿---
+ID: "fda72c0c-1932-410d-a207-14bfe19a9738"
+Parent: "c98baa6e-2e92-4f2f-8d78-d9215419d3ef"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/Fund Information/Equity Funds/ABSM"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T041235Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: |
+        Aberdeen Standard Small Cap Fund (ABSM)<br />
+        ** subscription and switch-in were suspended temporarily from 4th January 2018
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='http://www.aberdeen-asset.co.th/th/thailand/fund-centre/fund-information/factsheet'>Fund page</a></li>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/docs?editionId=6fc59945-1181-4bd0-a2db-271a0f754c0b'>Fund information summary</a></li>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/docs?editionId=efe965d1-5aef-49af-a010-73fdd4c7d6ea'>Prospectus</a></li>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/docs?editionId=36b62505-eade-4f36-92cf-efd016f1827a'>Fact sheet</a></li>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/docs?editionId=04178265-c006-4474-a82f-fad605cdae96'>Bi-annual report</a></li>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/docs?editionId=8910a290-b107-4048-9c19-61ef787b4118 '>Annual report</a></li>
+        </ul>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T041158Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: |
+        กองทุนเปิด อเบอร์ดีน สแตนดาร์ด สมอลแค็พ (ABSM)<br />
+        ** ระงับการเปิดรับคำสั่งซื้อ และ/หรือ สับเปลี่ยนเข้ากองทุน
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul>
+        <li><a target='_blank' href='http://www.aberdeen-asset.co.th/th/thailand/fund-centre/fund-information/factsheet'>หน้าหลักกองทุน</a></li>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/docs?editionId=6fc59945-1181-4bd0-a2db-271a0f754c0b'>สาระสำคัญ ของกองทุน</a></li>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/docs?editionId=efe965d1-5aef-49af-a010-73fdd4c7d6ea'>หนังสือชี้ชวน</a></li>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/docs?editionId=36b62505-eade-4f36-92cf-efd016f1827a'>หนังสือชี้ชวนส่วนสรุป</a></li>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/docs?editionId=04178265-c006-4474-a82f-fad605cdae96'>รายงาน 6 เดือน</a></li>
+        <li><a target='_blank' href='https://www.aberdeenstandard.com/docs?editionId=8910a290-b107-4048-9c19-61ef787b4118'>รายงานประจำปี</a></li>
+        </ul>

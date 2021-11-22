@@ -1,0 +1,49 @@
+﻿---
+ID: "32aa8f7c-6e3e-4c74-b0c2-c659b353d8b4"
+Parent: "2780d877-e4a6-4b18-b184-fa28fb025a56"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/Merger FAQ/9What will be the business direction after the completion of amalgamation"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200703T064739Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "What will be the business direction after the completion of amalgamation?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul style="list-style-type: disc;">
+            <li><span>The amalgamation will strengthen FWD&rsquo;s presence and market share in the Thailand insurance market. We look forward to creating fresh, customer-led and easy-to-understand insurance experiences for the Thai market. </span></li>
+            <li><span>FWD will aim to develop and grow its business in Thailand through investment in the long-term and continue to develop innovative product propositions and customer experience to meet the evolving needs of today&rsquo;s increasingly technologically savvy customers. </span></li>
+        </ul>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200703T065316Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: นโยบายทางธุรกิจคาดว่าจะเปลี่ยนไปในทิศทางใดภายหลังจากการควบกันของบริษัทเสร็จสิ้นแล้ว
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul style="list-style-type: disc;">
+            <li><span>การควบกันของบริษัทจะช่วยเสริมสร้างความมั่นคงให้แก่</span><span> FWD Life</span> <span>รวมถึงเพิ่มส่วนแบ่งตลาดในตลาดประกันภัยของประเทศไทย ดังนี้ บริษัทมุ่งมั่นที่จะสร้างประสบการณ์การประกันภัยใหม่ๆ ที่ตอบโจทย์ของลูกค้า และเป็นประสบการณ์ที่ลูกค้าเข้าใจได้ง่าย</span></li>
+            <li><span>FWD Life มีเป้าหมายที่จะพัฒนาและ</span><span>ขยายธุรกิจในประเทศไทย ผ่านการลงทุนระยะยาว และจะมุ่งมั่นพัฒนาผลิตภัณฑ์และนวัตกรรมต่างๆ เพื่อตอบโจทย์ของลูกค้า ซึ่งมีการเปลี่ยนแปลงอยู่ตลอดเวลา ทั้งนี้ ปัจจัยหนึ่งมาจากการพัฒนาอย่างรวดเร็วในด้านเทคโนโลยี</span></li>
+        </ul>

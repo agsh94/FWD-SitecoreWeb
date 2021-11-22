@@ -1,0 +1,39 @@
+﻿---
+ID: "69be3207-1c03-4da6-a838-9ab99386dee7"
+Parent: "71c33a51-de22-40e2-ac97-ac11e8bbc3de"
+Template: "fa86f689-9071-4d22-83df-c3fc48edda47"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/local-folder/stepper"
+DB: master
+SharedFields:
+- ID: "53c77327-5720-4867-86c6-e51334baf8c2"
+  Hint: divider
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200130T123354Z
+    - ID: "6a635232-2b2c-43da-8cf4-c0b36981424e"
+      Hint: title
+      Value: 4 easy steps to begin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T060935Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6a635232-2b2c-43da-8cf4-c0b36981424e"
+      Hint: title
+      Value: 4 ขั้นตอนง่ายๆ สตาร์ทชีวิตสุดแมกซ์

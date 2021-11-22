@@ -1,0 +1,85 @@
+﻿---
+ID: "5d1b5af4-4f50-426e-a33e-d86090a9fa73"
+Parent: "334d56d5-9720-4f61-afc4-d5db2020317f"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/care-card/local-folder/FWD Care Card Claims"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{25DFC1D3-822C-4661-8A6B-C6B60DA67CAA}" cropx="0.54" cropy="0.49" focusx="0.08333333333333326" focusy="0.015625" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200518T113607Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{25DFC1D3-822C-4661-8A6B-C6B60DA67CAA}" cropx="0.55" cropy="0.49" focusx="0.10416666666666674" focusy="0.015625" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p>FWD Care is a customer benefit so you can have medical treatment at one of our FWD registered hospitals. Card holders will receive medical treatment without paying in advance (excluding costs that exceed the benefits of your coverage). Terms and conditions apply.
+        </p>
+        <p>If you need to receive medical help due to illness or injury as an inpatient or outpatient at one of our hospitals, you can use FWD Care Card under the terms and conditions in your policy.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "869e361f-947c-4aa5-8f47-faa91843a591"
+      Hint: enableHeading
+      Type: Checkbox
+      Value: 0
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: "Making life easier with cash-free medical treatment"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{25DFC1D3-822C-4661-8A6B-C6B60DA67CAA}" cropx="0.53" cropy="0.48" focusx="0.0625" focusy="0.046875" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200518T120226Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{25DFC1D3-822C-4661-8A6B-C6B60DA67CAA}" cropx="0.54" cropy="0.50" focusx="0.08333333333333326" focusy="0" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        เอฟดับบลิวดี แคร์การ์ด สิทธิประโยชน์สำหรับลูกค้าเอฟดับบลิวดี คุณสามารถเข้ารับการรักษาที่โรงพยาบาล ซึ่งลงทะเบียนเข้าร่วมกับเอฟดับบลิวดีแห่งใดก็ได้ โดยผู้ถือบัตร ไม่ต้องสำรองจ่ายเมื่อเข้ารับการรักษา (ไม่รวมถึงค่าใช้จ่ายที่นอกเหนือไปจากความคุ้มครองตามกรมธรรม์) ภายใต้ข้อกำหนดและเงื่อนไข
+        
+        หากคุณต้องเข้ารับการรักษาจากเหตุเจ็บป่วยหรือการบาดเจ็บ ในแผนกผู้ป่วยในหรือผู้ป่วยนอก ที่โรงพยาบาลในเครือข่ายของบริษัท คุณสามารถใช้บัตรเอฟดับบลิวดี แคร์การ์ด ภายใต้ข้อกำหนดและเงื่อนไขตามกรมธรรม์ของคุณได้
+        ​
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "869e361f-947c-4aa5-8f47-faa91843a591"
+      Hint: enableHeading
+      Type: Checkbox
+      Value: 0
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ให้ชีวิตคุณง่ายขึ้นด้วยการเข้ารับการรักษา โดยไม่ต้องสำรองจ่ายล่วงหน้า
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"

@@ -1,0 +1,105 @@
+﻿---
+ID: "ba7e1817-314b-426f-bb07-abba19fbd6dc"
+Parent: "304b425c-d11c-41f3-9470-f2d9ea02ce0e"
+Template: "ad6870d4-2dd6-40ef-a8fa-941ab32cee43"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/care-card/local-folder/Out-patient In-patient/In-Patient/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T075803Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ol>
+            <li>Present your FWD Card (check its expiry date) along with your ID card or student card or a valid document as issued by the government. Then fill in and sign the form provided by the hospital. This will be in part 1 of the policy owner section (Inpatient “Health Care” form).</li>
+            <li>After visiting the doctor, if you need to be admitted to hospital for further treatment, the hospital officer will contact the Claims Department to request permission for you to pay with the FWD Care Card. If accepted, you will receive treatment without having to pay (conditions may apply). However, if your sickness is serious - such as an accident or emergency - you will be treated immediately without needing to seek permission from the Claims Department. After the treatment, the hospital will then contact the Claims Department to process the claim.</li>
+            <li>Upon discharge, the hospital will inform the Claims Department about the total cost. The cost must be covered by the agreed conditions in your insurance policy. If the total cost exceeds the coverage, the hospital will charge the excess amount directly to you, the insured person.</li>
+            <li>If you buy any other policies such as daily hospital cash benefit (HB) or accidental indemnity (AI), we will provide benefits as agreed in the policy upon your discharge from hospital. There is no need to submit documents to the Claims Department except in special cases where we will inform you.</li>
+        </ol>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200914T123640Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ol>
+            <li>Present your FWD Card along with your ID card or student card or a valid document as issued by the government. Then fill in and sign the form provided by the hospital. This will be in part 1 of the policy owner section (Inpatient &ldquo;Health Care&rdquo; form).</li>
+            <li>After visiting the doctor, if you need to be admitted to hospital for further treatment, the hospital officer will contact the Claims Department to request permission for you to pay with the FWD Care Card. If accepted, you will receive treatment without having to pay (conditions may apply). However, if your condition is serious&nbsp;- such as an accident or emergency - you will be treated immediately without needing to seek permission from the Claims Department. After the treatment, the hospital will then contact the Claims Department to process the claim.</li>
+            <li>Upon discharge, the hospital will inform the Claims Department about the total cost. The cost must be covered by the agreed conditions in your insurance policy. If the total cost exceeds the coverage, the hospital will charge the excess amount directly to you, the insured person.</li>
+            <li>If you buy any other policies such as daily hospital cash benefit (HB) or accidental indemnity (AI), we will provide benefits as agreed in the policy upon your discharge from hospital. There is no need to submit documents to the Claims Department except in special cases where we will inform you.</li>
+        </ol>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200914T123640Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T081259Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ol>
+            <li>แสดงบัตรเอฟดับบลิวดี แคร์การ์ด (กรุณาตรวจสอบวันหมดอายุ) พร้อมกับบัตรประชาชนหรือบัตรประจำตัวนักเรียน/นักศึกษาหรือเอกสารใดๆ ที่ออกโดยรัฐบาล พร้อมกับกรอกแบบฟอร์มและลงชื่อในแบบฟอร์มที่โรงพยาบาลกำหนดให้ โดยสามารถดูรายละเอียดที่กำหนดไว้นี้ได้ในส่วนที่ 1 สำหรับผู้ถือกรมธรรม์ (แบบฟอร์มการรักษาพยาบาลกรณีผู้ป่วยใน Health Care พร้อมทั้งลงลายมือชื่อ)</li>
+            <li>หลังจากพบแพทย์แล้ว หากคุณจำเป็นต้องนอนรักษาตัวในโรงพยาบาล โรงพยาบาลจะประสานมาที่ฝ่ายสินไหมของบริษัท เพื่อขออนุมัติกรณีนอนรักษาตัวในโรงพยาบาล โดยใช้บัตรเอฟดับบลิวดี แคร์การ์ด ในกรณีที่คำขอที่ได้รับการอนุมัติ คุณจะได้รับการรักษาโดยไม่ต้องชำระค่าใช้จ่าย (ภายใต้เงื่อนไข หากมี) อย่างไรก็ตาม ในกรณีอาการป่วยวิกฤต จากอุบัติเหตุหรือเหตุฉุกเฉิน คุณจะได้รับการรักษาทันที โดยไม่ต้องได้รับการอนุมัติจากฝ่ายสินไหมของบริษัทก่อน หลังจากนั้น โรงพยาบาลจะประสานมาที่ฝ่ายสินไหมของบริษัท เพื่อดำเนินเรื่องการเคลมต่อไปเอง</li>
+            <li>เมื่อจะออกจากโรงพยาบาล โรงพยาบาลจะแจ้งค่ารักษาพยาบาลกรณีผู้ป่วยในให้ฝ่ายสินไหมของบริษัทรับทราบ โดยค่าใช้จ่ายจะต้องเป็นไปตามความคุ้มครองและข้อกำหนดตามกรมธรรม์ของคุณ ในกรณีที่มีค่ารักษาส่วนเกินจากความคุ้มครองตามกรมธรรม์ โรงพยาบาลจะเรียกชำระค่าใช้จ่ายส่วนเกินจากคุณโดยตรง ในฐานะผู้เอากรมธรรม์</li>
+            <li>หากคุณซื้อกรมธรรม์ประเภทอื่นเพิ่มเติมด้วย เช่น เงินชดเชยตามจำนวนวันที่ผู้เอาประกันต้องนอนรักษาตัวในโรงพยาบาล (HB) หรือเงินชดเชยเมื่อเกิดอุบัติเหตุ (AI) หลังจากคุณออกจากโรงพยาบาลแล้ว บริษัทจะจ่ายเงินชดเชยให้ตามที่ระบุไว้ในกรมธรรม์ โดยคุณไม่จำเป็นต้องส่งเอกสารใดมาให้ฝ่ายสินไหมของบริษัท ยกเว้นบางกรณี ซึ่งบริษัทจะแจ้งให้คุณทราบภายหลัง</li>
+        </ol>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200914T123945Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ol>
+            <li>แสดงบัตรเอฟดับบลิวดี แคร์การ์ด พร้อมกับบัตรประชาชนหรือบัตรประจำตัวนักเรียน/นักศึกษาหรือเอกสารใดๆ ที่ออกโดยรัฐบาล พร้อมกับกรอกแบบฟอร์มและลงชื่อในแบบฟอร์มที่โรงพยาบาลกำหนดให้ โดยสามารถดูรายละเอียดที่กำหนดไว้นี้ได้ในส่วนที่ 1 สำหรับผู้ถือกรมธรรม์ (แบบฟอร์มการรักษาพยาบาลกรณีผู้ป่วยใน Health Care พร้อมทั้งลงลายมือชื่อ)</li>
+            <li>หลังจากพบแพทย์แล้ว หากคุณจำเป็นต้องนอนรักษาตัวในโรงพยาบาล โรงพยาบาลจะประสานมาที่ฝ่ายสินไหมของบริษัท เพื่อขออนุมัติกรณีนอนรักษาตัวในโรงพยาบาล โดยใช้บัตรเอฟดับบลิวดี แคร์การ์ด ในกรณีที่คำขอที่ได้รับการอนุมัติ คุณจะได้รับการรักษาโดยไม่ต้องชำระค่าใช้จ่าย (ภายใต้เงื่อนไข หากมี) อย่างไรก็ตาม ในกรณีอาการป่วยวิกฤต จากอุบัติเหตุหรือเหตุฉุกเฉิน คุณจะได้รับการรักษาทันที โดยไม่ต้องได้รับการอนุมัติจากฝ่ายสินไหมของบริษัทก่อน หลังจากนั้น โรงพยาบาลจะประสานมาที่ฝ่ายสินไหมของบริษัท เพื่อดำเนินเรื่องการเคลมต่อไปเอง</li>
+            <li>เมื่อจะออกจากโรงพยาบาล โรงพยาบาลจะแจ้งค่ารักษาพยาบาลกรณีผู้ป่วยในให้ฝ่ายสินไหมของบริษัทรับทราบ โดยค่าใช้จ่ายจะต้องเป็นไปตามความคุ้มครองและข้อกำหนดตามกรมธรรม์ของคุณ ในกรณีที่มีค่ารักษาส่วนเกินจากความคุ้มครองตามกรมธรรม์ โรงพยาบาลจะเรียกชำระค่าใช้จ่ายส่วนเกินจากคุณโดยตรง ในฐานะผู้เอากรมธรรม์</li>
+            <li>หากคุณซื้อกรมธรรม์ประเภทอื่นเพิ่มเติมด้วย เช่น เงินชดเชยตามจำนวนวันที่ผู้เอาประกันต้องนอนรักษาตัวในโรงพยาบาล (HB) หรือเงินชดเชยเมื่อเกิดอุบัติเหตุ (AI) หลังจากคุณออกจากโรงพยาบาลแล้ว บริษัทจะจ่ายเงินชดเชยให้ตามที่ระบุไว้ในกรมธรรม์ โดยคุณไม่จำเป็นต้องส่งเอกสารใดมาให้ฝ่ายสินไหมของบริษัท ยกเว้นบางกรณี ซึ่งบริษัทจะแจ้งให้คุณทราบภายหลัง</li>
+        </ol>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200914T123945Z

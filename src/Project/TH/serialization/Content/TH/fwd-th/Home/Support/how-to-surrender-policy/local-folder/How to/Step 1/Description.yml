@@ -1,0 +1,162 @@
+﻿---
+ID: "e3dbbadc-0e3f-4686-98d8-454099d16ea3"
+Parent: "886ae614-cda6-4516-a3f5-a2735a36eb5a"
+Template: "ad6870d4-2dd6-40ef-a8fa-941ab32cee43"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/how-to-surrender-policy/local-folder/How to/Step 1/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T023752Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ul>
+            <li>A completed <a href="-/media/048cebfa32eb4c0d99ea804dfdee4e93.ashx">policy surrender requisition form</a></li>
+            <li><span>FWD Care Card if you have an OPD rider</span></li>
+            <li><span>A certified true copy of your Identification Card</span></li>
+            <li><span>A certified true copy of your bank book if you wish to receive your policy surrender value via bank transfer</span></li>
+        </ul>
+        
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200914T111940Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ul>
+            <li>Policy Surrender Requisition Form (<a href="-/media/db4fb06f1f56432d8712c2aa139930c6.ashx">policies bought from SCB or&nbsp;through a former agency channel</a> or <a href="-/media/048cebfa32eb4c0d99ea804dfdee4e93.ashx">policies bought&nbsp;through an FWD sales agent or any other FWD channel</a>)&nbsp;</li>
+            <li><span>FWD Care Card if you have an OPD rider</span></li>
+            <li><span>A certified true copy of your Identification Card</span></li>
+            <li><span>A certified true copy of your bank book if you wish to receive your policy surrender value via bank transfer</span></li>
+        </ul>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200914T111940Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T023748Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div>
+        <ul>
+            <li>ใบคำขอเวนคืนและเปลี่ยนสถานะกรมธรรม์</li>
+            <li>บัตรเอฟดับบลิวดี แคร์การ์ด เฉพาะกรณีมีสัญญาเพิ่มเติมผู้ป่วยนอก (OPD)</li>
+            <li><span>สำเนาบัตรประชาชน พร้อมรับรองสำเนาถูกต้อง</span></li>
+            <li style="background: white;"><span>สำเนาหน้าสมุดบัญชีธนาคาร</span><span> </span><span>พร้อมรับรองสำเนาถูกต้อง</span><span> </span><span>กรณีต้องการรับเงินโดยโอนผ่านบัญชีธนาคาร</span></li>
+        </ul>
+        </div>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200914T113433Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div>
+        <ul>
+            <li>ใบคำขอเวนคืนและเปลี่ยนสถานะกรมธรรม์&nbsp;(<a href="-/media/db4fb06f1f56432d8712c2aa139930c6.ashx">แบบฟอร์มสำหรับกรมธรรม์ที่ซื้อผ่านธนาคารไทยพาณิชย์หรือตัวแทนเดิม</a> หรือ กรมธรรม์ที่ซื้อผ่านตัวแทนของ FWD หรือช่องทางอื่นๆ)</li>
+            <li>บัตรเอฟดับบลิวดี แคร์การ์ด เฉพาะกรณีมีสัญญาเพิ่มเติมผู้ป่วยนอก (OPD)</li>
+            <li><span>สำเนาบัตรประชาชน พร้อมรับรองสำเนาถูกต้อง</span></li>
+            <li style="background: white;"><span>สำเนาหน้าสมุดบัญชีธนาคาร</span><span> </span><span>พร้อมรับรองสำเนาถูกต้อง</span><span> </span><span>กรณีต้องการรับเงินโดยโอนผ่านบัญชีธนาคาร</span></li>
+        </ul>
+        </div>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200914T113433Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T035322Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D80D2A5C-D5F8-4DA1-8828-B4F51D64461B}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div>
+        <ul>
+            <li>ใบคำขอเวนคืนและเปลี่ยนสถานะกรมธรรม์&nbsp;(<a href="-/media/db4fb06f1f56432d8712c2aa139930c6.ashx">แบบฟอร์มสำหรับกรมธรรม์ที่ซื้อผ่านธนาคารไทยพาณิชย์หรือตัวแทนเดิม</a> หรือ กรมธรรม์ที่ซื้อผ่านตัวแทนของ FWD หรือช่องทางอื่นๆ)</li>
+            <li>บัตรเอฟดับบลิวดี แคร์การ์ด เฉพาะกรณีมีสัญญาเพิ่มเติมผู้ป่วยนอก (OPD)</li>
+            <li><span>สำเนาบัตรประชาชน พร้อมรับรองสำเนาถูกต้อง</span></li>
+            <li style="background: white;"><span>สำเนาหน้าสมุดบัญชีธนาคาร</span><span> </span><span>พร้อมรับรองสำเนาถูกต้อง</span><span> </span><span>กรณีต้องการรับเงินโดยโอนผ่านบัญชีธนาคาร</span></li>
+        </ul>
+        </div>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201001T035322Z
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T035603Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <div>
+        <ul>
+            <li>ใบคำขอเวนคืนและเปลี่ยนสถานะกรมธรรม์&nbsp;(<a href="-/media/db4fb06f1f56432d8712c2aa139930c6.ashx">แบบฟอร์มสำหรับกรมธรรม์ที่ซื้อผ่านธนาคารไทยพาณิชย์หรือตัวแทนเดิม</a> หรือ <a href="https://www.fwd.co.th/-/media/documents/support/hospital-forms/new-surrender-form.pdf#rev=f8be8cac066e454ca916b2f5adda051e">กรมธรรม์ที่ซื้อผ่านตัวแทนของ FWD หรือช่องทางอื่นๆ</a>)</li>
+            <li>บัตรเอฟดับบลิวดี แคร์การ์ด เฉพาะกรณีมีสัญญาเพิ่มเติมผู้ป่วยนอก (OPD)</li>
+            <li><span>สำเนาบัตรประชาชน พร้อมรับรองสำเนาถูกต้อง</span></li>
+            <li style="background: white;"><span>สำเนาหน้าสมุดบัญชีธนาคาร</span><span> </span><span>พร้อมรับรองสำเนาถูกต้อง</span><span> </span><span>กรณีต้องการรับเงินโดยโอนผ่านบัญชีธนาคาร</span></li>
+        </ul>
+        </div>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201001T035603Z

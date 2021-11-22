@@ -1,0 +1,53 @@
+﻿---
+ID: "95028bcc-33aa-4a00-a2a1-21442eabe5f1"
+Parent: "84384045-5973-489f-9f6d-d0c6fde73fc4"
+Template: "91c91756-644c-4460-812b-9d3a33b076b2"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Privileges/Privilege3/local-folder/ArticleDetails/article-highlight-cta"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Article Highlight CTA
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200210T132755Z
+    - ID: "514cdf2e-f38f-4508-9f5a-5773aaf3a679"
+      Hint: theme
+      Value: "{7BA5B819-9331-4D26-827B-88EDC4141FA8}"
+    - ID: "ba0719f6-3c44-44c3-88f7-36c6f9f9612a"
+      Hint: content
+      Value: Add us on LINE to redeem this privileges.
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Redeem Now" linktype="external" url="https://line.me/ti/p/%40fwdthailand" anchor="" title="Redeem Now" target="" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200515T090606Z
+    - ID: "514cdf2e-f38f-4508-9f5a-5773aaf3a679"
+      Hint: theme
+      Value: "{B53112CA-514C-4106-818C-D3A57672F620}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qatestTH
+    - ID: "ba0719f6-3c44-44c3-88f7-36c6f9f9612a"
+      Hint: content
+      Value: Add us on LINE to redeem this privileges.
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Redeem Now" linktype="external" url="https://line.me/ti/p/%40fwdthailand" anchor="" title="Redeem Now" target="" />

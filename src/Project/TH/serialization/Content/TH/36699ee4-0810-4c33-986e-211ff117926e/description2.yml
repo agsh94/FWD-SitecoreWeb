@@ -1,0 +1,47 @@
+﻿---
+ID: "9dfa3441-bece-41e4-ac7b-a6adb286434b"
+Parent: "36699ee4-0810-4c33-986e-211ff117926e"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/article-page/article-details/local-folder/article-description-area/description2"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Description
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200720T093104Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><span class="subHeading-Medium">Huynh Thanh Phong</span></p>
+        <p>FWD Management Holdings Limited (&ldquo;FWD&rdquo;), the Hong Kong registered business of FWD Group, today announced it has entered into an agreement to acquire MetLife Limited and Metropolitan Life Insurance Company of Hong Kong Limited (collectively &ldquo;MetLife Hong Kong&rdquo;) from MetLife Inc. (NYSE: MET). The transaction is subject to regulatory approvals.</p>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200721T071925Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>ซึ่งเป็นธุรกิจที่จดทะเบียนในฮ่องกงของ ประกาศในวันนี้ว่า บริษัท ได้ทำสัญญาเพื่อซื้อ และ บริษัท นครหลวงประกันชีวิตของฮ่องกง จำกัด (เรียกรวมกันว่า&ldquo; การทำธุรกรรมขึ้นอยู่กับการอนุมัติตามระเบียบข้อบังคับ ไม่เปิดเผยเงื่อนไขของข้อตกลง ไม่เปิดเผยเงื่อนไขของข้อตกลง</p>
+        <p>การเข้าซื้อกิจการ จะช่วยเพิ่มส่วนแบ่งการตลาดของ นฮ่องกงและตอกย้ำความเป็นผู้นำด้านการประกันชีวิตชั้นนำในเมือ</p>

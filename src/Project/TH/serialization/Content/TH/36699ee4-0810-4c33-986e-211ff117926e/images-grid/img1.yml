@@ -1,0 +1,45 @@
+﻿---
+ID: "6be4d5dd-70ec-4f03-b215-125a66d9dccd"
+Parent: "84fa4999-eb5e-4581-a6d0-3f1150c67b8f"
+Template: "f1f7a98f-aae2-4741-8c7c-feb6bb63b8ce"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/article-page/article-details/local-folder/article-description-area/images-grid/img1"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T140942Z
+    - ID: "8540ff4f-9736-4ea8-b7d0-05726e3838d3"
+      Hint: image
+      Value: |
+        <image mediaid="{D9D2F1EA-7E3B-4A23-8944-3471814BAF28}" />
+    - ID: "9fdb6275-2d68-4861-91de-079c147dba4e"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{D9D2F1EA-7E3B-4A23-8944-3471814BAF28}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200108T084135Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8540ff4f-9736-4ea8-b7d0-05726e3838d3"
+      Hint: image
+      Value: |
+        <image mediaid="{D9D2F1EA-7E3B-4A23-8944-3471814BAF28}" />
+    - ID: "9fdb6275-2d68-4861-91de-079c147dba4e"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{D9D2F1EA-7E3B-4A23-8944-3471814BAF28}" />

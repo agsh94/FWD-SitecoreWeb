@@ -1,0 +1,35 @@
+﻿---
+ID: "c9ce384a-559d-4558-a9ad-7addd3eaa5e1"
+Parent: "802d9514-9987-48ef-8939-949f6550a49b"
+Template: "165eb176-0965-4ac3-b298-44d3e61ab273"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Invest/exchange-rate-fund-valuations/local-folder/fund-prices/performance-history"
+DB: master
+SharedFields:
+- ID: "195aba5f-7781-4b70-b96c-efd5bf02772f"
+  Hint: columnWidth
+  Value: 20
+- ID: "524ba713-14be-4baf-a5dc-5753c337476e"
+  Hint: fundApiColumn
+  Type: Multilist
+  Value: "{F3E0B98C-3E85-4C1F-B437-9C7AC01B785C}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Performance history
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201009T133235Z
+    - ID: "75ce01a6-d1a8-4734-b771-b5a1ffc9d255"
+      Hint: columnLabel
+      Value: Performance history
+- Language: id
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Performance History
+  Versions:

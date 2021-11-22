@@ -1,0 +1,25 @@
+﻿---
+ID: "20c98d5a-837b-4864-8d70-1e8d54710c28"
+Parent: "475c4337-8e61-45ab-8c9e-0607f9cb5552"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Travel/travel-egypt-with-teerada/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T101739Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: "มีคนเคยบอกว่าให้เที่ยวตอนที่เรายังเที่ยวไหว ประโยคนี้น่าจะใช้ได้กับ Passion รักการเที่ยวของแพท การที่ได้เดินทาง ได้เจอโลกที่มันกว้างขึ้นเรื่อยๆ ก็เปรียบเหมือนการเติมประสบการณ์ที่น่าจดจำให้กับชีวิต  ว่าแล้วก็เปิดเว็บหาตั๋ว แล้วเช็กวันหยุดบ้างดีกว่า Passion รักการเที่ยวมาแล้ว ขอออกไปมันส์กับการใช้ชีวิตดูบ้าง Let&rsquo;s Go!"

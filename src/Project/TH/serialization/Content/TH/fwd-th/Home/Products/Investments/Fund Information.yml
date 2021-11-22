@@ -1,0 +1,344 @@
+﻿---
+ID: "5504f779-9ccf-4a7d-9ef3-daf930e507c8"
+Parent: "d0fda387-c773-4046-9dcd-bfa0e0a4363a"
+Template: "40da990f-39dd-4d66-a9be-849f4ecffd22"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Investments/Fund Information"
+DB: master
+SharedFields:
+- ID: "73b480d6-f70d-487d-a830-89e07a922ebd"
+  Hint: pageType
+  Value: "{FB2C4A8A-0593-44B7-B7C4-AE07AF4F8BB2}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}"
+          s:ds="{CCCFE6F7-1169-409A-AB37-3CAE30D24488}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7b4F9E2A20-DD87-4819-8611-D220D4FED784%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;enableMargin&amp;divider" />
+        <r
+          uid="{C879EB9D-195D-4984-B164-F1DD756158FA}">
+          <p:d />
+        </r>
+        <r
+          uid="{2476A374-8836-45FE-AF59-3CD0AE06BE82}">
+          <p:d />
+        </r>
+        <r
+          uid="{57AD34E9-D9E1-4B92-A392-E0A41486C935}">
+          <p:d />
+        </r>
+        <r
+          uid="{BBA4FC23-ECE2-414A-96A3-334689F9DD67}"
+          p:after="r[@uid='{ABACA3EB-6579-47EF-B88F-C9E713F1EC17}']"
+          s:ds="{CF24C986-A1E1-4588-BEFC-4465BD8BD406}"
+          s:id="{5410E093-9B56-4C2F-B411-9FB3702CBC63}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;HeroBannerVariant=%7b0BDF58FF-C695-448B-BC29-6E1C8DC08D4E%7d&amp;backgroundColor=%7bCBDC6265-D09F-4982-981A-BCC8F118F36F%7d&amp;PlayVideoInBackground&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{6078FF89-ED44-45E6-BFE4-E000383F5C96}"
+          p:after="r[@uid='{BBA4FC23-ECE2-414A-96A3-334689F9DD67}']"
+          s:ds=""
+          s:id="{18D844DF-AB6B-4967-9E86-9303BC688F0A}"
+          s:par="carouselMode=%7b65BDD6C4-9B17-42DA-A050-72CEF86F370E%7d&amp;divider&amp;anchorText&amp;backgroundColor=%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d%7c%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d&amp;numberOfColumns=%7b63A7FCF5-15A7-41A5-86EA-A3010A9D12AA%7d&amp;paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d"
+          s:ph="jss-main" />
+        <r
+          uid="{A622066E-86DE-47C1-807C-72EA91B512CA}"
+          p:after="r[@uid='{6078FF89-ED44-45E6-BFE4-E000383F5C96}']"
+          s:ds="{1DC54F2D-63BD-4628-AA38-17A75FF5EB14}"
+          s:id="{4BA37AC0-157B-47FE-B065-DED49DA74F3A}"
+          s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;anchorText&amp;backgroundColor=%7bCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{3130C603-5905-4865-B740-4F5F665B9086}"
+          p:after="r[@uid='{A622066E-86DE-47C1-807C-72EA91B512CA}']"
+          s:ds="{E74B1CDB-C7E3-4725-9424-A2551414224A}"
+          s:id="{E0B5B144-7EEE-4383-B87F-3C04F5666B3F}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;backgroundColor=%7b4F9E2A20-DD87-4819-8611-D220D4FED784%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{B6E00D7A-B073-4F24-9300-7DCE3984B561}"
+          p:after="r[@uid='{3130C603-5905-4865-B740-4F5F665B9086}']"
+          s:ds="{CED13C86-B80F-4EFD-B80E-3B5513487634}"
+          s:id="{E9189BB0-4352-4FC7-B5F6-7C992E35E897}"
+          s:par="paddingBottom=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;variant&amp;anchorText&amp;backgroundColor=%7bCF8CF9A4-0F70-4DB2-B298-90E820ACA94B%7d&amp;buttonAlignment=%7bCF02F396-DAFD-448E-BC19-15E66C7CBA54%7d&amp;paddingTop=%7b0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7d&amp;divider"
+          s:ph="jss-main" />
+        <r
+          uid="{D6134FB5-960B-4784-8AE2-7231655F27DC}"
+          s:ds="{882A58F8-DDD7-4BA9-8EFC-D8D561AEC4F1}"
+          s:par="paddingBottom=%7bDE1D2D2E-FDFA-4E0D-A649-E38F3822F767%7d&amp;anchorText&amp;divider&amp;backgroundColor=%7bF6BA8583-13B7-4FC7-A1D4-FC8F11DCE6B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d" />
+        <r
+          uid="{4F6DF751-497E-4E0E-8143-EFA04FDB0221}"
+          p:after="*[1=2]"
+          s:ds="{31FC7CB5-2BAB-40A9-B376-B4A678A43BD8}"
+          s:id="{944672DC-5710-4002-99CE-CBD9866B1199}"
+          s:par="variant=%7B474B84BC-4B00-4BDC-AE3A-D0449DC7C543%7D&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+          s:ph="jss-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{582A7D9D-1DAD-4959-B255-51874BD3E28C}"
+              p:after="p[@uid='{D14661AB-7F89-4E68-A125-FBBB88BFB7B6}']"
+              s:ds="{594FFE3F-6972-46A9-BF78-CF0FAA47DEEA}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;contentBlockType=%7bE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7d&amp;backgroundColor=%7b5FAA4B9B-7F56-4B83-BE82-328710EEF242%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider"
+              s:ph="/jss-main/jss-col-2-{6078FF89-ED44-45E6-BFE4-E000383F5C96}-0" />
+            <r
+              uid="{1985CB4F-18AB-47BE-BE0D-62BD41FDEAE9}"
+              p:after="r[@uid='{582A7D9D-1DAD-4959-B255-51874BD3E28C}']"
+              s:ds="{72BDA7A8-4870-4F32-B0B9-2A8C67252518}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;contentBlockType=%7bE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7d&amp;backgroundColor=%7b5FAA4B9B-7F56-4B83-BE82-328710EEF242%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider"
+              s:ph="/jss-main/jss-col-1-{6078FF89-ED44-45E6-BFE4-E000383F5C96}-0" />
+            <r
+              uid="{6078FF89-ED44-45E6-BFE4-E000383F5C96}">
+              <p:d />
+            </r>
+            <r
+              uid="{D2B9B396-EB0B-4762-AAF8-A7A14A7155E2}"
+              p:after="r[@uid='{BBA4FC23-ECE2-414A-96A3-334689F9DD67}']"
+              s:ds="{6F04D056-CDD0-48FC-970B-A982765F5756}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{4F6DF751-497E-4E0E-8143-EFA04FDB0221}"
+              p:after="r[@uid='{D2B9B396-EB0B-4762-AAF8-A7A14A7155E2}']" />
+            <r
+              uid="{3130C603-5905-4865-B740-4F5F665B9086}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;anchorText&amp;backgroundColor=%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider=1" />
+            <r
+              uid="{B6E00D7A-B073-4F24-9300-7DCE3984B561}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;variant&amp;anchorText&amp;backgroundColor=%7bB47928D6-98FC-4B29-8D0F-586AB477286E%7d&amp;buttonAlignment=%7bCF02F396-DAFD-448E-BC19-15E66C7CBA54%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200102T100832Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: Head here for details including fund prospectuses and summaries, plus previous fund performance and annual reports
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Investment information
+  - Version: 2
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{582A7D9D-1DAD-4959-B255-51874BD3E28C}"
+              p:after="p[@uid='{D14661AB-7F89-4E68-A125-FBBB88BFB7B6}']"
+              s:ds="{594FFE3F-6972-46A9-BF78-CF0FAA47DEEA}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;contentBlockType=%7bE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7d&amp;backgroundColor=%7b5FAA4B9B-7F56-4B83-BE82-328710EEF242%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider"
+              s:ph="/jss-main/jss-col-2-{6078FF89-ED44-45E6-BFE4-E000383F5C96}-0" />
+            <r
+              uid="{1985CB4F-18AB-47BE-BE0D-62BD41FDEAE9}"
+              p:after="r[@uid='{582A7D9D-1DAD-4959-B255-51874BD3E28C}']"
+              s:ds="{72BDA7A8-4870-4F32-B0B9-2A8C67252518}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;contentBlockType=%7bE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7d&amp;backgroundColor=%7b5FAA4B9B-7F56-4B83-BE82-328710EEF242%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider"
+              s:ph="/jss-main/jss-col-1-{6078FF89-ED44-45E6-BFE4-E000383F5C96}-0" />
+            <r
+              uid="{6078FF89-ED44-45E6-BFE4-E000383F5C96}">
+              <p:d />
+            </r>
+            <r
+              uid="{D2B9B396-EB0B-4762-AAF8-A7A14A7155E2}"
+              p:after="r[@uid='{BBA4FC23-ECE2-414A-96A3-334689F9DD67}']"
+              s:ds="{6F04D056-CDD0-48FC-970B-A982765F5756}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{4F6DF751-497E-4E0E-8143-EFA04FDB0221}"
+              p:after="r[@uid='{D2B9B396-EB0B-4762-AAF8-A7A14A7155E2}']" />
+            <r
+              uid="{3130C603-5905-4865-B740-4F5F665B9086}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;anchorText&amp;backgroundColor=%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider=1" />
+            <r
+              uid="{B6E00D7A-B073-4F24-9300-7DCE3984B561}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;variant&amp;anchorText&amp;backgroundColor=%7bB47928D6-98FC-4B29-8D0F-586AB477286E%7d&amp;buttonAlignment=%7bCF02F396-DAFD-448E-BC19-15E66C7CBA54%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T050515Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: Head here for details including fund prospectuses and summaries, plus previous fund performance and annual reports
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: Investment information
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201001T050515Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{736653F8-8BD8-4657-9044-29305B809DEB}"
+              p:after="p[@uid='{D14661AB-7F89-4E68-A125-FBBB88BFB7B6}']"
+              s:ds="{594FFE3F-6972-46A9-BF78-CF0FAA47DEEA}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;contentBlockType=%7bE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7d&amp;backgroundColor=%7b5FAA4B9B-7F56-4B83-BE82-328710EEF242%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider"
+              s:ph="/jss-main/jss-col-2-{6078FF89-ED44-45E6-BFE4-E000383F5C96}-0" />
+            <r
+              uid="{F63E1DFF-FA67-4281-BB07-F94A38A76532}"
+              p:after="r[@uid='{736653F8-8BD8-4657-9044-29305B809DEB}']"
+              s:ds="{72BDA7A8-4870-4F32-B0B9-2A8C67252518}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;contentBlockType=%7bE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7d&amp;backgroundColor=%7b5FAA4B9B-7F56-4B83-BE82-328710EEF242%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider"
+              s:ph="/jss-main/jss-col-1-{6078FF89-ED44-45E6-BFE4-E000383F5C96}-0" />
+            <r
+              uid="{6078FF89-ED44-45E6-BFE4-E000383F5C96}">
+              <p:d />
+            </r>
+            <r
+              uid="{86149A5D-3917-47EC-9620-1D3FA1B45BE6}"
+              p:after="r[@uid='{BBA4FC23-ECE2-414A-96A3-334689F9DD67}']"
+              s:ds="{6F04D056-CDD0-48FC-970B-A982765F5756}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{4F6DF751-497E-4E0E-8143-EFA04FDB0221}"
+              p:after="r[@uid='{86149A5D-3917-47EC-9620-1D3FA1B45BE6}']" />
+            <r
+              uid="{3130C603-5905-4865-B740-4F5F665B9086}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;anchorText&amp;backgroundColor=%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider=1" />
+            <r
+              uid="{B6E00D7A-B073-4F24-9300-7DCE3984B561}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;variant&amp;anchorText&amp;backgroundColor=%7bB47928D6-98FC-4B29-8D0F-586AB477286E%7d&amp;buttonAlignment=%7bCF02F396-DAFD-448E-BC19-15E66C7CBA54%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200213T061255Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: ข้อมูลของกองทุนรวมที่มีหนังสือชี้ชวน, สาระสำคัญของกองทุนรวม ผลการเนินงานของกองทุน และรายงานประจำ 6  เดือนและรายงานประจำปีของกองทุน
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: ข้อมูลกองทุน
+  - Version: 2
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{736653F8-8BD8-4657-9044-29305B809DEB}"
+              p:after="p[@uid='{D14661AB-7F89-4E68-A125-FBBB88BFB7B6}']"
+              s:ds="{594FFE3F-6972-46A9-BF78-CF0FAA47DEEA}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;contentBlockType=%7bE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7d&amp;backgroundColor=%7b5FAA4B9B-7F56-4B83-BE82-328710EEF242%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider"
+              s:ph="/jss-main/jss-col-2-{6078FF89-ED44-45E6-BFE4-E000383F5C96}-0" />
+            <r
+              uid="{F63E1DFF-FA67-4281-BB07-F94A38A76532}"
+              p:after="r[@uid='{736653F8-8BD8-4657-9044-29305B809DEB}']"
+              s:ds="{72BDA7A8-4870-4F32-B0B9-2A8C67252518}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;contentBlockType=%7bE096FFCB-C7BE-461F-843E-BA5BECF20BA8%7d&amp;backgroundColor=%7b5FAA4B9B-7F56-4B83-BE82-328710EEF242%7d&amp;showMediaOnMobile=1&amp;anchorText&amp;IsMerge&amp;imageAlignment=%7b2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider"
+              s:ph="/jss-main/jss-col-1-{6078FF89-ED44-45E6-BFE4-E000383F5C96}-0" />
+            <r
+              uid="{6078FF89-ED44-45E6-BFE4-E000383F5C96}">
+              <p:d />
+            </r>
+            <r
+              uid="{86149A5D-3917-47EC-9620-1D3FA1B45BE6}"
+              p:after="r[@uid='{BBA4FC23-ECE2-414A-96A3-334689F9DD67}']"
+              s:ds="{6F04D056-CDD0-48FC-970B-A982765F5756}"
+              s:id="{BF3FAD76-A9F0-45C5-A9E0-8F37D97B7E50}"
+              s:par="imageAlignment=%7B2C69CF5E-4D54-4BA2-967A-EF22E91A63B1%7D&amp;showMediaOnMobile=1&amp;contentBlockType&amp;IsMerge&amp;anchorText&amp;backgroundColor=%7BEABEF9BF-232B-4D94-AEA8-12A1C2BA8D7E%7D&amp;paddingTop=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;paddingBottom=%7B0EF687F9-57C6-4122-B17E-DFBCF0A0BAEA%7D&amp;divider"
+              s:ph="jss-main" />
+            <r
+              uid="{4F6DF751-497E-4E0E-8143-EFA04FDB0221}"
+              p:after="r[@uid='{86149A5D-3917-47EC-9620-1D3FA1B45BE6}']" />
+            <r
+              uid="{3130C603-5905-4865-B740-4F5F665B9086}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;anchorText&amp;backgroundColor=%7b62070F56-8307-4B27-A4DB-E6F90EC9767B%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider=1" />
+            <r
+              uid="{B6E00D7A-B073-4F24-9300-7DCE3984B561}"
+              s:par="paddingBottom=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;variant&amp;anchorText&amp;backgroundColor=%7bB47928D6-98FC-4B29-8D0F-586AB477286E%7d&amp;buttonAlignment=%7bCF02F396-DAFD-448E-BC19-15E66C7CBA54%7d&amp;paddingTop=%7b39A5175B-32BA-4968-842E-ABFC2410ABFF%7d&amp;divider" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T050459Z
+    - ID: "2742410f-6b3f-495d-88d4-598ab3d1f2b9"
+      Hint: metadataDescription
+      Value: ข้อมูลของกองทุนรวมที่มีหนังสือชี้ชวน, สาระสำคัญของกองทุนรวม ผลการเนินงานของกองทุน และรายงานประจำ 6  เดือนและรายงานประจำปีของกองทุน
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "7d76900d-2ec8-4b47-81fc-2baf505287be"
+      Hint: metadataTitle
+      Value: ข้อมูลกองทุน
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201001T050459Z

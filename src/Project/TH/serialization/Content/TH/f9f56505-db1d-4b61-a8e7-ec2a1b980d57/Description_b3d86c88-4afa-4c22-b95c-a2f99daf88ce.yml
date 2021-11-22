@@ -1,0 +1,35 @@
+﻿---
+ID: "b3d86c88-4afa-4c22-b95c-a2f99daf88ce"
+Parent: "f9f56505-db1d-4b61-a8e7-ec2a1b980d57"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Wealth/business-trends/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200928T054316Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Parwinee
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <strong>3.ธุรกิจค้าขายออนไลน์</strong><br />
+        &ldquo;F&rdquo; &ldquo;CF&rdquo; สองคำนี้เป็นที่รู้กันในหมู่นักช้อปออนไลน์ เพราะเป็นคำที่ใช้จองสินค้าที่ตัวเองต้องการ ด้วยเหตุนี้ ธุรกิจค้าขายบนอินเตอร์เน็ตจึงมีอัตราการเติบโตต่อเนื่อง โดยร้านค้าหรือบริการต่างๆ ที่มีหน้าร้านและมีรายได้จากลูกค้าที่เดินเข้ามาซื้อเพียงช่องทางเดียวก็ต้องเริ่มขยับขยายกิจการมาสู่ตลาดออนไลน์ มีบริการจัดส่งถึงบ้าน เพื่อสร้างฐานลูกค้าใหม่ๆ และกระตุ้นยอดให้เพิ่มขึ้นจากเดิม<br />
+        <br />
+        ประกอบกับการสำรวจ ที่พบว่าคนไทยใช้สมาร์ตโฟนเฉลี่ย 4-5 ชั่วโมงต่อวัน และส่วนใหญ่ใช้เวลาไปกับการช้อปปิ้งออนไลน์ จึงทำให้ธุรกิจนี้มีแนวโน้มที่จะเติบโตสูง

@@ -1,0 +1,159 @@
+﻿---
+ID: "92cc7c62-e472-45a1-bdbb-d75d08ff670f"
+Parent: "22775086-b853-4aef-a562-f0a8a4bd708c"
+Template: "805d3dc1-232c-4bbf-962a-7e09c6588735"
+Path: "/sitecore/content/fwd/fwd-th/Components/quotes/Peter Grimes"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Peter Grimes
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c219414-8988-4e9b-a03e-8cc54b2beab6"
+      Hint: authorDesignation
+      Value: Country CEO, Thailand
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191018T110104Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "ab177838-2108-4bb2-82ac-03a82e440304"
+      Hint: authorName
+      Value: Peter Grimes
+    - ID: "b19f1127-b988-4298-9cce-81213d31c795"
+      Hint: quote
+      Value: "The opportunity to lead FWD’s life insurance businesses in Thailand is hugely exciting, given our inspiring vision to change the way people feel about insurance. I believe that with our customer-led and innovative mindset, we can continue to deliver insurance solutions that are relevant, affordable, easy-to-understand – and with the needs of our customers at the heart of everything we do."
+    - ID: "e6859686-219c-4d18-b9e5-a84fce8659c3"
+      Hint: image
+      Value: |
+        <image mediaid="{68CFE638-09B9-4685-BA98-AB79D5E15CB1}" cropx="0.48" cropy="0.53" focusx="-0.03448275862068961" focusy="-0.0625" />
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+    - ID: "f8216b7d-b3e5-4c42-9a98-56f9e6d4d9d4"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{68CFE638-09B9-4685-BA98-AB79D5E15CB1}" cropx="0.50" cropy="0.32" focusx="-0.00877192982456143" focusy="0.359375" />
+  - Version: 2
+    Fields:
+    - ID: "1c219414-8988-4e9b-a03e-8cc54b2beab6"
+      Hint: authorDesignation
+      Value: Country CEO, Thailand
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T030809Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "ab177838-2108-4bb2-82ac-03a82e440304"
+      Hint: authorName
+      Value: Peter Grimes
+    - ID: "b19f1127-b988-4298-9cce-81213d31c795"
+      Hint: quote
+      Value: "When it comes to insurance, I believe there are huge opportunities for those who are willing to push boundaries and be part of change. We&rsquo;re proud to be an insurer that not only embraces change, but often leads the way &ndash; with fresh, new ideas and pioneering new technology. As always, this is guided by our powerful vision and made possible by our dynamic team. In the end, we&rsquo;re all working towards the same goal: better customer experiences for an even more inspiring insurance story."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201001T030809Z
+    - ID: "e6859686-219c-4d18-b9e5-a84fce8659c3"
+      Hint: image
+      Value: |
+        <image mediaid="{2ABF0F1E-F1F6-41BD-A0FE-A8B23A49E203}" cropx="0.30" cropy="0.35" focusx="-0.39017955043859653" focusy="0.29949951171875" />
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+    - ID: "f8216b7d-b3e5-4c42-9a98-56f9e6d4d9d4"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{2ABF0F1E-F1F6-41BD-A0FE-A8B23A49E203}" cropx="0.30" cropy="0.33" focusx="-0.4077234100877193" focusy="0.34246826171875" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c219414-8988-4e9b-a03e-8cc54b2beab6"
+      Hint: authorDesignation
+      Value: ประธานเจ้าหน้าที่บริหารประจำประเทศไทย
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T071707Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "ab177838-2108-4bb2-82ac-03a82e440304"
+      Hint: authorName
+      Value: ปีเตอร์ กริมส์
+    - ID: "b19f1127-b988-4298-9cce-81213d31c795"
+      Hint: quote
+      Value: การได้รับโอกาสเป็นผู้นำในธุรกิจประกันชีวิตของ เอฟดับบลิวดี ประเทศไทยเป็นเรื่องที่น่าตื่นเต้นสำหรับผมเป็นอย่างยิ่ง ด้วยวิสัยทัศน์ของบริษัทที่สร้างแรงบันดาลใจในการเปลี่ยนมุมมองของคนที่มีต่อการประกันชีวิต ผมเชื่อว่าแนวความคิดการให้ลูกค้าเป็นจุดศูนย์กลางและความคิดสร้างสรรค์ใหม่จะเป็นพื้นฐานในการส่งมอบแผนประกันชีวิตที่ครอบคลุม  เบี้ยประกันไม่แพง เข้าใจง่าย และตอบโจทย์ความต้องการของลูกค้า
+    - ID: "e6859686-219c-4d18-b9e5-a84fce8659c3"
+      Hint: image
+      Value: |
+        <image mediaid="{68CFE638-09B9-4685-BA98-AB79D5E15CB1}" cropx="0.49" cropy="0.52" focusx="-0.011494252873563204" focusy="-0.03125" />
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+    - ID: "f8216b7d-b3e5-4c42-9a98-56f9e6d4d9d4"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{68CFE638-09B9-4685-BA98-AB79D5E15CB1}" cropx="0.52" cropy="0.31" focusx="0.04385964912280693" focusy="0.375" />
+  - Version: 2
+    Fields:
+    - ID: "1c219414-8988-4e9b-a03e-8cc54b2beab6"
+      Hint: authorDesignation
+      Value: ประธานเจ้าหน้าที่บริหารประจำประเทศไทย
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T032459Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "9105704c-6a6d-48eb-b7c9-284fcb29f5bf"
+      Hint: pictogramImage
+      Value: |
+        <image mediaid="{F7D82769-AF23-4E37-B4F1-C32E0C641585}" />
+    - ID: "ab177838-2108-4bb2-82ac-03a82e440304"
+      Hint: authorName
+      Value: ปีเตอร์ กริมส์
+    - ID: "b19f1127-b988-4298-9cce-81213d31c795"
+      Hint: quote
+      Value: <p><span>เมื่อพูดถึงประกันชีวิต </span><span>ผมเชื่อว่ายังมีโอกาสอยู่อีกมากมายสำหรับใครก็ตามที่ต้องการจะเพิ่มขีดจำกัดและเป็นส่วนหนึ่งของการสร้างความเปลี่ยนแปลง และในฐานะบริษัทประกันชีวิต เราภูมิใจที่เราไม่เพียงแต่สร้างความเปลี่ยนแปลง หลายครั้งเรายังเป็นผู้นำที่เต็มไปด้วยแนวความคิดที่สดใหม่ นอกจากนี้ยังเป็นผู้บุกเบิกเทคโนโลยีอีกด้วย และเหมือนเช่นเคย ที่สิ่งต่างๆ เหล่านี้ล้วนเกิดขึ้นจากวิสัยทัศน์ที่เปี่ยมล้น และทีมที่เต็มไปด้วยพลังขับเคลื่อนของเรา และเหนือสิ่งอื่นใด พวกเราทุกคนต่างมุ่งไปสู่เป้าหมายเดียวกัน นั่นคือ การทำให้เรื่องราวเกี่ยวกับการประกันชีวิตเปี่ยมไปด้วยแรงบันดาลใจ เพื่อยกระดับประสบการณ์ของลูกค้าให้ดียิ่งขึ้นกว่าเดิม </span></p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201001T032459Z
+    - ID: "e6859686-219c-4d18-b9e5-a84fce8659c3"
+      Hint: image
+      Value: |
+        <image mediaid="{2ABF0F1E-F1F6-41BD-A0FE-A8B23A49E203}" cropx="0.38" cropy="0.47" focusx="-0.24982867324561409" focusy="0.06903076171875" />
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+    - ID: "f8216b7d-b3e5-4c42-9a98-56f9e6d4d9d4"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{2ABF0F1E-F1F6-41BD-A0FE-A8B23A49E203}" cropx="0.52" cropy="0.31" focusx="0.04385964912280693" focusy="0.375" />

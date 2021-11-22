@@ -1,0 +1,53 @@
+﻿---
+ID: "f99481e7-5c3a-4ac5-8a56-dbe0097094e4"
+Parent: "ab459a0e-4440-4731-9027-e5dd3627cc55"
+Template: "681b61a2-6f52-4119-b8f4-033587eaeacc"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/Super CARE Co-Pay/local-folder/Product Related Articles"
+DB: master
+SharedFields:
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{20162863-AE86-4B42-9AEC-B7A81A345553}"
+- ID: "bd1fe0cc-270d-4276-a07d-da02b962d325"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: "{67F745F2-3A37-4569-B598-0B98CDC6B144}"
+- ID: "fdd5a7f8-e97a-4737-b3ac-e428d033fd0c"
+  Hint: secondaryNeedTags
+  Type: Multilist
+  Value: |
+    {147B9125-5DD2-438B-81F2-B1D370122B56}
+    {BFF3373D-BF65-4D18-9C77-585F7B90FF34}
+    {07176E71-7DA2-4DCD-B6F8-2B1DF480446C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200407T073843Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d88ea793-1587-4f65-ae5c-80926cd5438b"
+      Hint: subTitle
+      Value: 
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Your daily inspiration
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200407T074238Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: บทความแนะนำ

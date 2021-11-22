@@ -1,0 +1,43 @@
+﻿---
+ID: "a5fcfeac-6085-4d76-99ea-2399e4f0a584"
+Parent: "d4a98485-166c-4767-a449-fded9b0435db"
+Template: "14cf212d-7cf4-41aa-b50b-24d748a87556"
+Path: "/sitecore/content/fwd/fwd-th/Home/GroupLandingPage/group-claims/local-folder/FAQsAccordion"
+DB: master
+SharedFields:
+- ID: "f973c399-5998-47a5-ae48-760ebed901b1"
+  Hint: faqItems
+  Value: "{402E0613-9B1B-4E76-8911-816ABF9256F8}|{F859CBA0-B037-484F-981F-AE53EFCAEAEE}|{E4CEDF49-6648-433F-BE12-35CB438EAE44}|{96F7E4B6-928B-4FA1-9023-F3976E617A6D}|{9BB030FD-AD67-44E6-B95E-9D8318DF18F9}|{1901D2D7-1B0C-4B54-998D-0AE95933A53B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200205T113428Z
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="See more FAQs" anchor="" linktype="internal" class="" title="See more FAQs" target="_blank" querystring="" id="{2FB8A667-9926-4939-8E62-0CFAF99D862F}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: FAQ
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T123154Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\qatestTH
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="FAQ" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2FB8A667-9926-4939-8E62-0CFAF99D862F}" />
+    - ID: "f79de902-a24a-4667-acc2-b09caafcb3af"
+      Hint: title
+      Value: FAQ

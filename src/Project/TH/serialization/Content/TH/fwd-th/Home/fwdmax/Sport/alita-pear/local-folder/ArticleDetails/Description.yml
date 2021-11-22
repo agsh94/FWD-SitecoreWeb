@@ -1,0 +1,27 @@
+﻿---
+ID: "812b9cd9-7e11-45ac-897e-31c9bec2d6bc"
+Parent: "006551b6-b270-441e-8b36-e62a7982f39c"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Sport/alita-pear/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200326T130109Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>สิ่งที่แพรคิดว่าเป็นผลพลอยได้หลังจากที่เอาชนะตัวเองได้สำเร็จคืออะไร</strong></p>
+        <p><strong></strong>&ldquo;ถ้าที่เห็นได้ชัดเจนในตอนนี้เลยก็งาน (ฮา) มีงานที่เกี่ยวกับการออกกำลังกายติดต่อเข้ามาหลายด้าน รวมไปถึงแบรนด์ระดับโลกอย่างอดิดาส ที่เพิ่งติดต่อเข้ามาหาเรา มันทำให้เราดีใจมาก&rdquo;</p>

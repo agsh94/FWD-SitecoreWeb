@@ -1,0 +1,50 @@
+﻿---
+ID: "010278e7-afe9-4b9a-a59d-6e41e2ec62a3"
+Parent: "6a1b525d-10e9-4982-9f1b-e2c963fd6a74"
+Template: "92f8b466-99a5-407e-af15-4c300df52088"
+Path: "/sitecore/content/fwd/fwd-th/Home/Sample2/local-folder/HeroBanner Carousel/HeroBanner 4"
+DB: master
+SharedFields:
+- ID: "3f77495e-4c04-4f84-96f8-c3fd4a45d7d1"
+  Hint: HeroBannerVariant
+  Value: 
+- ID: "6ca9412f-51dd-4ddd-8f41-b350a02f3f0d"
+  Hint: backgroundColor
+  Value: "{CF8CF9A4-0F70-4DB2-B298-90E820ACA94B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: "FWD-TH-Banner"
+    - ID: "178df5ea-8972-40e0-9c6c-ddb4aeec732c"
+      Hint: subTitle
+      Value: people feel about insurance
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{967BD10A-6DCA-4C1C-8093-EA5C755F9F41}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T092836Z
+    - ID: "2d067f06-5100-49e0-83d8-64858a7c9b50"
+      Hint: videoLink
+      Value: |
+        <file mediaid="{A11FC799-3EE1-4B0E-9121-047C0B986997}" src="-/media/a11fc7993ee14b0e9121047c0b986997.ashx" />
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{967BD10A-6DCA-4C1C-8093-EA5C755F9F41}" />
+    - ID: "a009b851-8daf-491a-b3d1-3b4c755b4e28"
+      Hint: mobileVideoLink
+      Value: |
+        <file mediaid="{4B8543A7-1A28-49C4-8044-B75A2BE78AA5}" src="-/media/4b8543a71a2849c48044b75a2be78aa5.ashx" />
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Learn more" anchor="" linktype="internal" class="" title="Learn more" target="" querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />

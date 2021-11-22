@@ -1,0 +1,27 @@
+﻿---
+ID: "2a7f1495-7444-4629-9f70-0201f302fe33"
+Parent: "e084ce78-e3bf-4dcb-acde-8b16ff0e1b08"
+Template: "b655046c-10c2-434b-b2e3-af463434496d"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Settings/Compare Footer Links/See all plans
+DB: master
+SharedFields:
+- ID: "a6ee811d-8f6f-4560-80b5-a4faa92bb6db"
+  Hint: buttonIcon
+  Value: "{7EA908FB-506F-45E9-AB04-2B33B5DCDE2A}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "f83ea2e9-5653-49c4-bf2f-7bfad28aa50c"
+  Hint: key
+  Value: "{3234FAD1-983F-4887-ACE3-7C08782B8353}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200609T054253Z
+    - ID: "88cf131d-d600-4b97-a626-04cc28dc352e"
+      Hint: title
+      Value: See all plans

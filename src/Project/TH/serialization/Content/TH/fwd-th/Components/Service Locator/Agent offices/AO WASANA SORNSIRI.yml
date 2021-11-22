@@ -1,0 +1,128 @@
+﻿---
+ID: "68a8af1d-2a33-43f5-9503-96db07df35f6"
+Parent: "0b52d3da-7193-4802-9694-a199484a87ea"
+Template: "e6a17ec7-e0d3-47b3-bd3e-28bbeb607420"
+Path: "/sitecore/content/fwd/fwd-th/Components/Service Locator/Agent offices/AO WASANA SORNSIRI"
+DB: master
+SharedFields:
+- ID: "0580280c-57d4-4966-a08a-0f7e874814a4"
+  Hint: mobile
+  Value: 
+- ID: "1012cc35-3918-4ca9-8029-9002bc4071c7"
+  Hint: fax
+  Value: 0 4536 1706
+- ID: "20969991-14d8-413f-a0b3-606dde852fb4"
+  Hint: district
+  Value: "{866A6D88-64EB-4C86-9FB4-6159C1F3B0D5}"
+- ID: "3002e2b9-559e-4664-86a6-a9aeaec07cac"
+  Hint: buttonIcon
+  Value: "{FCD7D121-C241-4EEC-B2C2-9D47C66E4181}"
+- ID: "7e4ef5f8-c53e-40af-b1b0-aa8e85495dc0"
+  Hint: latitude
+  Value: 15.28486
+- ID: "896a3e55-9550-4e0c-a21d-efb9b0c61431"
+  Hint: officeType
+  Value: "{4BD66871-A396-4B6B-B8DC-D4ED56FEDD2E}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "a88837dd-01d0-456a-b678-ef12fffa2496"
+  Hint: province
+  Value: "{18BA8B2C-CB64-4909-9EAF-AFF9D24F9C04}"
+- ID: "c20cce7b-5349-432e-a656-77394ce985e2"
+  Hint: facilityType
+  Type: Multilist
+  Value: "{3BA3A91D-049E-49F5-9EA5-966A4A37D222}"
+- ID: "cc819fc2-63b9-4f6b-8538-24759fbd25d9"
+  Hint: telephone
+  Value: 0 4595 7414
+- ID: "d3b0e30b-d1e6-45b9-ae31-ba0e14b75b99"
+  Hint: code
+  Value: A026
+- ID: "dc85978e-5c4c-404e-a4b0-1d0b35c01fe2"
+  Hint: postalCode
+  Value: 34000
+- ID: "dfac8c14-e646-463a-8464-507b86e06134"
+  Hint: contentType
+  Value: "{04E7400A-22DE-4392-A4AD-B78B7AA3B7A3}"
+- ID: "e7bd7bbc-38c3-42c8-bbeb-a84e612d75a5"
+  Hint: longitude
+  Value: 104.891498
+- ID: "f493ee0f-a54a-4384-9f8e-f8ca6482b7aa"
+  Hint: area
+  Value: "{B7789736-43CC-47D2-AD94-4BFF5F2F326A}"
+- ID: "fb6d3f20-15f7-448b-ba1b-ba2304d55dc6"
+  Hint: county
+  Value: "{45210623-0AAB-4A2D-98FC-8CBF28625C39}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Ao Wasana Sornsiri
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200325T145700Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a8df4643-7000-41ca-8038-46afe2cb5494"
+      Hint: road
+      Value: "Ubon-Phibun Mangsahan Road"
+    - ID: "bc88b2b5-f787-423f-966d-26720d738083"
+      Hint: name
+      Value: Wasana Sornsiri agent office
+    - ID: "d0a7ad35-ad85-43ae-aaf6-1dbf443c91fb"
+      Hint: streetNumber
+      Value: 55/2 Moo 12
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200731T082138Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "a8df4643-7000-41ca-8038-46afe2cb5494"
+      Hint: road
+      Value: "Ubon-Phibun Mangsahan Road"
+    - ID: "bc88b2b5-f787-423f-966d-26720d738083"
+      Hint: name
+      Value: Wasana Sornsiri agent office
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200731T082138Z
+    - ID: "d0a7ad35-ad85-43ae-aaf6-1dbf443c91fb"
+      Hint: streetNumber
+      Value: 55/2 Moo 12
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200420T122524Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a8df4643-7000-41ca-8038-46afe2cb5494"
+      Hint: road
+      Value: "ถ.เลี่ยงเมืองอุบล-พิบูลมังสาหาร "
+    - ID: "bc88b2b5-f787-423f-966d-26720d738083"
+      Hint: name
+      Value: คุณวาสนา ศรศิริ สำนักงานตัวแทน
+    - ID: "d0a7ad35-ad85-43ae-aaf6-1dbf443c91fb"
+      Hint: streetNumber
+      Value: 55/2  ม.12

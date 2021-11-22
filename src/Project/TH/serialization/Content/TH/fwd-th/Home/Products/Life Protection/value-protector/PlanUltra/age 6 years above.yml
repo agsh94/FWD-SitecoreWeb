@@ -1,0 +1,32 @@
+﻿---
+ID: "0f7f0b70-8950-419c-921e-066555102886"
+Parent: "957789d6-d160-4cdd-b073-6e985898e9c4"
+Template: "615282d0-6867-4065-b4aa-c103bcded9a5"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Life Protection/value-protector/PlanUltra/age 6 years above"
+DB: master
+SharedFields:
+- ID: "a44f9279-737c-4736-acdf-d13dc9db9dc7"
+  Hint: minAge
+  Value: 6
+- ID: "b2a7ed7f-e1f4-4c05-813c-05107ad54a28"
+  Hint: maxAge
+  Value: 70
+- ID: "cc91c665-62e8-4e94-9a65-b43fdde9be7d"
+  Hint: minSumAssured
+  Value: 200000
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Age 6 years above
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200420T135016Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

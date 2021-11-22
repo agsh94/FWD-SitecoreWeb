@@ -1,0 +1,26 @@
+﻿---
+ID: "105cbe2f-d939-4547-b56f-53f31209b293"
+Parent: "67b23de7-dabe-497a-820a-ab51abc44805"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/ohkaju-organic-restaurant/local-folder/ArticleDetails/Description3"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T010927Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <span style="background: white; color: black;">ผมชอบร้านสาขานี้มากด้วยตัวร้านที่มีถึง</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">4 </span><span style="background: white; color: black;">ชั้น</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ชั้นแรกจะเป็นโซนที่ให้เรานั่งรอคิว</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">พร้อมกับมีตู้ขายพวกผักสด</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">สลัด</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">และมีลิฟต์ที่พาเราขึ้นไปยังชั้น</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">2-4 </span><span style="background: white; color: black;">ซึ่งชั้น</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">2 </span><span style="background: white; color: black;">และชั้น</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">3 </span><span style="background: white; color: black;">จะเป็นส่วนของที่นั่งทั่วไป</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ที่การตกแต่งแต่ละโซนที่นั่งนั้นไม่ธรรมดาเลยฮะ</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">เก๋ไก๋โดนใจด้วยวัสดุจากไม้ผสมความเป็นล็อฟต์</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">และยังมีต้นไม้ที่เพิ่มความสดชื่นสบายตาเข้าไปอี๊ก</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ส่วนชั้น</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">4 </span><span style="background: white; color: black;">จะเป็นโซนวีไอพีนั่งได้</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">20 </span><span style="background: white; color: black;">คน</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">ใครมาเป็นกรุ๊ปอยากปาร์ตี้ผักเป็นแก๊งส์ก็เดินตรงไปชั้น</span><span style="background: white; color: black;"> </span><span style="background: white; color: black;">4 </span><span style="background: white; color: black;">ได้เลย</span>

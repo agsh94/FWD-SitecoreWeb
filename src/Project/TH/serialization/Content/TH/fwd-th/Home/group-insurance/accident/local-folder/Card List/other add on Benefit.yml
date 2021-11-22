@@ -1,0 +1,60 @@
+﻿---
+ID: "ea51663d-4058-42a3-96dc-eaba713cf68f"
+Parent: "70bff537-e5a6-4ab8-a2f8-28915752f95b"
+Template: "f0760974-f5ae-4730-8610-a8304e1d4155"
+Path: "/sitecore/content/fwd/fwd-th/Home/group-insurance/accident/local-folder/Card List/other add on Benefit"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: "Pay less than a typical individual plan - with the best possible coverage."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200116T122343Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: Strong protection at an affordable price 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "967df5d0-46c0-4127-a3ea-860b801cd2ee"
+      Hint: subtitle
+      Value: 
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{15D94C74-E12D-4565-9876-2765C6F611B2}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{15D94C74-E12D-4565-9876-2765C6F611B2}" cropx="0.48" cropy="0.52" focusx="-0.038454568333562755" focusy="-0.03439664840698242" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0389d126-0f13-4dbc-9bfa-6d4126a8a3ed"
+      Hint: description
+      Value: จ่ายเบี้ยประกันถูกกว่าแผนประกันรายบุคคล แต่ได้รับความคุ้มครองเต็มที่ลงตัวกับความต้องการ
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200129T115849Z
+    - ID: "37089077-fd76-4e9d-836f-21c3bcbe2db9"
+      Hint: title
+      Value: คุ้มครองเต็มที่ในราคาเบาๆ
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "b89c3acb-0850-4829-b257-433050c4b6ba"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{15D94C74-E12D-4565-9876-2765C6F611B2}" />
+    - ID: "d10b1d70-37ae-45da-91b5-2ea4484420b9"
+      Hint: image
+      Value: |
+        <image mediaid="{15D94C74-E12D-4565-9876-2765C6F611B2}" cropx="0.13" cropy="0.13" focusx="-0.7317379085162214" focusy="0.7468538284301758" />

@@ -1,0 +1,58 @@
+﻿---
+ID: "d5c96235-c45d-445c-a759-af39e159b79b"
+Parent: "ec1da0a3-7499-4fc9-92af-c583ad3dabb8"
+Template: "ee2c800f-5808-4e93-b521-517495e4a1e6"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Life Protection/local-folder/HeroBanner"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: FWD life protection. Less worry, more confidence
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{F7379045-91B6-475E-8CD6-432878F95DB6}" cropx="0.63" cropy="0.38" focusx="0.26315789473684204" focusy="0.25" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T064031Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{F7379045-91B6-475E-8CD6-432878F95DB6}" cropx="0.48" cropy="0.29" focusx="-0.03508771929824561" focusy="0.421875" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdtestauthor
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "036b7620-7bf1-44ed-93a0-af74681d6061"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+    - ID: "14a460d7-8632-494d-ba19-7e2c6b7fc8aa"
+      Hint: title
+      Value: ประกันชีวิตเพื่อความคุ้มครอง ให้คุณคลายกังวล และมั่นใจใช้ชีวิตได้เต็มที่
+    - ID: "200f734f-ebef-4177-abca-daefef3f9b0b"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{F7379045-91B6-475E-8CD6-432878F95DB6}" cropx="0.62" cropy="0.40" focusx="0.2456140350877194" focusy="0.203125" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T064403Z
+    - ID: "44992459-6e04-4b56-b8b6-8d1f0249e1bd"
+      Hint: image
+      Value: |
+        <image mediaid="{F7379045-91B6-475E-8CD6-432878F95DB6}" cropx="0.47" cropy="0.30" focusx="-0.052631578947368474" focusy="0.40625" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdtestauthor

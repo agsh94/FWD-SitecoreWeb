@@ -1,0 +1,64 @@
+﻿---
+ID: "d29aa7b1-6e7a-4eb5-9a65-eae1c0d94b2a"
+Parent: "c4118b5c-975e-4c13-a9e8-71283e66dbfe"
+Template: "655f3eab-2573-4aba-9eae-e93741fae0b9"
+Path: "/sitecore/content/fwd/fwd-th/Components/customerSupport/Visit/callEmail"
+DB: master
+SharedFields:
+- ID: "14060f95-7b61-4164-8f82-1d87c980edb9"
+  Hint: supportIcon
+  Value: "{F35ED9FD-AD24-494A-8FB6-33BE8955A85D}"
+- ID: "a09d41ca-93f6-409c-96a9-1341d3719e83"
+  Hint: listType
+  Value: "{F281AF72-FA4B-4F87-98F1-4B9D77180E60}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Call And Email
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200307T075129Z
+    - ID: "5895aae2-ca68-4b63-83d6-f835c2d94ec5"
+      Hint: subTitle
+      Value: Connect with us
+    - ID: "68b9b7c2-e820-4b57-9e40-f73816d6dbec"
+      Hint: icon
+      Value: |
+        <image mediaid="{FC7AF7FD-1BE5-4F14-A049-05D6D3248838}" />
+    - ID: "b0ec22ca-d046-4211-90bd-d498a5bcfe92"
+      Hint: title
+      Value: Call & Email
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Call &amp; Email" linktype="form" querystring="bookAnAgent" target="" id="{90D7A8DC-2EBC-4E16-8D0F-E162C7D01EC5}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200403T070855Z
+    - ID: "5895aae2-ca68-4b63-83d6-f835c2d94ec5"
+      Hint: subTitle
+      Value: Connect with us
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "68b9b7c2-e820-4b57-9e40-f73816d6dbec"
+      Hint: icon
+      Value: |
+        <image mediaid="{FC7AF7FD-1BE5-4F14-A049-05D6D3248838}" />
+    - ID: "b0ec22ca-d046-4211-90bd-d498a5bcfe92"
+      Hint: title
+      Value: Call & Email
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Call &amp; Email" linktype="form" querystring="bookAnAgent" target="" id="{90D7A8DC-2EBC-4E16-8D0F-E162C7D01EC5}" />

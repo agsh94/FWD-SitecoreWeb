@@ -1,0 +1,38 @@
+﻿---
+ID: "bd1e3fd2-4c6e-4d9a-8a3e-8f1bc1052dd9"
+Parent: "9f6b43a1-7ee2-48ea-b9b6-958d2f637b43"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/5-best-milk-tea/local-folder/ArticleDetails/Description"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2700
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T004819Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>ที่ตั้ง : ร้าน CHA BAR สาขา Official  อาคาร สีลม 64 สุริยวงศ์ บางรัก  BTS ศาลาแดง Exit 1
+        </strong></p>
+        <p><strong>เวลาเปิด : วันจันทร์ - วันศุกร์ เวลา 8.00 - 19.30 น., วันเสาร์ เวลา 10.00 - 19.30 น.
+        </strong></p>
+        <p><strong>ราคา : เริ่มต้นที่ 59 บาท
+        </strong></p>
+        <p><strong>เบอร์ติดต่อ : 063-196-4749
+        </strong></p>
+        <p><strong>สมัครรับสิทธิพิเศษ FWD MAX ได้ง่ายๆ
+        </strong></p>
+        <p><strong>iOS:<a href=" https://goo.gl/c1PwMq"> https://goo.gl/c1PwMq</a>
+        </strong></p>
+        <p><strong>Android: <a href="https://goo.gl/RVJ6Kl">https://goo.gl/RVJ6Kl</a></strong></p>

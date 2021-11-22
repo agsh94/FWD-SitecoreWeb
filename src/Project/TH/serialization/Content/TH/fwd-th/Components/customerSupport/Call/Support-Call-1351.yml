@@ -1,0 +1,146 @@
+﻿---
+ID: "e5f47d29-c046-4099-97ca-d936a30f7a6a"
+Parent: "ce6f58bc-7f41-42e6-b4a5-1189f9a7eb3b"
+Template: "8be97fff-47c2-4fd6-8633-d3ca30ba6d97"
+Path: "/sitecore/content/fwd/fwd-th/Components/customerSupport/Call/Support-Call-1351"
+DB: master
+SharedFields:
+- ID: "5966c694-da32-4aab-a10a-06e5a50aad86"
+  Hint: supportIcon
+  Value: "{0853A008-9B3C-4A10-98B9-1E96A3CDC253}"
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "a09d41ca-93f6-409c-96a9-1341d3719e83"
+  Hint: listType
+  Value: "{A5BEE68C-8E43-4F78-8D15-D42982FD053A}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Call Support- support page"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a76c254-ad1c-48b3-8190-f72bca6de64c"
+      Hint: title
+      Value: Call customer support
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191008T163848Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "af0fe602-84ae-4056-91da-71d752d562b9"
+      Hint: contactNumber
+      Value: We’re here to help daily, 8am – 8pm
+    - ID: "e7a69e3e-57f2-48b8-9fa4-c05823caa4fd"
+      Hint: icon
+      Value: |
+        <image mediaid="{FC7AF7FD-1BE5-4F14-A049-05D6D3248838}" ></image>
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Call 1351" linktype="external" url="http://tel:1351" anchor="" target="" />
+    - ID: "fce6d7a9-e54d-4693-afc1-d0840fcfc163"
+      Hint: subTitle
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "0a76c254-ad1c-48b3-8190-f72bca6de64c"
+      Hint: title
+      Value: Call customer support
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200713T012830Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "af0fe602-84ae-4056-91da-71d752d562b9"
+      Hint: contactNumber
+      Value: 1351
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200713T012830Z
+    - ID: "e7a69e3e-57f2-48b8-9fa4-c05823caa4fd"
+      Hint: icon
+      Value: |
+        <image mediaid="{FC7AF7FD-1BE5-4F14-A049-05D6D3248838}" ></image>
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Call 1351" linktype="external" url="http://tel:1351" anchor="" target="" />
+    - ID: "fce6d7a9-e54d-4693-afc1-d0840fcfc163"
+      Hint: subTitle
+      Value: We’re here to help daily, 8am – 8pm.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a76c254-ad1c-48b3-8190-f72bca6de64c"
+      Hint: title
+      Value: ติดต่อฝ่ายบริการลูกค้า
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T065153Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "af0fe602-84ae-4056-91da-71d752d562b9"
+      Hint: contactNumber
+      Value: "เราพร้อมดูแลช่วยเหลือคุณทุกวัน ตั้งแต่เวลา 8.00 - 20.00 น."
+    - ID: "e7a69e3e-57f2-48b8-9fa4-c05823caa4fd"
+      Hint: icon
+      Value: |
+        <image mediaid="{FC7AF7FD-1BE5-4F14-A049-05D6D3248838}" ></image>
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="โทร.1351" linktype="external" url="http://tel:1351" anchor="" target="" />
+    - ID: "fce6d7a9-e54d-4693-afc1-d0840fcfc163"
+      Hint: subTitle
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "0a76c254-ad1c-48b3-8190-f72bca6de64c"
+      Hint: title
+      Value: ติดต่อฝ่ายบริการลูกค้า
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200711T071944Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "af0fe602-84ae-4056-91da-71d752d562b9"
+      Hint: contactNumber
+      Value: 1351
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200711T071944Z
+    - ID: "e7a69e3e-57f2-48b8-9fa4-c05823caa4fd"
+      Hint: icon
+      Value: |
+        <image mediaid="{FC7AF7FD-1BE5-4F14-A049-05D6D3248838}" ></image>
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="โทร.1351" linktype="external" url="http://tel:1351" anchor="" target="" />
+    - ID: "fce6d7a9-e54d-4693-afc1-d0840fcfc163"
+      Hint: subTitle
+      Value: "เราพร้อมดูแลช่วยเหลือคุณทุกวัน ตั้งแต่เวลา 8.00 - 20.00 น."

@@ -1,0 +1,66 @@
+﻿---
+ID: "f5ac4b41-fe5d-4031-b14d-2133a8d77c78"
+Parent: "5ea590cc-7011-4c91-bb83-1e3b1881152d"
+Template: "040167b9-1831-45dc-82e8-55ed9aeb7c1d"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Announcements/local-folder/Content List"
+DB: master
+SharedFields:
+- ID: "10bf4607-7acc-49f1-999b-efedb85185a4"
+  Hint: subtype
+  Value: "{9B4F5DC4-00EC-4983-8861-75885C261E9E}"
+- ID: "311395d3-1e6c-4655-802a-48345e48c10c"
+  Hint: apiPageSize
+  Value: 12
+- ID: "4116a0c8-9796-4063-9fdc-24fc6f4d7e07"
+  Hint: apiEndpoint
+  Value: "{352ED000-25CC-4A86-A9EB-A7BA4902EBC7}"
+- ID: "4806c25f-038d-4db7-acba-40c477fe263d"
+  Hint: noResultFoundSource
+  Value: "{38B5949F-45B7-4C1C-8AAA-0CAAB5E940C5}"
+- ID: "5621a4ae-d478-41f5-853f-9ceff0997e59"
+  Hint: apiAllowPagination
+  Type: Checkbox
+  Value: 1
+- ID: "56f447ee-7ec8-481d-ad7c-ef8f9a5d3abf"
+  Hint: filtersList
+  Type: Multilist
+  Value: |
+    {CBB4E9E6-5F88-40BA-BAE8-19AC4683ABCB}
+    {72764175-06BB-4B9C-9102-0323216DC4C4}
+    {976579A4-6CBA-4477-AC05-E4C0B5F5EC89}
+- ID: "91ab934c-c1e6-4357-8d9e-49dc0bcd9a92"
+  Hint: apiMobilePageSize
+  Value: 6
+- ID: "c0dceef7-fda7-4786-ab52-162e5f83beb4"
+  Hint: viewType
+  Value: "{E531BE4C-FF77-44BE-A30F-B72661FAF36E}"
+- ID: "d5bf0954-5722-43ee-98fe-f68f9c0bc3c5"
+  Hint: contentType
+  Value: "{4FE0A16D-285F-4C41-9BFA-A1343B036CDF}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "9541e67d-ce8c-4225-803d-33f7f29f09ef"
+    Hint: __Short description
+    Value: Please select filter modal style.
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200820T171517Z
+    - ID: "33f4a933-3196-4d0f-bd59-08de5c7dd362"
+      Hint: resultCountLabel
+      Value: "We have {count} announcements in total."
+    - ID: "4d55a57e-45b0-4ee0-af7e-d6289134c21e"
+      Hint: clearResultsLabel
+      Value: Clear Results
+    - ID: "5c0d9120-e980-47b8-baa4-d350e39da1fc"
+      Hint: showResultsLabel
+      Value: Show Results
+    - ID: "a64997ff-31fe-4286-8cb6-f47323933a2d"
+      Hint: filtersLabel
+      Value: More Filters
+    - ID: "e7c38c65-1328-434f-bd2a-c6363e581ce4"
+      Hint: apiSortBy
+      Value: "{C09E9B0B-0A9C-45F7-8522-3C077E98230D}"

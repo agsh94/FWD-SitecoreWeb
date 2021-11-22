@@ -1,0 +1,35 @@
+﻿---
+ID: "8b2c1e27-6243-4c27-a054-2c18c22c40e9"
+Parent: "102f494f-e888-4025-b51d-c02e23b1380a"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Community/FWD-encouraged-Special-Olympic-Athletes/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T081602Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: Staff at FWD &ndash; including Ms.Suleeporn Yongvithitsathit, FWD&rsquo;s Director of Communications and Marketing &ndash; congratulate Special Olympics athletes representing Thailand at the 2019 Special Olympic World Games in the United Arab Emirates. The day included lunch and fun activities and was enjoyed by all.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T081537Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: นางสาวศุลีพร ยงวิทิตสถิต ผู้อำนวยการสื่อสารองค์กรและกิจกรรมทางการตลาด บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) พร้อมด้วยพนักงานจิตอาสา ร่วมจัดกิจกรรมมอบความสุข สร้างมอบกำลังใจให้แก่น้องๆนักกีฬาพิเศษ ณ สถาบันการพลศึกษา วิทยาเขตกรุงเทพ โดยพนักงานจิตอาสาได้ร่วมกันทำกิจกรรม พร้อมเลี้ยงอาหารกลางวัน ให้แก่น้องๆนักกีฬาพิเศษ ที่อยู่ระหว่างการเก็บตัวเพื่อเป็นตัวแทนประเทศไทยในการแข่งขัน&nbsp; Special Olympics World Games 2019 ณ เมืองอาบูดาบี สหรัฐอาหรับเอมิเรตส์&nbsp; โดยบรรยากาศเต็มไปด้วยความสนุกสนานและรอยยิ้ม

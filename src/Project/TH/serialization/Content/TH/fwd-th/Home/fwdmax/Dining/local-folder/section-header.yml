@@ -1,0 +1,34 @@
+﻿---
+ID: "2684eae9-829b-4b0c-89b0-0bf48b979d7c"
+Parent: "7c0e2e5c-ed92-4ed7-bd06-3f25cfc712eb"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Dining/local-folder/section-header"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Section Header
+  Versions:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200219T091748Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "ถ้าคุณชอบกิน และมีความสุขทุกครั้งที่ได้ลิ้มลองรสชาติใหม่ๆ คุณมาถูกทางแล้ว ที่เอฟดับบลิวดี เราพร้อมเสิร์ฟความสุขให้คุณถึงที่ ด้วยเรื่องราวดีๆ เกี่ยวกับการกิน ไม่ว่าจะเป็นร้านอาหารแนะนำ เมนูเด็ด ทั้งคาว-หวาน รีวิวจริง ให้คุณไปตามรอยความฟินได้แบบเต็มที่"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: เพราะการกินคือความสุขอย่างหนึ่งของชีวิต

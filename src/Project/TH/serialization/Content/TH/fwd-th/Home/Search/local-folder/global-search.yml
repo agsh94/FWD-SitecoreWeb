@@ -1,0 +1,78 @@
+﻿---
+ID: "6cf0d4c0-897c-4d2d-99b4-ae60e79cd835"
+Parent: "7bef65ac-9078-4871-bc66-619a7ea05cd9"
+Template: "2a91e472-5dd9-4573-b28a-420dfc3bb7be"
+Path: "/sitecore/content/fwd/fwd-th/Home/Search/local-folder/global-search"
+DB: master
+SharedFields:
+- ID: "3d14dc14-45ab-4d6b-b1b1-c91120c46c30"
+  Hint: mobilePageSize
+  Value: 6
+- ID: "4806c25f-038d-4db7-acba-40c477fe263d"
+  Hint: noResultFoundSource
+  Value: "{AC0B5E2D-6E79-4691-ACF2-73F76B13D6EC}"
+- ID: "61cf7151-0cbd-4db4-9738-d753a55a6e65"
+  Hint: __Enforce version presence
+  Type: Checkbox
+  Value: 1
+- ID: "70d597f2-830d-42a1-a9a7-a24ee7e54b28"
+  Hint: contentTabs
+  Type: Multilist
+  Value: |
+    {06046590-A7C3-4D0B-9362-86245C36AE01}
+    {E470DB9B-0479-4210-809D-10AD02AC0AE0}
+    {7686691E-2DFC-486E-B117-2901CA400DE5}
+    {38A1C1A9-5627-4271-AF5B-B01B3A9017D9}
+    {613FF405-47F9-4DB0-876D-99BB0DF8714C}
+- ID: "86001cb8-cac2-4c87-b548-4eb8cc278520"
+  Hint: desktopPageSize
+  Value: 12
+- ID: "9d6a5e36-648d-42ae-a481-b1e5b1d47fd8"
+  Hint: buttonIcon
+  Value: "{37BA6674-5EEE-4830-A323-3D4953C85DFE}"
+- ID: "b776e3e1-1d8d-431c-9cb0-d52bd2cdd9ea"
+  Hint: apiContentType
+  Value: "{11B3EA7C-48AD-4DB8-8879-ABCC64711273}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Global Search
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T055030Z
+    - ID: "712bf742-2cf1-467c-9dc4-71ee7dc89b3f"
+      Hint: placeholderText
+      Value: Please enter a keyword or phrase
+    - ID: "7ae62236-7e85-41eb-8e53-8c722ffb39d7"
+      Hint: title
+      Value: I’m looking for...
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Global Search
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T055030Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "712bf742-2cf1-467c-9dc4-71ee7dc89b3f"
+      Hint: placeholderText
+      Value: กรุณาใส่คำหรือข้อความ
+    - ID: "7ae62236-7e85-41eb-8e53-8c722ffb39d7"
+      Hint: title
+      Value: ฉันกำลังมองหา

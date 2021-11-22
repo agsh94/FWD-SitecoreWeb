@@ -1,0 +1,21 @@
+﻿---
+ID: "169f20cf-22fe-4027-9843-bf185ab9a17d"
+Parent: "103e5b17-cfa2-4ea1-bab1-6b3d76199df1"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/FWD/Foundation/Error Page/Error Page/Content/PageDescription
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180129T080908Z

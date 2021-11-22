@@ -1,0 +1,103 @@
+﻿---
+ID: "898ff2f7-ad1f-4853-8b63-f82438e8d0a8"
+Parent: "d56fabd9-6ec2-4b39-88dd-10e5b34ef75d"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: "/sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Functions/Show-MarketSiteDialog"
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    Import-Function Global-Functions
+    
+    function Show-MarketSiteDialog {
+    	[CmdletBinding()]
+        param(
+            [Parameter(Mandatory = $true, Position = 0 )]
+            [Item]$SiteLocation
+        )
+    
+    	begin {
+    		Write-Verbose "Cmdlet Show-NewSiteDialog - Begin"
+    	}
+    
+    	process {
+    
+    		$languages = Get-Languages
+    
+    		$dialogOptions = New-Object System.Collections.Specialized.OrderedDictionary
+    		$languages | % {
+    			$dialogOptions.Add($_.value, $_.key)
+    		}
+    
+    
+    		$parameters = @()
+    		$parameters +=  @{ Name = "selectedSitename"; Value=""; Title="Site name:"; Tooltip="Site name"; Placeholder="Please enter the site name here";Tab = [Sitecore.Globalization.Translate]::Text([FWD.Foundation.MarketSiteRollout.Dictionary.Texts]::General)}
+    		$parameters +=  @{ Name = "selectedHostname"; Value=""; Title="Host name:"; Tooltip="Host name"; Placeholder="Please enter the host name here";Tab = [Sitecore.Globalization.Translate]::Text([FWD.Foundation.MarketSiteRollout.Dictionary.Texts]::General)}
+    		$parameters +=  @{ Name="selectedLanguage"; Title="Select Languages"; Options=$dialogOptions; Tooltip="Select Languages";Editor = "checklist";Tab = [Sitecore.Globalization.Translate]::Text([FWD.Foundation.MarketSiteRollout.Dictionary.Texts]::General)}
+    		
+    		$ContentRepositoryItem = Get-Item  -Path "master:" -ID "{D7AB1012-C33C-4128-B40F-81CDDB79A3D3}" 
+    		$modules = Get-ItemInsertOptions $ContentRepositoryItem
+    		
+    		$modulesSortedByKey = Get-OrderedDictionaryByKey $modules
+    		
+    		if ($modulesSortedByKey.Count -gt 0) {
+                $parameters += @{ Name = "siteModules"; Title = "Select Modules"; Options = $modulesSortedByKey; Editor = "checklist"; Tip = "Modules"; Height = "330px"; Tab = "Modules"; }
+            }
+    		
+    		Write-Host ($modules | Format-Table | Out-String)
+    		
+    		[bool] $inputValidationResult = 0
+    		do {
+    		$result = Read-Variable -Parameters $parameters `
+    		   -Description "This script will create a new market site within your instance" `
+    		   -Title "Create a new market site" -Width 500 -Height 600 -OkButtonName "Proceed" -CancelButtonName "Abort" `
+    		   -Validator {
+    				$siteName = $variables.selectedSitename.Value;
+    				$hostName = $variables.selectedHostname.Value;
+    				$selectedLanguage = $variables.selectedLanguage.Value;
+    				$pattern = "^[\w][\w\s\-]*(\(\d{1,}\)){0,1}$"
+    				if ($siteName.Length -gt 100) {
+    					$variables.selectedSitename.Error = $([Sitecore.Globalization.Translate]::Text("Site Name should not be greater than 100 characters")) -f 100
+    					continue
+    				}
+    				if ([System.Text.RegularExpressions.Regex]::IsMatch($siteName, $pattern, [System.Text.RegularExpressions.RegexOptions]::ECMAScript) -eq $false) {
+    					$variables.selectedSitename.Error = $([Sitecore.Globalization.Translate]::Text("Please enter a valid site name")) -f $siteName
+    					continue
+    				}
+    		   }
+    		   
+    		   if($result -ne "ok")
+    			{
+    				Close-Window
+    				Exit
+    			}
+    			
+    			$selectedLanguagesArrayList = New-Object System.Collections.ArrayList($null)
+    			$selectedModulesArrayList = New-Object System.Collections.ArrayList($null)
+    			$model = New-Object FWD.Foundation.MarketSiteRollout.Models.CreateNewSiteModel
+    			$model.SiteName = $selectedSitename.TrimEnd(" ")
+    			$model.HostName = $selectedHostname.TrimEnd(" ")
+    			$model.SiteLocation = $SiteLocation
+    			$selectedLanguagesArrayList.AddRange($selectedLanguage)
+    			$selectedModulesArrayList.AddRange($siteModules)
+    			$model.Languages = $selectedLanguagesArrayList
+    			$model.SelectedModules = $selectedModulesArrayList
+    			$inputValidationResult = 1
+    
+    		}while (-not($inputValidationResult))
+    		$model
+    	}
+    
+    	end {
+    		Write-Verbose "Cmdlet Show-MarketSiteDialog - End"
+    	}
+    }
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200508T081106Z

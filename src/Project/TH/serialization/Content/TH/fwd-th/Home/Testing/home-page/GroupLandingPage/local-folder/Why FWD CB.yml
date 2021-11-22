@@ -1,0 +1,24 @@
+﻿---
+ID: "699dd281-f3a5-4ee7-8260-6b5d4d849abe"
+Parent: "35aa987c-d7de-4535-a602-db5c43d99958"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/GroupLandingPage/local-folder/Why FWD CB"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200423T070646Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "The focus on your employees' well-being is at the heart of FWD Group Insurance. Set up a plan as few as four employees, get real-time round the clock support for all your enquiries and get access to over 380 hospitals and clinics with FWD Care Card."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gaurava
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: "Why FWD?"

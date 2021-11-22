@@ -1,0 +1,26 @@
+﻿---
+ID: "194544fe-b755-4804-8dbb-92d42a4f0195"
+Parent: "ce80a31f-7111-43f0-a1a5-24c415b6274b"
+Template: "ece640d6-c8c9-48b3-a73e-f6497fa73962"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Content/product-category"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/32x32/folder_add.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{0B8AC58E-2D57-4ECD-BCDF-2CEBAAA0C8B7}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Product Category
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191111T042406Z

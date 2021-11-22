@@ -1,0 +1,231 @@
+﻿---
+ID: "76bc0091-cef2-47a2-8441-eaf0abd8ad73"
+Parent: "9812ddcb-32cb-44b0-82fe-72818a5393fc"
+Template: "ad6870d4-2dd6-40ef-a8fa-941ab32cee43"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/how-to-surrender-policy/local-folder/How to/Step 2/Description"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-100"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T025027Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ul>
+            <li>Through your insurance agent</li>
+            <li>Mail all required documents to
+            <ul>
+                <li>Policy owner service department, FWD Life Insurance Public Company Limited,&nbsp;14<sup>th</sup> floor, Sindhorn Building Tower 3, 130-132 Witthayu Road, Lumpini, Pathumwan, Bangkok 10330</li>
+            </ul>
+            </li>
+            <li>Email all documents in softcopy to <a rel="noopener noreferrer" href="mailto:iService.fwd.co.th" id="iService@fwd.co.th">iService@fwd.co.th</a></li>
+            <li>Fax to 02-632-2414</li>
+        <li>In person via <a href="~/link.aspx?_id=AAD279292ECF455F9D177FBE1554B510&amp;_z=z?facilityType=FWD%20branches">FWD head office or any branch offices</a></li>
+        </ul>
+        <p><span>Typical processing time</span><span>:&nbsp;</span>20 days</p>
+        <p><span>You will be notified by mail after any payment is made through your requested payment channel. Please allow a few days for any mail to reach you.</span></p>
+        <p> </p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200716T063238Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ul>
+            <li>Through your insurance agent</li>
+            <li>Mail all required documents to
+            <ul>
+                <li>Policy owner service department, FWD Life Insurance Public Company Limited,&nbsp;14<sup>th</sup> floor, Sindhorn Building Tower 3, 130-132 Witthayu Road, Lumpini, Pathumwan, Bangkok 10330</li>
+            </ul>
+            </li>
+            <li>Email all documents in softcopy to <a rel="noopener noreferrer" href="mailto:iService.fwd.co.th" id="iService@fwd.co.th">iService@fwd.co.th</a></li>
+            <li>Fax to 02-632-2413</li>
+        <li>In person via <a href="~/link.aspx?_id=AAD279292ECF455F9D177FBE1554B510&amp;_z=z/?facilityType=FWD%20branches">FWD head office or any branch offices</a></li>
+        </ul>
+        <p><span>Typical processing time</span><span>:&nbsp;</span>20 days</p>
+        <p><span>You will be notified by mail after any payment is made through your requested payment channel. Please allow a few days for any mail to reach you.</span></p>
+        <p> </p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200716T063238Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200929T082952Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ul>
+            <li>Through your insurance agent</li>
+            <li>Mail all required documents to
+            <ul>
+                <li>Policy owner service department, FWD Life Insurance Public Company Limited,&nbsp;14<sup>th</sup> floor, Sindhorn Building Tower 3, 130-132 Witthayu Road, Lumpini, Pathumwan, Bangkok 10330</li>
+            </ul>
+            </li>
+            <li>Email all documents in softcopy to <a rel="noopener noreferrer" href="mailto:iService.fwd.co.th" id="iService@fwd.co.th"><span></span></a><a href="mailto:customer.th@fwd.com">customer.th@fwd.com</a></li>
+            <li>Fax to 02-632-2413</li>
+            <li>In person via <a href="~/link.aspx?_id=AAD279292ECF455F9D177FBE1554B510&amp;_z=z/?facilityType=FWD%20branches">FWD head office or any branch offices</a></li>
+        </ul>
+        <p><span>Typical processing time</span><span>:&nbsp;</span>20 days</p>
+        <p><span>You will be notified by mail after any payment is made through your requested payment channel. Please allow a few days for any mail to reach you.</span></p>
+        <p> </p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200929T082952Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200517T025234Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ul>
+            <li>ผ่านตัวแทน</li>
+            <li>ช่องทางไปรษณีย์ ที่อยู่จัดส่งตามด้านล่างนี้
+            <ul>
+                <li>ฝ่ายบริการกรมธรรม์ บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) 130-132 อาคารสินธรทาวเวอร์ 3 ชั้น 14&nbsp;ถนนวิทยุ แขวงลุมพินี เขตปทุมวัน กรุงเทพฯ 10330</li>
+            </ul>
+            </li>
+        <li>ส่งไฟล์เอกสารทั้งหมดทางอีเมล์ <a href="mailto:iService.fwd.co.th">iService@fwd.co.th</a></li>
+            <li>ทางแฟกซ์ 02-632-2414</li>
+            <li>ส่งด้วยตนเองที่<a href="~/link.aspx?_id=AAD279292ECF455F9D177FBE1554B510&amp;_z=z?facilityType=FWD%20branches">สำนักงานใหญ่หรือสำนักงานสาขาเอฟดับบลิวดีทุกแห่ง</a></li>
+        </ul>
+        <p>ระยะเวลาดำเนินการ: 20 วัน</p>
+        <p>คุณจะได้รับแจ้งทางไปรษณีย์หลังจากทำการชำระเงินผ่านช่องทางที่คุณระบุไว้ในใบคำขอ ซึ่งคุณจะได้รับจดหมายภายใน 2 หรือ 3 วัน</p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200716T063139Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ul>
+            <li>ผ่านตัวแทน</li>
+            <li>ช่องทางไปรษณีย์ ที่อยู่จัดส่งตามด้านล่างนี้
+            <ul>
+                <li>ฝ่ายบริการกรมธรรม์ บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) 130-132 อาคารสินธรทาวเวอร์ 3 ชั้น 14&nbsp;ถนนวิทยุ แขวงลุมพินี เขตปทุมวัน กรุงเทพฯ 10330</li>
+            </ul>
+            </li>
+        <li>ส่งไฟล์เอกสารทั้งหมดทางอีเมล์ <a href="mailto:iService.fwd.co.th">iService@fwd.co.th</a></li>
+            <li>ทางแฟกซ์ 02-632-2413</li>
+            <li>ส่งด้วยตนเองที่<a href="~/link.aspx?_id=AAD279292ECF455F9D177FBE1554B510&amp;_z=z/?facilityType=FWD%20branches">สำนักงานใหญ่หรือสำนักงานสาขาเอฟดับบลิวดีทุกแห่ง</a></li>
+        </ul>
+        <p>ระยะเวลาดำเนินการ: 20 วัน</p>
+        <p>คุณจะได้รับแจ้งทางไปรษณีย์หลังจากทำการชำระเงินผ่านช่องทางที่คุณระบุไว้ในใบคำขอ ซึ่งคุณจะได้รับจดหมายภายใน 2 หรือ 3 วัน</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200716T063139Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200811T085949Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ul>
+            <li>ผ่านตัวแทน</li>
+            <li>ช่องทางไปรษณีย์ ที่อยู่จัดส่งตามด้านล่างนี้
+            <ul>
+                <li>ฝ่ายบริการกรมธรรม์ บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) 130-132 อาคารสินธรทาวเวอร์ 3 ชั้น 14&nbsp;ถนนวิทยุ แขวงลุมพินี เขตปทุมวัน กรุงเทพฯ 10330</li>
+            </ul>
+            </li>
+            <li>ส่งไฟล์เอกสารทั้งหมดทางอีเมล&nbsp;<a href="mailto:iService.fwd.co.th">iService@fwd.co.th</a></li>
+            <li>ทางแฟกซ์ 02-632-2413</li>
+            <li>ส่งด้วยตนเองที่<a href="~/link.aspx?_id=AAD279292ECF455F9D177FBE1554B510&amp;_z=z/?facilityType=FWD%20branches">สำนักงานใหญ่หรือสำนักงานสาขาเอฟดับบลิวดีทุกแห่ง</a></li>
+        </ul>
+        <p>ระยะเวลาดำเนินการ: 20 วัน</p>
+        <p>คุณจะได้รับแจ้งทางไปรษณีย์ หลังจากเราได้ทำการจ่ายเงินเวนคืนผ่านช่องทางที่คุณระบุไว้ในใบคำขอ ซึ่งคุณจะได้รับจดหมายภายใน 2-3 วันทำการ</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200811T085949Z
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200929T083028Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <ul>
+            <li>ผ่านตัวแทน</li>
+            <li>ช่องทางไปรษณีย์ ที่อยู่จัดส่งตามด้านล่างนี้
+            <ul>
+                <li>ฝ่ายบริการกรมธรรม์ บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) 130-132 อาคารสินธรทาวเวอร์ 3 ชั้น 14&nbsp;ถนนวิทยุ แขวงลุมพินี เขตปทุมวัน กรุงเทพฯ 10330</li>
+            </ul>
+            </li>
+            <li>ส่งไฟล์เอกสารทั้งหมดทางอีเมล&nbsp;<span><a href="mailto:customer.th@fwd.com">customer.th@fwd.com</a></span></li>
+            <li>ส่งด้วยตนเองที่<a href="~/link.aspx?_id=AAD279292ECF455F9D177FBE1554B510&amp;_z=z/?facilityType=FWD%20branches">สำนักงานใหญ่หรือสำนักงานสาขาเอฟดับบลิวดีทุกแห่ง</a></li>
+        </ul>
+        <p>ระยะเวลาดำเนินการ: 20 วัน</p>
+        <p>คุณจะได้รับแจ้งทางไปรษณีย์ หลังจากเราได้ทำการจ่ายเงินเวนคืนผ่านช่องทางที่คุณระบุไว้ในใบคำขอ ซึ่งคุณจะได้รับจดหมายภายใน 2-3 วันทำการ</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200929T083028Z

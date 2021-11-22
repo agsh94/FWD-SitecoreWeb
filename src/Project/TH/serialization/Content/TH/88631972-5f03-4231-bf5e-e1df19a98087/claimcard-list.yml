@@ -1,0 +1,45 @@
+﻿---
+ID: "75a9db33-5bc8-407f-b05e-66ec6a7e6fe6"
+Parent: "88631972-5f03-4231-bf5e-e1df19a98087"
+Template: "b01bfe01-3e4a-4331-a9aa-276a36e2db50"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/Claims/Disability/local-folder/claimcard-list"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ClaimCard List
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04e07962-dfad-4698-bf0f-6755b33d3a58"
+      Hint: subTitle
+      Value: You may be eligible for a different type of claim. Select a type to learn how you can claim.
+    - ID: "1900c9c4-2f50-46fb-82c5-91af568003af"
+      Hint: title
+      Value: "Looking for other claim options?"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191125T094314Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04e07962-dfad-4698-bf0f-6755b33d3a58"
+      Hint: subTitle
+      Value: You may be eligible for a different type of claim. Select a type to learn how you can claim.
+    - ID: "1900c9c4-2f50-46fb-82c5-91af568003af"
+      Hint: title
+      Value: "Looking for other claim options?"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T085401Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

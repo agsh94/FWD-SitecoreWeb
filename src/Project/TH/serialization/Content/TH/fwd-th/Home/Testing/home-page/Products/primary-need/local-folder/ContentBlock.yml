@@ -1,0 +1,44 @@
+﻿---
+ID: "9a0910f0-91e0-4ae6-85ff-d0b0be75edd0"
+Parent: "a04fbdb0-717e-4e89-8d93-92c705ee073a"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/primary-need/local-folder/ContentBlock"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200402T074959Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: At FWD, we encourage our staff and customers to live their passions and get more out of life every day. Dare to be different, perform with passion, do the right thing, succeed together, and care for people are the core values we adhere to while fulfilling our promise.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\testuser
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: "What are Savings products?"
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200413T073427Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: At FWD, we encourage our staff and customers to live their passions and get more out of life every day. Dare to be different, perform with passion, do the right thing, succeed together, and care for people are the core values we adhere to while fulfilling our promise.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: "What are Savings products?"

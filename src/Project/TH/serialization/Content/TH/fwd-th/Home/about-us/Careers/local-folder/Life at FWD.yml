@@ -1,0 +1,48 @@
+﻿---
+ID: "0c55cbcd-79fc-4199-b377-ebe042a0299b"
+Parent: "8252b599-f428-4e6e-a22e-90e60f04101b"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/about-us/Careers/local-folder/Life at FWD"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200403T161317Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: At FWD, we’re diverse and inclusive. We create an employee experience of belonging so that everyone is valued for their unique background and contribution. Within this we encourage flexible working, and we offer exciting career opportunities within a dynamic learning environment.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Life at FWD here in Thailand
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200404T051101Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: ที่เอฟดับบลิวดี แม้ว่าเราจะแตกต่างแต่เราไม่แบ่งแยก เราสร้างประสบการณ์ให้พนักงานรู้สึกเป็นส่วนหนึ่งกับเรา ดังนั้นทุกคนจึงมีค่าด้วยประสบการณ์และผลงานที่โดดเด่น ด้วยเหตุนี้เราจึงสนับสนุนรูปแบบการทำงานที่ยืดหยุ่นและมอบโอกาสความก้าวหน้าในการทำงาน พร้อมทั้งสภาพแวดล้อมการเรียนรู้อย่างสร้างสรรค์
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ชีวิตในแบบเอฟดับบลิวดี

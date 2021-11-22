@@ -1,0 +1,47 @@
+﻿---
+ID: "5019ca7e-48ca-4965-9fac-ff071fd221e4"
+Parent: "a6f4b469-9ac2-4e79-b242-4d4a6c0eb8ac"
+Template: "587b045e-069e-4d08-802f-6722a452eeee"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/section-timeline/local-folder/Awards"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191106T084917Z
+    - ID: "9146064d-5bf7-4c4e-bb2a-6b40e8920e33"
+      Hint: title
+      Value: Awards and recognition
+    - ID: "b70ab0b2-fdd1-45b3-bae4-95b54e31b81c"
+      Hint: linkItems
+      Value: "{7B4F6C25-C526-4691-8409-6658FF69C2BA}"
+    - ID: "de1d4e9e-8bae-4163-bbc3-0695d7484dce"
+      Hint: shortDescription
+      Value: "We’re proud of our people, our projects, and our dynamic working environment. And our awards shine a spotlight on some of our greatest success stories - as well as the hard work that got us there."
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T081757Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "9146064d-5bf7-4c4e-bb2a-6b40e8920e33"
+      Hint: title
+      Value: รางวัลแห่งความภาคภูมิใจ
+    - ID: "b70ab0b2-fdd1-45b3-bae4-95b54e31b81c"
+      Hint: linkItems
+      Value: "{7B4F6C25-C526-4691-8409-6658FF69C2BA}"
+    - ID: "de1d4e9e-8bae-4163-bbc3-0695d7484dce"
+      Hint: shortDescription
+      Value: เราภูมิใจในคนของเรา โครงการต่างๆ ของเรา และสภาพแวดล้อมในการทำงานที่เปี่ยมพลังและความคิดสร้างสรรค์ของเรา รางวัลต่างๆ ที่เราได้รับฉายชัดให้เห็นถึงเรื่องราวต่างๆ รวมทั้งความทุ่มเทที่พาเราก้าวมาสู่ความสำเร็จอันยิ่งใหญ่ 

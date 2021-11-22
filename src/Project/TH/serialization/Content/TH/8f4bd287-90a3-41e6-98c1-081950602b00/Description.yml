@@ -1,0 +1,35 @@
+﻿---
+ID: "7b466440-09f4-4ca0-b6b2-c4b9fd049bae"
+Parent: "8f4bd287-90a3-41e6-98c1-081950602b00"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Press/Thailand-best-employer-brand-award-2019/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T050209Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: FWD has been given the &ldquo;Thailand Best Employer Brand Award 2019&rdquo; by the World HRD Congress, CHRO Asia. The award recognises FWD&rsquo;s outstanding HR management, with a glittering&nbsp; event held at the Plaza Athenee Hotel in Bangkok
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200331T045724Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน) รับรางวัล Thailand Best Employer Brand Award 2019 จากสถาบัน World HRD Congress, CHRO Asia โดยพิจารณาจากภาพลักษณ์ขององค์กรในการบริหารงานด้านทรัพยากรบุคคลดีเด่น ณ โรงแรม พลาซ่า แอทธินี กรุงเทพ

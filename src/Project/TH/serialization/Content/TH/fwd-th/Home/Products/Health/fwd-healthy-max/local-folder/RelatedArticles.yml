@@ -1,0 +1,58 @@
+﻿---
+ID: "fbc4e019-7cac-4fb5-a181-ed921284c7ee"
+Parent: "26cf44ff-833d-48c3-917c-cbef714d77ba"
+Template: "681b61a2-6f52-4119-b8f4-033587eaeacc"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/Health/fwd-healthy-max/local-folder/RelatedArticles"
+DB: master
+SharedFields:
+- ID: "8f397566-a4d1-4f23-8594-dce13b3720fe"
+  Hint: apiSortBy
+  Value: "{C27171A2-8AC2-4005-8076-DC7489E3997B}"
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{20162863-AE86-4B42-9AEC-B7A81A345553}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+- ID: "bd1fe0cc-270d-4276-a07d-da02b962d325"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: "{67F745F2-3A37-4569-B598-0B98CDC6B144}"
+- ID: "fdd5a7f8-e97a-4737-b3ac-e428d033fd0c"
+  Hint: secondaryNeedTags
+  Type: Multilist
+  Value: |
+    {938F2A12-9B5E-4C34-83C0-6C6D1E08C7F7}
+    {147B9125-5DD2-438B-81F2-B1D370122B56}
+    {A071B27A-E1BA-4FBD-B76B-70F1A17E3939}
+    {76B23121-1A2D-4A4A-B0BB-03055681F0A1}
+    {4AAD76CF-31E0-4541-92FF-97FA5F247CDD}
+    {3B665D9E-E173-4812-A021-1CA6786C593A}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T113558Z
+    - ID: "d88ea793-1587-4f65-ae5c-80926cd5438b"
+      Hint: subTitle
+      Value: 
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Your daily inspiration
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200113T134103Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: บทความแนะนำ

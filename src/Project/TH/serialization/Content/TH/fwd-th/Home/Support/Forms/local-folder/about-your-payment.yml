@@ -1,0 +1,176 @@
+﻿---
+ID: "27b470b3-003f-423d-a171-02e21693eaa8"
+Parent: "59611bed-f91e-430f-96d9-7eaf295f4d89"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/Forms/local-folder/about-your-payment"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: About your payment
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191226T094629Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p>Select, download and fill in the form you need so we can give you the help you want.</p>
+        <p>When you fill out a form, please be as detailed and accurate as possible. The more information you can give us, the quicker we can help.</p>
+        
+        <p>Are you one of our network hospital partners?</p>
+        
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: All the forms you need are here
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Go to our forms for hospital partners" anchor="" linktype="internal" class="" title=""  querystring="" id="{FC1BD89C-E124-4319-B0E5-282C123FCECC}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200914T131124Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p>Select, download and fill in the form you need so we can give you the help you want.</p>
+        <p>When you fill out a form, please be as detailed and accurate as possible. The more information you can give us<span style="color: #333333;">, the faster we can help.</span></p>
+        <p>Are you one of our network hospital partners?</p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{690E0625-F7A0-4C7E-806F-57AD151BE2AF}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nuntarut
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200914T131124Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: All the forms you need are here
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Go to our forms for hospital partners" anchor="" linktype="internal" class="" title=""  querystring="" id="{FC1BD89C-E124-4319-B0E5-282C123FCECC}" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: 
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200507T085404Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p>เลือก, ดาวน์โหลด และกรอกแบบฟอร์ม ที่คุณต้องการ เราพร้อมดูแลช่วยเหลือคุณอย่างเต็มที่</p>
+        
+        <p>เมื่อคุณกรอกแบบฟอร์ม กรุณากรอกข้อมูลอย่างละเอียดและถูกต้อง โดยรายละเอียดที่เราได้รับจะช่วยให้เราดำเนินการต่อได้เร็วขึ้น</p>
+        
+        <p>คุณเป็นโรงพยาบาลพันธมิตรในเครือข่ายของเราใช่ไหม</p>
+        
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: รวมแบบฟอร์มทั้งหมดที่คุณต้องการไว้ที่นี่
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ไปที่แบบฟอร์มสำหรับโรงพยาบาลพันธมิตร" anchor="" linktype="internal" class="" title=""  querystring="" id="{FC1BD89C-E124-4319-B0E5-282C123FCECC}" />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T031236Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p>เลือก, ดาวน์โหลด และกรอกแบบฟอร์ม ที่คุณต้องการ เราพร้อมดูแลช่วยเหลือคุณอย่างเต็มที่</p>
+        
+        <p>เมื่อคุณกรอกแบบฟอร์ม กรุณากรอกข้อมูลอย่างละเอียดและถูกต้อง โดยรายละเอียดที่เราได้รับจะช่วยให้เราดำเนินการต่อได้เร็วขึ้น</p>
+        
+        <p>คุณเป็นโรงพยาบาลพันธมิตรในเครือข่ายของเราใช่ไหม</p>
+        
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201001T031236Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: รวมแบบฟอร์มทั้งหมดที่คุณต้องการไว้ที่นี่
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ไปที่แบบฟอร์มสำหรับโรงพยาบาลพันธมิตร" anchor="" linktype="internal" class="" title=""  querystring="" id="{FC1BD89C-E124-4319-B0E5-282C123FCECC}" />
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T100943Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p>เลือก, ดาวน์โหลด และกรอกแบบฟอร์ม ที่คุณต้องการ เราพร้อมดูแลช่วยเหลือคุณอย่างเต็มที่</p>
+        
+        <p>เมื่อคุณกรอกแบบฟอร์ม กรุณากรอกข้อมูลอย่างละเอียดและถูกต้อง โดยรายละเอียดที่เราได้รับจะช่วยให้เราดำเนินการต่อได้เร็วขึ้น</p>
+        
+        <p>คุณเป็นโรงพยาบาลพันธมิตรในเครือข่ายของเราใช่ไหม</p>
+        
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201001T100943Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: รวมแบบฟอร์มทั้งหมดที่คุณต้องการไว้ที่นี่
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="ไปที่แบบฟอร์มสำหรับโรงพยาบาลพันธมิตร" anchor="" linktype="internal" class="" title=""  querystring="" id="{FC1BD89C-E124-4319-B0E5-282C123FCECC}" />

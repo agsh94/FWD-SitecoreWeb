@@ -1,0 +1,53 @@
+﻿---
+ID: "df20f882-ce6f-4532-950a-f7e96442895b"
+Parent: "f7d8bafd-ff93-4342-a7ad-2f899029d9de"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Support/premium-payment/local-folder/premium-payment/life-and-accident-insurance/bank-transfer/payee-and-reference-codes"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 450
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Payee and reference codes
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200107T092857Z
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Payee and reference codes</strong></p>
+        <p>If paying online or at an ATM, please make sure you:</p>
+        <ul>
+            <li>Select FWD as the company to pay, or scan the barcode if you&rsquo;re at an ATM</li>
+            <li>Specify the Reference code 1: Specify your policy number (Use 6 forT, 8 for U, 1 for A, 2 for B, 3 for C, 4 for D, and 7 for R), for example, you should type 200123456 if your policy number is B00123456.</li>
+        </ul>
+        <p>Specify the Reference code 2: Specify the due date (MMDDYY)&nbsp;</p>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T104950Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>Payee and reference codes</strong></p>
+        <p>If paying online or at an ATM, please make sure you:</p>
+        <ul>
+            <li>Select FWD as the company to pay, or scan the barcode if you&rsquo;re at an ATM</li>
+            <li>Specify the Reference code 1: Specify your policy number (Use 6 forT, 8 for U, 1 for A, 2 for B, 3 for C, 4 for D, and 7 for R), for example, you should type 200123456 if your policy number is B00123456.</li>
+        </ul>
+        <p>Specify the Reference code 2: Specify the due date (MMDDYY)&nbsp;</p>

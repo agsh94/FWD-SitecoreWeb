@@ -1,0 +1,49 @@
+﻿---
+ID: "a4799f63-8cb9-41e2-9e5f-efb5c81095a6"
+Parent: "d8ae49d3-adad-4384-8fe8-2836465dd88f"
+Template: "7d6bb8c2-d538-441d-82bf-d6aec40b5929"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/about-us/local-folder/reports-component"
+DB: master
+SharedFields:
+- ID: "61cf7151-0cbd-4db4-9738-d753a55a6e65"
+  Hint: __Enforce version presence
+  Type: Checkbox
+  Value: 1
+- ID: "e393d27b-259f-4774-91b7-a2965d57238d"
+  Hint: linkItems
+  Value: "{E92D9401-B940-4E0F-AA04-4E36CE9A6AE9}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Reports Component
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T094206Z
+    - ID: "2ed70c09-d8b1-4780-8037-dfe4ca6dd644"
+      Hint: title
+      Value: Our reports
+    - ID: "3e163c0e-2b06-4372-a28c-96b7c3892905"
+      Hint: description
+      Value: "Interested in finding out more? Browse all available annual reports, financial reports and disclosures."
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T071015Z
+    - ID: "2ed70c09-d8b1-4780-8037-dfe4ca6dd644"
+      Hint: title
+      Value: รายงานของเรา
+    - ID: "3e163c0e-2b06-4372-a28c-96b7c3892905"
+      Hint: description
+      Value: สนใจที่จะหาข้อมูลเพิ่มเติมหรือไม่ เรียกดูรายงานประจำปีรายงานทางการเงินและการเปิดเผยที่มีอยู่ทั้งหมด
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

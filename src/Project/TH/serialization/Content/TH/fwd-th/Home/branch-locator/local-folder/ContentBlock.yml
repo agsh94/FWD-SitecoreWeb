@@ -1,0 +1,53 @@
+﻿---
+ID: "eac83b71-6f85-4dd5-b15f-97980cc57dea"
+Parent: "f7679f6a-54d0-4bf2-a571-6620664504ce"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/branch-locator/local-folder/ContentBlock"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 25
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200106T061959Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: Wherever you are in Thailand, there's an FWD agent office or branch near you.
+    - ID: "869e361f-947c-4aa5-8f47-faa91843a591"
+      Hint: enableHeading
+      Type: Checkbox
+      Value: 1
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: "Need to visit an FWD agent office or branch?"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{EE338D6E-F74B-4A3C-AD12-A3E1CE871156}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T160155Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: ไม่ว่าคุณจะอยู่ที่ไหนในประเทศไทยก็ติดต่อเราได้ที่สำนักงานและสาขาของเอฟดับบลิวดีใกล้บ้านคุณ
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "869e361f-947c-4aa5-8f47-faa91843a591"
+      Hint: enableHeading
+      Type: Checkbox
+      Value: 1
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: หากต้องการติดต่อสำนักงานตัวแทนหรือสาขาของเอฟดับบลิวดี

@@ -1,0 +1,84 @@
+﻿---
+ID: "94800ab3-d268-48f9-ab5b-ec57586c3657"
+Parent: "7bdb6756-1df2-47e1-8239-4a0edebe9edc"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/local-folder/more-privileges-on-line"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 675
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{C9260111-A6AC-40FD-AEF6-E3AFA0FA215C}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: More privileges on LINE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{995C6E72-67A5-41E8-B246-CA4D574DA61E}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200203T095405Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{995C6E72-67A5-41E8-B246-CA4D574DA61E}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: Stay up to date on all FWD offers and rewards via our LINE app. It&rsquo;s quick and easy and means you&rsquo;ll never miss out. Add FWD Thailand as a friend.
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Get FWD privileges and promotions on LINE
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Add us on LINE" linktype="external" url="https://line.me/ti/p/@fwdthailand" anchor="" title="Add us on LINE " target="_blank" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "080cac52-a76d-44ce-a9e6-6d60dc56ad03"
+      Hint: subTitle
+      Value: 
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{995C6E72-67A5-41E8-B246-CA4D574DA61E}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T034436Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{995C6E72-67A5-41E8-B246-CA4D574DA61E}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: รับสิทธิประโยชน์ และติดตามข่าวสารต่างๆ จากเอฟดับบลิวดี ผ่านแอปพลิเคชัน ไลน์  ที่สะดวก และรวดเร็ว แน่นอนว่าคุณจะไม่พลาดเรื่องราวดีๆ เพียงเพิ่ม FWD Thailand เป็นเพื่อนบน ไลน์
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: สิทธิพิเศษและโปรโมชันผ่าน ไลน์ (LINE)
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="เพิ่มเราเป็นเพื่อนบนไลน์" linktype="external" url="https://line.me/ti/p/@fwdthailand" anchor="" title="เพิ่มเราเป็นเพื่อนบนไลน์" target="_blank" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"

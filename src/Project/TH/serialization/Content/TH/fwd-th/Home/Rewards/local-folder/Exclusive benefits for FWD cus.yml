@@ -1,0 +1,93 @@
+﻿---
+ID: "93eade79-206c-4b3a-8a76-0a46cc5e678a"
+Parent: "7bdb6756-1df2-47e1-8239-4a0edebe9edc"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Rewards/local-folder/Exclusive benefits for FWD customers"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-25"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200412T063403Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: We know that in becoming an FWD customer, you&rsquo;ve made an important choice. So to express our gratitude for your loyalty and trust, we have a number of special privileges and promotions that we reserve only for FWD customers.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Our exclusive privileges for FWD customers
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200412T063320Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: เรารู้ว่าคุณได้เลือกสรรเป็นอย่างดี ก่อนตัดสินใจเป็นลูกค้าเอฟดับบลิวดี เราจึงอยากแสดงความขอบคุณสำหรับไว้ความวางใจที่คุณมอบให้ ด้วยสิทธิประโยชน์และโปรโมชั่นพิเศษต่างๆ ที่สงวนไว้สำหรับลูกค้าของเอฟดับบลิวดีโดยเฉพาะ
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: สิ่งดีๆ ที่เรามอบให้ลูกค้าเอฟดับบลิวดีเท่านั้น
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200716T103152Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: เรารู้ว่าคุณได้เลือกสรรเป็นอย่างดี ก่อนตัดสินใจเป็นลูกค้าเอฟดับบลิวดี เราจึงอยากแสดงความขอบคุณสำหรับความไว้วางใจที่คุณมอบให้ ด้วยสิทธิประโยชน์และโปรโมชันพิเศษต่างๆ ที่สงวนไว้สำหรับลูกค้าของเอฟดับบลิวดีโดยเฉพาะ
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Hein
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200716T103152Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: สิ่งดีๆ ที่เรามอบให้ลูกค้าเอฟดับบลิวดีเท่านั้น
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200813T065108Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: เรารู้ว่าคุณได้เลือกสรรเป็นอย่างดี ก่อนตัดสินใจเป็นลูกค้าเอฟดับบลิวดี เราจึงอยากแสดงความขอบคุณสำหรับความไว้วางใจที่คุณมอบให้ ด้วยสิทธิประโยชน์และโปรโมชันพิเศษต่างๆ ที่สงวนไว้สำหรับลูกค้าของเอฟดับบลิวดีโดยเฉพาะ
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Chaiyawat
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200813T065108Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: สิ่งดีๆ ที่เรามอบให้ลูกค้าเอฟดับบลิวดีเท่านั้น

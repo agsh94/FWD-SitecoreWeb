@@ -1,0 +1,94 @@
+﻿---
+ID: "9e957e29-37aa-42a6-bb0d-af4baf52cfb4"
+Parent: "8e38692b-5a79-4198-9161-434eb8ca2a9f"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Sport/local-folder/app-promotion"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{4DD6C176-DFD9-4277-A586-5F24D9DD63BE}"
+- ID: "9cb76228-fc26-48b7-bd66-1c6e133b625d"
+  Hint: secondaryLinkButtonMode
+  Value: "{333A9D74-C11E-40A0-AAB0-2DBFCB769530}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 900
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: App Promotion
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{F1D21E16-1D52-4BE4-9837-3F0FC283537B}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20200206T122232:637165885523583482Z"
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{F1D21E16-1D52-4BE4-9837-3F0FC283537B}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: Keep track of your hobbies, active lifestyle, new delicious and healthy foods that help you celebrate living and rewards.
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: v51Y7PAFe_g
+    - ID: "d0be2ac7-85f9-4ba4-91da-613370dbd6d6"
+      Hint: secondaryLink
+      Value: |
+        <link text="Google Play" linktype="external" url="https://play.google.com/store/apps/details?id=com.fwdlifeth.fwdmax&amp;hl=en" anchor="" target="" />
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Introducing FWD MAX app
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="App Store" linktype="external" url="https://apps.apple.com/th/app/fwd-max/id1039748959" anchor="" target="" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200219T091747Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{7B5F870F-EAE4-446A-B0B9-4FC925D3B576}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: ถ้าคุณมีแพชชั่น มาใช้มันให้เต็มแมกซ์ ไม่ว่าจะเป็นสายสปอร์ต วิ่ง ปั่น ว่าย สายชิล นับก้าว หรือสายเช็คอิน กิน เที่ยว เพราะทุกกิจกรรม ทุกการใช้ชีวิตของคุณในแต่ละวัน สามารถเปลี่ยนมาเป็นแต้ม แลกรับของรางวัลและสิทธิพิเศษต่างๆได้มากมาย
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "b4f00351-1ba4-4f74-9101-d9c75b5b91de"
+      Hint: videoYouTubeID
+      Value: v51Y7PAFe_g
+    - ID: "d0be2ac7-85f9-4ba4-91da-613370dbd6d6"
+      Hint: secondaryLink
+      Value: |
+        <link text="Google Play" linktype="external" url="https://play.google.com/store/apps/details?id=com.fwdlifeth.fwdmax&amp;hl=en" anchor="" target="" />
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: FWD MAX แอปฯ ของคนมีแพชชั่น
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="App Store" linktype="external" url="https://apps.apple.com/th/app/fwd-max/id1039748959" anchor="" target="" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{794D29B0-7E58-4605-AEB1-A7C0B34BAD14}"

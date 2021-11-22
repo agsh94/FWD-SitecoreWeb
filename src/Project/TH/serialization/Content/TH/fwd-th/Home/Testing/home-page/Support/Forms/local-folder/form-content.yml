@@ -1,0 +1,64 @@
+﻿---
+ID: "b00ee7af-12b9-4487-b4db-c14c9d248213"
+Parent: "ec01a4d3-3978-46f2-b932-84bdcd4dca0e"
+Template: "e9fe119c-894c-43bd-bfd0-857be1acbe38"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Support/Forms/local-folder/form-content"
+DB: master
+SharedFields:
+- ID: "6e7ee2d5-d16e-4038-89df-21145baec88b"
+  Hint: primaryNeedTags
+  Type: Multilist
+  Value: |
+    {390404DC-4C70-4662-B09E-5FB89B7B5294}
+    {67F745F2-3A37-4569-B598-0B98CDC6B144}
+    {EDA8AA85-90E4-409C-99E9-ADC0ECA09767}
+    {79CC6ED6-35E7-48E5-B2F9-54D5C71CCE20}
+    {FE8587F2-045F-44A2-83AC-6058AF7CC0AF}
+    {F21B83EF-A6E2-445C-8E35-4A7016F37B24}
+    {8DBD5BD3-0CFB-425F-ADD3-B718ABAF6530}
+    {78547D81-08B8-4BA5-96A9-99C53E609994}
+- ID: "b2b3b585-1cdb-45db-bfd2-a40636d24817"
+  Hint: apiContentType
+  Value: "{AAE0FCBF-5276-4A3A-8CED-AEAF6994D21B}"
+- ID: "fa4911ec-ddc9-4d82-9059-c1fe07006bba"
+  Hint: supportTopic
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Form Content
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200103T104356Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d88ea793-1587-4f65-ae5c-80926cd5438b"
+      Hint: subTitle
+      Value: Select, download and fill in relevent form(s) below with accurate information to help us deliver our service faster and better.
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Help us collect your information
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T104947Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d88ea793-1587-4f65-ae5c-80926cd5438b"
+      Hint: subTitle
+      Value: Select, download and fill in relevent form(s) below with accurate information to help us deliver our service faster and better.
+    - ID: "e276cbc0-53a7-497f-870a-0a505ab8195b"
+      Hint: title
+      Value: Help us collect your information

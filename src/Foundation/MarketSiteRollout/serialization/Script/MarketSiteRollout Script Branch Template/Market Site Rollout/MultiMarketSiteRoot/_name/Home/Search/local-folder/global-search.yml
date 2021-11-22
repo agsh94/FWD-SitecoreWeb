@@ -1,0 +1,41 @@
+﻿---
+ID: "615ec48a-a46c-472b-81ea-ca9b31b95e74"
+Parent: "320dc587-d685-4ebc-9bab-01ded76568ae"
+Template: "2a91e472-5dd9-4573-b28a-420dfc3bb7be"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Search/local-folder/global-search"
+DB: master
+SharedFields:
+- ID: "4806c25f-038d-4db7-acba-40c477fe263d"
+  Hint: noResultFoundSource
+  Value: "{D0FF6057-58EE-4D08-9C54-A12321D02C2D}"
+- ID: "70d597f2-830d-42a1-a9a7-a24ee7e54b28"
+  Hint: contentTabs
+  Type: Multilist
+  Value: |
+    {F292FAA8-F144-47F0-AC0E-4CFF07E3A248}
+    {F016FDFA-B575-4800-9E5F-D92D3239AC28}
+- ID: "9d6a5e36-648d-42ae-a481-b1e5b1d47fd8"
+  Hint: buttonIcon
+  Value: "{37BA6674-5EEE-4830-A323-3D4953C85DFE}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Global Search
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200603T112313Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "712bf742-2cf1-467c-9dc4-71ee7dc89b3f"
+      Hint: placeholderText
+      Value: Please enter a keyword or phrase

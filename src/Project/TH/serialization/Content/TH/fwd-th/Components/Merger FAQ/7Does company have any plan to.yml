@@ -1,0 +1,53 @@
+﻿---
+ID: "bbf5d8ac-6c64-469d-8e50-b2c58f9d7392"
+Parent: "2780d877-e4a6-4b18-b184-fa28fb025a56"
+Template: "061d9d62-bf95-49b1-ae57-28664ff60751"
+Path: "/sitecore/content/fwd/fwd-th/Components/Merger FAQ/7Does company have any plan to change any services in Thailand"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200703T064607Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: "Does company have any plan to change any services in Thailand?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul style="list-style-type: disc;">
+            <li><span>There will be no effect on customers policies. Please be assured that your benefits will remain the same as it was stated in the insurance policies. </span></li>
+            <li><span>In addition, we are confident that our amalgamation will benefit the customers and insurance industry of Thailand overall, through the offering of insurance products and services deriving from the single mindset of customer led company. </span></li>
+            <li><span>We expect to be able to offer insurance products and services that better serve the demand of customers in Thailand. </span></li>
+            <li><span>FWD Group is committed to creating customer-led insurance products, communicating clearly with customers in a way that is easy to understand, and to changing the way people feel about insurance. </span></li>
+        </ul>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200703T065156Z
+    - ID: "52bbe98f-4822-4322-bfab-f0fb35fe5ff5"
+      Hint: question
+      Value: บริษัทมีแผนการที่จะเปลี่ยนบริการต่างๆ ที่มีในประเทศไทยหรือไม่
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\parid
+    - ID: "a190427f-1d04-462e-bc5f-1efec10dbaa2"
+      Hint: answer
+      Value: |
+        <ul style="list-style-type: disc;">
+            <li><span>การควบกัน</span><span>ของ</span><span>บริษัทจะไม่ส่งผลกระทบต่อสิทธิประโยชน์และความคุ้มครองตามกรมธรรม์ประกันภัยของลูกค้าแต่อย่างใด บริษัทขอให้ลูกค้ามั่นใจได้ว่าสิทธิประโยชน์และความคุ้มครองต่างๆ ที่ลูกค้าเคยได้รับ จะยังคงเหมือนเดิมตามที่ได้กำหนดไว้ในกรมธรรม์ประกันภัยของคุณ</span></li>
+            <li><span>นอกจากนี้ เรามุ่งมั่นว่าการควบกันของบริษัทในครั้งนี้จะเป็นประโยชน์ต่อลูกค้า และอุตสาหกรรมประกันภัยของประเทศไทยโดยรวม ผ่านการนำเสนอผลิตภัณฑ์ประกันภัยและการบริการที่เกิดจากแนวคิดหนึ่งเดียวคือการให้ความสำคัญกับลูกค้าเป็นสำคัญ</span></li>
+            <li><span>เราหวังว่าจะได้แนะนำผลิตภัณฑ์ประกันภัยและบริการต่างๆ ที่ตอบสนองต่อความต้องการของลูกค้าในประเทศไทยได้อย่างดียิ่งขึ้น</span></li>
+            <li><span>กลุ่ม </span><span>FWD Group มีความมุ่งมั่นที่จะสร้างสรรค์การให้บริการด้านประกันภัยที่คำนึงถึงลูกค้าเป็นสำคัญ ตรงไปตรงมา และเข้าใจง่าย เพื่อเปลี่ยนมุมมองของผู้คนที่มีต่อการประกันภัยในประเทศไทย</span></li>
+        </ul>

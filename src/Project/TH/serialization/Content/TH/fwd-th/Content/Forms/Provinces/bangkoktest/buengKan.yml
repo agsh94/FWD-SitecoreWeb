@@ -1,0 +1,50 @@
+﻿---
+ID: "4e85da38-414b-4882-9b9a-4c4b940a8220"
+Parent: "a314a308-dfc2-497a-b982-37c3c4bec631"
+Template: "ec53ace0-d7b5-40ee-8d20-4650d6c807f6"
+Path: "/sitecore/content/fwd/fwd-th/Content/Forms/Provinces/bangkoktest/buengKan"
+DB: master
+SharedFields:
+- ID: "0bb8c93b-a99d-46b3-8e18-fa27970a244c"
+  Hint: key
+  Value: 77
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 107
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Bueng Kan
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200130T122122Z
+    - ID: "b95c8194-e837-46c4-ab8a-a5c6874359cf"
+      Hint: value
+      Value: Bueng Kan
+    - ID: "e6c58885-b753-4083-8435-cdc1a94cb10b"
+      Hint: List
+      Type: Multilist
+      Value: "{0D6BED35-2D82-43E9-B5E9-BB8AFD185BAE}"
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: บึงกาฬ
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T064622Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "b95c8194-e837-46c4-ab8a-a5c6874359cf"
+      Hint: value
+      Value: บึงกาฬ

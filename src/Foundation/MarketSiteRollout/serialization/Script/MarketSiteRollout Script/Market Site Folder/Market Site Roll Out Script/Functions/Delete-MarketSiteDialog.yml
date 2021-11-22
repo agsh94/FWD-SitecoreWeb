@@ -1,0 +1,66 @@
+﻿---
+ID: "28a93845-0898-4b4b-a561-108b186b7318"
+Parent: "d56fabd9-6ec2-4b39-88dd-10e5b34ef75d"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: "/sitecore/system/Modules/PowerShell/Script Library/Market Site Folder/Market Site Roll Out Script/Functions/Delete-MarketSiteDialog"
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    
+    
+    function Delete-MarketSiteDialog {
+    	[CmdletBinding()]
+        param(
+            [Parameter(Mandatory = $true, Position = 0 )]
+            [Item]$SiteLocation
+        )
+    
+    	begin {
+    		Write-Verbose "Cmdlet Delete-NewSiteDialog - Begin"
+    	}
+    
+    	process {
+    		$result = Show-Confirm -Title "Do you want to delete?"
+    		   
+    		   if($result -ne "yes")
+    			{
+    				Close-Window
+    				Exit
+    			}
+    		$path = 'master:' + $SiteLocation.ItemPath
+    		Get-Item -Path $path | Remove-Item
+    		
+    		$web = $SiteLocation.Name.ToString()
+    		
+    		if ($web -match '\-') {
+    		$web=$web -replace "\-", ' '
+    		}
+    		$web=$web.ToUpper()
+    		$name = $web + ' Administrator'
+    		Remove-Role -Identity $name
+    		$path = '/sitecore/content/fwd/Global/Settings/List/Administrators/' + $name
+    		Get-Item -Path $path | Remove-Item
+    		$name = $web + ' Hide Publishing Role'
+    		Remove-Role -Identity $name
+    		$name = $web + ' Author'
+    		Remove-Role -Identity $name
+    		$path = '/sitecore/content/fwd/Global/Settings/List/Roles/' + $name
+    		Get-Item -Path $path | Remove-Item
+    		$name = $web + ' Content Approver'
+    		Remove-Role -Identity $name
+    	}
+    
+    	end {
+    		Write-Verbose "Cmdlet Delete-MarketSiteDialog - End"
+    	}
+    }
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200609T065013Z

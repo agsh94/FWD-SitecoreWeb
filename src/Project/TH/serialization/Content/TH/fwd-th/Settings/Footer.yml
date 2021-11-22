@@ -1,0 +1,107 @@
+﻿---
+ID: "882a58f8-ddd7-4ba9-8efc-d8d561aec4f1"
+Parent: "23ea3a12-c756-499b-845a-81274891959d"
+Template: "6d53377b-7a53-4357-8363-82776c43dd2b"
+Path: "/sitecore/content/fwd/fwd-th/Settings/Footer"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "fa2ff38e-5b36-47a3-af22-ce7131f3a472"
+  Hint: languageList
+  Type: Multilist
+  Value: |
+    {65E62323-9DA1-4172-B472-7443EBBBFBEE}
+    {5F8CB340-EC7F-4B71-BB4A-C950856D3495}
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Footer
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191112T163450Z
+    - ID: "3ec501ad-afda-4c9a-a5e2-95ca834deb17"
+      Hint: footerQuickLinks
+      Value: "{8040DACC-B8A4-4D2D-9EF2-BFE94A9B7F35}"
+    - ID: "499bfbc0-6f5f-4b5b-9365-f0cd27b68682"
+      Hint: siteNavigationLinks
+      Value: "{FAB71E4E-549D-40D9-8A3D-B08FD7D6E64B}"
+    - ID: "51016776-023b-47e7-bb80-1a107d39aef0"
+      Hint: socialMediaLinks
+      Value: "{5DA1E1B4-B3DD-4B39-B108-A33593374B23}"
+    - ID: "5a264f4f-b2e7-401b-8d66-dfb065230cd5"
+      Hint: logo
+      Value: |
+        <image mediaid="{0D952896-0515-4143-ACEF-E2BCEDEEDC0E}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6210e68f-bae8-492d-96fb-5cdd84d4561b"
+      Hint: logoLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />
+    - ID: "683f8a26-72eb-48f9-9dc7-b999e9ad43a4"
+      Hint: icon
+      Value: "{166421B9-3CE6-4378-AE85-9CC48875088F}"
+    - ID: "cfc24267-8eec-412d-a2a7-c7c8cd2d83c3"
+      Hint: copyrightLabel
+      Value: |
+        <p>Copyright 2020 FWD Thailand. </p>
+        <p>All rights reserved.</p>
+    - ID: "f19d3a3f-1a4e-4e42-995d-042bd9eab2cc"
+      Hint: countrySelector
+      Value: "{524BE966-BEDC-4A0E-93D3-9A420BB10511}"
+    - ID: "fec3a5ee-0764-44e3-bffd-3dd8b09f60ee"
+      Hint: call
+      Value: 1351
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200314T084918Z
+    - ID: "3ec501ad-afda-4c9a-a5e2-95ca834deb17"
+      Hint: footerQuickLinks
+      Value: "{8040DACC-B8A4-4D2D-9EF2-BFE94A9B7F35}"
+    - ID: "499bfbc0-6f5f-4b5b-9365-f0cd27b68682"
+      Hint: siteNavigationLinks
+      Value: "{FAB71E4E-549D-40D9-8A3D-B08FD7D6E64B}"
+    - ID: "51016776-023b-47e7-bb80-1a107d39aef0"
+      Hint: socialMediaLinks
+      Value: "{5DA1E1B4-B3DD-4B39-B108-A33593374B23}"
+    - ID: "5a264f4f-b2e7-401b-8d66-dfb065230cd5"
+      Hint: logo
+      Value: |
+        <image mediaid="{0D952896-0515-4143-ACEF-E2BCEDEEDC0E}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6210e68f-bae8-492d-96fb-5cdd84d4561b"
+      Hint: logoLink
+      Value: |
+        <link text="Home" anchor="" linktype="internal" class="" title=""  querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />
+    - ID: "683f8a26-72eb-48f9-9dc7-b999e9ad43a4"
+      Hint: icon
+      Value: "{166421B9-3CE6-4378-AE85-9CC48875088F}"
+    - ID: "cfc24267-8eec-412d-a2a7-c7c8cd2d83c3"
+      Hint: copyrightLabel
+      Value: สงวนลิขสิทธิ์ © 2020 บริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน)
+    - ID: "f19d3a3f-1a4e-4e42-995d-042bd9eab2cc"
+      Hint: countrySelector
+      Value: "{524BE966-BEDC-4A0E-93D3-9A420BB10511}"
+    - ID: "fec3a5ee-0764-44e3-bffd-3dd8b09f60ee"
+      Hint: call
+      Value: 1351

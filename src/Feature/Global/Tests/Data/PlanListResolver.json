@@ -1,0 +1,53 @@
+﻿{
+    "Datasource Item": {
+
+    },
+    "RiderItem": {
+        "productDescription": {
+            "value": "Rider Description"
+        },
+        "productTitle": {
+            "value": "Rider Title"
+        }
+    },
+    "AssociatedItems": [
+        {
+            "productDescription": {
+                "value": "Rider Description"
+            },
+            "productTitle": {
+                "value": "Rider Title"
+            }
+        }
+    ],
+    "brochure": {
+
+        "title": {
+            "value": "Brochure1"
+        },
+        "description": {
+            "value": "Brochure1"
+        }
+    },
+    "brochure2": {
+
+        "title": {
+            "value": "Brochure2"
+        },
+        "description": {
+            "value": "Brochure2"
+        }
+    },
+    "brochure3": {
+
+        "title": {
+            "value": "Brochure3"
+        },
+        "description": {
+            "value": "Brochure3"
+        }
+    },
+    "CallorChatItem": {
+
+    }
+}   

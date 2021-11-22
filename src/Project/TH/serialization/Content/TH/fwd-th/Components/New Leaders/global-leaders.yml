@@ -1,0 +1,45 @@
+﻿---
+ID: "1e2d4f37-8c8c-48ca-95be-6b635da61022"
+Parent: "78535639-e784-4ced-94ad-657bf384146e"
+Template: "de4d5f49-8fde-4c71-9a10-fca834ec4653"
+Path: "/sitecore/content/fwd/fwd-th/Components/New Leaders/global-leaders"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Global Leaders
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "203b1f26-515b-46a0-b4ec-afce67afa10e"
+      Hint: cardVariant
+      Value: "{21D6E3B0-DAD4-4DE5-A1CE-843A3DCCD6A8}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T094816Z
+    - ID: "bd4e7815-e890-4c5c-ac23-946cca311a97"
+      Hint: title
+      Value: Our Group executives
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "203b1f26-515b-46a0-b4ec-afce67afa10e"
+      Hint: cardVariant
+      Value: "{21D6E3B0-DAD4-4DE5-A1CE-843A3DCCD6A8}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200109T084210Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "bd4e7815-e890-4c5c-ac23-946cca311a97"
+      Hint: title
+      Value: ผู้บริหารเอฟดับบลิวดี

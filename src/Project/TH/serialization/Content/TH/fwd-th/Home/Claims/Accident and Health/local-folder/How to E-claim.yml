@@ -1,0 +1,169 @@
+﻿---
+ID: "e9060a54-8cc9-48bf-bae2-ae2c33b2babc"
+Parent: "7061ffb8-69bf-4e50-9b6c-33b8785eeb29"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Claims/Accident and Health/local-folder/How to E-claim"
+DB: master
+SharedFields:
+- ID: "6cd9b2c8-a41a-439e-8166-b0b7b0086f49"
+  Hint: buttonMode
+  Value: "{2D7E3979-8DAE-42D1-BFDF-45522DB9A1B9}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{EDE48680-3100-4BDD-816B-84160EEE460D}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200510T044919Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{EDE48680-3100-4BDD-816B-84160EEE460D}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: Step one is to check that your policy covers your claim. You can do this by logging in to your account and checking your policy details.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Check your policy coverage
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Login" linktype="external" url="https://iservice.fwd.co.th/login.aspx" anchor="" title="Login" target="_blank" />
+  - Version: 2
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{EDE48680-3100-4BDD-816B-84160EEE460D}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200915T071357Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{EDE48680-3100-4BDD-816B-84160EEE460D}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: Step one is to check that your policy covers your claim. You can do this by logging in to your account and checking your policy details.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{D80D2A5C-D5F8-4DA1-8828-B4F51D64461B}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200915T071357Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: Check your policy coverage
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="Login" linktype="external" url="https://iservice.fwd.co.th/login.aspx" anchor="" title="Login" target="_blank" />
+- Language: th
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "How to E-claim"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{F7F9382E-6942-4C2A-BC4B-13F386A62367}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200510T054117Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{F7F9382E-6942-4C2A-BC4B-13F386A62367}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p>สำหรับค่ารักษาพยาบาลแบบผู้ป่วยนอก (OPD) วงเงินไม่เกิน 5,000 บาท<br />
+        <br />
+        1.<span> </span>เป็นเพื่อนกับเราทางไลน์ @FWDThailand<br />
+        2.<span> </span>กรอกข้อมูลการเรียกร้องสินไหม<br />
+        3.<span> </span>อัพโหลดเอกสาร (ใบเสร็จรับเงินต้นฉบับ&nbsp; ใบรับรองแพทย์ต้นฉบับ&nbsp; และหน้าสมุดบัญชีธนาคาร)</p>
+        <div>&nbsp;</div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ขั้นตอนการยื่นคำขอเรียกร้องสินไหมออนไลน์
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="เข้าสู่ระบบ" linktype="external" url="https://iservice.fwd.co.th/login.aspx" anchor="" title="เข้าสู่ระบบ" target="_blank" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"
+  - Version: 2
+    Fields:
+    - ID: "1e38642e-dc23-498d-95c1-c8cce55eeed5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{F7DE341D-78CD-4A3E-82FD-B8ECBDF9DDCC}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200916T034648Z
+    - ID: "2ff96014-55f5-468f-9a29-640ece5a9cea"
+      Hint: image
+      Value: |
+        <image mediaid="{F7DE341D-78CD-4A3E-82FD-B8ECBDF9DDCC}" />
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: |
+        <p>สำหรับค่ารักษาพยาบาลแบบผู้ป่วยนอก (OPD) วงเงินไม่เกิน 5,000 บาท<br />
+        <br />
+        1.<span> </span>เป็นเพื่อนกับเราทางไลน์ @FWDThailand<br />
+        2.<span> </span>กรอกข้อมูลการเรียกร้องสินไหม<br />
+        3.<span> </span>อัพโหลดเอกสาร (ใบเสร็จรับเงินต้นฉบับ&nbsp; ใบรับรองแพทย์ต้นฉบับ&nbsp; และหน้าสมุดบัญชีธนาคาร)</p>
+        <div>&nbsp;</div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Suwanna
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200916T034648Z
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ขั้นตอนการยื่นคำขอเรียกร้องสินไหมออนไลน์
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="แอดไลน์" linktype="external" url="https://bcrm.line.me/wl/1467096115/l/8143  " anchor="" title="แอดไลน์" target="_blank" />
+    - ID: "f365b9cc-c804-4520-8a22-6c165b97cfda"
+      Hint: mediaType
+      Value: "{A537F571-3E6F-4CDD-A9F9-5093569C9C19}"

@@ -1,0 +1,51 @@
+﻿---
+ID: "9982c4ad-04f4-4b76-82aa-4671f5fae3ed"
+Parent: "cc2fce3b-b34a-4bf0-9d11-a19acb51b27b"
+Template: "615282d0-6867-4065-b4aa-c103bcded9a5"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/Products/Health/CancerFighter/Copy of PlanGrand/age-more-than-6"
+DB: master
+SharedFields:
+- ID: "a44f9279-737c-4736-acdf-d13dc9db9dc7"
+  Hint: minAge
+  Value: 6
+- ID: "b2a7ed7f-e1f4-4c05-813c-05107ad54a28"
+  Hint: maxAge
+  Value: 150
+- ID: "cc91c665-62e8-4e94-9a65-b43fdde9be7d"
+  Hint: minSumAssured
+  Value: 20000
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Age more than 6
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191220T073454Z
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T055203Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200409T115746Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200409T115746Z

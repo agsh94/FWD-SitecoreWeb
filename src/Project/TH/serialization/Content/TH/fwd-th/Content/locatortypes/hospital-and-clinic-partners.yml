@@ -1,0 +1,217 @@
+﻿---
+ID: "dc613ef9-63ae-4338-afad-573009e3597d"
+Parent: "49c62fda-ba41-4170-ab2c-4634190b0d30"
+Template: "9faa0cd1-7bdf-4b0d-8f46-bce92bcb6b7b"
+Path: "/sitecore/content/fwd/fwd-th/Content/locatortypes/hospital-and-clinic-partners"
+DB: master
+SharedFields:
+- ID: "255421b7-af8f-404c-b065-3113f14771ff"
+  Hint: locatorKey
+  Value: Hospital and clinic partners
+- ID: "4806c25f-038d-4db7-acba-40c477fe263d"
+  Hint: noResultFoundSource
+  Value: "{BC0BB09C-F4B7-4917-9C39-28D0F54B1ACA}"
+- ID: "87ed4418-be3a-4746-bb07-eec21d88827b"
+  Hint: primaryLocatorFilter
+  Type: Multilist
+  Value: |
+    {1366371F-5CEB-487F-B126-B5334CD9EE8B}
+    {4EB7396C-509C-4C34-98EA-3F410A759FBF}
+- ID: "99f71bfa-5ffc-49e8-848f-49fc73a2a402"
+  Hint: provinceList
+  Type: Multilist
+  Value: |
+    {EF18825D-2899-4767-A14F-D20344B02498}
+    {9F746638-DBF2-445C-A5CB-FDBFA72455F1}
+    {D334D2E9-50AC-4D1A-AF92-1EB8C57C0F6D}
+    {42431BAD-1C5F-4F31-BB2D-E135CAD599D8}
+    {F005BA46-2102-41A2-9CE9-2021A593C106}
+    {D847B485-26E5-4023-A33C-2377553A7F77}
+    {3C402C2F-B3CB-4256-B61B-7A7967372A7B}
+    {D9C8F63D-AAC8-4D98-8CF9-4204023C8994}
+    {D08D3C5F-7878-4A86-A100-3A259DC0DA79}
+    {F81078D1-03D0-446E-829E-3159F31D5A96}
+    {C6A7E583-5F8C-46FC-8995-92DC66A0C8C8}
+    {9850D7CC-6643-4AB9-8B8A-F3469DFEA888}
+    {B84EF241-5020-4FCC-BFF4-2CD3F264D79E}
+    {E8D9E695-CDC4-483C-B495-8C295AB35066}
+    {BF19678D-73CF-48F2-850B-796FE02076E1}
+    {C04718FB-EC1B-4EB3-BDB1-D17641DB7BFE}
+    {08CDFD3D-E23B-4DFF-B998-9914A0A32AA3}
+    {9CBB0D48-D19F-413F-B65A-DF6B327624CD}
+    {D84545B2-7111-4122-8359-E4A09EE83200}
+    {E31AA9D8-3C54-44BC-9BB0-5EEFE2B36D1D}
+    {E16DF59E-E8BF-4423-81CE-6038125EA93D}
+    {EDB42F02-794D-4017-AAEA-452635EF1507}
+    {8CA442A0-D9AA-4B2A-80F8-34103C1CF97F}
+    {C650D10E-DEF8-46FB-BB96-B1C041E325D4}
+    {692FE76D-D8AC-460F-AC73-2F5680AFFBAD}
+    {07372A6F-FB18-45F9-997C-3FA35B0C76A3}
+    {01AC10D7-2327-4324-AD3A-B32201735E01}
+    {86BEA8BE-5002-4205-AC09-79B37844D93C}
+    {6C3F9A84-68F7-4C46-B22F-274DBFF7DB7E}
+    {982C2C17-1835-4257-995E-9B3B7A30F5A9}
+    {A47ABCBA-A433-4A83-BDF9-53DA47CCB9ED}
+    {73FDEF72-9D43-49EE-9A8D-0C960B4BF566}
+    {4A955A51-4E80-4CB9-9184-33F0B0C024B2}
+    {AC21119B-9253-4008-98FD-AC4F059BFCF8}
+    {DF3C1305-1545-4FD1-8981-963139C50522}
+    {35D8718F-7D37-4C71-B65B-E8864D71EA0C}
+    {CE9F223B-53C3-4608-B98C-7490BF28E169}
+    {87C72021-78BA-44F9-BDE5-E50FE3228686}
+    {735D1438-0F24-4E9B-B083-B3AB3D246E39}
+    {C96BFF36-4B71-42FC-AAF4-3547DFD817D8}
+    {1D3930CB-5649-40CC-B69A-44928AE70A5F}
+    {E7700B8B-EF29-4F76-BD1C-0A886A446997}
+    {C8A69220-DEFF-47A2-92D7-5E83DBB38B0F}
+    {880152F6-DBE6-4486-8359-609D6730DBE2}
+    {DC3E5302-4363-4D5D-927B-4091751FB095}
+    {EBCFAB38-5D1D-4F20-A451-ADA4FD1080F6}
+    {DB818383-284E-43A5-B2DA-D2D6B7580A27}
+    {3D6817FE-59D0-4EBC-9F5A-F0BEFA1EB5A2}
+    {DFB40B0E-FACC-4942-B835-623E04392C41}
+    {ECE7DC30-2FC0-400E-8D65-AB6BC00A3B55}
+    {AACED535-8227-4753-9B30-1931B0C34A63}
+    {8F03BF4F-3FB5-403A-83C3-0028BA8B44C8}
+    {0C83227F-220E-4AE8-85B1-B2B4FA40E4EE}
+    {D8D50736-1108-442B-B3C4-CC1F7FD35351}
+    {962C6AD2-009D-41F0-8A98-0577C6487E8B}
+    {F69D50B8-CB6D-42E1-A18B-6619AC6BAE71}
+    {1479B869-4550-40C9-AD8A-D4CFA0A1B457}
+    {F0FC4E97-7195-4341-8778-2698C1DE5747}
+    {3F789FB3-6D7D-4D35-A476-A4B02454097D}
+    {5FB2C53E-A2D0-41F6-B0F8-8ECFD67CBB5B}
+    {FA9F360C-13B8-4C8C-A36B-47DFBCE47896}
+    {70D40D07-9C2A-41C5-9C17-A65A3E58BF19}
+    {70B3EB29-84D1-493D-ADDF-9B30107ACAD5}
+    {2D0B910F-3FD0-4739-9029-9C514DEE9BFA}
+    {4698BB33-530E-4A0F-8956-CC299BC2E1A2}
+    {EEE12D6F-4251-4BD3-8E6F-F48FB2D2BA6A}
+    {E7AEFADD-73D1-4E94-8EB6-C26DF33D84B7}
+    {99A198DF-14F4-4A16-A9E7-343AF8D744AD}
+    {3769883B-874E-4548-B2A8-530FDF7BE138}
+    {18BA8B2C-CB64-4909-9EAF-AFF9D24F9C04}
+    {708ED8E6-485A-454C-8BFA-66E01177675F}
+    {33436A30-6185-49A3-8832-5FDE69E8BB10}
+    {B95C2FEF-7701-4E8E-BF63-DEDB365B0B16}
+    {FA2B97AB-985C-4320-99D4-CC7CC4105C2B}
+    {10ED782B-3A4B-434F-80BB-8A674BB22044}
+    {6DC99D22-659B-44FA-B76C-D5F905820DCD}
+- ID: "9c77c9fc-74d4-4d11-8519-d3ed81e0e53d"
+  Hint: groupServices
+  Type: Multilist
+  Value: "{3944F3C0-E695-4E03-B99F-9A8D2BB3357C}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{BD9D2AB7-4AC1-454B-A6A8-53B1DC5C0AC4}"
+- ID: "d2977e87-16bf-4b1a-8579-f5be6c6f89ef"
+  Hint: individualServices
+  Type: Multilist
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Hospital and clinic partners
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T065555Z
+    - ID: "3db8dc4b-b63e-4dc1-8792-c529015fad17"
+      Hint: primaryLocatorFilterLabel
+      Value: Plan type
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "3eda3674-4c89-4b4c-b747-b6aa5b26e9a9"
+      Hint: defaultProvince
+      Value: "{9F746638-DBF2-445C-A5CB-FDBFA72455F1}"
+    - ID: "c0ca13ea-e6f9-4228-bf5a-27eab1b6e2a1"
+      Hint: locatorLabel
+      Value: Hospital and clinic partners
+    - ID: "dedfb3a6-76a6-4cae-8ee3-9a2306f85e88"
+      Hint: secondaryLocatorFilterLabel
+      Value: Filter by
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200924T103513Z
+    - ID: "3db8dc4b-b63e-4dc1-8792-c529015fad17"
+      Hint: primaryLocatorFilterLabel
+      Value: Plan type
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "3eda3674-4c89-4b4c-b747-b6aa5b26e9a9"
+      Hint: defaultProvince
+      Value: "{9F746638-DBF2-445C-A5CB-FDBFA72455F1}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "c0ca13ea-e6f9-4228-bf5a-27eab1b6e2a1"
+      Hint: locatorLabel
+      Value: Hospital and clinic partners
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200924T103513Z
+    - ID: "dedfb3a6-76a6-4cae-8ee3-9a2306f85e88"
+      Hint: secondaryLocatorFilterLabel
+      Value: Filter by
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200211T064708Z
+    - ID: "3db8dc4b-b63e-4dc1-8792-c529015fad17"
+      Hint: primaryLocatorFilterLabel
+      Value: แผนประกัน
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "3eda3674-4c89-4b4c-b747-b6aa5b26e9a9"
+      Hint: defaultProvince
+      Value: "{9F746638-DBF2-445C-A5CB-FDBFA72455F1}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "c0ca13ea-e6f9-4228-bf5a-27eab1b6e2a1"
+      Hint: locatorLabel
+      Value: โรงพยาบาลเครือข่ายใกล้คุณ
+    - ID: "dedfb3a6-76a6-4cae-8ee3-9a2306f85e88"
+      Hint: secondaryLocatorFilterLabel
+      Value: ค้นหาโดย
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200924T103555Z
+    - ID: "3db8dc4b-b63e-4dc1-8792-c529015fad17"
+      Hint: primaryLocatorFilterLabel
+      Value: แผนประกัน
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3302EB81-28CF-4EDF-B3F4-A175A8EEC671}"
+    - ID: "3eda3674-4c89-4b4c-b747-b6aa5b26e9a9"
+      Hint: defaultProvince
+      Value: "{9F746638-DBF2-445C-A5CB-FDBFA72455F1}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Vatcharaporn
+    - ID: "c0ca13ea-e6f9-4228-bf5a-27eab1b6e2a1"
+      Hint: locatorLabel
+      Value: โรงพยาบาลเครือข่ายใกล้คุณ
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200924T103555Z
+    - ID: "dedfb3a6-76a6-4cae-8ee3-9a2306f85e88"
+      Hint: secondaryLocatorFilterLabel
+      Value: ค้นหาโดย

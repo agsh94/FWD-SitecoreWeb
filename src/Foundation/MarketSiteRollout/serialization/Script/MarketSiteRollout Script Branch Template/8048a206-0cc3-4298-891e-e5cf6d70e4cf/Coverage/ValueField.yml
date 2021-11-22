@@ -1,0 +1,32 @@
+﻿---
+ID: "6cf4ba88-07ff-4b67-bc35-6144dafc1b4a"
+Parent: "33609f6e-b3af-455b-b388-84d0592bd495"
+Template: "683bbabe-aadd-4e41-95eb-fd590132565d"
+Path: "/sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Home/Products/Health/cancer-knockout/Package III/AttributeFolder/Coverage/ValueField"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ecfd20e-1a1c-4143-9ad4-22a1374823bf"
+      Hint: value
+      Value: 5667
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200702T115814Z
+    - ID: "5f64db6e-5306-48e3-b7ba-42955fc2b2d1"
+      Hint: leadingTextToolTip
+      Value: Per year
+    - ID: "b67f4e53-7078-4eb4-b428-1bcbb399379d"
+      Hint: attributeKey
+      Value: "{C8CCCA04-897B-40C0-B9E9-C1CCBDCEE212}"
+    - ID: "c46c42f1-4609-44be-af80-fd7b8e4b47a5"
+      Hint: leadingText
+      Value: THB
+    - ID: "c783126c-7875-4a65-98ee-d16aeafeb21c"
+      Hint: emphasisTextToolTip
+      Value: per year
+    - ID: "d6e9084e-023d-4e83-8890-3be5f8c35b63"
+      Hint: trailingText
+      Value: per year

@@ -1,0 +1,26 @@
+﻿---
+ID: "0cf3a479-1f2e-4dd8-87eb-b1d70dcee5f2"
+Parent: "693f1040-258d-48cd-837d-c5b3061bd714"
+Template: "d188c909-be9c-4149-9106-b25be4b6fb55"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/article-page/articles/local-folder/ArticleHeroBanner"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ec1b066-046b-4099-8dde-7ef17d1818a5"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{CB745483-13CB-4469-9FE2-FE4AC7037845}" cropx="0.52" cropy="0.04" focusx="0.03437487284342455" focusy="0.9140625" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200729T085518Z
+    - ID: "43c58d25-8056-4ce0-b071-440c9f96ecf3"
+      Hint: image
+      Value: |
+        <image mediaid="{CB745483-13CB-4469-9FE2-FE4AC7037845}" cropx="0.50" cropy="0.05" focusx="0.003124872843424553" focusy="0.9067707061767578" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

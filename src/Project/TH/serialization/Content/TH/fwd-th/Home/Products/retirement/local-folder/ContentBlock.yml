@@ -1,0 +1,45 @@
+﻿---
+ID: "288ea8ca-ee99-46f1-8f5f-bea6b7732128"
+Parent: "6ae6d2f0-bbc3-4b3c-8cf6-c5afcc3f2613"
+Template: "51555475-5028-4b05-9b45-53be53615704"
+Path: "/sitecore/content/fwd/fwd-th/Home/Products/retirement/local-folder/ContentBlock"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T072044Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: "…and at FWD, we know that retirement is about making the most of your life after work. We also know that your finances are a huge part of that. That’s why one of things we ask our customers to do is imagine they were retiring today. Could they support themselves (and anyone else they needed to)? We can help with these kinds of conversations. So you can have the retirement you deserve."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fwdtestauthor
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: We all want a happy, healthy retirement…
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200521T134653Z
+    - ID: "3aa2547f-a64b-4ac7-81e4-9bd06adff03d"
+      Hint: description
+      Value: ที่เอฟดับบลิวดีรู้ว่าหลังจากทำงานมาเนิ่นนาน การได้ใช้ชีวิตอย่างที่ใจต้องการคือความสุขในวัยเกษียณ และเรายังรู้ว่าการเงินเป็นปัจจัยสำคัญที่จะช่วยให้คุณใช้ชีวิตได้ตามฝัน ดังนั้นสิ่งหนึ่งที่เราจะทำเสมอ คือ ให้ลูกค้าจินตนาการว่าจะดูแลตัวเองและผู้อยู่ในอุปการะได้หรือไม่ หากต้องเกษียณในวันนี้ ซึ่งจะทำให้เราสามารถช่วยวางแผนให้คุณได้ใช้ชีวิตในวัยเกษียณอย่างหรรษาตามที่คุณต้องการ
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d8e6a378-12df-4f47-903b-b691f8217f29"
+      Hint: title
+      Value: ใครๆ ก็อยากได้วัยเกษียณที่หรรษา

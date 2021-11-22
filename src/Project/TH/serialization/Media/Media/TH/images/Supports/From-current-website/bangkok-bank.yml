@@ -1,0 +1,77 @@
+﻿---
+ID: "c75986dc-61de-4a64-af69-5e60ad0895e4"
+Parent: "1d409739-ac08-421c-b21d-676ea568c041"
+Template: "c97ba923-8009-4858-bdd5-d8be5fccecf7"
+Path: "/sitecore/media library/FWD/TH/images/Supports/From-current-website/bangkok-bank"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/c75986dc61de4a64af695e60ad0895e4.ashx?h=16&la=th&thn=1&w=16"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200518T124312Z
+    - ID: "3eb149f8-de14-4220-a8f4-9e723cfae5d9"
+      Hint: Extension
+      Value: png
+    - ID: "5be6c122-84c9-4661-a0c9-3718909c8dad"
+      Hint: Size
+      Value: 930
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "611ba5dd-8d26-4c9b-a95d-900ac94cb32a"
+      Hint: Height
+      Value: 40
+    - ID: "6405cc9e-9ca1-44a1-adf8-0decf05071ce"
+      Hint: Dimensions
+      Value: 70 x 40
+    - ID: "aba5ce58-6d8f-43a4-b4fa-b181651347dd"
+      Hint: Mime Type
+      Value: image/png
+    - ID: "d8e619c3-2d16-47f4-ad3b-c68103df86c2"
+      Hint: Width
+      Value: 70
+    - ID: "dbbe7d99-1388-4357-bb34-ad71edf18ed3"
+      Hint: Blob
+      BlobID: "cd0ab214-ff28-47af-83f5-c06a6fc8aa37"
+      Value: iVBORw0KGgoAAAANSUhEUgAAAEYAAAAoCAMAAAB0DnycAAAAolBMVEUAAAD///8DAZX//P////wDAoT9//X///gOCp7++f/o6/79/Pv///FRULPx9f74/PC1tuocGaX5/v8XEpIxMaUmJZP6+/b5+f74+PZubsc+PKWLjc3W2Pq8v/JiYb/a4Pt+gMJfZLJEQ7H89f/0/vzh5/T6/ut9ftLLzPOrr+r9/+WeneSjpdyUktzN1PTR0P/b4eq/zerNzuNhZqLr8+hBRpgVT/DvAAAAAXRSTlMAQObYZgAAAq5JREFUSMfllsd22zAQRTMFhSBIsDeJ6l22nDjJ//9aRjnJntTWswIWvGfKm0d8+zIB/4OAInJH4KDlxvA35mMg7sD9XB1BmzaF+EVMB8ztQuEmZQ0RvZqN1FK81YjlvZCqUngRY0JxqRAtVmNx0kAvYjS4RKnVT6uSNZ/4ZYw7KzUsvwurd9zAq5i30tZZocdK5Xcwc1vcQUzUsv5RoX3fgykWJVY/mFjIekY28VMwhdsqXDnuANwWMfnOQMQ8p6jWeEgXVu0ucoAIHju0mwOQgKZjGmi1LsYayzc4BaDI8zXHOmPDADw9G4IO1onCs2OWS2RC2pcyMwjGhMkYApaSFIpaYpJLRIaXQu1TbYyejGlNoGut7B087PdsGpLD3T5rjOfoJmiRr7UZeCAIYKD1kJWIv10L6YyiQmatzAbMPor1IaLGF2dEUVExo6gIfvUqr1Q9tkbK4Kjzh7FWVa6SI5jp2fCxwt11h8NSn7jlqNGPQVXXBKtPosmYuFvndnsQrSQuGIoi71bSX7NRecbTMaZ5WNwG1z9nzDHdnDRmm+qFYKLpk9KwzLEP8BhQvadAsCjV7kP7BeZZPB3j43Utqxgfsuc+tOm1lk0ASFcqHyM/PRtyO5T8fXGXVRo/K3Fj1u1njdWSbtMnZfhdiXFG+q/TDEpcx99cgrgJeob8tFmuxISX3el4tohKVpQuT895GF1Ml1/j4UM4Q3a4HQcU59NFNgjlAo2ZsVMsdvPRl5hv0kMin6fppkbsLwU3ppkuP4BGw1r6YrdjotQu63Mszw5ob0w03f0IYu1NJ4WoyiKWksqQpScRNDc0x/2AQzB8EVN/hrT7QyidZBnP+zMAEXnj3nOh2HxxpNttD963EOY/TFjDmCDuMq2J4OUXBZEx602/ZBMTM/zDfJX4A5hcMLGCjix0AAAAAElFTkSuQmCC
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200518T124357Z
+    - ID: "3eb149f8-de14-4220-a8f4-9e723cfae5d9"
+      Hint: Extension
+      Value: png
+    - ID: "5be6c122-84c9-4661-a0c9-3718909c8dad"
+      Hint: Size
+      Value: 930
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "611ba5dd-8d26-4c9b-a95d-900ac94cb32a"
+      Hint: Height
+      Value: 40
+    - ID: "6405cc9e-9ca1-44a1-adf8-0decf05071ce"
+      Hint: Dimensions
+      Value: 70 x 40
+    - ID: "aba5ce58-6d8f-43a4-b4fa-b181651347dd"
+      Hint: Mime Type
+      Value: image/png
+    - ID: "d8e619c3-2d16-47f4-ad3b-c68103df86c2"
+      Hint: Width
+      Value: 70
+    - ID: "dbbe7d99-1388-4357-bb34-ad71edf18ed3"
+      Hint: Blob
+      BlobID: "2ebb0679-1d30-4b74-8784-bf5a745d6fa1"
+      Value: iVBORw0KGgoAAAANSUhEUgAAAEYAAAAoCAMAAAB0DnycAAAAolBMVEUAAAD///8DAZX//P////wDAoT9//X///gOCp7++f/o6/79/Pv///FRULPx9f74/PC1tuocGaX5/v8XEpIxMaUmJZP6+/b5+f74+PZubsc+PKWLjc3W2Pq8v/JiYb/a4Pt+gMJfZLJEQ7H89f/0/vzh5/T6/ut9ftLLzPOrr+r9/+WeneSjpdyUktzN1PTR0P/b4eq/zerNzuNhZqLr8+hBRpgVT/DvAAAAAXRSTlMAQObYZgAAAq5JREFUSMfllsd22zAQRTMFhSBIsDeJ6l22nDjJ//9aRjnJntTWswIWvGfKm0d8+zIB/4OAInJH4KDlxvA35mMg7sD9XB1BmzaF+EVMB8ztQuEmZQ0RvZqN1FK81YjlvZCqUngRY0JxqRAtVmNx0kAvYjS4RKnVT6uSNZ/4ZYw7KzUsvwurd9zAq5i30tZZocdK5Xcwc1vcQUzUsv5RoX3fgykWJVY/mFjIekY28VMwhdsqXDnuANwWMfnOQMQ8p6jWeEgXVu0ucoAIHju0mwOQgKZjGmi1LsYayzc4BaDI8zXHOmPDADw9G4IO1onCs2OWS2RC2pcyMwjGhMkYApaSFIpaYpJLRIaXQu1TbYyejGlNoGut7B087PdsGpLD3T5rjOfoJmiRr7UZeCAIYKD1kJWIv10L6YyiQmatzAbMPor1IaLGF2dEUVExo6gIfvUqr1Q9tkbK4Kjzh7FWVa6SI5jp2fCxwt11h8NSn7jlqNGPQVXXBKtPosmYuFvndnsQrSQuGIoi71bSX7NRecbTMaZ5WNwG1z9nzDHdnDRmm+qFYKLpk9KwzLEP8BhQvadAsCjV7kP7BeZZPB3j43Utqxgfsuc+tOm1lk0ASFcqHyM/PRtyO5T8fXGXVRo/K3Fj1u1njdWSbtMnZfhdiXFG+q/TDEpcx99cgrgJeob8tFmuxISX3el4tohKVpQuT895GF1Ml1/j4UM4Q3a4HQcU59NFNgjlAo2ZsVMsdvPRl5hv0kMin6fppkbsLwU3ppkuP4BGw1r6YrdjotQu63Mszw5ob0w03f0IYu1NJ4WoyiKWksqQpScRNDc0x/2AQzB8EVN/hrT7QyidZBnP+zMAEXnj3nOh2HxxpNttD963EOY/TFjDmCDuMq2J4OUXBZEx602/ZBMTM/zDfJX4A5hcMLGCjix0AAAAAElFTkSuQmCC

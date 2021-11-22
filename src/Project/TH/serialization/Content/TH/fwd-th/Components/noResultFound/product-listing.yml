@@ -1,0 +1,55 @@
+﻿---
+ID: "8f68f109-31b0-4b02-b903-5036bbbddc96"
+Parent: "3b298e55-d2f8-43ed-9abc-df4bfc2eb0ef"
+Template: "fda900f6-9525-4905-9911-7f2e30875704"
+Path: "/sitecore/content/fwd/fwd-th/Components/noResultFound/product-listing"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Product Listing
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200303T081058Z
+    - ID: "41ee4022-228e-4f45-b929-c630b81d22de"
+      Hint: icon
+      Value: |
+        <image mediaid="{75F4548C-0D61-4BED-AE2F-AF48259A508A}" />
+    - ID: "436cb83b-e18f-4282-856e-97c8bcef3cec"
+      Hint: title
+      Value: No result
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "a94a93a8-22d7-44d0-94b3-288886f35fef"
+      Hint: subTitle
+      Value: |
+        We can’t find any products that match your selected tags.
+        Try selecting fewer tags.
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200414T115656Z
+    - ID: "41ee4022-228e-4f45-b929-c630b81d22de"
+      Hint: icon
+      Value: |
+        <image mediaid="{75F4548C-0D61-4BED-AE2F-AF48259A508A}" />
+    - ID: "436cb83b-e18f-4282-856e-97c8bcef3cec"
+      Hint: title
+      Value: ไม่มีข้อมูล
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a94a93a8-22d7-44d0-94b3-288886f35fef"
+      Hint: subTitle
+      Value: ไม่มีผลิตภัณฑ์ใดตรงกับแท็กที่คุณเลือก ลองเลือกแท็กที่เฉพาะเจาะจงเพื่อผลการค้นหาที่ดียิ่งขึ้น

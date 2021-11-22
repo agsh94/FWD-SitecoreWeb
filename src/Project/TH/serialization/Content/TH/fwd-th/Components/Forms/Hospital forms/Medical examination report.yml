@@ -1,0 +1,38 @@
+﻿---
+ID: "eb4aea9b-e8b3-4672-893d-d3ef5eb03182"
+Parent: "bb2fd2ec-2f11-47f0-a025-dbd7c8d4ab99"
+Template: "979fdf53-37cb-434c-bbff-f7aaf6abaac0"
+Path: "/sitecore/content/fwd/fwd-th/Components/Forms/Hospital forms/Medical examination report"
+DB: master
+SharedFields:
+- ID: "ff4d8f7a-06bf-45ab-8306-c9bf727c5bd9"
+  Hint: buttonIcon
+  Value: "{A03E086C-A7FD-4FD0-8D38-AA313D696179}"
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200608T123749Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74eb711f-f1e9-4622-a04d-94f5ae11ef15"
+      Hint: description
+      Value:  
+    - ID: "c9430c02-23e5-4887-87e5-872059655027"
+      Hint: topics
+      Value: "{D854F25C-2C61-4F6D-9348-A9652418B97F}"
+    - ID: "d57a04ff-b168-4c1e-8221-799439725666"
+      Hint: title
+      Value: รายงานผลตรวจสุขภาพสำหรับผู้ใหญ่
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="รายงานผลตรวจสุขภาพสำหรับผู้ใหญ่" linktype="media" target="" id="{319A4332-0C78-4542-AEF1-D820EDEFF3CE}" />
+    - ID: "f55ccf38-f0bf-4b15-b4e9-edb6e07245b4"
+      Hint: contentType
+      Value: "{04E7400A-22DE-4392-A4AD-B78B7AA3B7A3}"

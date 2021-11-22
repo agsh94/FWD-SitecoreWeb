@@ -1,0 +1,38 @@
+﻿---
+ID: "dfa7d62f-6b86-4b7c-b43c-3db88a6a44d9"
+Parent: "12e82dcb-b455-423f-8cf0-b20fc75fcae7"
+Template: "31c926ae-86fb-4275-acb9-ef1447ebd0f9"
+Path: "/sitecore/content/fwd/fwd-th/Home/Splash Page/local-folder/Splash"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A27CC777-869B-4FCB-9215-096EC71B4C3E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210106T082033Z
+    - ID: "321af026-a453-4e6e-9433-6cb5c36bd5f0"
+      Hint: imageLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{D9C6779B-43E9-4106-8357-AD0510A8547C}" />
+    - ID: "4cba66e5-da51-4b5a-87d8-f289063e1a15"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{F4D727C5-251B-4AA2-B748-3FB9808C246B}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "98d6c289-8c3a-4358-a935-028691fbf90d"
+      Hint: image
+      Value: |
+        <image mediaid="{F4D727C5-251B-4AA2-B748-3FB9808C246B}" />
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: |
+        <link text="About-Us" anchor="About-Us" linktype="internal" class="" title="Test"  querystring="" id="{49F0D81D-2E91-44B2-9F6E-3267BABAFA41}" />

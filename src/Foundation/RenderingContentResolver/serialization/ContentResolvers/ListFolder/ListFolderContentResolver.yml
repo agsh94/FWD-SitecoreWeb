@@ -1,0 +1,37 @@
+﻿---
+ID: "6fd13f8a-1d46-46b4-b3d3-80b5a15cbcd9"
+Parent: "c626493f-1cc3-4986-a701-f28b83d649f7"
+Template: "814c1dbb-b118-4511-ba2b-7288ed3d490b"
+Path: /sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/ListFolderContentResolver
+DB: master
+SharedFields:
+- ID: "23b859e1-34f9-4711-a46a-dc0d616584ce"
+  Hint: ItemSelectorQuery
+  Value: 
+- ID: "52b17c6d-d151-46c5-a986-b88050073ef0"
+  Hint: UseContextItem
+  Type: Checkbox
+  Value: 0
+- ID: "de218ede-a9ad-4b04-86c5-9ff593ccf39d"
+  Hint: Type
+  Value: FWD.Features.Global.ListFolderContentResolver, FWD.Features.Global
+- ID: "fb43a64d-060f-4fa9-b1c3-1511442175e1"
+  Hint: IncludeServerUrlInMediaUrls
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: List Folder Content Resolver
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171130T235640Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,23 @@
+﻿---
+ID: "b4eee75b-ca16-40a0-adc8-62ac50159ebb"
+Parent: "89d5b135-511d-4b26-849c-e9576d6f7725"
+Template: "b5e7b47e-3ee9-4427-8737-f48ce39d600c"
+Path: "/sitecore/content/fwd/fwd-th/Home/fwdmax/Health/cancer-knockout/local-folder/ArticleDetails/Description"
+DB: master
+Languages:
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200402T165957Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\wit
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p><strong>เลี่ยงอาการขี้เกียจออกกำลังกาย</strong><strong></strong><strong>ขยับนิดๆ</strong><strong></strong><strong>หน่อยๆ</strong><strong></strong><strong>ก็ฟิตได้</strong></p>
+        <p>&ldquo;ไม่มีเวลาออกกำลังกาย&rdquo;&nbsp;จะไม่สามารถนำมาใช้เป็นข้ออ้างได้อีกต่อไปแล้วจากนี้ไปให้เราคิดเสียใหม่ว่าแค่ขยับเท่ากับออกกำลังกาย&nbsp;เริ่มง่ายๆ&nbsp;อย่างระหว่างการแต่งตัวไปทำงานตอนเช้านั้น&nbsp;ก็สามารถออกกำลังกายได้ด้วยการฝึกทรงตัวยืนขาเดียว&nbsp;หรือระหว่างทำงานก็เหยียดแขน&nbsp;ขยับตัวซ้ายขวาสักหน่อย&nbsp;เป็นการฝึกสร้างความสมดุลให้กับร่างกายในส่วนของกระดูกสันหลัง&nbsp;กระดูกเชิงกราน&nbsp;และกระเพาะอาหาร&nbsp;ให้กระดูกแข็งแรง&nbsp;ลดความเสี่ยงของโรคที่เกี่ยวข้องกับกระดูก&nbsp;ห่างไกลกระดูกพรุน&nbsp;และอย่างตอนนั่งทำงานก็ต้องขยับร่างกาย&nbsp;ลุกเดินไปเดินมาบ้าง&nbsp;เพื่อที่จะได้ไม่เป็นออฟฟิศซินโดรม</p>

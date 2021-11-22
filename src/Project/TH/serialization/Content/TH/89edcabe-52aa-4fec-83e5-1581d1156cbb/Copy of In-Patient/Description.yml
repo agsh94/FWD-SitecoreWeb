@@ -1,0 +1,56 @@
+﻿---
+ID: "7ea1b54d-cafe-4218-bbff-49d853dc551b"
+Parent: "f725fe99-890a-49d3-a678-76eac210d667"
+Template: "ad6870d4-2dd6-40ef-a8fa-941ab32cee43"
+Path: "/sitecore/content/fwd/fwd-th/Home/Support/Cash Return Options/local-folder/Out-patient In-patient/Copy of In-Patient/Description"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T075803Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>If your policy has matured and the policy is still in-force, we will pay you a maturity benefit according to the amount in the policy value including any benefits you’re entitled to receive, minus any outstanding policy debt. The life insurance policy will then be terminated. </p>
+        <br />
+        <p>We will inform you 30 days in advance prior to the maturity date. The details, including benefit amount and maturity date, will be sent to you by mail.</p>
+        <br />
+        <p>By default, we will mail your maturity benefit by cheque on your policy maturity date. If you want to receive your maturity benefit via bank transfer instead, you may also send us the following documents:</p>
+        <ul>
+            <li>Original policy booklet or a copy of the policy report in case of a lost policy</li>
+            <li>A certified true copy of your identification card</li>
+            <li>A certified true copy of your bank book showing your bank account number</li>
+        </ul>
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200606T081259Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joseph
+    - ID: "8a22f96c-782f-47ed-9e47-0416fc198a33"
+      Hint: description
+      Value: |
+        <p>บริษัทฯ จะจ่ายเงินครบกำหนดสัญญาให้กับผู้เอาประกันภัยตามข้อกำหนดการจ่ายผลประโยชน์ที่ระบุใน<br />กรมธรรม์ เมื่อกรมธรรม์ครบกำหนดสัญญาในขณะที่กรมธรรม์ประกันภัยมีผลบังคับ</p>
+        <br />
+        <p>บริษัทฯ จะหักหนี้สินผูกพันกรมธรรม์ประกันภัยที่ค้างชำระ (ถ้ามี) ออกก่อน โดยแจ้งให้ทราบล่วงหน้า 30 วันก่อนครบกำหนดสัญญาทางไปรษณีย์</p>
+        <br />
+        <p>โดยปกติบริษัทฯ จะจ่ายเงินครบกำหนดสัญญาตามกรมธรรม์ประกันภัยเป็นเช็ค ลงวันที่ครบกำหนดสัญญา แต่หากลูกค้าประสงค์ขอรับเงินครบกำหนดสัญญาตามกรมธรรม์ผ่านบัญชีธนาคาร แทนการจ่ายด้วยเช็ค กรุณาส่งเอกสารเพื่อแจ้งความประสงค์ดังนี้ </p>
+        <ul>
+            <li>ใบคำขอเปลี่ยนแปลง / ต่ออายุกรมธรรม์</li>
+            <li>สำเนาบัตรประชาชน พร้อมรับรองสำเนาถูกต้อง</li>
+            <li>สำเนาหน้าสมุดบัญชีออมทรัพย์/กระแสรายวัน ธนาคารพาณิชย์ที่แสดงหมายเลขบัญชี พร้อมรับรองสำเนาถูกต้อง </li>
+        </ul>
+        

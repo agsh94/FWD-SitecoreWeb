@@ -1,0 +1,66 @@
+﻿---
+ID: "2f5460e6-a9c5-431d-824e-c606aa82099a"
+Parent: "4c09c854-ba48-4bdb-a187-2cce9b5a2f41"
+Template: "8ad5bb9c-b124-437e-a0c3-34149b049fac"
+Path: "/sitecore/content/fwd/fwd-th/Home/Testing/home-page/branding-pages/stepper-component/accident-and-health/local-folder/claim-process/step-1/receive-sms-to-confirm-the-status"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Receive SMS to confirm the status
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09325934-6951-45ec-bd07-c7fc996855b3"
+      Hint: description
+      Value: K Mai is 35 years old and married with 3 young kida. She and her husband work hard to give their family a good and easy life. At 75, K. Mai dies. Her kids receive the death benefit, which they use to clear the debts incurred from her business.
+    - ID: "095b37a4-2a84-4177-8231-7a222abc9623"
+      Hint: mobileImage
+      Value: |
+        <image mediaid="{D9D2F1EA-7E3B-4A23-8944-3471814BAF28}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191215T124449Z
+    - ID: "8a19dcac-8d5b-4e87-b1c9-14ba9ece9248"
+      Hint: subTitle
+      Value: 
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: "Who's K. Mai?"
+    - ID: "eeba35bc-d87b-44d7-bf8e-bd33cf543ac8"
+      Hint: link
+      Value: 
+    - ID: "f6728892-c596-4196-9d50-106592ed0f9f"
+      Hint: image
+      Value: |
+        <image mediaid="{D9D2F1EA-7E3B-4A23-8944-3471814BAF28}" />
+- Language: th
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09325934-6951-45ec-bd07-c7fc996855b3"
+      Hint: description
+      Value: K Mai อายุ 35 ปีและแต่งงานกับ 3 หนุ่ม kida เธอและสามีทำงานหนักเพื่อให้ครอบครัวมีชีวิตที่ดีและสะดวกสบาย ที่ 75 คุณเคเสียชีวิต ลูก ๆ ของเธอได้รับประโยชน์จากการเสียชีวิตซึ่งพวกเขาใช้เพื่อล้างหนี้สินที่เกิดจากธุรกิจของเธอ
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T085052Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "6f97d26d-9804-4b6f-8c0b-c93c8381e3ec"
+      Hint: imageLink
+      Value: |
+        <link linktype="internal" />
+    - ID: "8a19dcac-8d5b-4e87-b1c9-14ba9ece9248"
+      Hint: subTitle
+      Value: 
+    - ID: "8cb55724-cf49-473c-b7b6-c46b62b0afc3"
+      Hint: title
+      Value: คุณใหม่ไหม
+    - ID: "f6728892-c596-4196-9d50-106592ed0f9f"
+      Hint: image
+      Value: |
+        <image mediaid="{D9D2F1EA-7E3B-4A23-8944-3471814BAF28}" />

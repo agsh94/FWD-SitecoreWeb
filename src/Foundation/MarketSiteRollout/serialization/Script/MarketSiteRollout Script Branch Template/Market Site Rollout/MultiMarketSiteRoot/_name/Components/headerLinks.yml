@@ -1,0 +1,22 @@
+﻿---
+ID: "e8c322ed-a7d4-4bab-bdf0-c8399f335516"
+Parent: "d7ab1012-c33c-4128-b40f-81cddb79a3d3"
+Template: "a45bb4e7-2e69-488a-b7d2-a8cd1aaf5848"
+Path: /sitecore/templates/Branches/FWD/Foundation/Market Site Rollout/MultiMarketSiteRoot/$name/Components/headerLinks
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1400
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Header Links
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200312T121313Z
